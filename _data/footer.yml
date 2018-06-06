@@ -1,0 +1,67 @@
+# image: Linaro-Logo.svg
+columns:
+    - title: About
+      url: /about/
+      items:
+        - text: Sponsors
+          url: /sponsors/
+        - text: Previous Sponsors
+          url: /sponors/previous/
+        - text: Blog
+          url: /blog/
+    - title: Attend
+      url: /attend/
+      items:
+        - text: Register
+          url : /register/
+        - text: Call for Proposals
+          url : /cfp/
+        - text: Call for Demos
+          url : /demo-friday/
+        - text: Accomodation
+          url : /accomodation/
+        - text: Important Dates
+          url : /important-dates/
+        - text: Visa/Business Invitation Letters
+          url : /invitation-letters/
+        - text: Code of Conduct
+          url : /code-of-conduct/
+    - title: Resources
+      url: "/resources/"
+      items:
+         - text: HKG18
+           url : /resources/hkg18/
+         - text: SFO17
+           url : /resources/sfo17/
+         - text: BUD17
+           url : /resources/bud17/
+         - text: LAS16
+           url : /resources/las16/
+         - text: BKK16
+           url : /resources/bkk16/
+         - text: SFO15
+           url : /resources/sfo15/
+    - title: Social Media
+      items:
+         - text: Github
+           url : https://github.com/linaro
+         - text: Facebook
+           url : https://www.facebook.com/LinaroOrg
+         - text: Youtube
+           url : https://www.youtube.com/user/linaroorg
+         - text: Twitter
+           url : https://twitter.com/linaroorg
+         - text: News Hub
+           url : /hub/
+         - text: OnAir
+           url : https://www.youtube.com/user/linaroOnAir
+
+companylinks:
+    - name: Careers
+      url: /careers/
+    - name: Legal
+      url: /legal/
+    - name: Sitemap
+      url: /sitemap.xml
+    - name: Contact
+      url: /contact/

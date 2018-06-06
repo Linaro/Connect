@@ -1,0 +1,12 @@
+//= require vendor/jquery
+//= require vendor/bootstrap
+//= require vendor/mc
+//= require vendor/cookieconsent
+//= require vendor/owl.carousel
+//= require vendor/lazysizes
+//= require vendor/ls.unveilhooks
+//= require app/sticky-tab-bar
+
+//= require app/main
+//= require app/about
+//= require app/tables
