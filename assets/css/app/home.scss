@@ -574,3 +574,17 @@ p#buttons {
 div#featured-jumbotron {
     margin-bottom: $navbar-height + 20;    
 }
+#featured-jumbotron h2, #featured-jumbotron h3 {
+    color: white;
+}
+#wrapper #homepage-header a.btn.btn-linaro-home:hover {
+    background-color: #000;
+}
+
+// Connect YVR18
+img.fade-in-one.img-responsive.center-block {
+    height: 200px;
+}
+h3.connect-location {
+    font-weight: normal;
+}
