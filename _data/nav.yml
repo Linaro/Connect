@@ -11,7 +11,8 @@ brand:
     text: Linaro
     image: 
         enabled: true
-        name: connect-logo-main.png
+        # name: connect-logo-main.png
+        name: YVR18-logo-horizontal.png
     url: /
 pages:
     - title: About
