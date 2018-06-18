@@ -1,5 +1,5 @@
 # Website title - used in the <title> tag of the <head> section of the website.
-title: Linaro Connect
+title: Linaro Connect Vancouver 2018 (YVR18)
 # Description of the website used in the Meta Description.
 description: > # this means to ignore newlines until "baseurl:"
   Linaro Connect Vancouver 2018 (YVR18) will take place at the Hyatt Regency in Vancouver, 17-21 September 2018.
@@ -129,7 +129,7 @@ assets:
     - assets/js/vendor/
     - assets/js/app/
     - assets/images
-    - assets/images/members
+    - assets/images/sponsors
     - assets/images/people
     - assets/images/content
     - assets/images/blog
