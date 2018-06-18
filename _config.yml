@@ -8,7 +8,7 @@ destination: _site
 # Include the Linaro Jekyll Theme
 theme: jumbo-jekyll-theme
 # Permalink for the blog posts of the Jekyll website.
-permalink: /:categories/:title/
+permalink: /blog/:title/
 # Syntax highlighter for 96boards blog
 highlighter: rouge
 # Markdown version
@@ -29,7 +29,7 @@ disqus: true
 disqus_shortname: 'linaroconnect'
 
 # This is the url that is used when your site is built for canonicals etc.
-url: "https://www.linaro.org"
+url: "https://connect.linaro.org"
 # url: "https://www.site-test.linaro.org"
 
 # Make sure that Liquid errors stop the build
@@ -251,18 +251,20 @@ mini_magick:
         thumbnail: "500x500>"
         gravity: "Center"
         extent: "500x500"
-
-
+        
 using_assets: true
 
 # Jekyll Collections configuration - Projects, Products and Documentation.
+# defaults:
+#     - scope:
+#           path: "_resources/"
+#       values:
+#           permalink: /:collection/
+          
 collections:
-    company:
+    resources:
         output: true
-        permalink: /:collection/:name/
-    core:
-        output: true
-        permalink: /:collection/:path/
+        permalink: /:collection/:categories/:title/
     projects:
         output: true
         permalink: /:collection/:path/
