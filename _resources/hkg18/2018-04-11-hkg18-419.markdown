@@ -1,0 +1,62 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-419.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-419.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:14:39+00:00
+excerpt: OpenHPC is slowly moving to Ansible, but with radically different deployments
+  (x86 vs ARM, different components, network topology/technology, etc), we need to
+  find the right balance between what stays in OpenHPC and what's private, as well
+  as how to update our auto-generated documents from Ansible rules.
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-419/
+session_id: HKG18-419
+session_track: Enterprise
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18419-openhpc-on-ansible
+slug: hkg18-419
+speakers: Renato Golin,Takeharu KATO
+title: HKG18-419 - OpenHPC on Ansible
+video_length: '25:33'
+video_thumbnail: None
+wordpress_id: 8826
+youtube_video_url: https://www.youtube.com/watch?v=zmndI30Im70
+categories:
+- hkg18
+post_format:
+- Video
+---
+
+Session ID: HKG18-419
+Session Name: HKG18-419 - OpenHPC on Ansible
+Speaker: Renato Golin,Takeharu KATO
+Track: Enterprise
+
+
+★ Session Summary ★
+OpenHPC is slowly moving to Ansible, but with radically different deployments (x86 vs ARM, different components, network topology/technology, etc), we need to find the right balance between what stays in OpenHPC and what's private, as well as how to update our auto-generated documents from Ansible rules.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-419/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-419.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-419.mp4
+ ---------------------------------------------------
+★ Event Details ★
+hkg18
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Enterprise
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Renato Golin,Takeharu KATO
+
+Speaker Positions: HPC-SIG Tech Lead,Engineer
+
+

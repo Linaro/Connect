@@ -1,0 +1,60 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-508.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-508.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:14:39+00:00
+excerpt: An overview of Fedora Atomic for IoT running on ARM (aarch64 and ARMv7) platforms
+  acting as a gateway to Zephyr devices. An overview of atomic and how OSTree, the
+  underlying technology of Fedora Atomic, makes IoT useful for stress free upgrades.
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-508/
+session_id: HKG18-508
+session_track: IoT, Embedded
+slug: hkg18-508
+speakers: Peter Robinson
+title: HKG18-508 - An overview of Fedora Atomic for IoT running on ARM
+video_length: '24:03'
+video_thumbnail: None
+wordpress_id: 8845
+youtube_video_url: https://www.youtube.com/watch?v=tp_9C_VDbzY
+categories:
+- hkg18
+post_format:
+- Video
+---
+
+Session ID: HKG18-508
+Session Name: HKG18-508 - An overview of Fedora Atomic for IoT running on ARM
+Speaker: Peter Robinson
+Track: IoT, Embedded
+
+
+★ Session Summary ★
+An overview of Fedora Atomic for IoT running on ARM (aarch64 and ARMv7) platforms acting as a gateway to Zephyr devices. An overview of atomic and how OSTree, the underlying technology of Fedora Atomic, makes IoT useful for stress free upgrades.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-508/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-508.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-508.mp4
+ ---------------------------------------------------
+★ Event Details ★
+hkg18
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: IoT, Embedded
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Peter Robinson
+
+Speaker Positions: Senior Software Engineer
+
+
