@@ -1,0 +1,59 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-308%20Mini%20Conference%202%20Cortex-M%20Software%20-%20Security%20Architecture.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:51+00:00
+excerpt: 'For connected embedded systems we can broadly consider security across four
+  different areas: Security within a cloud application/platform. Lifecycle security
+  for large deployments of embedded devices. Communication security between internet
+  connected systems. Local device security implemented within end nodes. Each connected
+  end node needs to support aspects of lifecycle, communication and device security
+  according to application needs. It is not scalable (or secure or productive) to
+  start from scratch, implementing all of these aspects for each development. It is
+  also not a good idea to implement static, closed, proprietary security systems which
+  rely more on “security by obscurity” than on thorough, continuous and open validation
+  of security implementations. Developers need comprehensive and flexible SW security
+  frameworks with strong links to MCU HW security features that enable them to efficiently
+  implement, validate and deploy “right sized” security solutions. This session will
+  discuss the solutions that are available today, how to reason effectively about
+  application security requirements and opportunities to evolve embedded security
+  solutions in the future.'
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-308/
+session_id: LAS16-308
+session_track: Mini-Conference
+slideshare_presentation_url: None
+slug: las16-308
+speakers: Paul Bakker
+title: 'LAS16-308: Mini Conference 2 Cortex-M Software - Security Architecture for
+  Cortex-M'
+video_length: '43:47'
+video_thumbnail: None
+wordpress_id: 3832
+youtube_video_url: https://www.youtube.com/watch?v=AQrmbX6R1aY
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- IoT
+- LITE
+---
+
+LAS16-308: Mini Conference 2 Cortex-M Software - Security Architecture for Cortex-M
+Speakers: Paul Bakker
+Date: September 28, 2016
+
+★ Session Description ★
+For connected embedded systems we can broadly consider security across four different areas: Security within a cloud application/platform. Lifecycle security for large deployments of embedded devices. Communication security between internet connected systems. Local device security implemented within end nodes. Each connected end node needs to support aspects of lifecycle, communication and device security according to application needs. It is not scalable (or secure or productive) to start from scratch, implementing all of these aspects for each development. It is also not a good idea to implement static, closed, proprietary security systems which rely more on “security by obscurity” than on thorough, continuous and open validation of security implementations. Developers need comprehensive and flexible SW security frameworks with strong links to MCU HW security features that enable them to efficiently implement, validate and deploy “right sized” security solutions. This session will discuss the solutions that are available today, how to reason effectively about application security requirements and opportunities to evolve embedded security solutions in the future.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-308
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-308/](http://connect.linaro.org/resource/las16/las16-308/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

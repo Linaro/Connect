@@ -1,0 +1,31 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-118%20-%20Status%20of%20AOSP%20TV%20Project.pdf
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:29+00:00
+excerpt: LHG has recently launched an AOSP TV lead project which is focused on specific
+  TV use cases using Android from AOSP for TV form factor. This presentation will
+  describe the current AOSP TV builds on 96Boards and the strategy for Android TV
+  for members and the community.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-118/
+session_id: BUD17-118
+session_track: LMG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17118-status-of-android-aosp-tv
+slug: bud17-118
+speakers: Khasim Syed Mohammed
+title: Status of Android “AOSP” TV - BUD17-118
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4631
+youtube_video_url: None
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+---
+
+LHG has recently launched an AOSP TV lead project which is focused on specific TV use cases using Android from AOSP for TV form factor. This presentation will describe the current AOSP TV builds on 96Boards and the strategy for Android TV for members and the community.
+
+Event Date: March 7, 2017

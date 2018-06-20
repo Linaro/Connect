@@ -1,0 +1,30 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/lca14/presentations/LCA14-405-
+  Creating test plan (workshop).pdf
+author: kyle.kirkby
+comments: true
+date: 2015-07-24 14:04:14+00:00
+excerpt: Help test leads to create test plans that show clearly what and when to test,
+  where the results and defects are logged and what are the QA metrics for the project.
+layout: post
+link: http://connect.linaro.org/resource/lca14/lca14-405/
+session_id: LCA14-405
+session_track: Automation and Validation
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/lca14-405-creatingtestplanworkshop
+slug: lca14-405
+speakers: Milosz Wasilewski
+title: 'LCA14-405: Creating test plan (workshop)'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 2123
+categories:
+- Linaro Connect Asia 2014
+post_format:
+- Video
+tags:
+- Automation and Validation
+- 'LCA14-405: Creating test plan (workshop)'
+- Milosz Wasilewski
+---
+
+No Content Found

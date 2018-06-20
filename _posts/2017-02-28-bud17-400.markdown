@@ -1,0 +1,64 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-400%20-%20Secure%20Data%20Path%20with%20OPTEE.pdf
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:47+00:00
+excerpt: LHG is using the ION-based secure memory allocator integrated with OPTEE
+  as the basis for secure data path processing pipeline. LHG is following the W3C
+  EME protocol and supporting Content Decryption Modules (CDMs) from Widevine and
+  PlayReady.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-400/
+session_id: BUD17-400
+session_track: LHG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17400-secure-data-path-with-optee
+slug: bud17-400
+speakers: Mark Gregotski
+title: Secure Data Path with OPTEE - BUD17-400
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4691
+youtube_video_url: https://youtu.be/6JdzsWZq4Ls
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- LHG
+- OPTEE
+- secure-data
+---
+
+"Session ID: BUD17-400
+Session Name: Secure Data Path with OPTEE - BUD17-400
+Speaker: Mark Gregotski
+Track: LHG
+
+
+★ Session Summary ★
+LHG is using the ION-based secure memory allocator integrated with OPTEE as the basis for secure data path processing pipeline. LHG is following the W3C EME protocol and supporting Content Decryption Modules (CDMs) from Widevine and PlayReady.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-400/
+Presentation: https://www.slideshare.net/linaroorg/bud17400-secure-data-path-with-optee
+Video: https://youtu.be/6JdzsWZq4Ls
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: LHG, secure-data, OPTEE
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

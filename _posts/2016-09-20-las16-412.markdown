@@ -1,0 +1,28 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:59+00:00
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-412/
+session_id: LAS16-412
+session_track: 96Boards
+slideshare_presentation_url: None
+slug: las16-412
+speakers: Robert Wolff
+title: 'LAS16-412: OpenHours'
+video_length: '50:20'
+video_thumbnail: None
+wordpress_id: 4026
+youtube_video_url: https://www.youtube.com/watch?v=29yWWbXa8p8
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+---
+
+LAS16-412 96Boards Openhours
+Speaker: Robert Wolff
+★ Session Summary ★
+96Boards will be hosting Openhours live from Linaro Connect! Join us in person or remotely to talk about all things 96Boards related.

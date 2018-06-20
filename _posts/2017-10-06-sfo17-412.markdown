@@ -1,0 +1,67 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-412%20-%20ION%20BoF.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-412%20-%20BoF-%20ION.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:55:58+00:00
+excerpt: "ION has undergone a lot of change upstream in its bid to be de-staged. We’d\
+  \ give a brief update on what’s changed, the proposed libion changes, and then we’d\
+  \ like to discuss:\n - [Actionable] feedback from members about what additional\
+  \ features does the upstream ION need to still support\n - How can we encourage\
+  \ them to submit changes\n - Any other ideas around ION in mainline."
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-412/
+session_id: SFO17-412
+session_track: LMG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bof-ion-sfo17412
+slug: sfo17-412
+speakers: Laura Abbott - Sumit Semwal
+title: 'BoF: ION - SFO17-412'
+video_length: '44:10'
+video_thumbnail: None
+wordpress_id: 6064
+youtube_video_url: https://www.youtube.com/watch?v=jkeFoqbEMJQ
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-412
+Session Name: BoF: ION - SFO17-412
+Speaker: Laura Abbott - Sumit Semwal
+Track: LMG
+
+★ Session Summary ★
+ION has undergone a lot of change upstream in its bid to be de-staged. We’d give a brief update on what’s changed, the proposed libion changes, and then we’d like to discuss:
+- [Actionable] feedback from members about what additional features does the upstream ION need to still support
+- How can we encourage them to submit changes
+- Any other ideas around ION in mainline.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-412/
+Presentation:
+Video: https://www.youtube.com/watch?v=jkeFoqbEMJQ
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword:
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 28 Sept 2017
+
+Speakers: Laura Abbott - Sumit Semwal
+
+Position: Fedora Kernel Engineer at Red Hat / Senior Engineer at Linaro

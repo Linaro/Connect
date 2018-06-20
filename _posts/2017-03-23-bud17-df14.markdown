@@ -1,0 +1,28 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
+author: celia.ilardi
+comments: false
+date: 2017-03-23 16:48:50+00:00
+excerpt: Optimized Android N MR1 + 4.4 Kernel
+layout: post
+link: http://connect.linaro.org/resource/bud17/demo/bud17-df14/
+session_id: BUD17-DF14
+session_track: Optimized Android N MR1 + 4.4 Kernel
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/optimized-android-n-mr1-44-kernel
+slug: bud17-df14
+speakers: LMG
+title: Optimized Android N MR1 + 4.4 Kernel-BUD17-DF14
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 5700
+youtube_video_url: None
+categories:
+- Demo Friday
+post_format:
+- Video
+---
+
+Boot optimized and HWA MM capabilities on  Android N MR1 with 4.4 kernel
+
+Team:LMG

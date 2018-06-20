@@ -1,0 +1,66 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-117%20Auto-vectorization-support-in-OpenJDK9-Hotspot-C2-compiler.pptx.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Monday/BUD17-117%20Auto%20vectorization%20support%20in%20OpenJDK9%20AArch64%20Hotspot%20C2%20compiler.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:27+00:00
+excerpt: OpenJDK is an implementation of the Java SE and Linaro has been involved
+  into OpenJDK aarch64 support since 2014. In this session, we will take a look at
+  auto vectorization support in the OpenJDK9 hotspot C2 compiler, especially the NEON
+  support in AArch64 backend. Some potential optimization points of vectorization
+  in OpenJDK9 Hotspot (especially for AArch64 backend) are also described.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-117/
+session_id: BUD17-117
+session_track: LEG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/auto-vectorization-support-in-openjdk9-hotspot-c2-compiler-bud1711
+slug: bud17-117
+speakers: Stuart Monteith
+title: Auto vectorization support in OpenJDK9 Hotspot C2 compiler - BUD17-117
+video_length: '13:06'
+video_thumbnail: None
+wordpress_id: 4630
+youtube_video_url: https://www.youtube.com/watch?v=ObxEWxAlGno
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- C2
+- Hotspot
+- OpenJDK9
+- Stuart Monteith
+- vectorization
+---
+
+Session ID: BUD17-117
+Session Name: Auto vectorization support in OpenJDK9 Hotspot C2 compiler - BUD17-117
+Speaker: Stuart Monteith
+Track: LEG
+
+★ Session Summary ★
+OpenJDK is an implementation of the Java SE and Linaro has been involved into OpenJDK aarch64 support since 2014. In this session, we will take a look at auto vectorization support in the OpenJDK9 hotspot C2 compiler, especially the NEON support in AArch64 backend. Some potential optimization points of vectorization in OpenJDK9 Hotspot (especially for AArch64 backend) are also described.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-117/
+Presentation: https://www.slideshare.net/linaroorg/auto-vectorization-support-in-openjdk9-hotspot-c2-compiler-bud1711
+Video: https://youtu.be/ObxEWxAlGno
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: OpenJDK9, C2, vectorization, Stuart Monteith, Hotspot
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961

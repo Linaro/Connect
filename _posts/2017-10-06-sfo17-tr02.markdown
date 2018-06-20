@@ -1,0 +1,61 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-TR02%20-%20Upstreaming%20101.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-TR02%20Upstreaming%20101.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:54:55+00:00
+excerpt: Introduction to the mechanics and norms of upstreaming
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-tr02/
+session_id: SFO17-TR02
+session_track: None
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/upstreaming-101-sfo17tr02
+slug: sfo17-tr02
+speakers: Daniel Lezcano
+title: Upstreaming 101 - SFO17-TR02
+video_length: '57:13'
+video_thumbnail: None
+wordpress_id: 5997
+youtube_video_url: https://www.youtube.com/watch?v=0PQDiNGICBc
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-TR02
+Session Name: Upstreaming 101
+- SFO17-TR02
+Speaker: Daniel Lezcano
+Track:
+
+★ Session Summary ★
+Introduction to the mechanics and norms of upstreaming
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-tr02/
+Presentation: https://www.slideshare.net/linaroorg/upstreaming-101-sfo17tr02
+Video: https://www.youtube.com/watch?v=0PQDiNGICBc
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword:
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 27 Sept 2017
+
+Speakers: Daniel Lezcano
+
+Position:

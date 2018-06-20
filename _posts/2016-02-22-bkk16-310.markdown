@@ -1,0 +1,36 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-310.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Wednesday/BKK16-310%20HiKey%20and%20AOSP%20collaborative%20experience.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:46+00:00
+excerpt: An overview of collaborative effort done by Builds and Baselines, LMG, 96boards
+  and HiKey landing team in getting HiKey integrated into AOSP. Covers work on the
+  AOSP common.git branches, cross kernel/bootloader feature work that provides more
+  form-factor like integration not commonly found on devboards, lessons learned, etc.
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-310/
+session_id: BKK16-310
+session_track: LMG
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16310-the-hikey-aosp-collaborative-experience
+slug: bkk16-310
+speakers: "John\nAmit \nGuodong,\nVishal"
+title: 'BKK16-310: HiKey and AOSP collaborative experience'
+video_length: '38:35'
+video_thumbnail: None
+wordpress_id: 3353
+youtube_video_url: www.youtube.com/watch?v=-66e2sB2dbk
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- 96Boards
+- AOSP
+- HiKey
+- LMG
+---
+
+An overview of collaborative effort done by Builds and Baselines, LMG, 96boards and HiKey landing team in getting HiKey integrated into AOSP. Covers work on the AOSP common.git branches, cross kernel/bootloader feature work that provides more form-factor like integration not commonly found on devboards, lessons learned, etc.
+
+Event Date: March 9, 2016

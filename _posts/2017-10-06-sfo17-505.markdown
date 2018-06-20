@@ -1,0 +1,67 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-505%20Deadline%20Scheduling%20Accounting%2C%20CPUset%20and%20CPUhotplug.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-505%20-%20Deadline%20Scheduling%20Accounting%252C%20CPUsets%20and%20CPUhotplug.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:56:29+00:00
+excerpt: "There is a long standing feature interaction problem between CPUset topology\
+  \ changes, CPUhotplug operations and deadline scheduling metrics.\n \n After giving\
+  \ a short introduction of what the issues are the session will focus on the proposed\
+  \ solution and the feedback received from the mailing list and any conversation\
+  \ held at Linux Plumbers."
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-505/
+session_id: SFO17-505
+session_track: Kernel
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/deadline-scheduling-accounting-cpusets-and-cpuhotplug-sfo17505
+slug: sfo17-505
+speakers: Mathieu Poirier
+title: Deadline Scheduling Accounting, CPUsets and CPUhotplug - SFO17-505
+video_length: '38:49'
+video_thumbnail: None
+wordpress_id: 6084
+youtube_video_url: https://www.youtube.com/watch?v=ffqO6Otaj5I
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-505
+Session Name: Deadline Scheduling Accounting, CPUsets and CPUhotplug - SFO17-505
+Speaker: Mathieu Poirier
+Track: Kernel
+
+
+★ Session Summary ★
+There is a long standing feature interaction problem between CPUset topology changes, CPUhotplug operations and deadline scheduling metrics.
+ 
+ After giving a short introduction of what the issues are the session will focus on the proposed solution and the feedback received from the mailing list and any conversation held at Linux Plumbers.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-505/
+Presentation: https://www.slideshare.net/linaroorg/deadline-scheduling-accounting-cpusets-and-cpuhotplug-sfo17505
+Video: https://www.youtube.com/watch?v=ffqO6Otaj5I
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 
+
+Speakers: Mathieu Poirier
+
+Position: Engineer at Linaro

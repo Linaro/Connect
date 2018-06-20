@@ -1,0 +1,36 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
+author: celia.ilardi
+comments: false
+date: 2017-03-21 15:45:25+00:00
+excerpt: Mcuboot for IoT
+layout: post
+link: http://connect.linaro.org/resource/bud17/demo/bud17-df11/
+session_id: BUD17-DF11
+session_track: Mcuboot for IoT
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/mcuboot-for-iot
+slug: bud17-df11
+speakers: LITE
+title: Mcuboot for IoT- BUD17-DF11
+video_length: 05:40
+video_thumbnail: None
+wordpress_id: 5660
+youtube_video_url: https://www.youtube.com/watch?v=t3THQ_wt8uk
+categories:
+- Demo Friday
+post_format:
+- Video
+---
+
+Mcuboot is a shared bootloader used by Zephyr and Mynewt currently. It supports firmware upgrade and signature verification of images.
+
+A shared bootloader between Zephyr and Mynewt
+
+● Verifies signature on boot images
+
+● Safely performs image upgrades
+
+● Demo: Upgrading between Zephyr and Mynewt apps
+
+Team: LITE

@@ -1,0 +1,31 @@
+---
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-18-Thursday/LCU14-411-+From+zero+to+booting+nandroid+with+64bit+support.mp4
+author: kyle.kirkby
+comments: true
+date: 2015-06-30 17:08:23+00:00
+excerpt: "Android on 64bit kernels, 64-bit support in Bionic and the Android Shell\
+  \ -the footpath we had to follow for bootstrapping the Android port for AArch64.\
+  \ In this presentation we will cover the low level implementation details as well\
+  \ as a short history of our project. \n\nAt the end of the session the audience\
+  \ should be ready to boot a shell only Android filesystem, run the low level tests\
+  \ and start submitting patches."
+layout: post
+link: http://connect.linaro.org/resource/lcu14/lcu14-411/
+session_id: LCU14-411
+session_track: Android
+slug: lcu14-411
+speakers: Serban Constantinescu
+title: 'LCU14-411 : From zero to booting nanodroid with 64bit support'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 1560
+categories:
+- Linaro Connect USA 2014
+tags:
+- Android
+- lcu14
+- LCU14-411
+- Serban Constantinescu
+---
+
+No Content Found

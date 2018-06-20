@@ -1,0 +1,28 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-24-Thursday/SFO15-408-
+  ODP-DPDK platform performance.pdf
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2015-09-24 00:00:00+00:00
+layout: post
+link: http://connect.linaro.org/resource/sfo15/sfo15-408/
+session_id: SFO15-408
+session_track: Networking
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15-408-odpdpdk-platform-performance
+slug: sfo15-408
+speakers: None
+title: 'SFO15-408 : ODP-DPDK platform performance'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 2872
+youtube_video_url: None
+categories:
+- Linaro Connect San Francisco 2015
+post_format:
+- Video
+tags:
+- Networking
+---
+
+SFO15-408: ODP-DPDK platform performance --------------------------------------------------- Speaker: Track: Networking --------------------------------------------------- ★ Session Summary ★ --------------------------------------------------- ★ Resources ★ pathable: https://sfo15.pathable.com/meetings/303080 Presentation: http://www.slideshare.net/linaroorg/sfo15-408-odpdpdk-platform-performance Video: Eatherpad: pad.linaro.org/p/sfo15-408 --------------------------------------------------- ★ Event Details ★ Linaro Connect San Francisco 2015 - #SFO15 September 21-25th, 2015 Hyatt Regency San Francisco Airport --------------------------------------------------- > http://www.linaro.org > http://connect.linaro.org

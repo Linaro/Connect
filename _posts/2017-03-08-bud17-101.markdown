@@ -1,0 +1,67 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Monday/BUD17-101%20ILP32%20on%20ARM64.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-03-08 15:40:54+00:00
+excerpt: 'This session is the report on the progress in the development of ILP32 for
+  last year. ILP32 is the new binary execution mode for arm64 platform which supports
+  32-bit data type format. '
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-101/
+session_id: BUD17-101
+session_track: None
+slideshare_presentation_url: None
+slug: bud17-101
+speakers: Yury Norov
+title: ILP32 on ARM64 - BUD17-101
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 5214
+youtube_video_url: https://youtu.be/9L5T5UdDG-A
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- ARM64
+- ILP32
+- Yury Norov
+---
+
+Session ID: BUD17-101
+Session Name: ILP32 on ARM64 - BUD17-101
+Speaker: Yury Norov
+Track:
+
+★ Session Summary ★
+This session is the report on the progress in the development of ILP32 for last year. ILP32 is the new binary execution mode for arm64 platform which supports 32-bit data type format. The main goals are:
+
+- run 32-bit programs w/o hardware emulation of ARMv7 instructions;
+
+- gain better performance;
+
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-101/
+Presentation:
+Video: https://youtu.be/9L5T5UdDG-A
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: ILP32, ARM64, Yury Norov
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961

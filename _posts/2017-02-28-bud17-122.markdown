@@ -1,0 +1,34 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-122%20-%20Linaro%20Test%20Suites%20example%20usage.pdf
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:29+00:00
+excerpt: "In preparation for move from LAVA v1 to LAVA v2 QA team started an effort\
+  \ towards Linaro Test Suites refactoring. The goal was to enable remote (automated)\
+  \ and local test execution of the same tests. As we crossed 50% mark of this task\
+  \ and used the assets in 16.12 ERP testing, we would like to present how it works.\
+  \ The session will show how to use Linaro Test Suites locally and in LAVA (v1 and\
+  \ v2 jobs). Local test execution will be a primary goal. We will demonstrate:\n\n\
+  \  - how to use test-runner script and \n\n  - how to compose or modify local test\
+  \ plan\n\n  - how to execute single test with and without test-runner\n\n  - how\
+  \ to view and interpret the results"
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-122/
+session_id: BUD17-122
+session_track: QA
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17122-linaro-test-suites-example-usage
+slug: bud17-122
+speakers: Milosz Wasilewski, Chase Qi
+title: Linaro Test Suites example usage - BUD17-122
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4635
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+---
+
+In preparation for move from LAVA v1 to LAVA v2 QA team started an effort towards Linaro Test Suites refactoring. The goal was to enable remote (automated) and local test execution of the same tests. As we crossed 50% mark of this task and used the assets in 16.12 ERP testing, we would like to present how it works. The session will show how to use Linaro Test Suites locally and in LAVA (v1 and v2 jobs). Local test execution will be a primary goal. We will demonstrate:    - how to use test-runner script and     - how to compose or modify local test plan    - how to execute single test with and without test-runner    - how to view and interpret the results
+
+Event Date: March 7, 2017

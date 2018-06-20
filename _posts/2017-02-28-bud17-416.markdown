@@ -1,0 +1,63 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-416%20-%20Benchmark%20and%20Profiling%20in%20OP-TEE.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-416%20Benchmark%20and%20profiling%20in%20OP-TEE.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:51+00:00
+excerpt: Benchmark and profiling are two newly developed features in OP-TEE. In this
+  session we will cover what has been done and what is left to do and a bit about
+  how it has been implemented.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-416/
+session_id: BUD17-416
+session_track: Security
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17416-benchmark-and-profiling-in-optee
+slug: bud17-416
+speakers: Jerome Forissier, Igor Opaniuk
+title: Benchmark and profiling in OP-TEE - BUD17-416
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4706
+youtube_video_url: https://youtu.be/gr6AxvqfDds
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- benchmark
+- OP-TEE
+- Security
+---
+
+"Session ID: BUD17-416
+Session Name: Benchmark and profiling in OP-TEE - BUD17-416
+Speaker: Jerome Forissier, Igor Opaniuk
+Track: Security
+
+
+★ Session Summary ★
+Benchmark and profiling are two newly developed features in OP-TEE. In this session we will cover what has been done and what is left to do and a bit about how it has been implemented.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-416/
+Presentation: https://www.slideshare.net/linaroorg/bud17416-benchmark-and-profiling-in-optee
+Video: https://youtu.be/gr6AxvqfDds
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: security, OP-TEE, benchmark
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

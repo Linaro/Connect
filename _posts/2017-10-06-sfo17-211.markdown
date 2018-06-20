@@ -1,0 +1,67 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-211%20%20EDK2%20Platforms.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-211%20EDK2%20Platform%20Support.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:54:33+00:00
+excerpt: The reference UEFI implementation, EDK2, has historically not contained much
+  in the way of actual platform support, and has not had any process for dealing with
+  it. For the past few years, I've instead been running a separate repository called
+  OpenPlatformPkg, containing platform source code. Last year, the process for how
+  to get platform code adopted into TianoCore was imlpemented, and the code in OpenPlatform
+  has (hopefully) now been integrated into the official edk2-platforms repository.
+  This talk gives a summary about the changes in process, code structure and tooling.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-211/
+session_id: SFO17-211
+session_track: LEG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/edk2-platform-support-sfo17211
+slug: sfo17-211
+speakers: Leif Lindholm
+title: EDK2 Platform Support - SFO17-211
+video_length: '45:43'
+video_thumbnail: None
+wordpress_id: 5977
+youtube_video_url: https://www.youtube.com/watch?v=qZgmntvCAxQ
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-211
+Session Name: EDK2 Platform Support
+- SFO17-211
+Speaker: Leif Lindholm
+Track: LEG
+
+★ Session Summary ★
+The reference UEFI implementation, EDK2, has historically not contained much in the way of actual platform support, and has not had any process for dealing with it. For the past few years, I've instead been running a separate repository called OpenPlatformPkg, containing platform source code. Last year, the process for how to get platform code adopted into TianoCore was imlpemented, and the code in OpenPlatform has (hopefully) now been integrated into the official edk2-platforms repository. This talk gives a summary about the changes in process, code structure and tooling.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-211/
+Presentation:
+Video: https://www.youtube.com/watch?v=qZgmntvCAxQ
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword:
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 26 Sept 2017
+
+Speakers: Leif Lindholm
+
+Position: Principal Software Engineer at ARM

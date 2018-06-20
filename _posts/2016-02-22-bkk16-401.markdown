@@ -1,0 +1,39 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-401.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Thursday/BKK16-401%20Enhancing%20Application%20Performance%20with%20ODP.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:51+00:00
+excerpt: 'The promise of ODP is to provide increased portability and performance for
+  data plane applications.  In this talk we discuss several examples of applications
+  using ODP and the resulting benefits that have been seen. Applications being discussed
+  include NGiNX and TRex as well as experiencing using OpenFastPath (OFP), which provides
+  a full TCP/IP stack running on top of ODP.
+
+
+  It is a panel discussion with ODP users sharing their experience. Bill will be hosting
+  the session. Panel will include engineers/architects from LNG members, EZchip &
+  VirtualOpenSystems.'
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-401/
+session_id: BKK16-401
+session_track: LNG
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16401-enhancing-application-performance-with-odp
+slug: bkk16-401
+speakers: Bill Fischofer
+title: 'BKK16-401: ODP User experience discussions'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3365
+youtube_video_url: https://youtu.be/x2BdTJixDtY
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- ODP
+---
+
+The promise of ODP is to provide increased portability and performance for data plane applications.  In this talk we discuss several examples of applications using ODP and the resulting benefits that have been seen. Applications being discussed include NGiNX and TRex as well as experiencing using OpenFastPath (OFP), which provides a full TCP/IP stack running on top of ODP.  It is a panel discussion with ODP users sharing their experience. Bill will be hosting the session. Panel will include engineers/architects from LNG members, EZchip & VirtualOpenSystems.
+
+Event Date: March 10, 2016

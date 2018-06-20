@@ -1,0 +1,60 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Monday/LAS16-104%20MyNewt%20technical%20Overview.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:32+00:00
+excerpt: 'James Pace & Sterling Hughes (Runtime.io) Apache Mynewt is a community-driven,
+  permissively licensed open source initiative for constrained, embedded devices and
+  applications. The emergence of the IoT is proving that anything that can be connected
+  will be. Many of these devices—wristbands and wearables, lightbulbs and locks--must
+  be operated for long periods of time, but are constrained in terms of power, memory,
+  and storage. Apache Mynewt addresses these constraints while remaining hardware
+  agnostic. Apache Mynewt includes the world’s first controller-level open source
+  Bluetooth Low Energy for microcontrollers. Apache Mynewt has 4 main goals: A foundational
+  RTOS and embedded middleware such as boot loaders, file systems / TLV storage, time-series
+  data support; rich instrumentation and logging infrastructure; Solid networking
+  protocol stacks for secure, efficient communications with constrained devices; Simple
+  image and configuration management and instrumentation for ongoing diagnostics,
+  whether at the workbench or in mass deployment; Modularity and easy composability
+  to build an optimized image. This presentation will help developers up and down
+  the stack understand the requirements and challenges of embedded development environments.
+  For embedded developers--whether they are using common maker environments like Arduino
+  or mature product-oriented tools--a fresh approach to permissively licensed open
+  source tools will be presented.'
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-104/
+session_id: LAS16-104
+session_track: LITE
+slideshare_presentation_url: None
+slug: las16-104
+speakers: None
+title: 'LAS16-104: MyNewt technical overview'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3797
+youtube_video_url: https://youtu.be/5KhnjE7zYx4
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- LITE
+---
+
+LAS16-104: MyNewt technical overview
+Speakers:
+Date: September 26, 2016
+
+★ Session Description ★
+James Pace & Sterling Hughes (Runtime.io) Apache Mynewt is a community-driven, permissively licensed open source initiative for constrained, embedded devices and applications. The emergence of the IoT is proving that anything that can be connected will be. Many of these devices—wristbands and wearables, lightbulbs and locks–must be operated for long periods of time, but are constrained in terms of power, memory, and storage. Apache Mynewt addresses these constraints while remaining hardware agnostic. Apache Mynewt includes the world’s first controller-level open source Bluetooth Low Energy for microcontrollers. Apache Mynewt has 4 main goals: A foundational RTOS and embedded middleware such as boot loaders, file systems / TLV storage, time-series data support; rich instrumentation and logging infrastructure; Solid networking protocol stacks for secure, efficient communications with constrained devices; Simple image and configuration management and instrumentation for ongoing diagnostics, whether at the workbench or in mass deployment; Modularity and easy composability to build an optimized image. This presentation will help developers up and down the stack understand the requirements and challenges of embedded development environments. For embedded developers–whether they are using common maker environments like Arduino or mature product-oriented tools–a fresh approach to permissively licensed open source tools will be presented.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-104
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-104/](http://connect.linaro.org/resource/las16/las16-104/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

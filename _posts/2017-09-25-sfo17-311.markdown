@@ -1,0 +1,39 @@
+---
+author: celia.ilardi
+comments: false
+date: 2017-09-25 04:18:30+00:00
+excerpt: For many years, companies have known they need to provide license compliance
+  artifacts (source, annotations, etc.) when they use open source. However the true
+  source of what license apply to which pieces of code resides in the open source
+  projects, and after the fact discovery by companies is time consuming, error prone,
+  and expensive. As a result, license compliance is not always what it should be,
+  and the problem keeps getting worse, and people want to ignore it - and make it
+  someone else's problem. Kind of like the tailors and the Emperor's new clothes.
+  With recent advances in open source projects, like FOSSology, ScanCode and others,
+  integrating scanning for detecting compliance information in CI build loops is now
+  possible, making the ability to be used by the projects, where bugs can be easily
+  fixed. In this talk, Kate will go through some of the current technologies available
+  to help with this problem.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-311/
+session_id: SFO17-311
+slug: sfo17-311
+speakers: Kate Stewart
+title: "Handing the Emperor a towel: automating license compliance information\n -\
+  \ SFO17-311"
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 6024
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-311 Session Name: Handing the Emperor a towel: automating license compliance information  - SFO17-311 Speaker: Kate Stewart Track:    ★ Session Summary ★ For many years, companies have known they need to provide license compliance artifacts (source, annotations, etc.) when they use open source. However the true source of what license apply to which pieces of code resides in the open source projects, and after the fact discovery by companies is time consuming, error prone, and expensive. As a result, license compliance is not always what it should be, and the problem keeps getting worse, and people want to ignore it - and make it someone else's problem. Kind of like the tailors and the Emperor's new clothes. With recent advances in open source projects, like FOSSology, ScanCode and others, integrating scanning for detecting compliance information in CI build loops is now possible, making the ability to be used by the projects, where bugs can be easily fixed. In this talk, Kate will go through some of the current technologies available to help with this problem. --------------------------------------------------- ★ Resources ★ Event Page: http://connect.linaro.org/resource/sfo17/sfo17-311/ Presentation:  Video:   ---------------------------------------------------  ★ Event Details ★ Linaro Connect San Francisco 2017 (SFO17) 25-29 September 2017 Hyatt Regency San Francisco Airport  --------------------------------------------------- Keyword:  http://www.linaro.org http://connect.linaro.org --------------------------------------------------- Follow us on Social Media https://www.facebook.com/LinaroOrg https://twitter.com/linaroorg https://www.youtube.com/user/linaroorg?sub_confirmation=1 https://www.linkedin.com/company/1026961
+
+Event Date: 27 Sept 2017
+
+Speakers: Kate Stewart
+
+Position: 

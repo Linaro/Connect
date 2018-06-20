@@ -1,0 +1,64 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-TR05%20EAS%20Profiling%20on%20Hikey960.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-TR05%20EASv1.3%20Profiling%20On%20Hikey960.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:55:34+00:00
+excerpt: Recently Hikey960 is released with big.LITTLE architecture and has been enabled
+  power management features on AOSP kernel 4.4/4.9; On the other hand, EAS is continuing
+  evolution to v1.3 on AOSP 4.4/4.9. At current stage it’s smooth to joint EAS on
+  Hikey960, this session mainly introduces EASv1.3 profiling on Hikey960 and try to
+  give hints for later deployment and optimization.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-tr05/
+session_id: SFO17-TR05
+session_track: Power Management
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/easv13-profiling-on-hikey960-sfo17tr05
+slug: sfo17-tr05
+speakers: 'Leo Yan & Daniel Thompson '
+title: EASv1.3 Profiling On Hikey960 - SFO17-TR05
+video_length: '52:18'
+video_thumbnail: None
+wordpress_id: 6040
+youtube_video_url: https://www.youtube.com/watch?v=dN2dyKAUEvU
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-TR05
+Session Name: EASv1.3 Profiling On Hikey960 - SFO17-TR05
+Speaker: Leo Yan & Daniel Thompson
+Track: Power Management
+
+★ Session Summary ★
+Recently Hikey960 is released with big.LITTLE architecture and has been enabled power management features on AOSP kernel 4.4/4.9; On the other hand, EAS is continuing evolution to v1.3 on AOSP 4.4/4.9. At current stage it’s smooth to joint EAS on Hikey960, this session mainly introduces EASv1.3 profiling on Hikey960 and try to give hints for later deployment and optimization.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-tr05/
+Presentation: https://www.slideshare.net/linaroorg/easv13-profiling-on-hikey960-sfo17tr05
+Video: https://www.youtube.com/watch?v=dN2dyKAUEvU
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword:
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 28 Sept 2017
+
+Speakers: Leo Yan & Daniel Thompson
+
+Position:

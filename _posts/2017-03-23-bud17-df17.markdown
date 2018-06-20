@@ -1,0 +1,28 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2017-03-23 16:44:51+00:00
+excerpt: IRQ based next event prediction
+layout: post
+link: http://connect.linaro.org/resource/bud17/demo/bud17-df17/
+session_id: BUD17-DF17
+session_track: None
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/next-event-prediction
+slug: bud17-df17
+speakers: None
+title: Next event prediction - BUD17-DF17
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 5704
+youtube_video_url: None
+categories:
+- Demo Friday
+post_format:
+- Video
+---
+
+IRQ based next event prediction
+
+**Team:** Power Management

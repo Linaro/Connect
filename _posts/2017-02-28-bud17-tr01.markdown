@@ -1,0 +1,60 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-TR01%20Philosophy%20of%20the%20Open%20Source.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Tuesday/BUD17-TR01%20Philosophy%20of%20Open%20Source.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:38+00:00
+excerpt: What is the history and culture of Open Source?
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-tr01/
+session_id: BUD17-TR01
+session_track: None
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17tr01-philosophy-of-open-source
+slug: bud17-tr01
+speakers: Daniel Lezcano
+title: Philosophy of Open Source - BUD17-TR01
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4661
+youtube_video_url: https://youtu.be/evg9EtK8cPk
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- '101'
+- Upstreaming
+---
+
+Session ID: BUD17-TR02
+Session Name: Upstreaming 101 - BUD17-TR02
+Speaker:
+Track:
+
+
+★ Session Summary ★
+Introduction to the mechanics and norms of upstreaming
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-tr02/
+Presentation: https://www.slideshare.net/linaroorg/bud17tr02-upstreaming-101
+Video: https://youtu.be/S-zoQNNn-Q0
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: Upstreaming, 101
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961

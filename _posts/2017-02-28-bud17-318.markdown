@@ -1,0 +1,68 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-318%20-%20Navigating%20the%20ABI%20for%20the%20ARM%20Architecture.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-318%20Navigating%20the%20ABI%20for%20the%20ARM%20Architecture.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:44+00:00
+excerpt: "The ABI for a platform is defined by a multi-layered series of documents,\
+  \ with the ARM specific parts are largely defined by the ABI for the ARM architecture.\
+  \ This presentation will describe the structure of the ABI documentation and some\
+  \ of the design principles used in its construction.\n \nThis presentation is aimed\
+  \ at software developers wanting to understand how to find information about the\
+  \ ABI, what they can rely upon and what they can extend"
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-318/
+session_id: BUD17-318
+session_track: Toolchain
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17318-navigating-the-abi-for-the-arm-architecture
+slug: bud17-318
+speakers: Peter Smith
+title: Navigating the ABI for the ARM Architecture - BUD17-318
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4682
+youtube_video_url: https://youtu.be/shlvgwdI1vE
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- ABI
+- ARM
+- Toolchain
+---
+
+"Session ID: BUD17-318
+Session Name: Navigating the ABI for the ARM Architecture - BUD17-318
+Speaker: Peter Smith
+Track: Toolchain
+
+
+★ Session Summary ★
+The ABI for a platform is defined by a multi-layered series of documents, with the ARM specific parts are largely defined by the ABI for the ARM architecture. This presentation will describe the structure of the ABI documentation and some of the design principles used in its construction.
+ 
+This presentation is aimed at software developers wanting to understand how to find information about the ABI, what they can rely upon and what they can extend
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-318/
+Presentation: https://www.slideshare.net/linaroorg/bud17318-navigating-the-abi-for-the-arm-architecture
+Video: https://youtu.be/shlvgwdI1vE
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: toolchain, ABI, ARM
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

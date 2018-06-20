@@ -1,0 +1,68 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-312%20-%20Linux%20Networking%20and%20IO%20BoF.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/BUD17-312%20Linux%20networking%20and%20I%20%20O%20-%20BoF.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:43+00:00
+excerpt: "Open discussion on Linux networking and IO.\n Expected topics to be covered:\n\
+  \  - IPsec full offload status in Linux kernel network stack and projected LNG work.\n\
+  \  - IOvisor status on ARM\n  - Automotive “foundational blocks”: LSK-RT, static\
+  \ partitioning with open source OpenAMP or Jailhouse"
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-312/
+session_id: BUD17-312
+session_track: LNG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17312-linux-networking-and-io-bof
+slug: bud17-312
+speakers: Francois Ozog, Ivan Khoronzhuk, Dmitry Eremin-Solenikov
+title: Linux networking and I/O - BoF - BUD17-312
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4678
+youtube_video_url: https://youtu.be/SksoYtj_P7E
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- Linux
+- LNG
+- Networking
+---
+
+"Session ID: BUD17-312
+Session Name: Linux networking and I/O - BoF - BUD17-312
+Speaker: Francois Ozog, Ivan Khoronzhuk, Dmitry Eremin-Solenikov
+Track: LNG
+
+
+★ Session Summary ★
+Open discussion on Linux networking and IO.
+ Expected topics to be covered:
+  - IPsec full offload status in Linux kernel network stack and projected LNG work.
+  - IOvisor status on ARM
+  - Automotive “foundational blocks”: LSK-RT, static partitioning with open source OpenAMP or Jailhouse
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-312/
+Presentation: https://www.slideshare.net/linaroorg/bud17312-linux-networking-and-io-bof
+Video: https://youtu.be/SksoYtj_P7E
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: LNG, Linux, networking
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

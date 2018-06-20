@@ -1,0 +1,53 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
+author: celia.ilardi
+comments: false
+date: 2017-03-21 16:04:43+00:00
+excerpt: Socionext ARMv8 server SoC chipset demo
+layout: post
+link: http://connect.linaro.org/resource/bud17/demo/bud17-df19/
+session_id: BUD17-DF19
+session_track: Socionext ARMv8 server SoC chipset demo
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/socionext-armv8-server-soc-chipset-demo
+slug: bud17-df19
+speakers: Socionext Inc.
+title: Socionext ARMv8 server SoC chipset demo- BUD17-DF19
+video_length: 04:10
+video_thumbnail: None
+wordpress_id: 5666
+youtube_video_url: https://www.youtube.com/watch?v=nhPm7d59t8c
+categories:
+- Demo Friday
+post_format:
+- Video
+---
+
+Socionext introduces its newly released ARMv8 server SoC chipset "SC2A11 - The processor SoC with 24 x A53 cores" and "SC2A20 - The interconnect bridge SoC". An SC2A11 board will be displayed with some demonstration.
+
+Socionext introduces its newly released ARMv8 server SoC chipset "SC2A11"
+
+- Processor SoC with 24 x A53 cores - and "SC2A20" - Interconnect bridge SoC. An SC2A11 board is displayed with performance demonstration.
+
+Specification overview:
+
+• SC2A11
+
+24 x A53 cores
+
+2ch DDR4-2133
+
+2 x PCI Express Root/Endpoint (1 for interconnect, 1 for expansion)
+
+2ch Gigabit Ethernet MAC (1 for application, 1 for maintenance)
+
+• SC2A20
+
+8 x PCI Express Root for downstream interconnect
+
+1 x PCI Express Endpoint for upstream interconnect
+
+2ch Gigabit Ethernet MAC (1 for application, 1 for maintenance)
+
+
+Team: Socionext Inc.

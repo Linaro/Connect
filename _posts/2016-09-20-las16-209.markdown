@@ -1,0 +1,48 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-209%20-%20Finished%20and%20Upcoming%20Projects%20in%20LMG.pdf
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:45+00:00
+excerpt: 'This survey of topics covers the engineering output of recent Android related
+  projects in LMG and some future plans. This includes Memory Allocators, Filesystems,
+  LCR news, Work on both gcc and clang based toolchains, Increased participation in
+  upstream development as well as a quick overview of some upcoming topics. Kernel
+  possible topics: Generic Build: where we are at'
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-209/
+session_id: LAS16-209
+session_track: LMG
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16209-finished-and-upcoming-projects-in-lmg
+slug: las16-209
+speakers: Yongqui Liu, Satish Patel, Bernhard Rosenkränzer
+title: 'LAS16-209: Finished and Upcoming Projects in LMG'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3816
+youtube_video_url: None
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- Android
+- Mobile
+---
+
+LAS16-209: Finished and Upcoming Projects in LMG
+Speakers: Yongqui Liu, Satish Patel, Bernhard Rosenkränzer
+Date: September 27, 2016
+
+★ Session Description ★
+This survey of topics covers the engineering output of recent Android related projects in LMG and some future plans. This includes Memory Allocators, Filesystems, LCR news, Work on both gcc and clang based toolchains, Increased participation in upstream development as well as a quick overview of some upcoming topics. Kernel possible topics: Generic Build: where we are at.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-209
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-209/](http://connect.linaro.org/resource/las16/las16-209/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

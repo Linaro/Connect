@@ -1,0 +1,37 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
+author: celia.ilardi
+comments: false
+date: 2017-03-21 15:28:54+00:00
+excerpt: Android "AOSP TV"
+layout: post
+link: http://connect.linaro.org/resource/bud17/demo/bud17-df07/
+session_id: BUD17-DF07
+session_track: 'Android '
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/android-aosp-tv-bud17
+slug: bud17-df07
+speakers: None
+title: Android "AOSP TV"-BUD17-DF07
+video_length: '11:39'
+video_thumbnail: None
+wordpress_id: 5649
+youtube_video_url: https://www.youtube.com/watch?v=lkAERtIry4w
+categories:
+- Demo Friday
+post_format:
+- Video
+---
+
+Android TV is a smart TV platform that can be built for both TVs and stand alone media players and set top boxes.
+The goal of this project in LHG is to evaluate Android TV components from AOSP on 96boards.org's TV platform.
+
+Apache Ambari is the open source operational platform to provision, manage and monitor Hadoop clusters. Ambari provides an intuitive Web UI as well as a robust REST API, which is particularly useful for automating cluster operations.
+
+✓ Simplified Installation, Configuration and Management. Easily and efficiently create, manage and monitor clusters at scale. Enables repeatable, automated cluster creation with Ambari Blueprints.
+
+✓ Centralized Security Setup. Reduce the complexity to administer and configure cluster security across the entire platform.
+
+✓ Full Visibility into Cluster Health. Ensure your cluster is healthy and available with a holistic approach to monitoring.
+
+✓ Highly Extensible and Customizable. Fit Hadoop seamlessly into enterprise environment.

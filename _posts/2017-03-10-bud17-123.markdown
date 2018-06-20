@@ -1,0 +1,61 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Monday/BUD17-123%20The%20Engineering%20Review%20Board.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-03-10 21:16:16+00:00
+excerpt: The Engineering Review Board (ERB) Process
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-123/
+session_id: BUD17-123
+session_track: None
+slideshare_presentation_url: None
+slug: bud17-123
+speakers: David Zinman
+title: The Engineering Review Board (ERB) Process - BUD17-123
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 5269
+youtube_video_url: https://youtu.be/KJvQo27WJZw
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- David Zinman
+- ERB
+- Review-board
+---
+
+Session ID: BUD17-123
+Session Name: The Engineering Review Board (ERB) Process - BUD17-123
+Speaker: David Zinman
+Track:
+
+
+★ Session Summary ★
+Engineering processes in Linaro have evolved to be a unique series of methods that govern the development of open source, product and private deliveries that are targeted at different stakeholders. The Engineering Review Board (ERB) is the governing body that is the focal point of review within Linaro’s Open Source Collaborative Engineering (OCE) division.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-123/
+Presentation:
+Video: https://youtu.be/KJvQo27WJZw
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: ERB, Review-board, David Zinman
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961

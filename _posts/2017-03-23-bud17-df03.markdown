@@ -1,0 +1,34 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-DF03.pdf
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2017-03-23 16:43:25+00:00
+excerpt: 'Node.js, Express and MongoDB implementing a data-aggregating sensor gateway
+  with RESTful sensor and admin interfaces
+
+
+  '
+layout: post
+link: http://connect.linaro.org/resource/bud17/demo/bud17-df03/
+session_id: BUD17-DF03
+session_track: None
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/meanstack-based-sensor-gateway
+slug: bud17-df03
+speakers: None
+title: MEAN-stack based sensor gateway - BUD17-DF03
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 5702
+youtube_video_url: None
+categories:
+- Demo Friday
+post_format:
+- Video
+---
+
+https://www.slideshare.net/linaroorg/meanstack-based-sensor-gateway
+
+Node.js, Express and MongoDB implementing a data-aggregating sensor gateway with RESTful sensor and admin interfaces
+
+**Team: **Either OCTO (David R's stuff) OR Qualcomm (with Don H)

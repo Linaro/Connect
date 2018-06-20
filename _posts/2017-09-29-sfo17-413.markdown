@@ -1,0 +1,61 @@
+---
+author: celia.ilardi
+comments: false
+date: 2017-09-29 19:03:20+00:00
+excerpt: Some platforms have the capability to configure the performance state of
+  their power domains. The process of configuring the performance state is pretty
+  much platform dependent and we may need to work with a wide range of configurables.  For
+  some platforms, like Qualcomm, it can be a positive integer value alone, while in
+  other cases it can be voltage levels, etc.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-413/
+session_id: SFO17-413
+session_track: Power Management
+slug: sfo17-413
+title: Active State Management of Power Domains - SFO17-413
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 6066
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-413
+Session Name: Active State Management of Power Domains - SFO17-413
+Speaker: 
+Track: Power Management
+
+
+★ Session Summary ★
+Some platforms have the capability to configure the performance state of their power domains. The process of configuring the performance state is pretty much platform dependent and we may need to work with a wide range of configurables.  For some platforms, like Qualcomm, it can be a positive integer value alone, while in other cases it can be voltage levels, etc.
+
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-413/
+Presentation: 
+Video: 
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 28 Sept 2017
+
+Speakers: 
+
+Position: 

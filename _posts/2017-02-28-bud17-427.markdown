@@ -1,0 +1,61 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:56+00:00
+excerpt: A discussion on the needs of ARM based Automotive software
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-427/
+session_id: BUD17-427
+session_track: None
+slideshare_presentation_url: None
+slug: bud17-427
+speakers: David Rusling, Mark Hambleton
+title: 'OCTO BoF: Automotive - BUD17-427'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4723
+youtube_video_url: https://youtu.be/nEk472A7otU
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- Automotive
+- BoF
+- OCTO
+---
+
+"Session ID: BUD17-427
+Session Name: OCTO BoF: Automotive - BUD17-427
+Speaker: David Rusling, Mark Hambleton
+Track: 
+
+
+★ Session Summary ★
+A discussion on the needs of ARM based Automotive software
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-427/
+Presentation: 
+Video: https://youtu.be/nEk472A7otU
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: OCTO, BoF, Automotive
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

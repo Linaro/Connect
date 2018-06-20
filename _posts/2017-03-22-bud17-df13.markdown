@@ -1,0 +1,36 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
+author: celia.ilardi
+comments: false
+date: 2017-03-22 11:25:32+00:00
+excerpt: ARMv8-M secure debug demo
+layout: post
+link: http://connect.linaro.org/resource/bud17/demo/bud17-df13/
+session_id: BUD17-DF13
+session_track: ARMv8-M secure debug demo
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/armv8m-secure-debug-demo
+slug: bud17-df13
+speakers: LITE
+title: ARMv8-M secure debug demo- BUD17-DF13
+video_length: 08:10
+video_thumbnail: None
+wordpress_id: 5677
+youtube_video_url: https://www.youtube.com/watch?v=9HgMuRMf0IU
+categories:
+- Demo Friday
+post_format:
+- Video
+---
+
+"The new generation for ARM Cortex-M23 and Cortex-M33, the first in the new 
+family of ARMv8-M architecture, introduce optimized TrustZone security features 
+into small devices. The CoreLink SSE-200 subsystem combines all of the latest ARM IP to provide a foundation for building a secure IoT node. Those new processors and subsystems make it easier for developers to create secure and energy efficient IoT solutions for the interconnected IoT world.
+This demo shows a secret code, changing randomly every 10 seconds, via a 
+secure LCD peripheral. A switch, configured as a secure peripheral, allows
+to change debug authentication permissions to grant or deny access to the secure space via the debugger. 
+The background of this demo shows the secure and non-secure code and memory partition, non-secure and secure code interaction via secure gateways, and the debug authentication feature of the processor to protect a secure space from the non authorized JTAG/debug access. 
+The audience is going to learn about the CoreLink SSE-200 secure features and 
+how to build secure applications on it. In addition, the audience is going to see in action how the secure code and memory is protected against the debugger."
+
+Team: LITE

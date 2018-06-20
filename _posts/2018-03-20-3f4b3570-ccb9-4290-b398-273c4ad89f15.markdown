@@ -1,0 +1,60 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/3f4b3570-ccb9-4290-b398-273c4ad89f15.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/3f4b3570-ccb9-4290-b398-273c4ad89f15.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-03-20 09:17:31+00:00
+excerpt: In age of AI, the way human interacts with machines swift from mouse/keyboard,
+  touch to more nature methods, like voice, gesture, video. Baidu announces DuerOS
+  in 2017 which is an speech based intelligent conversational OS for TV, mobile, speaker,
+  vehicles etc.
+layout: post
+link: http://connect.linaro.org/resource/hkg18/3f4b3570-ccb9-4290-b398-273c4ad89f15/
+session_id: 3f4b3570-ccb9-4290-b398-273c4ad89f15
+session_track: Ecosystem Day
+slug: 3f4b3570-ccb9-4290-b398-273c4ad89f15
+speakers: Zhou Hua,hua zhou
+title: 3f4b3570-ccb9-4290-b398-273c4ad89f15 - DuerOS
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 9027
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: 3f4b3570-ccb9-4290-b398-273c4ad89f15
+Session Name: 3f4b3570-ccb9-4290-b398-273c4ad89f15 - DuerOS
+Speaker: Zhou Hua,hua zhou
+Track: Ecosystem Day
+
+
+★ Session Summary ★
+In age of AI, the way human interacts with machines swift from mouse/keyboard, touch to more nature methods, like voice, gesture, video. Baidu announces DuerOS in 2017 which is an speech based intelligent conversational OS for TV, mobile, speaker, vehicles etc.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/3f4b3570-ccb9-4290-b398-273c4ad89f15/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/3f4b3570-ccb9-4290-b398-273c4ad89f15.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/3f4b3570-ccb9-4290-b398-273c4ad89f15.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Ecosystem Day
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Zhou Hua,hua zhou
+
+Speaker Positions: Architect of DuerOS,DuerOS Architect
+
+

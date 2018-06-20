@@ -1,0 +1,62 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-417%20Decentralized%20Apps%20and%20Elastos%20Runtime.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:51+00:00
+excerpt: A summary of important changes in UEFI land in general, especially in the
+  area of open source platform code, and how Linaro intends to deal with Reference
+  Platform firmware releases in the future.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-417/
+session_id: BUD17-417
+session_track: LEG
+slideshare_presentation_url: None
+slug: bud17-417
+speakers: Rong Chen
+title: Decentralized Apps and Elastos Runtime - BUD17-417
+video_length: '47:00'
+video_thumbnail: None
+wordpress_id: 4707
+youtube_video_url: https://youtu.be/ak4hGbT-nxs
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- LEG
+- UEFI
+---
+
+"Session ID: BUD17-417
+Session Name: Changes in UEFI land - BUD17-417
+Speaker: Rong Chen
+Track: LEG
+
+
+★ Session Summary ★
+A summary of important changes in UEFI land in general, especially in the area of open source platform code, and how Linaro intends to deal with Reference Platform firmware releases in the future.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-417/
+Presentation: 
+Video: https://youtu.be/ak4hGbT-nxs
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: LEG, UEFI
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

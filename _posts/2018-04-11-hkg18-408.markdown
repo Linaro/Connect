@@ -1,0 +1,72 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-408.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-408.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:13:45+00:00
+excerpt: 'DRM (Digital Rights Management) solution secures video stream for transmission
+  and playback.  It brings the complexity of media framework and driver porting in
+  Secure-OS. Meanwhile, It seriously impacts on user’s experience if Secure-OS takes
+  too many time slices.
+
+  Arm TZMP1 solution leverages protected mode to prevent the normal-world OS (Rich-OS)
+  from accessing the stream. Rich-OS can use existing media framework and driver to
+  manipulate the playback flow path. This significantly mitigates the complexity of
+  Secure-OS.
+
+  Arm provides an open source reference based on Linaro''s work to facilitate the
+  TZMP1 development of partners.'
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-408/
+session_id: HKG18-408
+session_track: LHG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18408-a-drm-solution-using-tzmp
+slug: hkg18-408
+speakers: Ken Liu
+title: HKG18-408 - A DRM solution using TZMP
+video_length: '25:27'
+video_thumbnail: None
+wordpress_id: 8810
+youtube_video_url: https://www.youtube.com/watch?v=eyqXgY-ITmk
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: HKG18-408
+Session Name: HKG18-408 - A DRM solution using TZMP
+Speaker: Ken Liu
+Track: LHG
+
+
+★ Session Summary ★
+DRM (Digital Rights Management) solution secures video stream for transmission and playback.  It brings the complexity of media framework and driver porting in Secure-OS. Meanwhile, It seriously impacts on user’s experience if Secure-OS takes too many time slices.
+Arm TZMP1 solution leverages protected mode to prevent the normal-world OS (Rich-OS) from accessing the stream. Rich-OS can use existing media framework and driver to manipulate the playback flow path. This significantly mitigates the complexity of Secure-OS.
+Arm provides an open source reference based on Linaro's work to facilitate the TZMP1 development of partners.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-408/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-408.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-408.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: LHG
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Ken Liu
+
+Speaker Positions: Staff Software Engineer
+
+

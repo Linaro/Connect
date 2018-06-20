@@ -1,0 +1,59 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-500K2.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/Swarms%202.0%20The%20Living%20Network%20of%20Everyone%20and%20Everything%20%257C%20Panel-%207%20Years%20of%20Linaro%20%2523SFO17.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:56:22+00:00
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-500k2/
+session_id: SFO17-500K2
+session_track: None
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/panel-arm-in-open-source-david-rusling-sfo17500k2
+slug: sfo17-500k2
+speakers: David Rusling
+title: 'Panel: ARM in open source (David Rusling) - SFO17-500K2'
+video_length: '55:52'
+video_thumbnail: None
+wordpress_id: 6075
+youtube_video_url: https://www.youtube.com/watch?v=IwwAXoEYzmA
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-500K2
+Session Name: Panel: ARM in open source (David Rusling) - SFO17-500K2
+Speaker: David Rusling
+Track:
+
+★ Session Summary ★
+
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-500k2/
+Presentation:
+Video:
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword:
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date:
+
+Speakers: David Rusling
+
+Position: CTO at Linaro

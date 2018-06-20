@@ -1,0 +1,65 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-500k2.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-500k2.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:14:39+00:00
+excerpt: 'The last decade or so of development in open source hardware, software and
+  data has brought an astonishing richness of resources for artists: Python and C++
+  libraries for natural language processing, biological simulation, data programming
+  and machine learning - such as TensorFlow, NLTK, openFrameworks and project Gutenberg.  As
+  well as continually expanding functionality, increased accessibility has drastically
+  brought down the barriers to entry and exploration.'
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-500k2/
+session_id: HKG18-500K2
+session_track: Keynote
+slug: hkg18-500k2
+speakers: Laura Dekker
+title: 'HKG18-500K2 - Keynote: Laura Dekker - The Machine as Alien Ethnographer:  Advanced
+  Computation, Open Source Systems and Art'
+video_length: '27:58'
+video_thumbnail: None
+wordpress_id: 8832
+youtube_video_url: https://www.youtube.com/watch?v=Raz9FCJhm_M
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: HKG18-500K2
+Session Name: HKG18-500K2 - Keynote: Laura Dekker - The Machine as Alien Ethnographer:  Advanced Computation, Open Source Systems and Art
+Speaker: Laura Dekker
+Track: Keynote
+
+
+★ Session Summary ★
+The last decade or so of development in open source hardware, software and data has brought an astonishing richness of resources for artists: Python and C++ libraries for natural language processing, biological simulation, data programming and machine learning - such as TensorFlow, NLTK, openFrameworks and project Gutenberg.  As well as continually expanding functionality, increased accessibility has drastically brought down the barriers to entry and exploration. 
+
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-500k2/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-500k2.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-500k2.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Keynote
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Laura Dekker
+
+Speaker Positions: Dr
+
+

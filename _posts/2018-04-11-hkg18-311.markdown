@@ -1,0 +1,66 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-311.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-311.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:12:48+00:00
+excerpt: 'Native CI and CD pipelines for Arm The industrial revolution brought a wave
+  of automation and standardization to manufacturing. The world of software is going
+  through a similar revolution in the form of automated CI and CD pipelines. However,
+  most of this innovation has been focused on x86, while
+
+  Arm developers have had to jump through hoops to achieve similar productivity. This
+  talk demonstrates how you can achieve CD natively on Arm and reduce friction in
+  software delivery.'
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-311/
+session_id: HKG18-311
+session_track: Ecosystem Day
+slug: hkg18-311
+speakers: Not Available
+title: HKG18-311 - Native CI and CD pipelines for Arm
+video_length: '42:56'
+video_thumbnail: None
+wordpress_id: 9171
+youtube_video_url: https://www.youtube.com/watch?v=FbTuiusBOy8
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: HKG18-311
+Session Name: HKG18-311 - Native CI and CD pipelines for Arm
+Speaker: Not Available
+Track: Ecosystem Day
+
+
+★ Session Summary ★
+Native CI and CD pipelines for Arm The industrial revolution brought a wave of automation and standardization to manufacturing. The world of software is going through a similar revolution in the form of automated CI and CD pipelines. However, most of this innovation has been focused on x86, while
+Arm developers have had to jump through hoops to achieve similar productivity. This talk demonstrates how you can achieve CD natively on Arm and reduce friction in software delivery.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-311/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-311.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-311.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Ecosystem Day
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Not Available
+
+Speaker Positions: Not Found
+
+

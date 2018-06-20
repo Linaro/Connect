@@ -1,0 +1,62 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-306%20-%20digital%20signatures.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-306%20-%20Digital%20signatures%20and%20the%20beginning%20of%20the%20world.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:55:11+00:00
+excerpt: The bootloader is where it all begins. This session sums up our experiences
+  with various signature types, data formats, implementations and how to choose.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-306/
+session_id: SFO17-306
+session_track: Security
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/digital-signatures-and-the-beginning-of-the-world-sfo17306
+slug: sfo17-306
+speakers: David Brown
+title: Digital signatures and the beginning of the world - SFO17-306
+video_length: '29:45'
+video_thumbnail: None
+wordpress_id: 6014
+youtube_video_url: https://www.youtube.com/watch?v=ehIOiffq_A4
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-306
+Session Name: Digital signatures and the beginning of the world - SFO17-306
+Speaker: David Brown
+Track: Security
+
+
+★ Session Summary ★
+The bootloader is where it all begins. This session sums up our experiences with various signature types, data formats, implementations and how to choose.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-306/
+Presentation: https://www.slideshare.net/linaroorg/digital-signatures-and-the-beginning-of-the-world-sfo17306
+Video: https://www.youtube.com/watch?v=ehIOiffq_A4
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 27 Sept 2017
+
+Speakers: David Brown
+
+Position: Senior Engineer at Linaro

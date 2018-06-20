@@ -1,0 +1,29 @@
+---
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:48+00:00
+excerpt: ARM in HPC /  This session will cover current ARM HPC software ecosystem
+  and roadmap, as well as HPC market potential and how it intersects big data software
+  stacks.
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-313b/
+session_id: BKK16-313B
+session_track: LEG
+slug: bkk16-313b
+speakers: Darren Cepulis
+title: 'BKK16-313B: HPC'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3357
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- HPC
+- LEG
+---
+
+ARM in HPC /  This session will cover current ARM HPC software ecosystem and roadmap, as well as HPC market potential and how it intersects big data software stacks.
+
+Event Date: March 9, 2016

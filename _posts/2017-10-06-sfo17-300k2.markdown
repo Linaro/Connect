@@ -1,0 +1,59 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-300K2-Meeker-v1-Open_Source_and_the_Family_Business.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/Intelligent%252C%20Connected%20Future%20%257C%20Open%20Source%20License%20Enforcement-%20to%20sue%20or%20not%20to%20sue%20%257C%20%2523SFO17.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:55:02+00:00
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-300k2/
+session_id: SFO17-300K2
+session_track: Keynote
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/keynote-heather-meeker-omelveny-myers-llp-sfo17300k2
+slug: sfo17-300k2
+speakers: Heather Meeker
+title: 'Keynote: Heather Meeker (O’Melveny & Myers LLP) - SFO17-300K2'
+video_length: '53:34'
+video_thumbnail: None
+wordpress_id: 6002
+youtube_video_url: https://www.youtube.com/watch?v=vwZlLESlnOo
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-300K2
+Session Name: Keynote: Heather Meeker (O’Melveny & Myers LLP) - SFO17-300K2
+Speaker: Heather Meeker
+Track: Keynote
+
+★ Session Summary ★
+
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-300k2/
+Presentation:
+Video: https://www.youtube.com/watch?v=qVlGTPWhQoQ
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword:
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 27 Sept 2017
+
+Speakers: Heather Meeker
+
+Position: Specialist in open source software licensing

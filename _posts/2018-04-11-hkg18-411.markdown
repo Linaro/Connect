@@ -1,0 +1,61 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-411.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-411.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:13:45+00:00
+excerpt: Introduction to OpenAMP which is an open source solution for heterogeneous
+  system orchestration and communication
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-411/
+session_id: HKG18-411
+session_track: IoT, Embedded
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18411-introduction-to-openamp-which-is-an-open-source-solution-for-heterogeneous-system-orchestration-and-communication
+slug: hkg18-411
+speakers: Wendy Liang
+title: HKG18-411 - Introduction to OpenAMP which is an open source solution for heterogeneous
+  system orchestration and communication
+video_length: '29:29'
+video_thumbnail: None
+wordpress_id: 8812
+youtube_video_url: https://www.youtube.com/watch?v=EBY9lYTEQPc
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: HKG18-411
+Session Name: HKG18-411 - Introduction to OpenAMP which is an open source solution for heterogeneous system orchestration and communication
+Speaker: Wendy Liang
+Track: IoT, Embedded
+
+
+★ Session Summary ★
+Introduction to OpenAMP which is an open source solution for heterogeneous system orchestration and communication
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-411/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-411.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-411.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: IoT, Embedded
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Wendy Liang
+
+Speaker Positions: Software engineer
+
+

@@ -1,0 +1,30 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-210.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Tuesday/BKK16-210%20Migrating%20to%20the%20new%20dispatcher.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:40+00:00
+excerpt: Migrations have begun, learn how it will affect your team
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-210/
+session_id: BKK16-210
+session_track: LAVA
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16210-migrating-to-the-new-dispatcher
+slug: bkk16-210
+speakers: Neil Williams
+title: 'BKK16-210: Migrating to the new dispatcher'
+video_length: '54:14'
+video_thumbnail: None
+wordpress_id: 3332
+youtube_video_url: https://www.youtube.com/watch?v=c1g6MDxYEFM&spfreload=10
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- LAVA
+---
+
+Migrations have begun, learn how it will affect your team
+
+Event Date: March 8, 2016

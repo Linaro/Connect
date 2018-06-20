@@ -1,0 +1,69 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-214%20SQUAD-%20an%20overview%20of%20the%20platform%20behind%20qa-reports.linaro.org.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-214%20SQUAD%20%20an%20overview%20of%20the%20platform%20behind.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:54:39+00:00
+excerpt: "qa-reports.linaro.org is a new service that can provide QA dashboards for\
+  \ any Linaro project. These dashboards feature presentation of test results, charts\
+  \ for metrics (such as benchmark results), automated email notifications, and much\
+  \ more. Results are accumulated over time, and the entire history of the project\
+  \ can kept for reference. Initial users include LKFT and LITE.\n \n qa-reports.linaro.org\
+  \ is powered by SQUAD, a project created by the QA Services Team after not being\
+  \ able to find an existing solution that would serve our needs. SQUAD is written\
+  \ in Python and licensed under the GPLv3."
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-214/
+session_id: SFO17-214
+session_track: QA
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/squad-an-overview-of-the-platform-behind-qareportslinaroorg-sfo17214
+slug: sfo17-214
+speakers: Antonio Terceiro
+title: 'SQUAD: an overview of the platform behind qa-reports.linaro.org - SFO17-214'
+video_length: '22:04'
+video_thumbnail: None
+wordpress_id: 5983
+youtube_video_url: https://www.youtube.com/watch?v=cF_LWUBqMZo
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-214
+Session Name: SQUAD: an overview of the platform behind qa-reports.linaro.org - SFO17-214
+Speaker: Antonio Terceiro
+Track: QA
+
+★ Session Summary ★
+qa-reports.linaro.org is a new service that can provide QA dashboards for any Linaro project. These dashboards feature presentation of test results, charts for metrics (such as benchmark results), automated email notifications, and much more. Results are accumulated over time, and the entire history of the project can kept for reference. Initial users include LKFT and LITE.
+
+qa-reports.linaro.org is powered by SQUAD, a project created by the QA Services Team after not being able to find an existing solution that would serve our needs. SQUAD is written in Python and licensed under the GPLv3.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-214/
+Presentation:
+Video: https://www.youtube.com/watch?v=cF_LWUBqMZo
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword:
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 27 Sept 2017
+
+Speakers: Antonio Terceiro
+
+Position:

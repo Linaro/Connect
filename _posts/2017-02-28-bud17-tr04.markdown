@@ -1,0 +1,64 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-TR04-%20Kernel%20Debug%20Stories.pdf
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:46+00:00
+excerpt: This session is a short introductory course on Linux kernel debugging. The
+  course is will examine a number of different debugging challenges and discuss the
+  techniques and tools that can be employed to overcome them. By focusing on stories
+  rather than the minute details of each tool we can cover a lot of topics in a short
+  space of time, providing a springboard for further independent study by trainees.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-tr04/
+session_id: BUD17-TR04
+session_track: None
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17tr04-kernel-debug-stories
+slug: bud17-tr04
+speakers: None
+title: Kernel Debug Stories - BUD17-TR04
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4686
+youtube_video_url: https://youtu.be/LA2dxBMatnw
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- debug
+- Kernel
+---
+
+"Session ID: BUD17-TR04
+Session Name: Kernel Debug Stories - BUD17-TR04
+Speaker: 
+Track: 
+
+
+★ Session Summary ★
+This session is a short introductory course on Linux kernel debugging. The course is will examine a number of different debugging challenges and discuss the techniques and tools that can be employed to overcome them. By focusing on stories rather than the minute details of each tool we can cover a lot of topics in a short space of time, providing a springboard for further independent study by trainees.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-tr04/
+Presentation: https://www.slideshare.net/linaroorg/bud17tr04-kernel-debug-stories
+Video: https://youtu.be/LA2dxBMatnw
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: kernel, debug
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

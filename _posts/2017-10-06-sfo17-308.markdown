@@ -1,0 +1,62 @@
+---
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-308%20AArch64%20Vector%20Optimizations%20for%20Glibc.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:55:16+00:00
+excerpt: This presentation takes a look at the current state of AArch64-specific optimizations
+  in glibc, and the results of some initial tests using AArch64 vector capabilities
+  to accelerate additional glibc functions
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-308/
+session_id: SFO17-308
+session_track: LEG,LHG
+slug: sfo17-308
+speakers: Chris Tyler
+title: "AArch64 Vector Optimizations for Glibc\n - SFO17-308"
+video_length: '29:57'
+video_thumbnail: None
+wordpress_id: 6018
+youtube_video_url: https://www.youtube.com/watch?v=4lPJyfWEuq4
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-308
+Session Name: AArch64 Vector Optimizations for Glibc
+ - SFO17-308
+Speaker: Chris Tyler
+Track: LEG,LHG
+
+
+★ Session Summary ★
+This presentation takes a look at the current state of AArch64-specific optimizations in glibc, and the results of some initial tests using AArch64 vector capabilities to accelerate additional glibc functions
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-308/
+Presentation: 
+Video: https://www.youtube.com/watch?v=4lPJyfWEuq4
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 
+
+Speakers: Chris Tyler
+
+Position: 

@@ -1,0 +1,70 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-415.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-415.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:14:39+00:00
+excerpt: 'This talk describes the overall system configuration requirements for
+
+  adding Time Sensitive Networking (TSN) support to the Linux kernel. It
+
+  includes information about traffic mapping, shaper configuration, and
+
+  other important parts of a TSN system based on Linux interfaces, and a
+
+  generic approach for configuring and managing TSN nodes.'
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-415/
+session_id: HKG18-415
+session_track: Networking
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18415-time-sensitive-networking-tsn-and-linux
+slug: hkg18-415
+speakers: Ivan Khoronzhuk
+title: HKG18-415 - Time Sensitive Networking (TSN) and Linux
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 8820
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: HKG18-415
+Session Name: HKG18-415 - Time Sensitive Networking (TSN) and Linux
+Speaker: Ivan Khoronzhuk
+Track: Networking
+
+
+★ Session Summary ★
+This talk describes the overall system configuration requirements for
+adding Time Sensitive Networking (TSN) support to the Linux kernel. It
+includes information about traffic mapping, shaper configuration, and
+other important parts of a TSN system based on Linux interfaces, and a
+generic approach for configuring and managing TSN nodes.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-415/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-415.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-415.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Networking
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Ivan Khoronzhuk
+
+Speaker Positions: Software Engineer
+
+

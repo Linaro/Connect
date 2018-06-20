@@ -1,0 +1,64 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-309%20Secure%20storage%20updates.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-309%20-%20Secure%20storage%20updates.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:55:16+00:00
+excerpt: The last release of OP-TEE includes big updates to secure storage. Integrity
+  protection is improved and the entire secure storage space is saved as one snapshot
+  on each update.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-309/
+session_id: SFO17-309
+session_track: Security
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/secure-storage-updates-sfo17309
+slug: sfo17-309
+speakers: Jens Wiklander - Jerome Forissier
+title: Secure storage updates - SFO17-309
+video_length: '26:02'
+video_thumbnail: None
+wordpress_id: 6020
+youtube_video_url: https://www.youtube.com/watch?v=k61PiuFrc_U
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-309
+Session Name: Secure storage updates - SFO17-309
+Speaker: Jens Wiklander - Jerome Forissier
+
+Track: Security
+
+
+★ Session Summary ★
+The last release of OP-TEE includes big updates to secure storage. Integrity protection is improved and the entire secure storage space is saved as one snapshot on each update.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-309/
+Presentation: https://www.slideshare.net/linaroorg/secure-storage-updates-sfo17309
+Video: https://www.youtube.com/watch?v=k61PiuFrc_U
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 27 Sept 2017
+
+Speakers: Jens Wiklander - Jerome Forissier
+
+Position: Senior Engineer at Linaro / Open Source Software Architect at Huawei Technologies

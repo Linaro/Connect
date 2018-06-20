@@ -1,0 +1,38 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
+author: celia.ilardi
+comments: false
+date: 2017-03-21 15:16:42+00:00
+excerpt: Apache Ambari and Big data components on AARCH64
+layout: post
+link: http://connect.linaro.org/resource/bud17/demo/bud17-df06/
+session_id: BUD17-DF06
+session_track: Apache Ambari and Big data components on AARCH64
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/apache-ambari-and-big-data-components-on-aarch64
+slug: bud17-df06
+speakers: LEG Bigdata
+title: Apache Ambari and Big data components on AARCH64-BUD17-DF06
+video_length: 08:41
+video_thumbnail: None
+wordpress_id: 5641
+youtube_video_url: https://www.youtube.com/watch?v=64l5CM9AJi4
+categories:
+- Demo Friday
+post_format:
+- Video
+---
+
+Showcase Apache Ambari works on AARCH64
+
+Apache Ambari is the open source operational platform to provision, manage and monitor Hadoop clusters. Ambari provides an intuitive Web UI as well as a robust REST API, which is particularly useful for automating cluster operations.
+
+✓ Simplified Installation, Configuration and Management. Easily and efficiently create, manage and monitor clusters at scale. Enables repeatable, automated cluster creation with Ambari Blueprints.
+
+✓ Centralized Security Setup. Reduce the complexity to administer and configure cluster security across the entire platform.
+
+✓ Full Visibility into Cluster Health. Ensure your cluster is healthy and available with a holistic approach to monitoring.
+
+✓ Highly Extensible and Customizable. Fit Hadoop seamlessly into enterprise environment.
+
+Team: LEG Bigdata

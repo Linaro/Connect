@@ -1,0 +1,50 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:26+00:00
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-100k2/
+session_id: LAS16-100K2
+session_track: Keynote
+slideshare_presentation_url: None
+slug: las16-100k2
+speakers: Morgan Quigley
+title: 'LAS16-100K2: Morgan Quigley, OSRF'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3792
+youtube_video_url: https://www.youtube.com/watch?v=MCLFp55y0dc
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+---
+
+
+
+LAS16-100K2: The Robot Operating System: An Open Source Framework for Modern Robotics
+Speakers: Morgan Quigley
+Date: September 26, 2016
+
+YouTube Link to watch the keynote: [ https://www.youtube.com/watch?v=MCLFp55y0dc](https://www.youtube.com/watch?v=MCLFp55y0dc)
+
+★ Session Description ★
+Title: The Robot Operating System: An Open Source Framework for Modern Robotics
+Creating truly robust, general-purpose robot software is hard! From the robot’s perspective, many problems that seem trivial to humans can actually encompass wild variations between instances of tasks and environments. Dealing with real-world variations in complex tasks and environments is so difficult that no single individual, laboratory, or institution can hope to build a complete system from scratch.
+As a result, the Robot Operating System (ROS) was built from the ground up to encourage collaborative robotics software development. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robot platforms. This talk will provide an overview of the design of ROS and show a collection of applications in industry, academia, and government. It will also briefly describe current development efforts to incorporate Transport Layer Security (TLS), access controls, a flexible UDP-based networking subsystem, and other “wish list” items for the future.
+Bio
+Morgan Quigley is Chief Architect of the Open Source Robotics Foundation. Prior to OSRF, Morgan received a PhD in Computer Science from Stanford University in 2012. He was one of the founding contributors of ROS and continues to participate in the development of ROS and ROS2. His research interests include collaborative software development, distributed systems, and embedded systems of all shapes and sizes.
+
+★ Resources ★
+Etherpad: [pad.linaro.org/p/las16-100k2](https://las16.pathable.com/meetings/pad.linaro.org/p/las16-100k2)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-100k2/](http://connect.linaro.org/resource/las16/las16-100k2/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)
+
+

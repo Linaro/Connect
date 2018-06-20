@@ -1,0 +1,62 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-403%20Scientific_Computing_on_ARM.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-403%20Tutorial%20Scientific%20Computing%20on%20ARM-based%20Platforms.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:47+00:00
+excerpt: 'Developing applications on ARM based machines: compilers, debuggers, runtimes
+  and basic optimizations'
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-403/
+session_id: BUD17-403
+session_track: LEG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17403-tutorial-scientific-computing-on-armbased-platforms
+slug: bud17-403
+speakers: Chris Goodyer, Chris Adeniyi-Jones
+title: Tutorial Scientific Computing on ARM-based Platforms - BUD17-403
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4694
+youtube_video_url: https://youtu.be/H-TPoVpQ4Jo
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- ARM-based
+- LEG
+- platforms
+---
+
+"Session ID: BUD17-403
+Session Name: Tutorial Scientific Computing on ARM-based Platforms - BUD17-403
+Speaker: Chris Goodyer, Chris Adeniyi-Jones
+Track: LEG
+
+
+★ Session Summary ★
+Developing applications on ARM based machines: compilers, debuggers, runtimes and basic optimizations
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-403/
+Presentation: https://www.slideshare.net/linaroorg/bud17403-tutorial-scientific-computing-on-armbased-platforms
+Video: https://youtu.be/H-TPoVpQ4Jo
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: LEG, ARM-based, platforms
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

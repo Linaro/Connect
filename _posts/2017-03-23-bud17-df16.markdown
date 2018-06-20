@@ -1,0 +1,33 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2017-03-23 16:55:41+00:00
+excerpt: Highlights OpenFastPath using OpenDataPlane to leverage SoC hardware acceleration
+  capabilities for IPSEC offload
+layout: post
+link: http://connect.linaro.org/uncategorized/bud17-df16/
+session_id: BUD17-DF16
+session_track: None
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/odp-ipsec-lookaside-api-demo
+slug: bud17-df16
+speakers: None
+title: ODP IPsec lookaside API Demo - BUD17-DF16
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 5717
+youtube_video_url: None
+categories:
+- Demo Friday
+post_format:
+- Video
+---
+
+"Highlights OpenFastPath using OpenDataPlane to leverage SoC hardware acceleration capabilities for IPSEC offload
+
+Using a traffic generator generate clear text traffic that is passed to a SoC with HW encryption support, forward the encrypted traffic to a second SoC for description and forward that to the traffic generation for confirmation of success.
+
+Highlights OpenFastPath using ODP to leverage SoC hardware acceleration capabilites"
+
+**Team**: LNG

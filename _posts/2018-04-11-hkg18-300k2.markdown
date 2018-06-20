@@ -1,0 +1,76 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-300k2.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-300k2.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:12:48+00:00
+excerpt: "As Moore's law is slowing down, heterogeneous architectures are needed to\
+  \ keep up with the increasing compute requirements emerging from industry trends\
+  \ such as the use machine learning across a diverse range of markets and applications.\
+  \ These compute requirements require custom system architectures to suit the rapidly\
+  \ evolving demands of emerging algorithms, standards and trends.\nField Programmable\
+  \ hardware offers a unique capability to provide flexibility alongside advanced\
+  \ processor architectures to address this ever increasing multitude of applications.\
+  \ Development flows, programmability and flexibility are crucial to the enablement\
+  \ of these advancing algorithms and to enable the next generation of implementations\
+  \ in a world of advancing Artificial intelligence.\nIn this session we will introduce\
+  \ you to an all Programmable paradigm and low cost development platform to enable\
+  \ an ecosystem of flexibility and unparalleled programmability. \nThe future is\
+  \ now…..."
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-300k2/
+session_id: HKG18-300K2
+session_track: Ecosystem Day
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18300k2-keynote-tomas-evensen-all-programmable-socs-platforms-to-enable-the-future-of-embedded-machine-learning
+slug: hkg18-300k2
+speakers: Tomas Evensen
+title: 'HKG18-300K2 - Keynote: Tomas Evensen - All Programmable SoCs? – Platforms
+  to enable the future of Embedded Machine Learning'
+video_length: '29:26'
+video_thumbnail: None
+wordpress_id: 8772
+youtube_video_url: https://www.youtube.com/watch?v=9BgTGuQLT4M
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: HKG18-300K2
+Session Name: HKG18-300K2 - Keynote: Tomas Evensen - All Programmable SoCs? – Platforms to enable the future of Embedded Machine Learning
+Speaker: Tomas Evensen
+Track: Ecosystem Day
+
+
+★ Session Summary ★
+As Moore's law is slowing down, heterogeneous architectures are needed to keep up with the increasing compute requirements emerging from industry trends such as the use machine learning across a diverse range of markets and applications. These compute requirements require custom system architectures to suit the rapidly evolving demands of emerging algorithms, standards and trends.
+Field Programmable hardware offers a unique capability to provide flexibility alongside advanced processor architectures to address this ever increasing multitude of applications. Development flows, programmability and flexibility are crucial to the enablement of these advancing algorithms and to enable the next generation of implementations in a world of advancing Artificial intelligence.
+In this session we will introduce you to an all Programmable paradigm and low cost development platform to enable an ecosystem of flexibility and unparalleled programmability. 
+The future is now…... 
+
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-300k2/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-300k2.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-300k2.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Ecosystem Day
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Tomas Evensen
+
+Speaker Positions: Xilinx
+
+

@@ -1,0 +1,64 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-202.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-202.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:11:54+00:00
+excerpt: 'We propose to improve auto-vectorization in GCC by facilitating examination
+  of related GIMPLE statements in a loop together and utilizing the information so
+  derived to transform the computations in two orthogonal ways: (a) We propose an
+  alternative mechanism to implement SLP by coalescsing ASTs of independent computations.
+  (b) We try to decide where and which permutations should be effected based on the
+  knowledge of the available target instructions.'
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-202/
+session_id: HKG18-202
+session_track: Tools
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18202-improving-the-effectiveness-and-generality-of-gcc-autovectorization
+slug: hkg18-202
+speakers: Sameera Deshpande
+title: HKG18-202 - Improving the Effectiveness and Generality of GCC  Auto-Vectorization
+video_length: '32:46'
+video_thumbnail: None
+wordpress_id: 8738
+youtube_video_url: https://www.youtube.com/watch?v=ejntDaMKElc
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: HKG18-202
+Session Name: HKG18-202 - Improving the Effectiveness and Generality of GCC  Auto-Vectorization
+Speaker: Sameera Deshpande
+Track: Tools
+
+
+★ Session Summary ★
+We propose to improve auto-vectorization in GCC by facilitating examination of related GIMPLE statements in a loop together and utilizing the information so derived to transform the computations in two orthogonal ways: (a) We propose an alternative mechanism to implement SLP by coalescsing ASTs of independent computations. (b) We try to decide where and which permutations should be effected based on the knowledge of the available target instructions.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-202/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-202.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-202.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Tools
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Sameera Deshpande
+
+Speaker Positions: Senior Toolchain Engineer
+
+

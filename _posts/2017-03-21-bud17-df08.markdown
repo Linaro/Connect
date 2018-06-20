@@ -1,0 +1,38 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
+author: celia.ilardi
+comments: false
+date: 2017-03-21 15:31:37+00:00
+excerpt: RDK ports on 96Boards
+layout: post
+link: http://connect.linaro.org/resource/bud17/demo/bud17-df08/
+session_id: BUD17-DF08
+session_track: RDK ports on 96Boards
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/rdk-ports-on-96boards
+slug: bud17-df08
+speakers: LHG
+title: RDK ports on 96Boards - BUD17-DF08
+video_length: 04:41
+video_thumbnail: None
+wordpress_id: 5653
+youtube_video_url: https://www.youtube.com/watch?v=zmOTyKFeyCs
+categories:
+- Demo Friday
+post_format:
+- Video
+---
+
+LHG has been working with upstreaming key components of the RDK over the last 3 years. This demo shows the RDK media framework (RMF) running on 96Boards platforms such as HiKey and DB410C.
+
+● Reference Design Kit (RDK) Mediaclient using Yocto Krogoth/2.1 branch.
+
+● Mediaclient functionality (streaming media playback) by integrating gstreamer V4L2 hardware video acceleration plugin.
+
+● Westeros, an alternative lightweight & open source wayland compositor by using DRM support.
+
+● Metrological’s WebKit for Wayland browser (web content rendering) by implementing offscreen egl target support for Westeros(Mesa backend only).
+
+● 32bit RDK rootfs on 64bit Dragonboard 410c.
+
+Team: LHG

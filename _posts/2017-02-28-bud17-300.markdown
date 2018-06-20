@@ -1,0 +1,63 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-300%20OpenDataPlane-%20network%20packet%20journey.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/BUD17-300%20Journey%20of%20a%20packet.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:39+00:00
+excerpt: Describe step by step what components a packet goes through and details cases
+  when components are implemented in hardware or in software.  Attendees will have
+  the definite presentation to understand fundamental differences with DPDK and how
+  ODP solves low end and high end networking issues.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-300/
+session_id: BUD17-300
+session_track: LNG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17300-journey-of-a-packet
+slug: bud17-300
+speakers: Maxim Uvarov
+title: Journey of a packet - BUD17-300
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4666
+youtube_video_url: https://youtu.be/wRZXw_xBT20
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- LNG
+- packet
+---
+
+"Session ID: BUD17-300
+Session Name: Journey of a packet - BUD17-300
+Speaker: Maxim Uvarov
+Track: LNG
+
+
+★ Session Summary ★
+Describe step by step what components a packet goes through and details cases when components are implemented in hardware or in software.  Attendees will have the definite presentation to understand fundamental differences with DPDK and how ODP solves low end and high end networking issues.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-300/
+Presentation: https://www.slideshare.net/linaroorg/bud17300-journey-of-a-packet
+Video: https://youtu.be/wRZXw_xBT20
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: packet, LNG
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

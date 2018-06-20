@@ -1,0 +1,64 @@
+---
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:56:09+00:00
+excerpt: 'The size of big data even the data sets to be processed individually is
+  now reaching to over petabyte.
+
+  Socionext offers high speed clustering solution “Socionext DDT”.
+
+  This is the technique building up hyper scale parallel computing system using ARM
+  CPU.'
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-453/
+session_id: SFO17-453
+session_track: LEG
+slug: sfo17-453
+title: Hyper scaling concept server - SFO17-453
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 6354
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-453
+Session Name: Hyper scaling concept server - SFO17-453
+Speaker: 
+Track: LEG
+
+
+★ Session Summary ★
+The size of big data even the data sets to be processed individually is now reaching to over petabyte.
+Socionext offers high speed clustering solution “Socionext DDT”.
+This is the technique building up hyper scale parallel computing system using ARM CPU.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-453/
+Presentation: 
+Video: 
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 28 Sept 2017
+
+Speakers: 
+
+Position: 

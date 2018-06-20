@@ -1,0 +1,71 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-303.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-303.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:12:48+00:00
+excerpt: "The race to roll out new technology features, mobility services and autonomous\
+  \ vehicles continues to heat up across the tech and automotive industries. Over\
+  \ the past year, we’ve seen a flurry of M&A activity, partnerships and new alliances,\
+  \ as automakers and their suppliers realize that the software and hardware required\
+  \ for autonomous driving is too complex for any one company to develop alone. \n\
+  While this is a step forward, greater collaboration across the entire industry is\
+  \ needed to accelerate autonomous driving. An open source platform for automakers\
+  \ to share information such as map data, miles driven and scenarios tested could\
+  \ speed up production cycles and decrease time-to-market.  \nAutomotive Grade Linux\
+  \ (AGL) is an open source project that is bringing together more than 100 members\
+  \ across the automotive and tech industries to develop a shared software platform\
+  \ for all in-vehicle applications from infotainment to autonomous driving."
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-303/
+session_id: HKG18-303
+session_track: Automotive;Ecosystem Day
+slideshare_presentation_url: None
+slug: hkg18-303
+speakers: 'Dan Cauchy '
+title: HKG18-303 - Automotive Grade Linux (AGL)
+video_length: '36:42'
+video_thumbnail: None
+wordpress_id: 8778
+youtube_video_url: https://www.youtube.com/watch?v=b17ZVJYBr2g
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: HKG18-303
+Session Name: HKG18-303 - Automotive Grade Linux (AGL)
+Speaker: Dan Cauchy
+Track: Automotive;Ecosystem Day
+
+★ Session Summary ★
+The race to roll out new technology features, mobility services and autonomous vehicles continues to heat up across the tech and automotive industries. Over the past year, we’ve seen a flurry of M&A activity, partnerships and new alliances, as automakers and their suppliers realize that the software and hardware required for autonomous driving is too complex for any one company to develop alone.
+While this is a step forward, greater collaboration across the entire industry is needed to accelerate autonomous driving. An open source platform for automakers to share information such as map data, miles driven and scenarios tested could speed up production cycles and decrease time-to-market.
+Automotive Grade Linux (AGL) is an open source project that is bringing together more than 100 members across the automotive and tech industries to develop a shared software platform for all in-vehicle applications from infotainment to autonomous driving.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-303/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-303.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-303.mp4
+---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Automotive;Ecosystem Day
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Not Available
+
+Speaker Positions: Not Found
+
+

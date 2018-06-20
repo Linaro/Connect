@@ -1,0 +1,57 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-100.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-100.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:11:12+00:00
+excerpt: This session is closed to any non-members of Linaro. We will be monitoring
+  attendance at the door. Thank you.
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-100/
+session_id: HKG18-100
+slug: hkg18-100
+speakers: Mark Hambleton
+title: HKG18-100 - Ask Arm Anything BoF (MEMBERS ONLY)
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 8686
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: HKG18-100
+Session Name: HKG18-100 - Ask Arm Anything BoF (MEMBERS ONLY)
+Speaker: Mark Hambleton
+Track: 
+
+
+★ Session Summary ★
+This session is closed to any non-members of Linaro. We will be monitoring attendance at the door. Thank you.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-100/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-100.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-100.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Mark Hambleton
+
+Speaker Positions: Software Director
+
+

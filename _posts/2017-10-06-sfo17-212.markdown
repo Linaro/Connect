@@ -1,0 +1,68 @@
+---
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-212%20Open%20Source%20Automotive%20%20How%20Shared%20Development%20will%20Drive%20the%20Industry%20Forward.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:54:33+00:00
+excerpt: The automotive industry has fallen behind the smartphone in terms of features
+  and functionality because innovation is too slow, time-to-market is too long and
+  there's very little software reuse. Automotive companies like Toyota are now in
+  the software business, and they are realizing that open source and sharing a common
+  platform is the way forward. Automotive Grade Linux recently announced that their
+  platform will debut in the 2018 US Toyota Camry. General Manager of Automotive,
+  Dan Cauchy will discuss this transformation and provide insight into why automakers
+  like Toyota are adopting AGL.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-212/
+session_id: SFO17-212
+session_track: LITE
+slug: sfo17-212
+speakers: Dan Cauchy
+title: 'Open Source Automotive: How Shared Development will Drive the Industry Forward
+  - SFO17-212'
+video_length: '36:22'
+video_thumbnail: None
+wordpress_id: 5979
+youtube_video_url: https://www.youtube.com/watch?v=XSk4oeIRRyU
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-212
+Session Name: Open Source Automotive: How Shared Development will Drive the Industry Forward - SFO17-212
+Speaker: Dan Cauchy
+Track: LITE
+
+
+★ Session Summary ★
+The automotive industry has fallen behind the smartphone in terms of features and functionality because innovation is too slow, time-to-market is too long and there's very little software reuse. Automotive companies like Toyota are now in the software business, and they are realizing that open source and sharing a common platform is the way forward. Automotive Grade Linux recently announced that their platform will debut in the 2018 US Toyota Camry. General Manager of Automotive, Dan Cauchy will discuss this transformation and provide insight into why automakers like Toyota are adopting AGL.
+
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-212/
+Presentation: 
+Video: https://www.youtube.com/watch?v=XSk4oeIRRyU
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 26 Sept 2017
+
+Speakers: Dan Cauchy
+
+Position: General Manager, Automotive (AGL) at The Linux Foundation

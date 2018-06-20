@@ -1,0 +1,32 @@
+---
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:58+00:00
+excerpt: This session is an advanced course on Linux kernel upstreaming fundamentals.
+  The course covers how the arm-soc kernel tree is maintained and why that is important
+  to ARM Linux kernel developers. The focus of the course is the explanation of the
+  detailed mechanics of creating and posting patch series to upstream mailing lists
+  for several common cases. Annotated session content is made up of previously upstreamed
+  ARM support captured from emails to the kernel mailing lists. The target audience
+  is both software engineers and engineering managers preparing to upstream software
+  into the kernel. The topic requires a solid background in software configuration
+  management terminology and the git SCM tool as well as a good technical understanding
+  of the Linux kernel itself.
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-tr03/
+session_id: BKK16-TR03
+session_track: Training
+slug: bkk16-tr03
+title: 'BKK16-TR03: Upstreaming 201'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3392
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+---
+
+This session is an advanced course on Linux kernel upstreaming fundamentals. The course covers how the arm-soc kernel tree is maintained and why that is important to ARM Linux kernel developers. The focus of the course is the explanation of the detailed mechanics of creating and posting patch series to upstream mailing lists for several common cases. Annotated session content is made up of previously upstreamed ARM support captured from emails to the kernel mailing lists. The target audience is both software engineers and engineering managers preparing to upstream software into the kernel. The topic requires a solid background in software configuration management terminology and the git SCM tool as well as a good technical understanding of the Linux kernel itself.
+
+Event Date: March 8, 2016

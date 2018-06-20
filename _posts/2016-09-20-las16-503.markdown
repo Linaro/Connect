@@ -1,0 +1,43 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Friday/LAS16-503%20-%20LAVA%20V2%20migration.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Friday/LAS16-503%20LAVA%20V2%20migration.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:11:06+00:00
+excerpt: Remaining tasks in the migration and next steps
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-503/
+session_id: LAS16-503
+session_track: Automation & CI
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16503-lava-v2-migration
+slug: las16-503
+speakers: Neil Williams
+title: 'LAS16-503: LAVA V2 migration'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3860
+youtube_video_url: https://youtu.be/F75NnWVKj_0
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- LAVA
+---
+
+LAS16-503: LAVA V2 migration
+Speakers: Neil Williams
+Date: September 30, 2016
+
+★ Session Description ★
+Remaining tasks in the migration and next steps.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-503
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-503/](http://connect.linaro.org/resource/las16/las16-503/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

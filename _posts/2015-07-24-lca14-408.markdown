@@ -1,0 +1,27 @@
+---
+author: kyle.kirkby
+comments: true
+date: 2015-07-24 14:04:51+00:00
+excerpt: Venue to let LEG-SC representatives chat unformally with LEG engineers and
+  assignees, discuss about ongoing work, then move on for lunch altogether
+layout: post
+link: http://connect.linaro.org/resource/lca14/lca14-408/
+session_id: LCA14-408
+session_track: ARM Server
+slug: lca14-408
+speakers: Andrea Gallo
+title: "LCA14-408: LEG-SC / LEG Engineer â€œMeet and Greetâ€\x9D"
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 2126
+categories:
+- Linaro Connect Asia 2014
+post_format:
+- Video
+tags:
+- Andrea Gallo
+- ARM Server
+- "LCA14-408: LEG-SC / LEG Engineer â€œMeet and Greetâ€\x9D"
+---
+
+No Content Found

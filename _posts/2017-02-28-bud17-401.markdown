@@ -1,0 +1,61 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:47+00:00
+excerpt: A session in which we will specifically discuss the next steps and group
+  interactions required in order to deliver a working (OP)NFV solution in 2017.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-401/
+session_id: BUD17-401
+session_track: LEG
+slideshare_presentation_url: None
+slug: bud17-401
+speakers: Jon Masters
+title: 'OPNFV: Next steps for enablement - BUD17-401'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4692
+youtube_video_url: https://youtu.be/W_9MYw8bf5Q
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- LEG
+- OPNFV
+---
+
+"Session ID: BUD17-401
+Session Name: OPNFV: Next steps for enablement - BUD17-401
+Speaker: Jon Masters
+Track: LEG
+
+
+★ Session Summary ★
+A session in which we will specifically discuss the next steps and group interactions required in order to deliver a working (OP)NFV solution in 2017.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-401/
+Presentation: 
+Video: https://youtu.be/W_9MYw8bf5Q
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: OPNFV, LEG
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

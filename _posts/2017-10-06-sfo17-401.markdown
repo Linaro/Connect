@@ -1,0 +1,74 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-401%20UEFI%20Secure%20Boot%20and%20DRI.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-401%20-%20UEFI%20Secure%20Boot%20and%20DRI%20for%20RDK%20on%20HiKey.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:55:41+00:00
+excerpt: 'Explains about implementation of Secure boot and DRI (disaster recovery
+  Image) using UEFI/EDK2 on Hikey board.
+
+
+  Secure Boot loader will verify  and boot the RDK Image which is  embedded with Digital
+  signature.
+
+
+  DRI is UEFI executable which provides HTTP /HTTPS method to download RDK Image  and
+  store the image in Flash memory.'
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-401/
+session_id: SFO17-401
+session_track: LHG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/uefi-secure-boot-and-dri-for-rdk-on-hikey-sfo17401
+slug: sfo17-401
+speakers: Kalyan Nagabhirava
+title: UEFI Secure Boot and DRI  for RDK on HiKey - SFO17-401
+video_length: '26:04'
+video_thumbnail: None
+wordpress_id: 6046
+youtube_video_url: https://www.youtube.com/watch?v=Kx_DF2A4I5U
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-401
+Session Name: UEFI Secure Boot and DRI  for RDK on HiKey - SFO17-401
+Speaker: Kalyan Nagabhirava
+Track: LHG
+
+
+★ Session Summary ★
+Explains about implementation of Secure boot and DRI (disaster recovery Image) using UEFI/EDK2 on Hikey board.
+
+Secure Boot loader will verify  and boot the RDK Image which is  embedded with Digital signature.
+
+DRI is UEFI executable which provides HTTP /HTTPS method to download RDK Image  and store the image in Flash memory.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-401/
+Presentation: https://www.slideshare.net/linaroorg/uefi-secure-boot-and-dri-for-rdk-on-hikey-sfo17401
+Video: https://www.youtube.com/watch?v=Kx_DF2A4I5U
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 28 Sept 2017
+
+Speakers: Kalyan Nagabhirava
+
+Position: Project Manager at L&T; Technology Services Limited

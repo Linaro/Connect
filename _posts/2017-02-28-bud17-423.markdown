@@ -1,0 +1,27 @@
+---
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:53+00:00
+excerpt: Having been around for so long already, many who view keynotes and sessions
+  are jumping in at a bit of a learning curve. This session will take the explanation
+  of Linaro and 96Boards back to basics. Focusing on the what, why, and how things
+  get done within these two segments at a very high level.
+layout: post
+link: http://connect.linaro.org/resource/bud17-423/
+session_id: BUD17-423
+slug: bud17-423
+speakers: Robert Wolff, Mike Levine
+title: "Intro to Linaro and 96Boards for Engineers\n - BUD17-423"
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4711
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+- Resources
+post_format:
+- Video
+---
+
+Having been around for so long already, many who view keynotes and sessions are jumping in at a bit of a learning curve. This session will take the explanation of Linaro and 96Boards back to basics. Focusing on the what, why, and how things get done within these two segments at a very high level.
+
+Event Date: March 10, 2017

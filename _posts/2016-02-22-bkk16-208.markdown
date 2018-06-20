@@ -1,0 +1,30 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-208.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Tuesday/BKK16-208%20EAS.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:40+00:00
+excerpt: EAS
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-208/
+session_id: BKK16-208
+session_track: QC
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16208-eas
+slug: bkk16-208
+speakers: vmulukut@quicinc.com
+title: 'BKK16-208: EAS'
+video_length: '34:27'
+video_thumbnail: None
+wordpress_id: 3330
+youtube_video_url: https://www.youtube.com/watch?v=g4srUao5ahg
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- EAS
+---
+
+EAS
+
+Event Date: March 8, 2016

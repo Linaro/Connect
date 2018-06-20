@@ -1,0 +1,29 @@
+---
+author: celia.ilardi
+comments: false
+date: 2017-09-15 16:27:53+00:00
+excerpt: In this session I will talk about what has happened in the past year on the
+  OpenJDK project, for both in Linaro and further afield.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-503z/
+session_id: SFO17-503z
+session_track: LEG
+slug: sfo17-503z
+speakers: Stuart Monteith
+title: OpenJDK Past, Present and Future - SFO17-503z
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 6081
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-503z Session Name: OpenJDK Past, Present and Future - SFO17-503z Speaker: Stuart Monteith Track: LEG   ★ Session Summary ★ In this session I will talk about what has happened in the past year on the OpenJDK project, for both in Linaro and further afield. --------------------------------------------------- ★ Resources ★ Event Page: http://connect.linaro.org/resource/sfo17/sfo17-503z/ Presentation:  Video:   ---------------------------------------------------  ★ Event Details ★ Linaro Connect San Francisco 2017 (SFO17) 25-29 September 2017 Hyatt Regency San Francisco Airport  --------------------------------------------------- Keyword:  http://www.linaro.org http://connect.linaro.org --------------------------------------------------- Follow us on Social Media https://www.facebook.com/LinaroOrg https://twitter.com/linaroorg https://www.youtube.com/user/linaroorg?sub_confirmation=1 https://www.linkedin.com/company/1026961
+
+Event Date: 
+
+Speakers: Stuart Monteith
+
+Position: Linaro Assignee at Linaro

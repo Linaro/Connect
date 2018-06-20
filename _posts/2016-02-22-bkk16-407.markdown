@@ -1,0 +1,40 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-407.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Thursday/BKK16-407%20AOSP%20Toolchain%20Evolution%20and%20experimental%20languages%20on%20AOSP.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:52+00:00
+excerpt: 'Big toolchain changes ahead...
+
+
+  AOSP is moving towards clang based toolchains rather than gcc.
+
+  Current AOSP master already builds completely with clang 3.8 by default.
+
+  Kernels and some HAL layers for old devices remain on gcc for now.
+
+
+  What is Linaro doing to help?'
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-407/
+session_id: BKK16-407
+session_track: LMG
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16407-aosp-toolchain-evolution-and-experimental-languages-on-aosp
+slug: bkk16-407
+speakers: 'Bero
+
+  Tom'
+title: 'BKK16-407: AOSP Toolchain Evolution and experimental languages on AOSP'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3372
+youtube_video_url: https://youtu.be/o_KJt_QDGv4
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+---
+
+Big toolchain changes ahead...  AOSP is moving towards clang based toolchains rather than gcc. Current AOSP master already builds completely with clang 3.8 by default. Kernels and some HAL layers for old devices remain on gcc for now.  What is Linaro doing to help?
+
+Event Date: March 10, 2016

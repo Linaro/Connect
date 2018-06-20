@@ -1,0 +1,65 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-110.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-110.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:11:12+00:00
+excerpt: User space I/O offers significant speedup potential for data plane and other
+  high-performance applications, but at the high cost of writing and maintaining separate
+  device drivers. Building on the existing kernel mediated device framework originally
+  introduced to support GPUs, net_mdev extends this support to network I/O, requiring
+  only minor changes to existing kernel drivers. Applications, in turn, need only
+  provide "mini drivers" to handle the performance I/O paths in user space while leaving
+  control operations in the kernel.
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-110/
+session_id: HKG18-110
+session_track: Networking
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18110-netmdev-fast-path-user-space-io
+slug: hkg18-110
+speakers: Ilias Apalodimas
+title: 'HKG18-110 - net_mdev: Fast path user space I/O'
+video_length: 01:01:16
+video_thumbnail: None
+wordpress_id: 8706
+youtube_video_url: https://www.youtube.com/watch?v=KamdmJGBC8E
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: HKG18-110
+Session Name: HKG18-110 - net_mdev: Fast path user space I/O
+Speaker: Ilias Apalodimas
+Track: Networking
+
+
+★ Session Summary ★
+User space I/O offers significant speedup potential for data plane and other high-performance applications, but at the high cost of writing and maintaining separate device drivers. Building on the existing kernel mediated device framework originally introduced to support GPUs, net_mdev extends this support to network I/O, requiring only minor changes to existing kernel drivers. Applications, in turn, need only provide "mini drivers" to handle the performance I/O paths in user space while leaving control operations in the kernel.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-110/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-110.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-110.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Networking
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Ilias Apalodimas
+
+Speaker Positions: Engineer
+
+

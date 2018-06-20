@@ -1,0 +1,62 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-309.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-309.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:12:48+00:00
+excerpt: Having been around for so long already, many who view keynotes and sessions
+  are jumping in at a bit of a learning curve. This session will take the explanation
+  of Linaro and 96Boards back to basics. Focusing on the what, why, and how things
+  get done within these two segments at a very high level.
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-309/
+session_id: HKG18-309
+session_track: 96Boards;Ecosystem Day
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18309-introduction-to-linaro-and-96boards-for-engineers
+slug: hkg18-309
+speakers: Robert Wolff
+title: HKG18-309 - Introduction to Linaro and 96Boards for Engineers
+video_length: 05:03
+video_thumbnail: None
+wordpress_id: 8786
+youtube_video_url: https://www.youtube.com/watch?v=OtsXNCWfmVw
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: HKG18-309
+Session Name: HKG18-309 - Introduction to Linaro and 96Boards for Engineers
+Speaker: Robert Wolff
+Track: 96Boards;Ecosystem Day
+
+
+★ Session Summary ★
+Having been around for so long already, many who view keynotes and sessions are jumping in at a bit of a learning curve. This session will take the explanation of Linaro and 96Boards back to basics. Focusing on the what, why, and how things get done within these two segments at a very high level.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-309/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-309.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-309.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 96Boards;Ecosystem Day
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Robert Wolff
+
+Speaker Positions: Community Manager & Engineer
+
+

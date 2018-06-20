@@ -1,0 +1,84 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-222.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-222.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:12:48+00:00
+excerpt: 'Introduction to secure storage concepts and design in TF-M. Some of the
+  design choices and their rationale, and real use-cases to showcase how secure storage
+  fits in the overall system. A sneak-peek into what is next.
+
+
+  Trusted Firmware M
+
+
+  In October 2017, Arm announced the vision of Platform Security Architecture (PSA)
+  - a common framework to allow everyone in the IoT ecosystem to move forward with
+  stronger, scalable security and greater confidence. There are three key stages to
+  the Platform Security Architecture: Analysis, Architecture and Implementation which
+  are described at https://developer.arm.com/products/architecture/platform-security-architecture.
+
+
+  _Trusted Firmware M, i.e. TF-M, is the Arm project to provide an open source reference
+  implementation firmware that will conform to the PSA specification for M-Class devices.
+  Early access to TF-M was released in December 2017 and it is being made public during
+  Linaro Connect. The implementation should be considered a prototype until the PSA
+  specifications reach release state and the code aligns._'
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-222/
+session_id: HKG18-222
+session_track: LITE
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18222-trusted-firmware-m-secure-storage
+slug: hkg18-222
+speakers: Ashutosh Singh
+title: 'HKG18-222 - Trusted Firmware M : Secure Storage'
+video_length: '51:24'
+video_thumbnail: None
+wordpress_id: 8766
+youtube_video_url: https://www.youtube.com/watch?v=5B553r5UipU
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: HKG18-222
+Session Name: HKG18-222 - Trusted Firmware M : Secure Storage
+Speaker: Ashutosh Singh
+Track: LITE
+
+
+★ Session Summary ★
+Introduction to secure storage concepts and design in TF-M. Some of the design choices and their rationale, and real use-cases to showcase how secure storage fits in the overall system. A sneak-peek into what is next.
+
+Trusted Firmware M
+
+In October 2017, Arm announced the vision of Platform Security Architecture (PSA) - a common framework to allow everyone in the IoT ecosystem to move forward with stronger, scalable security and greater confidence. There are three key stages to the Platform Security Architecture: Analysis, Architecture and Implementation which are described at https://developer.arm.com/products/architecture/platform-security-architecture.
+
+_Trusted Firmware M, i.e. TF-M, is the Arm project to provide an open source reference implementation firmware that will conform to the PSA specification for M-Class devices. Early access to TF-M was released in December 2017 and it is being made public during Linaro Connect. The implementation should be considered a prototype until the PSA specifications reach release state and the code aligns._
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-222/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-222.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-222.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: LITE
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Ashutosh Singh
+
+Speaker Positions: Staff Software Engineer
+
+

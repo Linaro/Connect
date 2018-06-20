@@ -1,0 +1,62 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr12.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr12.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:16:35+00:00
+excerpt: LAVA tutorial material specific to LITE with an emphasis on RTOS targets
+  rather than Linux (i.e. monolithic images and no shells). Covers Test job basics,
+  Getting started with the Lab Instance, Anatomy of a test job, Looking at LAVA results,
+  Writing tests. More advanced topics can also be covered if time allows.
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-tr12/
+session_id: HKG18-TR12
+session_track: Training
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18tr12-lava-for-lite-platforms-and-tests
+slug: hkg18-tr12
+speakers: Bill Fletcher
+title: HKG18-TR12 - LAVA for LITE Platforms and Tests
+video_length: '56:08'
+video_thumbnail: None
+wordpress_id: 8892
+youtube_video_url: https://www.youtube.com/watch?v=tsQEz9p43_M
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: HKG18-TR12
+Session Name: HKG18-TR12 - LAVA for LITE Platforms and Tests
+Speaker: Bill Fletcher
+Track: Training
+
+
+★ Session Summary ★
+LAVA tutorial material specific to LITE with an emphasis on RTOS targets rather than Linux (i.e. monolithic images and no shells). Covers Test job basics, Getting started with the Lab Instance, Anatomy of a test job, Looking at LAVA results, Writing tests. More advanced topics can also be covered if time allows.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-tr12/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr12.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr12.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Training
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Bill Fletcher
+
+Speaker Positions: EMEA Engineering
+
+

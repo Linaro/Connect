@@ -1,0 +1,24 @@
+---
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:58+00:00
+excerpt: FLOSS - Free / Libre Open Source Software What _is_ “the community”? What
+  do they want from you? What do you get in return?
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-tr01/
+session_id: BKK16-TR01
+session_track: TRAINING
+slug: bkk16-tr01
+title: 'BKK16-TR01: The Philosophy of Open Source Development'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3390
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+---
+
+FLOSS - Free / Libre Open Source Software What _is_ “the community”? What do they want from you? What do you get in return?
+
+Event Date: March 8, 2016

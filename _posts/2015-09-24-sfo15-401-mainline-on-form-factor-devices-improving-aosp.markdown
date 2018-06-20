@@ -1,0 +1,35 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-24-Thursday/SFO15-401-
+  Mainline on form-factor devices - Improving AOSP.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-24-Thursday/SFO15-401
+  Mainline on form-factor devices  Improving AOSP.mp4
+author: kyle.kirkby
+comments: false
+date: 2015-09-24 00:00:00+00:00
+excerpt: 'Combined session on John Stultz’s Linux Plumbers Conference (LPC) presentations:
+  1. blockers to running mainline on consumer devices, 2. Ideas to improve AOSP vendor
+  tree support.'
+layout: post
+link: http://connect.linaro.org/resource/sfo15/sfo15-401-mainline-on-form-factor-devices-improving-aosp/
+session_id: None
+session_track: Mobile
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15401-mainline-on-formfactor-devices-improving-aosp
+slug: sfo15-401-mainline-on-form-factor-devices-improving-aosp
+speakers: John Stultz
+title: SFO15 401 Mainline on form factor devices / Improving AOSP
+video_length: '40:55'
+video_thumbnail: None
+wordpress_id: 2862
+youtube_video_url: https://www.youtube.com/watch?v=7BVFRIHY7fI
+categories:
+- Linaro Connect San Francisco 2015
+post_format:
+- Video
+tags:
+- Android
+- Mobile
+---
+
+Combined session on John Stultz’s Linux Plumbers Conference (LPC) presentations: 
+1. blockers to running mainline on consumer devices
+2. Ideas to improve AOSP vendor tree support

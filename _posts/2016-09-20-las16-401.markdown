@@ -1,0 +1,48 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Thursday/LAS16-401-%20Accelerating%20applications%20with%20OFP%2BODP-%20highlighting%20NGINX%2C%20OpenSSL%20and%20L3FWD.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Thursday/LAS16-401%20Accelerating%20applications%20with%20OFP%2BODP%20%20highlighting%20NGINX%2C%20OpenSSL%20and%20L3FWD.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:54+00:00
+excerpt: OpenDataPlane provides a portable framework for data plane acceleration that
+  is the basis for higher-level functions such as the full IP protocol stack provided
+  by OpenFastPath (OFP). ODP+OFP in turn can be used to offer acceleration to applications
+  like the open source NGiNX web server. This talk discusses experiences using these
+  tools with a focus on the performance and scaling benefits of using ODP and OFP.
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-401/
+session_id: LAS16-401
+session_track: LNG
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16401-accelerating-applications-with-ofpodp-highlighting-nginx-openssl-and-l3fwd
+slug: las16-401
+speakers: None
+title: 'LAS16-401: Accelerating applications with OFP+ODP: highlighting NGINX, OpenSSL
+  and L3FWD'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3842
+youtube_video_url: https://youtu.be/-Uv0JBL0T1U
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- Networking
+---
+
+LAS16-401: Accelerating applications with OFP+ODP: highlighting NGINX, OpenSSL and L3FWD
+Speakers:
+Date: September 29, 2016
+
+★ Session Description ★
+OpenDataPlane provides a portable framework for data plane acceleration that is the basis for higher-level functions such as the full IP protocol stack provided by OpenFastPath (OFP). ODP+OFP in turn can be used to offer acceleration to applications like the open source NGiNX web server. This talk discusses experiences using these tools with a focus on the performance and scaling benefits of using ODP and OFP.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-401
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-401/](http://connect.linaro.org/resource/las16/las16-401/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

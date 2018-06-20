@@ -1,0 +1,62 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Friday/BUD17-512%202038%20Linux%20Problem%20BoF.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-03-16 10:13:05+00:00
+excerpt: The time_t type in 32-bit Linux overflows in January 2038, which breaks all
+  existing application binaries. We'll talk about how we are addressing this in the
+  kernel, in glibc and in distributions, what problem are still unsolved, and the
+  various ways in which even 64-bit systems are still affected.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-512/
+session_id: 'BUD17-512 '
+session_track: None
+slideshare_presentation_url: None
+slug: bud17-512
+speakers: None
+title: 2038 Linux Problem BoF - BUD17-512
+video_length: '14:47'
+video_thumbnail: None
+wordpress_id: 5393
+youtube_video_url: https://www.youtube.com/watch?v=wCdR59kY2Dc
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- Kernel
+---
+
+"Session ID: BUD17-512
+Session Name: 2038 Linux Problem BoF - BUD17-512
+Speaker: Arnd Bergmann
+Track: 
+
+
+★ Session Summary ★
+
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-512/
+Presentation: 
+Video: https://youtu.be/wCdR59kY2Dc
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: Kernel
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

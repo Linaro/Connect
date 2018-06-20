@@ -1,0 +1,40 @@
+---
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:48+00:00
+excerpt: '-- Current state of ACPI on ARM
+
+  -- Support/backing for a longer term organization (i.e., mailing
+
+  lists, web sites, further meetings...)
+
+  -- Use of _DSD device properties
+
+  -- Follow-up on others items from the last meeting (mostly promised documents)
+
+
+  All of this sort of stuff is on fw-summit@lists.linaro.org, so folks can
+
+  go sort thru the archive for more details, if they''d like.'
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-316/
+session_id: BKK16-316
+session_track: RedHat
+slug: bkk16-316
+speakers: Al Stone
+title: 'BKK16-316: ARMv8 Firmware Mini-Summit'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3359
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- ACPI
+- Firmware
+---
+
+-- Current state of ACPI on ARM -- Support/backing for a longer term organization (i.e., mailing lists, web sites, further meetings...) -- Use of _DSD device properties -- Follow-up on others items from the last meeting (mostly promised documents)  All of this sort of stuff is on fw-summit@lists.linaro.org, so folks can go sort thru the archive for more details, if they'd like.
+
+Event Date: March 9, 2016

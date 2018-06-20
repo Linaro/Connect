@@ -1,0 +1,66 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-306%20-%20ODP%20IPsec%20Offload%20Panel.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-306%20ODP%20IPsec%20offload%20panel.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:41+00:00
+excerpt: "Discuss IPsec offload from:\n Application perspective\n Application developer\
+  \ perspective\n Implementation perspective"
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-306/
+session_id: BUD17-306
+session_track: None
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17306-odp-ipsec-offload-panel
+slug: bud17-306
+speakers: Bill Fischofer, Bala Manoharan,Nikhil Agarwal, Bogdan Pricope, Petri Savolainen
+title: ODP IPsec offload panel - BUD17-306
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4672
+youtube_video_url: https://youtu.be/EZXiHRU2uZM
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- IPsec
+- LNG
+- ODP
+---
+
+"Session ID: BUD17-306
+Session Name: ODP IPsec offload panel - BUD17-306
+Speaker: Bill Fischofer, Bala Manoharan,
+Nikhil Agarwal, Bogdan Pricope, Petri Savolainen
+Track: 
+
+
+★ Session Summary ★
+Discuss IPsec offload from:
+ Application perspective
+ Application developer perspective
+ Implementation perspective
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-306/
+Presentation: https://www.slideshare.net/linaroorg/bud17306-odp-ipsec-offload-panel
+Video: https://youtu.be/EZXiHRU2uZM
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: ODP, LNG, IPsec
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

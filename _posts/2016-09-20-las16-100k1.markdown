@@ -1,0 +1,41 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Monday/LAS16-100K1%20-%20Keynote%20George%20Grey.pdf
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:26+00:00
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-100k1/
+session_id: LAS16-100K1
+session_track: Keynote
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16100k1-welcome-keynote
+slug: las16-100k1
+speakers: George Grey
+title: 'LAS16-100K1: Welcome – George Grey'
+video_length: 01:11:56
+video_thumbnail: None
+wordpress_id: 3791
+youtube_video_url: https://www.youtube.com/watch?v=BnQZiXpN3cQ
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+---
+
+LAS16-100K1: Welcome Keynote
+Speakers: George Grey
+Date: September 26, 2016
+YouTube link to watch the keynote:  [https://www.youtube.com/watch?v=BnQZiXpN3cQ](https://www.youtube.com/watch?v=BnQZiXpN3cQ)
+
+★ Session Description ★
+George Grey, CEO of Linaro will welcome attendees to the conference and give an update on the latest projects taking place at Linaro.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-100k1
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-100k1/](http://connect.linaro.org/resource/las16/las16-100k1/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

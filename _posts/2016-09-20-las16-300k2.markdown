@@ -1,0 +1,54 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-300K2.pdf
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:48+00:00
+excerpt: "**Title: IoT Zephyr**\n Overview of IoT Zephyr\n \n **Bio**\n Geoff Thorpe\
+  \ heads up security within the Microcontroller group of NXP, where the intersection\
+  \ of device security and network security gives him a headache commonly known as\
+  \ “IoT”. His early experience with security topics was very software-centric, as\
+  \ a long-standing member of the OpenSSL team and a contributor to related open source\
+  \ projects. After many years veering off into semiconductors and hardware architecture,\
+  \ his software-bias has been domesticated to some extent but not eradicated."
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-300k2/
+session_id: LAS16-300K2
+session_track: LITE
+slideshare_presentation_url: http://www.slideshare.net/ShovanSargunam/las16300k2-geoff-thorpe-iot-zephyr
+slug: las16-300k2
+speakers: Geoff Thorpe
+title: 'LAS16-300K2: Geoff Thorpe - IoT Zephyr'
+video_length: '47:14'
+video_thumbnail: None
+wordpress_id: 3822
+youtube_video_url: https://www.youtube.com/watch?v=N_jXkw3bFVE
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- IoT
+- LITE
+---
+
+LAS16-300K2: Overview of IoT Zephyr
+Speakers: Geoff Thorpe
+Date: September 28, 2016
+
+★ Session Description ★
+Title: Overview of IoT Zephyr
+
+Bio:
+Geoff Thorpe heads up security within the Microcontroller group of NXP, where the intersection of device security and network security gives him a headache commonly known as “IoT”. His early experience with security topics was very software-centric, as a long-standing member of the OpenSSL team and a contributor to related open source projects. After many years veering off into semiconductors and hardware architecture, his software-bias has been domesticated to some extent but not eradicated.
+
+★ Resources ★
+Watch the video: [ https://www.youtube.com/watch?v=N_jXkw3bFVE](https://www.youtube.com/watch?v=N_jXkw3bFVE)
+Etherpad: pad.linaro.org/p/las16-300k2
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-300k2/](http://connect.linaro.org/resource/las16/las16-300k2/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

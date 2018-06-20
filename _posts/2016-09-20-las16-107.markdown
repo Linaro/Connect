@@ -1,0 +1,43 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Monday/LAS16-107%20-%20LAVA%20Users%20Forum.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Monday/LAS16-107%20LAVA%20users%20Forum.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:32+00:00
+excerpt: Feedback and support for and by users of LAVA
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-107/
+session_id: LAS16-107
+session_track: Automation & CI
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16107-lava-users-forum
+slug: las16-107
+speakers: Steve Mcintyre
+title: 'LAS16-107: LAVA Users Forum'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3800
+youtube_video_url: https://youtu.be/VklKASfsnTY
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- LAVA
+---
+
+LAS16-107: LAVA Users Forum
+Speakers: Steve Mcintyre
+Date: September 26, 2016
+
+★ Session Description ★
+Feedback and support for and by users of LAVA.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-107
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-107/](http://connect.linaro.org/resource/las16/las16-107/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

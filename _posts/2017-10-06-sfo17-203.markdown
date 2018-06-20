@@ -1,0 +1,63 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-203%20-%20Reliability%2C%20Availability%2C%20and%20Serviceability%20%28RAS%29%20on%20ARM64%20status.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-203%20Reliability%2C%20Availability%20and%20Serviceability%20%28RAS%29%20on%20ARM64%20status.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:54:16+00:00
+excerpt: This presentation gives an updated RAS architecture on ARM64 base on RAS
+  extension (in ARMv8.2), SDEI (Software Delegated Exception Interface), APEI, UEFI
+  PI-SMM.  Will talk about all the components of the new RAS architecture on ARM64,
+  gives audience the current status and the next step of development.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-203/
+session_id: SFO17-203
+session_track: LEG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/reliability-availability-and-serviceability-ras-on-arm64-status-sfo17203
+slug: sfo17-203
+speakers: Fu Wei
+title: Reliability, Availability, and Serviceability (RAS) on ARM64 status - SFO17-203
+video_length: '51:07'
+video_thumbnail: None
+wordpress_id: 5961
+youtube_video_url: https://www.youtube.com/watch?v=NReFBzbeWi0
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-203
+Session Name: Reliability, Availability, and Serviceability (RAS) on ARM64 status - SFO17-203
+Speaker: Fu Wei
+Track: LEG
+
+★ Session Summary ★
+This presentation gives an updated RAS architecture on ARM64 base on RAS extension (in ARMv8.2), SDEI (Software Delegated Exception Interface), APEI, UEFI PI-SMM. Will talk about all the components of the new RAS architecture on ARM64, gives audience the current status and the next step of development.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-203/
+Presentation:
+Video: https://www.youtube.com/watch?v=NReFBzbeWi0
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword:
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 26 Sept 2017
+
+Speakers: Fu Wei
+
+Position: Software Engineer at Red Hat

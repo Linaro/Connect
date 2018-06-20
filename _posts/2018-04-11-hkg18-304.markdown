@@ -1,0 +1,64 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-304.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-304.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:12:48+00:00
+excerpt: Current hardware set on AI application have been dominated by GPGPU. We see
+  this trend very natural since "LEARNING" which requires processing power was the
+  start point. Now we are in the phase to utilize the "DATA" for inference. Attaching
+  CNN dedicated processing accelerator into Socionext SynQuacer server becomes AI
+  server with superior power efficiency to existing hardware set. The scalability
+  of this AI server will make AI inference process similar to Index searching.
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-304/
+session_id: HKG18-304
+session_track: LEG AI;Ecosystem Day
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18304-scalable-ai-server
+slug: hkg18-304
+speakers: Shuichi Yamane
+title: HKG18-304 - Scalable AI server
+video_length: '24:08'
+video_thumbnail: None
+wordpress_id: 8780
+youtube_video_url: https://www.youtube.com/watch?v=HhJAISa2ap0
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: HKG18-304
+Session Name: HKG18-304 - Scalable AI server
+Speaker: Shuichi Yamane
+Track: LEG AI;Ecosystem Day
+
+
+★ Session Summary ★
+Current hardware set on AI application have been dominated by GPGPU. We see this trend very natural since "LEARNING" which requires processing power was the start point. Now we are in the phase to utilize the "DATA" for inference. Attaching CNN dedicated processing accelerator into Socionext SynQuacer server becomes AI server with superior power efficiency to existing hardware set. The scalability of this AI server will make AI inference process similar to Index searching.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-304/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-304.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-304.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: LEG AI;Ecosystem Day
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Shuichi Yamane
+
+Speaker Positions: 
+
+

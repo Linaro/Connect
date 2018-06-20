@@ -1,0 +1,81 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/22e7397e-6141-4d01-b1fe-cfaf92a52277.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/22e7397e-6141-4d01-b1fe-cfaf92a52277.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-03-14 13:11:39+00:00
+excerpt: "Please join us at 7pm in Grand Ballroom I+II of the Regal Airport Hotel.\
+  \  A traditional Chinese style dinner will be served along with beer, wine, and\
+  \ entertainment.  \n\nIf you plan to attend, **YOU MUST REGISTER** [**here**](https://www.eventbrite.co.uk/e/linaro-connect-gala-dinner-on-thursday-tickets-43589178406?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)\n\
+  \nPlease note: Vegetarians *must* pick up a card to place in front of their seat\
+  \ at dinner to alert servers of your meal preference. Vegetarian cards will be available\
+  \ for pickup at a table directly outside the Ballroom before the dinner begins.\n\
+  \n**Show team spirit at the Linaro Connect HKG18 Gala Dinner**\nIf you're interested\
+  \ in pulling together a group of like-minded people to dress in a consistently unique\
+  \ manner, please email Kristine. If you need some ideas for group themes, check\
+  \ out this link. It can be as simple as all wearing the same color t-shirt, all\
+  \ wearing a unique hat or pair of sunglasses, or any other group theme you can think\
+  \ of!\n\nWe will also be handing out 5 year service awards as well as recognition\
+  \ awards.\n\nSee you there!"
+layout: post
+link: http://connect.linaro.org/resource/hkg18/22e7397e-6141-4d01-b1fe-cfaf92a52277/
+session_id: 22e7397e-6141-4d01-b1fe-cfaf92a52277
+slug: 22e7397e-6141-4d01-b1fe-cfaf92a52277
+speakers: Not Available
+title: 22e7397e-6141-4d01-b1fe-cfaf92a52277 - Linaro Connect Gala Dinner (Open to
+  all attendees, pre-registration required)
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 9025
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: 22e7397e-6141-4d01-b1fe-cfaf92a52277
+Session Name: 22e7397e-6141-4d01-b1fe-cfaf92a52277 - Linaro Connect Gala Dinner (Open to all attendees, pre-registration required) 
+Speaker: Not Available
+Track: 
+
+
+★ Session Summary ★
+Please join us at 7pm in Grand Ballroom I+II of the Regal Airport Hotel.  A traditional Chinese style dinner will be served along with beer, wine, and entertainment.  
+
+If you plan to attend, **YOU MUST REGISTER** [**here**](https://www.eventbrite.co.uk/e/linaro-connect-gala-dinner-on-thursday-tickets-43589178406?utm-medium=discovery&utm-campaign;=social&utm-content;=attendeeshare&aff;=escb&utm-source;=cp&utm-term;=listing)
+
+Please note: Vegetarians *must* pick up a card to place in front of their seat at dinner to alert servers of your meal preference. Vegetarian cards will be available for pickup at a table directly outside the Ballroom before the dinner begins.
+
+**Show team spirit at the Linaro Connect HKG18 Gala Dinner**
+If you're interested in pulling together a group of like-minded people to dress in a consistently unique manner, please email Kristine. If you need some ideas for group themes, check out this link. It can be as simple as all wearing the same color t-shirt, all wearing a unique hat or pair of sunglasses, or any other group theme you can think of!
+
+We will also be handing out 5 year service awards as well as recognition awards.
+
+See you there!
+
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/22e7397e-6141-4d01-b1fe-cfaf92a52277/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/22e7397e-6141-4d01-b1fe-cfaf92a52277.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/22e7397e-6141-4d01-b1fe-cfaf92a52277.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Not Available
+
+Speaker Positions: Not Found
+
+

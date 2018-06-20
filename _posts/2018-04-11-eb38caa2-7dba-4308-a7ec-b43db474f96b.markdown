@@ -1,0 +1,71 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/eb38caa2-7dba-4308-a7ec-b43db474f96b.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/eb38caa2-7dba-4308-a7ec-b43db474f96b.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:11:12+00:00
+excerpt: 'It was required some tweaks to use big.LITTLE solution on performance sensitive
+  system such as automotive use case.
+
+  Especially for the system built with upstream kernel due to no sched_util functionality
+  still not merged on that.
+
+  Renesas distributing the kernel enabled big.LITTLE solution for Automotive usecase
+  with upstream kernel which is the result of latest kernel community acquisition
+  status of the EAS.
+
+  In this presentation, Renesas promoting scheduler parameter settings to utilize
+  performance oriented big.LITTLE solution."'
+layout: post
+link: http://connect.linaro.org/resource/hkg18/eb38caa2-7dba-4308-a7ec-b43db474f96b/
+session_id: eb38caa2-7dba-4308-a7ec-b43db474f96b
+session_track: Ecosystem Day
+slug: eb38caa2-7dba-4308-a7ec-b43db474f96b
+speakers: Not Available
+title: eb38caa2-7dba-4308-a7ec-b43db474f96b - Utilizing a big.LITTLE solution in Automotive
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 8679
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: eb38caa2-7dba-4308-a7ec-b43db474f96b
+Session Name: eb38caa2-7dba-4308-a7ec-b43db474f96b - Utilizing a big.LITTLE solution in Automotive
+Speaker: Not Available
+Track: Ecosystem Day
+
+
+★ Session Summary ★
+It was required some tweaks to use big.LITTLE solution on performance sensitive system such as automotive use case.
+Especially for the system built with upstream kernel due to no sched_util functionality still not merged on that.
+Renesas distributing the kernel enabled big.LITTLE solution for Automotive usecase with upstream kernel which is the result of latest kernel community acquisition status of the EAS.
+In this presentation, Renesas promoting scheduler parameter settings to utilize performance oriented big.LITTLE solution."
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/eb38caa2-7dba-4308-a7ec-b43db474f96b/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/eb38caa2-7dba-4308-a7ec-b43db474f96b.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/eb38caa2-7dba-4308-a7ec-b43db474f96b.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Ecosystem Day
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Not Available
+
+Speaker Positions: Not Found
+
+

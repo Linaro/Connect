@@ -1,0 +1,69 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-500K1-Corbet-maint.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Friday/BUD17-500K1The%20kernels%20limits%20to%20growth%20-%20Jonathan%20Corbet%20from%20LWN%20-%20BUD17-500K1.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:54+00:00
+excerpt: The Linux kernel is one of the most successful software-development projects
+  ever. To get there we had to surmount a number of process and community-management
+  hurdles, though. The result is a development process that is a wonder to behold,
+  but it would be a mistake to say that we have solved all of our problems forevermore.
+  We are facing a number of obstacles that, beyond limiting our future growth, might
+  even threaten our ability to sustain our current development pace. What are those
+  obstacles, and what can we be doing to address them?
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-500k1/
+session_id: BUD17-500K1
+session_track: None
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/the-kernels-limits-to-growth-bud17500k1
+slug: bud17-500k1
+speakers: Jonathan Corbet
+title: The kernel’s limits to growth - BUD17-500K1
+video_length: '47:36'
+video_thumbnail: None
+wordpress_id: 4717
+youtube_video_url: https://www.youtube.com/watch?v=_hajkHgyVbk
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- corbet
+- Kernel
+- Keynote
+- Linux
+---
+
+"Session ID: BUD17-500K1
+Session Name: The kernel’s limits to growth - BUD17-500K1
+Speaker: Jonathan Corbet
+Track: 
+
+
+★ Session Summary ★
+The Linux kernel is one of the most successful software-development projects ever. To get there we had to surmount a number of process and community-management hurdles, though. The result is a development process that is a wonder to behold, but it would be a mistake to say that we have solved all of our problems forevermore. We are facing a number of obstacles that, beyond limiting our future growth, might even threaten our ability to sustain our current development pace. What are those obstacles, and what can we be doing to address them?
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-500k1/
+Presentation: https://www.slideshare.net/linaroorg/the-kernels-limits-to-growth-bud17500k1
+Video: https://www.youtube.com/watch?v=b8Hpo_z4lJ0
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+kernel, linux, corbet, keynote
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+"

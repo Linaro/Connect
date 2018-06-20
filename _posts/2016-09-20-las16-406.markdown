@@ -1,0 +1,45 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Thursday/LAS16-406%20-%20Android%20Widevine%20on%20OP-TEE.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Thursday/LAS16-406%20Android%20Widevine%20on%20OP-TEE.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:58+00:00
+excerpt: In this session we will learn about what has been done to get Android Widevine
+  to run OP-TEE.
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-406/
+session_id: LAS16-406
+session_track: Core Development
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16406-android-widevine-on-optee
+slug: las16-406
+speakers: None
+title: 'LAS16-406: Android Widevine on OP-TEE'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3847
+youtube_video_url: https://youtu.be/LEJqTXVs9N8
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- Android
+- Security
+---
+
+LAS16-406: Android Widevine on OP-TEE
+Speakers:
+Date: September 29, 2016
+
+★ Session Description ★
+In this session we will learn about what has been done to get Android Widevine to run OP-TEE.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-406
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-406/](http://connect.linaro.org/resource/las16/las16-406/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

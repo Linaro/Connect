@@ -1,0 +1,85 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-218-Auto-BoF.pdf
+amazon_s3_video_url: N
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:54:45+00:00
+excerpt: 'All are welcome!
+
+
+  At the first edition of the Automotive BoF held at Budapest David Rusling and
+
+  Robin Randhawa broached the topic of open source software use in the safety
+
+  critical parts of the Automotive domain. That discussion led to some important
+
+  realisations about Linux possibilities and realities. In this second edition
+
+  of the Automotive Bof David and Robin provide further interesting insights
+
+  from discussions with major Tier 1 Automotive OEMs. Overall, things seem to be
+
+  trending towards some concrete proposals for the role of Linaro in this space.
+
+  Join us at the BoF to learn more.'
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-218/
+session_id: SFO17-218
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/tsc-sponsored-bof-can-linux-and-automotive-functional-safety-mix-take-2-towards-an-open-source-industry-acceptable-high-assurance-os-sfo17218
+slug: sfo17-218
+title: 'TSC Sponsored BoF: Can Linux and Automotive Functional Safety Mix ? Take 2:
+  Towards an open source, industry acceptable high assurance OS - SFO17-218'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 5990
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-218
+Session Name: TSC Sponsored BoF: Can Linux and Automotive Functional Safety Mix ? Take 2: Towards an open source, industry acceptable high assurance OS - SFO17-218
+Speaker: 
+Track: 
+
+
+★ Session Summary ★
+All are welcome!
+
+At the first edition of the Automotive BoF held at Budapest David Rusling and
+Robin Randhawa broached the topic of open source software use in the safety
+critical parts of the Automotive domain. That discussion led to some important
+realisations about Linux possibilities and realities. In this second edition
+of the Automotive Bof David and Robin provide further interesting insights
+from discussions with major Tier 1 Automotive OEMs. Overall, things seem to be
+trending towards some concrete proposals for the role of Linaro in this space.
+Join us at the BoF to learn more.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-218/
+Presentation: https://www.slideshare.net/linaroorg/tsc-sponsored-bof-can-linux-and-automotive-functional-safety-mix-take-2-towards-an-open-source-industry-acceptable-high-assurance-os-sfo17218
+Video: 
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 27 Sept 2017
+
+Speakers: 
+
+Position: 

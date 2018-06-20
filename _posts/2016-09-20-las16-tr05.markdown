@@ -1,0 +1,47 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-TR05%20-%20Getting%20Started%20in%20LAVA%20V2%20%281%29.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-TR05%20Getting%20Started%20in%20LAVA%20v2.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:54+00:00
+excerpt: Tutorial material to support getting started/evaluating LAVA v2. An end-to-end
+  tutorial including physical bootloader device with a stand-alone installation of
+  LAVA. Covering - device requirements, device configuration for 32- and 64-bit platforms
+  with QEMU, ARMv7 and ARMv8 targets. An important part would be having links between
+  the v2 documentation and the tutorial material.
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-tr05/
+session_id: LAS16-TR05
+session_track: Training
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16tr05-getting-started-in-lava-v2
+slug: las16-tr05
+speakers: Bill Fletcher
+title: 'LAS16-TR05: Getting Started in LAVA v2'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3838
+youtube_video_url: https://youtu.be/EeRZv_1K380
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- LAVA
+---
+
+LAS16-TR05: Getting Started in LAVA v2
+Speakers: Bill Fletcher
+Date: September 28, 2016
+
+★ Session Description ★
+Tutorial material to support getting started/evaluating LAVA v2. An end-to-end tutorial including physical bootloader device with a stand-alone installation of LAVA. Covering - device requirements, device configuration for 32- and 64-bit platforms with QEMU, ARMv7 and ARMv8 targets. An important part would be having links between the v2 documentation and the tutorial material.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-tr05
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-tr05/](http://connect.linaro.org/resource/las16/las16-tr05/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

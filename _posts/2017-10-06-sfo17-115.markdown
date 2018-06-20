@@ -1,0 +1,58 @@
+---
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-115%20BoF%20%20Quic%20Upstreaming.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:53:58+00:00
+excerpt: Continuation of discussion from BUD17. QC kernel upstream status, issues,
+  roadblocks, planning.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-115/
+session_id: SFO17-115
+slug: sfo17-115
+title: 'BoF: Quic Upstreaming - SFO17-115'
+video_length: 01:13:00
+video_thumbnail: None
+wordpress_id: 5944
+youtube_video_url: https://www.youtube.com/watch?v=H8KeZDsNVDs
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-115
+Session Name: BoF: Quic Upstreaming - SFO17-115
+Speaker: 
+Track: 
+
+
+★ Session Summary ★
+Continuation of discussion from BUD17. QC kernel upstream status, issues, roadblocks, planning.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-115/
+Presentation: 
+Video: https://www.youtube.com/watch?v=H8KeZDsNVDs
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 26 Sept 2017
+
+Speakers: 
+
+Position: 

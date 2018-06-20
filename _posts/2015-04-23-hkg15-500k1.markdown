@@ -1,0 +1,30 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg15/Videos/02-13-Friday/HKG15-500K1%20How%20Linaro%20is%20doing%20-%20Greg%20Kroah-Hartman%20Linux%20Foundation.mp4
+author: kyle.kirkby
+comments: true
+date: 2015-04-23 15:36:19+00:00
+layout: post
+link: http://connect.linaro.org/resource/hkg15/hkg15-500k1/
+session_id: HKG15-500K1
+session_track: General
+slideshare_presentation_url: None
+slug: hkg15-500k1
+speakers: Greg Kroah-Hartman
+title: 'HKG15-500K1 : How Linaro is doing - Greg Kroah-Hartman, Linux Foundation'
+video_length: '23:36'
+video_thumbnail: None
+wordpress_id: 759
+youtube_video_url: https://www.youtube.com/watch?v=tE3804cOtXA
+categories:
+- Linaro Connect Hong Kong 2015
+post_format:
+- Video
+tags:
+- General
+- Greg Kroah-Hartman
+- hkg15
+- HKG15-500K1
+---
+
+No Content Found

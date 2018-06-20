@@ -1,0 +1,64 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-405%20Multithreaded%20Programming%20on%20ARM%20-%20A%20MP%252FMC%20Ring%20Buffer%20Case%20Study.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-405%20-%20Multi-threaded%20Programming%20on%20ARM%20-%20a%20MP-MC%20Ring%20Buffer%20Case%20Study.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:55:49+00:00
+excerpt: This presentation describes the evolution of a multi-producer / multi-consumer
+  ring buffer from a lock-based beginning to a scalable non-blocking design. Hardware
+  and software properties that limit scalability and prevent non-blocking behavior
+  is identified. A novel use of lock-free delegation to release ring buffer updates
+  is presented.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-405/
+session_id: SFO17-405
+session_track: LNG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/multithreaded-programming-on-arm-a-mpmc-ring-buffer-case-study-sfo17405
+slug: sfo17-405
+speakers: Ola Liljedahl
+title: Multi-threaded Programming on ARM - a MP/MC Ring Buffer Case Study - SFO17-405
+video_length: '32:41'
+video_thumbnail: None
+wordpress_id: 6053
+youtube_video_url: https://www.youtube.com/watch?v=Qg6ZZLgXqek
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-405
+Session Name: Multi-threaded Programming on ARM - a MP/MC Ring Buffer Case Study - SFO17-405
+Speaker: Ola Liljedahl
+Track: LNG
+
+★ Session Summary ★
+This presentation describes the evolution of a multi-producer / multi-consumer ring buffer from a lock-based beginning to a scalable non-blocking design. Hardware and software properties that limit scalability and prevent non-blocking behavior is identified. A novel use of lock-free delegation to release ring buffer updates is presented.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-405/
+Presentation: https://www.slideshare.net/linaroorg/multithreaded-programming-on-arm-a-mpmc-ring-buffer-case-study-sfo17405
+Video: https://www.youtube.com/watch?v=Qg6ZZLgXqek
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword:
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 28 Sept 2017
+
+Speakers: Ola Liljedahl
+
+Position: Networking System Architect at ARM

@@ -1,0 +1,73 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Monday/BUD17-106%20LMG%20Lightning%20Talks%20v2.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:24+00:00
+excerpt: "Short updates on various LMG initiatives, including boottime reduction,\
+  \ Android 4.9, ART, Serial Device Bus and PPP upstreaming. This is a series of short\
+  \ (~10 minutes) updates on LMG Initiatives:\n \n - Boottime reduction status updates\
+  \ (AOSP)\n  \n - Efforts in making ARM the best platform for Android (ART) \n  \n\
+  \ - Whats new in android-4.9 (Amit Pundir)\n  \n - Intro to Serial Device Bus (Rob\
+  \ Herring)\n  \n - PPP Effort Update (Sam Protsenko)"
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-106/
+session_id: BUD17-106
+session_track: LMG
+slideshare_presentation_url: None
+slug: bud17-106
+speakers: None
+title: LMG Lightning Talks - BUD17-106
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4619
+youtube_video_url: https://youtu.be/KUCBqnnnJK0
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- Android
+- LMG
+---
+
+Session ID: BUD17-106
+Session Name: LMG Lightning Talks - BUD17-106
+Speaker:
+Track: LMG
+
+★ Session Summary ★
+Short updates on various LMG initiatives, including boottime reduction, Android 4.9, ART, Serial Device Bus and PPP upstreaming. This is a series of short (~10 minutes) updates on LMG Initiatives:
+
+- Boottime reduction status updates (AOSP)
+
+- Efforts in making ARM the best platform for Android (ART)
+
+- Whats new in android-4.9 (Amit Pundir)
+
+- Intro to Serial Device Bus (Rob Herring)
+
+- PPP Effort Update (Sam Protsenko)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-106/
+Video: https://youtu.be/KUCBqnnnJK0
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+LMG, Android
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961

@@ -1,0 +1,64 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr11.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr11.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:16:35+00:00
+excerpt: The LAVA on your desk BoF is aimed at individual kernel engineers, subsystem
+  maintainers and other interested individuals who have a single device attached to
+  their development box and who want to be able to triage results coming out of LKFT
+  and other systems based on LAVA by re-running LKFT test jobs with their own patched
+  kernel tree etc. The hardware for this use case does not have to cope with dozens
+  of devices or automated submissions. It is the single-device-single-developer model
+  and the cost of the hardware can reflect this.
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-tr11/
+session_id: HKG18-TR11
+session_track: Training
+slug: hkg18-tr11
+speakers: Bill Fletcher
+title: HKG18-TR11 - LAVA on your desk BoF
+video_length: '41:34'
+video_thumbnail: None
+wordpress_id: 8890
+youtube_video_url: https://www.youtube.com/watch?v=kB-eUKnYy7g
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: HKG18-TR11
+Session Name: HKG18-TR11 - LAVA on your desk BoF
+Speaker: Bill Fletcher
+Track: Training
+
+
+★ Session Summary ★
+The LAVA on your desk BoF is aimed at individual kernel engineers, subsystem maintainers and other interested individuals who have a single device attached to their development box and who want to be able to triage results coming out of LKFT and other systems based on LAVA by re-running LKFT test jobs with their own patched kernel tree etc. The hardware for this use case does not have to cope with dozens of devices or automated submissions. It is the single-device-single-developer model and the cost of the hardware can reflect this.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-tr11/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr11.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr11.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Training
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Bill Fletcher
+
+Speaker Positions: EMEA Engineering
+
+

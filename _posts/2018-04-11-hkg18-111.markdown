@@ -1,0 +1,61 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-111.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-111.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:11:12+00:00
+excerpt: The session will take the example of the hikey960 to explain how we can compute
+  wakeup latency and residency time of a platform without expensive materiel or details
+  of the platform.
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-111/
+session_id: HKG18-111
+session_track: Kernel
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18111-how-to-get-realistic-cstate-latency-and-residency
+slug: hkg18-111
+speakers: Vincent Guittot
+title: HKG18-111 - How to get realistic c-state latency and residency?
+video_length: '30:08'
+video_thumbnail: None
+wordpress_id: 8708
+youtube_video_url: https://www.youtube.com/watch?v=z9zneZl4ZOI
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: HKG18-111
+Session Name: HKG18-111 - How to get realistic c-state latency and residency?
+Speaker: Vincent Guittot
+Track: Kernel
+
+
+★ Session Summary ★
+The session will take the example of the hikey960 to explain how we can compute wakeup latency and residency time of a platform without expensive materiel or details of the platform.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-111/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-111.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-111.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Kernel
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Vincent Guittot
+
+Speaker Positions: Technical Lead - Power
+
+

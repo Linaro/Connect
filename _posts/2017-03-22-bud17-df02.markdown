@@ -1,0 +1,28 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
+author: celia.ilardi
+comments: false
+date: 2017-03-22 11:33:21+00:00
+excerpt: Archermind demo for MTK X20 Pro and Mstar TV 96Boards
+layout: post
+link: http://connect.linaro.org/resource/bud17/demo/bud17-df02/
+session_id: BUD17-DF02
+session_track: Archermind demo for MTK X20 Pro and Mstar TV 96Boards
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/archermind-demo-for-mtk-x20-pro-and-mstar-tv-96boards
+slug: bud17-df02
+speakers: Archermind Team
+title: Archermind demo for MTK X20 Pro and Mstar TV 96Boards- BUD17-DF02
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 5680
+youtube_video_url: 'https://www.youtube.com/watch?v=qs16StX8k14 '
+categories:
+- Demo Friday
+post_format:
+- Video
+---
+
+Archermind will demo their new 96Boards of MTK X20 Pro and MStar TV 96Boards
+
+Team: Archermind Team

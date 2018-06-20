@@ -1,0 +1,44 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:11:00+00:00
+excerpt: "Questions and conversation on ARM Mali GPU and associated drivers\n \n Note:\
+  \ this session will not be videotaped."
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-414/
+session_id: LAS16-414
+session_track: None
+slideshare_presentation_url: None
+slug: las16-414
+speakers: Bill Fletcher, Guillaume Tucker
+title: 'LAS16-414: ARM Mali GPU Q&A Session'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4029
+youtube_video_url: None
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+---
+
+LAS16-414: ARM Mali GPU Q&A Session
+Speakers: Bill Fletcher, Guillaume Tucker
+Date: September 29, 2016
+
+★ Session Description ★
+Questions and conversation on ARM Mali GPU and associated drivers
+
+Note: this session will not be videotaped.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-414
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-414/](http://connect.linaro.org/resource/las16/las16-414/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

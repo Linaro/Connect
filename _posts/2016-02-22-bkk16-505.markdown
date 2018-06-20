@@ -1,0 +1,32 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Friday/BKK16-505.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Friday/BKK16-505%20kernel%20and%20bootloader%20consolidation%20and%20upstreaming.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:57+00:00
+excerpt: An overview of the work being done to support the mezzanine hardware ecosystem.
+  Will cover the tools available, the boards that have already been created, and materials
+  provided to support mezzanine board designers
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-505/
+session_id: BKK16-505
+session_track: 96Boards
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16505-kernel-and-bootloader-consolidation-and-upstreaming
+slug: bkk16-505
+speakers: Grant Likely
+title: 'BKK16-505: Mezzanine Enablement'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3387
+youtube_video_url: https://youtu.be/fW6_eL3U7OQ
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- 96Boards
+---
+
+An overview of the work being done to support the mezzanine hardware ecosystem. Will cover the tools available, the boards that have already been created, and materials provided to support mezzanine board designers
+
+Event Date: March 11, 2016

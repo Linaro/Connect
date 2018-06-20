@@ -1,0 +1,71 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-319%20SCMI_Linaro_Connect_SFO2017.pptx.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-319%20-%20SCMI%20Test%20Suite.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:55:31+00:00
+excerpt: The ARM’s System Control and Management Interface (SCMI) is a set of operating
+  system-independent software interfaces that are used in system management to abstract
+  power and other system management tasks from the APs. Consequent to the publication
+  of this Platform Design Document (PDD), a suitable test suite is developed and made
+  available for adopters to assure compliance of their implementation against this
+  specification. In this session we provide an outline of the design considerations
+  taken into account while developing this test suite and also explain the porting
+  guidelines for any potential users of this test suite. Here we also demonstrate
+  the execution of this test suite run on Juno ARM Development Platform (ADP) using
+  LAVA.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-319/
+session_id: SFO17-319
+session_track: LMG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/scmi-test-suite-sfo17319
+slug: sfo17-319
+speakers: Saul Romero
+title: SCMI Test Suite - SFO17-319
+video_length: '19:12'
+video_thumbnail: None
+wordpress_id: 6037
+youtube_video_url: https://www.youtube.com/watch?v=pZHmlamxMr4
+categories:
+- Linaro Connect San Francisco 2017 (SFO17)
+post_format:
+- Video
+---
+
+Session ID: SFO17-319
+Session Name: SCMI Test Suite
+- SFO17-319
+Speaker: Saul Romero
+Track: LMG
+
+★ Session Summary ★
+The ARM’s System Control and Management Interface (SCMI) is a set of operating system-independent software interfaces that are used in system management to abstract power and other system management tasks from the APs. Consequent to the publication of this Platform Design Document (PDD), a suitable test suite is developed and made available for adopters to assure compliance of their implementation against this specification. In this session we provide an outline of the design considerations taken into account while developing this test suite and also explain the porting guidelines for any potential users of this test suite. Here we also demonstrate the execution of this test suite run on Juno ARM Development Platform (ADP) using LAVA.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-319/
+Presentation:
+Video: https://www.youtube.com/watch?v=pZHmlamxMr4
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword:
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 28 Sept 2017
+
+Speakers: Saul Romero
+
+Position: Senior Software Test Engineer at
+ARM

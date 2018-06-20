@@ -1,0 +1,59 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/9e195f40-1f68-4d80-8772-a4df8937bcaf.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/9e195f40-1f68-4d80-8772-a4df8937bcaf.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:11:12+00:00
+excerpt: 'Bring your own wine and cheese to share with friends.
+
+  This will be held in London meeting room.'
+layout: post
+link: http://connect.linaro.org/resource/hkg18/9e195f40-1f68-4d80-8772-a4df8937bcaf/
+session_id: 9e195f40-1f68-4d80-8772-a4df8937bcaf
+slug: 9e195f40-1f68-4d80-8772-a4df8937bcaf
+speakers: Yvan Roux
+title: 9e195f40-1f68-4d80-8772-a4df8937bcaf - Wine and Cheese Night
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 9029
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: 9e195f40-1f68-4d80-8772-a4df8937bcaf
+Session Name: 9e195f40-1f68-4d80-8772-a4df8937bcaf - Wine and Cheese Night
+Speaker: Yvan Roux
+Track: 
+
+
+★ Session Summary ★
+Bring your own wine and cheese to share with friends.
+This will be held in London meeting room. 
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/9e195f40-1f68-4d80-8772-a4df8937bcaf/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/9e195f40-1f68-4d80-8772-a4df8937bcaf.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/9e195f40-1f68-4d80-8772-a4df8937bcaf.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Yvan Roux
+
+Speaker Positions: Toolchain Engineer
+
+

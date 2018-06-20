@@ -1,0 +1,41 @@
+---
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Wednesday/BKK16-305A%20Server%20Colo%20Users%20BoF.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:45+00:00
+excerpt: 'The ARMv8 Server Lab has been up and running for more than a year since
+  the inception in the late Fall of 2014 and helped continuously those who need server-grade
+  hardware to verify their software, from the kernel to user applications.
+
+
+  In this BoF at BKK16, the Server Lab users get together for the first time to review
+  what we have accomplished so far and share knowledge obtained from our experiences
+  in the Lab. Constructive feedback from the users should shape the direction of the
+  Lab in the coming months of 2016. The BoF structure is as follows: possibly a few
+  short talks from the users, 10-15 minutes each, will be given after the introductory
+  address of the status of the Lab from the managers, followed by a discussion between
+  the attendees.'
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-305a/
+session_id: BKK16-305A
+session_track: LEG
+slug: bkk16-305a
+speakers: Itaru Kitayama
+title: 'BKK16-305A: ARMv8 Server Lab Users BoF'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3346
+youtube_video_url: https://youtu.be/ld1ff42SghQ
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- ARMv8
+- Lab
+- Server
+---
+
+The ARMv8 Server Lab has been up and running for more than a year since the inception in the late Fall of 2014 and helped continuously those who need server-grade hardware to verify their software, from the kernel to user applications.  In this BoF at BKK16, the Server Lab users get together for the first time to review what we have accomplished so far and share knowledge obtained from our experiences in the Lab. Constructive feedback from the users should shape the direction of the Lab in the coming months of 2016. The BoF structure is as follows: possibly a few short talks from the users, 10-15 minutes each, will be given after the introductory address of the status of the Lab from the managers, followed by a discussion between the attendees.
+
+Event Date: March 9, 2016

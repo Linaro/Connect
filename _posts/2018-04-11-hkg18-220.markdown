@@ -1,0 +1,68 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-220.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-220.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:12:48+00:00
+excerpt: AArch64 is now a first class citizen with Apache Bigtop community. Apache
+  Bigtop is a project for comprehensive packaging, testing, and configuration of the
+  leading open source big data components. It is what every distro is using to do
+  the build (ODPi, Hortonworks, IBM, Pivotal, etc). This talk will cover overview
+  of the patches submitted to the community, insights into bootstrapping and automating
+  the packaging process, deploying into docker containers using provisioners and newly
+  introduced Sandbox feature. We will touch on the challenges we faced in porting
+  it to AArch64 and running smoke tests. Jun He & Ganesh Raju - Bigtop patches, common
+  areas of code fixes, challenges of porting.and walk through of setup and installation
+  process. Naresh Bhat - Sandbox and Smoke Tests
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-220/
+session_id: HKG18-220
+session_track: Enterprise
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18220-state-of-big-data-on-aarch64-apache-bigtop
+slug: hkg18-220
+speakers: Ganesh Raju,Naresh Bhat,Jun He
+title: HKG18-220 - State of Big Data on AArch64. - Apache BigTop
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 8762
+youtube_video_url: https://www.youtube.com/watch?v=BqJWClOzL_o
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: HKG18-220
+Session Name: HKG18-220 - State of Big Data on AArch64. - Apache BigTop
+Speaker: Ganesh Raju,Naresh Bhat,Jun He
+Track: Enterprise
+
+
+★ Session Summary ★
+AArch64 is now a first class citizen with Apache Bigtop community. Apache Bigtop is a project for comprehensive packaging, testing, and configuration of the leading open source big data components. It is what every distro is using to do the build (ODPi, Hortonworks, IBM, Pivotal, etc). This talk will cover overview of the patches submitted to the community, insights into bootstrapping and automating the packaging process, deploying into docker containers using provisioners and newly introduced Sandbox feature. We will touch on the challenges we faced in porting it to AArch64 and running smoke tests. Jun He & Ganesh Raju - Bigtop patches, common areas of code fixes, challenges of porting.and walk through of setup and installation process. Naresh Bhat - Sandbox and Smoke Tests
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-220/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-220.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-220.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Enterprise
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Ganesh Raju,Naresh Bhat,Jun He
+
+Speaker Positions: Tech Lead - Big Data, Enterprise Group,Sr. Technical Lead Engineer,Engineer
+
+

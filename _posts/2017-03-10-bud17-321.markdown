@@ -1,0 +1,65 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/BUD17-321%20OCTO%20BoF%20%20Embedded%20Graphics.mp4
+author: celia.ilardi
+comments: false
+date: 2017-03-10 21:50:08+00:00
+excerpt: 'A discussion on embedded Graphics, likely code bases, use cases and minimum
+  requirements in the IoT device world.
+
+
+  '
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-321/
+session_id: BUD17-321
+session_track: None
+slideshare_presentation_url: None
+slug: bud17-321
+speakers: Andrea Gallo
+title: 'OCTO BoF: Embedded Graphics - BUD17-321'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 5301
+youtube_video_url: https://youtu.be/dewTuy--DuU
+categories:
+- Linaro Connect Budapest 2017 (BUD17)
+post_format:
+- Video
+tags:
+- BoF
+- Embedded
+- Graphics
+---
+
+"Session ID: BUD17-321
+Session Name: OCTO BoF: Embedded Graphics - BUD17-321
+Speaker: Andrea Gallo
+Track: 
+
+
+★ Session Summary ★
+A discussion on embedded Graphics, likely code bases, use cases and minimum requirements in the IoT device world.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-321/
+Presentation: 
+Video: https://youtu.be/dewTuy--DuU
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect Budapest 2017 (BUD17)
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: BoF, embedded, graphics
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

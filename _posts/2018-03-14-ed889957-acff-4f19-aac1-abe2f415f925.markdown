@@ -1,0 +1,64 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/ed889957-acff-4f19-aac1-abe2f415f925.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/ed889957-acff-4f19-aac1-abe2f415f925.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-03-14 13:11:39+00:00
+excerpt: As the earliest industry alliance based on ARM64, GCC is working on promoting
+  the development of the green computing industry, conforming to the technological
+  development trend of open source SW and open HW and bringing together the advanced
+  global industrial chain resources. Linaro Hongkong Connect would be a good opportunity
+  to introduce GCC to the industry, including establishment process, core work objectives
+  and tasks, organizational structure and related business progress. We are looking
+  forward to enhance the cooperation between GCC and Linaro in the future.
+layout: post
+link: http://connect.linaro.org/resource/hkg18/ed889957-acff-4f19-aac1-abe2f415f925/
+session_id: ed889957-acff-4f19-aac1-abe2f415f925
+session_track: LEG;Ecosystem Day
+slug: ed889957-acff-4f19-aac1-abe2f415f925
+speakers: Not Available
+title: 'ed889957-acff-4f19-aac1-abe2f415f925 - Dr. Tao Wang (GCC): Step into Green
+  Computing Cornsortium'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 8680
+categories:
+- Linaro Connect Hong Kong 2018 (HKG18)
+post_format:
+- Video
+---
+
+Session ID: ed889957-acff-4f19-aac1-abe2f415f925
+Session Name: ed889957-acff-4f19-aac1-abe2f415f925 - Dr. Tao Wang (GCC): Step into Green Computing Cornsortium
+Speaker: Not Available
+Track: LEG;Ecosystem Day
+
+
+★ Session Summary ★
+As the earliest industry alliance based on ARM64, GCC is working on promoting the development of the green computing industry, conforming to the technological development trend of open source SW and open HW and bringing together the advanced global industrial chain resources. Linaro Hongkong Connect would be a good opportunity to introduce GCC to the industry, including establishment process, core work objectives and tasks, organizational structure and related business progress. We are looking forward to enhance the cooperation between GCC and Linaro in the future.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/ed889957-acff-4f19-aac1-abe2f415f925/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/ed889957-acff-4f19-aac1-abe2f415f925.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/ed889957-acff-4f19-aac1-abe2f415f925.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: LEG;Ecosystem Day
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Not Available
+
+Speaker Positions: Not Found
+
+

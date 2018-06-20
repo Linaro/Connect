@@ -1,0 +1,35 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-206.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Tuesday/BKK16-206%20AOSP%20RAM%20reduction%20project%20retrospective.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:39+00:00
+excerpt: "The Goal: Reduce AOSP memory requirements without hurting performance too\
+  \ badly.\n What did we try:\n  - Update toolchains\n  - Make use of new features\
+  \ in updated toolchains\n  - Split libraries into smaller parts\n  - Tweak settings\n\
+  \  - Replace the memory allocator"
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-206/
+session_id: BKK16-206
+session_track: LMG
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16206-aosp-ram-reduction-project-retrospective
+slug: bkk16-206
+speakers: 'Bero
+
+  YongQin'
+title: 'BKK16-206: AOSP RAM reduction project retrospective'
+video_length: '39:38'
+video_thumbnail: None
+wordpress_id: 3328
+youtube_video_url: https://www.youtube.com/watch?v=65BgHLuHc7s
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- AOSP
+---
+
+The Goal: Reduce AOSP memory requirements without hurting performance too badly.  What did we try:   - Update toolchains   - Make use of new features in updated toolchains   - Split libraries into smaller parts   - Tweak settings   - Replace the memory allocator
+
+Event Date: March 8, 2016
