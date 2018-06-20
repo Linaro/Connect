@@ -4,6 +4,9 @@
     background-size: contain;
     background-repeat:  no-repeat;
     background-position:  center center;
+    transition: all 200ms ease;
+    margin-bottom:20px;
+    margin-top:20px;
 }
 #previous-sponsors .sponsor {
     text-align: center;
@@ -24,7 +27,9 @@ div#previous-sponsors {
     text-align:  center;
     margin-bottom: 10px;
 }
-
 #previous-sponsors .col-xs-12.text-center {
     margin-bottom: 25px;
+}
+#previous-sponsors .sponsor .img-responsive:hover {
+    transform: scale(1.2);
 }
