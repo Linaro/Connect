@@ -1,3 +1,26 @@
  .owl-stage-outer {
     height: 300px;
 }
+
+#intro-row {
+    margin-bottom:50px;
+}
+
+#sponsor-types h3.panel-title {
+    color:white;
+    font-size: 24px;
+}
+
+span.sponsor-price {
+    font-size: 36px;
+    color: #dfdfdf;
+}
+#sponsor-types .panel-body .list-group-item:first-child {
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+}
+li.list-group-item.divider {
+    background-color: #f2f2f2;
+    color: black;
+    font-weight: bold;
+}
