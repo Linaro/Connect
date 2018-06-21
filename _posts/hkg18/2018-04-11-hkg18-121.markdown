@@ -1,0 +1,67 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-121.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-121.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:11:54+00:00
+excerpt: The presentation will show a reference design of containerized VNFs with
+  VPP integration on Arm-based NFV infrastructure. Kubernetes is used as VIM to deploy
+  Docker cluster for OPNFV platform. DPDK is used to accelerate containerized VNFs,
+  meanwhile, the VPP vhost-user interfaces are used to create L2 bridge and VxLAN
+  overlay to connect between containers, which can be on the same host or different
+  hosts. The design ensures high throughput performance for VNFs, as well as provides
+  high scalability. This presentation will be useful for audience who want to understand
+  the progress of NFV on Arm and who have plan to deploy their containerized NFV solutions
+  on Arm architecture.
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-121/
+session_id: HKG18-121
+session_track: Enterprise
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18121-empowering-containerbased-nfvi-with-vpp-on-arm-servers
+slug: hkg18-121
+speakers: Song Zhu
+title: HKG18-121 - Empowering container-based NFVi with VPP on Arm Servers
+video_length: '20:25'
+video_thumbnail: None
+wordpress_id: 8726
+youtube_video_url: https://www.youtube.com/watch?v=7aGoA2UwQ9k
+categories:
+- hkg18
+post_format:
+- Video
+---
+
+Session ID: HKG18-121
+Session Name: HKG18-121 - Empowering container-based NFVi with VPP on Arm Servers
+Speaker: Song Zhu
+Track: Enterprise
+
+
+★ Session Summary ★
+The presentation will show a reference design of containerized VNFs with VPP integration on Arm-based NFV infrastructure. Kubernetes is used as VIM to deploy Docker cluster for OPNFV platform. DPDK is used to accelerate containerized VNFs, meanwhile, the VPP vhost-user interfaces are used to create L2 bridge and VxLAN overlay to connect between containers, which can be on the same host or different hosts. The design ensures high throughput performance for VNFs, as well as provides high scalability. This presentation will be useful for audience who want to understand the progress of NFV on Arm and who have plan to deploy their containerized NFV solutions on Arm architecture.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-121/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-121.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-121.mp4
+ ---------------------------------------------------
+★ Event Details ★
+hkg18
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Enterprise
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Song Zhu
+
+Speaker Positions: Software Engineer
+
+

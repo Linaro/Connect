@@ -1,0 +1,74 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-202%20-%20AOSP%20Toolchains.pdf
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:32+00:00
+excerpt: "LMG team, in collaboration with Toolchains team, has worked on multiple\
+  \ areas related to clang, gcc and native AOSP builds. Bero and Renato will take\
+  \ us through what has been done, and what we need to continue to do. This presentation\
+  \ will focus on LMG efforts around the following:\n \n - Clang CI efforts\n  \n\
+  \ - Getting AOSP to build with gcc 6/7\n \n - Building kernels with clang\n\n -\
+  \ Native AOSP builds and development"
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-202/
+session_id: BUD17-202
+session_track: LMG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17202-aosp-toolchains
+slug: bud17-202
+speakers: Bero Rsenkränzer, Renato Golin
+title: AOSP Toolchains - BUD17-202
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4641
+youtube_video_url: https://youtu.be/V-Ax66m0fsA
+categories:
+- bud17
+post_format:
+- Video
+tags:
+- AOSP
+- LMG
+- toolchains
+---
+
+Session ID: BUD17-202
+Session Name: AOSP Toolchains - BUD17-202
+Speaker: Bero Rsenkränzer, Renato Golin
+Track: LMG
+
+
+★ Session Summary ★
+LMG team, in collaboration with Toolchains team, has worked on multiple areas related to clang, gcc and native AOSP builds. Bero and Renato will take us through what has been done, and what we need to continue to do. This presentation will focus on LMG efforts around the following:
+
+- Clang CI efforts
+
+- Getting AOSP to build with gcc 6/7
+
+- Building kernels with clang
+
+- Native AOSP builds and development
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-202/
+Presentation: https://www.slideshare.net/linaroorg/bud17202-aosp-toolchains
+Video: https://youtu.be/V-Ax66m0fsA
+---------------------------------------------------
+
+★ Event Details ★
+bud17
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: AOSP, toolchains, LMG
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961

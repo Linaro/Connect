@@ -1,0 +1,66 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-405%20-%20Building%20a%20reference%20IoT%20product%20with%20Zephyr.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-405%20Building%20a%20reference%20IoT%20product%20with%20Zephyr.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:48+00:00
+excerpt: An example of a reference IoT product can be thought of supporting several
+  core technologies such as IPv4/IPv6, 6LoWPAN, Bluetooth LE and also several protocols
+  such as MQTT, CoAP and LWM2M. Additional requirements such as having a complete
+  secure boot and execution environment, besides being able to be securely updated
+  with FOTA support are also critically important.  This session will cover the development
+  and challenges faced when producing a reference IoT product implementation with
+  Zephyr, describing the state of the project, and the current gaps to productization.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-405/
+session_id: BUD17-405
+session_track: LTD
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17405-building-a-reference-iot-product-with-zephyr
+slug: bud17-405
+speakers: Michael Scott, Ricardo Salveti
+title: Building a reference IoT product with Zephyr - BUD17-405
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4696
+youtube_video_url: https://youtu.be/TOJkzIJ_3jg
+categories:
+- bud17
+post_format:
+- Video
+tags:
+- LTD
+- Zephyr. IoT
+---
+
+"Session ID: BUD17-405
+Session Name: Building a reference IoT product with Zephyr - BUD17-405
+Speaker: Michael Scott, Ricardo Salveti
+Track: LTD
+
+
+★ Session Summary ★
+An example of a reference IoT product can be thought of supporting several core technologies such as IPv4/IPv6, 6LoWPAN, Bluetooth LE and also several protocols such as MQTT, CoAP and LWM2M. Additional requirements such as having a complete secure boot and execution environment, besides being able to be securely updated with FOTA support are also critically important.  This session will cover the development and challenges faced when producing a reference IoT product implementation with Zephyr, describing the state of the project, and the current gaps to productization.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-405/
+Presentation: https://www.slideshare.net/linaroorg/bud17405-building-a-reference-iot-product-with-zephyr
+Video: https://youtu.be/TOJkzIJ_3jg
+ ---------------------------------------------------
+
+★ Event Details ★
+bud17
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: LTD, Zephyr. IoT
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

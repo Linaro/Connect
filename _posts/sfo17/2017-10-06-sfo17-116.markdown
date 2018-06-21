@@ -1,0 +1,65 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-116%20Test-Standards-LC-2017%20.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-116%20Test%20standards%20-%20can%20Fuego%2C%20LAVA%20and%20others%20agree.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:53:58+00:00
+excerpt: Several open source test frameworks for Linux exist and are being actively
+  adopted and used.  This includes KernelCI, LAVA, Fuego, Avacado, kerneltest and
+  others.  In this session, Tim would like to discuss the state of these different
+  test systems, and propose standards in some areas so that the different frameworks
+  can share infrastructure and interoperate.  This include standards for results formats,
+  interfaces to commonly-used utility programs, and for board control hardware.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-116/
+session_id: SFO17-116
+session_track: LITE
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/test-standards-can-fuego-lava-and-others-agree-sfo17116
+slug: sfo17-116
+speakers: Tim Bird
+title: Test standards - can Fuego, Lava and others agree? - SFO17-116
+video_length: '32:52'
+video_thumbnail: None
+wordpress_id: 5945
+youtube_video_url: https://www.youtube.com/watch?v=uwWSijtVsLE
+categories:
+- sfo17
+post_format:
+- Video
+---
+
+Session ID: SFO17-116
+Session Name: Test standards - can Fuego, Lava and others agree? - SFO17-116
+Speaker: Tim Bird
+Track: LITE
+
+★ Session Summary ★
+Several open source test frameworks for Linux exist and are being actively adopted and used. This includes KernelCI, LAVA, Fuego, Avacado, kerneltest and others. In this session, Tim would like to discuss the state of these different test systems, and propose standards in some areas so that the different frameworks can share infrastructure and interoperate. This include standards for results formats, interfaces to commonly-used utility programs, and for board control hardware.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-116/
+Presentation:
+Video: https://www.youtube.com/watch?v=uwWSijtVsLE
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword:
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 26 Sept 2017
+
+Speakers: Tim Bird
+
+Position:

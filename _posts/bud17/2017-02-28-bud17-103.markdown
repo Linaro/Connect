@@ -1,0 +1,71 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-103%20CompressionODP.pdf
+amazon_s3_video_url: https://youtu.be/9L5T5UdDG-A
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:24+00:00
+excerpt: "A proposal to add ODP based compression/decompression API to provide portable\
+  \ hardware accelerated access for data plane applications that require compression/decompression.\
+  \ The proposal outlines 2 schemes:\n   A. Reuse the existing Cryptography API to\
+  \ support Compression.\n   B. Introduce independent Compression API.\n  The initial\
+  \ implementation will target Cavium OCTEON TX SoC to accelerate IP Compression (IPComp)"
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-103/
+session_id: BUD17-103
+session_track: LNG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/compression-support-in-opendataplane-odp-bud17103
+slug: bud17-103
+speakers: Narayana Prasad Athreya
+title: Compression support in OpenDataPlane(ODP) - BUD17-103
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4616
+youtube_video_url: https://youtu.be/aTOL0rGuIn8
+categories:
+- bud17
+post_format:
+- Video
+tags:
+- compression
+- LNG
+- Narayana Prasad Athreya
+- ODP
+- opendataplane
+---
+
+
+
+Session ID: BUD17-103
+Session Name: Compression support in OpenDataPlane(ODP) - BUD17-103
+Speaker: Narayana Prasad Athreya
+Track: LNG
+
+★ Session Summary ★
+A proposal to add ODP based compression/decompression API to provide portable hardware accelerated access for data plane applications that require compression/decompression. The proposal outlines 2 schemes:
+A. Reuse the existing Cryptography API to support Compression.
+B. Introduce independent Compression API.
+The initial implementation will target Cavium OCTEON TX SoC to accelerate IP Compression (IPComp)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-103/
+Presentation: https://www.slideshare.net/linaroorg/compression-support-in-opendataplane-odp-bud17103
+Video: https://youtu.be/aTOL0rGuIn8
+---------------------------------------------------
+
+★ Event Details ★
+bud17
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: ODP, opendataplane, compression, LNG, Compression, Narayana Prasad Athreya
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961

@@ -1,0 +1,73 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Tuesday/BUD17-200K2%20Big%20data%20big%20challenges%20for%20ESA%20missions%20Archives.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:30+00:00
+excerpt: The European Space Agency’s (ESA) current mission Gaia and upcoming one Euclid
+  will generate massive amounts of astronomical data to be made freely available on-line
+  through powerful data management systems. This big data era brings a change of paradigm
+  and associated big challenges for building these missions’ archives. The current
+  use case of “bring the data to the user” is being replaced by the new concept of
+  “bring the user to the data”. This new generation of science archives is transforming
+  into science exploitation and collaborative platforms, where the users can send
+  her/his code to the data, run it on computing and storage services provided directly
+  by the archive (where the data reside), and easily share all this with other scientists
+  they’re collaborating with.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-200k1/
+session_id: BUD17-200K1
+session_track: Keynote
+slideshare_presentation_url: None
+slug: bud17-200k1
+speakers: Christophe Arviset
+title: Big data, big challenges for ESA Space Science Missions’ Archives - BUD17-200K1
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4636
+youtube_video_url: https://youtu.be/zZFVMsrkMtg
+categories:
+- bud17
+post_format:
+- Video
+tags:
+- Big data
+- CERN
+- Christophe Arviset
+- ESA
+- Keynote
+- Space
+---
+
+Session ID: BUD17-200K1
+Session Name: Big data, big challenges for ESA Space Science Missions’ Archives - BUD17-200K1
+Speaker: Christophe Arviset
+Track: Keynote
+
+
+★ Session Summary ★
+The European Space Agency’s (ESA) current mission Gaia and upcoming one Euclid will generate massive amounts of astronomical data to be made freely available on-line through powerful data management systems. This big data era brings a change of paradigm and associated big challenges for building these missions’ archives. The current use case of “bring the data to the user” is being replaced by the new concept of “bring the user to the data”. This new generation of science archives is transforming into science exploitation and collaborative platforms, where the users can send her/his code to the data, run it on computing and storage services provided directly by the archive (where the data reside), and easily share all this with other scientists they’re collaborating with.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-200k1/
+Presentation:
+Video: https://youtu.be/zZFVMsrkMtg
+---------------------------------------------------
+
+★ Event Details ★
+bud17
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: Big-data, ESA, keynote, Space, CERN, Christophe Arviset
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961

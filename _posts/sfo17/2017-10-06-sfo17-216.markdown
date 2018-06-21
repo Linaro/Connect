@@ -1,0 +1,108 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-216%20Vectorization%20%28final%29.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-216%20Automatic%20Vectorization%20in%20ART%20%28Android%20RunTime%29.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:54:45+00:00
+excerpt: 'Because all modern general-purpose CPUs support small-scale SIMD
+
+  instructions (typically between 64-bit and 512-bit), modern compilers
+
+  are becoming progressively better at taking advantage of SIMD
+
+  instructions automatically, a translation often referred to as
+
+  vectorization or SIMDization. Since the Android O release, the
+
+  optimizing compiler of ART has joined the family of vectorizing
+
+  compilers with the ability to translate bytecode into native SIMD code
+
+  for the target Android device. This talk will discuss the general
+
+  organization of the retargetable part of the vectorizer, which is
+
+  capable of automatically finding and exploiting vector instructions in
+
+  bytecode without committing to one of the target SIMD architectures
+
+  yet (currently ARM NEON (advanced SIMD), x86 SSE, and MIPS SIMD
+
+  Architecture). Furthermore the talk will present particular details of
+
+  deploying the vectorizing compiler on ARM platforms - its overall
+
+  impact on performance, some ARM specific considerations and
+
+  optimizations - and also will give an update on Linaro ART team''s
+
+  SIMD-related activities.'
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-216/
+session_id: SFO17-216
+session_track: LMG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/automatic-vectorization-in-art-android-runtime-sfo17216
+slug: sfo17-216
+speakers: Aart Bik  - Artem Serov
+title: Automatic Vectorization in ART (Android RunTime) - SFO17-216
+video_length: 01:01:55
+video_thumbnail: None
+wordpress_id: 5986
+youtube_video_url: https://www.youtube.com/watch?v=KOD5D_DjzaI
+categories:
+- sfo17
+post_format:
+- Video
+---
+
+Session ID: SFO17-216
+Session Name: Automatic Vectorization in ART (Android RunTime) - SFO17-216
+Speaker: Aart Bik - Artem Serov
+Track: LMG
+
+★ Session Summary ★
+Because all modern general-purpose CPUs support small-scale SIMD
+instructions (typically between 64-bit and 512-bit), modern compilers
+are becoming progressively better at taking advantage of SIMD
+instructions automatically, a translation often referred to as
+vectorization or SIMDization. Since the Android O release, the
+optimizing compiler of ART has joined the family of vectorizing
+compilers with the ability to translate bytecode into native SIMD code
+for the target Android device. This talk will discuss the general
+organization of the retargetable part of the vectorizer, which is
+capable of automatically finding and exploiting vector instructions in
+bytecode without committing to one of the target SIMD architectures
+yet (currently ARM NEON (advanced SIMD), x86 SSE, and MIPS SIMD
+Architecture). Furthermore the talk will present particular details of
+deploying the vectorizing compiler on ARM platforms - its overall
+impact on performance, some ARM specific considerations and
+optimizations - and also will give an update on Linaro ART team's
+SIMD-related activities.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-216/
+Presentation:
+Video: https://www.youtube.com/watch?v=KOD5D_DjzaI
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword:
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 27 Sept 2017
+
+Speakers: Aart Bik - Artem Serov
+
+Position:

@@ -1,0 +1,66 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-219%20Simplified%20DVFS%20and%20OPP%20framework.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-219%20Simplified%20DVFS%20and%20OPP%20framework.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:54:50+00:00
+excerpt: During the 4.6 development cycle, the operating performance points (OPP)
+  framework gained the infrastructure to do dynamic voltage and frequency scaling
+  (DVFS) on behalf of device drivers. This helps in reducing the complexity of those
+  drivers, which can instead focus on platform-specific details. The rest of this
+  article discusses what has changed and how can we use it to simplify our device
+  drivers.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-219/
+session_id: SFO17-219
+session_track: Power Management
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/simplified-dvfs-and-opp-framework-sfo17219
+slug: sfo17-219
+speakers: Viresh Kumar
+title: Simplified DVFS and OPP framework - SFO17-219
+video_length: '18:15'
+video_thumbnail: None
+wordpress_id: 5991
+youtube_video_url: https://www.youtube.com/watch?v=vq3fgz0gauQ
+categories:
+- sfo17
+post_format:
+- Video
+---
+
+Session ID: SFO17-219
+Session Name: Simplified DVFS and OPP framework - SFO17-219
+Speaker: Viresh Kumar
+Track: Power Management
+
+
+★ Session Summary ★
+During the 4.6 development cycle, the operating performance points (OPP) framework gained the infrastructure to do dynamic voltage and frequency scaling (DVFS) on behalf of device drivers. This helps in reducing the complexity of those drivers, which can instead focus on platform-specific details. The rest of this article discusses what has changed and how can we use it to simplify our device drivers.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-219/
+Presentation: https://www.slideshare.net/linaroorg/simplified-dvfs-and-opp-framework-sfo17219
+Video: https://www.youtube.com/watch?v=vq3fgz0gauQ
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 27 Sept 2017
+
+Speakers: Viresh Kumar
+
+Position: Engineer at Linaro

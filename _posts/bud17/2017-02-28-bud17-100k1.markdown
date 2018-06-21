@@ -1,0 +1,28 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-100K1.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Monday/George%20Grey%20Welcome%20Keynote%20-%20BUD17-100K1.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:23+00:00
+excerpt: Welcome Keynote
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-100k1/
+session_id: BUD17-100K1
+session_track: Keynote
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/george-grey-welcome-keynote-bud17100k1
+slug: bud17-100k1
+speakers: None
+title: George Grey Welcome Keynote - BUD17-100K1
+video_length: 01:04:26
+video_thumbnail: None
+wordpress_id: 4611
+youtube_video_url: https://www.youtube.com/watch?v=BUikAFy21ZI
+categories:
+- bud17
+post_format:
+- Video
+---
+
+Welcome Keynote
+
+Event Date: March 6, 2017

@@ -1,0 +1,62 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-412.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-412.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:13:45+00:00
+excerpt: Sharing what Linaro has learned through experience, covers background on
+  workflow interactions between AOSP and Android, trying to clarify some points folks
+  have found confusing or surprising. Additionally there is somespace to cover and
+  discuss ideas for how some process issues might be improved.
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-412/
+session_id: HKG18-412
+session_track: Mobile
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18412-androidaosp-workflow
+slug: hkg18-412
+speakers: John Stultz
+title: HKG18-412 - Android/AOSP Workflow
+video_length: '21:07'
+video_thumbnail: None
+wordpress_id: 8814
+youtube_video_url: https://www.youtube.com/watch?v=GcoDqAKgmCI
+categories:
+- hkg18
+post_format:
+- Video
+---
+
+Session ID: HKG18-412
+Session Name: HKG18-412 - Android/AOSP Workflow
+Speaker: John Stultz
+Track: Mobile
+
+
+★ Session Summary ★
+Sharing what Linaro has learned through experience, covers background on workflow interactions between AOSP and Android, trying to clarify some points folks have found confusing or surprising. Additionally there is somespace to cover and discuss ideas for how some process issues might be improved.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-412/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-412.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-412.mp4
+ ---------------------------------------------------
+★ Event Details ★
+hkg18
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Mobile
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: John Stultz
+
+Speaker Positions: Kernel Developer
+
+

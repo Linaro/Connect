@@ -1,0 +1,77 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-212.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-212.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:11:54+00:00
+excerpt: 'Trusted Firmware M
+
+
+  In October 2017, Arm announced the vision of Platform Security Architecture (PSA)
+  - a common framework to allow everyone in the IoT ecosystem to move forward with
+  stronger, scalable security and greater confidence. There are three key stages to
+  the Platform Security Architecture: Analysis, Architecture and Implementation which
+  are described at https://developer.arm.com/products/architecture/platform-security-architecture.
+
+
+  Trusted Firmware M, i.e. TF-M, is the Arm project to provide an open source reference
+  implementation firmware that will conform to the PSA specification for M-Class devices.
+  Early access to TF-M was released in December 2017 and it is being made public during
+  Linaro Connect. The implementation should be considered a prototype until the PSA
+  specifications reach release state and the code aligns.'
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-212/
+session_id: HKG18-212
+session_track: Iot, Security
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18212-trusted-firmware-m-introduction
+slug: hkg18-212
+speakers: James King
+title: 'HKG18-212 - Trusted Firmware M: Introduction'
+video_length: '40:30'
+video_thumbnail: None
+wordpress_id: 8748
+youtube_video_url: https://www.youtube.com/watch?v=wSgR1qSXWfY
+categories:
+- hkg18
+post_format:
+- Video
+---
+
+Session ID: HKG18-212
+Session Name: HKG18-212 - Trusted Firmware M: Introduction
+Speaker: James King
+Track: Iot, Security
+
+
+★ Session Summary ★
+Trusted Firmware M
+
+In October 2017, Arm announced the vision of Platform Security Architecture (PSA) - a common framework to allow everyone in the IoT ecosystem to move forward with stronger, scalable security and greater confidence. There are three key stages to the Platform Security Architecture: Analysis, Architecture and Implementation which are described at https://developer.arm.com/products/architecture/platform-security-architecture.
+
+Trusted Firmware M, i.e. TF-M, is the Arm project to provide an open source reference implementation firmware that will conform to the PSA specification for M-Class devices. Early access to TF-M was released in December 2017 and it is being made public during Linaro Connect. The implementation should be considered a prototype until the PSA specifications reach release state and the code aligns.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-212/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-212.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-212.mp4
+ ---------------------------------------------------
+★ Event Details ★
+hkg18
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Iot, Security
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: James King
+
+Speaker Positions: Technical Lead Product Software
+
+

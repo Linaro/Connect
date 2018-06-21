@@ -1,0 +1,61 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-215%20-%20LAVA%20Users%20Forum.pdf
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:35+00:00
+excerpt: Feedback and support for and by users of LAVA. Talk to us about your LAVA
+  use cases, problems, and ideas.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-215/
+session_id: BUD17-215
+session_track: LAVA
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17215-lava-users-forum
+slug: bud17-215
+speakers: Steve McIntyre
+title: LAVA Users Forum - BUD17-215
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4653
+youtube_video_url: https://youtu.be/l1uQMWXfFoQ
+categories:
+- bud17
+post_format:
+- Video
+tags:
+- LAVA
+- users-forum
+---
+
+Session ID: BUD17-215
+Session Name: LAVA Users Forum - BUD17-215
+Speaker: Steve McIntyre
+Track: LAVA
+
+
+★ Session Summary ★
+Feedback and support for and by users of LAVA. Talk to us about your LAVA use cases, problems, and ideas.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-215/
+Presentation: https://www.slideshare.net/linaroorg/bud17215-lava-users-forum
+Video: https://youtu.be/l1uQMWXfFoQ
+---------------------------------------------------
+
+★ Event Details ★
+bud17
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: LAVA, users-forum
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961

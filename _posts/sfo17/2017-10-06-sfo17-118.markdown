@@ -1,0 +1,77 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-118%20-%20mcuboot%20followup.pdf
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:54:03+00:00
+excerpt: 'Last Connect, we introduced mcuboot, the IoT bootloader used by Zephyr and
+  mynewt. Now that we’ve had a release, this session gives an update on the project,
+  what’s been done, and what is coming.
+
+
+  The open source MCUBoot project hosted by Runtime to provide an operating system-agnostic
+  secure boot loader for 32-bit microcontrollers has been ported to multiple operating
+  systems, specifically, the Apache Mynewt OS, the Zephyr OS, and the Riot OS. An
+  overview of the features in the first successful release of MCUBoot project will
+  be presented along with the use cases that drive the requirements for them. The
+  talk will touch on the utilities included in the project such as a tool to sign
+  images, a simulator for testing and regression etc. It will discuss why MCUBoot,
+  with its memory footprint, performance, security considerations, product-driven
+  goals, and ease of porting, is a compelling choice for an OS on constrained IoT
+  devices. Finally, the near and long-term feature roadmaps for the project will be
+  presented.'
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-118/
+session_id: SFO17-118
+session_track: LITE
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/an-update-on-mcuboot-the-iot-bootloader-sfo17118
+slug: sfo17-118
+speakers: David Brown - Aditi Hilbert
+title: "An update on MCUBoot (The IoT Bootloader)\n - SFO17-118"
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 5949
+categories:
+- sfo17
+post_format:
+- Video
+---
+
+Session ID: SFO17-118
+Session Name: An update on MCUBoot (The IoT Bootloader)
+ - SFO17-118
+Speaker: David Brown - Aditi Hilbert
+Track: LITE
+
+
+★ Session Summary ★
+Last Connect, we introduced mcuboot, the IoT bootloader used by Zephyr and mynewt. Now that we’ve had a release, this session gives an update on the project, what’s been done, and what is coming.
+
+The open source MCUBoot project hosted by Runtime to provide an operating system-agnostic secure boot loader for 32-bit microcontrollers has been ported to multiple operating systems, specifically, the Apache Mynewt OS, the Zephyr OS, and the Riot OS. An overview of the features in the first successful release of MCUBoot project will be presented along with the use cases that drive the requirements for them. The talk will touch on the utilities included in the project such as a tool to sign images, a simulator for testing and regression etc. It will discuss why MCUBoot, with its memory footprint, performance, security considerations, product-driven goals, and ease of porting, is a compelling choice for an OS on constrained IoT devices. Finally, the near and long-term feature roadmaps for the project will be presented.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-118/
+Presentation: https://www.slideshare.net/linaroorg/an-update-on-mcuboot-the-iot-bootloader-sfo17118
+Video: 
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 26 Sept 2017
+
+Speakers: David Brown - Aditi Hilbert
+
+Position: Senior Engineer / Head of Product

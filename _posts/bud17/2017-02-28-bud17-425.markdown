@@ -1,0 +1,64 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:53+00:00
+excerpt: 96Boards OpenHours – Sponsored by Linaro welcomes you to participate in the
+  ultimate community driven experience. This special LIVE broadcast will take place
+  over the BlueJeans video conferencing tool, in front of a live audience at the first
+  Linaro Connect of 2017. Bring your coffee and questions, demos and feedback because
+  OpenHours is going to Budapest!
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-425/
+session_id: BUD17-425
+session_track: 96Boards
+slideshare_presentation_url: None
+slug: bud17-425
+speakers: Robert Wolff
+title: OpenHours - Live at Linaro Connect, Budapest - BUD17-425
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4713
+youtube_video_url: https://youtu.be/nwibJ8_Gdog
+categories:
+- bud17
+post_format:
+- Video
+tags:
+- 96Boards
+- openhours
+---
+
+"Session ID: BUD17-425
+Session Name: OpenHours - Live at Linaro Connect, Budapest - BUD17-425
+Speaker: Robert Wolff
+Track: 96Boards
+
+
+★ Session Summary ★
+96Boards OpenHours – Sponsored by Linaro welcomes you to participate in the ultimate community driven experience. This special LIVE broadcast will take place over the BlueJeans video conferencing tool, in front of a live audience at the first Linaro Connect of 2017. Bring your coffee and questions, demos and feedback because OpenHours is going to Budapest!
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-425/
+Presentation: 
+Video: https://youtu.be/nwibJ8_Gdog
+ ---------------------------------------------------
+
+★ Event Details ★
+bud17
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: 96boards, openhours
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

@@ -10,7 +10,7 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 9144
 categories:
-- Linaro Connect Hong Kong 2018 (HKG18)
+- hkg18
 post_format:
 - Video
 ---

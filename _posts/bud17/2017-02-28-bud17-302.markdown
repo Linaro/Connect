@@ -1,0 +1,61 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-302%20-%20Introduction%20to%20LLVM%20-%20Projects%2C%20Components%2C%20Integration%2C%20Internals.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-302%20LLVM%20Internals%20%202.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:39+00:00
+excerpt: Continuing from LAS16 and, if we have time, introducing global isel that
+  we’re working on.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-302/
+session_id: BUD17-302
+session_track: Toolchain
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17302-llvm-internals-2
+slug: bud17-302
+speakers: Renato Golin, Peter Smith, Diana Picus, Omair Javaid, Adhemerval Zanella
+title: 'LLVM Internals #2 - BUD17-302'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4668
+youtube_video_url: https://youtu.be/9h0zDr4GtsY
+categories:
+- bud17
+post_format:
+- Video
+tags:
+- LLVM
+- Toolchain
+---
+
+"Session ID: BUD17-302
+Session Name: LLVM Internals #2 - BUD17-302
+Speaker: Renato Golin, Peter Smith, Diana Picus, Omair Javaid, Adhemerval Zanella
+Track: Toolchain
+
+
+★ Session Summary ★
+Continuing from LAS16 and, if we have time, introducing global isel that we’re working on.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-302/
+Presentation: https://www.slideshare.net/linaroorg/bud17302-llvm-internals-2
+Video: https://youtu.be/9h0zDr4GtsY
+ ---------------------------------------------------
+
+★ Event Details ★
+bud17
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: LLVM, toolchain
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"
