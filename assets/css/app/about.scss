@@ -1,7 +1,7 @@
-.owl-stage-outer {
+ .owl-stage-outer {
     height: 300px;
 }
-.about-block.text-center {
+ .about-block.text-center {
     padding: 40px;
     border-radius: 5px;
     color: white;
@@ -10,24 +10,17 @@
     -moz-box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
     box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
     transition: all 1s ease;
-
 }
-.about-block.text-center:hover  {
+ .about-block.text-center:hover {
     opacity: .8;
 }
-
-
-#about-block-row .about-block h3 {
+ #about-block-row .about-block h3 {
     color: white;
 }
-
-#about-block-row p {
+ #about-block-row p {
     color: white;
 }
-
-
-div#about-block-row {
+ #about-block-row {
     margin-top: 50px;
     margin-bottom: 50px;
-    
 }
