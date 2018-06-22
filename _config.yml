@@ -131,6 +131,7 @@ assets:
     - assets/images
     - assets/images/sponsors
     - assets/images/people
+    - assets/images/speakers
     - assets/images/content
     - assets/images/blog
     - assets/css/
@@ -265,21 +266,12 @@ collections:
     resources:
         output: true
         permalink: /:collection/:categories/:title/
-    projects:
+    keynotes:
         output: true
         permalink: /:collection/:path/
-    initiatives:
+    speakers:
         output: true
         permalink: /:collection/:path/
-    groups:
-        output: true
-        permalink: /:collection/:path/
-    sig:
-        output: true
-        permalink: /:collection/:path/
-    services:
-        output: true
-        permalink: /:collection/:name/
     authors:
         output: true
         permalink: /author/:name/
