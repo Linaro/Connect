@@ -9,7 +9,14 @@
     -webkit-box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
     box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
+    transition: all 1s ease;
+
 }
+.about-block.text-center:hover  {
+    opacity: .8;
+}
+
+
 #about-block-row .about-block h3 {
     color: white;
 }
