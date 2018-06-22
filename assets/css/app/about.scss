@@ -5,4 +5,22 @@
     padding: 40px;
     border-radius: 5px;
     color: white;
+    min-height: 350px;
+    -webkit-box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
+}
+#about-block-row .about-block h3 {
+    color: white;
+}
+
+#about-block-row p {
+    color: white;
+}
+
+
+div#about-block-row {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
 }
