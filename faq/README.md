@@ -117,14 +117,14 @@ The next Connect, YVR18, will take place __17 September through 21 September 201
   </div>
   
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="deadLineForHardware">
+    <div class="panel-heading" role="tab" id="dealineForHardware">
       <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#deadLineForHardwareCollapse" aria-expanded="false" aria-controls="deadLineForHardwareCollapse">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#dealineForHardwareCollapse" aria-expanded="false" aria-controls="dealineForHardwareCollapse">
         What is the deadline for Connect hardware requests?
         </a>
       </h4>
     </div>
-    <div id="deadLineForHardwareCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="deadLineForHardware">
+    <div id="dealineForHardwareCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="dealineForHardware">
 <div class="panel-body" markdown="1">
 
 The deadline varies depending on the country that is hosting Connect as it will affect things like how long it takes to ship the equipment to that country, how long to allow for getting the equipment through Customs, etc.
@@ -132,7 +132,7 @@ The deadline varies depending on the country that is hosting Connect as it will 
 As a result, the hardware request form itself will display the cut-off date for hardware requests for the current Connect.
 
 <div class="alert alert-info" role="alert">
-Any hardware requests received after the displayed cut-off date will not be fulfilled as the shipping date will have been missed.
+Please note: Any hardware requests received after the displayed cut-off date will not be fulfilled as the shipping date will have been missed.
 </div>
 
 
@@ -141,6 +141,24 @@ To request hardware for use during Connect, follow these steps:
 1. Go to [https://servicedesk.linaro.org/servicedesk/customer/portal/12/create/118](https://servicedesk.linaro.org/servicedesk/customer/portal/12/create/118)
 2. Use this form to request an item of hardware. Please note that requests submitted after the cut-off date shown on the form will be rejected as the shipping date will have passed. See What is the deadline for Connect hardware requests? for more information/an explanation.
 3. Hardware can be borrowed for the whole duration of Connect or just for Demo Friday.
+
+</div>
+    </div>
+  </div>
+  
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="deadlineForSessions">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#deadlineForSessionsCollapse" aria-expanded="false" aria-controls="deadlineForSessionsCollapse">
+        What is the deadline for submitting sessions?
+        </a>
+      </h4>
+    </div>
+    <div id="deadlineForSessionsCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="deadlineForSessions">
+<div class="panel-body" markdown="1">
+
+The deadline for submitting sessions is __23 July 2018__. Please submit your session proposal [here](https://catalyst.omnipress.com/#collection/348/submission). Please see our [important dates page](/important-dates/) for more details.
+
 
 </div>
     </div>
