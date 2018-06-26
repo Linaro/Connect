@@ -9,6 +9,8 @@ columns:
           url: /sponors/previous/
         - text: Blog
           url: /blog/
+        - text: FAQ
+          url: /faq/
     - title: Attend
       url: /attend/
       items:
@@ -55,7 +57,6 @@ columns:
            url : /hub/
          - text: OnAir
            url : https://www.youtube.com/user/linaroOnAir
-
 companylinks:
     - name: Careers
       url: /careers/
