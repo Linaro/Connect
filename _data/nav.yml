@@ -19,6 +19,8 @@ pages:
       url: /about/
     - title: Attend
       options:
+          - text: Overview
+            url: /attend/
           - text: Register
             url: /register/
           - text: Call for Proposals
