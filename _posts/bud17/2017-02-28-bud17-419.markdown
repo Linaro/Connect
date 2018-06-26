@@ -1,0 +1,66 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-419%20Timekeeping%20in%20the%20Linux%20Kernel.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-419%20Timekeeping%20in%20the%20Linux%20Kernel.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:51+00:00
+excerpt: The timekeeping code in the Linux kernel is used by nearly everything from
+  the low power idle paths to device drivers. In this presentation, Stephen Boyd will
+  take the audience on a tour of the timekeeping code, exploring how the kernel abstracts
+  the hardware, how those abstractions are built upon to implement NOHZ, timers, hrtimers,
+  cpu-idle, POSIX clocks, etc. and how we keep things working when these abstractions
+  break down with the tick-broadcast mechanism.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-419/
+session_id: BUD17-419
+session_track: LMG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/timekeeping-in-the-linux-kernel-bud17419-speaker-stephen-boyd
+slug: bud17-419
+speakers: Stephen Boyd
+title: Timekeeping in the Linux Kernel - BUD17-419
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4708
+youtube_video_url: https://youtu.be/E1uyXn0kBAc
+categories:
+- bud17
+post_format:
+- Video
+tags:
+- Kernel
+- Linux
+- LMG
+---
+
+Session ID: BUD17-419
+Session Name: Timekeeping in the Linux Kernel - BUD17-419
+Speaker: Stephen Boyd
+Track: LMG
+
+
+★ Session Summary ★
+The timekeeping code in the Linux kernel is used by nearly everything from the low power idle paths to device drivers. In this presentation, Stephen Boyd will take the audience on a tour of the timekeeping code, exploring how the kernel abstracts the hardware, how those abstractions are built upon to implement NOHZ, timers, hrtimers, cpu-idle, POSIX clocks, etc. and how we keep things working when these abstractions break down with the tick-broadcast mechanism.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-419/
+Presentation: 
+Video: https://youtu.be/E1uyXn0kBAc
+ ---------------------------------------------------
+
+★ Event Details ★
+bud17
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: LMG, linux, kernel
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961

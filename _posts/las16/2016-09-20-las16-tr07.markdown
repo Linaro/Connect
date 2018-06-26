@@ -1,0 +1,51 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Thursday/LAS16-TR07%20Working%20upstream%20%28Mandarin%29.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:59+00:00
+excerpt: TBD
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-tr07/
+session_id: LAS16-TR07
+session_track: Training
+slideshare_presentation_url: None
+slug: las16-tr07
+speakers: Alex Shi, Baolin Wang, Chunyan Zhang
+title: 'LAS16-TR07: Working upstream [Mandarin]'
+video_length: '48:29'
+video_thumbnail: None
+wordpress_id: 3853
+youtube_video_url: https://www.youtube.com/watch?v=k557SPZ3g2U
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- Training
+---
+
+LAS16-TR07: Working upstream [Mandarin]
+Speakers: Alex Shi, Chunyan Zhang
+Date: September 29, 2016
+
+★ Session Description ★
+We will speak Mandarin in this session
+
+The topics will cover:
+What’s upstreaming?
+Preparation for upstreaming step by step
+How to upstream?
+Community Culture
+Where to get help?
+QA & discussion
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-tr07
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-tr07/](http://connect.linaro.org/resource/las16/las16-tr07/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

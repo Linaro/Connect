@@ -1,0 +1,61 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-217-LTD-jobserv.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-217%20-%20Introducing%20Jobserv....mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:54:45+00:00
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-217/
+session_id: SFO17-217
+session_track: LTD
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/introducing-jobserv-a-new-ci-system-built-with-containers-and-container-orchestration-technologies-in-mind-sfo17217
+slug: sfo17-217
+speakers: Andy Doan
+title: Introducing Jobserv, a new CI system built with Containers and container orchestration
+  technologies in mind - SFO17-217
+video_length: '28:13'
+video_thumbnail: None
+wordpress_id: 5988
+youtube_video_url: https://www.youtube.com/watch?v=KoYL5aP65o8
+categories:
+- sfo17
+post_format:
+- Video
+---
+
+Session ID: SFO17-217
+Session Name: Introducing Jobserv, a new CI system built with Containers and container orchestration technologies in mind - SFO17-217
+Speaker: Andy Doan
+
+Track: LTD
+
+★ Session Summary ★
+
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-217/
+Presentation:
+Video: https://www.youtube.com/watch?v=KoYL5aP65o8
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword:
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 27 Sept 2017
+
+Speakers: Andy Doan
+
+Position: Senior Engineer at Linaro

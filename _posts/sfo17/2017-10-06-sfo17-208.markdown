@@ -1,0 +1,65 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-208%20Adding%20DVB%20TV%20and%20Radio%20to%20AOSP%20TV.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-208%20-%20AOSP%20TV%20Input%20Framework-%20DVB%20%2526%20IP%20video%20sources.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:54:27+00:00
+excerpt: AOSP TV could benefit from having direct access to DVB TV and radio streams
+  - both for improved testing and actual use in products. Given AOSP’s dislike of
+  using anything (L)GPL, we’ve developed a new Apache licensed library to access DVB
+  tuners - and a connection into AOSP and into IP streaming. This presentation introduces
+  the library, its API, and its possible uses with AOSP TV.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-208/
+session_id: SFO17-208
+session_track: LHG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/aosp-tv-input-framework-dvb-ip-video-sources-sfo17208
+slug: sfo17-208
+speakers: Bero Rosenkränzer
+title: 'AOSP TV Input Framework: DVB & IP video sources - SFO17-208'
+video_length: '19:19'
+video_thumbnail: None
+wordpress_id: 5971
+youtube_video_url: https://www.youtube.com/watch?v=BMmqtyqwmaM
+categories:
+- sfo17
+post_format:
+- Video
+---
+
+Session ID: SFO17-208
+Session Name: AOSP TV Input Framework: DVB & IP video sources - SFO17-208
+Speaker: Bero Rosenkränzer 
+Track: LHG
+
+
+★ Session Summary ★
+AOSP TV could benefit from having direct access to DVB TV and radio streams - both for improved testing and actual use in products. Given AOSP’s dislike of using anything (L)GPL, we’ve developed a new Apache licensed library to access DVB tuners - and a connection into AOSP and into IP streaming. This presentation introduces the library, its API, and its possible uses with AOSP TV.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-208/
+Presentation: https://www.slideshare.net/linaroorg/aosp-tv-input-framework-dvb-ip-video-sources-sfo17208
+Video: https://www.youtube.com/watch?v=BMmqtyqwmaM
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 26 Sept 2017
+
+Speakers: Bero Rosenkränzer
+
+Position: Tech Lead at Linaro

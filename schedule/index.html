@@ -1,0 +1,50 @@
+---
+title: Schedule
+permalink: /schedule/
+layout: container-breadcrumb
+css-package: blog
+---
+<div class="row" id="register">
+    <div class="container no-padding">
+        <div class="col-xs-12" style="margin-top:30px;">
+            <p>
+                The full schedule for Linaro Connect Vancouver will be available 6 August 2018
+            </p>
+            <p>
+                To view the overview of the flow of the week please see the outline schedule below which shows TSC meetings, sessions, and socials during the week. 
+            </p>
+            <style type="text/css">
+            #schedule td {
+                padding-left: 20px !important;
+                padding-right: 20px !important;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                font-weight: normal;
+                color:#131313;
+            }
+
+            #schedule td:nth-child(-n+3){
+                font-weight: bold;
+            }
+            </style>
+            <script type="text/javascript">
+                $( document ).ready( function($) {
+                    $.ajax({ url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTfxF3EqStN-AvTUPxuhgG9LPmJ43M0N7Cwm3u6gVxEInNri7yW57EF2FxlNGVNYV-cfDOSR4i7BruZ/pubhtml?gid=1839914928&single=true', dataType: 'html', crossDomain: true, success:         function(response) {
+                         var tableEl = $(response).find('.grid-container');
+                         $('#schedule').html(response).promise().done(function(){
+                             $("table.waffle").addClass("table-responsive");
+                             $( "#doc-title" ).remove();
+                             $( "#schedule thead" ).remove();
+                             $( "#schedule #top-bar" ).remove();
+                             $( "#schedule #footer" ).remove();
+                        });
+                    }
+                           
+                    });
+                });
+            </script>
+            
+            <div id="schedule"></div>
+        </div>
+    </div>
+</div>

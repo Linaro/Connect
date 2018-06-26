@@ -1,0 +1,32 @@
+---
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:11:06+00:00
+excerpt: This presentation will discuss issues and common mistakes when migrating
+  a project from one toolchain to another. The main focus will be on issues coming
+  from switching from GCC to Clang, but we will also touch on differences in libraries,
+  assemblers and linkers. The presentation will also make fun of bad practices and
+  quick hacks that project porters sometimes use to “make-it-compile”.
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-505/
+session_id: LAS16-505
+session_track: Core Development
+slug: las16-505
+speakers: Renato Golin, Maxim Kuvyrkov
+title: 'LAS16-505: Best Practices For Switching From GCC to LLVM'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3862
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- Tools
+---
+
+Session ID: LAS16-505 Session Name: Best Practices For Switching From GCC to LLVM Speaker: Renato Golin, Maxim Kuvyrkov Track: Core Development   ★ Session Summary ★ This presentation will discuss issues and common mistakes when migrating a project from one toolchain to another. The main focus will be on issues coming from switching from GCC to Clang, but we will also touch on differences in libraries, assemblers and linkers. The presentation will also make fun of bad practices and quick hacks that project porters sometimes use to “make-it-compile”. --------------------------------------------------- ★ Resources ★ Presentation:  Video:  Etherpad Notes: pad.linaro.org/p/las16-505  ---------------------------------------------------  ★ Event Details ★ Linaro Connect Las Vegas 2016 26-30 September 2016 JW Marriott Resort and Spa Hotel 221 N Rampart Blvd · Las Vegas, Nevada 89145 USA  --------------------------------------------------- Keywords: Tools > http://www.linaro.org > http://connect.linaro.org
+
+Event Date: September 30, 2016
+
+Speakers: Renato Golin, Maxim Kuvyrkov

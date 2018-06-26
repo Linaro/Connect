@@ -5,7 +5,7 @@ favicon: favicon.png
 name: Linaro Connect
 
 # Site Slogan
-slogan: The leading event for Open source software engineering on Arm<
+slogan: The leading event for Open source software engineering on Arm
 
 # Mailchimp settings
 mailchimp:
@@ -28,8 +28,8 @@ linaro-footer-image: Linaro-Sprinkle.png
 #Content Repo for static site.
 # Used for the edit on github include
 edit-on-github:
-    enabled: true
-    repo: https://www.github.com/Linaro/website
+    enabled: false
+    repo: https://www.github.com/Linaro/connect
     
 # Settings for the home page
 home:
@@ -51,8 +51,9 @@ home:
             # then change this setting to false.
             darken: false
             # This is the name of the background-image located in /assets/images/
-            name: YVR18-Theme-website-banner_v3.jpg
-        # image: devicetree-icon-white.png
+            name: YVR18-banner-high-res.jpg
+        image: YVR18-logo.png
+        
 
 # Jekyll social media site settings. Github, LinkedIn, Google+, Facebook and Youtube
 github_username: Linaro

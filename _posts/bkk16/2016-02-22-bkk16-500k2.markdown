@@ -1,0 +1,25 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Friday/BKK16-500K2.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Friday/BKK16-500K2%20David%20Rusling%20keynote.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:55+00:00
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-500k2/
+session_id: BKK16-500K2
+session_track: Keynote
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16500k2-cto-talk-the-end-to-end-story
+slug: bkk16-500k2
+speakers: David Rusling
+title: 'BKK16-500K2 : Guest Keynote: David Rusling'
+video_length: '23:45'
+video_thumbnail: None
+wordpress_id: 3381
+youtube_video_url: https://www.youtube.com/watch?v=GFvd2nHiFvU
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+---
+
+Event Date: March 11, 2016

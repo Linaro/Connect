@@ -1,0 +1,21 @@
+---
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:54+00:00
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-412/
+session_id: BKK16-412
+slug: bkk16-412
+title: 'BKK16-412:'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3378
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+---
+
+
+
+Event Date: March 10, 2016

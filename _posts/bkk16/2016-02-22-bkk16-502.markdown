@@ -1,0 +1,33 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Friday/BKK16-502.pdf
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:55+00:00
+excerpt: 'Session will discuss the design and work done to get S2I working on the
+  qualcomm 410c platform. In addition, session will provide the implementation details/requirements
+  to support suspend to idle on ARM platforms.
+
+  Show performance numbers for latency and power consumption for S2I vs S2R (if available).
+  Highlight possible improvements to decrease latency for S2I.'
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-502/
+session_id: BKK16-502
+session_track: Power Management
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16502-suspend-to-idle
+slug: bkk16-502
+speakers: Andy Gross
+title: 'BKK16-502: Suspend to Idle'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3384
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- S2I 96Boards
+---
+
+Session will discuss the design and work done to get S2I working on the qualcomm 410c platform. In addition, session will provide the implementation details/requirements to support suspend to idle on ARM platforms. Show performance numbers for latency and power consumption for S2I vs S2R (if available). Highlight possible improvements to decrease latency for S2I.
+
+Event Date: March 11, 2016

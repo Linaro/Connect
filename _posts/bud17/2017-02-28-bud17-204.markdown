@@ -1,0 +1,63 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-204%20QC%20Upstreaming%20BoF.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Tuesday/BUD17-204%20QC%20Upstreaming%20BoF.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:32+00:00
+excerpt: Continuation of discussion from LAS16. QC kernel upstreaming status, issues,
+  etc.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-204/
+session_id: BUD17-204
+session_track: Kernel
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/qc-upstream-bof-bud17204-speaker-stephen-boyd
+slug: bud17-204
+speakers: Stephen Boyd
+title: QC Upstream BOF - BUD17-204
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4643
+youtube_video_url: https://youtu.be/IFsyj_-ZM-Q
+categories:
+- bud17
+post_format:
+- Video
+tags:
+- BoF
+- Kernel
+- QC
+- Upstream
+---
+
+"Session ID: BUD17-204
+Session Name: QC Upstream BOF - BUD17-204
+Speaker: Stephen Boyd
+Track: Kernel
+
+
+★ Session Summary ★
+Continuation of discussion from LAS16. QC kernel upstreaming status, issues, etc.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-204/
+Presentation: https://www.slideshare.net/linaroorg/qc-upstream-bof-bud17204-speaker-stephen-boyd
+Video: https://youtu.be/IFsyj_-ZM-Q
+ ---------------------------------------------------
+
+★ Event Details ★
+bud17
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: kernel, QC, Upstream, BOF
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

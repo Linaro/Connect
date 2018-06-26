@@ -1,0 +1,77 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-507%20Modular%20Middleware.pdf
+amazon_s3_video_url: None
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:56:29+00:00
+excerpt: To make application development a breeze, Apache Mynewt OS includes several
+  optional middleware components and a build infrastructure to easily choose and configure
+  them while creating an image for a target device. An example is the file system
+  module with an API that allows the application to use file system operations without
+  being tied to a particular file system implementation. Users are free to choose
+  the FAT file system or Apache Mynewt’s Newtron Flash File System or any other FS
+  of their choice. The logging infrastructure is another example. It allows applications,
+  targets, and libraries to name and define their own log streams and direct them
+  to desired output destinations. The stats module follows the same flexible design
+  as the log module. The accompanying build and package management tool called the
+  Newt Tool in the Apache Mynewt OS makes bundling and configuring the packages simple.
+  It takes care of package dependency conflicts and automates toolchain selection
+  to simplify testing and debugging. It allows components to be tested, versioned
+  and released independently. Each component can therefore be decoupled from the other
+  modules, allowing it to be shared and collaborated on across multiple operating
+  systems. The steps for creating a log stream for a package will be presented as
+  an example to demonstrate the design simplicity and modularity of the Mynewt OS
+  and the power of the Newt tool.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-507/
+session_id: SFO17-507
+session_track: LITE
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/modular-middleware-components-in-apache-mynewt-os-sfo17507
+slug: sfo17-507
+speakers: James Pace
+title: Modular middleware components in Apache Mynewt OS - SFO17-507
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 6087
+youtube_video_url: None
+categories:
+- sfo17
+post_format:
+- Video
+---
+
+Session ID: SFO17-507
+Session Name: Modular middleware components in Apache Mynewt OS - SFO17-507
+Speaker: James Pace
+Track: LITE
+
+★ Session Summary ★
+To make application development a breeze, Apache Mynewt OS includes several optional middleware components and a build infrastructure to easily choose and configure them while creating an image for a target device. An example is the file system module with an API that allows the application to use file system operations without being tied to a particular file system implementation. Users are free to choose the FAT file system or Apache Mynewt’s Newtron Flash File System or any other FS of their choice. The logging infrastructure is another example. It allows applications, targets, and libraries to name and define their own log streams and direct them to desired output destinations. The stats module follows the same flexible design as the log module. The accompanying build and package management tool called the Newt Tool in the Apache Mynewt OS makes bundling and configuring the packages simple. It takes care of package dependency conflicts and automates toolchain selection to simplify testing and debugging. It allows components to be tested, versioned and released independently. Each component can therefore be decoupled from the other modules, allowing it to be shared and collaborated on across multiple operating systems. The steps for creating a log stream for a package will be presented as an example to demonstrate the design simplicity and modularity of the Mynewt OS and the power of the Newt tool.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-507/
+Presentation:
+Video:
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword:
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date:
+
+Speakers: James Pace
+
+Position: CEO and Co-Founder at Runtime

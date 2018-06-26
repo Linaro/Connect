@@ -1,0 +1,29 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Friday/BKK16-500.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Friday/BKK16-500%20Dissecting%20the%202M%20SLOC%20QC%20fork.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:54+00:00
+excerpt: What's fundamentally different and requires upstream framework modifications.
+  What's low-hanging fruit and just needs someone to attend to it.  Plan of attack
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-500/
+session_id: BKK16-500
+session_track: QC
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16500-dissecting-the-2m-loc-qc-fork
+slug: bkk16-500
+speakers: sboyd@quicinc.com
+title: 'BKK16-500: Dissecting the 2M SLOC QC fork'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3379
+youtube_video_url: https://youtu.be/MwzDUbyn85E
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+---
+
+What's fundamentally different and requires upstream framework modifications. What's low-hanging fruit and just needs someone to attend to it.  Plan of attack
+
+Event Date: March 11, 2016

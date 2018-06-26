@@ -1,0 +1,61 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-407-KernelCI_20170915.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-407%20-%20Collaboras%20involvement%20in%20KernelCI.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:55:53+00:00
+excerpt: This talk will address Collabora's contribution to KernelCI, specifically
+  investigating automated bisection.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-407/
+session_id: SFO17-407
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/collaboras-involvement-in-kernelci-sfo17407
+slug: sfo17-407
+speakers: Guillaume Tucker
+title: Collaboras involvement in KernelCI - SFO17-407
+video_length: '27:23'
+video_thumbnail: None
+wordpress_id: 6056
+youtube_video_url: https://www.youtube.com/watch?v=IKjp14FshsY
+categories:
+- sfo17
+post_format:
+- Video
+---
+
+Session ID: SFO17-407
+Session Name: Collaboras involvement in KernelCI - SFO17-407
+Speaker: Guillaume Tucker
+Track: 
+
+
+★ Session Summary ★
+This talk will address Collabora's contribution to KernelCI, specifically investigating automated bisection.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-407/
+Presentation: https://www.slideshare.net/linaroorg/collaboras-involvement-in-kernelci-sfo17407
+Video: https://www.youtube.com/watch?v=IKjp14FshsY
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 28 Sept 2017
+
+Speakers: Guillaume Tucker
+
+Position: Senior Software Engineer at Collabora

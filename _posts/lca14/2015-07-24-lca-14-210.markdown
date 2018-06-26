@@ -1,0 +1,38 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/lca14/presentations/LCA14-210-
+  ETM-ETB-Coresight BoF.pdf
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2015-07-24 14:05:33+00:00
+excerpt: "In this session we will take a look at ETM/ETB and the Coresight architecture.\
+  \ More specifically we will go over the current status of the upstream code and\
+  \ recent contribution by various people. Next will be presented how we plan on integrating\
+  \ all this work and some of the prerequisite we see as mandatory for upstream acceptance.\
+  \ The presentation will conclude with an open discussion on our plan and take ideas\
+  \ from the attendance.\n \n Our goal is to get as much information as possible from\
+  \ people interested in the Coresight technology. We want an encompassing solution\
+  \ that is flexible, scalable and usable by all."
+layout: post
+link: http://connect.linaro.org/resource/lca14/lca-14-210/
+session_id: LCA-14-210
+session_track: BoF
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/lca14-210-etmetbcoresightbof
+slug: lca-14-210
+speakers: Mathieu Poirier
+title: 'LCA-14-210: ETM/ETB/Coresight'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 2105
+youtube_video_url: None
+categories:
+- Linaro Connect Asia 2014
+post_format:
+- Video
+tags:
+- BoF
+- 'LCA-14-210: ETM/ETB/Coresight'
+- Mathieu Poirier
+---
+
+No Content Found

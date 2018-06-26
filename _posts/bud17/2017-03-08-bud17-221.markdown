@@ -1,0 +1,64 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-221%20What%27s%20new%20in%20QEMU.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Tuesday/BUD17-221%20What%27s%20new%20in%20QEMU.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-03-08 15:30:03+00:00
+excerpt: This session will cover new features and additions to QEMU that happened
+  over the last year, ranging from new features for KVM support to Multi-Threaded
+  TCG (MTTCG) and QEMU linux-user improvements. We will also discuss upcoming work
+  to support LITE and IoT development and hope for a healthy discussion on requirements
+  for members interested in these areas.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-221/
+session_id: BUD17-221
+session_track: Virtualization
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17221-whats-new-in-qemu
+slug: bud17-221
+speakers: Alex Bennée
+title: What's new in QEMU - BUD17-221
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 5212
+youtube_video_url: https://youtu.be/4MKXWM0koGw
+categories:
+- bud17
+post_format:
+- Video
+tags:
+- QEMU
+- Virtualization
+---
+
+Session ID: BUD17-221
+Session Name: What's new in QEMU - BUD17-221
+Speaker: Alex Bennée
+Track: Virtualization
+
+
+★ Session Summary ★
+This session will cover new features and additions to QEMU that happened over the last year, ranging from new features for KVM support to Multi-Threaded TCG (MTTCG) and QEMU linux-user improvements. We will also discuss upcoming work to support LITE and IoT development and hope for a healthy discussion on requirements for members interested in these areas.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-221/
+Presentation: https://www.slideshare.net/linaroorg/bud17221-whats-new-in-qemu
+Video: https://youtu.be/4MKXWM0koGw
+---------------------------------------------------
+
+★ Event Details ★
+bud17
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: QEMU, virtualization
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961

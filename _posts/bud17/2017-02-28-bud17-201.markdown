@@ -1,0 +1,65 @@
+---
+amazon_s3_presentation_url: None
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Tuesday/BUD17-201%20ARM%20Server%20Standards%20%20The%20Next%20Generation.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:30+00:00
+excerpt: We have recently achieved a critical milestone of having core enablement
+  for SBSA (Server Base System Architecture) and SBBR (Server Base Boot Requirements)
+  in upstream kernels "out of the box". These initial standards address minimal functionality
+  and will soon undergo additional development as we seek to cover more complex use
+  case requirements, such as NFV, and those introduced by the emergence of workload
+  acceleration (CCIX, FPGAs, etc.). In this session, we will gather feedback and input
+  on where to go next.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-201/
+session_id: BUD17-201
+session_track: LEG
+slideshare_presentation_url: None
+slug: bud17-201
+speakers: Jon Masters
+title: 'BUD17-201 - ARM Server Standards: The Next Generation - BUD17-201'
+video_length: '26:49'
+video_thumbnail: None
+wordpress_id: 4640
+youtube_video_url: https://youtu.be/c592IkfWp7w
+categories:
+- bud17
+post_format:
+- Video
+tags:
+- ARM
+- Server
+- server-standards
+---
+
+Session ID: BUD17-201
+Session Name: ARM Server Standards: The Next Generation - BUD17-201
+Speaker: Jon Masters
+Track: LEG
+
+★ Session Summary ★
+We have recently achieved a critical milestone of having core enablement for SBSA (Server Base System Architecture) and SBBR (Server Base Boot Requirements) in upstream kernels "out of the box". These initial standards address minimal functionality and will soon undergo additional development as we seek to cover more complex use case requirements, such as NFV, and those introduced by the emergence of workload acceleration (CCIX, FPGAs, etc.). In this session, we will gather feedback and input on where to go next.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-201/
+Presentation:
+Video: https://youtu.be/c592IkfWp7w
+---------------------------------------------------
+
+★ Event Details ★
+bud17
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: ARM, server, server-standards
+
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961

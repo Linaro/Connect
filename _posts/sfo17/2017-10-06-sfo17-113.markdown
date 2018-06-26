@@ -1,0 +1,63 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-113%20New%20Zephyr%20features%20LWM2M%20%252F%20FOTA%20Framework%20SFO17.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-113%20New%20Zephyr%20features%20LWM2M%20%20FOTA%20Framework.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:53:52+00:00
+excerpt: Zephyr is changing at an alarming pace and we would like to provide some
+  insights to a few of the areas we have been working.  MCUBOOT Secure bootloader
+  integration, FOTA, DeviceTree and LWM2M enabling secure client to cloud capabilities
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-113/
+session_id: SFO17-113
+session_track: LTD
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/new-zephyr-features-lwm2m-fota-framework-sfo17113
+slug: sfo17-113
+speakers: Marti Bolivar - David Brown - Ricardo Salveti - Mike Scott
+title: 'New Zephyr features: LWM2M / FOTA Framework - SFO17-113'
+video_length: '19:58'
+video_thumbnail: None
+wordpress_id: 5940
+youtube_video_url: https://www.youtube.com/watch?v=VOv0-d5T99o
+categories:
+- sfo17
+post_format:
+- Video
+---
+
+Session ID: SFO17-113
+Session Name: New Zephyr features: LWM2M / FOTA Framework - SFO17-113
+Speaker: Marti Bolivar - David Brown - Ricardo Salveti - Mike Scott
+
+Track: LTD
+
+★ Session Summary ★
+Zephyr is changing at an alarming pace and we would like to provide some insights to a few of the areas we have been working. MCUBOOT Secure bootloader integration, FOTA, DeviceTree and LWM2M enabling secure client to cloud capabilities
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-113/
+Presentation:
+Video: https://www.youtube.com/watch?v=VOv0-d5T99o
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword:
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 26 Sept 2017
+
+Speakers: Marti Bolivar - David Brown - Ricardo Salveti - Mike Scott
+
+Position:

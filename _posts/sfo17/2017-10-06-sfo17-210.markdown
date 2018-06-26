@@ -1,0 +1,66 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-210-%20A%20flexible%20GDB%20target%20description%20for%20processor%20diversity.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-210%20A%20flexible%20GDB%20%28GNU%20Debugger%29%20target%20description%20for%20processor%20diversity.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:54:27+00:00
+excerpt: GDB target description is of XML format to describe the registers and types
+  on a given architecture.  As processor architectures exploit diversity, like ARM
+  SVE and ARMv8.3 popinter authentication, the inflexibility in GDB target description
+  emerges. I'll present the work to address the inflexibility in GDB target  description
+  to better support various architectures, and their variants and extensions.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-210/
+session_id: SFO17-210
+session_track: Toolchain
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/a-flexible-gdb-gnu-debugger-target-description-for-processor-diversity-sfo17210
+slug: sfo17-210
+speakers: Yao Qi
+title: A flexible GDB (GNU Debugger) target description for processor diversity -
+  SFO17-210
+video_length: '45:43'
+video_thumbnail: None
+wordpress_id: 5975
+youtube_video_url: https://www.youtube.com/watch?v=r3Kl1JQBhXs
+categories:
+- sfo17
+post_format:
+- Video
+---
+
+Session ID: SFO17-210
+Session Name: A flexible GDB (GNU Debugger) target description for processor diversity - SFO17-210
+Speaker: Yao Qi
+Track: Toolchain
+
+
+★ Session Summary ★
+GDB target description is of XML format to describe the registers and types on a given architecture.  As processor architectures exploit diversity, like ARM SVE and ARMv8.3 popinter authentication, the inflexibility in GDB target description emerges. I'll present the work to address the inflexibility in GDB target  description to better support various architectures, and their variants and extensions.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-210/
+Presentation: https://www.slideshare.net/linaroorg/a-flexible-gdb-gnu-debugger-target-description-for-processor-diversity-sfo17210
+Video: https://www.youtube.com/watch?v=r3Kl1JQBhXs
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 26 Sept 2017
+
+Speakers: Yao Qi
+
+Position: Staff Software Engineer at ARM

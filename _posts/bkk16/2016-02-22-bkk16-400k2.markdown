@@ -1,0 +1,25 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-400A.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Thursday/bkk16-400k2%20The%20Networked%20Society%20and%205G.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:49+00:00
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-400k2/
+session_id: BKK16-400K2
+session_track: Keynote
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16400k2-the-networked-society-and-5g
+slug: bkk16-400k2
+speakers: Per Beming
+title: 'BKK16-400K2: Guest Keynote: Guest Keynote: Per Beming'
+video_length: '33:26'
+video_thumbnail: None
+wordpress_id: 3364
+youtube_video_url: https://youtu.be/s09kjutkKmg
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+---
+
+Event Date: March 10, 2016

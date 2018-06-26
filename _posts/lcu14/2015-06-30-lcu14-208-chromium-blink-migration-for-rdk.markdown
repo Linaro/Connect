@@ -1,0 +1,61 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-16-Tuesday/LCU14-208.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-16-Tuesday/LCU14-208-+Chromium-Blink+migration+for+RDK.mp4
+author: kyle.kirkby
+comments: true
+date: 2015-06-30 17:09:25+00:00
+excerpt: Technical session featuring a deep dive into the Chromium-Blink migration
+  implementing Ozone-Aura graphics framework
+layout: post
+link: http://connect.linaro.org/resource/lcu14/lcu14-208-chromium-blink-migration-for-rdk/
+session_id: LCU14-208
+session_track: Digital Home
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-208-chromiumblink-migration-for-rdk-39155555
+slug: lcu14-208-chromium-blink-migration-for-rdk
+speakers: Zoltan Kuscsik, Haifeng Yan
+title: 'LCU14-208: Chromium-Blink migration for RDK.'
+video_length: '10:46'
+video_thumbnail: None
+wordpress_id: 1527
+youtube_video_url: https://www.youtube.com/watch?v=8crF6f1JAG8
+categories:
+- Linaro Connect USA 2014
+post_format:
+- Video
+tags:
+- Digital Home
+- Haifeng Yan
+- lcu14
+- LCU14-208
+- Zoltan Kuscsik
+---
+
+LCU14-208: Chromium-Blink migration for RDK
+
+---------------------------------------------------
+
+Speaker: Zoltan Kuscsik, Haifeng Yan
+Track: Digital Home
+Location: Grand Peninsula D, Hyatt Regency San Francisco Airport, Burlingame, CA, United States
+---------------------------------------------------
+
+★ Session Summary ★
+Technical session featuring a deep dive into the Chromium-Blink migration implementing Ozone-Aura graphics framework 
+---------------------------------------------------
+
+★ Resources ★
+Zerista: http://lcu14.zerista.com/event/member/137734
+Google Event: 
+Presentation: 
+Video: 
+Eatherpad: pad.linaro.org/p/lcu14-208
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect USA -   
+September 15-19th, 2014
+Hyatt Regency San Francisco Airport
+---------------------------------------------------
+
+> http://www.linaro.org
+> http://connect.linaro.org

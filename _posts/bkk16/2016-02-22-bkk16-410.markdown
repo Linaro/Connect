@@ -1,0 +1,33 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-410.pdf
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:54+00:00
+excerpt: 'The linux kernel has two distinct ways of managing idle. The CPUidle framework
+  for CPUs and for all other devices: runtime PM combined with generic power domains
+  (genpd). In addition, CPUidle is not scaling well for multi-cluster SMP systems
+  and heterogeneous systems like big.LITTLE. To better manage idle for modern SoCs
+  with a hierarchical structure, we are exploring extending runtime PM and genpd to
+  CPUs so there is a unified framework for managing idle across all devices.'
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-410/
+session_id: BKK16-410
+session_track: Power Management
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16410-soc-idling-cpu-cluster-pm
+slug: bkk16-410
+speakers: Ulf Hansson
+title: 'BKK16-410: SoC Idling & CPU Cluster PM'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3376
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- CPUidle "runtime PM"
+---
+
+The linux kernel has two distinct ways of managing idle. The CPUidle framework for CPUs and for all other devices: runtime PM combined with generic power domains (genpd). In addition, CPUidle is not scaling well for multi-cluster SMP systems and heterogeneous systems like big.LITTLE. To better manage idle for modern SoCs with a hierarchical structure, we are exploring extending runtime PM and genpd to CPUs so there is a unified framework for managing idle across all devices.
+
+Event Date: March 10, 2016

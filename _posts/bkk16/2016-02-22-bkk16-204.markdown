@@ -1,0 +1,23 @@
+---
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:39+00:00
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-204/
+session_id: BKK16-204
+session_track: ARM
+slug: bkk16-204
+speakers: Robin Randhawa
+title: 'BKK16-204: Unified Performance Management'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3326
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+---
+
+
+
+Event Date: March 8, 2016

@@ -1,0 +1,67 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-104%20-%20Scripting%20Languages%20in%20IoT.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Monday/BUD17-104%20Scripting%20Languages%20in%20IoT%20%20Challenge%20and%20Approaches.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:24+00:00
+excerpt: Scripting languages is hot emerging topic in IoT. They allow easy learnability
+  and rapid prototyping and further benefits (like production use) as they evolve.
+  This session compares approaches of MicroPython and JerryScript/Zephyr.js projects
+  and gives status update on their Zephyr RTOS ports.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-104/
+session_id: BUD17-104
+session_track: LITE
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17104-scripting-languages-in-iot-challenges-and-approaches
+slug: bud17-104
+speakers: Paul Sokolovsky,
+title: 'Scripting Languages in IoT: Challenges and Approaches - BUD17-104'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4617
+youtube_video_url: https://youtu.be/lIO8QL2SRuU
+categories:
+- bud17
+post_format:
+- Video
+tags:
+- IoT
+- LITE
+- Paul Sokolovsky
+- scripting languages
+- Zephyr
+---
+
+
+
+Session ID: BUD17-104
+Session Name: Scripting Languages in IoT: Challenges and Approaches - BUD17-104
+Speaker: Paul Sokolovsky,
+Track: LITE
+
+★ Session Summary ★
+Scripting languages is hot emerging topic in IoT. They allow easy learnability and rapid prototyping and further benefits (like production use) as they evolve. This session compares approaches of MicroPython and JerryScript/Zephyr.js projects and gives status update on their Zephyr RTOS ports.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-104/
+Presentation: https://www.slideshare.net/linaroorg/bud17104-scripting-languages-in-iot-challenges-and-approaches
+Video: https://youtu.be/lIO8QL2SRuU
+---------------------------------------------------
+
+★ Event Details ★
+bud17
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: IoT, scripting languages, Zephyr, LITE, Paul Sokolovsky,
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961

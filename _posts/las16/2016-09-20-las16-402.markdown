@@ -1,0 +1,47 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Thursday/LAS16-402%20-%20ARM-TF%20From%20Embedded%20To%20Enterprise%20v1.0%20%281%29.pdf
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:58+00:00
+excerpt: ARM Trusted Firmware has established itself as a key part of the ARMv8-A
+  software stack. Broadening its applicability across all segments, from embedded
+  to enterprise, is challenging. This session discusses the latest developments, including
+  extension into the 32-bit space.
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-402/
+session_id: LAS16-402
+session_track: Core Development
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16402-arm-trusted-firmware-from-enterprise-to-embedded
+slug: las16-402
+speakers: None
+title: 'LAS16-402: ARM Trusted Firmware - from Enterprise to Embedded'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3843
+youtube_video_url: None
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- Firmware
+- Security
+---
+
+LAS16-402: ARM Trusted Firmware - from Enterprise to Embedded
+Speakers:
+Date: September 29, 2016
+
+★ Session Description ★
+ARM Trusted Firmware has established itself as a key part of the ARMv8-A software stack. Broadening its applicability across all segments, from embedded to enterprise, is challenging. This session discusses the latest developments, including extension into the 32-bit space.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-402
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-402/](http://connect.linaro.org/resource/las16/las16-402/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

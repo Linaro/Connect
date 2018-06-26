@@ -1,0 +1,50 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-201%20-%20ART%20JIT%20in%20Android%20N.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Tuesday/LAS16-201%20ART%20JIT%20Android%20N.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:39+00:00
+excerpt: Android runtime (ART) has evolved from an AOT compiler (in Android L & M)
+  to a hybrid mode runtime (in Android N) which combines fast interpreter, JIT compiler
+  and profile guided AOT compiler. In this talk, we'll take a look at all these important
+  changes in Android N. For example, the design and implementation of JIT, hybrid
+  mode, tooling support, etc. This talk is meant to help Linaro members and developers
+  to have a deeper understanding of ART in Android N, and to help them face the challenges
+  of the new behaviors of Android runtime.
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-201/
+session_id: LAS16-201
+session_track: LMG
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16201-art-jit-in-android-n
+slug: las16-201
+speakers: Xueliang Zhong
+title: 'LAS16-201: ART JIT in Android N'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3808
+youtube_video_url: https://youtu.be/TCJLFqhC1VE
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- Android
+- Mobile
+---
+
+LAS16-201: ART JIT in Android N
+Speakers: Xueliang Zhong
+Date: September 27, 2016
+
+★ Session Description ★
+Android runtime (ART) has evolved from an AOT compiler (in Android L & M) to a hybrid mode runtime (in Android N) which combines fast interpreter, JIT compiler and profile guided AOT compiler. In this talk, we’ll take a look at all these important changes in Android N. For example, the design and implementation of JIT, hybrid mode, tooling support, etc. This talk is meant to help Linaro members and developers to have a deeper understanding of ART in Android N, and to help them face the challenges of the new behaviors of Android runtime.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-201
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-201/](http://connect.linaro.org/resource/las16/las16-201/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

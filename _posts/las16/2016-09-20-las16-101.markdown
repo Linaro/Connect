@@ -1,0 +1,52 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Monday/LAS16-101%20-%20Efficient_kernel_backporting.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Monday/LAS16-101%20Efficient%20kernel%20Backporting.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:26+00:00
+excerpt: In computer/mobile product world, due to the stability, project timeline,
+  etc considerations, latest upstream kernel isn't their preference. The long term
+  stable kernel is. But if you want to some of the latest features which only is in
+  upstream kernel,you will have to backport them to old stable kernel. This presentation
+  will share the kernel feature backport experience with audience, help them understand
+  how to do backports quickly and effectively without detailed knowledge of the target
+  feature, thus giving more flexibility and Improving productivity when making products.
+  We will use some examples, to discuss how to get info from backport request, how
+  to find necessary commits, how to get dependency, how to resolve conflicts, and
+  finally how to test it.
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-101/
+session_id: LAS16-101
+session_track: Core Development
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16101-efficient-kernel-backporting
+slug: las16-101
+speakers: Alex Shi
+title: 'LAS16-101: Efficient kernel backporting'
+video_length: '51:53'
+video_thumbnail: None
+wordpress_id: 3794
+youtube_video_url: https://www.youtube.com/watch?v=-z7_eOR7_Ug
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- Kernel
+---
+
+LAS16-101: Efficient kernel backporting
+Speakers: Alex Shi
+Date: September 26, 2016
+
+★ Session Description ★
+In computer/mobile product world, due to the stability, project timeline, etc considerations, latest upstream kernel isn’t their preference. The long term stable kernel is. But if you want to some of the latest features which only is in upstream kernel,you will have to backport them to old stable kernel. This presentation will share the kernel feature backport experience with audience, help them understand how to do backports quickly and effectively without detailed knowledge of the target feature, thus giving more flexibility and Improving productivity when making products. We will use some examples, to discuss how to get info from backport request, how to find necessary commits, how to get dependency, how to resolve conflicts, and finally how to test it.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-101
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-101/](http://connect.linaro.org/resource/las16/las16-101/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

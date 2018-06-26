@@ -1,0 +1,48 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Thursday/LAS16-407%20Internet%20of%20Tiny%20Linux%20%28IoTL%29_%20the%20sequel.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Thursday/LAS16-407%20Internet%20of%20Tiny%20Linux%20%28IoTL%29%20%20the%20sequel.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:58+00:00
+excerpt: This is a discussion on various methods put forward to reduce the size of
+  Linux kernel and user space binaries to make them suitable for small IoT applications,
+  ranging from low hanging fruits to more daring approaches. Results from on-going
+  work will also be presented.
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-407/
+session_id: LAS16-407
+session_track: LITE
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16407-internet-of-tiny-linux-iotl-the-sequel
+slug: las16-407
+speakers: Nicolas Pitre
+title: 'LAS16-407: Internet of Tiny Linux (IoTL): the sequel.'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3848
+youtube_video_url: https://youtu.be/vGH0K0CiUlI
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- IoT
+- Kernel
+- LITE
+---
+
+LAS16-407: Internet of Tiny Linux (IoTL): the sequel.
+Speakers: Nicolas Pitre
+Date: September 29, 2016
+
+★ Session Description ★
+This is a discussion on various methods put forward to reduce the size of Linux kernel and user space binaries to make them suitable for small IoT applications, ranging from low hanging fruits to more daring approaches. Results from on-going work will also be presented.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-407
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-407/](http://connect.linaro.org/resource/las16/las16-407/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

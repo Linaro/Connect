@@ -1,0 +1,40 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Friday/BKK16-503.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Friday/BKK16-503%20Undefined%20Behavior%20and%20Compiler%20Optimizations%20-%20Why%20Your%20Program%20Stopped%20Working%20With%20A%20Newer%20Compiler.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:57+00:00
+excerpt: Compilers such as GCC may use undefined behaviour in language specifications
+  to generate efficient code (especially newer recent versions). The rules for undefined
+  behaviour can be subtle and programming mistakes can lead to correctness and/or
+  security issues. This presentation will examine issues resulting from undefined
+  behavior in applications.  It will also discuss the position of the relevant  language
+  standards and address what compilers can do to exploit the standard in order to
+  generate optimized code. We will also look at tools that can help us in detecting
+  undefined behaviours so that these correctness issues can be prevented.
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-503/
+session_id: BKK16-503
+session_track: Toolchain
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16503-undefined-behavior-and-compiler-optimizations-why-your-program-stopped-working-with-a-newer-compiler
+slug: bkk16-503
+speakers: Kugan Vivekanandarajah
+title: 'BKK16-503: Undefined Behavior and Compiler Optimizations – Why Your Program
+  Stopped Working With A Newer Compiler'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3385
+youtube_video_url: https://youtu.be/wZT20kR2AzY
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- Compiler Optimizations
+- GCC
+- Undefined Behavior
+---
+
+Compilers such as GCC may use undefined behaviour in language specifications to generate efficient code (especially newer recent versions). The rules for undefined behaviour can be subtle and programming mistakes can lead to correctness and/or security issues. This presentation will examine issues resulting from undefined behavior in applications.  It will also discuss the position of the relevant  language standards and address what compilers can do to exploit the standard in order to generate optimized code. We will also look at tools that can help us in detecting undefined behaviours so that these correctness issues can be prevented.
+
+Event Date: March 11, 2016

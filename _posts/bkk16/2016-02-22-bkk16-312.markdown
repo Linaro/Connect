@@ -1,0 +1,36 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-312.pdf
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:48+00:00
+excerpt: Previous introductory tutorials on LAVA have focussed on virtual platforms.
+  This is an end-to-end tutorial as a basis to evaluate LAVA with one or more embedded
+  targets using U-Boot. It integrates both a physical bootloader device with a stand-alone
+  installation of LAVA, along with a simple PDU for target power control which is
+  based on off-the-shelf Arduino components and fully integrated with pdudaemon. It
+  covers device requirements, device configuration for 32- and 64-bit platforms, use
+  of lavatool, tftp, pduclient and logging via the LAVA web interface and /var.
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-312/
+session_id: BKK16-312
+session_track: 'Field Engineering /
+
+  Premium Services'
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16312-integrating-and-controlling-embedded-devices-in-lava
+slug: bkk16-312
+speakers: Bill Fletcher
+title: 'BKK16-312: Integrating and controlling embedded devices in LAVA'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3355
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- LAVA
+---
+
+Previous introductory tutorials on LAVA have focussed on virtual platforms. This is an end-to-end tutorial as a basis to evaluate LAVA with one or more embedded targets using U-Boot. It integrates both a physical bootloader device with a stand-alone installation of LAVA, along with a simple PDU for target power control which is based on off-the-shelf Arduino components and fully integrated with pdudaemon. It covers device requirements, device configuration for 32- and 64-bit platforms, use of lavatool, tftp, pduclient and logging via the LAVA web interface and /var.
+
+Event Date: March 9, 2016

@@ -1,0 +1,67 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-100%20-%20mcuboot%20bootloader%20for%20Zephyr.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Monday/BUD17-100%20mcuboot%20A%20shared%20bootloader%20for%20IoT.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:23+00:00
+excerpt: An important base for security is the beginning of the boot process. It is
+  necessary to be able to verify signatures before upgrading images. This session
+  will discuss the mcuboot project, the efforts to port this to Zephyr, and the functionality
+  available. It will include a small demo of its functionality.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-100/
+session_id: BUD17-100
+session_track: LITE
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17100-mcuboot-a-shared-bootloader-for-zephyr
+slug: bud17-100
+speakers: David Brown
+title: 'mcuboot: A shared bootloader for IoT - BUD17-100'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4613
+youtube_video_url: https://youtu.be/tv502SMhwYE
+categories:
+- bud17
+post_format:
+- Video
+tags:
+- bootloader
+- David Brown
+- IoT
+- LITE
+- mcuboot
+- Zephyr
+---
+
+Session ID: BUD17-100
+Session Name: mcuboot: A shared bootloader for IoT - BUD17-100
+Speaker: David Brown
+Track: LITE
+
+
+★ Session Summary ★
+An important base for security is the beginning of the boot process. It is necessary to be able to verify signatures before upgrading images. This session will discuss the mcuboot project, the efforts to port this to Zephyr, and the functionality available. It will include a small demo of its functionality.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-100/
+Presentation: https://www.slideshare.net/linaroorg/bud17100-mcuboot-a-shared-bootloader-for-zephyr
+Video: https://youtu.be/tv502SMhwYE
+---------------------------------------------------
+
+★ Event Details ★
+bud17
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: mcuboot, IoT, Zephyr, LITE, bootloader, David Brown
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961

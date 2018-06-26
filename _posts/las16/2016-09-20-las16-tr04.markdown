@@ -1,0 +1,51 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-TR04%20-%20Using%20tracing%20to%20tune%20and%20optimize%20EAS%20%28English%29.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-TR04%20Using%20Tracing%20to%20tune%20and%20optimize%20EAS%20%28English%29.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:53+00:00
+excerpt: 'The Energy Aware Scheduler relies on a power model, rather than on heuristics,
+  to make decisions and reduce power usage. As a result of this fact-based decision
+  making EAS presents very few tunables and thus requires a significantly different
+  approach to tuning and optimization when compared to the traditional tune/benchmark/repeat
+  cycle. Tuning EAS has perhaps more similar to debugging: using trace tools such
+  as ftrace, kernelshark and LISA, we can examine its decision making and look for
+  ways to improve this decision making. This talk will offer a practical introduction
+  to using these trace tools.'
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-tr04/
+session_id: LAS16-TR04
+session_track: Training
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16tr04-using-tracing-to-tune-and-optimize-eas-english
+slug: las16-tr04
+speakers: Leo Yan
+title: 'LAS16-TR04: Using tracing to tune and optimize EAS (English)'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3837
+youtube_video_url: https://youtu.be/zRlqwurYq5Y
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- Power Management
+- Training
+---
+
+LAS16-TR04: Using tracing to tune and optimize EAS (English)
+Speakers: Leo Yan
+Date: September 28, 2016
+
+★ Session Description ★
+The Energy Aware Scheduler relies on a power model, rather than on heuristics, to make decisions and reduce power usage. As a result of this fact-based decision making EAS presents very few tunables and thus requires a significantly different approach to tuning and optimization when compared to the traditional tune/benchmark/repeat cycle. Tuning EAS has perhaps more similar to debugging: using trace tools such as ftrace, kernelshark and LISA, we can examine its decision making and look for ways to improve this decision making. This talk will offer a practical introduction to using these trace tools.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-tr04
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-tr04/](http://connect.linaro.org/resource/las16/las16-tr04/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

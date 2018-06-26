@@ -1,0 +1,63 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-102%20-%20Update%20on%20CPU%20cluster%20idling.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Monday/BUD17-102%20Update%20on%20CPU%20cluster%20idling.mp4
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:23+00:00
+excerpt: Even if the CPU-Idle framework has improved significantly over the last years,
+  with important consolidation efforts, the framework doesn’t scale for multi-cluster
+  SMP systems and heterogeneous systems like big.LITTLE. Therefore Linaro have been
+  working on a solution that unifies idle management for all kind of devices, including
+  CPUs. This sessions provides the audience an update of this work
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-102/
+session_id: BUD17-102
+session_track: Power Management
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17102-update-on-cpu-cluster-idling
+slug: bud17-102
+speakers: Ulf Hansson
+title: Update on CPU cluster Idling - BUD17-102
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4615
+youtube_video_url: https://youtu.be/D4DzBiIAixs
+categories:
+- bud17
+post_format:
+- Video
+tags:
+- CPU
+- CPU-idle
+---
+
+Session ID: BUD17-102
+Session Name: Update on CPU cluster Idling - BUD17-102
+Speaker: Ulf Hansson
+Track: Power Management
+
+★ Session Summary ★
+Even if the CPU-Idle framework has improved significantly over the last years, with important consolidation efforts, the framework doesn’t scale for multi-cluster SMP systems and heterogeneous systems like big.LITTLE. Therefore Linaro have been working on a solution that unifies idle management for all kind of devices, including CPUs. This sessions provides the audience an update of this work
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-102/
+Presentation: https://www.slideshare.net/linaroorg/bud17102-update-on-cpu-cluster-idling
+Video: https://www.youtube.com/watch?v=D4DzBiIAixs
+---------------------------------------------------
+
+★ Event Details ★
+bud17
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: CPU-idle, CPU
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961

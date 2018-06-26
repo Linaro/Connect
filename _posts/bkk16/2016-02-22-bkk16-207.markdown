@@ -1,0 +1,29 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-207.pdf
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:39+00:00
+excerpt: Submitting jobs to LAVA with VLAN support
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-207/
+session_id: BKK16-207
+session_track: LAVA
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16207-vland-in-lava
+slug: bkk16-207
+speakers: "Neil Williams \nSteve McIntyre"
+title: 'BKK16-207: VLANd in LAVA'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3329
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- LAVA
+- VLAND
+---
+
+Submitting jobs to LAVA with VLAN support
+
+Event Date: March 8, 2016

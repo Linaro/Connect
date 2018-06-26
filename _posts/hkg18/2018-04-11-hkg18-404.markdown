@@ -1,0 +1,59 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-404.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-404.mp4
+author: kyle.kirkby
+comments: false
+date: 2018-04-11 14:13:45+00:00
+excerpt: Common Misunderstanding of Copyleft
+layout: post
+link: http://connect.linaro.org/resource/hkg18/hkg18-404/
+session_id: HKG18-404
+session_track: FOSS Licensing
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18404-open-source-license-compliance-this-session-is-in-chinese
+slug: hkg18-404
+speakers: Lucien Cheng-hsia Lin
+title: HKG18-404 - Open Source License Compliance *This session is in Chinese*
+video_length: '51:16'
+video_thumbnail: None
+wordpress_id: 8806
+youtube_video_url: https://www.youtube.com/watch?v=jrtOfVqnHCY
+categories:
+- hkg18
+post_format:
+- Video
+---
+
+Session ID: HKG18-404
+Session Name: HKG18-404 - Open Source License Compliance *This session is in Chinese*
+Speaker: Lucien Cheng-hsia Lin
+Track: FOSS Licensing
+
+
+★ Session Summary ★
+Common Misunderstanding of Copyleft
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-404/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-404.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-404.mp4
+ ---------------------------------------------------
+★ Event Details ★
+hkg18
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: FOSS Licensing
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Speakers: Lucien Cheng-hsia Lin
+
+Speaker Positions: Open Source License expert
+
+

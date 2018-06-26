@@ -1,0 +1,68 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-205%20LMG%20Lightning%20Talks.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-205%20LMG%20Lightning%20Talks.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:54:16+00:00
+excerpt: "An update of various LMG activities since last Connect, including:\n - LLCT\
+  \ efforts\n - Arm64 Hibernate backport effort - learnings\n - uBoot upstreaming\
+  \ learnings\n - Zstd compression effort\n - Native aarch64 hosted builds for Android"
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-205/
+session_id: SFO17-205
+session_track: LMG
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/lmg-lightning-talks-sfo17205
+slug: sfo17-205
+speakers: Sam Protsenko - Amit Pundir - Bero Rosenkränzer
+title: LMG Lightning Talks - SFO17-205
+video_length: '44:01'
+video_thumbnail: None
+wordpress_id: 5965
+youtube_video_url: https://www.youtube.com/watch?v=Zv7Uo2QXK4E
+categories:
+- sfo17
+post_format:
+- Video
+---
+
+Session ID: SFO17-205
+Session Name: LMG Lightning Talks - SFO17-205
+Speaker: Sam Protsenko - Amit Pundir - Bero Rosenkränzer
+Track: LMG
+
+★ Session Summary ★
+An update of various LMG activities since last Connect, including:
+- LLCT efforts
+- Arm64 Hibernate backport effort - learnings
+- uBoot upstreaming learnings
+- Zstd compression effort
+- Native aarch64 hosted builds for Android
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-205/
+Presentation:
+Video: https://www.youtube.com/watch?v=Zv7Uo2QXK4E
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword:
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 26 Sept 2017
+
+Speakers: Sam Protsenko - Amit Pundir - Bero Rosenkränzer
+
+Position: Embedded Linux Developer
+/ Engineer at Linaro / Tech Lead at Lianro

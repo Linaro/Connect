@@ -1,0 +1,46 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-207%20-%20Bus%20scaling%20QoS.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Tuesday/LAS16-207%20Bus%20scaling%20QoS.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:45+00:00
+excerpt: System has a lot of interconnect bus that have to be set to provide throughputs
+  to devices of the system. We are working on adding missing pieces to let device
+  set the performance requirements to the performance provider that are interconnect
+  bus.
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-207/
+session_id: LAS16-207
+session_track: Core Development
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16207-bus-scaling-qos
+slug: las16-207
+speakers: Georgi Djakov
+title: 'LAS16-207: Bus scaling QoS'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3814
+youtube_video_url: https://youtu.be/uCTmfrzTbW4
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- Power Management
+---
+
+LAS16-207: Bus scaling QoS
+Speakers: Georgi Djakov
+Date: September 27, 2016
+
+★ Session Description ★
+System has a lot of interconnect bus that have to be set to provide throughputs to devices of the system. We are working on adding missing pieces to let device set the performance requirements to the performance provider that are interconnect bus.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-207
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-207/](http://connect.linaro.org/resource/las16/las16-207/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

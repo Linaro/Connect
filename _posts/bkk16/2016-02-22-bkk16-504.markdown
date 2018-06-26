@@ -1,0 +1,34 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Friday/BKK16-504.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Friday/BKK16-504%20Running%20Linux%20in%20EL2.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:57+00:00
+excerpt: Running Linux in EL2 offers potentially important performance benefits for
+  running VMs at the cost of more complicated low-level code paths in the kernel and
+  worse performance for userspace applications.  This talk explores the required actions
+  taken so far, an analysis of the benefits, and discusses challenges with upstreaming
+  this approach.
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-504/
+session_id: BKK16-504
+session_track: Virtualization
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16504-running-linux-in-el2-virtualization
+slug: bkk16-504
+speakers: Christoffer Dall
+title: 'BKK16-504: Running Linux in EL2; who cares about userspace anyway?'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3386
+youtube_video_url: https://youtu.be/iLq1HpgsDTg
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- EL2
+---
+
+Running Linux in EL2 offers potentially important performance benefits for running VMs at the cost of more complicated low-level code paths in the kernel and worse performance for userspace applications.  This talk explores the required actions taken so far, an analysis of the benefits, and discusses challenges with upstreaming this approach.
+
+Event Date: March 11, 2016

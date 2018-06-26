@@ -1,0 +1,31 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-408A.pdf
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:52+00:00
+excerpt: Linaro is building an OpenStack based Developer Cloud. Here we present what
+  was required to bring OpenStack to 64-bit ARM, the pitfalls, successes and lessons
+  learnt; what’s missing and what’s next.
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-408a/
+session_id: BKK16-408A
+session_track: LEG
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16408a-running-openstack-on-aarch64
+slug: bkk16-408a
+speakers: Christian Allen
+title: 'BKK16-408A: Running OpenStack on AArch64'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3373
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- '"Developer Cloud"'
+- OpenStack
+---
+
+Linaro is building an OpenStack based Developer Cloud. Here we present what was required to bring OpenStack to 64-bit ARM, the pitfalls, successes and lessons learnt; what’s missing and what’s next.
+
+Event Date: March 10, 2016

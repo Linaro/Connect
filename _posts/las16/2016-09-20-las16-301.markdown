@@ -1,0 +1,52 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-301%20OpenStack%20on%20AArch64.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-301%20OpenStack%20on%20Aarch64%2C%20running%20in%20production....mp4
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:48+00:00
+excerpt: OpenStack is powering the next generation of the opensource cloud on a global
+  scale. During this presentation, we will touch on three themes, running an OpenStack
+  based cloud in production by Gema Gomez and Andy Doan, followed by Marcin talking
+  about the packaging and bug fixing on archives required to make that happen on AArch64.
+  Jack He and Yibo Cai, will explain what it is like working with the the upstream
+  project, the development environment, the current patches and what needs to be done
+  next. Then Gema Gomez will Introduce the OpenStack Interop Working Group. Why is
+  interoperability important for OpenStack? And What is Linaro doing to improve the
+  interoperability of OpenStack?
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-301/
+session_id: LAS16-301
+session_track: LEG
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16301-openstack-on-aarch64-running-in-production-upstream-improvements-and-interoperability
+slug: las16-301
+speakers: Yibo Cai, Gema Gomez Solano, Jack He, Marcin Juskiewicz, Martin Stadtler
+title: 'LAS16-301: OpenStack on Aarch64, running in production, upstream improvements,
+  and interoperability'
+video_length: '41:24'
+video_thumbnail: None
+wordpress_id: 3825
+youtube_video_url: https://www.youtube.com/watch?v=P5xmaT6H3JE
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- Enterprise
+---
+
+LAS16-301: OpenStack on Aarch64, running in production, upstream improvements, and interoperability
+Speakers: Yibo Cai, Gema Gomez Solano, Jack He, Marcin Juskiewicz, Martin Stadtler
+Date: September 28, 2016
+
+★ Session Description ★
+"OpenStack is at the heart of the next generation of the opensource cloud on a global scale. During this presentation, we will touch on three themes, running an OpenStack based cloud in production by Gema Gomez and Andy Doan, followed by Marcin talking about the packaging and bug fixing on archives required to make that happen on AArch64. Jack He and Yibo Cai, will explain what it is like working with the the upstream project, the development environment, the current patches and what needs to be done next. Then Gema Gomez will Introduce the OpenStack Interop Working Group. Why is interoperability important for OpenStack? And What is Linaro doing to improve the interoperability of OpenStack?
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-301
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-301/](http://connect.linaro.org/resource/las16/las16-301/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

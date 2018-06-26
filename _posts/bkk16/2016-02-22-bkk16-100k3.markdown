@@ -1,0 +1,23 @@
+---
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:33+00:00
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-100k3/
+session_id: BKK16-100K3
+session_track: Keynote
+slug: bkk16-100k3
+speakers: Joe Bates
+title: 'BKK16-100K3: Daily Welcome: Joe Bates, Linaro VP Member Services'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3308
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+---
+
+
+
+Event Date: March 7, 2016

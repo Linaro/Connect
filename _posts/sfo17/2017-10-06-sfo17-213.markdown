@@ -1,0 +1,64 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-213.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-213%20-%20Linux%20based%20Infotainment%20Systems-%20Thundersoft%20Case%20Study.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:54:39+00:00
+excerpt: Present Thundersoft current practices on Linux based Infotainment system,
+  including our current released projects, 3D UI engine ( KANZI ), etc. At the same
+  time, share some of common concerns, such as fast boot, early RVC, real-time supporting
+  & security related topics
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-213/
+session_id: SFO17-213
+session_track: LITE
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/linux-based-infotainment-systems-thundersoft-case-study-sfo17213
+slug: sfo17-213
+speakers: Pengcheng Zou
+title: 'Linux based Infotainment Systems: Thundersoft Case Study - SFO17-213'
+video_length: '25:32'
+video_thumbnail: None
+wordpress_id: 5981
+youtube_video_url: https://www.youtube.com/watch?v=1L2Ulp08vyc
+categories:
+- sfo17
+post_format:
+- Video
+---
+
+Session ID: SFO17-213
+Session Name: Linux based Infotainment Systems: Thundersoft Case Study - SFO17-213
+Speaker: Pengcheng Zou
+Track: LITE
+
+
+★ Session Summary ★
+Present Thundersoft current practices on Linux based Infotainment system, including our current released projects, 3D UI engine ( KANZI ), etc. At the same time, share some of common concerns, such as fast boot, early RVC, real-time supporting & security related topics
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-213/
+Presentation: https://www.slideshare.net/linaroorg/linux-based-infotainment-systems-thundersoft-case-study-sfo17213
+Video: https://www.youtube.com/watch?v=1L2Ulp08vyc
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 
+
+Speakers: Pengcheng Zou
+
+Position: CTO

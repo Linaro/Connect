@@ -1,0 +1,83 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-416-L4RE.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-416%20-%20Preventing%20Linux%20in%20your%20car%20from%20killing%20you-%20The%20L4Re%20Open%20Source%20Microvisor%20System.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:56:05+00:00
+excerpt: 'The uptake of Linux in modern cars is on the rise. It is very hard to make
+
+  Linux safe enough for safety assessors. Thus far the industry has used a
+
+  proprietary layer of safety certifiable system software that in addition to
+
+  running mission critical applications also allows running Linux safely in
+
+  virtual machines. Can that layer be open source as well ? Without compromising
+
+  on safety and security certifiability ? This session presents L4Re - an open
+
+  source project that ticks a lot of boxes in order to let Linux be what it''s
+
+  good at while providing the safety that the Auto world demands.'
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-416/
+session_id: SFO17-416
+session_track: LITE
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/preventing-linux-in-your-car-from-killing-you-the-l4re-open-source-microvisor-system-sfo17416
+slug: sfo17-416
+speakers: Michael Hohmuth
+title: 'Preventing Linux in your car from killing you: The L4Re Open Source Microvisor
+  System. - SFO17-416'
+video_length: '53:22'
+video_thumbnail: None
+wordpress_id: 6839
+youtube_video_url: https://www.youtube.com/watch?v=NEYO7q-x7b0
+categories:
+- sfo17
+post_format:
+- Video
+---
+
+Session ID: SFO17-416
+Session Name: Preventing Linux in your car from killing you: The L4Re Open Source Microvisor System. - SFO17-416
+Speaker: Michael Hohmuth
+Track: LITE
+
+
+★ Session Summary ★
+The uptake of Linux in modern cars is on the rise. It is very hard to make
+Linux safe enough for safety assessors. Thus far the industry has used a
+proprietary layer of safety certifiable system software that in addition to
+running mission critical applications also allows running Linux safely in
+virtual machines. Can that layer be open source as well ? Without compromising
+on safety and security certifiability ? This session presents L4Re - an open
+source project that ticks a lot of boxes in order to let Linux be what it's
+good at while providing the safety that the Auto world demands.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-416/
+Presentation: https://www.slideshare.net/linaroorg/preventing-linux-in-your-car-from-killing-you-the-l4re-open-source-microvisor-system-sfo17416
+Video: https://www.youtube.com/watch?v=NEYO7q-x7b0
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 
+
+Speakers: Michael Hohmuth
+
+Position: 

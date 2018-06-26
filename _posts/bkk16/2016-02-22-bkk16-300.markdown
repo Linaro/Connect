@@ -1,0 +1,37 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-300.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Wednesday/BKK16-300%20Benchmarking%20102.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:42+00:00
+excerpt: 'The presentation will continue from where Benchmarking Best Practices 101
+  left off, covering the topics of benchmark reproducibility and reporting in more
+  depth.
+
+
+  An experiment is reproducible if external teams can run the same experiment over
+  large periods of time and get comparable results. Clear, concise reporting allows
+  others to utilise benchmark results.'
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-300/
+session_id: BKK16-300
+session_track: Toolchain
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16300-benchmarking-102
+slug: bkk16-300
+speakers: Maxim Kuvyrkov
+title: 'BKK16-300: Benchmarking 102'
+video_length: '52:12'
+video_thumbnail: None
+wordpress_id: 3338
+youtube_video_url: https://www.youtube.com/watch?v=qQAHtSEincg
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- Benchmarking
+---
+
+The presentation will continue from where Benchmarking Best Practices 101 left off, covering the topics of benchmark reproducibility and reporting in more depth.  An experiment is reproducible if external teams can run the same experiment over large periods of time and get comparable results. Clear, concise reporting allows others to utilise benchmark results.
+
+Event Date: March 9, 2016

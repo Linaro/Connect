@@ -1,0 +1,70 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-510%20-%20Power%20management%20in%20Linux%20together%20with%20secure%20firmware.pdf
+amazon_s3_video_url: None
+author: kyle.kirkby
+comments: false
+date: 2017-02-28 12:05:58+00:00
+excerpt: On a device it’s not uncommon to share power domains between secure and non-secure
+  side, for example between a TEE and Linux kernel. With that comes some challenges
+  that needs to be taken care of and that is the theme for this presentation. We’ve
+  identified a couple of challenges when it comes to power management and security.
+  One case is when sharing power resources (clock, power domains, ...) between secure
+  and non-secure devices. Another is to make a proper shutdown and boot-up sequence
+  (CPU on/off etc) and finally there has been some concerns regarding the latency
+  when communicating with PSCI. In this session we would like to highlight those and
+  discuss what the short and long term plans are.
+layout: post
+link: http://connect.linaro.org/resource/bud17/bud17-510/
+session_id: BUD17-510
+session_track: Security
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17510-power-management-in-linux-together-with-secure-firmware
+slug: bud17-510
+speakers: Vincent Guittot, Joakim Bech
+title: Power management in Linux together with secure firmware - BUD17-510
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4728
+youtube_video_url: https://youtu.be/MNvTBGNQRDY
+categories:
+- bud17
+post_format:
+- Video
+tags:
+- Linux
+- Power Management
+- Security
+---
+
+"Session ID: BUD17-510
+Session Name: Power management in Linux together with secure firmware - BUD17-510
+Speaker: Vincent Guittot, Joakim Bech
+
+Track: Security
+
+
+★ Session Summary ★
+On a device it’s not uncommon to share power domains between secure and non-secure side, for example between a TEE and Linux kernel. With that comes some challenges that needs to be taken care of and that is the theme for this presentation. We’ve identified a couple of challenges when it comes to power management and security. One case is when sharing power resources (clock, power domains, ...) between secure and non-secure devices. Another is to make a proper shutdown and boot-up sequence (CPU on/off etc) and finally there has been some concerns regarding the latency when communicating with PSCI. In this session we would like to highlight those and discuss what the short and long term plans are.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-510/
+Presentation: https://www.slideshare.net/linaroorg/bud17510-power-management-in-linux-together-with-secure-firmware
+Video: https://youtu.be/MNvTBGNQRDY
+ ---------------------------------------------------
+
+★ Event Details ★
+bud17
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: security, power-management, linux
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

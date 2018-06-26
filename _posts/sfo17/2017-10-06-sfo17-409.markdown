@@ -1,0 +1,62 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-409%20TSC%20BoF%20OSS%20Toolchain%20Discussion.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-409%20-%20TSC%20BoF-%20OSS%20Toolchain%20Discussion.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:55:53+00:00
+excerpt: Discussion on the various OSS Tools efforts in Linaro.  What are we doing
+  now and how should this evolve?
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-409/
+session_id: SFO17-409
+session_track: Toolchain
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/tsc-bof-oss-toolchain-discussion-sfo17409
+slug: sfo17-409
+speakers: Ryan Arnold
+title: 'TSC BoF: OSS Toolchain Discussion - SFO17-409'
+video_length: '54:31'
+video_thumbnail: None
+wordpress_id: 6060
+youtube_video_url: https://www.youtube.com/watch?v=XIhuNcSAVXU
+categories:
+- sfo17
+post_format:
+- Video
+---
+
+Session ID: SFO17-409
+Session Name: TSC BoF: OSS Toolchain Discussion - SFO17-409
+Speaker: Ryan Arnold
+Track: Toolchain
+
+
+★ Session Summary ★
+Discussion on the various OSS Tools efforts in Linaro.  What are we doing now and how should this evolve?
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-409/
+Presentation: https://www.slideshare.net/linaroorg/tsc-bof-oss-toolchain-discussion-sfo17409
+Video: https://www.youtube.com/watch?v=XIhuNcSAVXU
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 28 Sept 2017
+
+Speakers: Ryan Arnold
+
+Position: 

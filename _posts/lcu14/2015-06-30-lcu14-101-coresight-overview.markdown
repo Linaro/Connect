@@ -1,0 +1,68 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-15-Monday/LCU14-101.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-15-Monday/LCU14-101-+Coresight+Overview.mp4
+author: kyle.kirkby
+comments: true
+date: 2015-06-30 17:11:29+00:00
+excerpt: Coresight is the name given to a set of IP blocks providing hardware assisted
+  tracing for ARM based SoCs. This presentation will give an introduction to the technology,
+  how it works and offer a glimpse of the capabilities it offers. More specifically
+  we will go over the components that are part of the architecture and how they are
+  used. Next will be presented the framework Linaro is working on in an effort to
+  provide consolidation and standardization of interfaces to the coresight subsystem.
+  We will conclude with a status of our current upstreaming efforts and how we see
+  the coming months unfolding.
+layout: post
+link: http://connect.linaro.org/resource/lcu14/lcu14-101-coresight-overview/
+session_id: LCU14-101
+session_track: Linux Kernel
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-101-coresight-overview
+slug: lcu14-101-coresight-overview
+speakers: Pancham Tumkur
+title: 'LCU14-101: Coresight Overview'
+video_length: '50:01'
+video_thumbnail: None
+wordpress_id: 1506
+youtube_video_url: https://www.youtube.com/watch?v=NzKPd3FByxI
+categories:
+- Linaro Connect USA 2014
+post_format:
+- Video
+tags:
+- lcu14
+- LCU14-101
+- Linux Kernel
+- Pancham Tumkur
+---
+
+LCU14-101: Coresight Overview
+
+
+
+---------------------------------------------------
+
+Speaker: Pancham Tumkur
+Track: Kernel
+Location: Grand Peninsula A, Hyatt Regency San Francisco Airport, Burlingame, CA, United States
+---------------------------------------------------
+
+★ Session Summary ★
+Coresight is the name given to a set of IP blocks providing hardware assisted tracing for ARM based SoCs. This presentation will give an introduction to the technology, how it works and offer a glimpse of the capabilities it offers. More specifically we will go over the components that are part of the architecture and how they are used. Next will be presented the framework Linaro is working on in an effort to provide consolidation and standardization of interfaces to the coresight subsystem. We will conclude with a status of our current upstreaming efforts and how we see the coming months unfolding.
+---------------------------------------------------
+
+★ Resources ★
+Zerista: http://lcu14.zerista.com/event/member/137703
+Google Event: 
+Presentation: 
+Video: 
+Eatherpad: pad.linaro.org/p/lcu14-101
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect USA - #LCU14
+September 15-19th, 2014
+Hyatt Regency San Francisco Airport
+---------------------------------------------------
+
+> http://www.linaro.org
+> http://connect.linaro.org

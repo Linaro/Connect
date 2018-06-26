@@ -1,0 +1,67 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-15-Monday/LCU14-113.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-15-Monday/LCU14-113-+Upstreaming+101.mp4
+author: kyle.kirkby
+comments: true
+date: 2015-06-30 17:11:10+00:00
+excerpt: This session is an introductory course on Linux kernel upstreaming fundamentals.
+  The course covers the definition the Linux mainline kernel tree as well as the maintainer
+  hierarchy and processes used to contribute software into the mainline kernel. Special
+  focus is given to understanding what documentation will help understand the process
+  and mechanics in more detail while breaking the workflow into the various steps
+  of upstreaming software patches. The target audience is both software engineers
+  and engineering managers preparing to upstream software into the kernel. The topic
+  requires a solid background in software configuration management terminology and
+  the git SCM tool as well as a good technical understanding of the Linux kernel itself.
+layout: post
+link: http://connect.linaro.org/resource/lcu14/lcu14-113-upstreaming-101/
+session_id: LCU14-113
+session_track: Training
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-113-upstreaming-101
+slug: lcu14-113-upstreaming-101
+speakers: Matt Porter
+title: 'LCU14-113: Upstreaming 101'
+video_length: '39:16'
+video_thumbnail: None
+wordpress_id: 1517
+youtube_video_url: https://www.youtube.com/watch?v=x280RQtH8Fo
+categories:
+- Linaro Connect USA 2014
+post_format:
+- Video
+tags:
+- lcu14
+- LCU14-113
+- Matt Porter
+- Training
+---
+
+LCU14-113: Upstreaming 101
+
+---------------------------------------------------
+
+Speaker: 
+Track: Training
+Location: , Hyatt Regency San Francisco Airport, Burlingame, CA, United States
+---------------------------------------------------
+
+★ Session Summary ★
+This session is an introductory course on Linux kernel upstreaming fundamentals. The course covers the definition the Linux mainline kernel tree as well as the maintainer hierarchy and processes used to contribute software into the mainline kernel. Special focus is given to understanding what documentation will help understand the process and mechanics in more detail while breaking the workflow into the various steps of upstreaming software patches. The target audience is both software engineers and engineering managers preparing to upstream software into the kernel. The topic requires a solid background in software configuration management terminology and the git SCM tool as well as a good technical understanding of the Linux kernel itself.
+---------------------------------------------------
+
+★ Resources ★
+Zerista: http://lcu14.zerista.com/event/member/137716
+Google Event: 
+Presentation: 
+Video: 
+Eatherpad: pad.linaro.org/p/lcu14-113
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect USA -  #LCU14 
+September 15-19th, 2014
+Hyatt Regency San Francisco Airport
+---------------------------------------------------
+
+> http://www.linaro.org
+> http://connect.linaro.org

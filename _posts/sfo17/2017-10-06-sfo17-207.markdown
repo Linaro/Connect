@@ -1,0 +1,69 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-207%20Understanding%20RT%20linux.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-207%20Understanding%20Real%20Time%20kernel.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:54:22+00:00
+excerpt: "Real Time kernel is out of linux kernel upstream for long time. It keep\
+  \ contributing much of key features into upstream, like high resolution timer, lockdep,\
+  \ thread irq, PI, ftrace, etc. The Linux foundation setup a group to merge it all\
+  \ into upstream.\n \n This session is going to review RT requirements, the block\
+  \ issue in upstream kernel, and the solution to fix them in RT. We also go through\
+  \ the current out of upstream RT code. Introduce the base stone of RT features:\
+  \ sleeping spin_lock. This session also covers the basic criteria of RT, the general\
+  \ testing tools."
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-207/
+session_id: SFO17-207
+session_track: Kernel
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/understanding-real-time-kernel-sfo17207
+slug: sfo17-207
+speakers: Alex Shi
+title: Understanding Real Time kernel - SFO17-207
+video_length: '35:50'
+video_thumbnail: None
+wordpress_id: 5969
+youtube_video_url: https://www.youtube.com/watch?v=-6yGeFKUo6I
+categories:
+- sfo17
+post_format:
+- Video
+---
+
+Session ID: SFO17-207
+Session Name: Understanding Real Time kernel - SFO17-207
+Speaker: Alex Shi
+Track: Kernel
+
+★ Session Summary ★
+Real Time kernel is out of linux kernel upstream for long time. It keep contributing much of key features into upstream, like high resolution timer, lockdep, thread irq, PI, ftrace, etc. The Linux foundation setup a group to merge it all into upstream.
+
+This session is going to review RT requirements, the block issue in upstream kernel, and the solution to fix them in RT. We also go through the current out of upstream RT code. Introduce the base stone of RT features: sleeping spin_lock. This session also covers the basic criteria of RT, the general testing tools.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-207/
+Presentation:
+Video: https://www.youtube.com/watch?v=-6yGeFKUo6I
+---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword:
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 26 Sept 2017
+
+Speakers: Alex Shi
+
+Position: Engineer at Linaro

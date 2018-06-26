@@ -1,0 +1,64 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-312-%20Benchmarking%20at%20TCWG.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-312%20Benchmarking%20at%20TCWG.mp4
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:55:21+00:00
+excerpt: This session will be a walk-through of TCWG benchmarking infrastructure and
+  discussion of design choices we made while building it. This presentation will be
+  aimed at developers interested in performance benchmarking in general, and toolchain
+  benchmarking in particular.
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-312/
+session_id: SFO17-312
+session_track: Toolchain
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/benchmarking-at-tcwg-sfo17312
+slug: sfo17-312
+speakers: Maxim Kuvyrkov - Christophe Lyon
+title: Benchmarking at TCWG - SFO17-312
+video_length: '28:28'
+video_thumbnail: None
+wordpress_id: 6026
+youtube_video_url: https://www.youtube.com/watch?v=q_YaSnHnSSI
+categories:
+- sfo17
+post_format:
+- Video
+---
+
+Session ID: SFO17-312
+Session Name: Benchmarking at TCWG - SFO17-312
+Speaker: Maxim Kuvyrkov - Christophe Lyon
+Track: Toolchain
+
+
+★ Session Summary ★
+This session will be a walk-through of TCWG benchmarking infrastructure and discussion of design choices we made while building it. This presentation will be aimed at developers interested in performance benchmarking in general, and toolchain benchmarking in particular.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-312/
+Presentation: https://www.slideshare.net/linaroorg/benchmarking-at-tcwg-sfo17312
+Video: https://www.youtube.com/watch?v=q_YaSnHnSSI
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 28 Sept 2017
+
+Speakers: Maxim Kuvyrkov - Christophe Lyon
+
+Position: Tech Lead at Linaro / GNU toolchain engineer at Linaro

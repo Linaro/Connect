@@ -1,0 +1,38 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-110.pdf
+amazon_s3_video_url: n/a
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:36+00:00
+excerpt: Smart connected devices such as mobile phones, tablets and Digital TVs are
+  required to handle data with strong security and confidentiality requirements. A
+  “Trusted Execution Environment” (TEE) provides an environment for processing data
+  securely, protected from normal platform applications. This talk is intended as
+  an introduction to Trusted Execution, and the open-source Trusted Execution Environment
+  OP-TEE in particular. It introduces the GlobalPlatform TEE Specifications, explains
+  how Trusted Execution is implemented by ARM TrustZone and OP-TEE, and outlines how
+  trusted boot software manages the secure boot of an ARM platform. Finally, it gives
+  some pointers on how to get started with OP-TEE.
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-110/
+session_id: BKK16-110
+session_track: Security
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16110-a-gentle-introduction-to-trusted-execution-and-optee
+slug: bkk16-110
+speakers: Russell Wayman
+title: 'BKK16-110: A Gentle Introduction to Trusted Execution and OP-TEE'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3318
+youtube_video_url: n/a
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+tags:
+- OP-TEE
+---
+
+Smart connected devices such as mobile phones, tablets and Digital TVs are required to handle data with strong security and confidentiality requirements. A “Trusted Execution Environment” (TEE) provides an environment for processing data securely, protected from normal platform applications. This talk is intended as an introduction to Trusted Execution, and the open-source Trusted Execution Environment OP-TEE in particular. It introduces the GlobalPlatform TEE Specifications, explains how Trusted Execution is implemented by ARM TrustZone and OP-TEE, and outlines how trusted boot software manages the secure boot of an ARM platform. Finally, it gives some pointers on how to get started with OP-TEE.
+
+Event Date: March 7, 2016

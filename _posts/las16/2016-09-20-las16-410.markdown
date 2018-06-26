@@ -1,0 +1,50 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Thursday/LAS16-410%20-%20Don%27t%20waste%20power%20when%20idle%20with%20runtime%20PM.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Thursday/LAS16-410%20Don%27t%20waste%20power%20when%20idle%20with%20runtime%20PM.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:59+00:00
+excerpt: Continuing the discussion from Linaro Connect Bangkok 2016, we discuss further
+  experiments with Window Assisted Load Tracking (WALT, formerly WinLT) on other architectures
+  such as x86 and with different workloads including laptop/desktop and server usecases.
+  We propose that WALT is more accurate in tracking cpu/task utilization than PELT
+  (which we believe is better at load rather than util tracking) and that better utilization
+  estimation schemes can be built on top of WALT. Experiments use the new schedutil
+  governor. Examination of individual use cases in detail as well as how to handle
+  migration and potential caveats of a windowing scheme are discussed.
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-410/
+session_id: LAS16-410
+session_track: Core Development
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16410-dont-waste-power-when-idle-with-runtime-pm
+slug: las16-410
+speakers: Ulf Hansson
+title: 'LAS16-410: Don''t waste power when idle with runtime PM'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3851
+youtube_video_url: https://youtu.be/2oGtHeXJguE
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- Power Management
+---
+
+LAS16-410: Don’t waste power when idle with runtime PM
+Speakers: Ulf Hansson
+Date: September 29, 2016
+
+★ Session Description ★
+For a while Linaro has been working on improving some components of the PM core infrastructure. In this session we will touch system PM, runtime PM and the generic PM domain frameworks. Moreover we will show how to deploy system PM support via the so called runtime PM centric approach. The goal is to enable people to write simpler PM code in subsystem/drivers, as well as help avoid wasting power when a device or a system is idle.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-410
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-410/](http://connect.linaro.org/resource/las16/las16-410/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

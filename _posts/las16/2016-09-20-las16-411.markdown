@@ -1,0 +1,46 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Thursday/LAS16-411%20-%20Why%20I%20moved%20away%20from%20LAVA%20for%20ART%20CI.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Thursday/LAS16-411%20Why%20I%20moved%20away%20from%20LAVA%20for%20ART%20CI.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:59+00:00
+excerpt: The session will describe the experience of using LAVA for ART CI. The goal
+  of the session is to provide feedback from end user experience point of view of
+  using LAVA.
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-411/
+session_id: LAS16-411
+session_track: Automation & CI
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16411-why-i-moved-away-from-lava-for-art-ci
+slug: las16-411
+speakers: Vishal Bhoj
+title: 'LAS16-411: Why I moved away from LAVA for ART CI'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3852
+youtube_video_url: https://youtu.be/kmbnhM4_qP0
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- Android
+- Builds &amp; Baselines
+---
+
+LAS16-411: Why I moved away from LAVA for ART CI
+Speakers: Vishal Bhoj
+Date: September 29, 2016
+
+★ Session Description ★
+The session will describe the experience of using LAVA for ART CI. The goal of the session is to provide feedback from end user experience point of view of using LAVA.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-411
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-411/](http://connect.linaro.org/resource/las16/las16-411/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)

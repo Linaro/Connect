@@ -1,0 +1,32 @@
+---
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-100.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Monday/BKK16-100%20Evolution%20of%20the%20Reference%20Software.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:33+00:00
+excerpt: The Reference Software Platform lead project was introduced in Linaro Connect
+  San Francisco 2015, and since then it evolved and matured with the completion of
+  the first tree big milestones (the 15.10, 15.12 and 16.03 releases). This session
+  will revisit the work done as part of the previous releases, covering the projects
+  that were incorporated through the process and our vision for the future milestones.
+layout: post
+link: http://connect.linaro.org/resource/bkk16/bkk16-100/
+session_id: BKK16-100
+session_track: 96Boards
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16100-evolution-of-the-reference-software-platform-project
+slug: bkk16-100
+speakers: Ricardo Salveti
+title: 'BKK16-100: Evolution of the Reference Software Platform Project'
+video_length: '58:37'
+video_thumbnail: None
+wordpress_id: 3305
+youtube_video_url: https://www.youtube.com/watch?v=adBz3ZsMWDY
+categories:
+- Linaro Connect Bangkok 2016
+post_format:
+- Video
+---
+
+The Reference Software Platform lead project was introduced in Linaro Connect San Francisco 2015, and since then it evolved and matured with the completion of the first tree big milestones (the 15.10, 15.12 and 16.03 releases). This session will revisit the work done as part of the previous releases, covering the projects that were incorporated through the process and our vision for the future milestones.
+
+Event Date: March 7, 2016

@@ -1,0 +1,81 @@
+---
+author: celia.ilardi
+comments: false
+date: 2017-10-06 16:56:20+00:00
+excerpt: 'The Power Management Working Group (PMWG) is hosting topic focused hacking
+  sessions and discussions during SFO17 (Tues - Thurs)
+
+
+  Thurs
+
+  14:00        35m        Active state management of power domains        Viresh Kumar
+
+  14:35        35m        Simplified DVFS and OPP framework        Viresh Kumar
+
+  15:10        45m        Genpd debugfs / consolidate PM framework debugfs        Thara
+  Gopinath
+
+  15:55        45m        Bus scaling QoS        Georgi Djakov
+
+  16:40        35m        PMWG Board Farm status        Lisa Nguyen
+
+  17:15        45m        Memory Power down        Daniel Lezcano'
+layout: post
+link: http://connect.linaro.org/resource/sfo17/sfo17-pm03/
+session_id: SFO17-PM03
+session_track: Power Management
+slug: sfo17-pm03
+title: Power Themed Hacking Sessions (Thurs) - SFO17-PM03
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 6364
+categories:
+- sfo17
+post_format:
+- Video
+---
+
+Session ID: SFO17-PM03
+Session Name: Power Themed Hacking Sessions (Thurs) - SFO17-PM03
+Speaker: 
+Track: Power Management
+
+
+★ Session Summary ★
+The Power Management Working Group (PMWG) is hosting topic focused hacking sessions and discussions during SFO17 (Tues - Thurs)
+
+Thurs
+14:00        35m        Active state management of power domains        Viresh Kumar
+14:35        35m        Simplified DVFS and OPP framework        Viresh Kumar
+15:10        45m        Genpd debugfs / consolidate PM framework debugfs        Thara Gopinath
+15:55        45m        Bus scaling QoS        Georgi Djakov
+16:40        35m        PMWG Board Farm status        Lisa Nguyen
+17:15        45m        Memory Power down        Daniel Lezcano
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/sfo17/sfo17-pm03/
+Presentation: 
+Video: 
+ ---------------------------------------------------
+
+★ Event Details ★
+Linaro Connect San Francisco 2017 (SFO17)
+25-29 September 2017
+Hyatt Regency San Francisco Airport
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961
+
+Event Date: 
+
+Speakers: 
+
+Position: 

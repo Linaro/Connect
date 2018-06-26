@@ -1,0 +1,28 @@
+---
+author: kyle.kirkby
+comments: false
+date: 2016-02-22 17:20:33+00:00
+excerpt: Review the data and plans collected to date
+layout: post
+link: http://connect.linaro.org/resource/bkk16-101/
+session_id: BKK16-101
+session_track: LITE
+slug: bkk16-101
+speakers: Matthew Locke
+title: 'BKK16-101: Requirement review and discussion'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3309
+categories:
+- Linaro Connect Bangkok 2016
+- Resources
+post_format:
+- Video
+tags:
+- IoT
+- LITE
+---
+
+Review the data and plans collected to date
+
+Event Date: March 7, 2016

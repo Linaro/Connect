@@ -1,0 +1,35 @@
+// Previous Sponsors
+#previous-sponsors .sponsor .img-responsive {
+    height: 100px;
+    background-size: contain;
+    background-repeat:  no-repeat;
+    background-position:  center center;
+    transition: all 200ms ease;
+    margin-bottom:20px;
+    margin-top:20px;
+}
+#previous-sponsors .sponsor {
+    text-align: center;
+}
+
+div#previous-sponsors {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#previous-sponsors h2 {
+    margin-bottom: 40px;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+#previous-sponsors p {
+    text-align:  center;
+    margin-bottom: 10px;
+}
+#previous-sponsors .col-xs-12.text-center {
+    margin-bottom: 25px;
+}
+#previous-sponsors .sponsor .img-responsive:hover {
+    transform: scale(1.2);
+}

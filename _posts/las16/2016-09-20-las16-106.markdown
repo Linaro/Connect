@@ -1,0 +1,47 @@
+---
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Monday/LAS16-106%20-%20GNU%20Toolchain%20Development%20Lifecycle.pptx
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Monday/LAS16-106%20GNU%20Toolchain%20Development%20Lifecycle.mp4
+author: kyle.kirkby
+comments: false
+date: 2016-09-20 17:10:32+00:00
+excerpt: This presentation will examine the lifecycle of toolchain development from
+  inception of the micro-architecture, to development of the ISA, to delivery of OS
+  enablement in FOSS projects, to adoption in Linux Distributions. It will examine
+  the behaviors of successful silicon vendors as well as behaviors of vendors that
+  struggle to get their platform fully enabled in the GNU/Linux OS.
+layout: post
+link: http://connect.linaro.org/resource/las16/las16-106/
+session_id: LAS16-106
+session_track: Core Development
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16106-gnu-toolchain-development-lifecycle
+slug: las16-106
+speakers: Ryan Arnold
+title: 'LAS16-106: GNU Toolchain Development Lifecycle'
+video_length: '37:31'
+video_thumbnail: None
+wordpress_id: 3799
+youtube_video_url: https://www.youtube.com/watch?v=DFEErVbiR_E
+categories:
+- Linaro Connect Las Vegas 2016 (LAS16)
+post_format:
+- Video
+tags:
+- Tools
+---
+
+LAS16-106: GNU Toolchain Development Lifecycle
+Speakers: Ryan Arnold
+Date: September 26, 2016
+
+★ Session Description ★
+This presentation will examine the lifecycle of toolchain development from inception of the micro-architecture, to development of the ISA, to delivery of OS enablement in FOSS projects, to adoption in Linux Distributions. It will examine the behaviors of successful silicon vendors as well as behaviors of vendors that struggle to get their platform fully enabled in the GNU/Linux OS.
+
+★ Resources ★
+Etherpad: pad.linaro.org/p/las16-106
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-106/](http://connect.linaro.org/resource/las16/las16-106/)
+
+★ Event Details ★
+Linaro Connect Las Vegas 2016 – #LAS16
+September 26-30, 2016
+[http://www.linaro.org](http://www.linaro.org/)
+[http://connect.linaro.org](http://connect.linaro.org/)
