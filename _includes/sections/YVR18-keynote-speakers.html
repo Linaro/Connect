@@ -13,8 +13,8 @@
             
             {% for speaker in site.speakers %}
             
-                {% assign current_keynote = site.keynotes | where: event_code, connect_code  | where: 'speaker' , speaker.name %}
-        
+                {% assign current_keynotes = site.keynotes | where: event_code, connect_code %}
+                {% assign current_keynote = current_keynotes | where: 'speaker', speaker.name %}
                 <div class="col-md-3">
                     <div class="speaker-block">
                         <div class="img-responsive speaker-image" style="background-image: url({% asset_path '{{speaker.image}}' %});"></div>
@@ -22,7 +22,6 @@
                         <h3 class="speaker-name">
                             {{speaker.name}}
                         </h3>
-                        <a href="https://www.arm.com">speaker.</a>
                     </div>
                 </div>
             {% endfor %}
