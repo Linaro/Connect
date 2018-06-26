@@ -163,4 +163,33 @@ The deadline for submitting sessions is __23 July 2018__. Please submit your ses
 </div>
     </div>
   </div>
+  
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="whatKindOfHardware">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#whatKindOfHardwareCollapse" aria-expanded="false" aria-controls="whatKindOfHardwareCollapse">
+        What sort of hardware can I borrow during Connect?
+        </a>
+      </h4>
+    </div>
+    <div id="whatKindOfHardwareCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="whatKindOfHardware">
+<div class="panel-body" markdown="1">
+
+The general stock of Connect hardware consists of:
+
+- Monitors with VGA and HDMI cables.
+- USB mice.
+- USB keyboards.
+- USB hubs.
+- Multi-format power strips so you don't need plug adapters - but your equipment must work at the local voltage, e.g. 110V for North America, 220V for Europe.
+- Network switches (note, though, that IT will generally deploy a network switch to half the tables in a hacking room).
+- Network cables (various lengths available).
+
+We **do not** provide memory cards, USB keys, speakers or boards of any description.
+
+If you have any other hardware requirements, please follow the instructions in [How do I request hardware for loan during Connect?](/faq/#requestHardwareCollapse) and we will let you know whether or not we can meet your request.
+
+</div>
+    </div>
+  </div>
 </div>
