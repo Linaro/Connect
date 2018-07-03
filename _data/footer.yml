@@ -6,7 +6,7 @@ columns:
         - text: Sponsors
           url: /sponsors/
         - text: Previous Sponsors
-          url: /sponors/
+          url: /sponsors/
         - text: Blog
           url: /blog/
     - title: Attend
