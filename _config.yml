@@ -8,11 +8,11 @@ destination: _site
 # Include the Linaro Jekyll Theme
 theme: jumbo-jekyll-theme
 # Permalink for the blog posts of the Jekyll website.
-permalink: /blog/:title/
+permalink: /resources/:categories/:slug/
 # Syntax highlighter for 96boards blog
 highlighter: rouge
 # Markdown version
-markdown: kramdown
+markdown: kramdown  
 # production status for robots.txt and files alike.
 production: false
 kramdown:
