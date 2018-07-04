@@ -21,7 +21,7 @@ video_thumbnail: None
 wordpress_id: 1542
 youtube_video_url: https://www.youtube.com/watch?v=GTKEmdUU1lE
 categories:
-- Linaro Connect USA 2014
+- lcu14
 tags:
 - Jens Wiklander
 - Joakim Bech

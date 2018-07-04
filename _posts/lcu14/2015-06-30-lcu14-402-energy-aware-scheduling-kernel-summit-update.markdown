@@ -40,7 +40,7 @@ video_thumbnail: None
 wordpress_id: 1553
 youtube_video_url: https://www.youtube.com/watch?v=UhmfeCqQrxU
 categories:
-- Linaro Connect USA 2014
+- lcu14
 tags:
 - Amit Kucheria
 - Dietmar Eggemann

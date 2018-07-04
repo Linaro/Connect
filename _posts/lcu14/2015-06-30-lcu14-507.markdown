@@ -11,7 +11,7 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 1568
 categories:
-- Linaro Connect USA 2014
+- lcu14
 tags:
 - lcu14
 - LCU14-507

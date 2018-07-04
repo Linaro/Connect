@@ -17,7 +17,7 @@ video_thumbnail: None
 wordpress_id: 1572
 youtube_video_url: https://www.youtube.com/watch?v=-ylsAYzEcpo
 categories:
-- Linaro Connect USA 2014
+- lcu14
 tags:
 - Keynote
 - lcu14
