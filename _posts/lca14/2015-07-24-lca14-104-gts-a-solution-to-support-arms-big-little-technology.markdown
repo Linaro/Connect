@@ -25,7 +25,7 @@ video_thumbnail: None
 wordpress_id: 2084
 youtube_video_url: http://www.youtube.com/watch?v=PmBT52hBAZg
 categories:
-- Linaro Connect Asia 2014
+- lca14
 post_format:
 - Video
 tags:

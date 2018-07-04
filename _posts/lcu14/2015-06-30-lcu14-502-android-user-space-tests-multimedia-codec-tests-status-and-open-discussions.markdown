@@ -28,7 +28,7 @@ video_thumbnail: None
 wordpress_id: 1563
 youtube_video_url: https://www.youtube.com/watch?v=xNr6xsvnNVA
 categories:
-- Linaro Connect USA 2014
+- lcu14
 tags:
 - Android
 - Ashok Bhat

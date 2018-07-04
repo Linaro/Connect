@@ -17,7 +17,7 @@ video_thumbnail: None
 wordpress_id: 3955
 youtube_video_url: https://www.youtube.com/watch?v=NoeHIjqlriI
 categories:
-- Linaro Connect Europe 2013
+- lce13
 post_format:
 - Video
 ---

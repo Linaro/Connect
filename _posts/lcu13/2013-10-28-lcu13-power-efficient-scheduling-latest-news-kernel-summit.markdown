@@ -17,7 +17,7 @@ video_thumbnail: None
 wordpress_id: 3952
 youtube_video_url: https://www.youtube.com/watch?v=1_Og7sc8r3U
 categories:
-- Linaro Connect USA 2013 (LCU13)
+- lcu13
 post_format:
 - Video
 ---

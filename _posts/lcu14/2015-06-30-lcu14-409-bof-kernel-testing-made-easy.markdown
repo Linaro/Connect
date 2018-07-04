@@ -23,7 +23,7 @@ video_thumbnail: None
 wordpress_id: 1558
 youtube_video_url: https://www.youtube.com/watch?v=Om7V8NEaC3k
 categories:
-- Linaro Connect USA 2014
+- lcu14
 tags:
 - Automation &amp; Validation
 - Gaurav Minocha

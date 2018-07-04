@@ -24,7 +24,7 @@ video_thumbnail: None
 wordpress_id: 1559
 youtube_video_url: https://www.youtube.com/watch?v=JfZt8W3NVgk
 categories:
-- Linaro Connect USA 2014
+- lcu14
 tags:
 - Amit Kucheria
 - lcu14

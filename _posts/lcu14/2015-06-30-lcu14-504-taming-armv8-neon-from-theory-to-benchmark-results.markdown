@@ -20,7 +20,7 @@ video_thumbnail: None
 wordpress_id: 1565
 youtube_video_url: https://www.youtube.com/watch?v=ixuDntaSnHI
 categories:
-- Linaro Connect USA 2014
+- lcu14
 tags:
 - Android
 - Kevin Petit
