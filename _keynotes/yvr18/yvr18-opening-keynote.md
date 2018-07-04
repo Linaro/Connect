@@ -1,6 +1,7 @@
 ---
 title: YVR18 Opening Keynote
 speaker: George Grey
+keynote: true
 event_code: YVR18
 start_time: 8:45
 finish_time: 9:45
