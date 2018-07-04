@@ -21,7 +21,7 @@ video_thumbnail: None
 wordpress_id: 5393
 youtube_video_url: https://www.youtube.com/watch?v=wCdR59kY2Dc
 categories:
-- Linaro Connect Budapest 2017 (BUD17)
+- bud17
 post_format:
 - Video
 tags:

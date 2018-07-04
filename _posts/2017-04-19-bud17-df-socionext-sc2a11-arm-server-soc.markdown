@@ -17,7 +17,7 @@ video_thumbnail: None
 wordpress_id: 5758
 youtube_video_url: https://www.youtube.com/watch?v=nhPm7d59t8c
 categories:
-- Demo Friday
+- demo-friday
 ---
 
 No Content Found

@@ -18,7 +18,7 @@ video_thumbnail: None
 wordpress_id: 5663
 youtube_video_url: https://www.youtube.com/watch?v=0dm3wFOQxdg
 categories:
-- Demo Friday
+- demo-friday
 post_format:
 - Video
 ---
