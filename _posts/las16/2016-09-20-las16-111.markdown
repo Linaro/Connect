@@ -36,7 +36,7 @@ video_thumbnail: None
 wordpress_id: 3804
 youtube_video_url: https://www.youtube.com/watch?v=3MnLrHoQcyI
 categories:
-- Linaro Connect Las Vegas 2016 (LAS16)
+- las16
 post_format:
 - Video
 tags:

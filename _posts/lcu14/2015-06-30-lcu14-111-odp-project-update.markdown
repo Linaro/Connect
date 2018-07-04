@@ -18,7 +18,7 @@ video_thumbnail: None
 wordpress_id: 1515
 youtube_video_url: https://www.youtube.com/watch?v=RU02hVQu2vU
 categories:
-- Linaro Connect USA 2014
+- lcu14
 post_format:
 - Video
 tags:

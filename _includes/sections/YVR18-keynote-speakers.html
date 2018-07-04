@@ -12,9 +12,9 @@
         <div class="row">
             
             {% for speaker in site.speakers %}
-            
                 {% assign current_keynotes = site.keynotes | where: event_code, connect_code %}
                 {% assign current_keynote = current_keynotes | where: 'speaker', speaker.name %}
+                {{current_keynote}}
                 <div class="col-md-3">
                     <div class="speaker-block">
                         <div class="img-responsive speaker-image" style="background-image: url({% asset_path '{{speaker.image}}' %});"></div>

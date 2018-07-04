@@ -16,7 +16,7 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 1521
 categories:
-- Linaro Connect USA 2014
+- lcu14
 post_format:
 - Video
 tags:

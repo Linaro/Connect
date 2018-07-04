@@ -18,7 +18,7 @@ video_thumbnail: None
 wordpress_id: 3031
 youtube_video_url: None
 categories:
-- Linaro Connect San Francisco 2015
+- sfo15
 post_format:
 - Video
 ---

@@ -24,7 +24,7 @@ video_thumbnail: None
 wordpress_id: 2873
 youtube_video_url: https://www.youtube.com/watch?v=UV6rsgae3yc
 categories:
-- Linaro Connect San Francisco 2015
+- sfo15
 post_format:
 - Video
 tags:

@@ -17,7 +17,7 @@ video_thumbnail: None
 wordpress_id: 1561
 youtube_video_url: https://www.youtube.com/watch?v=je0_-yYgKdc
 categories:
-- Linaro Connect USA 2014
+- lcu14
 tags:
 - Andrew Thoelke
 - lcu14

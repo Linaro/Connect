@@ -27,7 +27,7 @@ video_thumbnail: None
 wordpress_id: 3365
 youtube_video_url: https://youtu.be/x2BdTJixDtY
 categories:
-- Linaro Connect Bangkok 2016
+- bkk16
 post_format:
 - Video
 tags:
