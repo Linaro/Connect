@@ -3,35 +3,39 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   The 96Boards Software Reference Platform.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-21-Monday/SFO15-104
   The Reference Platform Lead Project.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-21 00:00:00+00:00
-excerpt: 96Boards is most obviously a hardware specification and website providing
+date: 2015-09-21 00:00:00
+excerpt: "96Boards is most obviously a hardware specification and website providing
   support and access to software downloads. The software is, to a certain extent,
   taken for granted, but it is the software that differentiates 96Boards from many
   other development boards. This session will start with a brief introduction to the
   96Boards Software Reference Platform and then invite discussion about how to improve
-  the platform and what should and shouldn’t be a part of the platform across the
-  range of boards.
+  the platform and what should and shouldn\u2019t be a part of the platform across
+  the range of boards."
+image:
+  featured: true
+  name: SFO15-104-The96BoardsSoftwareReferencePlatform.jpg
+  path: /assets/images/featured-images/SFO15-104-The96BoardsSoftwareReferencePlatform.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-104-the-96boards-software-reference-platform/
+post_format:
+- Video
 session_id: None
 session_track: Community
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15104-the-96boards-software-reference-platformkeynote
 slug: sfo15-104-the-96boards-software-reference-platform
+tags:
+- 96Boards
+- Community
+- Dragonboard
 title: 'SFO15-104: The 96Boards Software Reference Platform'
 video_length: '42:51'
 video_thumbnail: None
 wordpress_id: 2792
 youtube_video_url: https://www.youtube.com/watch?v=64_T7YFxVJ0
-categories:
-- sfo15
-post_format:
-- Video
-tags:
-- 96Boards
-- Community
-- Dragonboard
 ---
 
 SFO15-104: The 96Boards Software Reference Platform

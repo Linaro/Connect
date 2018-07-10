@@ -2,15 +2,23 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-315-%20OpenDataPlane%20Testing%20in%20Travis.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-315%20-%20Complex%20testing%20in%20Travis%20CI.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:55:26+00:00
+date: 2017-10-06 16:55:26
 excerpt: This talk discusses usage of the Travis-CI system and our experience obtained
   while working on the ODP project in GitHub. The talk will focus on complex setup
   topics including cross-compilation and runtime testing. Testing efficiency using
   caches to reduce test time is also covered. This experience should be useful to
   any project that wants to use Travis CI to help automate patch testing.
+image:
+  featured: true
+  name: SFO17-315.jpg
+  path: /assets/images/featured-images/SFO17-315.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-315/
+post_format:
+- Video
 session_id: SFO17-315
 session_track: LNG
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/complex-testing-in-travis-ci-sfo17315
@@ -21,10 +29,6 @@ video_length: '29:02'
 video_thumbnail: None
 wordpress_id: 6031
 youtube_video_url: https://www.youtube.com/watch?v=3UAt7nnftps
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-315

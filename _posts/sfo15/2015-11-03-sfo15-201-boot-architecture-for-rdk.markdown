@@ -2,11 +2,19 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-22-Tuesday/SFO15-201
   - RDK_Bootloader_v4.pdf
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-11-03 13:38:51+00:00
+date: 2015-11-03 13:38:51
+image:
+  featured: true
+  name: SFO15-201.jpg
+  path: /assets/images/featured-images/SFO15-201.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-201-boot-architecture-for-rdk/
+post_format:
+- Video
 session_id: SFO15-201
 session_track: Digital Home
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15201-boot-architecture-for-rdk-53087865
@@ -17,10 +25,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3027
 youtube_video_url: None
-categories:
-- sfo15
-post_format:
-- Video
 ---
 
 SFO15-201: Boot Architecture for RDK

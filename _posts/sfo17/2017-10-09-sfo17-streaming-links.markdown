@@ -3,9 +3,15 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: None
 author: celia.ilardi
 comments: false
-date: 2017-10-09 13:15:01+00:00
+date: 2017-10-09 13:15:01
+image:
+  featured: true
+  name: SFO17StreamingLinks.jpg
+  path: /assets/images/featured-images/SFO17StreamingLinks.jpg
 layout: post
 link: http://connect.linaro.org/uncategorized/sfo17-streaming-links/
+post_format:
+- Video
 session_id: None
 session_track: None
 slideshare_presentation_url: None
@@ -16,8 +22,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 6428
 youtube_video_url: None
-post_format:
-- Video
 ---
 
 No Content Found

@@ -1,15 +1,21 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- Blog
 comments: false
-date: 2017-02-20 20:44:04+00:00
+date: 2017-02-20 20:44:04
 excerpt: Linaro Connect is a great time for all security engineers to get together
   to showcase to the open source community what they have been up to since the last
   Linaro Connect in September 2016.  Beginning Tuesday March 7 there will be sessions
   held daily dedicated to security topics as well as demos later in the week.   The
   team will also have daily hacking sessions taking place in the afternoon that all
   attendees at the event are welcome to come to.
+image:
+  featured: true
+  name: LinaroSecurityGroup'sPlansforLinaroConnectBudapest2017.png
+  path: /assets/images/featured-images/LinaroSecurityGroup'sPlansforLinaroConnectBudapest2017.png
 layout: post
 link: http://connect.linaro.org/blog/linaro-security-groups-plans-linaro-connect-budapest-2017/
 session_id: None
@@ -22,8 +28,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4582
 youtube_video_url: None
-categories:
-- Blog
 ---
 
 The Linaro Security Group will be presenting at four sessions during the upcoming Linaro Connect Budapest 2017 (BUD17), including sessions on Universal Keyring, Device Tree, Op-Tee and Power Management.

@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Friday/BUD17-508%20ARM%20Developer%20Systems%20%20Tools.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:58+00:00
+date: 2017-02-28 12:05:58
 excerpt: The ARM ecosystem needs full stack development tools, currently you need
   an Intel machine to develop for ARM. This makes developing for ARM a 2nd class citizen.
   The need is shown greatly in the datacenter where we need developers and engineers
@@ -13,26 +15,28 @@ excerpt: The ARM ecosystem needs full stack development tools, currently you nee
   and workstations (that provide PCIe, SATA and DIMM). Finally ARM server access as
   cloud/baremetal instances for production testing.  This session is to gather requirements
   and review options that can be provided/developed.
+image:
+  featured: true
+  name: BUD17-508.jpg
+  path: /assets/images/featured-images/BUD17-508.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-508/
+post_format:
+- Video
 session_id: BUD17-508
 session_track: None
 slideshare_presentation_url: None
 slug: bud17-508
 speakers: Martin Stadtler, Graeme Gregory, Ard Biesheuvel, Engineer, Yang Zhang
+tags:
+- ARM
+- developer-system
+- Tools
 title: ARM Developer Systems/Tools - BUD17-508
 video_length: '30:07'
 video_thumbnail: None
 wordpress_id: 4727
 youtube_video_url: https://youtu.be/Ol0o5_Md3Ww
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- ARM
-- developer-system
-- Tools
 ---
 
 "Session ID: BUD17-508

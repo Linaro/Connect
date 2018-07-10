@@ -1,11 +1,19 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:26+00:00
+date: 2016-09-20 17:10:26
+image:
+  featured: true
+  name: LAS16-100K2.png
+  path: /assets/images/featured-images/LAS16-100K2.png
 layout: post
 link: http://connect.linaro.org/resource/las16/las16-100k2/
+post_format:
+- Video
 session_id: LAS16-100K2
 session_track: Keynote
 slideshare_presentation_url: None
@@ -16,13 +24,7 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3792
 youtube_video_url: https://www.youtube.com/watch?v=MCLFp55y0dc
-categories:
-- las16
-post_format:
-- Video
 ---
-
-
 
 LAS16-100K2: The Robot Operating System: An Open Source Framework for Modern Robotics
 Speakers: Morgan Quigley
@@ -46,5 +48,3 @@ Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
 [http://connect.linaro.org](http://connect.linaro.org/)
-
-

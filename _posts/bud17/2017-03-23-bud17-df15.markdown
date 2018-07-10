@@ -1,15 +1,23 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-DF15.pdf
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- demo-friday
 comments: false
-date: 2017-03-23 17:10:30+00:00
+date: 2017-03-23 17:10:30
 excerpt: 'Boot optimized and HWA MM capabilities on Android N MR1 with 4.9 kernel
 
 
-  '
+'
+image:
+  featured: true
+  name: BUD17-DF15.jpg
+  path: /assets/images/featured-images/BUD17-DF15.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df15/
+post_format:
+- Video
 session_id: BUD17-DF15
 session_track: None
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17df15-optimized-android-n-mr1-49-kernel
@@ -20,10 +28,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5724
 youtube_video_url: None
-categories:
-- demo-friday
-post_format:
-- Video
 ---
 
 Boot optimized and HWA MM capabilities on Android N MR1 with 4.9 kernel

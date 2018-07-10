@@ -1,12 +1,20 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-314.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-314.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:12:48+00:00
+date: 2018-04-11 14:12:48
 excerpt: HPC BoF to discuss about the future of the HPC-SIG and Arm HPC in general
+image:
+  featured: true
+  name: HKG18-314.png
+  path: /assets/images/featured-images/HKG18-314.png
 layout: post
 link: http://connect.linaro.org/resource/hkg18/hkg18-314/
+post_format:
+- Video
 session_id: HKG18-314
 session_track: LEG HPC;Ecosystem Day
 slug: hkg18-314
@@ -16,10 +24,6 @@ video_length: '42:14'
 video_thumbnail: None
 wordpress_id: 8794
 youtube_video_url: https://www.youtube.com/watch?v=qPqBP96IZik
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-314
@@ -28,15 +32,15 @@ Speaker: Renato Golin
 Track: LEG HPC;Ecosystem Day
 
 
-★ Session Summary ★
+## Session Summary
 HPC BoF to discuss about the future of the HPC-SIG and Arm HPC in general
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-314/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-314.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-314.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -51,8 +55,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Renato Golin
+**Speakers**: Renato Golin
 
-Speaker Positions: HPC-SIG Tech Lead
-
-
+**Speaker Positions**: HPC-SIG Tech Lead

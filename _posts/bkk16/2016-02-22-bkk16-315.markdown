@@ -1,10 +1,18 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-315.pdf
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:48+00:00
+date: 2016-02-22 17:20:48
+image:
+  featured: true
+  name: BKK16-315.jpg
+  path: /assets/images/featured-images/BKK16-315.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-315/
+post_format:
+- Video
 session_id: BKK16-315
 session_track: 'Field Engineering /
 
@@ -16,12 +24,6 @@ title: 'BKK16-315: Graphics Stack Update'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3358
-categories:
-- bkk16
-post_format:
-- Video
 ---
-
-
 
 Event Date: March 9, 2016

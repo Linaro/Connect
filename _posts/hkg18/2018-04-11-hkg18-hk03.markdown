@@ -1,12 +1,20 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-hk03.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-hk03.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:15:25+00:00
+date: 2018-04-11 14:15:25
 excerpt: How can we ensure that we are staying up-to-date with upstream LibTomCrypt?
+image:
+  featured: true
+  name: HKG18-HK03.png
+  path: /assets/images/featured-images/HKG18-HK03.png
 layout: post
 link: http://connect.linaro.org/resource/hkg18/hkg18-hk03/
+post_format:
+- Video
 session_id: HKG18-HK03
 session_track: Security
 slug: hkg18-hk03
@@ -15,10 +23,6 @@ title: 'HKG18-HK03 - SWG Hacking: Strategy to keep integrated libtomcrypt source
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 8853
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-HK03
@@ -27,15 +31,15 @@ Speaker: Jens Wiklander
 Track: Security
 
 
-★ Session Summary ★
+## Session Summary
 How can we ensure that we are staying up-to-date with upstream LibTomCrypt?
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-hk03/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-hk03.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-hk03.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -50,8 +54,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Jens Wiklander
+**Speakers**: Jens Wiklander
 
-Speaker Positions: Senior Software Engineer
-
-
+**Speaker Positions**: Senior Software Engineer

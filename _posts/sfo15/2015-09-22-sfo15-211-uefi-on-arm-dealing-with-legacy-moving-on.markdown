@@ -3,34 +3,38 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   UEFI on ARM.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-22-Tuesday/SFO15-211
   UEFI on ARM.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-22 00:00:00+00:00
-excerpt: This session will go through the problems caused by decisions made in the
+date: 2015-09-22 00:00:00
+excerpt: "This session will go through the problems caused by decisions made in the
   early days of UEFI on ARM, how they are still hurting us - in expanding our validation
   as well as by providing poor examples for porters to new platforms. But also about
   projects underway to resolve this legacy once and for all. We will also cover changes
-  to Linaro’s platform infrastructure, as well as our increasing involvement with
-  EDK2 maintainership.
+  to Linaro\u2019s platform infrastructure, as well as our increasing involvement
+  with EDK2 maintainership."
+image:
+  featured: true
+  name: SFO15-211-UEFIonARM-Dealingwithlegacy&movingon.jpg
+  path: /assets/images/featured-images/SFO15-211-UEFIonARM-Dealingwithlegacy&movingon.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-211-uefi-on-arm-dealing-with-legacy-moving-on/
+post_format:
+- Video
 session_id: None
 session_track: Enterprise Server
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15211-uefi-on-arm-dealing-with-legacy-moving-on
 slug: sfo15-211-uefi-on-arm-dealing-with-legacy-moving-on
 speakers: Leif Lindholm
+tags:
+- Enterprise Server
+- Linux
 title: 'SFO15-211: UEFI on ARM - Dealing with legacy & moving on'
 video_length: '49:15'
 video_thumbnail: None
 wordpress_id: 2830
 youtube_video_url: https://www.youtube.com/watch?v=nTN3dFxmUpc
-categories:
-- sfo15
-post_format:
-- Video
-tags:
-- Enterprise Server
-- Linux
 ---
 
 SFO15-211: UEFI on ARM - Dealing with legacy & moving on

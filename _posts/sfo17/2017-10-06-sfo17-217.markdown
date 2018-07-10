@@ -2,10 +2,18 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-217-LTD-jobserv.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-217%20-%20Introducing%20Jobserv....mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:54:45+00:00
+date: 2017-10-06 16:54:45
+image:
+  featured: true
+  name: SFO17-217.jpg
+  path: /assets/images/featured-images/SFO17-217.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-217/
+post_format:
+- Video
 session_id: SFO17-217
 session_track: LTD
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/introducing-jobserv-a-new-ci-system-built-with-containers-and-container-orchestration-technologies-in-mind-sfo17217
@@ -17,10 +25,6 @@ video_length: '28:13'
 video_thumbnail: None
 wordpress_id: 5988
 youtube_video_url: https://www.youtube.com/watch?v=KoYL5aP65o8
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-217

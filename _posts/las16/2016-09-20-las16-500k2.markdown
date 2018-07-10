@@ -1,45 +1,49 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Friday/LAS16%20500-k2%20Community%20Management%20%E2%80%93%20Jono%20Bacon.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:11:00+00:00
-excerpt: "**Title: Community 3.0**\n \n The history of open source is littered with\
-  \ incredible communities: thousands of people connected around the world building\
-  \ new technology and innovating. We can do better though. We are a facing a new\
-  \ era of challenges and opportunities for collaboration at a global level. In this\
-  \ presentation from Jono Bacon, he will explain how we can build a new generation\
-  \ of communities that are more efficient and more productive than ever before.\n\
-  \ \n The keynote will cover how community has evolved over the years, the structure\
-  \ of building powerful technical and open source communities, building workflow\
-  \ and on-ramps, building growth, and the balance between company and community relations.\
-  \ All of this will be wrapped up in his trademark loose and entertaining style.\n\
-  \ \n **Bio**\n Previously Director of Community at Canonical, GitHub, XPRIZE, and\
-  \ OpenAdvantage. Advisor to organizations includingAlienVault, Open Networking Foundation,\
-  \ Open Cloud Consortium, Mycroft, and others. Wrote the critically acclaimed The\
-  \ Art of Community, founder of the Community Leadership Summit and global CLSx events,\
-  \ and prominent leader in community leadership, strategy, and execution featured\
-  \ on CNN, .NET, Forbes, Linux Format, and elsewhere. Founder of Jono Bacon Consulting\
-  \ that provides community strategy, management, and workflow consultancy for Fortune\
-  \ 500 companies, startups, and government across the globe."
+date: 2016-09-20 17:11:00
+excerpt: "**Title: Community 3.0**\n \n The history of open source is littered with
+  incredible communities: thousands of people connected around the world building
+  new technology and innovating. We can do better though. We are a facing a new era
+  of challenges and opportunities for collaboration at a global level. In this presentation
+  from Jono Bacon, he will explain how we can build a new generation of communities
+  that are more efficient and more productive than ever before.\n \n The keynote will
+  cover how community has evolved over the years, the structure of building powerful
+  technical and open source communities, building workflow and on-ramps, building
+  growth, and the balance between company and community relations. All of this will
+  be wrapped up in his trademark loose and entertaining style.\n \n **Bio**\n Previously
+  Director of Community at Canonical, GitHub, XPRIZE, and OpenAdvantage. Advisor to
+  organizations includingAlienVault, Open Networking Foundation, Open Cloud Consortium,
+  Mycroft, and others. Wrote the critically acclaimed The Art of Community, founder
+  of the Community Leadership Summit and global CLSx events, and prominent leader
+  in community leadership, strategy, and execution featured on CNN, .NET, Forbes,
+  Linux Format, and elsewhere. Founder of Jono Bacon Consulting that provides community
+  strategy, management, and workflow consultancy for Fortune 500 companies, startups,
+  and government across the globe."
+image:
+  featured: true
+  name: LAS16-500K2.png
+  path: /assets/images/featured-images/LAS16-500K2.png
 layout: post
 link: http://connect.linaro.org/resource/las16/las16-500k2/
+post_format:
+- Video
 session_id: LAS16-500K2
 session_track: Keynote
 slideshare_presentation_url: None
 slug: las16-500k2
 speakers: Jono Bacon
-title: 'LAS16-500K2: Community Management – Jono Bacon'
+tags:
+- Community
+title: "LAS16-500K2: Community Management \u2013 Jono Bacon"
 video_length: '36:30'
 video_thumbnail: None
 wordpress_id: 3856
 youtube_video_url: https://www.youtube.com/watch?v=XIY3dU8A4TE
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Community
 ---
 
 LAS16-500K2: Community Management – Jono Bacon

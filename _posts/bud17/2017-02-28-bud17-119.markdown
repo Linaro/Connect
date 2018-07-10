@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Monday/BUD17-119%20How%20to%20automate%20updating%20Google.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:29+00:00
+date: 2017-02-28 12:05:29
 excerpt: Representing the historical progress of work represented in JIRA has been
   problematic due to the way history is stored in JIRA cards. The objective of this
   initiative was to automate the collection of data from JIRA to build history and
@@ -11,8 +13,14 @@ excerpt: Representing the historical progress of work represented in JIRA has be
   automation with javascript embedded in a Google spreadsheet. An added benefit to
   the automation is the ease of which it will build a history of status for ongoing
   analysis.
+image:
+  featured: true
+  name: BUD17-119.jpg
+  path: /assets/images/featured-images/BUD17-119.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-119/
+post_format:
+- Video
 session_id: BUD17-119
 session_track: None
 slideshare_presentation_url: None
@@ -23,10 +31,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4632
 youtube_video_url: https://youtu.be/IBe-6TwvOCY
-categories:
-- bud17
-post_format:
-- Video
 ---
 
 Representing the historical progress of work represented in JIRA has been problematic due to the way history is stored in JIRA cards. The objective of this initiative was to automate the collection of data from JIRA to build history and expedite generating reports on engineering status. This presentation will show the automation with javascript embedded in a Google spreadsheet. An added benefit to the automation is the ease of which it will build a history of status for ongoing analysis.

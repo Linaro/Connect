@@ -1,12 +1,20 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-hk17.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-hk17.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:15:50+00:00
+date: 2018-04-11 14:15:50
 excerpt: Bus Scaling Status and next steps
+image:
+  featured: true
+  name: HKG18-HK17.png
+  path: /assets/images/featured-images/HKG18-HK17.png
 layout: post
 link: http://connect.linaro.org/resource/hkg18/hkg18-hk17/
+post_format:
+- Video
 session_id: HKG18-HK17
 session_track: Power Management
 slug: hkg18-hk17
@@ -15,10 +23,6 @@ title: 'HKG18-HK17 - PMWG Hacking: Bus Scaling Status'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 8867
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-HK17
@@ -27,15 +31,15 @@ Speaker: Georgi Djakov
 Track: Power Management
 
 
-★ Session Summary ★
+## Session Summary
 Bus Scaling Status and next steps
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-hk17/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-hk17.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-hk17.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -50,8 +54,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Georgi Djakov
+**Speakers**: Georgi Djakov
 
-Speaker Positions: Engineer
-
-
+**Speaker Positions**: Engineer

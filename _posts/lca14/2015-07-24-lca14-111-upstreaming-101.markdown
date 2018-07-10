@@ -2,9 +2,11 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/lca14/presentations/LCA14-111-
   Upstreaming 101.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lca14/videos/03-03-Monday/LCA14-111-+Upstreaming+101.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lca14
 comments: false
-date: 2015-07-24 14:05:39+00:00
+date: 2015-07-24 14:05:39
 excerpt: This session is an introductory course on Linux kernel upstreaming fundamentals.
   The course covers the definition the Linux mainline kernel tree as well as the maintainer
   hierarchy and processes used to contribute software into the mainline kernel. Special
@@ -14,26 +16,28 @@ excerpt: This session is an introductory course on Linux kernel upstreaming fund
   and engineering managers preparing to upstream software into the kernel. The topic
   requires a solid background in software configuration management terminology and
   the git SCM tool as well as a good technical understanding of the Linux kernel itself.
+image:
+  featured: true
+  name: LCA14-111.jpg
+  path: /assets/images/featured-images/LCA14-111.jpg
 layout: post
 link: http://connect.linaro.org/resource/lca14/lca14-111-upstreaming-101/
+post_format:
+- Video
 session_id: LCA14-111
 session_track: Training
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lca14-111-upstreaming101
 slug: lca14-111-upstreaming-101
 speakers: Matt Porter
+tags:
+- 'LCA14-111: Upstreaming 101'
+- Matt Porter
+- Training
 title: 'LCA14-111: Upstreaming 101'
 video_length: '39:56'
 video_thumbnail: None
 wordpress_id: 2090
 youtube_video_url: https://www.youtube.com/watch?v=dY7fikYZ42c
-categories:
-- lca14
-post_format:
-- Video
-tags:
-- 'LCA14-111: Upstreaming 101'
-- Matt Porter
-- Training
 ---
 
 LCA14-111: Upstreaming 101

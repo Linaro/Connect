@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr10.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr10.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:16:35+00:00
+date: 2018-04-11 14:16:35
 excerpt: Experience with automation of test devices in Linaro extends over seven years,
   millions of test jobs, using over one hundred different types of devices, ARM, x86
   and emulated. Varied primary boot methods have been used alone or in combination,
@@ -17,8 +19,14 @@ excerpt: Experience with automation of test devices in Linaro extends over seven
   occur, and recommendations on how to design hardware and firmware to reduce problems
   in the future. We describe some device design features as hard requirements to enable
   successful automation, and some which are guaranteed to block automation.
+image:
+  featured: true
+  name: HKG18-TR10.png
+  path: /assets/images/featured-images/HKG18-TR10.png
 layout: post
 link: http://connect.linaro.org/resource/hkg18/hkg18-tr10/
+post_format:
+- Video
 session_id: HKG18-TR10
 session_track: Tools
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18tr10-best-practices-for-getting-devices-in-lava
@@ -29,10 +37,6 @@ video_length: '54:35'
 video_thumbnail: None
 wordpress_id: 8888
 youtube_video_url: https://www.youtube.com/watch?v=jHyanD1II90
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-TR10
@@ -41,15 +45,15 @@ Speaker: Neil Williams
 Track: Tools
 
 
-★ Session Summary ★
+## Session Summary
 Experience with automation of test devices in Linaro extends over seven years, millions of test jobs, using over one hundred different types of devices, ARM, x86 and emulated. Varied primary boot methods have been used alone or in combination, including U-Boot, UEFI, Fastboot, IoT, PXE. The Linaro lab itself has supported over 150 devices, covering more than 40 different device types. There are a range of issues with automating new hardware and the experience of the LAVA lab and software teams has highlighted areas where decisions at the hardware design stage have delayed deployment of automation or made the task of triage of automation failures much harder than necessary. This session is a summary of our experience with background and examples. The aim is to provide background information about why common failures occur, and recommendations on how to design hardware and firmware to reduce problems in the future. We describe some device design features as hard requirements to enable successful automation, and some which are guaranteed to block automation.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-tr10/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr10.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr10.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -64,8 +68,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Neil Williams
+**Speakers**: Neil Williams
 
-Speaker Positions: LAVA Software tech lead
-
-
+**Speaker Positions**: LAVA Software tech lead

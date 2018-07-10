@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
 comments: false
 date: 2017-03-20 15:10:42+00:00
 excerpt: Compression support in OpenDataPlane (ODP), PCI-e EndPoint mode of operation

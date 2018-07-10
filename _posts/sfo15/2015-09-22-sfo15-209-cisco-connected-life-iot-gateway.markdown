@@ -3,31 +3,35 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   of Everything.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-22-Tuesday/SFO15-209
   Cisco Connected Life IoT Gateway.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-22 00:00:00+00:00
+date: 2015-09-22 00:00:00
 excerpt: 'Abstract: Experiences productizing the gateway (from hobby to product) and
   the challenges for IoT deployment scenarios: Home security, Home automation, Home
   healthcare, and Enterprise IoT (smart manufacturing).'
+image:
+  featured: true
+  name: SFO15-209-CiscoConnectedLifeIoTGateway.jpg
+  path: /assets/images/featured-images/SFO15-209-CiscoConnectedLifeIoTGateway.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-209-cisco-connected-life-iot-gateway/
+post_format:
+- Video
 session_id: None
 session_track: Digital Home
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15209-cisco-connected-life-iot-gateway-53755347
 slug: sfo15-209-cisco-connected-life-iot-gateway
 speakers: Bent Christensen
+tags:
+- Digital Home
+- Embedded
 title: 'SFO15-209: Cisco Connected Life IoT Gateway'
 video_length: '49:47'
 video_thumbnail: None
 wordpress_id: 2826
 youtube_video_url: https://www.youtube.com/watch?v=0c52RJDMJcI
-categories:
-- sfo15
-post_format:
-- Video
-tags:
-- Digital Home
-- Embedded
 ---
 
 SFO15-209: Cisco Connected Life IoT Gateway

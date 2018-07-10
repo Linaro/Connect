@@ -1,17 +1,25 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-TR08.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Thursday/BKK16-TR08%20How%20to%20generate%20power%20models%20for%20EAS%20and%20IPA%20%28Mandarin%29.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:21:00+00:00
+date: 2016-02-22 17:21:00
 excerpt: Generating a specific power model for the platform is a pre-requirement for
   delpoying EAS and IPA. This makes understanding power models and how to generate
   parameters for them a useful skill. In this session we demonstrate how to use workload
   automation to gather power data from a board. We will then describe how to derive
   rough values for the EAS and IPA power models using nothing but this easily observable
   data. We will not rely on any information provided by OEM or SoC vendor.
+image:
+  featured: true
+  name: BKK16-TR08.jpg
+  path: /assets/images/featured-images/BKK16-TR08.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-tr08/
+post_format:
+- Video
 session_id: BKK16-TR08
 session_track: TRAINING
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16tr08-how-to-generate-power-models-for-eas-and-ipa
@@ -23,10 +31,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3395
 youtube_video_url: https://youtu.be/FTG071umgi0
-categories:
-- bkk16
-post_format:
-- Video
 ---
 
 Generating a specific power model for the platform is a pre-requirement for delpoying EAS and IPA. This makes understanding power models and how to generate parameters for them a useful skill. In this session we demonstrate how to use workload automation to gather power data from a board. We will then describe how to derive rough values for the EAS and IPA power models using nothing but this easily observable data. We will not rely on any information provided by OEM or SoC vendor.

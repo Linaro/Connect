@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-12-Thursday/HKG15-406.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-12-Thursday/HKG15-406+Hacking+session+hands+on.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:36:35+00:00
+date: 2015-04-23 15:36:35
 excerpt: 'Hands on training and a Q&A involving the Lab and LAVA Teams on how to create,
   submit and interact with hacking sessions. Additionally, a look at some of the issues
   people can create when they submit or re-submit jobs with inappropriate meta-data
@@ -11,28 +13,30 @@ excerpt: 'Hands on training and a Q&A involving the Lab and LAVA Teams on how to
 
 
   Key stakeholders are Hacking session users QA, LAVA team and Lab'
+image:
+  featured: true
+  name: HKG15-406.jpg
+  path: /assets/images/featured-images/HKG15-406.jpg
 layout: post
 link: http://connect.linaro.org/resource/hkg15/hkg15-406-hacking-session-hands-on/
+post_format:
+- Video
 session_id: HKG15-406
 session_track: Validation
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15406-hacking-session-hands-on
 slug: hkg15-406-hacking-session-hands-on
 speakers: Tyler Baker, Dave Pigott
-title: HKG15-406 Hacking session hands on
-video_length: '15:12'
-video_thumbnail: None
-wordpress_id: 753
-youtube_video_url: https://www.youtube.com/watch?v=j5IV5Iu3MX4
-categories:
-- hkg15
-post_format:
-- Video
 tags:
 - Dave Pigott
 - hkg15
 - HKG15-406
 - Tyler Baker
 - Validation
+title: HKG15-406 Hacking session hands on
+video_length: '15:12'
+video_thumbnail: None
+wordpress_id: 753
+youtube_video_url: https://www.youtube.com/watch?v=j5IV5Iu3MX4
 ---
 
 HKG15-406: Hacking session hands on 

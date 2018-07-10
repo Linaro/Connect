@@ -2,16 +2,24 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-116%20Test-Standards-LC-2017%20.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-116%20Test%20standards%20-%20can%20Fuego%2C%20LAVA%20and%20others%20agree.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:53:58+00:00
+date: 2017-10-06 16:53:58
 excerpt: Several open source test frameworks for Linux exist and are being actively
   adopted and used.  This includes KernelCI, LAVA, Fuego, Avacado, kerneltest and
   others.  In this session, Tim would like to discuss the state of these different
   test systems, and propose standards in some areas so that the different frameworks
   can share infrastructure and interoperate.  This include standards for results formats,
   interfaces to commonly-used utility programs, and for board control hardware.
+image:
+  featured: true
+  name: SFO17-116.jpg
+  path: /assets/images/featured-images/SFO17-116.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-116/
+post_format:
+- Video
 session_id: SFO17-116
 session_track: LITE
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/test-standards-can-fuego-lava-and-others-agree-sfo17116
@@ -22,10 +30,6 @@ video_length: '32:52'
 video_thumbnail: None
 wordpress_id: 5945
 youtube_video_url: https://www.youtube.com/watch?v=uwWSijtVsLE
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-116

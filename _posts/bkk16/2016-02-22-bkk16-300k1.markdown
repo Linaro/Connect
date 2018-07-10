@@ -1,9 +1,17 @@
 ---
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:42+00:00
+date: 2016-02-22 17:20:42
+image:
+  featured: true
+  name: BKK16-300K1.jpg
+  path: /assets/images/featured-images/BKK16-300K1.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-300k1/
+post_format:
+- Video
 session_id: BKK16-300K1
 session_track: Keynote
 slug: bkk16-300k1
@@ -12,12 +20,6 @@ title: 'BKK16-300K1: Daily Welcome: Joe Bates, Linaro VP Member Services'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3339
-categories:
-- bkk16
-post_format:
-- Video
 ---
-
-
 
 Event Date: March 9, 2016

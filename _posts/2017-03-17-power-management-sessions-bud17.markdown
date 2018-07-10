@@ -1,9 +1,15 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- Blog
 comments: false
-date: 2017-03-17 15:40:19+00:00
+date: 2017-03-17 15:40:19
+image:
+  featured: true
+  name: PowerManagementsessionsfromBUD17.jpg
+  path: /assets/images/featured-images/PowerManagementsessionsfromBUD17.jpg
 layout: post
 link: http://connect.linaro.org/blog/power-management-sessions-bud17/
 session_id: None
@@ -16,8 +22,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5572
 youtube_video_url: None
-categories:
-- Blog
 ---
 
 https://www.youtube.com/playlist?list=PLKZSArYQptsMbk293t64TnZmxzLp-bRib

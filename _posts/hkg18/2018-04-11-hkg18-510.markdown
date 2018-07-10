@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-510.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-510.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:14:39+00:00
+date: 2018-04-11 14:14:39
 excerpt: 'OpenStack is the number 1 private cloud Open Source project and Container
   technology is the heart of micro service. Zun is the Container Management service
   in OpenStack, supporting multi-arch including both AArch64 and X86, which provides
@@ -18,8 +20,14 @@ excerpt: 'OpenStack is the number 1 private cloud Open Source project and Contai
   and get a deep understanding about the micro service backend, cloud computing framework
   and prototype structure, and why they are critical for Arm in the cloud computing
   domain.'
+image:
+  featured: true
+  name: HKG18-510.png
+  path: /assets/images/featured-images/HKG18-510.png
 layout: post
 link: http://connect.linaro.org/resource/hkg18/hkg18-510/
+post_format:
+- Video
 session_id: HKG18-510
 session_track: Enterprise
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18510-zun-openstack-containers-management-service
@@ -30,10 +38,6 @@ video_length: '23:00'
 video_thumbnail: None
 wordpress_id: 8847
 youtube_video_url: https://www.youtube.com/watch?v=W4O13XWy4x0
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-510
@@ -42,15 +46,15 @@ Speaker: Kevin Zhao
 Track: Enterprise
 
 
-★ Session Summary ★
+## Session Summary
 OpenStack is the number 1 private cloud Open Source project and Container technology is the heart of micro service. Zun is the Container Management service in OpenStack, supporting multi-arch including both AArch64 and X86, which provides the foundation of running container as a service in private cloud. We've introduced the Capsule (the cabins) as a container group that allows all the containers within the group to share the same resources, so that the capsule can be scheduled as a co-work unit, improving the flexibility of running container in cloud - flying cabins in the cloud. I will introduce the container capsule design, basic work process and why it is an important project for AArch64 in data center, I'll also make a comparison between Zun and other container technology. The take away for audience: they will understand some key cloud computing and container orchestration technologies and get a deep understanding about the micro service backend, cloud computing framework and prototype structure, and why they are critical for Arm in the cloud computing domain.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-510/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-510.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-510.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -65,8 +69,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Kevin Zhao
+**Speakers**: Kevin Zhao
 
-Speaker Positions: Software Engineer, OpenStack Zun Core Reviewer
-
-
+**Speaker Positions**: Software Engineer, OpenStack Zun Core Reviewer

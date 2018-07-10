@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-15-Monday/LCU14-105.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-15-Monday/LCU14-105-+Coresight+Advanced+Topics.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:11:24+00:00
+date: 2015-06-30 17:11:24
 excerpt: 'This session is meant to look at Coresight in deeper details. The goal is
   to go ove more advanced concepts that are going beyond the basic traces mechanism
   such as STMs and how it could be used to interleave messages from the existing kernel
@@ -13,27 +15,29 @@ excerpt: 'This session is meant to look at Coresight in deeper details. The goal
 
   for trace decoding and the decoding of compressed streams themselves. The presentation
   will conclude with a use case example and it''s associated decoded trace stream.'
+image:
+  featured: true
+  name: LCU14-105.jpg
+  path: /assets/images/featured-images/LCU14-105.jpg
 layout: post
 link: http://connect.linaro.org/resource/lcu14/lcu14-105-coresight-advanced-topics/
+post_format:
+- Video
 session_id: LCU14-105
 session_track: Linux Kernel
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-105-coresight-advanced-topics
 slug: lcu14-105-coresight-advanced-topics
 speakers: Mathieu Poirier
-title: 'LCU14-105: Coresight  Advanced Topics'
-video_length: '42:22'
-video_thumbnail: None
-wordpress_id: 1509
-youtube_video_url: https://www.youtube.com/watch?v=QhaGLftyvTc
-categories:
-- lcu14
-post_format:
-- Video
 tags:
 - lcu14
 - LCU14-105
 - Linux Kernel
 - Mathieu Poirier
+title: 'LCU14-105: Coresight  Advanced Topics'
+video_length: '42:22'
+video_thumbnail: None
+wordpress_id: 1509
+youtube_video_url: https://www.youtube.com/watch?v=QhaGLftyvTc
 ---
 
 LCU14-105: Coresight  Advanced Topics

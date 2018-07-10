@@ -1,7 +1,9 @@
 ---
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:58+00:00
+date: 2016-02-22 17:20:58
 excerpt: This session is an introductory course on Linux kernel upstreaming fundamentals.
   The course covers the definition the Linux mainline kernel tree as well as the maintainer
   hierarchy and processes used to contribute software into the mainline kernel. Special
@@ -11,8 +13,14 @@ excerpt: This session is an introductory course on Linux kernel upstreaming fund
   and engineering managers preparing to upstream software into the kernel. The topic
   requires a solid background in software configuration management terminology and
   the git SCM tool as well as a good technical understanding of the Linux kernel itself.
+image:
+  featured: true
+  name: BKK16-TR02.jpg
+  path: /assets/images/featured-images/BKK16-TR02.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-tr02/
+post_format:
+- Video
 session_id: BKK16-TR02
 session_track: TRAINING
 slug: bkk16-tr02
@@ -20,10 +28,6 @@ title: 'BKK16-TR02: Upstreaming 101'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3391
-categories:
-- bkk16
-post_format:
-- Video
 ---
 
 This session is an introductory course on Linux kernel upstreaming fundamentals. The course covers the definition the Linux mainline kernel tree as well as the maintainer hierarchy and processes used to contribute software into the mainline kernel. Special focus is given to understanding what documentation will help understand the process and mechanics in more detail while breaking the workflow into the various steps of upstreaming software patches. The target audience is both software engineers and engineering managers preparing to upstream software into the kernel. The topic requires a solid background in software configuration management terminology and the git SCM tool as well as a good technical understanding of the Linux kernel itself.

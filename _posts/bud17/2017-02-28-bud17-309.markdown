@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-309%20-%20IRQ%20Next%20prediction.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-309%20IRQ%20Prediction.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:41+00:00
+date: 2017-02-28 12:05:41
 excerpt: The CPUidle is one component of the power management framework. It behaves
   in an opportunistic way when there is nothing to do on the system, by trying to
   predict the next CPU wake up and select an idle state.   But the current design
@@ -12,26 +14,28 @@ excerpt: The CPUidle is one component of the power management framework. It beha
   the issues faced with the current approach and will show another approach to predict
   the next wake up event with a better accuracy, leading, under some circumstances,
   to 100% right predictions.
+image:
+  featured: true
+  name: BUD17-309.jpg
+  path: /assets/images/featured-images/BUD17-309.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-309/
+post_format:
+- Video
 session_id: BUD17-309
 session_track: Power Management
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17309-irq-prediction
 slug: bud17-309
 speakers: Daniel Lezcano
+tags:
+- cpuidle
+- IRQ
+- Power Management
 title: IRQ prediction - BUD17-309
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4675
 youtube_video_url: https://youtu.be/krFAyi1ietI
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- cpuidle
-- IRQ
-- Power Management
 ---
 
 "Session ID: BUD17-309

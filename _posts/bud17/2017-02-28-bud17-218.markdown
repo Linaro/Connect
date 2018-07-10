@@ -1,35 +1,39 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-218%20-%20Scheduler%20Load%20tracking%20update%20and%20improvement.pdf
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:36+00:00
-excerpt: The Per Entity Load Tracking (PELT) is a key stone in tasks placement of
-  the scheduler but suffers of some weakness when it’s not just bugs. During the last
-  LPC, it has been decided to fix all pending issues of PELT before starting to consider
-  another load tracking mechanism for scheduler and/or EAS. This session will show
-  the improvement reached since the last connect and the LPC as well as the next ones.
-  We will also looks at the RT class which lacks a good load tracking.
+date: 2017-02-28 12:05:36
+excerpt: "The Per Entity Load Tracking (PELT) is a key stone in tasks placement of
+  the scheduler but suffers of some weakness when it\u2019s not just bugs. During
+  the last LPC, it has been decided to fix all pending issues of PELT before starting
+  to consider another load tracking mechanism for scheduler and/or EAS. This session
+  will show the improvement reached since the last connect and the LPC as well as
+  the next ones. We will also looks at the RT class which lacks a good load tracking."
+image:
+  featured: true
+  name: BUD17-218.jpg
+  path: /assets/images/featured-images/BUD17-218.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-218/
+post_format:
+- Video
 session_id: BUD17-218
 session_track: Power Management
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17218-scheduler-load-tracking-update-and-improvement
 slug: bud17-218
 speakers: Vincent Guittot
+tags:
+- PELT
+- Power Management
+- scheduler
 title: Scheduler Load tracking update and improvement - BUD17-218
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4656
 youtube_video_url: https://youtu.be/9mY_wZdwmq0
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- PELT
-- Power Management
-- scheduler
 ---
 
 Session ID: BUD17-218

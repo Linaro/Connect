@@ -1,30 +1,34 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-17-Wednesday/LCU14-300a.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-17-Wednesday/LCU14+-+LEG+Keynote+1.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:08:40+00:00
+date: 2015-06-30 17:08:40
+image:
+  featured: true
+  name: LCU14-300a.jpg
+  path: /assets/images/featured-images/LCU14-300a.jpg
 layout: post
 link: http://connect.linaro.org/resource/lcu14/lcu14-leg-keynote-1/
+post_format:
+- Video
 session_id: LCU14-300a
 session_track: Keynote
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/leg-keynotelinda-linaro-keynote6
 slug: lcu14-leg-keynote-1
 speakers: Linda Knippers
-title: 'LCU14 : LEG Keynote 1'
-video_length: '33:26'
-video_thumbnail: None
-wordpress_id: 1531
-youtube_video_url: https://www.youtube.com/watch?v=69OqKQ_NcTQ
-categories:
-- lcu14
-post_format:
-- Video
 tags:
 - Keynote
 - lcu14
 - LCU14-300a
 - Linda Knippers
+title: 'LCU14 : LEG Keynote 1'
+video_length: '33:26'
+video_thumbnail: None
+wordpress_id: 1531
+youtube_video_url: https://www.youtube.com/watch?v=69OqKQ_NcTQ
 ---
 
 LCU14 : LEG Keynote 1

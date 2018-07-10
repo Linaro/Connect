@@ -1,19 +1,27 @@
 ---
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:27+00:00
-excerpt: "\"Delivering a well working distribution is hard. There are a lot of different\
-  \ hardware platforms that need to be verified and the software stack is in a big\
-  \ flux during development phases. In rolling releases, this gets even worse, as\
-  \ nothing ever stands still.\n \n The only sane answer to that problem are working\
-  \ Continuous Integration tests. The SUSE way to check whether any change breaks\
-  \ normal distribution behavior is OpenQA. Using OpenQA we can automatically run\
-  \ tests that hard working QA people did manually in the old days. That way we have\
-  \ fast enough turnaround times to find and reject breaking changes\n \n This session\
-  \ shows how OpenQA works, what pitfalls we had to make ARM work with OpenQA and\
-  \ what we're doing to improve it for ARM specific use cases.\""
+date: 2017-02-28 12:05:27
+excerpt: "\"Delivering a well working distribution is hard. There are a lot of different
+  hardware platforms that need to be verified and the software stack is in a big flux
+  during development phases. In rolling releases, this gets even worse, as nothing
+  ever stands still.\n \n The only sane answer to that problem are working Continuous
+  Integration tests. The SUSE way to check whether any change breaks normal distribution
+  behavior is OpenQA. Using OpenQA we can automatically run tests that hard working
+  QA people did manually in the old days. That way we have fast enough turnaround
+  times to find and reject breaking changes\n \n This session shows how OpenQA works,
+  what pitfalls we had to make ARM work with OpenQA and what we're doing to improve
+  it for ARM specific use cases.\""
+image:
+  featured: true
+  name: BUD17-113.jpg
+  path: /assets/images/featured-images/BUD17-113.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-113/
+post_format:
+- Video
 session_id: BUD17-113
 session_track: LEG
 slug: bud17-113
@@ -22,10 +30,6 @@ title: Distribution CI using QEMU and OpenQA - BUD17-113
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4626
-categories:
-- bud17
-post_format:
-- Video
 ---
 
 "Delivering a well working distribution is hard. There are a lot of different hardware platforms that need to be verified and the software stack is in a big flux during development phases. In rolling releases, this gets even worse, as nothing ever stands still.    The only sane answer to that problem are working Continuous Integration tests. The SUSE way to check whether any change breaks normal distribution behavior is OpenQA. Using OpenQA we can automatically run tests that hard working QA people did manually in the old days. That way we have fast enough turnaround times to find and reject breaking changes    This session shows how OpenQA works, what pitfalls we had to make ARM work with OpenQA and what we're doing to improve it for ARM specific use cases."

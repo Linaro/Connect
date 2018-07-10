@@ -2,15 +2,23 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-210-%20A%20flexible%20GDB%20target%20description%20for%20processor%20diversity.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-210%20A%20flexible%20GDB%20%28GNU%20Debugger%29%20target%20description%20for%20processor%20diversity.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:54:27+00:00
+date: 2017-10-06 16:54:27
 excerpt: GDB target description is of XML format to describe the registers and types
   on a given architecture.  As processor architectures exploit diversity, like ARM
   SVE and ARMv8.3 popinter authentication, the inflexibility in GDB target description
   emerges. I'll present the work to address the inflexibility in GDB target  description
   to better support various architectures, and their variants and extensions.
+image:
+  featured: true
+  name: SFO17-210.jpg
+  path: /assets/images/featured-images/SFO17-210.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-210/
+post_format:
+- Video
 session_id: SFO17-210
 session_track: Toolchain
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/a-flexible-gdb-gnu-debugger-target-description-for-processor-diversity-sfo17210
@@ -22,10 +30,6 @@ video_length: '45:43'
 video_thumbnail: None
 wordpress_id: 5975
 youtube_video_url: https://www.youtube.com/watch?v=r3Kl1JQBhXs
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-210

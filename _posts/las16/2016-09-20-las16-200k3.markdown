@@ -1,28 +1,32 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Tuesday/LAS16-200K3-%20Introducing%20the%20MediaTek%20X20%20Board.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:39+00:00
-excerpt: Stephane Le Provost will introduce MediaTek’s new X20 Board.
+date: 2016-09-20 17:10:39
+excerpt: "Stephane Le Provost will introduce MediaTek\u2019s new X20 Board."
+image:
+  featured: true
+  name: LAS16-200K3.png
+  path: /assets/images/featured-images/LAS16-200K3.png
 layout: post
 link: http://connect.linaro.org/resource/las16/las16-200k3/
+post_format:
+- Video
 session_id: LAS16-200K3
 session_track: None
 slideshare_presentation_url: None
 slug: las16-200k3
 speakers: Stephane Le Provost
+tags:
+- Firmware
 title: 'LAS16-200K3: Introducing the MediaTek X20 Board'
 video_length: '19:21'
 video_thumbnail: None
 wordpress_id: 3806
 youtube_video_url: https://www.youtube.com/watch?v=97VfcbTi05c
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Firmware
 ---
 
 LAS16-200K3: Introducing the MediaTek X20 Board

@@ -1,33 +1,37 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-11-Wednesday/HKG15-305.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-11-Wednesday/HKG15-305+Real+Time+processing+comparing+the+RT+patch+vs+Core+isolation.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:36:43+00:00
+date: 2015-04-23 15:36:43
 excerpt: The RT patchset has come to EoL and an alternative to meet the determinism
   and latency requirements for networking workloads is required. Compare the two solutions
   and the impacts migrating to Core isolation may impose.
+image:
+  featured: true
+  name: HKG15-305.jpg
+  path: /assets/images/featured-images/HKG15-305.jpg
 layout: post
 link: http://connect.linaro.org/resource/hkg15/hkg15-305-real-time-processing-comparing-the-rt-patch-vs-core-isolation/
+post_format:
+- Video
 session_id: HKG15-305
 session_track: Networking
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15305-real-time-processing-comparing-the-rt-patch-vs-core-isolation
 slug: hkg15-305-real-time-processing-comparing-the-rt-patch-vs-core-isolation
 speakers: Gary Robertson
-title: 'HKG15-305: Real Time processing comparing the RT patch vs Core isolation'
-video_length: '42:47'
-video_thumbnail: None
-wordpress_id: 737
-youtube_video_url: https://www.youtube.com/watch?v=zC3E9xizkoY
-categories:
-- hkg15
-post_format:
-- Video
 tags:
 - Gary Robertson
 - hkg15
 - HKG15-305
 - Networking
+title: 'HKG15-305: Real Time processing comparing the RT patch vs Core isolation'
+video_length: '42:47'
+video_thumbnail: None
+wordpress_id: 737
+youtube_video_url: https://www.youtube.com/watch?v=zC3E9xizkoY
 ---
 
 HKG15-305: Real Time processing comparing the RT patch vs Core isolation 

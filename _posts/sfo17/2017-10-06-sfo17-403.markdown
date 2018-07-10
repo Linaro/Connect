@@ -2,8 +2,10 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-403%20Optimizing%20the%20Design%20and%20Implementation%20of%20KVM_ARM.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-403%20-%20Optimizing%20the%20Design%20and%20Implementation%20of%20KVM-ARM.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:55:45+00:00
+date: 2017-10-06 16:55:45
 excerpt: A key drawback in the use of full system virtualization is the performance
   penalty introduced by hypervisors. This problem is especially present on ARM, which
   has significantly higher overhead for some workloads compared to x86, due to differences
@@ -15,8 +17,14 @@ excerpt: A key drawback in the use of full system virtualization is the performa
   new hardware support in ARMv8.1, the Virtualization Host Extensions (VHE), but also
   support legacy hardware through invasive modifications to Linux to support running
   the kernel in the hypervisor-specific CPU mode, EL2
+image:
+  featured: true
+  name: SFO17-403.jpg
+  path: /assets/images/featured-images/SFO17-403.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-403/
+post_format:
+- Video
 session_id: SFO17-403
 session_track: Virtualization
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/optimizing-the-design-and-implementation-of-kvmarm-sfo17403-81026985
@@ -27,10 +35,6 @@ video_length: '19:51'
 video_thumbnail: None
 wordpress_id: 6049
 youtube_video_url: https://www.youtube.com/watch?v=foRxjfKQeas
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-403

@@ -1,26 +1,30 @@
 ---
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
+- Resources
 comments: false
-date: 2016-02-22 17:20:33+00:00
+date: 2016-02-22 17:20:33
 excerpt: Review the data and plans collected to date
+image:
+  featured: true
+  name: BKK16-101.jpg
+  path: /assets/images/featured-images/BKK16-101.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16-101/
+post_format:
+- Video
 session_id: BKK16-101
 session_track: LITE
 slug: bkk16-101
 speakers: Matthew Locke
+tags:
+- IoT
+- LITE
 title: 'BKK16-101: Requirement review and discussion'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3309
-categories:
-- bkk16
-- Resources
-post_format:
-- Video
-tags:
-- IoT
-- LITE
 ---
 
 Review the data and plans collected to date

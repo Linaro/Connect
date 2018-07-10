@@ -2,13 +2,21 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-113%20New%20Zephyr%20features%20LWM2M%20%252F%20FOTA%20Framework%20SFO17.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-113%20New%20Zephyr%20features%20LWM2M%20%20FOTA%20Framework.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:53:52+00:00
+date: 2017-10-06 16:53:52
 excerpt: Zephyr is changing at an alarming pace and we would like to provide some
   insights to a few of the areas we have been working.  MCUBOOT Secure bootloader
   integration, FOTA, DeviceTree and LWM2M enabling secure client to cloud capabilities
+image:
+  featured: true
+  name: SFO17-113.jpg
+  path: /assets/images/featured-images/SFO17-113.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-113/
+post_format:
+- Video
 session_id: SFO17-113
 session_track: LTD
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/new-zephyr-features-lwm2m-fota-framework-sfo17113
@@ -19,10 +27,6 @@ video_length: '19:58'
 video_thumbnail: None
 wordpress_id: 5940
 youtube_video_url: https://www.youtube.com/watch?v=VOv0-d5T99o
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-113

@@ -1,11 +1,17 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- Blog
 comments: false
-date: 2017-03-09 23:01:26+00:00
+date: 2017-03-09 23:01:26
 excerpt: See what happened during the Thursday of Linaro Connect Budapest 2017.  Watch
   the keynote and get access to the session materials that are available.
+image:
+  featured: true
+  name: ThursdayofLinaroConnectBudapest2017.jpg
+  path: /assets/images/featured-images/ThursdayofLinaroConnectBudapest2017.jpg
 layout: post
 link: http://connect.linaro.org/blog/thursday-of-linaro-connect-budapest-2017/
 session_id: None
@@ -13,18 +19,16 @@ session_track: None
 slideshare_presentation_url: None
 slug: thursday-of-linaro-connect-budapest-2017
 speakers: None
-title: Thursday of Linaro Connect Budapest 2017
-video_length: 00:00
-video_thumbnail: None
-wordpress_id: 5246
-youtube_video_url: None
-categories:
-- Blog
 tags:
 - Big data
 - BUD17
 - daily blog
 - Linaro Connect
+title: Thursday of Linaro Connect Budapest 2017
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 5246
+youtube_video_url: None
 ---
 
 [vc_row][vc_column][vc_column_text]Thursday of Linaro Connect Budapest 2017 (BUD17) began with a keynote by Max Wang, a software engineer working on HHVM at Facebook, who gave a keynote titled:  HHVM on AArch64.  His keynote talked about what HHVM is,  a high-performance, open source PHP execution engine developed at Facebook. He discussed how it is the fastest PHP runtime in the world, with support for PHP5, PHP7, and Hack—the programming language used for Facebook’s web server application logic.  He explained that HHVM uses just-in-time compilation to transform PHP and Hack source code into optimized machine code and due to the contributions from developers across the ARM community, HHVM can now target AArch64 in addition to x86-64 and successfully runs open source PHP frameworks like WordPress.  Max then gave a quick demo, and talked about where optimization efforts can go from here.  To watch his keynote on YouTube please go to:  [https://www.youtube.com/watch?v=aJ3KKyKeZUc](https://www.youtube.com/watch?v=aJ3KKyKeZUc)[/vc_column_text][vc_video link="https://www.youtube.com/watch?v=aJ3KKyKeZUc"][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_single_image image="5248" img_size="900x900"][/vc_column][vc_column width="1/2"][vc_column_text]Thursday's themes were LHG and Digital Home. Below is a list of the sessions that took place on Tuesday.  Many have the supporting presentations and videos, however keep checking back to the [BUD17 resources page ](http://connect.linaro.org/resources/)as we will continue to update it throughout the week as more items become available.[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]

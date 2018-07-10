@@ -1,28 +1,32 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-211.pdf
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:40+00:00
+date: 2016-02-22 17:20:40
 excerpt: 'Discussion about various methods put forward to reduce the
 
   Linux kernel binary to make it suitable for small IoT applications.'
+image:
+  featured: true
+  name: BKK16-211.jpg
+  path: /assets/images/featured-images/BKK16-211.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-211/
+post_format:
+- Video
 session_id: BKK16-211
 session_track: OCTO
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16211-internet-of-tiny-linux-io-tl-status-and-progress
 slug: bkk16-211
 speakers: Nicolas Pitre
+tags:
+- IoT
 title: 'BKK16-211: Internet of Tiny Linux (IoTL): status and progress'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3333
-categories:
-- bkk16
-post_format:
-- Video
-tags:
-- IoT
 ---
 
 Discussion about various methods put forward to reduce the Linux kernel binary to make it suitable for small IoT applications.

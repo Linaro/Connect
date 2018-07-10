@@ -1,38 +1,42 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-305%20-%20Implement%20contiguous%20page%20hint%20for%20anonymous%20page%20in%20user%20space%20%281%29.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-305%20Implementing%20contiguous%20page%20hint%20for%20anonymous%20pages%20in%20user%20space.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:41+00:00
-excerpt: "Contiguous page hint is a feature in AArch32 and AArch64 which could decrease\
-  \ the number of TLB misses and improve the performance by sharing a single TLB entry\
-  \ across 16 4k pages whenever the pages are also physically contiguous. Currently,\
-  \ it is only used in hugetlb which limited the scenarios where it can be used. This\
-  \ session will share and discuss following things:\n 1. The current design of hugepage,\
-  \ transparent hugepage and page\n  Fault and proposal from Bamvor\n \n 2. Compare\
-  \ and analyze the performance of different designs, including\n  transparent hugepage,\
-  \ hugepage and Bamvor' design.\n \n 3. Discuss the scenarios which are suitable\
-  \ for this work beyond the\n  enterprise."
+date: 2017-02-28 12:05:41
+excerpt: "Contiguous page hint is a feature in AArch32 and AArch64 which could decrease
+  the number of TLB misses and improve the performance by sharing a single TLB entry
+  across 16 4k pages whenever the pages are also physically contiguous. Currently,
+  it is only used in hugetlb which limited the scenarios where it can be used. This
+  session will share and discuss following things:\n 1. The current design of hugepage,
+  transparent hugepage and page\n  Fault and proposal from Bamvor\n \n 2. Compare
+  and analyze the performance of different designs, including\n  transparent hugepage,
+  hugepage and Bamvor' design.\n \n 3. Discuss the scenarios which are suitable for
+  this work beyond the\n  enterprise."
+image:
+  featured: true
+  name: BUD17-305.jpg
+  path: /assets/images/featured-images/BUD17-305.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-305/
+post_format:
+- Video
 session_id: BUD17-305
 session_track: Kernel
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17305-implementing-contiguous-page-hint-for-anonymous-pages-in-user-space
 slug: bud17-305
 speakers: Bamvor Jian Zhang
+tags:
+- AArch32
+- AArch64
+- Kernel
 title: Implementing contiguous page hint for anonymous pages in user space - BUD17-305
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4671
 youtube_video_url: https://youtu.be/LZiPH4J8f0I
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- AArch32
-- AArch64
-- Kernel
 ---
 
 "Session ID: BUD17-305

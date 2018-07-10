@@ -1,11 +1,19 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-11-03 12:10:46+00:00
+date: 2015-11-03 12:10:46
+image:
+  featured: true
+  name: SFO15-200K2.jpg
+  path: /assets/images/featured-images/SFO15-200K2.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-200k2-neil-trevett-open-standards-and-open-source-together-how-khronos-apis-accelerat/
+post_format:
+- Video
 session_id: SFO15-200K2
 session_track: Keynote
 slideshare_presentation_url: None
@@ -17,10 +25,6 @@ video_length: '48:45'
 video_thumbnail: None
 wordpress_id: 3023
 youtube_video_url: https://www.youtube.com/watch?v=S3YMBLOTXSI
-categories:
-- sfo15
-post_format:
-- Video
 ---
 
 Speaker: Neil Trevett

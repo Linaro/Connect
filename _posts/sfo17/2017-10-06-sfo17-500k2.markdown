@@ -2,10 +2,18 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-500K2.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/Swarms%202.0%20The%20Living%20Network%20of%20Everyone%20and%20Everything%20%257C%20Panel-%207%20Years%20of%20Linaro%20%2523SFO17.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:56:22+00:00
+date: 2017-10-06 16:56:22
+image:
+  featured: true
+  name: SFO17-500K2.jpg
+  path: /assets/images/featured-images/SFO17-500K2.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-500k2/
+post_format:
+- Video
 session_id: SFO17-500K2
 session_track: None
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/panel-arm-in-open-source-david-rusling-sfo17500k2
@@ -16,10 +24,6 @@ video_length: '55:52'
 video_thumbnail: None
 wordpress_id: 6075
 youtube_video_url: https://www.youtube.com/watch?v=IwwAXoEYzmA
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-500K2

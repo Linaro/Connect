@@ -1,22 +1,21 @@
 ---
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-19-Friday/LCU14-505-+ACPI+upstreaming+and+patch+review.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:07:35+00:00
+date: 2015-06-30 17:07:35
 excerpt: Description to be added
+image:
+  featured: true
+  name: LCU14-505.jpg
+  path: /assets/images/featured-images/LCU14-505.jpg
 layout: post
 link: http://connect.linaro.org/resource/lcu14/lcu14-505-acpi-upstreaming-and-patch-review/
 session_id: LCU14-505
 session_track: Enterprise Server
 slug: lcu14-505-acpi-upstreaming-and-patch-review
 speakers: Al Stone, Hanjun Guo, Graeme Gregor
-title: 'LCU14-505: ACPI upstreaming and patch review'
-video_length: '23:30'
-video_thumbnail: None
-wordpress_id: 1566
-youtube_video_url: https://www.youtube.com/watch?v=IsjL8-4-L5w
-categories:
-- lcu14
 tags:
 - Al Stone
 - Enterprise Server
@@ -24,6 +23,11 @@ tags:
 - Hanjun Guo
 - lcu14
 - LCU14-505
+title: 'LCU14-505: ACPI upstreaming and patch review'
+video_length: '23:30'
+video_thumbnail: None
+wordpress_id: 1566
+youtube_video_url: https://www.youtube.com/watch?v=IsjL8-4-L5w
 ---
 
 LCU14-505: ACPI upstreaming and patch review

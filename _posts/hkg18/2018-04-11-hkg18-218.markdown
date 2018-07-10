@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-218.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-218.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:11:54+00:00
+date: 2018-04-11 14:11:54
 excerpt: 'With LoRa gaining more traction in recent times and seeing LoRa gateways
   being based on Linux one could wonder why there is no work on integrating the LoRa
   layers into the Linux networking stack directly. To make use of its solid protocol
@@ -19,8 +21,14 @@ excerpt: 'With LoRa gaining more traction in recent times and seeing LoRa gatewa
   (link layer security with ieee802154, 6lowpan) o 1 transceiver driver already posted
   o A few people already showed interest, more people around here? o Project setup
   (vger mailing list, patchwork, github, korg tree hosting, etc)'
+image:
+  featured: true
+  name: HKG18-218.png
+  path: /assets/images/featured-images/HKG18-218.png
 layout: post
 link: http://connect.linaro.org/resource/hkg18/hkg18-218/
+post_format:
+- Video
 session_id: HKG18-218
 session_track: Networking
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg1218-bootstrapping-a-lora-linux-project
@@ -31,10 +39,6 @@ video_length: '17:31'
 video_thumbnail: None
 wordpress_id: 8758
 youtube_video_url: https://www.youtube.com/watch?v=dq6BJLh3u88
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-218
@@ -43,15 +47,15 @@ Speaker: Stefan Schmidt
 Track: Networking
 
 
-★ Session Summary ★
+## Session Summary
 With LoRa gaining more traction in recent times and seeing LoRa gateways being based on Linux one could wonder why there is no work on integrating the LoRa layers into the Linux networking stack directly. To make use of its solid protocol stacks and constant improvements and innovations. Solutions where the data coming from LoRa is just piped in over a SLIP connection do not allow the tight integration with the tools available for Linux networking which would surely benefit a LoRa gateway. With netfilter, traffic control and eBPF just naming a few. The idea branched of the linux-wpan project to see if there is a bigger interest in having a LoRa subsystem in the Linux kernel. Some initial brainstorming has been done but without enough interest it is unclear if we should step forward with such a project. Items for discussion would include: o LPWAN on Linux o Gateway and powered node use case o PHY/MAC layer and LoRaWAN o Share code with existing subsystems where possible (link layer security with ieee802154, 6lowpan) o 1 transceiver driver already posted o A few people already showed interest, more people around here? o Project setup (vger mailing list, patchwork, github, korg tree hosting, etc)
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-218/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-218.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-218.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -66,8 +70,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Stefan Schmidt
+**Speakers**: Stefan Schmidt
 
-Speaker Positions: Open Source Software Engineer
-
-
+**Speaker Positions**: Open Source Software Engineer

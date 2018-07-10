@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-10-Tuesday/HKG15-200K1.pdf
-author: kyle.kirkby
+author: connect
 comments: true
 date: 2015-04-23 15:37:01+00:00
 layout: post

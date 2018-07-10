@@ -2,15 +2,23 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-TR05%20EAS%20Profiling%20on%20Hikey960.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-TR05%20EASv1.3%20Profiling%20On%20Hikey960.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:55:34+00:00
-excerpt: Recently Hikey960 is released with big.LITTLE architecture and has been enabled
-  power management features on AOSP kernel 4.4/4.9; On the other hand, EAS is continuing
-  evolution to v1.3 on AOSP 4.4/4.9. At current stage it’s smooth to joint EAS on
-  Hikey960, this session mainly introduces EASv1.3 profiling on Hikey960 and try to
-  give hints for later deployment and optimization.
+date: 2017-10-06 16:55:34
+excerpt: "Recently Hikey960 is released with big.LITTLE architecture and has been
+  enabled power management features on AOSP kernel 4.4/4.9; On the other hand, EAS
+  is continuing evolution to v1.3 on AOSP 4.4/4.9. At current stage it\u2019s smooth
+  to joint EAS on Hikey960, this session mainly introduces EASv1.3 profiling on Hikey960
+  and try to give hints for later deployment and optimization."
+image:
+  featured: true
+  name: SFO17-TR05.jpg
+  path: /assets/images/featured-images/SFO17-TR05.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-tr05/
+post_format:
+- Video
 session_id: SFO17-TR05
 session_track: Power Management
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/easv13-profiling-on-hikey960-sfo17tr05
@@ -21,10 +29,6 @@ video_length: '52:18'
 video_thumbnail: None
 wordpress_id: 6040
 youtube_video_url: https://www.youtube.com/watch?v=dN2dyKAUEvU
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-TR05

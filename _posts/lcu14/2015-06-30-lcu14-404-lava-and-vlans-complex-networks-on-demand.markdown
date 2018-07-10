@@ -1,10 +1,16 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-18-Thursday/LCU14-404.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-18-Thursday/LCU14-404-+LAVA+and+VLANs+-+complex+networks+on+demand.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:07:52+00:00
+date: 2015-06-30 17:07:52
 excerpt: Description to be added
+image:
+  featured: true
+  name: LCU14-404.jpg
+  path: /assets/images/featured-images/LCU14-404.jpg
 layout: post
 link: http://connect.linaro.org/resource/lcu14/lcu14-404-lava-and-vlans-complex-networks-on-demand/
 session_id: LCU14-404
@@ -12,13 +18,6 @@ session_track: Networking
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-404-lava-vlans-complex-networks-on-demand
 slug: lcu14-404-lava-and-vlans-complex-networks-on-demand
 speakers: Steve McIntyre, Dave Pigott, Matt Hart, Neil Williams
-title: 'LCU14-404: LAVA and VLANs - complex networks on demand'
-video_length: '29:36'
-video_thumbnail: None
-wordpress_id: 1554
-youtube_video_url: https://www.youtube.com/watch?v=Qb_NwuDFAyA
-categories:
-- lcu14
 tags:
 - Dave Pigott
 - lcu14
@@ -27,6 +26,11 @@ tags:
 - Neil Williams
 - Networking
 - Steve McIntyre
+title: 'LCU14-404: LAVA and VLANs - complex networks on demand'
+video_length: '29:36'
+video_thumbnail: None
+wordpress_id: 1554
+youtube_video_url: https://www.youtube.com/watch?v=Qb_NwuDFAyA
 ---
 
 LCU14-404: LAVA and VLANs - complex networks on demand

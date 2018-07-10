@@ -1,30 +1,34 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Monday/LAS16-105%20-%20Walkthrough%20of%20the%20EAS%20kernel%20adaptation%20to%20the%20Android%20Common%20Kernel.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Monday/LAS16-105%20Walkthrough%20of%20the%20EAS%20kernel%20adaptation%20to%20the%20Android%20Common%20Kernel.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:32+00:00
+date: 2016-09-20 17:10:32
 excerpt: Walkthrough of the EAS kernel adaptation to the Android Common Kernel
+image:
+  featured: true
+  name: LAS16-105.png
+  path: /assets/images/featured-images/LAS16-105.png
 layout: post
 link: http://connect.linaro.org/resource/las16/las16-105/
+post_format:
+- Video
 session_id: LAS16-105
 session_track: Core Development
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16105-walkthrough-of-the-eas-kernel-adaptation-to-the-android-common-kernel
 slug: las16-105
 speakers: None
+tags:
+- Android
+- Power Management
 title: 'LAS16-105: Walkthrough of the EAS kernel adaptation to the Android Common
   Kernel'
 video_length: '51:47'
 video_thumbnail: None
 wordpress_id: 3798
 youtube_video_url: https://www.youtube.com/watch?v=3h8w6BoI1tY
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Android
-- Power Management
 ---
 
 LAS16-105: Walkthrough of the EAS kernel adaptation to the Android Common Kernel

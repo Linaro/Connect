@@ -2,16 +2,24 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-110-%20Getting%20started%20with%20LLVM%20-%20the%20TL%3BDR%20version.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-110%20-%20Getting%20started%20with%20LLVM%20-%20the%20TL%3BDR%20version.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:53:48+00:00
+date: 2017-10-06 16:53:48
 excerpt: This session is going to focus on getting started as an LLVM developer. LLVM
   is rather large and, although it has a lot of documentation, it may feel a bit daunting
   to navigate at first. We'll go over some of the essential things that you need to
   know when starting to work upstream - what tools you're likely to end up using in
   your day-to-day life, how to write tests for your code and how to interact with
   the community.
+image:
+  featured: true
+  name: SFO17-110.jpg
+  path: /assets/images/featured-images/SFO17-110.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-110/
+post_format:
+- Video
 session_id: SFO17-110
 session_track: Toolchain
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/getting-started-with-llvm-the-tldr-version-sfo17110
@@ -22,10 +30,6 @@ video_length: '58:27'
 video_thumbnail: None
 wordpress_id: 5934
 youtube_video_url: https://www.youtube.com/watch?v=ATNGKXzFVAA
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-110

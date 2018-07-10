@@ -1,35 +1,39 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-412%20-%20OpenSDK%20OE%20Builds%20on%2096Boards.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-412%20OpenSDK%20OE%20Builds%20on%2096Boards.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:50+00:00
+date: 2017-02-28 12:05:50
 excerpt: One year ago, LHG launched an effort to organize the LHG components in the
   OE layer and create public builds. This presentation summarizes the work to add
   LHG specific features via meta-lhg and merge with support from 96Boards OE meta
   layers. The specific meta-lhg contents are described and how they are combined to
   create the LHG OE builds on 96Boards targets.
+image:
+  featured: true
+  name: BUD17-412.jpg
+  path: /assets/images/featured-images/BUD17-412.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-412/
+post_format:
+- Video
 session_id: BUD17-412
 session_track: LHG
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17412-opensdk-oe-builds-on-96boards
 slug: bud17-412
 speakers: Andrey Konovalov
-title: OpenSDK OE Builds on 96Boards - BUD17-412
-video_length: 00:00
-video_thumbnail: None
-wordpress_id: 4703
-youtube_video_url: https://youtu.be/SoGL8ZEW_LQ
-categories:
-- bud17
-post_format:
-- Video
 tags:
 - 96Boards
 - LHG
 - OE
 - OpenSDK
+title: OpenSDK OE Builds on 96Boards - BUD17-412
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4703
+youtube_video_url: https://youtu.be/SoGL8ZEW_LQ
 ---
 
 "Session ID: BUD17-412

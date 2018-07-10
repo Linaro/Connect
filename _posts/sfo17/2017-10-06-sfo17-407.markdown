@@ -2,12 +2,20 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-407-KernelCI_20170915.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-407%20-%20Collaboras%20involvement%20in%20KernelCI.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:55:53+00:00
+date: 2017-10-06 16:55:53
 excerpt: This talk will address Collabora's contribution to KernelCI, specifically
   investigating automated bisection.
+image:
+  featured: true
+  name: SFO17-407.jpg
+  path: /assets/images/featured-images/SFO17-407.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-407/
+post_format:
+- Video
 session_id: SFO17-407
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/collaboras-involvement-in-kernelci-sfo17407
 slug: sfo17-407
@@ -17,10 +25,6 @@ video_length: '27:23'
 video_thumbnail: None
 wordpress_id: 6056
 youtube_video_url: https://www.youtube.com/watch?v=IKjp14FshsY
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-407

@@ -1,12 +1,20 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- demo-friday
 comments: false
-date: 2017-03-23 16:42:23+00:00
+date: 2017-03-23 16:42:23
 excerpt: Demonstrating ST new hub sensor mezzanine board with ST B2260 board
+image:
+  featured: true
+  name: BUD17-DF20.jpg
+  path: /assets/images/featured-images/BUD17-DF20.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df20/
+post_format:
+- Video
 session_id: BUD17-DF20
 session_track: None
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/st-96boards-demo
@@ -17,10 +25,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5694
 youtube_video_url: None
-categories:
-- demo-friday
-post_format:
-- Video
 ---
 
 Demonstrating ST new hub sensor mezzanine board with ST B2260 board

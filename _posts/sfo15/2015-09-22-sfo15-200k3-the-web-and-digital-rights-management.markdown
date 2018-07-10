@@ -3,12 +3,14 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   Web and Digital Rights Management - Simmons.PDF
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-22-Tuesday/SFO15-200K3
   - The Web and Digital Rights Management.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-22 00:00:00+00:00
-excerpt: 'John’s bio: John Simmons is the visionary who inspired Microsoft to play
-  a leadership role in the creation of international media standards. In a 2008 internal
-  memo John envisioned a RESTful, interoperable commercial media stack, predicting
+date: 2015-09-22 00:00:00
+excerpt: "John\u2019s bio: John Simmons is the visionary who inspired Microsoft to
+  play a leadership role in the creation of international media standards. In a 2008
+  internal memo John envisioned a RESTful, interoperable commercial media stack, predicting
   its impact on the Web. His efforts resulted in Microsoft publishing specs for DRM-interoperable
   encoding and adaptive streaming, which in turn culminated in the ISO MPEG standards
   for Common Encryption and Dynamic Adaptive Streaming over HTTP (DASH). He led the
@@ -16,28 +18,30 @@ excerpt: 'John’s bio: John Simmons is the visionary who inspired Microsoft to 
   contributions to W3C for HTML5 Encrypted Media Extensions (EME) and Media Source
   Extensions (MSE) and authored an open spec to enable embedded browsers to implement
   EME without the use of proprietary software. At present John is the Media Platform
-  Architect for Microsoft’s Operating System Group.'
+  Architect for Microsoft\u2019s Operating System Group."
+image:
+  featured: true
+  name: SFO15-200K3-TheWebandDigitalRightsManagement.jpg
+  path: /assets/images/featured-images/SFO15-200K3-TheWebandDigitalRightsManagement.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-200k3-the-web-and-digital-rights-management/
+post_format:
+- Video
 session_id: None
 session_track: Keynote
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15200k3-john-simmons-the-web-and-digital-rights-management-the-technical-solution-to-the-webdrm-paradox-and-its-disruptive-implications
 slug: sfo15-200k3-the-web-and-digital-rights-management
 speakers: John Simmons
-title: 'SFO15-200K3 : The Web and Digital Rights Management'
-video_length: '33:41'
-video_thumbnail: None
-wordpress_id: 2810
-youtube_video_url: https://www.youtube.com/watch?v=14YnkW6ZsI0
-categories:
-- sfo15
-post_format:
-- Video
 tags:
 - ARM
 - Keynote
 - Linaro
 - Linux
+title: 'SFO15-200K3 : The Web and Digital Rights Management'
+video_length: '33:41'
+video_thumbnail: None
+wordpress_id: 2810
+youtube_video_url: https://www.youtube.com/watch?v=14YnkW6ZsI0
 ---
 
 Speaker: John Simmons

@@ -1,8 +1,10 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-309B.pdf
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:46+00:00
+date: 2016-02-22 17:20:46
 excerpt: 'The concept of Enterprise Firmware is a fairly new one for ARM, and pretty
   much started in LEG, while ARM Ltd. was still focusing on mobile platforms. Also,
   in parallel, several partners did their own work internally without sharing, resulting
@@ -13,8 +15,14 @@ excerpt: 'The concept of Enterprise Firmware is a fairly new one for ARM, and pr
   This talk covers both the commercial importance of aligning the ecosystem and some
   of the technical challenges to overcome, and what ARM and Linaro are planning to
   do about it.'
+image:
+  featured: true
+  name: BKK16-309B.jpg
+  path: /assets/images/featured-images/BKK16-309B.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-309b/
+post_format:
+- Video
 session_id: BKK16-309B
 session_track: LEG
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16-309b-enterprise-firmware-the-gold-standard-and-how-to-get-there
@@ -22,18 +30,14 @@ slug: bkk16-309b
 speakers: 'Leif Lindholm
 
   Jeff Underhill'
+tags:
+- Enterprise
+- Firmware
 title: 'BKK16-309B: Enterprise Firmware - The gold standard and how to get there'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3352
 youtube_video_url: https://youtu.be/_T7slkjE5vg
-categories:
-- bkk16
-post_format:
-- Video
-tags:
-- Enterprise
-- Firmware
 ---
 
 The concept of Enterprise Firmware is a fairly new one for ARM, and pretty much started in LEG, while ARM Ltd. was still focusing on mobile platforms. Also, in parallel, several partners did their own work internally without sharing, resulting in multiple implementations of what should be a standard platform. To make our partners successful, we need to help them - by leading through example - to get more done.  This talk covers both the commercial importance of aligning the ecosystem and some of the technical challenges to overcome, and what ARM and Linaro are planning to do about it.

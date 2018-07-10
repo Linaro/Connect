@@ -1,5 +1,5 @@
 ---
-author: kyle.kirkby
+author: connect
 comments: true
 date: 2015-06-30 17:09:22+00:00
 excerpt: Several engineers from ARM and Linaro attended the EAS workshop at Kernel

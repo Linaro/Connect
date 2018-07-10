@@ -1,30 +1,34 @@
 ---
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-24-Thursday/SFO15-405
   Enterprise Use Cases with LAVA.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-24 00:00:00+00:00
+date: 2015-09-24 00:00:00
 excerpt: UEFI boot testing with SCT and luvOS automation have stretched the original
   design scope for LAVA, the session will describe the challenges and needs for ARM
   server boot test automation going forward in cooperation with the LAVA and CI teams.
+image:
+  featured: true
+  name: SFO15-405-EnterpriseUseCaseswithLAVA.jpg
+  path: /assets/images/featured-images/SFO15-405-EnterpriseUseCaseswithLAVA.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-405-enterprise-use-cases-with-lava/
+post_format:
+- Video
 session_id: None
 session_track: Validation
 slug: sfo15-405-enterprise-use-cases-with-lava
 speakers: Naresh Bhat, Fathi Boudra, Leif Lindholm, Dave Pigott, Neil Williams
+tags:
+- LAVA
+- Validation
 title: 'SFO15-405: Enterprise Use Cases with LAVA'
 video_length: '16:39'
 video_thumbnail: None
 wordpress_id: 2868
 youtube_video_url: https://www.youtube.com/watch?v=BTPDjeQE6uQ
-categories:
-- sfo15
-post_format:
-- Video
-tags:
-- LAVA
-- Validation
 ---
 
 SFO15-405: Enterprise Use Cases with LAVA

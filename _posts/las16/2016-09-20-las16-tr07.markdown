@@ -1,28 +1,32 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Thursday/LAS16-TR07%20Working%20upstream%20%28Mandarin%29.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:59+00:00
+date: 2016-09-20 17:10:59
 excerpt: TBD
+image:
+  featured: true
+  name: LAS16-TR07.png
+  path: /assets/images/featured-images/LAS16-TR07.png
 layout: post
 link: http://connect.linaro.org/resource/las16/las16-tr07/
+post_format:
+- Video
 session_id: LAS16-TR07
 session_track: Training
 slideshare_presentation_url: None
 slug: las16-tr07
 speakers: Alex Shi, Baolin Wang, Chunyan Zhang
+tags:
+- Training
 title: 'LAS16-TR07: Working upstream [Mandarin]'
 video_length: '48:29'
 video_thumbnail: None
 wordpress_id: 3853
 youtube_video_url: https://www.youtube.com/watch?v=k557SPZ3g2U
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Training
 ---
 
 LAS16-TR07: Working upstream [Mandarin]

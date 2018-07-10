@@ -1,26 +1,30 @@
 ---
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-23-Wednesday/SF015-304
   Server Ecosystem Day (Part 2a).mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-23 00:00:00+00:00
+date: 2015-09-23 00:00:00
+image:
+  featured: true
+  name: SF015304ServerEcosystemDayPart2a.jpg
+  path: /assets/images/featured-images/SF015304ServerEcosystemDayPart2a.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sf015-304-server-ecosystem-day-part-2a/
+post_format:
+- Video
 session_id: None
 session_track: Enterprise Server
 slug: sf015-304-server-ecosystem-day-part-2a
 speakers: Andrea Gallo
+tags:
+- Enterprise Server
 title: SF015 304 Server Ecosystem Day Part 2a
 video_length: '28:10'
 video_thumbnail: None
 wordpress_id: 2843
 youtube_video_url: https://www.youtube.com/watch?v=_e905XgFwsM
-categories:
-- sfo15
-post_format:
-- Video
-tags:
-- Enterprise Server
 ---
 
 11:15 – CERN: ARM64/AArch64 for Scientific Computing at the CERN CMS Particle Detector

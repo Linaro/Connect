@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-TR03%20-%20Upstreaming%20201.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Tuesday/LAS16-TR03%20Upstreaming%20201.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:46+00:00
+date: 2016-09-20 17:10:46
 excerpt: This session is an advanced course on Linux kernel upstreaming fundamentals.
   The course covers how the arm-soc kernel tree is maintained and why that is important
   to ARM Linux kernel developers. The focus of the course is the explanation of the
@@ -14,24 +16,26 @@ excerpt: This session is an advanced course on Linux kernel upstreaming fundamen
   into the kernel. The topic requires a solid background in software configuration
   management terminology and the git SCM tool as well as a good technical understanding
   of the Linux kernel itself.
+image:
+  featured: true
+  name: LAS16-TR03.png
+  path: /assets/images/featured-images/LAS16-TR03.png
 layout: post
 link: http://connect.linaro.org/resource/las16/las16-tr03/
+post_format:
+- Video
 session_id: LAS16-TR03
 session_track: Training
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16tr03-upstreaming-201
 slug: las16-tr03
 speakers: Shawn Guo, Daniel Thompson
+tags:
+- Training
 title: 'LAS16-TR03: Upstreaming 201'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3821
 youtube_video_url: https://youtu.be/dyTPbcng7j8
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Training
 ---
 
 LAS16-TR03: Upstreaming 201

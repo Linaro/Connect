@@ -1,16 +1,25 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-305.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-305.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:12:48+00:00
-excerpt: In this talk, we will introduce the history and experience of processor customization
-  and the evolution of Alibaba’s infrastructure, including our ARM64 processor evaluating
-  technology, how ARM64 server brings the value to Alibaba based on the characteristics
-  of applications. In the future, under the guidance of the Alibaba Group's new retail
-  strategy, ARM64 server will have a good opportunity at edge and cloud computing.
+date: 2018-04-11 14:12:48
+excerpt: "In this talk, we will introduce the history and experience of processor
+  customization and the evolution of Alibaba\u2019s infrastructure, including our
+  ARM64 processor evaluating technology, how ARM64 server brings the value to Alibaba
+  based on the characteristics of applications. In the future, under the guidance
+  of the Alibaba Group's new retail strategy, ARM64 server will have a good opportunity
+  at edge and cloud computing."
+image:
+  featured: true
+  name: HKG18-305.png
+  path: /assets/images/featured-images/HKG18-305.png
 layout: post
 link: http://connect.linaro.org/resource/hkg18/hkg18-305/
+post_format:
+- Video
 session_id: HKG18-305
 session_track: Ecosystem Day
 slug: hkg18-305
@@ -20,10 +29,6 @@ video_length: '31:06'
 video_thumbnail: None
 wordpress_id: 9168
 youtube_video_url: https://www.youtube.com/watch?v=WQ9UNn5Orxg
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-305
@@ -32,15 +37,15 @@ Speaker: Not Available
 Track: Ecosystem Day
 
 
-★ Session Summary ★
+## Session Summary
 In this talk, we will introduce the history and experience of processor customization and the evolution of Alibaba’s infrastructure, including our ARM64 processor evaluating technology, how ARM64 server brings the value to Alibaba based on the characteristics of applications. In the future, under the guidance of the Alibaba Group's new retail strategy, ARM64 server will have a good opportunity at edge and cloud computing.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-305/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-305.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-305.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -55,8 +60,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Not Available
+**Speakers**: Not Available
 
-Speaker Positions: Not Found
-
-
+**Speaker Positions**: Not Found

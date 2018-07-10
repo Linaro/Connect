@@ -1,5 +1,5 @@
 ---
-author: kyle.kirkby
+author: connect
 comments: true
 date: 2015-07-24 14:04:51+00:00
 excerpt: "Android on ARMv8 - Progress Update (PRIVATE : Core and Club MEMBERS ONLY\

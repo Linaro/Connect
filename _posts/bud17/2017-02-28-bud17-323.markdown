@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-323%20-%20DynInst%20on%20arm64%20%E2%80%93%20Status.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/BUD17-323%20DynInst%20on%20ARM64%20-%20Status.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:44+00:00
+date: 2017-02-28 12:05:44
 excerpt: The DynInst package (https://github.com/dyninst/dyninst) provides an API
   for program binary analysis and instrumentation. In this technical session, after
   a brief general introduction of the package itself, the recent arm64 porting work
@@ -11,26 +13,28 @@ excerpt: The DynInst package (https://github.com/dyninst/dyninst) provides an AP
   the binary utilities will be explained in detail. The talk will conclude explaining
   the key features currently missing on arm64, namely code generation and relocation,
   to be implemented in 2017.
+image:
+  featured: true
+  name: BUD17-323.jpg
+  path: /assets/images/featured-images/BUD17-323.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-323/
+post_format:
+- Video
 session_id: BUD17-323
 session_track: LEG
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/dyninst-on-arm64-status-bud17323
 slug: bud17-323
 speakers: Itaru Kitayama
+tags:
+- ARM64
+- Dynlnst
+- LEG
 title: DynInst on arm64 - Status - BUD17-323
 video_length: '22:14'
 video_thumbnail: None
 wordpress_id: 4684
 youtube_video_url: https://youtu.be/qJ5upJRKNqA
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- ARM64
-- Dynlnst
-- LEG
 ---
 
 "Session ID: BUD17-323

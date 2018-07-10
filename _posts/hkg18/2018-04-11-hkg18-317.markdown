@@ -1,22 +1,30 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-317.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-317.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:13:45+00:00
-excerpt: "To fulfill our vision of having Arm servers everywhere and easy to deploy,\
-  \ Arm has created the Arm ServerReady Program where we have created the Server Base\
-  \ System Architecture (SBSA) and Server Base Boot Requirements (SBBR) specifications\
-  \ and the Architecture Compliance Suite (ACS) tools for the system developers to\
-  \ enable customers to deploy Arm servers with confidence that they work out of the\
-  \ box. In this talk, I will update you on the progresses we have made working with\
-  \ the partners in preparation of the official launch of the Arm ServerReady Program.\n\
-  \n \n\nIn addition, I will update you with the preview of the updates to the next\
-  \ revision of the SBSA/SBBR specifications. I will also provide an overview of the\
-  \ Server Base Manageability Guide (SBMG) that is to be released later this year\
-  \ and the related sample implementation in OpenBMC."
+date: 2018-04-11 14:13:45
+excerpt: "To fulfill our vision of having Arm servers everywhere and easy to deploy,
+  Arm has created the Arm ServerReady Program where we have created the Server Base
+  System Architecture (SBSA) and Server Base Boot Requirements (SBBR) specifications
+  and the Architecture Compliance Suite (ACS) tools for the system developers to enable
+  customers to deploy Arm servers with confidence that they work out of the box. In
+  this talk, I will update you on the progresses we have made working with the partners
+  in preparation of the official launch of the Arm ServerReady Program.\n\n \n\nIn
+  addition, I will update you with the preview of the updates to the next revision
+  of the SBSA/SBBR specifications. I will also provide an overview of the Server Base
+  Manageability Guide (SBMG) that is to be released later this year and the related
+  sample implementation in OpenBMC."
+image:
+  featured: true
+  name: HKG18-317.png
+  path: /assets/images/featured-images/HKG18-317.png
 layout: post
 link: http://connect.linaro.org/resource/hkg18/hkg18-317/
+post_format:
+- Video
 session_id: HKG18-317
 session_track: Ecosystem Day
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18317-arm-server-ready-program
@@ -27,10 +35,6 @@ video_length: '34:06'
 video_thumbnail: None
 wordpress_id: 9094
 youtube_video_url: https://www.youtube.com/watch?v=19AzpDnl9w4
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-317
@@ -39,19 +43,19 @@ Speaker: Dong Wei
 Track: Ecosystem Day
 
 
-★ Session Summary ★
+## Session Summary
 To fulfill our vision of having Arm servers everywhere and easy to deploy, Arm has created the Arm ServerReady Program where we have created the Server Base System Architecture (SBSA) and Server Base Boot Requirements (SBBR) specifications and the Architecture Compliance Suite (ACS) tools for the system developers to enable customers to deploy Arm servers with confidence that they work out of the box. In this talk, I will update you on the progresses we have made working with the partners in preparation of the official launch of the Arm ServerReady Program.
 
  
 
 In addition, I will update you with the preview of the updates to the next revision of the SBSA/SBBR specifications. I will also provide an overview of the Server Base Manageability Guide (SBMG) that is to be released later this year and the related sample implementation in OpenBMC.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-317/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-317.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-317.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -66,8 +70,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Dong Wei
+**Speakers**: Dong Wei
 
-Speaker Positions: Senior Director
-
-
+**Speaker Positions**: Senior Director

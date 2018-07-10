@@ -2,21 +2,24 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-202-%20Enable%20the%20runtime%20PM%20centric%20path%20for%20ACPI.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-202%20Enabling%20the%20runtime%20PM%20centric%20path%20for%20ACPI.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:54:12+00:00
-excerpt: 'The ACPI PM domain supports the so called direct_complete path during system
+date: 2017-10-06 16:54:12
+excerpt: "The ACPI PM domain supports the so called direct_complete path during system
   sleep in a way to avoid wasting power, but also to decrease the system suspend/resume
-  time.
-
-
-  However, the direct_complete path has limitations and doesn’t perform well in all
-  scenarios. The so called, runtime PM centric path, often offers a better option.
-
-
-  This session compares the two concepts and gives an update on the related work for
-  ACPI PM domain.'
+  time.\n\nHowever, the direct_complete path has limitations and doesn\u2019t perform
+  well in all scenarios. The so called, runtime PM centric path, often offers a better
+  option.\n\nThis session compares the two concepts and gives an update on the related
+  work for ACPI PM domain."
+image:
+  featured: true
+  name: SFO17-202.jpg
+  path: /assets/images/featured-images/SFO17-202.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-202/
+post_format:
+- Video
 session_id: SFO17-202
 session_track: Power Management
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/enabling-the-runtime-pm-centric-path-for-acpi-sfo17202
@@ -27,10 +30,6 @@ video_length: '18:16'
 video_thumbnail: None
 wordpress_id: 5959
 youtube_video_url: https://www.youtube.com/watch?v=EIUWby19DNI
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-202
