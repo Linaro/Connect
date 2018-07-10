@@ -142,6 +142,7 @@ assets:
     - assets/js/app/
     - assets/images
     - assets/images/sponsors
+    - assets/images/featured-images
     - assets/images/people
     - assets/images/speakers
     - assets/images/content
