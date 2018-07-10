@@ -1,5 +1,5 @@
 ---
-name: George Grey
+name: "George Grey"
 company: Linaro
 position: CEO
 image: george-grey.jpg
