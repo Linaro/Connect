@@ -2,11 +2,19 @@
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
 author: celia.ilardi
+categories:
+- demo-friday
 comments: false
-date: 2017-03-21 15:34:37+00:00
+date: 2017-03-21 15:34:37
 excerpt: OpenCV & Robot Framework
+image:
+  featured: true
+  name: BUD17-DF09.jpg
+  path: /assets/images/featured-images/BUD17-DF09.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df09/
+post_format:
+- Video
 session_id: BUD17-DF09
 session_track: OpenCV & Robot Framework
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/opencv-robot-framework
@@ -17,10 +25,6 @@ video_length: 03:57
 video_thumbnail: None
 wordpress_id: 5656
 youtube_video_url: https://www.youtube.com/watch?v=_eklI09Vmi8
-categories:
-- demo-friday
-post_format:
-- Video
 ---
 
 This demo shows automated testing using open source projects that is tailored to testing TV playback use cases.  Using the Robot Framework automated test scripts are created.  The OpenCV testing is able to provide facial recognition to validate video playback.

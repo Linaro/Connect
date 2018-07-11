@@ -3,31 +3,35 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   Linaro CI - git driven workflow and Jenkins advanced usage.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-22-Tuesday/SFO15-203
   Linaro Cl - git driven workflow & Jenkins advanced usage.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-22 00:00:00+00:00
+date: 2015-09-22 00:00:00
 excerpt: As part of Linaro CI v2 project, several improvements have been implemented
   and deployed in order to make CI at Linaro faster, more reliable and easier to use
   by the developers. The session will present the new workflow to setup and maintain
   CI loops, as well as the tools used by Linaro like Jenkins.
+image:
+  featured: true
+  name: SFO15-203-LinaroCI-gitdrivenworkflow&Jenkinsadvancedusage.jpg
+  path: /assets/images/featured-images/SFO15-203-LinaroCI-gitdrivenworkflow&Jenkinsadvancedusage.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-203-linaro-ci-git-driven-workflow-jenkins-advanced-usage/
+post_format:
+- Video
 session_id: None
 session_track: Validation
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15203-linaro-ci-git-driven-workflow-jenkins-advanced-usage
 slug: sfo15-203-linaro-ci-git-driven-workflow-jenkins-advanced-usage
 speakers: Fathi Boudra
+tags:
+- Validation
 title: 'SFO15-203: Linaro CI - git driven workflow & Jenkins advanced usage'
 video_length: '41:09'
 video_thumbnail: None
 wordpress_id: 2814
 youtube_video_url: https://www.youtube.com/watch?v=bWoAZVUXeAM
-categories:
-- sfo15
-post_format:
-- Video
-tags:
-- Validation
 ---
 
 SFO15-203: Linaro CI - git driven workflow & Jenkins advanced usage

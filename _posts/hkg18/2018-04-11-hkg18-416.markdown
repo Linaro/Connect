@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-416.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-416.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:14:39+00:00
+date: 2018-04-11 14:14:39
 excerpt: 'BFQ has greatly improved over the last months.  Now it handles I/O at
 
   up to 400+ KIOPS with commodity CPUs, and extends its close-to-optimal
@@ -33,8 +35,14 @@ excerpt: 'BFQ has greatly improved over the last months.  Now it handles I/O at
   - list the next important challenges for letting BFQ enter the
 
   server&cloud world too.'
+image:
+  featured: true
+  name: HKG18-416.png
+  path: /assets/images/featured-images/HKG18-416.png
 layout: post
 link: http://connect.linaro.org/resource/hkg18/hkg18-416/
+post_format:
+- Video
 session_id: HKG18-416
 session_track: Kernel
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18416-im-bfq-im-dynamite-or-almost
@@ -45,10 +53,6 @@ video_length: '31:45'
 video_thumbnail: None
 wordpress_id: 8822
 youtube_video_url: https://www.youtube.com/watch?v=FPtbiZtIflU
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-416
@@ -57,7 +61,7 @@ Speaker: Paolo Valente
 Track: Kernel
 
 
-★ Session Summary ★
+## Session Summary
 BFQ has greatly improved over the last months.  Now it handles I/O at
 up to 400+ KIOPS with commodity CPUs, and extends its close-to-optimal
 responsiveness guarantees on any single-queue storage medium, from
@@ -74,12 +78,12 @@ default I/O scheduler for all single-queue storage;
 - list the next important challenges for letting BFQ enter the
 server&cloud; world too.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-416/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-416.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-416.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -94,8 +98,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Paolo Valente
+**Speakers**: Paolo Valente
 
-Speaker Positions: Assistant professor
-
-
+**Speaker Positions**: Assistant professor

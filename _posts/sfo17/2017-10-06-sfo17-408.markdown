@@ -2,8 +2,10 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-408%20%20Active%20state%20management%20of%20power%20domains.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-408%20-%20Active%20State%20Management%20of%20Power%20Domains.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:55:53+00:00
+date: 2017-10-06 16:55:53
 excerpt: 'Some platforms have the capability to configure the performance state of
   their power domains. The process of configuring the performance state is pretty
   much platform dependent and we may need to work with a wide range of configurables.  For
@@ -14,8 +16,14 @@ excerpt: 'Some platforms have the capability to configure the performance state 
   The power-domain framework until now was only designed for the idle state management
   of the device and this needs to change in order to reuse the power-domain framework
   for active state management of the devices.'
+image:
+  featured: true
+  name: SFO17-408.jpg
+  path: /assets/images/featured-images/SFO17-408.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-408/
+post_format:
+- Video
 session_id: SFO17-408
 session_track: LEG
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/active-state-management-of-power-domains-sfo17408
@@ -26,10 +34,6 @@ video_length: '12:09'
 video_thumbnail: None
 wordpress_id: 6058
 youtube_video_url: https://www.youtube.com/watch?v=csn00ny8P10
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-408
@@ -70,4 +74,4 @@ Event Date: 28 Sept 2017
 
 Speakers: Viresh Kumar
 
-Position: 
+Position:

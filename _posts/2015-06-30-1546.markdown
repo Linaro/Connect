@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-17-Wednesday/LCU14-309.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-17-Wednesday/LCU14-309-+Introducing+Android+NDK+for+64bit+ARMv8+SOCs.mp4
-author: kyle.kirkby
+author: connect
 comments: true
 date: 2015-06-30 17:08:50+00:00
 excerpt: Android Native Developer Kit (NDK) enables application developers leverage

@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-503%20The%20HPE%20Machine%20and%20Gen%20Z.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Friday/BUD17-503%20The%20HPE%20Machine%20and%20Gen-Z.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-03-08 15:52:31+00:00
+date: 2017-03-08 15:52:31
 excerpt: 'With the exponential rise in quantity of data to manage, the modern data
   centre is increasingly limited by the capacity of individual machines. Since storage
   and compute demand more capacity than can be provided by a single machine, we distribute
@@ -34,25 +36,27 @@ excerpt: 'With the exponential rise in quantity of data to manage, the modern da
   This session will cover two topics. It will start with a status update on The Machine
   and an overview of how it works. Then we''ll shift into an introduction of Gen-Z,
   and how it can reshape the architecture of computing in the years to come.'
+image:
+  featured: true
+  name: BUD17-503.jpg
+  path: /assets/images/featured-images/BUD17-503.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-503z/
+post_format:
+- Video
 session_id: BUD17-503
 session_track: None
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/the-hpe-machine-and-genz-bud17503
 slug: bud17-503z
 speakers: Grant Likely
+tags:
+- Gen-Z
+- HPE
 title: The HPE Machine and Gen-Z - BUD17-503
 video_length: '21:11'
 video_thumbnail: None
 wordpress_id: 5224
 youtube_video_url: https://www.youtube.com/watch?v=1BVtChDQVyQ
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- Gen-Z
-- HPE
 ---
 
 "Session ID: BUD17-503

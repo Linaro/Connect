@@ -1,32 +1,36 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-205%20Updates%20on%20SBSA-SBBR.pdf
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:32+00:00
+date: 2017-02-28 12:05:32
 excerpt: This session will provide updates to the ARM Server Base System Architecture
   and Boot Requirements (SBSA/SBBR) as well as their validation programs.
+image:
+  featured: true
+  name: BUD17-205.jpg
+  path: /assets/images/featured-images/BUD17-205.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-205/
+post_format:
+- Video
 session_id: BUD17-205
 session_track: LEG
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17205-updates-on-server-base-system-architecture-and-boot-requirements
 slug: bud17-205
 speakers: Dong Wei
-title: Updates on Server Base System Architecture and Boot Requirements - BUD17-205
-video_length: 00:00
-video_thumbnail: None
-wordpress_id: 4644
-youtube_video_url: https://youtu.be/Dna1ycPSKfs
-categories:
-- bud17
-post_format:
-- Video
 tags:
 - ARM
 - Boot-requirements
 - LEG
 - Server
+title: Updates on Server Base System Architecture and Boot Requirements - BUD17-205
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4644
+youtube_video_url: https://youtu.be/Dna1ycPSKfs
 ---
 
 Session ID: BUD17-205

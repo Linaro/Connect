@@ -1,35 +1,39 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-09-Monday/HKG15-111.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-09-Monday/HKG15-111+LAVA+Dispatcher+Refactoring.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:38:32+00:00
+date: 2015-04-23 15:38:32
 excerpt: The beloved LAVA dispatcher is currently undergoing a transformation to become
   a lean, mean, use case supporting machine. Whilst the development is not yet complete
   the LAVA team would like to provide status on what has been completed, what is in
   progress, and what is next. Feel free to join the team for a discussion shortly
   after a brief presentation and help us define the future of the LAVA dispatcher!
+image:
+  featured: true
+  name: HKG15-111.jpg
+  path: /assets/images/featured-images/HKG15-111.jpg
 layout: post
 link: http://connect.linaro.org/resource/hkg15/hkg15-111-lava-dispatcher-refactoring/
+post_format:
+- Video
 session_id: HKG15-111
 session_track: LAVA, Validation
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15111-lava-dispatcher-refactoring
 slug: hkg15-111-lava-dispatcher-refactoring
-speakers: Neil Williams, Rémi Duraffort
-title: 'HKG15-111: LAVA Dispatcher Refactoring'
-video_length: '52:14'
-video_thumbnail: None
-wordpress_id: 712
-youtube_video_url: https://www.youtube.com/watch?v=KOpVhAuHvfQ
-categories:
-- hkg15
-post_format:
-- Video
+speakers: "Neil Williams, R\xE9mi Duraffort"
 tags:
 - HKG15-111
 - LAVA
 - Neil Williams
 - Validation
+title: 'HKG15-111: LAVA Dispatcher Refactoring'
+video_length: '52:14'
+video_thumbnail: None
+wordpress_id: 712
+youtube_video_url: https://www.youtube.com/watch?v=KOpVhAuHvfQ
 ---
 
 HKG15-111: LAVA Dispatcher Refactoring 

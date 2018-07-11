@@ -1,13 +1,21 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-213.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-213.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:11:54+00:00
+date: 2018-04-11 14:11:54
 excerpt: Continuation of discussion from SFO17. QC kernel upstream status, issues,
   roadblocks, planning.
+image:
+  featured: true
+  name: HKG18-213.png
+  path: /assets/images/featured-images/HKG18-213.png
 layout: post
 link: http://connect.linaro.org/resource/hkg18/hkg18-213/
+post_format:
+- Video
 session_id: HKG18-213
 session_track: Kernel
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18213-qualcomm-upstream-status-bof
@@ -18,10 +26,6 @@ video_length: '48:43'
 video_thumbnail: None
 wordpress_id: 8750
 youtube_video_url: https://www.youtube.com/watch?v=1GK-6hYoKSI
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-213
@@ -30,15 +34,15 @@ Speaker: Rajendra Nayak
 Track: Kernel
 
 
-★ Session Summary ★
+## Session Summary
 Continuation of discussion from SFO17. QC kernel upstream status, issues, roadblocks, planning.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-213/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-213.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-213.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -53,8 +57,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Rajendra Nayak
+**Speakers**: Rajendra Nayak
 
-Speaker Positions: 
-
-
+**Speaker Positions**:

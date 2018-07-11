@@ -1,5 +1,5 @@
 ---
-author: kyle.kirkby
+author: connect
 comments: true
 date: 2015-06-30 17:07:52+00:00
 excerpt: 'All Linaro Android builds for ARMv8 AArch64 are going to be enabled for

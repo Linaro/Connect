@@ -1,31 +1,35 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-301B.pdf
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:43+00:00
+date: 2016-02-22 17:20:43
 excerpt: The CentOS Project provides the infrastructure, Special Interest Groups provide
   the software. We'll walk through the resources available to SIG developers, and
   talk about the processes that enable them to build, test, and deliver against the
   CentOS Platform
+image:
+  featured: true
+  name: BKK16-301B.jpg
+  path: /assets/images/featured-images/BKK16-301B.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-301b/
+post_format:
+- Video
 session_id: BKK16-301B
 session_track: LEG
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16301bcentoscbsandciinfrastructureresourcesforbuildingtestingandreleasing
 slug: bkk16-301b
 speakers: Brian Stinson
+tags:
+- CentOS
 title: 'BKK16-301B: CentOS CBS and CI: Infrastructure Resources for Building, Testing,
   and Releasing'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3342
 youtube_video_url: https://youtu.be/l2f7YGOZZhk
-categories:
-- bkk16
-post_format:
-- Video
-tags:
-- CentOS
 ---
 
 The CentOS Project provides the infrastructure, Special Interest Groups provide the software. We'll walk through the resources available to SIG developers, and talk about the processes that enable them to build, test, and deliver against the CentOS Platform

@@ -1,11 +1,19 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-100K2.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Monday/BKK16-100K2%20Hennenhoefer%20ARM.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:33+00:00
+date: 2016-02-22 17:20:33
+image:
+  featured: true
+  name: BKK16-100K2.jpg
+  path: /assets/images/featured-images/BKK16-100K2.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-100k2/
+post_format:
+- Video
 session_id: BKK16-100K2
 session_track: Keynote
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16100k2-arm-research-sensors-to-supercomputers
@@ -16,10 +24,6 @@ video_length: '29:34'
 video_thumbnail: None
 wordpress_id: 3307
 youtube_video_url: https://www.youtube.com/watch?v=fU-SWtv2TlE
-categories:
-- bkk16
-post_format:
-- Video
 ---
 
 Event Date: March 7, 2016

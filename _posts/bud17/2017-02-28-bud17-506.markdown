@@ -1,33 +1,38 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:56+00:00
-excerpt: "Upstream community hasn’t had active participation around ION for past couple\
-  \ of years. Let us meet to discuss what can we do to change ‘status quo’. The session\
-  \ will include:\n - Brief status on where we stand on ION\n - Why isn’t upstream\
-  \ community ‘not interested’\n - How can we attempt to influence that"
+date: 2017-02-28 12:05:56
+excerpt: "Upstream community hasn\u2019t had active participation around ION for past
+  couple of years. Let us meet to discuss what can we do to change \u2018status quo\u2019.
+  The session will include:\n - Brief status on where we stand on ION\n - Why isn\u2019t
+  upstream community \u2018not interested\u2019\n - How can we attempt to influence
+  that"
+image:
+  featured: true
+  name: BUD17-506.jpg
+  path: /assets/images/featured-images/BUD17-506.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-506/
+post_format:
+- Video
 session_id: BUD17-506
 session_track: LMG
 slideshare_presentation_url: None
 slug: bud17-506
 speakers: Sumit Semwal
+tags:
+- BoF
+- ION
+- LMG
 title: ION BoF - BUD17-506
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4725
 youtube_video_url: https://youtu.be/ZcnC78NyJK0
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- BoF
-- ION
-- LMG
 ---
 
 "Session ID: BUD17-506

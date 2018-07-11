@@ -1,33 +1,37 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-311%20Cross%20distro%20BoF.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:43+00:00
+date: 2017-02-28 12:05:43
 excerpt: Regular session taking place at Connect for developers working on Linux distributions
   to share progress on ARM Linux platform support. Users are also welcome to share
   their experiences using Linux distributions on ARM. The goal of the discussion is
   to identify areas in which Linaro can help.
+image:
+  featured: true
+  name: BUD17-311.jpg
+  path: /assets/images/featured-images/BUD17-311.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-311/
+post_format:
+- Video
 session_id: BUD17-311
 session_track: LEG
 slideshare_presentation_url: None
 slug: bud17-311
 speakers: Wookey
+tags:
+- BoF
+- cross-distro
+- LEG
 title: Cross distro BoF - BUD17-311
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4677
 youtube_video_url: https://youtu.be/ZNEXNqJoe1U
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- BoF
-- cross-distro
-- LEG
 ---
 
 "Session ID: BUD17-311

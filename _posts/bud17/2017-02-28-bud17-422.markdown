@@ -1,11 +1,19 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:51+00:00
+date: 2017-02-28 12:05:51
+image:
+  featured: true
+  name: BUD17-422.jpg
+  path: /assets/images/featured-images/BUD17-422.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-422/
+post_format:
+- Video
 session_id: BUD17-422
 session_track: None
 slideshare_presentation_url: None
@@ -17,10 +25,6 @@ video_length: '34:32'
 video_thumbnail: None
 wordpress_id: 4710
 youtube_video_url: https://youtu.be/mWpwAfpEY2o
-categories:
-- bud17
-post_format:
-- Video
 ---
 
 "Session ID: BUD17-422

@@ -1,10 +1,12 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-410.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-410.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:13:45+00:00
-excerpt: 'Kubernetes is a commonly used Container Orchestration Engine today. It is
+date: 2018-04-11 14:13:45
+excerpt: "Kubernetes is a commonly used Container Orchestration Engine today. It is
   an open-source cloud platform for automating deployment, scaling, and operations
   of application containers across clusters of hosts. With Kubernetes, we can setup
   a container cloud platform in a short time. But Kubernetes still lacks some critical
@@ -13,13 +15,19 @@ excerpt: 'Kubernetes is a commonly used Container Orchestration Engine today. It
   several patches into open source community. In this presentation, I will introduce
   and show the jobs that how to improve application performance, and IO throughput
   in Kubernetes. Key features are now available in Kubernetes to bring benefits for
-  high performance cloud platform. Some of these enhanced features: 1, ‘Node feature
-  discovery’ identifies hardware features and advertises them in Kubernetes 2, SRIOV
-  CNI provides DPDK fast path networking for VNF 3, CPU Manger for Kubernetes delivers
-  predictable network performance 4, Huge page management in Kubernetes enables the
-  discovery, scheduling and allocation of huge pages as resource'
+  high performance cloud platform. Some of these enhanced features: 1, \u2018Node
+  feature discovery\u2019 identifies hardware features and advertises them in Kubernetes
+  2, SRIOV CNI provides DPDK fast path networking for VNF 3, CPU Manger for Kubernetes
+  delivers predictable network performance 4, Huge page management in Kubernetes enables
+  the discovery, scheduling and allocation of huge pages as resource"
+image:
+  featured: true
+  name: HKG18-410.png
+  path: /assets/images/featured-images/HKG18-410.png
 layout: post
 link: http://connect.linaro.org/resource/hkg18/hkg18-410/
+post_format:
+- Video
 session_id: HKG18-410
 session_track: Enterprise
 slug: hkg18-410
@@ -29,10 +37,6 @@ video_length: '25:38'
 video_thumbnail: None
 wordpress_id: 9179
 youtube_video_url: https://www.youtube.com/watch?v=sV-jAj9NHzI
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-410
@@ -41,15 +45,15 @@ Speaker: Kaly Xin
 Track: Enterprise
 
 
-★ Session Summary ★
+## Session Summary
 Kubernetes is a commonly used Container Orchestration Engine today. It is an open-source cloud platform for automating deployment, scaling, and operations of application containers across clusters of hosts. With Kubernetes, we can setup a container cloud platform in a short time. But Kubernetes still lacks some critical features that are important for a high performance containerized VNF in a typical NFV environment. To help address it, we put a lot job around this area, also pushed several patches into open source community. In this presentation, I will introduce and show the jobs that how to improve application performance, and IO throughput in Kubernetes. Key features are now available in Kubernetes to bring benefits for high performance cloud platform. Some of these enhanced features: 1, ‘Node feature discovery’ identifies hardware features and advertises them in Kubernetes 2, SRIOV CNI provides DPDK fast path networking for VNF 3, CPU Manger for Kubernetes delivers predictable network performance 4, Huge page management in Kubernetes enables the discovery, scheduling and allocation of huge pages as resource
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-410/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-410.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-410.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -64,8 +68,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Kaly Xin
+**Speakers**: Kaly Xin
 
-Speaker Positions: Principal Software Engineer
-
-
+**Speaker Positions**: Principal Software Engineer

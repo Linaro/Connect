@@ -2,11 +2,19 @@
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
 author: celia.ilardi
+categories:
+- demo-friday
 comments: false
-date: 2017-03-21 16:01:05+00:00
+date: 2017-03-21 16:01:05
 excerpt: Dragonboard 410c/820c
+image:
+  featured: true
+  name: BUD17-DF18.jpg
+  path: /assets/images/featured-images/BUD17-DF18.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df18/
+post_format:
+- Video
 session_id: BUD17-DF18
 session_track: Dragonboard 410c/820c
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/dragonboard-410c820c
@@ -17,10 +25,6 @@ video_length: 04:23
 video_thumbnail: None
 wordpress_id: 5663
 youtube_video_url: https://www.youtube.com/watch?v=0dm3wFOQxdg
-categories:
-- demo-friday
-post_format:
-- Video
 ---
 
 DB820c running linux and open source graphics, DB820c running Android, DB410c running Amazon Alexa

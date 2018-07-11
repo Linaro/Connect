@@ -1,29 +1,33 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-105.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Monday/BKK16-105%20HAL%20Plans.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:34+00:00
+date: 2016-02-22 17:20:34
 excerpt: Discuss the details of proposed lead project 1
+image:
+  featured: true
+  name: BKK16-105.jpg
+  path: /assets/images/featured-images/BKK16-105.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-105/
+post_format:
+- Video
 session_id: BKK16-105
 session_track: LITE
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16105-hals-for-lite
 slug: bkk16-105
 speakers: Matthew Locke
+tags:
+- IoT
+- LITE
 title: 'BKK16-105: Lead Project #1'
 video_length: '34:15'
 video_thumbnail: None
 wordpress_id: 3313
 youtube_video_url: https://www.youtube.com/watch?v=Y-5-A5HpdGo
-categories:
-- bkk16
-post_format:
-- Video
-tags:
-- IoT
-- LITE
 ---
 
 Discuss the details of proposed lead project 1

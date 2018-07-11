@@ -1,35 +1,39 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-13-Friday/HKG15-501.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-13-Friday/160030+HKG+15+501+Toolchain+Performance+analysis+and+Investigations.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:36:20+00:00
+date: 2015-04-23 15:36:20
 excerpt: This session will present a workflow of analyzing application or benchmark
   performance and ways investigate how performance can be increased by improving the
   toolchain. The session will cover use of profiling tools, reading of compiler optimization
   dumps, reducing optimization problems using compiler debug counters, and submitting
   optimization request/bug report to compiler developers
+image:
+  featured: true
+  name: HKG15-501.jpg
+  path: /assets/images/featured-images/HKG15-501.jpg
 layout: post
 link: http://connect.linaro.org/resource/hkg15/hkg15-501-toolchain-performance-analysis-and-investigations/
+post_format:
+- Video
 session_id: HKG15-501
 session_track: Tools
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15501-toolchain-performance-analysis-and-investigations
 slug: hkg15-501-toolchain-performance-analysis-and-investigations
 speakers: Maxim Kuvyrkov
-title: 'HKG15-501: Toolchain Performance Analysis and Investigations'
-video_length: '46:29'
-video_thumbnail: None
-wordpress_id: 762
-youtube_video_url: https://www.youtube.com/watch?v=qTDBHJsWDHw
-categories:
-- hkg15
-post_format:
-- Video
 tags:
 - hkg15
 - HKG15-501
 - Maxim Kuvyrkov
 - Tools
+title: 'HKG15-501: Toolchain Performance Analysis and Investigations'
+video_length: '46:29'
+video_thumbnail: None
+wordpress_id: 762
+youtube_video_url: https://www.youtube.com/watch?v=qTDBHJsWDHw
 ---
 
 HKG15-501: Toolchain Performance Analysis and Investigations 

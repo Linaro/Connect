@@ -2,16 +2,24 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-105%20MINCS.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-105%20MINCS%20-%20The%20Container%20in%20The%20Shell%20Script.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:53:43+00:00
+date: 2017-10-06 16:53:43
 excerpt: MINCS is a small container engine written in shell script. This presentation
   will shows what MINCS provides and how it works, also introduce other features like
   ""ermine"" which is a qemu based cross arch container, ""marten"" for container
   image manager and ""polecat"" which shrinks down the container image for an application.
   It can be useful for testing cross-built rootfs and importing new applications on
   your platform.
+image:
+  featured: true
+  name: SFO17-105.jpg
+  path: /assets/images/featured-images/SFO17-105.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-105/
+post_format:
+- Video
 session_id: SFO17-105
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/mincs-the-container-in-the-shell-script-sfo17105
 slug: sfo17-105
@@ -21,10 +29,6 @@ video_length: '24:25'
 video_thumbnail: None
 wordpress_id: 5924
 youtube_video_url: https://www.youtube.com/watch?v=b9IUaeL39o4
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-105

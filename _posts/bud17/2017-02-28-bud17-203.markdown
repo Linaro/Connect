@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-203%20-%20Universal%20Keyring%20-%20The%20Time%20has%20Come.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Tuesday/BUD17-203%20Universal%20Keyring%20-%20The%20time%20has%20come.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:32+00:00
+date: 2017-02-28 12:05:32
 excerpt: The SKS/KeyGen2 project is about establishing an security architecture, provisioning
   and management scheme for cryptographic keys targeting a wide variety of applications
   including on-line banking, payments, e-government access, and enterprise login.  A
@@ -17,26 +19,28 @@ excerpt: The SKS/KeyGen2 project is about establishing an security architecture,
   and basic key store is already running as an application which is used for testing
   and evaluation. What's missing is the OS/TEE/Browser integration, something which
   requires a set of rather different
+image:
+  featured: true
+  name: BUD17-203.jpg
+  path: /assets/images/featured-images/BUD17-203.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-203/
+post_format:
+- Video
 session_id: BUD17-203
 session_track: Security
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17203-universal-keyring-the-time-has-come
 slug: bud17-203
 speakers: Anders Rundgren
+tags:
+- keyring
+- Security
+- universal-keyring
 title: Universal Keyring - The Time has Come - BUD17-203
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4642
 youtube_video_url: https://youtu.be/PvySBboUwPM
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- keyring
-- Security
-- universal-keyring
 ---
 
 Session ID: BUD17-203

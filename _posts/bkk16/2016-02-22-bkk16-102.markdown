@@ -1,30 +1,34 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-102.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Monday/BKK16-102%20Creating%20new%20workload%20for%20Workload%20Automation%20%26%20using%20WA%20with%20LAVA.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:34+00:00
-excerpt: The session will cover the steps needed to prepare and use new workload for
-  Workload Automation tool. The talk is based on the use case of preparing the ‘applaunch
-  + I/O’ test case for benchmarking I/O schedulers.
+date: 2016-02-22 17:20:34
+excerpt: "The session will cover the steps needed to prepare and use new workload
+  for Workload Automation tool. The talk is based on the use case of preparing the
+  \u2018applaunch + I/O\u2019 test case for benchmarking I/O schedulers."
+image:
+  featured: true
+  name: BKK16-102.jpg
+  path: /assets/images/featured-images/BKK16-102.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-102/
+post_format:
+- Video
 session_id: BKK16-102
 session_track: QA
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16102-creating-new-workload-for-workload-automation-using-wa-with-lava
 slug: bkk16-102
 speakers: Milosz Wasilewski
+tags:
+- LAVA
 title: 'BKK16-102: Creating new workload for Workload Automation & using WA with LAVA'
 video_length: '43:01'
 video_thumbnail: None
 wordpress_id: 3310
 youtube_video_url: https://www.youtube.com/watch?v=lHtZCOWNH68
-categories:
-- bkk16
-post_format:
-- Video
-tags:
-- LAVA
 ---
 
 The session will cover the steps needed to prepare and use new workload for Workload Automation tool. The talk is based on the use case of preparing the ‘applaunch + I/O’ test case for benchmarking I/O schedulers.

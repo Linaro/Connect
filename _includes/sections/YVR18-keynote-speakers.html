@@ -1,7 +1,5 @@
 {% assign connect_code = "YVR18" %}
 
-
-
 <div class="row" id="speakers-row">
     <div class="container no-padding" style="margin-top:30px;">
         <div class="row">
@@ -10,15 +8,14 @@
             </div>
         </div>
         <div class="row">
-            
-            {% for speaker in site.speakers %}
-                {% assign current_keynotes = site.keynotes | where: event_code, connect_code %}
-                {% assign current_keynote = current_keynotes | where: 'speaker', speaker.name %}
-                {{current_keynote}}
+            {% assign current_keynotes = site.keynotes | where: "event_code", connect_code | where: "keynote", "true"%}
+            {% for keynote in current_keynotes %}
+                {% assign speaker_name = keynote.speaker %}
+                {% assign speaker = site.speakers | where: "name", speaker_name %}
                 <div class="col-md-3">
                     <div class="speaker-block">
-                        <div class="img-responsive speaker-image" style="background-image: url({% asset_path '{{speaker.image}}' %});"></div>
-                        <span class="keynote_time">{{current_keynote.day}}: {{current_keynote.start_time}} - {{current_keynote.finish_time}}</span>
+                        <div class="img-responsive speaker-image" style=""></div>
+                        <span class="keynote_time">{{keynote.day}}: {{keynote.start_time}} - {{keynote.finish_time}}</span>
                         <h3 class="speaker-name">
                             {{speaker.name}}
                         </h3>

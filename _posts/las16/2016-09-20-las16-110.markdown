@@ -1,30 +1,34 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Monday/LAS16-110%20Updates%20on%20CI%20v2%20for%20Android%20in%20last%206%20months.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:34+00:00
+date: 2016-09-20 17:10:34
 excerpt: The session would briefly provide updates on migration of builds from android-build
   to ci.linaro.org. The session would also take feedback from the users on what features
   would improve their experience with ci.
+image:
+  featured: true
+  name: LAS16-110.png
+  path: /assets/images/featured-images/LAS16-110.png
 layout: post
 link: http://connect.linaro.org/resource/las16/las16-110/
+post_format:
+- Video
 session_id: LAS16-110
 session_track: Automation & CI
 slideshare_presentation_url: None
 slug: las16-110
 speakers: Vishal Bhoj, Daniel Diaz
+tags:
+- Builds &amp; Baselines
 title: 'LAS16-110: Updates on CI v2 for Android in last 6 months'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3803
 youtube_video_url: https://youtu.be/Qf2BZw_JXqY
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Builds &amp; Baselines
 ---
 
 LAS16-110: Updates on CI v2 for Android in last 6 months

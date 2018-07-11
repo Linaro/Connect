@@ -1,9 +1,17 @@
 ---
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:39+00:00
+date: 2016-02-22 17:20:39
+image:
+  featured: true
+  name: BKK16-204.jpg
+  path: /assets/images/featured-images/BKK16-204.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-204/
+post_format:
+- Video
 session_id: BKK16-204
 session_track: ARM
 slug: bkk16-204
@@ -12,12 +20,6 @@ title: 'BKK16-204: Unified Performance Management'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3326
-categories:
-- bkk16
-post_format:
-- Video
 ---
-
-
 
 Event Date: March 8, 2016

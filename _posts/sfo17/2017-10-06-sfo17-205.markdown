@@ -2,27 +2,31 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-205%20LMG%20Lightning%20Talks.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-205%20LMG%20Lightning%20Talks.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:54:16+00:00
-excerpt: "An update of various LMG activities since last Connect, including:\n - LLCT\
-  \ efforts\n - Arm64 Hibernate backport effort - learnings\n - uBoot upstreaming\
-  \ learnings\n - Zstd compression effort\n - Native aarch64 hosted builds for Android"
+date: 2017-10-06 16:54:16
+excerpt: "An update of various LMG activities since last Connect, including:\n - LLCT
+  efforts\n - Arm64 Hibernate backport effort - learnings\n - uBoot upstreaming learnings\n
+  - Zstd compression effort\n - Native aarch64 hosted builds for Android"
+image:
+  featured: true
+  name: SFO17-205.jpg
+  path: /assets/images/featured-images/SFO17-205.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-205/
+post_format:
+- Video
 session_id: SFO17-205
 session_track: LMG
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/lmg-lightning-talks-sfo17205
 slug: sfo17-205
-speakers: Sam Protsenko - Amit Pundir - Bero Rosenkränzer
+speakers: "Sam Protsenko - Amit Pundir - Bero Rosenkr\xE4nzer"
 title: LMG Lightning Talks - SFO17-205
 video_length: '44:01'
 video_thumbnail: None
 wordpress_id: 5965
 youtube_video_url: https://www.youtube.com/watch?v=Zv7Uo2QXK4E
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-205

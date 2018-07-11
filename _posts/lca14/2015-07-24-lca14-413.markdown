@@ -1,5 +1,5 @@
 ---
-author: kyle.kirkby
+author: connect
 comments: true
 date: 2015-07-24 14:04:50+00:00
 excerpt: Early experience with using ODP and implementing it on a networking SoC

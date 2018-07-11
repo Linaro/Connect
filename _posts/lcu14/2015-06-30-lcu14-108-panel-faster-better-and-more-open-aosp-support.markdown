@@ -1,8 +1,10 @@
 ---
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-15-Monday/LCU14-108-+Panel-+Faster%252C+Better+and+more+Open+AOSP+Support.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:11:18+00:00
+date: 2015-06-30 17:11:18
 excerpt: 'The ARM ecosystem is large and still growing, with Linaro a key focus for
   open source collaboration and the Android Open Source Project one of the most important
   projects we all work with.
@@ -29,21 +31,18 @@ excerpt: 'The ARM ecosystem is large and still growing, with Linaro a key focus 
   What practical steps can the members of the ecosystem take to produce more of the
   right patches, of the right quality and at the right time to improve both Android
   and the products and applications that use it ?'
+image:
+  featured: true
+  name: LCU14-108.jpg
+  path: /assets/images/featured-images/LCU14-108.jpg
 layout: post
 link: http://connect.linaro.org/resource/lcu14/lcu14-108-panel-faster-better-and-more-open-aosp-support/
+post_format:
+- Video
 session_id: LCU14-108
 session_track: Android
 slug: lcu14-108-panel-faster-better-and-more-open-aosp-support
 speakers: Khasim Syed Mohammed, Dave Butcher, John Stultz, Bernhard Rosenkranzer
-title: 'LCU14-108: Panel: Faster, Better and more Open AOSP Support'
-video_length: '46:36'
-video_thumbnail: None
-wordpress_id: 1512
-youtube_video_url: https://www.youtube.com/watch?v=AOmF5JEP0DQ
-categories:
-- lcu14
-post_format:
-- Video
 tags:
 - Android
 - Bernhard Rosenkranzer
@@ -52,6 +51,11 @@ tags:
 - Khasim Syed Mohammed
 - lcu14
 - LCU14-108
+title: 'LCU14-108: Panel: Faster, Better and more Open AOSP Support'
+video_length: '46:36'
+video_thumbnail: None
+wordpress_id: 1512
+youtube_video_url: https://www.youtube.com/watch?v=AOmF5JEP0DQ
 ---
 
 LCU14-108: Panel: Faster, Better and more Open AOSP Support

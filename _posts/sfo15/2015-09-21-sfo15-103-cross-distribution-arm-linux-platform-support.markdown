@@ -3,32 +3,36 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   Cross-Distribution BoF - Riku Voipio.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-21-Monday/SFO15-103
   Cross Distribution BoF.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-21 00:00:00+00:00
+date: 2015-09-21 00:00:00
 excerpt: Regular session taking place at Connect for developers working on Linux Distributions
   to share progress on ARM Linux platform support. Users are also welcome to share
   their experiences using Linux distributions on ARM. The goal of the discussion is
   to identify areas in which Linaro can help.
+image:
+  featured: true
+  name: SFO15-103-Cross-distribution(ARMLinuxplatformsupport).jpg
+  path: /assets/images/featured-images/SFO15-103-Cross-distribution(ARMLinuxplatformsupport).jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-103-cross-distribution-arm-linux-platform-support/
+post_format:
+- Video
 session_id: None
 session_track: Builds and Baselines
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15103-crossdistribution-arm-linux-platform-support-53572524
 slug: sfo15-103-cross-distribution-arm-linux-platform-support
 speakers: Steve Mcintyre, Riku Voipio
+tags:
+- Community
+- Linux
 title: 'SFO15-103: Cross-distribution (ARM Linux platform support)'
 video_length: '41:01'
 video_thumbnail: None
 wordpress_id: 2790
 youtube_video_url: https://www.youtube.com/watch?v=YrwbxeGn-7o
-categories:
-- sfo15
-post_format:
-- Video
-tags:
-- Community
-- Linux
 ---
 
 SFO15-103: Cross-distribution (ARM Linux platform support)

@@ -1,31 +1,35 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-15-Monday/LCU14-111.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-15-Monday/LCU14-111-+ODP+Project+Update.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:11:14+00:00
+date: 2015-06-30 17:11:14
 excerpt: Update on the current status of ODP 1.0
+image:
+  featured: true
+  name: LCU14-111.jpg
+  path: /assets/images/featured-images/LCU14-111.jpg
 layout: post
 link: http://connect.linaro.org/resource/lcu14/lcu14-111-odp-project-update/
+post_format:
+- Video
 session_id: LCU14-111
 session_track: Networking
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-111-odp-project-update
 slug: lcu14-111-odp-project-update
 speakers: Bill Fischofer
-title: 'LCU14-111: ODP Project Update'
-video_length: '32:42'
-video_thumbnail: None
-wordpress_id: 1515
-youtube_video_url: https://www.youtube.com/watch?v=RU02hVQu2vU
-categories:
-- lcu14
-post_format:
-- Video
 tags:
 - Bill Fischofer
 - lcu14
 - LCU14-111
 - Networking
+title: 'LCU14-111: ODP Project Update'
+video_length: '32:42'
+video_thumbnail: None
+wordpress_id: 1515
+youtube_video_url: https://www.youtube.com/watch?v=RU02hVQu2vU
 ---
 
 LCU14-111: ODP Project Update

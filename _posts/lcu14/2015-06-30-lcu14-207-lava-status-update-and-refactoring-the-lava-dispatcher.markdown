@@ -1,32 +1,36 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-16-Tuesday/LCU14-207.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-16-Tuesday/LCU14-207-+LAVA+status+update+and+refactoring+the+lava-dispatcher.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:09:23+00:00
+date: 2015-06-30 17:09:23
 excerpt: The LAVA team will present the current status of the LAVA product and highlight
   the the in-progress dispatcher re-factoring.
+image:
+  featured: true
+  name: LCU14-207.jpg
+  path: /assets/images/featured-images/LCU14-207.jpg
 layout: post
 link: http://connect.linaro.org/resource/lcu14/lcu14-207-lava-status-update-and-refactoring-the-lava-dispatcher/
+post_format:
+- Video
 session_id: LCU14-207
 session_track: LAVA
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-207-refactoring-the-lavadispatcher
 slug: lcu14-207-lava-status-update-and-refactoring-the-lava-dispatcher
 speakers: None
-title: 'LCU14-207: LAVA status update and refactoring the lava-dispatcher'
-video_length: '42:46'
-video_thumbnail: None
-wordpress_id: 1526
-youtube_video_url: https://www.youtube.com/watch?v=dYKxmSz4-Bo
-categories:
-- lcu14
-post_format:
-- Video
 tags:
 - LAVA
 - LCU14-207
 - Milo Casagrande
 - Tyler Baker
+title: 'LCU14-207: LAVA status update and refactoring the lava-dispatcher'
+video_length: '42:46'
+video_thumbnail: None
+wordpress_id: 1526
+youtube_video_url: https://www.youtube.com/watch?v=dYKxmSz4-Bo
 ---
 
 LCU14-207: LAVA status update and refactoring the lava-dispatcher

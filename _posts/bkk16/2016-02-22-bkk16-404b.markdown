@@ -1,27 +1,31 @@
 ---
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:51+00:00
+date: 2016-02-22 17:20:51
 excerpt: This talk will highlight some of Machine learning features in Apache Spark
   ML and how it can be leveraged to do data mining and Predictive Analytics
+image:
+  featured: true
+  name: BKK16-404B.jpg
+  path: /assets/images/featured-images/BKK16-404B.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-404b/
+post_format:
+- Video
 session_id: BKK16-404B
 session_track: LEG
 slug: bkk16-404b
 speakers: Ganesh Raju
-title: 'BKK16-404B: Data Science with ODPi'
-video_length: 00:00
-video_thumbnail: None
-wordpress_id: 3369
-categories:
-- bkk16
-post_format:
-- Video
 tags:
 - Apache
 - ML
 - Spark
+title: 'BKK16-404B: Data Science with ODPi'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3369
 ---
 
 This talk will highlight some of Machine learning features in Apache Spark ML and how it can be leveraged to do data mining and Predictive Analytics

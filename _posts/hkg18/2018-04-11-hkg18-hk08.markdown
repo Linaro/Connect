@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-hk08.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-hk08.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:15:50+00:00
+date: 2018-04-11 14:15:50
 excerpt: '- The state of the current patches?
 
   - Missing features in mbed TLS?
@@ -11,8 +13,14 @@ excerpt: '- The state of the current patches?
   - Performance comparison, LibTomCrypt vs mbed TLS?
 
   - Should multiple crypto libraries co-exist in OP-TEE?'
+image:
+  featured: true
+  name: HKG18-HK08.png
+  path: /assets/images/featured-images/HKG18-HK08.png
 layout: post
 link: http://connect.linaro.org/resource/hkg18/hkg18-hk08/
+post_format:
+- Video
 session_id: HKG18-HK08
 session_track: Security
 slug: hkg18-hk08
@@ -21,10 +29,6 @@ title: 'HKG18-HK08 - SWG Hacking: mbed TLS in OP-TEE'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 8860
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-HK08
@@ -33,19 +37,19 @@ Speaker: David Wang,Ken Liu
 Track: Security
 
 
-★ Session Summary ★
+## Session Summary
 - The state of the current patches?
 - Missing features in mbed TLS?
 - Performance comparison, LibTomCrypt vs mbed TLS?
 - Should multiple crypto libraries co-exist in OP-TEE?
 
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-hk08/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-hk08.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-hk08.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -60,8 +64,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: David Wang,Ken Liu
+**Speakers**: David Wang,Ken Liu
 
-Speaker Positions: Staff Engineer, TL,Staff Software Engineer
-
-
+**Speaker Positions**: Staff Engineer, TL,Staff Software Engineer

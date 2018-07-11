@@ -1,30 +1,34 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:47+00:00
+date: 2017-02-28 12:05:47
 excerpt: A session in which we will specifically discuss the next steps and group
   interactions required in order to deliver a working (OP)NFV solution in 2017.
+image:
+  featured: true
+  name: BUD17-401.jpg
+  path: /assets/images/featured-images/BUD17-401.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-401/
+post_format:
+- Video
 session_id: BUD17-401
 session_track: LEG
 slideshare_presentation_url: None
 slug: bud17-401
 speakers: Jon Masters
+tags:
+- LEG
+- OPNFV
 title: 'OPNFV: Next steps for enablement - BUD17-401'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4692
 youtube_video_url: https://youtu.be/W_9MYw8bf5Q
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- LEG
-- OPNFV
 ---
 
 "Session ID: BUD17-401

@@ -1,34 +1,38 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:53+00:00
+date: 2017-02-28 12:05:53
 excerpt: (Mandarin) This session is a short introductory course on Linux kernel debugging.
   The course is will examine a number of different debugging challenges and discuss
   the techniques and tools that can be employed to overcome them. By focusing on stories
   rather than the minute details of each tool we can cover a lot of topics in a short
   space of time, providing a springboard for further independent study by trainees.
+image:
+  featured: true
+  name: BUD17-TR07.jpg
+  path: /assets/images/featured-images/BUD17-TR07.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-tr07/
+post_format:
+- Video
 session_id: BUD17-TR07
 session_track: None
 slideshare_presentation_url: None
 slug: bud17-tr07
 speakers: None
+tags:
+- debug
+- Kernel
+- mandarin
 title: Kernel Debug Stories (in Mandarin) - BUD17-TR07
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4714
 youtube_video_url: https://youtu.be/a0aeQQPjoJc
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- debug
-- Kernel
-- mandarin
 ---
 
 "Session ID: BUD17-TR07

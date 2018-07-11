@@ -1,27 +1,31 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-207.pdf
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:39+00:00
+date: 2016-02-22 17:20:39
 excerpt: Submitting jobs to LAVA with VLAN support
+image:
+  featured: true
+  name: BKK16-207.jpg
+  path: /assets/images/featured-images/BKK16-207.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-207/
+post_format:
+- Video
 session_id: BKK16-207
 session_track: LAVA
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16207-vland-in-lava
 slug: bkk16-207
 speakers: "Neil Williams \nSteve McIntyre"
+tags:
+- LAVA
+- VLAND
 title: 'BKK16-207: VLANd in LAVA'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3329
-categories:
-- bkk16
-post_format:
-- Video
-tags:
-- LAVA
-- VLAND
 ---
 
 Submitting jobs to LAVA with VLAN support

@@ -2,18 +2,25 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-207%20Understanding%20RT%20linux.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-207%20Understanding%20Real%20Time%20kernel.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:54:22+00:00
-excerpt: "Real Time kernel is out of linux kernel upstream for long time. It keep\
-  \ contributing much of key features into upstream, like high resolution timer, lockdep,\
-  \ thread irq, PI, ftrace, etc. The Linux foundation setup a group to merge it all\
-  \ into upstream.\n \n This session is going to review RT requirements, the block\
-  \ issue in upstream kernel, and the solution to fix them in RT. We also go through\
-  \ the current out of upstream RT code. Introduce the base stone of RT features:\
-  \ sleeping spin_lock. This session also covers the basic criteria of RT, the general\
-  \ testing tools."
+date: 2017-10-06 16:54:22
+excerpt: "Real Time kernel is out of linux kernel upstream for long time. It keep
+  contributing much of key features into upstream, like high resolution timer, lockdep,
+  thread irq, PI, ftrace, etc. The Linux foundation setup a group to merge it all
+  into upstream.\n \n This session is going to review RT requirements, the block issue
+  in upstream kernel, and the solution to fix them in RT. We also go through the current
+  out of upstream RT code. Introduce the base stone of RT features: sleeping spin_lock.
+  This session also covers the basic criteria of RT, the general testing tools."
+image:
+  featured: true
+  name: SFO17-207.jpg
+  path: /assets/images/featured-images/SFO17-207.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-207/
+post_format:
+- Video
 session_id: SFO17-207
 session_track: Kernel
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/understanding-real-time-kernel-sfo17207
@@ -24,10 +31,6 @@ video_length: '35:50'
 video_thumbnail: None
 wordpress_id: 5969
 youtube_video_url: https://www.youtube.com/watch?v=-6yGeFKUo6I
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-207

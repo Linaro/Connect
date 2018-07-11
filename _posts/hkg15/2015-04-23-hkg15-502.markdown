@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-13-Friday/HKG15-502.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-13-Friday/170106+HKG15+502+ARM+Trusted+Firmware+Evolution.mp4
-author: kyle.kirkby
+author: connect
 comments: true
 date: 2015-04-23 15:36:23+00:00
 excerpt: This session will cover Comcast's experience of migrating RDK to the OpenEmbedded

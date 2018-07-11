@@ -2,27 +2,34 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-415%20Update%20Remotely%20with%20Hawkbit.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-415%20-%20Update%20Remotely%20IoT%20Devices%20using%20Eclipse%20Hawkbit%20and%20SWUpdate.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:56:02+00:00
-excerpt: "Updating remotely an IoT device condenses solid knowledge of server-side\
-  \ applications, DevOps and expertise with different embedded operating systems:\
-  \ it requires knowledge of a full IoT pipeline from embedded devices to back end\
-  \ applications.\n This session is a hands-on journey on the entire remote update\
-  \ pipeline. The session will cover an embedded OS updates, JVMs and single applications\
-  \ updates, managed by an open source web tool, Eclipse Hawkbit.\n The Eclipse Hawkbit\
-  \ project includes functionality for triggering groups of devices to perform an\
-  \ update, accompanied by an image repository and basic reporting and monitoring\
-  \ capabilities.\n In particular: uploading an artifact to the repository, assigning\
-  \ it to eligible devices, managing the roll out campaign for a large number of devices,\
-  \ monitoring and reporting the progress of the roll-out and requirements regarding\
-  \ security and reliability are essential features of the process and the IoT Platform.\n\
-  \ On the device side, the update process is managed by SWUpdate, a Linux Update\
-  \ agent used to provide an efficient and safe way to update an embedded system.\
-  \ The session will explore the single image mode update developed by Kynetics as\
-  \ a robust and efficient strategy to update safely embedded devices integrated with\
-  \ Eclipse Hawkbit"
+date: 2017-10-06 16:56:02
+excerpt: "Updating remotely an IoT device condenses solid knowledge of server-side
+  applications, DevOps and expertise with different embedded operating systems: it
+  requires knowledge of a full IoT pipeline from embedded devices to back end applications.\n
+  This session is a hands-on journey on the entire remote update pipeline. The session
+  will cover an embedded OS updates, JVMs and single applications updates, managed
+  by an open source web tool, Eclipse Hawkbit.\n The Eclipse Hawkbit project includes
+  functionality for triggering groups of devices to perform an update, accompanied
+  by an image repository and basic reporting and monitoring capabilities.\n In particular:
+  uploading an artifact to the repository, assigning it to eligible devices, managing
+  the roll out campaign for a large number of devices, monitoring and reporting the
+  progress of the roll-out and requirements regarding security and reliability are
+  essential features of the process and the IoT Platform.\n On the device side, the
+  update process is managed by SWUpdate, a Linux Update agent used to provide an efficient
+  and safe way to update an embedded system. The session will explore the single image
+  mode update developed by Kynetics as a robust and efficient strategy to update safely
+  embedded devices integrated with Eclipse Hawkbit"
+image:
+  featured: true
+  name: SFO17-415.jpg
+  path: /assets/images/featured-images/SFO17-415.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-415/
+post_format:
+- Video
 session_id: SFO17-415
 session_track: LITE
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/update-remotely-iot-devices-using-eclipse-hawkbit-and-swupdate-sfo17415
@@ -33,10 +40,6 @@ video_length: 01:12:13
 video_thumbnail: None
 wordpress_id: 6069
 youtube_video_url: https://www.youtube.com/watch?v=9KdFclX_vJM
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-415

@@ -2,8 +2,10 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-410%20NEVE%20Nested%20Virtualization%20Extentions%20for%20ARM.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-410%20-%20KVM-ARM%20Nested%20Virtualization%20Support%20and%20Performance.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:55:58+00:00
+date: 2017-10-06 16:55:58
 excerpt: Nested virtualization is increasingly important because of the need to deploy
   virtual machines running software stacks on top of virtualized cloud infrastructure,
   as well as for prototyping and testing. ARM recently introduced nested virtualization
@@ -15,8 +17,14 @@ excerpt: Nested virtualization is increasingly important because of the need to 
   evaluate the implementation on current ARMv8 hardware without hardware support for
   nested virtualization. We will present performance results and discuss future techniques
   to improve performance.
+image:
+  featured: true
+  name: SFO17-410.jpg
+  path: /assets/images/featured-images/SFO17-410.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-410/
+post_format:
+- Video
 session_id: SFO17-410
 session_track: Virtualization
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/kvmarm-nested-virtualization-support-and-performance-sfo17410
@@ -27,10 +35,6 @@ video_length: '26:21'
 video_thumbnail: None
 wordpress_id: 6061
 youtube_video_url: https://www.youtube.com/watch?v=lvxu8tMztbA
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-410

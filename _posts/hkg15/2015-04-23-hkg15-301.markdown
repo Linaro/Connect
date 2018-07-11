@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-11-Wednesday/HKG15-301.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-11-Wednesday/HKG15-301+OVS+implemented+via+ODP+%26+vendor+SDKs.mp4
-author: kyle.kirkby
+author: connect
 comments: true
 date: 2015-04-23 15:36:47+00:00
 excerpt: Comparison of OVS implemented via ODP & vendor SDKs. Contrasting ODP linux-generic

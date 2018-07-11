@@ -1,13 +1,21 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-219.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-219.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:12:48+00:00
+date: 2018-04-11 14:12:48
 excerpt: Security is important for IoT. This presentation will cover security threat
   modeling LITE has been doing.
+image:
+  featured: true
+  name: HKG18-219.png
+  path: /assets/images/featured-images/HKG18-219.png
 layout: post
 link: http://connect.linaro.org/resource/hkg18/hkg18-219/
+post_format:
+- Video
 session_id: HKG18-219
 session_track: Iot, Security
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18219-threat-modeling-for-iot
@@ -18,10 +26,6 @@ video_length: '26:14'
 video_thumbnail: None
 wordpress_id: 8760
 youtube_video_url: https://www.youtube.com/watch?v=NAVYn2G3bRY
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-219
@@ -30,15 +34,15 @@ Speaker: David Brown
 Track: Iot, Security
 
 
-★ Session Summary ★
+## Session Summary
 Security is important for IoT. This presentation will cover security threat modeling LITE has been doing.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-219/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-219.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-219.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -53,8 +57,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: David Brown
+**Speakers**: David Brown
 
-Speaker Positions: Senior Engineer
-
-
+**Speaker Positions**: Senior Engineer

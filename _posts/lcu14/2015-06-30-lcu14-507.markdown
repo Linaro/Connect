@@ -1,5 +1,5 @@
 ---
-author: kyle.kirkby
+author: connect
 comments: true
 date: 2015-06-30 17:07:38+00:00
 layout: post

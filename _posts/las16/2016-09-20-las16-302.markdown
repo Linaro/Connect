@@ -1,33 +1,37 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-302-%20LHG%20Reference%20Security%20Solutions.pdf
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:48+00:00
+date: 2016-09-20 17:10:48
 excerpt: This presentation will give an overview of the suite of reference security
   solutions developed by LHG. The solutions all have OPTEE as the secure OS running
   on ARM TrustZone integrated with DRMs such as Microsoft PlayReady and Google Widevine
   on both Linux and Android platforms. The secure video path implementation strives
   to use common elements across Linux and Android based solutions.
+image:
+  featured: true
+  name: LAS16-302.png
+  path: /assets/images/featured-images/LAS16-302.png
 layout: post
 link: http://connect.linaro.org/resource/las16/las16-302/
+post_format:
+- Video
 session_id: LAS16-302
 session_track: LHG
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16302-lhg-reference-security-solutions
 slug: las16-302
 speakers: Zoltan Kuscsik
+tags:
+- Home
+- Security
 title: 'LAS16-302: LHG Reference Security Solutions'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3826
 youtube_video_url: None
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Home
-- Security
 ---
 
 LAS16-302: LHG Reference Security Solutions

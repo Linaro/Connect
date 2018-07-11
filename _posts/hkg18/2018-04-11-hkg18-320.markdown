@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-320.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-320.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:13:45+00:00
+date: 2018-04-11 14:13:45
 excerpt: Nowadays people connect into Internet by multiple kinds of devices. To identify
   and authenticate users correctly and easily is the fundamental capability of Internet
   service provider. Password is no longer the must-have way. Biometric authentications
@@ -14,8 +16,14 @@ excerpt: Nowadays people connect into Internet by multiple kinds of devices. To 
   has been widely supported in all kinds of devices sold in China market. Take Alipay
   as an example, more than 170M users are using fingerprint to pay their orders, almost
   35% of Alipay trades are now supported by IFAA standard.
+image:
+  featured: true
+  name: HKG18-320.jpg
+  path: /assets/images/featured-images/HKG18-320.jpg
 layout: post
 link: http://connect.linaro.org/resource/hkg18/hkg18-320/
+post_format:
+- Video
 session_id: HKG18-320
 session_track: Ecosystem Day
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18320-the-practical-application-of-ifaa-standard
@@ -26,10 +34,6 @@ video_length: '26:19'
 video_thumbnail: None
 wordpress_id: 9174
 youtube_video_url: https://www.youtube.com/watch?v=372Z5rn3aWo
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-320
@@ -38,15 +42,15 @@ Speaker: Not Available
 Track: Ecosystem Day
 
 
-★ Session Summary ★
+## Session Summary
 Nowadays people connect into Internet by multiple kinds of devices. To identify and authenticate users correctly and easily is the fundamental capability of Internet service provider. Password is no longer the must-have way. Biometric authentications like fingerprint are much easier and enough secure. IFAA (Internet Finance Authentication Alliance ) is an alliance funded by Alibaba, Ant Financial, CAICT, Huawei, SAMSUNG, and ZTE. Now it has more than 150 members including ARM, Qualcomm, MTK, Vivo, Oppo, Spreadtrum, Xiaomi and so on. The IFAA standard based fingerprint authentication has been widely supported in all kinds of devices sold in China market. Take Alipay as an example, more than 170M users are using fingerprint to pay their orders, almost 35% of Alipay trades are now supported by IFAA standard.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-320/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-320.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-320.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -61,8 +65,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Not Available
+**Speakers**: Not Available
 
-Speaker Positions: Not Found
-
-
+**Speaker Positions**: Not Found

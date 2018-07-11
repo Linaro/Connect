@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-213%20libvirt%20integration%20and%20testing%20for%20enterprise%20KVM%252FARM.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Tuesday/BUD17-213%20libvert%20integration%20and%20testing%20for%20enterprise%20KVM%20%20ARM.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:35+00:00
+date: 2017-02-28 12:05:35
 excerpt: This technical discussion will highlight on-going Red Hat activities for
   the integration of an Enterprise Virtualization stack and present a vision of an
   enterprise guest.   The status of features such as live migration, device assignment,
@@ -14,27 +16,29 @@ excerpt: This technical discussion will highlight on-going Red Hat activities fo
   gaps with x86 wil also be highlighted. Finally, the status of the verification efforts,
   specifically those involving the Avocado and kvm-unit-tests frameworks, will be
   presented.
+image:
+  featured: true
+  name: BUD17-213.jpg
+  path: /assets/images/featured-images/BUD17-213.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-213/
+post_format:
+- Video
 session_id: BUD17-213
 session_track: LEG
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/libvirt-integration-and-testing-for-enterprise-kvmarm-bud17213
 slug: bud17-213
 speakers: Drew Jones, Eric Auger
-title: libvirt integration and testing for enterprise KVM/ARM - BUD17-213
-video_length: 00:00
-video_thumbnail: None
-wordpress_id: 4651
-youtube_video_url: https://youtu.be/HJA1h5hgPFU
-categories:
-- bud17
-post_format:
-- Video
 tags:
 - ARM
 - KVM
 - LEG
 - Testing
+title: libvirt integration and testing for enterprise KVM/ARM - BUD17-213
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4651
+youtube_video_url: https://youtu.be/HJA1h5hgPFU
 ---
 
 Session ID: BUD17-213

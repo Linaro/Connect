@@ -1,9 +1,15 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- Blog
 comments: false
-date: 2017-07-31 13:59:32+00:00
+date: 2017-07-31 13:59:32
+image:
+  featured: true
+  name: OutlineSchedule-LinaroConnectSFO17.jpg
+  path: /assets/images/featured-images/OutlineSchedule-LinaroConnectSFO17.jpg
 layout: post
 link: http://connect.linaro.org/blog/sfo17-outline-schedule/
 session_id: None
@@ -16,8 +22,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5837
 youtube_video_url: None
-categories:
-- Blog
 ---
 
 [vc_row][vc_column width="2/3"][vc_column_text]Linaro Connect begins on Monday September 25th and finishes on Friday September 29th. Monday through Thursday we will kick off the day with opening remarks followed by a keynote, sessions and BoFs (Birds of Feather), lunch for all attendees, followed by more sessions, BoFs and team engineering/meetings in the afternoon. On Friday we will hold a panel instead of a keynote, followed by sessions and then our usual Demo Friday showcase will begin at noon.

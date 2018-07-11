@@ -1,17 +1,25 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-317.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Wednesday/BKK16-317%20How%20to%20generate%20power%20models%20for%20EAS%20and%20IPA%20%28without%20talking%20to%20a%20hardware%20engineer%29.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:49+00:00
+date: 2016-02-22 17:20:49
 excerpt: Generating a specific power model for the platform is a pre-requirement for
   delpoying EAS and IPA. This makes understanding power models and how to generate
   parameters for them a useful skill. In this session we demonstrate how to use workload
   automation to gather power data from a board. We will then describe how to derive
   rough values for the EAS and IPA power models using nothing but this easily observable
   data. We will not rely on any information provided by OEM or SoC vendor.
+image:
+  featured: true
+  name: BKK16-317.jpg
+  path: /assets/images/featured-images/BKK16-317.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-317/
+post_format:
+- Video
 session_id: BKK16-317
 session_track: 'Field Engineering /
 
@@ -19,19 +27,15 @@ session_track: 'Field Engineering /
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16317-how-to-generate-power-models-for-eas-and-ipa
 slug: bkk16-317
 speakers: Leo Yan
+tags:
+- EAS
+- IPA
 title: 'BKK16-317: How to generate power models for EAS and IPA (without talking to
   a hardware engineer)'
 video_length: 01:03:59
 video_thumbnail: None
 wordpress_id: 3360
 youtube_video_url: https://www.youtube.com/watch?v=JSs2u9oqOtM
-categories:
-- bkk16
-post_format:
-- Video
-tags:
-- EAS
-- IPA
 ---
 
 Generating a specific power model for the platform is a pre-requirement for delpoying EAS and IPA. This makes understanding power models and how to generate parameters for them a useful skill. In this session we demonstrate how to use workload automation to gather power data from a board. We will then describe how to derive rough values for the EAS and IPA power models using nothing but this easily observable data. We will not rely on any information provided by OEM or SoC vendor.

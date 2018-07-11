@@ -1,9 +1,17 @@
 ---
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-09-29 19:03:52+00:00
+date: 2017-09-29 19:03:52
+image:
+  featured: true
+  name: SFO17-462.png
+  path: /assets/images/featured-images/SFO17-462.png
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-462/
+post_format:
+- Video
 session_id: SFO17-462
 session_track: LEG
 slug: sfo17-462
@@ -11,10 +19,6 @@ title: TBD - SFO17-462
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 6864
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-462
@@ -52,4 +56,4 @@ Event Date: 29 Sept 2017
 
 Speakers: 
 
-Position: 
+Position:

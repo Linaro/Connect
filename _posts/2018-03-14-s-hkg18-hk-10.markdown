@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/s     hkg18-hk-10.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/s     hkg18-hk-10.mp4
-author: kyle.kirkby
+author: connect
 comments: false
 date: 2018-03-14 13:12:30+00:00
 excerpt: '- What are the missing pieces?

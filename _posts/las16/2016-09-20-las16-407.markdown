@@ -1,33 +1,37 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Thursday/LAS16-407%20Internet%20of%20Tiny%20Linux%20%28IoTL%29_%20the%20sequel.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Thursday/LAS16-407%20Internet%20of%20Tiny%20Linux%20%28IoTL%29%20%20the%20sequel.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:58+00:00
+date: 2016-09-20 17:10:58
 excerpt: This is a discussion on various methods put forward to reduce the size of
   Linux kernel and user space binaries to make them suitable for small IoT applications,
   ranging from low hanging fruits to more daring approaches. Results from on-going
   work will also be presented.
+image:
+  featured: true
+  name: LAS16-407.png
+  path: /assets/images/featured-images/LAS16-407.png
 layout: post
 link: http://connect.linaro.org/resource/las16/las16-407/
+post_format:
+- Video
 session_id: LAS16-407
 session_track: LITE
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16407-internet-of-tiny-linux-iotl-the-sequel
 slug: las16-407
 speakers: Nicolas Pitre
+tags:
+- IoT
+- Kernel
+- LITE
 title: 'LAS16-407: Internet of Tiny Linux (IoTL): the sequel.'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3848
 youtube_video_url: https://youtu.be/vGH0K0CiUlI
-categories:
-- las16
-post_format:
-- Video
-tags:
-- IoT
-- Kernel
-- LITE
 ---
 
 LAS16-407: Internet of Tiny Linux (IoTL): the sequel.

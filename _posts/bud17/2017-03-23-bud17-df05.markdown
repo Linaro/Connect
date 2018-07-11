@@ -1,15 +1,23 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- demo-friday
 comments: false
-date: 2017-03-23 16:46:53+00:00
-excerpt: "\"The demo is one of the cases to use DPDK as network accelerator.\nNginx\
-  \ http server is ported to run on top of a high-performance mTCP stack. \nThe whole\
-  \ system can be run in physical machine or VM as VNF with virtual switch interconnected.\
-  \ \""
+date: 2017-03-23 16:46:53
+excerpt: "\"The demo is one of the cases to use DPDK as network accelerator.\nNginx
+  http server is ported to run on top of a high-performance mTCP stack. \nThe whole
+  system can be run in physical machine or VM as VNF with virtual switch interconnected.
+  \""
+image:
+  featured: true
+  name: BUD17-DF05.jpg
+  path: /assets/images/featured-images/BUD17-DF05.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df05/
+post_format:
+- Video
 session_id: BUD17-DF05
 session_track: None
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/http-server-on-userlevel-mtcp-stack-accelerated-by-dpdk
@@ -20,10 +28,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5708
 youtube_video_url: None
-categories:
-- demo-friday
-post_format:
-- Video
 ---
 
 "The demo is one of the cases to use DPDK as network accelerator.

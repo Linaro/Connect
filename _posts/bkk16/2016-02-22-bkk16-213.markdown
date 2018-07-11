@@ -1,8 +1,10 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-213.pdf
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:42+00:00
+date: 2016-02-22 17:20:42
 excerpt: Linaro has multiple labs and board farms with varying purposes. This session
   will start with an overview of each of these, their locations, their focus, etc.
   It will then provide examples and direction on how a Member can add their hardware
@@ -11,8 +13,14 @@ excerpt: Linaro has multiple labs and board farms with varying purposes. This se
   upon which lab/board farm is being considered, so all will be reviewed) in each
   of the farm locations. Finally, the session will provide pointers to any respective
   documentation, user guides, etc. for each of the locations.
+image:
+  featured: true
+  name: BKK16-213.jpg
+  path: /assets/images/featured-images/BKK16-213.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-213/
+post_format:
+- Video
 session_id: BKK16-213
 session_track: 'Field Engineering /
 
@@ -25,10 +33,6 @@ title: 'BKK16-213: Where''s my hardware?  A guide to target platforms available 
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3335
-categories:
-- bkk16
-post_format:
-- Video
 ---
 
 Linaro has multiple labs and board farms with varying purposes. This session will start with an overview of each of these, their locations, their focus, etc. It will then provide examples and direction on how a Member can add their hardware to a board farm. It will also provide an overview of how a Member or employee can navigate/leverage/check out a board for experimentation and usage (this varies based upon which lab/board farm is being considered, so all will be reviewed) in each of the farm locations. Finally, the session will provide pointers to any respective documentation, user guides, etc. for each of the locations.

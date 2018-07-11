@@ -1,35 +1,39 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-414%20AOSP%20BoF.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:50+00:00
-excerpt: "By definition, ‘unplanned’ session for people to come and discuss anything\
-  \ around AOSP - including AOSP for members, AOSP for non-Android Linux devs, OPTEE/Security,\
-  \ AOSP TV, to name a few. An initial list of topics for discussion could include:\n\
-  \n - An Intro: Uses of AOSP codebase at Linaro and members\n \n - AOSP for Linux\
-  \ developers (an intro to the AOSP codebase for regular Linux guys?\n \n - OP-TEE/Security\n\
-  \ \n - AOSP TV\n \n - Perhaps Completely open graphics stack"
+date: 2017-02-28 12:05:50
+excerpt: "By definition, \u2018unplanned\u2019 session for people to come and discuss
+  anything around AOSP - including AOSP for members, AOSP for non-Android Linux devs,
+  OPTEE/Security, AOSP TV, to name a few. An initial list of topics for discussion
+  could include:\n\n - An Intro: Uses of AOSP codebase at Linaro and members\n \n
+  - AOSP for Linux developers (an intro to the AOSP codebase for regular Linux guys?\n
+  \n - OP-TEE/Security\n \n - AOSP TV\n \n - Perhaps Completely open graphics stack"
+image:
+  featured: true
+  name: BUD17-414.jpg
+  path: /assets/images/featured-images/BUD17-414.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-414/
+post_format:
+- Video
 session_id: BUD17-414
 session_track: LITE
 slideshare_presentation_url: None
 slug: bud17-414
 speakers: Sudip Jain
+tags:
+- AOSP
+- BoF
+- LMG
 title: AOSP BoF - BUD17-414
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4705
 youtube_video_url: https://youtu.be/0ycqD9eGyBw
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- AOSP
-- BoF
-- LMG
 ---
 
 "Session ID: BUD17-414

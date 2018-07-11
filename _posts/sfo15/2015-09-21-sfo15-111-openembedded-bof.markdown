@@ -3,31 +3,35 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   OpenEmbedded BoF - Koen Kooi.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-21-Monday/SFO15-111  OpenEmbedded
   BoF.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-21 00:00:00+00:00
+date: 2015-09-21 00:00:00
 excerpt: Linaro is using OpenEmbedded as part of its engineering builds. We propose
   to discuss how Linaro is using OpenEmbedded for its use cases and how we can improve
   our contribution to YOCTO project. The goal of the discussion is to identify areas
   in which Linaro can help.
+image:
+  featured: true
+  name: SFO15-111-OpenEmbeddedBoF.jpg
+  path: /assets/images/featured-images/SFO15-111-OpenEmbeddedBoF.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-111-openembedded-bof/
+post_format:
+- Video
 session_id: None
 session_track: Community
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15111-openembedded-bof
 slug: sfo15-111-openembedded-bof
+tags:
+- Embedded
+- Linux
 title: 'SFO15-111: OpenEmbedded BoF'
 video_length: '51:35'
 video_thumbnail: None
 wordpress_id: 2806
 youtube_video_url: https://www.youtube.com/watch?v=NozG9R4dpkI
-categories:
-- sfo15
-post_format:
-- Video
-tags:
-- Embedded
-- Linux
 ---
 
 SFO15-111: OpenEmbedded BoF

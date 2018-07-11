@@ -2,11 +2,19 @@
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
 author: celia.ilardi
+categories:
+- demo-friday
 comments: false
-date: 2017-03-21 15:16:42+00:00
+date: 2017-03-21 15:16:42
 excerpt: Apache Ambari and Big data components on AARCH64
+image:
+  featured: true
+  name: BUD17-DF06.jpg
+  path: /assets/images/featured-images/BUD17-DF06.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df06/
+post_format:
+- Video
 session_id: BUD17-DF06
 session_track: Apache Ambari and Big data components on AARCH64
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/apache-ambari-and-big-data-components-on-aarch64
@@ -17,10 +25,6 @@ video_length: 08:41
 video_thumbnail: None
 wordpress_id: 5641
 youtube_video_url: https://www.youtube.com/watch?v=64l5CM9AJi4
-categories:
-- demo-friday
-post_format:
-- Video
 ---
 
 Showcase Apache Ambari works on AARCH64

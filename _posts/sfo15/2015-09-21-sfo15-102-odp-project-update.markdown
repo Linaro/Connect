@@ -3,31 +3,35 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   ODP Project Update.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-21-Monday/SFO15-102
   ODP Project Update.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-21 00:00:00+00:00
+date: 2015-09-21 00:00:00
 excerpt: The OpenDataPlane project is now two years old and is beginning to see widespread
   interest on the part of both application writers and platform providers. This talk
   will discuss recent developments in ODP and its uses and look at what lies ahead
   for this fast-growing open source project.
+image:
+  featured: true
+  name: SFO15102-ODPProjectUpdate.jpg
+  path: /assets/images/featured-images/SFO15102-ODPProjectUpdate.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-102-odp-project-update/
+post_format:
+- Video
 session_id: None
 session_track: Networking
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15102odp-project-update
 slug: sfo15-102-odp-project-update
 speakers: Bill Fischofer
+tags:
+- Networking
 title: 'SFO15 102: ODP Project Update'
 video_length: '48:44'
 video_thumbnail: None
 wordpress_id: 2788
 youtube_video_url: https://www.youtube.com/watch?v=QxK3waNaVEQ
-categories:
-- sfo15
-post_format:
-- Video
-tags:
-- Networking
 ---
 
 SFO15-102:ODP Project Update

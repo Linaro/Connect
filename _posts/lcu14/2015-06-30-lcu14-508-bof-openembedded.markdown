@@ -1,8 +1,10 @@
 ---
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-19-Friday/LCU14-508+BOF-+OpenEmbedded.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:07:38+00:00
+date: 2015-06-30 17:07:38
 excerpt: 'This informal BoF session will be held in an ad hoc manner and is open to
   any discussion related to The Yocto Project or OpenEmbedded and their use within
   Linaro. Possible discussion topics may include the following:
@@ -21,19 +23,16 @@ excerpt: 'This informal BoF session will be held in an ad hoc manner and is open
   5. What features would be interesting from Linaro perspective
 
   6. How Linaro can make help to improve OpenEmbedded'
+image:
+  featured: true
+  name: LCU14-508.jpg
+  path: /assets/images/featured-images/LCU14-508.jpg
 layout: post
 link: http://connect.linaro.org/resource/lcu14/lcu14-508-bof-openembedded/
 session_id: LCU14-508
 session_track: BoF
 slug: lcu14-508-bof-openembedded
 speakers: "Koen Kooi, \nKhem Raj, \nTrevor Woerner"
-title: 'LCU14-508 BOF: OpenEmbedded'
-video_length: '46:11'
-video_thumbnail: None
-wordpress_id: 1569
-youtube_video_url: https://www.youtube.com/watch?v=vrLrIGkyAEk
-categories:
-- lcu14
 tags:
 - BoF
 - Khem Raj
@@ -41,6 +40,11 @@ tags:
 - lcu14
 - LCU14-508
 - Trevor Woerner
+title: 'LCU14-508 BOF: OpenEmbedded'
+video_length: '46:11'
+video_thumbnail: None
+wordpress_id: 1569
+youtube_video_url: https://www.youtube.com/watch?v=vrLrIGkyAEk
 ---
 
 LCU14-508 BOF: OpenEmbedded

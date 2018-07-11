@@ -1,15 +1,23 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-106.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-106.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:11:12+00:00
+date: 2018-04-11 14:11:12
 excerpt: Tiger Moth is the latest Long Term Support release of OpenDataPlane (ODP).
   Included in this release are significant new support for hardware offload and acceleration,
   including IPsec support. This talk provides an update on the ODP project and where
   it is going.
+image:
+  featured: true
+  name: HKG18-106.png
+  path: /assets/images/featured-images/HKG18-106.png
 layout: post
 link: http://connect.linaro.org/resource/hkg18/hkg18-106/
+post_format:
+- Video
 session_id: HKG18-106
 session_track: Networking
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18106-introducing-opendataplane-tiger-moth-92873238
@@ -19,10 +27,6 @@ title: HKG18-106 - Introducing OpenDataPlane Tiger Moth
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 8700
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-106
@@ -31,15 +35,15 @@ Speaker: Bill Fischofer
 Track: Networking
 
 
-★ Session Summary ★
+## Session Summary
 Tiger Moth is the latest Long Term Support release of OpenDataPlane (ODP). Included in this release are significant new support for hardware offload and acceleration, including IPsec support. This talk provides an update on the ODP project and where it is going.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-106/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-106.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-106.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -54,8 +58,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Bill Fischofer
+**Speakers**: Bill Fischofer
 
-Speaker Positions: Sr. Software Engineer
-
-
+**Speaker Positions**: Sr. Software Engineer

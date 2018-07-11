@@ -2,15 +2,23 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-313%20ODP%20for%20NFV.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-313%20ODP%20for%20NFV%20Use.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:55:21+00:00
+date: 2017-10-06 16:55:21
 excerpt: To support the use of OpenDataPlane in Network Function Virtualization environments,
   we are developing support structures to permit a single binary to be packaged for
   distribution by platforms like RedHat, Ubuntu, SUSE, etc. that can offer both high-performance
   software implementations of ODP APIs as well as hardware-acceleration on platforms
   that offer such.
+image:
+  featured: true
+  name: SFO17-313.jpg
+  path: /assets/images/featured-images/SFO17-313.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-313/
+post_format:
+- Video
 session_id: SFO17-313
 session_track: LNG
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/odp-for-nfv-use-sfo17313
@@ -21,10 +29,6 @@ video_length: '27:03'
 video_thumbnail: None
 wordpress_id: 6028
 youtube_video_url: https://www.youtube.com/watch?v=3Oxp4no1QL8
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-313

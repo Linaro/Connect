@@ -1,35 +1,39 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-12-Thursday/HKG15-409.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-12-Thursday/HKG15-409+ARM+Hibernation+enablement+on+SoCs+-+a+case+study.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:36:38+00:00
+date: 2015-04-23 15:36:38
 excerpt: Hibernation on ARM devices is a long-wanted feature, with multiple ways of
   achieving it - in-kernel, fully userspace, or a combination. This presentation will
   give brief overview of these methods, and will discuss the effort required in enabling
   in-kernel ARM hibernation to the TI platform. We will also share the pre-requisites
   for enabling this on other SoCs.
+image:
+  featured: true
+  name: HKG15-409.jpg
+  path: /assets/images/featured-images/HKG15-409.jpg
 layout: post
 link: http://connect.linaro.org/resource/hkg15/hkg15-409-arm-hibernation-enablement-on-socs-a-case-study/
+post_format:
+- Video
 session_id: HKG15-409
 session_track: Mobile
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15409-arm-hibernation-enablement-on-socs-a-case-study
 slug: hkg15-409-arm-hibernation-enablement-on-socs-a-case-study
 speakers: Grygorii Strashko
-title: HKG15-409 ARM Hibernation enablement on SoCs a case study
-video_length: '43:28'
-video_thumbnail: None
-wordpress_id: 756
-youtube_video_url: https://www.youtube.com/watch?v=xNoLEXO3Dyk
-categories:
-- hkg15
-post_format:
-- Video
 tags:
 - Grygorii Strashko
 - hkg15
 - HKG15-409
 - Mobile
+title: HKG15-409 ARM Hibernation enablement on SoCs a case study
+video_length: '43:28'
+video_thumbnail: None
+wordpress_id: 756
+youtube_video_url: https://www.youtube.com/watch?v=xNoLEXO3Dyk
 ---
 
 HKG15-409: ARM Hibernation enablement on SoCs - a case study 

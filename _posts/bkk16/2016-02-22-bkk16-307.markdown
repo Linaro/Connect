@@ -1,12 +1,20 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-307.pdf
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:45+00:00
+date: 2016-02-22 17:20:45
 excerpt: This presentation describes the architecture of OE builds and repositories
   as driven by LHG.
+image:
+  featured: true
+  name: BKK16-307.jpg
+  path: /assets/images/featured-images/BKK16-307.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-307/
+post_format:
+- Video
 session_id: BKK16-307
 session_track: LHG
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16307-lhg-oe-initiative
@@ -14,18 +22,14 @@ slug: bkk16-307
 speakers: 'Andrey Konovalov
 
   Vish Puttagunta'
+tags:
+- LHG
+- OE
 title: 'BKK16-307: Status of the LHG OE Initiative'
 video_length: '42:06'
 video_thumbnail: None
 wordpress_id: 3349
 youtube_video_url: https://www.youtube.com/watch?v=GFdAFSIAYMM
-categories:
-- bkk16
-post_format:
-- Video
-tags:
-- LHG
-- OE
 ---
 
 This presentation describes the architecture of OE builds and repositories as driven by LHG.

@@ -3,33 +3,37 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   96Boards Enterprise Edition Introduction.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-21-Monday/SFO15-108
   96 Boards Enterprise Edition SFO15.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-21 00:00:00+00:00
+date: 2015-09-21 00:00:00
 excerpt: The 96Boards Consumer Edition specification was launched at Linaro Connect
   Hong Kong 2015 in February and the Enterprise Edition specification was publicly
   released at the end of June. This session is the first opportunity to discuss the
   Enterprise Edition specification face to face and determine key directions for the
   software platform that will run across these new boards.
+image:
+  featured: true
+  name: SFO15-108-96BoardsEnterpriseEditionIntroduction.jpg
+  path: /assets/images/featured-images/SFO15-108-96BoardsEnterpriseEditionIntroduction.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-108-96boards-enterprise-edition-introduction/
+post_format:
+- Video
 session_id: None
 session_track: Community
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15108-96boards-enterprise-edition-introduction
 slug: sfo15-108-96boards-enterprise-edition-introduction
+tags:
+- 96Boards
+- Community
+- Dragonboard
 title: 'SFO15-108: 96Boards Enterprise Edition Introduction'
 video_length: '41:14'
 video_thumbnail: None
 wordpress_id: 2800
 youtube_video_url: https://www.youtube.com/watch?v=cTGpTAEPMv4
-categories:
-- sfo15
-post_format:
-- Video
-tags:
-- 96Boards
-- Community
-- Dragonboard
 ---
 
 SFO15-108: 96Boards Enterprise Edition Introduction

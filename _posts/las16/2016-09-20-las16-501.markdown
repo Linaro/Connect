@@ -1,33 +1,37 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Friday/LAS16-501%20-%20Introduction%20to%20LLVM%20-%20Projects%2C%20Components%2C%20Integration%2C%20Internals.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Friday/LAS16-501%20Introduction%20to%20LLVM%20-%20Projects%2C%20Components%2C%20Integration%2C%20Internals.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:11:06+00:00
-excerpt: Deep dive into LLVM internals, middle/back-ends, libraries, sanitizers, linker,
-  debugger and overall compilation process. The focus is to show how LLVM works under
-  the hood, which is useful for GCC compiler engineers getting into LLVM development,
-  as well as for other engineers to learn more about parts of the toolchain they’re
-  not familiar with. This presentation also touches on frequent LLVM-specific errors,
-  so GCC users may find useful, if they’re moving to LLVM.
+date: 2016-09-20 17:11:06
+excerpt: "Deep dive into LLVM internals, middle/back-ends, libraries, sanitizers,
+  linker, debugger and overall compilation process. The focus is to show how LLVM
+  works under the hood, which is useful for GCC compiler engineers getting into LLVM
+  development, as well as for other engineers to learn more about parts of the toolchain
+  they\u2019re not familiar with. This presentation also touches on frequent LLVM-specific
+  errors, so GCC users may find useful, if they\u2019re moving to LLVM."
+image:
+  featured: true
+  name: LAS16-501.png
+  path: /assets/images/featured-images/LAS16-501.png
 layout: post
 link: http://connect.linaro.org/resource/las16/las16-501/
+post_format:
+- Video
 session_id: LAS16-501
 session_track: Core Development
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16501-introduction-to-llvm-projects-components-integration-internals
 slug: las16-501
 speakers: Renato Golin
+tags:
+- Tools
 title: 'LAS16-501: Introduction to LLVM - Projects, Components, Integration, Internals'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3858
 youtube_video_url: https://youtu.be/Of25wC588wE
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Tools
 ---
 
 LAS16-501: Introduction to LLVM - Projects, Components, Integration, Internals

@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-100%20-%20mcuboot%20bootloader%20for%20Zephyr.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Monday/BUD17-100%20mcuboot%20A%20shared%20bootloader%20for%20IoT.mp4
-author: kyle.kirkby
+author: connect
 comments: false
 date: 2017-02-28 12:05:23+00:00
 excerpt: An important base for security is the beginning of the boot process. It is

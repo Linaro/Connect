@@ -1,32 +1,36 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-211%20-%20No%20more%20latencies%21.pdf
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:34+00:00
+date: 2017-02-28 12:05:34
 excerpt: This session will detail and respond to questions regarding the latest developments
   in the MMC/SD stack and how we are moving forward with block multiqueueing (blk-mq)
   and the Budget Fair Queueing (BFQ) patch set
+image:
+  featured: true
+  name: BUD17-211.jpg
+  path: /assets/images/featured-images/BUD17-211.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-211/
+post_format:
+- Video
 session_id: BUD17-211
 session_track: Kernel
 slideshare_presentation_url: None
 slug: bud17-211
 speakers: Ulf Hansson, Linus Walleij
+tags:
+- Kernel
+- MMC
+- MQ
 title: No more latencies! - BUD17-211
 video_length: '28:05'
 video_thumbnail: None
 wordpress_id: 4649
 youtube_video_url: https://youtu.be/h02nYGXq3eM
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- Kernel
-- MMC
-- MQ
 ---
 
 Session ID: BUD17-211

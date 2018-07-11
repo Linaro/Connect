@@ -2,16 +2,24 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-219%20Simplified%20DVFS%20and%20OPP%20framework.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-219%20Simplified%20DVFS%20and%20OPP%20framework.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:54:50+00:00
+date: 2017-10-06 16:54:50
 excerpt: During the 4.6 development cycle, the operating performance points (OPP)
   framework gained the infrastructure to do dynamic voltage and frequency scaling
   (DVFS) on behalf of device drivers. This helps in reducing the complexity of those
   drivers, which can instead focus on platform-specific details. The rest of this
   article discusses what has changed and how can we use it to simplify our device
   drivers.
+image:
+  featured: true
+  name: SFO17-219.jpg
+  path: /assets/images/featured-images/SFO17-219.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-219/
+post_format:
+- Video
 session_id: SFO17-219
 session_track: Power Management
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/simplified-dvfs-and-opp-framework-sfo17219
@@ -22,10 +30,6 @@ video_length: '18:15'
 video_thumbnail: None
 wordpress_id: 5991
 youtube_video_url: https://www.youtube.com/watch?v=vq3fgz0gauQ
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-219

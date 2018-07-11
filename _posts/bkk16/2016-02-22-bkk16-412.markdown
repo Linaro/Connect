@@ -1,21 +1,23 @@
 ---
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:54+00:00
+date: 2016-02-22 17:20:54
+image:
+  featured: true
+  name: BKK16-412.jpg
+  path: /assets/images/featured-images/BKK16-412.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-412/
+post_format:
+- Video
 session_id: BKK16-412
 slug: bkk16-412
 title: 'BKK16-412:'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3378
-categories:
-- bkk16
-post_format:
-- Video
 ---
-
-
 
 Event Date: March 10, 2016

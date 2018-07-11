@@ -2,8 +2,10 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-416-L4RE.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-416%20-%20Preventing%20Linux%20in%20your%20car%20from%20killing%20you-%20The%20L4Re%20Open%20Source%20Microvisor%20System.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:56:05+00:00
+date: 2017-10-06 16:56:05
 excerpt: 'The uptake of Linux in modern cars is on the rise. It is very hard to make
 
   Linux safe enough for safety assessors. Thus far the industry has used a
@@ -19,8 +21,14 @@ excerpt: 'The uptake of Linux in modern cars is on the rise. It is very hard to 
   source project that ticks a lot of boxes in order to let Linux be what it''s
 
   good at while providing the safety that the Auto world demands.'
+image:
+  featured: true
+  name: SFO17-416.jpg
+  path: /assets/images/featured-images/SFO17-416.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-416/
+post_format:
+- Video
 session_id: SFO17-416
 session_track: LITE
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/preventing-linux-in-your-car-from-killing-you-the-l4re-open-source-microvisor-system-sfo17416
@@ -32,10 +40,6 @@ video_length: '53:22'
 video_thumbnail: None
 wordpress_id: 6839
 youtube_video_url: https://www.youtube.com/watch?v=NEYO7q-x7b0
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-416
@@ -80,4 +84,4 @@ Event Date: 
 
 Speakers: Michael Hohmuth
 
-Position: 
+Position:

@@ -1,33 +1,37 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-209%20-%20Finished%20and%20Upcoming%20Projects%20in%20LMG.pdf
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:45+00:00
+date: 2016-09-20 17:10:45
 excerpt: 'This survey of topics covers the engineering output of recent Android related
   projects in LMG and some future plans. This includes Memory Allocators, Filesystems,
   LCR news, Work on both gcc and clang based toolchains, Increased participation in
   upstream development as well as a quick overview of some upcoming topics. Kernel
   possible topics: Generic Build: where we are at'
+image:
+  featured: true
+  name: LAS16-209.png
+  path: /assets/images/featured-images/LAS16-209.png
 layout: post
 link: http://connect.linaro.org/resource/las16/las16-209/
+post_format:
+- Video
 session_id: LAS16-209
 session_track: LMG
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16209-finished-and-upcoming-projects-in-lmg
 slug: las16-209
-speakers: Yongqui Liu, Satish Patel, Bernhard Rosenkränzer
+speakers: "Yongqui Liu, Satish Patel, Bernhard Rosenkr\xE4nzer"
+tags:
+- Android
+- Mobile
 title: 'LAS16-209: Finished and Upcoming Projects in LMG'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3816
 youtube_video_url: None
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Android
-- Mobile
 ---
 
 LAS16-209: Finished and Upcoming Projects in LMG

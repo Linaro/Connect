@@ -1,36 +1,40 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-16-Tuesday/LCU14-209.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-16-Tuesday/LCU14-209-%2520LLVM%2520Linux.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:09:27+00:00
+date: 2015-06-30 17:09:27
 excerpt: This session will provide an update on the status of the LLVMLinux project;
   a project which is cooperating with both the Linux kernel and LLVM communities to
   build the Linux kernel with Clang/LLVM. This talk will also cover new things in
   LLVM which make clang even more attractive to the kernel community. LLVM is an extensive
   compiler technology suite which is already commonplace from Android/Renderscript
   and OpenCL through to high performance computing clusters.
+image:
+  featured: true
+  name: LCU14-209.jpg
+  path: /assets/images/featured-images/LCU14-209.jpg
 layout: post
 link: http://connect.linaro.org/resource/lcu14/lcu14-209-llvm-linux/
+post_format:
+- Video
 session_id: LCU14-209
 session_track: Toolchain
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-209-llvm-linux-39165110
 slug: lcu14-209-llvm-linux
 speakers: Behan Webster
-title: 'LCU14-209: LLVM Linux'
-video_length: '50:11'
-video_thumbnail: None
-wordpress_id: 1528
-youtube_video_url: https://www.youtube.com/watch?v=gcVQxjb6iQ4
-categories:
-- lcu14
-post_format:
-- Video
 tags:
 - Behan Webster
 - lcu14
 - LCU14-209
 - Toolchain
+title: 'LCU14-209: LLVM Linux'
+video_length: '50:11'
+video_thumbnail: None
+wordpress_id: 1528
+youtube_video_url: https://www.youtube.com/watch?v=gcVQxjb6iQ4
 ---
 
 LCU14-209: LLVM Linux

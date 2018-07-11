@@ -1,31 +1,35 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Friday/BUD17-512%202038%20Linux%20Problem%20BoF.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-03-16 10:13:05+00:00
+date: 2017-03-16 10:13:05
 excerpt: The time_t type in 32-bit Linux overflows in January 2038, which breaks all
   existing application binaries. We'll talk about how we are addressing this in the
   kernel, in glibc and in distributions, what problem are still unsolved, and the
   various ways in which even 64-bit systems are still affected.
+image:
+  featured: true
+  name: BUD17-512 .jpg
+  path: /assets/images/featured-images/BUD17-512 .jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-512/
+post_format:
+- Video
 session_id: 'BUD17-512 '
 session_track: None
 slideshare_presentation_url: None
 slug: bud17-512
 speakers: None
+tags:
+- Kernel
 title: 2038 Linux Problem BoF - BUD17-512
 video_length: '14:47'
 video_thumbnail: None
 wordpress_id: 5393
 youtube_video_url: https://www.youtube.com/watch?v=wCdR59kY2Dc
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- Kernel
 ---
 
 "Session ID: BUD17-512

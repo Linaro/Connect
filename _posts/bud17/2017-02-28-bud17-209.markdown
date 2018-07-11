@@ -1,16 +1,24 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-209%20-Reliability%2C%20Availability%2C%20and%20Serviceability%28RAS%29%20on%20ARM64.pdf
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:34+00:00
-excerpt: "The RAS architecture base on RAS extension, SDEI, APEI.\n \n 1. the definition,\
-  \ Function and importance of RAS\n \n 2. Hardware requirement： CPU, GIC and RAS\
-  \ Extension\n \n 3. Firmware support : SDEI dispatcher and APEI support, and how\
-  \ to take advantage of RAS Extension.  \n \n 4. OS support: APEI driver and SDEI\
-  \ client, error report mechanism(trace event)\n \n 5. Userspace recorder: rasdaemon"
+date: 2017-02-28 12:05:34
+excerpt: "The RAS architecture base on RAS extension, SDEI, APEI.\n \n 1. the definition,
+  Function and importance of RAS\n \n 2. Hardware requirement\uFF1A CPU, GIC and RAS
+  Extension\n \n 3. Firmware support : SDEI dispatcher and APEI support, and how to
+  take advantage of RAS Extension.  \n \n 4. OS support: APEI driver and SDEI client,
+  error report mechanism(trace event)\n \n 5. Userspace recorder: rasdaemon"
+image:
+  featured: true
+  name: BUD17-209.jpg
+  path: /assets/images/featured-images/BUD17-209.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-209/
+post_format:
+- Video
 session_id: BUD17-209
 session_track: LEG
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17209-reliability-availability-and-serviceability-ras-on-arm64
@@ -21,10 +29,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4647
 youtube_video_url: https://youtu.be/lHKoYEI2yNE
-categories:
-- bud17
-post_format:
-- Video
 ---
 
 The RAS architecture base on RAS extension, SDEI, APEI. 1. the definition, Function and importance of RAS 2. Hardware requirement： CPU, GIC and RAS Extension 3. Firmware support : SDEI dispatcher and APEI support, and how to take advantage of RAS Extension. 4. OS support: APEI driver and SDEI client, error report mechanism(trace event) 5. Userspace recorder: rasdaemon

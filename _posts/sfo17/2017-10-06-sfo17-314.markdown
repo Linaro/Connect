@@ -2,14 +2,22 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-314%20Optimizing%20GoLang%20for%20High%20Performance%20with%20ARM64%20Assembly.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-314%20Optimizing%20GoLang%20for%20High%20Performance%20with%20ARM64%20Assembly.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:55:21+00:00
+date: 2017-10-06 16:55:21
 excerpt: It is a guide to ARM64 GoLang assembly. It introduces how to write a ARM64
   GoLang assembly program and some descriptions of key Go-specific details for ARM64.
   When we get to know the go assembly, we can do some optimization to improve performance.
   We will also show case with an example of SHA optimization.
+image:
+  featured: true
+  name: SFO17-314.jpg
+  path: /assets/images/featured-images/SFO17-314.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo17/sfo17-314/
+post_format:
+- Video
 session_id: SFO17-314
 session_track: LEG
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/optimizing-golang-for-high-performance-with-arm64-assembly-sfo17314
@@ -20,10 +28,6 @@ video_length: '44:28'
 video_thumbnail: None
 wordpress_id: 6029
 youtube_video_url: https://www.youtube.com/watch?v=Q_pmdO7sFC4
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-314

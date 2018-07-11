@@ -1,13 +1,21 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-403.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Thursday/BKK16-403%20Android%20HAL%20Consolidation%20Status.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:51+00:00
+date: 2016-02-22 17:20:51
 excerpt: Update on progress and discuss next steps on Android HAL consolidation Lead
   Project
+image:
+  featured: true
+  name: BKK16-403.jpg
+  path: /assets/images/featured-images/BKK16-403.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-403/
+post_format:
+- Video
 session_id: BKK16-403
 session_track: OCTO
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16403-android-hal-consolidation-status
@@ -17,18 +25,14 @@ speakers: 'Rob Herring
   Benjamin G.
 
   Xinliang'
+tags:
+- Android
+- HAL
 title: 'BKK16-403: Android HAL Consolidation Status'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3367
 youtube_video_url: https://youtu.be/6tVE_mH-FPw
-categories:
-- bkk16
-post_format:
-- Video
-tags:
-- Android
-- HAL
 ---
 
 Update on progress and discuss next steps on Android HAL consolidation Lead Project

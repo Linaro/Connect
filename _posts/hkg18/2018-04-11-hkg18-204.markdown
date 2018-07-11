@@ -1,13 +1,21 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-204.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-204.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:11:54+00:00
-excerpt: "*Open to employees of Linaro  and Linaro Members Only* \nBadges will be\
-  \ checked at the door."
+date: 2018-04-11 14:11:54
+excerpt: "*Open to employees of Linaro  and Linaro Members Only* \nBadges will be
+  checked at the door."
+image:
+  featured: true
+  name: HKG18-204.png
+  path: /assets/images/featured-images/HKG18-204.png
 layout: post
 link: http://connect.linaro.org/resource/hkg18/hkg18-204/
+post_format:
+- Video
 session_id: HKG18-204
 session_track: Security
 slideshare_presentation_url: https://www.slideshare.net/secret/6dPpvbX1Um2YRi
@@ -18,10 +26,6 @@ title: HKG18-204 - *Linaro Members Only* Cross team component discussion on the 
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 9063
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-204
@@ -30,16 +34,16 @@ Speaker: David Rusling
 Track: Security
 
 
-★ Session Summary ★
+## Session Summary
 *Open to employees of Linaro  and Linaro Members Only* 
 Badges will be checked at the door. 
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-204/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-204.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-204.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -54,8 +58,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: David Rusling
+**Speakers**: David Rusling
 
-Speaker Positions: Linaro CTO
-
-
+**Speaker Positions**: Linaro CTO

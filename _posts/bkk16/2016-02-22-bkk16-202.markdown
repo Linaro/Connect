@@ -1,19 +1,22 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-202.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Tuesday/BKK16-202%20LMG%20Lightning%20Talks.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:37+00:00
-excerpt: 'Cool things we’re working on upstreaming from Android (reboot reason, pstore
-  dts?, partition uevents)
-
-  DRM driver status/details
-
-  ML lib acceleration with OpenCL
-
-  ART Team update'
+date: 2016-02-22 17:20:37
+excerpt: "Cool things we\u2019re working on upstreaming from Android (reboot reason,
+  pstore dts?, partition uevents)\nDRM driver status/details\nML lib acceleration
+  with OpenCL\nART Team update"
+image:
+  featured: true
+  name: BKK16-202.jpg
+  path: /assets/images/featured-images/BKK16-202.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-202/
+post_format:
+- Video
 session_id: BKK16-202
 session_track: LMG
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16202-lmg-lightning-talks-a-collection-of-short-and-interesting-topics-wrapped-up-into-one-session
@@ -25,10 +28,6 @@ video_length: '51:36'
 video_thumbnail: None
 wordpress_id: 3324
 youtube_video_url: https://www.youtube.com/watch?v=eMo3pw8P9sY
-categories:
-- bkk16
-post_format:
-- Video
 ---
 
 Cool things we’re working on upstreaming from Android (reboot reason, pstore dts?, partition uevents) DRM driver status/details ML lib acceleration with OpenCL ART Team update

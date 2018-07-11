@@ -1,16 +1,24 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-107.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Monday/BKK16-107%20Budget%20Fair%20Queuing%20heuristics%20in%20the%20block%20layer.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bkk16
 comments: false
-date: 2016-02-22 17:20:36+00:00
+date: 2016-02-22 17:20:36
 excerpt: The Budget Fair Queue (BFQ) I/O scheduler in the Linux block layer is a new
   heuristic approach to improving user-perceived latencies in block accessible media
   such as hard disks, SSD and (e)MMC and SD cards. Linaro is investing and helping
   in pushing this development ahead. The session describes what the BFQ patch set
   does and how.
+image:
+  featured: true
+  name: BKK16-107.jpg
+  path: /assets/images/featured-images/BKK16-107.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-107/
+post_format:
+- Video
 session_id: BKK16-107
 session_track: Kernel
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16107-budget-fair-queueing-heuristics-in-the-block-layer
@@ -18,18 +26,14 @@ slug: bkk16-107
 speakers: 'Ulf Hansson
 
   Linus Walleij'
+tags:
+- BFQ
+- scheduler
 title: 'BKK16-107: Budget Fair Queueing heuristics in the block layer'
 video_length: '52:21'
 video_thumbnail: None
 wordpress_id: 3315
 youtube_video_url: https://www.youtube.com/watch?v=wE54uVNCJVA
-categories:
-- bkk16
-post_format:
-- Video
-tags:
-- BFQ
-- scheduler
 ---
 
 The Budget Fair Queue (BFQ) I/O scheduler in the Linux block layer is a new heuristic approach to improving user-perceived latencies in block accessible media such as hard disks, SSD and (e)MMC and SD cards. Linaro is investing and helping in pushing this development ahead. The session describes what the BFQ patch set does and how.

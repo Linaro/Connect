@@ -1,36 +1,40 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-107%20PCI-e%20EndPoint%20mode.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Monday/BUD17-107%20PCI-e%20EndPoint%20mode%20of%20operation%20in%20OpenDataPlane%20%28ODP%29.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:24+00:00
-excerpt: "A proposal to add ODP based support for PCI-e Endpoint mode of operation.\
-  \ In the Endpoint mode the ODP implementation runs on the Endpoint device while\
-  \ the Root Complex(PCI-e host) will appear as a peripheral device. The proposal\
-  \ outlines 2 ways in which the Root Complex can be registered with ODP:\n  A. As\
-  \ a NIC device\n  B. As a Co-processor.\n  The initial implementation will target\
-  \ Cavium OCTEON TX SoC"
+date: 2017-02-28 12:05:24
+excerpt: "A proposal to add ODP based support for PCI-e Endpoint mode of operation.
+  In the Endpoint mode the ODP implementation runs on the Endpoint device while the
+  Root Complex(PCI-e host) will appear as a peripheral device. The proposal outlines
+  2 ways in which the Root Complex can be registered with ODP:\n  A. As a NIC device\n
+  \ B. As a Co-processor.\n  The initial implementation will target Cavium OCTEON
+  TX SoC"
+image:
+  featured: true
+  name: BUD17-107.jpg
+  path: /assets/images/featured-images/BUD17-107.jpg
 layout: post
 link: http://connect.linaro.org/resource/bud17/bud17-107/
+post_format:
+- Video
 session_id: BUD17-107
 session_track: LNG
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/pcie-endpoint-mode-of-operation-in-opendataplane-odp-bud17107
 slug: bud17-107
 speakers: Narayana Prasad Athreya
-title: PCI-e EndPoint mode of operation in OpenDataPlane(ODP) - BUD17-107
-video_length: 00:00
-video_thumbnail: None
-wordpress_id: 4620
-youtube_video_url: https://youtu.be/tQo7sbQbeI0
-categories:
-- bud17
-post_format:
-- Video
 tags:
 - LNG
 - Narayana Prasad Athreya
 - ODP
 - PCI-e
+title: PCI-e EndPoint mode of operation in OpenDataPlane(ODP) - BUD17-107
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4620
+youtube_video_url: https://youtu.be/tQo7sbQbeI0
 ---
 
 "Session ID: BUD17-107
