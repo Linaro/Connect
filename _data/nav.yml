@@ -33,6 +33,8 @@ pages:
             url: /important-dates/
           - text: Visa/Business Invitation Letters
             url: /business-invitation-letters/
+          - text: Schedule
+            url: /schedule/
           - text: Code of Conduct
             url: /code-of-conduct/
           - text: FAQ
