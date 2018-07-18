@@ -13,6 +13,7 @@ excerpt: QEMU ARMv8-A system emulation was completed shortly after LCA14 and has
   patches on top of upstream QEMU which allows us to run a 64-bit Android build. We
   will explain the status and efforts coordinated between Google and Linaro, demo
   the working system, and show how developers can start playing with this.
+featured_image_name: LCU14-106.jpg
 image:
   featured: true
   name: LCU14-106.jpg

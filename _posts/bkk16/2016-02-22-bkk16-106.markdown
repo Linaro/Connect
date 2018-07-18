@@ -6,6 +6,7 @@ categories:
 - bkk16
 comments: false
 date: 2016-02-22 17:20:34
+featured_image_name: BKK16-106.jpg
 image:
   featured: true
   name: BKK16-106.jpg

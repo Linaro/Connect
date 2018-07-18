@@ -12,10 +12,11 @@ excerpt: Software Defined Networking (SDN) is a new approach to networking, comp
   and control through open programmatic interfaces to individual network devices as
   well as to the whole network. This session puts the SDN concept into perspective
   with existing and evolving network architectures and principles.
+featured_image_name: LCA14-200K1.jpg
 image:
   featured: true
-  name: LCA14-200K1.jpg
-  path: /assets/images/featured-images/LCA14-200K1.jpg
+  name: LCA14-200K2.jpg
+  path: /assets/images/featured-images/LCA14-200K2.jpg
 layout: post
 link: http://connect.linaro.org/resource/lca14/tuesday-keynote-device-development-model-for-carrier-class-operators-open-network-environment/
 post_format:

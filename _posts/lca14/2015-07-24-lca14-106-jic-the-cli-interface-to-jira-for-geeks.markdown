@@ -10,6 +10,7 @@ date: 2015-07-24 14:05:58
 excerpt: Introduce common kernel engineer workflow for JIRA. Show current features
   of jic covering the most frequent use cases. Overview of the ideas in the pipeline/backlog.
   Q&A
+featured_image_name: LCA14-106.jpg
 image:
   featured: true
   name: LCA14-106.jpg

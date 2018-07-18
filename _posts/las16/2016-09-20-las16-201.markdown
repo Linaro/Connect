@@ -13,6 +13,7 @@ excerpt: Android runtime (ART) has evolved from an AOT compiler (in Android L & 
   mode, tooling support, etc. This talk is meant to help Linaro members and developers
   to have a deeper understanding of ART in Android N, and to help them face the challenges
   of the new behaviors of Android runtime.
+featured_image_name: LAS16-201.png
 image:
   featured: true
   name: LAS16-201.png

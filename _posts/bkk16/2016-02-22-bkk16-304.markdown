@@ -19,6 +19,7 @@ excerpt: 'AArch64 and ARM GDB ports were added some years ago, but some useful f
   This presentation will also introduce some basic GDB or debugger internal knowledges
   and also some GDB in-progress projects in which we plan to do and are interested
   in.'
+featured_image_name: BKK16-304.jpg
 image:
   featured: true
   name: BKK16-304.jpg

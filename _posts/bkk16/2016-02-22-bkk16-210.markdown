@@ -7,6 +7,7 @@ categories:
 comments: false
 date: 2016-02-22 17:20:40
 excerpt: Migrations have begun, learn how it will affect your team
+featured_image_name: BKK16-210.jpg
 image:
   featured: true
   name: BKK16-210.jpg

@@ -9,6 +9,7 @@ excerpt: Regular session taking place at Connect for developers working on Linux
   to share progress on ARM Linux platform support. Users are also welcome to share
   their experiences using Linux distributions on ARM. The goal of the discussion is
   to identify areas in which Linaro can help.
+featured_image_name: BKK16-402.jpg
 image:
   featured: true
   name: BKK16-402.jpg

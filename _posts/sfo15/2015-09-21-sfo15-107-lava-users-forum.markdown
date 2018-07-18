@@ -12,10 +12,11 @@ excerpt: This session will be a chance for LAVA users to discuss things that are
   right and things that are more challenging when using LAVA. The LAVA team will attend
   and hopefully address some of their concerns later in the week with the dispatcher
   refactoring session.
+featured_image_name: SFO15107LAVAUsersForum.jpg
 image:
   featured: true
-  name: SFO15-107-LAVAUsersForum.jpg
-  path: /assets/images/featured-images/SFO15-107-LAVAUsersForum.jpg
+  name: SFO15107LAVAUsersForum.jpg
+  path: /assets/images/featured-images/SFO15107LAVAUsersForum.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-107-lava-users-forum/
 post_format:

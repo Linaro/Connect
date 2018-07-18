@@ -18,6 +18,7 @@ excerpt: "The Linaro RDK project team has worked on the migration\n of the Comca
   the 2nd half of 2013 designed and implemented\n a reference implementation of an
   OpenEmbedded based RDK distribution.\n As a result, Comcast has officially announced
   their plan to fully\n migrate the RDK to OpenEmbedded and the Yocto Project in 2014."
+featured_image_name: LCA14-113.jpg
 image:
   featured: true
   name: LCA14-113.jpg

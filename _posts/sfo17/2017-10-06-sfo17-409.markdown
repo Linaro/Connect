@@ -8,6 +8,7 @@ comments: false
 date: 2017-10-06 16:55:53
 excerpt: Discussion on the various OSS Tools efforts in Linaro.  What are we doing
   now and how should this evolve?
+featured_image_name: SFO17-409.jpg
 image:
   featured: true
   name: SFO17-409.jpg

@@ -12,6 +12,7 @@ excerpt: Realtime applications have traditionally used interrupt latency as the 
   especially problematic. New Ethernet features such as time sensitive networking
   (TSN) ensure single digit microsecond level jitter in a LAN. The networking driver
   and stack jitter measurements are presented and analyzed.
+featured_image_name: SFO17-209.jpg
 image:
   featured: true
   name: SFO17-209.jpg

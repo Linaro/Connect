@@ -10,6 +10,7 @@ date: 2015-07-24 14:04:11
 excerpt: "ION has recently be included in staging. In it\xE2\u20AC\u2122s current
   form it will not be merged into the Linux however it is the goal of Linaro to see
   the concept of a constraint based allocator upstream."
+featured_image_name: LCA14-509.jpg
 image:
   featured: true
   name: LCA14-509.jpg

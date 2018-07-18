@@ -14,6 +14,7 @@ excerpt: "An Open Source implementation for Secure Boot & Secure Variable Access
   Boot path with Secure Variable access on these platforms. We\u2019ll go through
   a detailed explanation of the work done, with links to the upstream code, and describe
   the present and future challenges faced when working with them."
+featured_image_name: HKG18-104.png
 image:
   featured: true
   name: HKG18-104.png

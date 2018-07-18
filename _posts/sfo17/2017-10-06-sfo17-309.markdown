@@ -9,6 +9,7 @@ date: 2017-10-06 16:55:16
 excerpt: The last release of OP-TEE includes big updates to secure storage. Integrity
   protection is improved and the entire secure storage space is saved as one snapshot
   on each update.
+featured_image_name: SFO17-309.jpg
 image:
   featured: true
   name: SFO17-309.jpg

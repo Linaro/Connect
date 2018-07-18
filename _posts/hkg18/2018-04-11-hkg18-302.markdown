@@ -15,6 +15,7 @@ excerpt: "Huawei HiAI is one of the world's first mobile AI computing platforms 
   computing market.\n\n-       What HiAI Mobile computing platform is , will introduce
   HiAI foundation, HiAI engine and HiAI service ,\n\n(In this part Will introduce
   what are the objectives and goals of HiAI Engine and What is it expect to achieve)"
+featured_image_name: HKG18-302.png
 image:
   featured: true
   name: HKG18-302.png

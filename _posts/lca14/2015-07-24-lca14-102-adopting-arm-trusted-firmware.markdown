@@ -13,6 +13,7 @@ excerpt: ARM Trusted Firmware standardizes the boot flow and EL3 firmware for AR
   SMC Calling Convention and, later this year, the Trusted Board Boot specification.
   In this session you can learn what the ARM Trusted Firmware does for you, how to
   deploy it on your own systems and how to engage with the emerging developer community.
+featured_image_name: LCA14-102.jpg
 image:
   featured: true
   name: LCA14-102.jpg

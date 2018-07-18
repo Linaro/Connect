@@ -9,6 +9,7 @@ date: 2017-10-06 16:53:52
 excerpt: Zephyr is changing at an alarming pace and we would like to provide some
   insights to a few of the areas we have been working.  MCUBOOT Secure bootloader
   integration, FOTA, DeviceTree and LWM2M enabling secure client to cloud capabilities
+featured_image_name: SFO17-113.jpg
 image:
   featured: true
   name: SFO17-113.jpg

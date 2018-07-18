@@ -11,6 +11,7 @@ excerpt: An example of a key system from a Clear Key point of view. Linaro imple
   browser. The presentation gives an insight to the EME/CDM implementation in Chromium
   and the guidelines to integrating various DRM systems. We will present call flows
   with example classes, experiences learned, and example of things to watch out for.
+featured_image_name: HKG15-407.jpg
 image:
   featured: true
   name: HKG15-407.jpg

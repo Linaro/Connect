@@ -6,6 +6,7 @@ categories:
 - Blog
 comments: false
 date: 2017-09-24 17:15:47
+featured_image_name: SFO17StreamingLinks.jpg
 image:
   featured: true
   name: SFO17StreamingLinks.jpg

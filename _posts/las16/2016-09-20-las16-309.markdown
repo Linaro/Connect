@@ -27,6 +27,7 @@ excerpt: "Abstract Xen on ARM: The Xen port is exploiting this set of new hardwa
   progress. This presentation will\nbriefly introduce LuaJIT, discuss the technical
   challenges of porting\nto AArch64, and address the progress of the porting effort
   and the\nnext steps."
+featured_image_name: LAS16-309.png
 image:
   featured: true
   name: LAS16-309.png

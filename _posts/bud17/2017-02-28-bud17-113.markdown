@@ -14,6 +14,7 @@ excerpt: "\"Delivering a well working distribution is hard. There are a lot of d
   times to find and reject breaking changes\n \n This session shows how OpenQA works,
   what pitfalls we had to make ARM work with OpenQA and what we're doing to improve
   it for ARM specific use cases.\""
+featured_image_name: BUD17-113.jpg
 image:
   featured: true
   name: BUD17-113.jpg

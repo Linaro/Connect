@@ -10,6 +10,7 @@ excerpt: LITE engineers work on a number of areas. Besides dedicated sessions, w
   would like to provide "lightning talks" session for updates on other areas, like
   IoT scripting/rapid prototyping, SoC models support, Device Tree adoption support,
   etc.
+featured_image_name: HKG18-109.png
 image:
   featured: true
   name: HKG18-109.png

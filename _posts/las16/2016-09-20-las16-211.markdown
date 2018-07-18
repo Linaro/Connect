@@ -10,6 +10,7 @@ excerpt: The new LAVA dispatcher allows explicit control of starting/controlling
   Walk through how to use V2 dispatcher for KVM and other VM testing and explore usage
   of libvirt etc. Share experiences in using V2 dispatcher in general. Plan support
   for migration and other advanced multinode tests.
+featured_image_name: LAS16-211.png
 image:
   featured: true
   name: LAS16-211.png

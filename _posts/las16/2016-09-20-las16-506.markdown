@@ -17,6 +17,7 @@ excerpt: Hardware and software will never stop evolving, yet many still choose t
   up-to-date, straightforward, and accurate documentation without the need to share
   documents, convert formats, or refer to releases/versions when wondering if the
   document is going to work.
+featured_image_name: LAS16-506.png
 image:
   featured: true
   name: LAS16-506.png

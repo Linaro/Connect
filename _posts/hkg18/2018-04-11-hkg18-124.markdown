@@ -12,6 +12,7 @@ excerpt: In this presentation we will talk about Android Verified Boot 2.0 and h
   In this case Trustzone plays a vital role here in making this setup tamper-proof,
   particularly improving rollback protection. It will do that by leverage the TEE
   itself as well as the RPMB partition in eMMC.
+featured_image_name: HKG18-124.png
 image:
   featured: true
   name: HKG18-124.png

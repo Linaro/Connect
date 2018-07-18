@@ -7,6 +7,7 @@ categories:
 comments: false
 date: 2017-10-06 16:55:37
 excerpt: 'Keynote: Iliyan Malchev (Google)'
+featured_image_name: SFO17-400K1.jpg
 image:
   featured: true
   name: SFO17-400K1.jpg

@@ -13,10 +13,11 @@ excerpt: The Linaro Virtualization group will host several sessions at the upcom
   within the opensource community.   As part of this event the Linaro Virtualization
   team will host three sessions during the week, and Red Hat will host an additional
   session on their efforts on ARM virtualization.
+featured_image_name: LinaroVirtualizationGroupsPlansforLinaroConnectBudapest2017.png
 image:
   featured: true
-  name: LinaroVirtualizationGroup'sPlansforLinaroConnectBudapest2017.png
-  path: /assets/images/featured-images/LinaroVirtualizationGroup'sPlansforLinaroConnectBudapest2017.png
+  name: LinaroVirtualizationGroupsPlansforLinaroConnectBudapest2017.png
+  path: /assets/images/featured-images/LinaroVirtualizationGroupsPlansforLinaroConnectBudapest2017.png
 layout: post
 link: http://connect.linaro.org/blog/linaro-virtualization-groups-plans-linaro-connect-budapest-2017/
 session_id: None

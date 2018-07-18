@@ -14,6 +14,7 @@ excerpt: 'Give high level overview of the components involved in a DRM/Secure. P
   among various elements in the secure playback chain.
 
 '
+featured_image_name: HKG15-303.jpg
 image:
   featured: true
   name: HKG15-303.jpg

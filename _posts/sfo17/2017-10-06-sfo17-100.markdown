@@ -17,6 +17,7 @@ excerpt: 'This is a discussion on various methods, from low hanging fruits to mo
   acceptance will be discussed. Spoiler Alert: With luck, a tiny demo
 
   might be thrown in!'
+featured_image_name: SFO17-100.jpg
 image:
   featured: true
   name: SFO17-100.jpg

@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-06-30 17:09:10
 excerpt: Overview of Xen for ARM Servers
+featured_image_name: LCU14-308.jpg
 image:
   featured: true
   name: LCU14-308.jpg

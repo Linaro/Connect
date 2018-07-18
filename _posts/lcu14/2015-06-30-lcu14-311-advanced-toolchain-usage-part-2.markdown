@@ -34,6 +34,7 @@ excerpt: 'This set of sessions will go into detail on many toolchain topics and 
   Libatomic usage
 
   Debugging binaries compiled with optimizations.'
+featured_image_name: LCU14-311.jpg
 image:
   featured: true
   name: LCU14-311.jpg

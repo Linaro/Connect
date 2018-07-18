@@ -12,6 +12,7 @@ excerpt: 'The last decade or so of development in open source hardware, software
   and machine learning - such as TensorFlow, NLTK, openFrameworks and project Gutenberg.  As
   well as continually expanding functionality, increased accessibility has drastically
   brought down the barriers to entry and exploration.'
+featured_image_name: HKG18-500K2.png
 image:
   featured: true
   name: HKG18-500K2.png

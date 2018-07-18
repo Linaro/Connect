@@ -7,6 +7,7 @@ categories:
 comments: false
 date: 2018-04-11 14:15:50
 excerpt: How to get realistic c-state latency and residency ? (followup of the session)
+featured_image_name: HKG18-HK18.png
 image:
   featured: true
   name: HKG18-HK18.png

@@ -9,6 +9,7 @@ date: 2016-02-22 17:20:43
 excerpt: This talk will focus on the current state of enterprise tooling within CentOS,
   what we plan to add in the future, and how the community can help. We'll cover OpenStack,
   storage with Ceph and Gluster, as well as building and managing Docker containers.
+featured_image_name: BKK16-301A.jpg
 image:
   featured: true
   name: BKK16-301A.jpg

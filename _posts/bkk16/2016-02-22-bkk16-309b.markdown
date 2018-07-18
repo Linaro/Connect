@@ -15,6 +15,7 @@ excerpt: 'The concept of Enterprise Firmware is a fairly new one for ARM, and pr
   This talk covers both the commercial importance of aligning the ecosystem and some
   of the technical challenges to overcome, and what ARM and Linaro are planning to
   do about it.'
+featured_image_name: BKK16-309B.jpg
 image:
   featured: true
   name: BKK16-309B.jpg

@@ -35,6 +35,7 @@ excerpt: 'BFQ has greatly improved over the last months.  Now it handles I/O at
   - list the next important challenges for letting BFQ enter the
 
   server&cloud world too.'
+featured_image_name: HKG18-416.png
 image:
   featured: true
   name: HKG18-416.png

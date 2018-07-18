@@ -8,6 +8,7 @@ comments: false
 date: 2018-04-11 14:11:54
 excerpt: "*Open to employees of Linaro  and Linaro Members Only* \nBadges will be
   checked at the door."
+featured_image_name: HKG18-204.png
 image:
   featured: true
   name: HKG18-204.png

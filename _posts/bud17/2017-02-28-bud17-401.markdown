@@ -8,6 +8,7 @@ comments: false
 date: 2017-02-28 12:05:47
 excerpt: A session in which we will specifically discuss the next steps and group
   interactions required in order to deliver a working (OP)NFV solution in 2017.
+featured_image_name: BUD17-401.jpg
 image:
   featured: true
   name: BUD17-401.jpg

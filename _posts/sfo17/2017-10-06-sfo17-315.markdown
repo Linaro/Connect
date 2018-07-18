@@ -11,6 +11,7 @@ excerpt: This talk discusses usage of the Travis-CI system and our experience ob
   topics including cross-compilation and runtime testing. Testing efficiency using
   caches to reduce test time is also covered. This experience should be useful to
   any project that wants to use Travis CI to help automate patch testing.
+featured_image_name: SFO17-315.jpg
 image:
   featured: true
   name: SFO17-315.jpg

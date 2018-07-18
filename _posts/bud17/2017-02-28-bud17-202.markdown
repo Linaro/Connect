@@ -12,6 +12,7 @@ excerpt: "LMG team, in collaboration with Toolchains team, has worked on multipl
   will focus on LMG efforts around the following:\n \n - Clang CI efforts\n  \n -
   Getting AOSP to build with gcc 6/7\n \n - Building kernels with clang\n\n - Native
   AOSP builds and development"
+featured_image_name: BUD17-202.jpg
 image:
   featured: true
   name: BUD17-202.jpg

@@ -7,6 +7,7 @@ categories:
 comments: false
 date: 2017-02-28 12:05:38
 excerpt: Introduction to the mechanics and norms of upstreaming
+featured_image_name: BUD17-TR02.jpg
 image:
   featured: true
   name: BUD17-TR02.jpg

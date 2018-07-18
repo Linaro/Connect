@@ -9,6 +9,7 @@ excerpt: The upstream EGLIBC community have closed the EGLIBC project in favour 
   GLIBC. This session will discuss our plans for transitioning to GLIBC in our releases
   and also encourage attendees to say what is missing from GLIBC that would make such
   a transition difficult.
+featured_image_name: LCA14-501.jpg
 image:
   featured: true
   name: LCA14-501.jpg

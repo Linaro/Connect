@@ -19,6 +19,7 @@ excerpt: Experience with automation of test devices in Linaro extends over seven
   occur, and recommendations on how to design hardware and firmware to reduce problems
   in the future. We describe some device design features as hard requirements to enable
   successful automation, and some which are guaranteed to block automation.
+featured_image_name: HKG18-TR10.png
 image:
   featured: true
   name: HKG18-TR10.png

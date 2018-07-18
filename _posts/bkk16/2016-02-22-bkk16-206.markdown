@@ -10,6 +10,7 @@ excerpt: "The Goal: Reduce AOSP memory requirements without hurting performance 
   badly.\n What did we try:\n  - Update toolchains\n  - Make use of new features in
   updated toolchains\n  - Split libraries into smaller parts\n  - Tweak settings\n
   \ - Replace the memory allocator"
+featured_image_name: BKK16-206.jpg
 image:
   featured: true
   name: BKK16-206.jpg

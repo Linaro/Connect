@@ -13,10 +13,11 @@ excerpt: 'Open source platforms face challenges, such as security threats and in
   explores how to optimize CA/DRM integration in open source platforms and ensure
   revenue security of applications. Panel: Petr Peterka, Presenter (CTO, Verimatrix);
   Panel: Security experts from: Comcast, STM, Cisco'
+featured_image_name: SFO15305ExpandingsecuritychoicesDRMCAinteroperability.jpg
 image:
   featured: true
-  name: SFO15-305-Expandingsecuritychoices-DRM&CAinteroperability.jpg
-  path: /assets/images/featured-images/SFO15-305-Expandingsecuritychoices-DRM&CAinteroperability.jpg
+  name: SFO15305ExpandingsecuritychoicesDRMCAinteroperability.jpg
+  path: /assets/images/featured-images/SFO15305ExpandingsecuritychoicesDRMCAinteroperability.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-305-expanding-security-choices-drm-ca-interoperability/
 post_format:

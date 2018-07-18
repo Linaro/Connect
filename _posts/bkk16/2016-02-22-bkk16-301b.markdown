@@ -9,6 +9,7 @@ excerpt: The CentOS Project provides the infrastructure, Special Interest Groups
   the software. We'll walk through the resources available to SIG developers, and
   talk about the processes that enable them to build, test, and deliver against the
   CentOS Platform
+featured_image_name: BKK16-301B.jpg
 image:
   featured: true
   name: BKK16-301B.jpg

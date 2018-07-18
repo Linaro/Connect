@@ -14,10 +14,11 @@ excerpt: "This session will go through the problems caused by decisions made in 
   projects underway to resolve this legacy once and for all. We will also cover changes
   to Linaro\u2019s platform infrastructure, as well as our increasing involvement
   with EDK2 maintainership."
+featured_image_name: SFO15211UEFIonARMDealingwithlegacymovingon.jpg
 image:
   featured: true
-  name: SFO15-211-UEFIonARM-Dealingwithlegacy&movingon.jpg
-  path: /assets/images/featured-images/SFO15-211-UEFIonARM-Dealingwithlegacy&movingon.jpg
+  name: SFO15211UEFIonARMDealingwithlegacymovingon.jpg
+  path: /assets/images/featured-images/SFO15211UEFIonARMDealingwithlegacymovingon.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-211-uefi-on-arm-dealing-with-legacy-moving-on/
 post_format:

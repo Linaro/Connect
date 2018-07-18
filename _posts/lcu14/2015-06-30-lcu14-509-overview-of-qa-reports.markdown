@@ -11,6 +11,7 @@ excerpt: 'The session will cover: Means to collect the data from Jenkins and LAV
   manual testing) Reporting of weekly/monthly testing results The session is meant
   to show the currently implemented solution and collect feedback/requests from current
   and potential users.'
+featured_image_name: LCU14-509.jpg
 image:
   featured: true
   name: LCU14-509.jpg

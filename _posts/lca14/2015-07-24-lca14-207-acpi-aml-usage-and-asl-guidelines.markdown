@@ -9,6 +9,7 @@ comments: false
 date: 2015-07-24 14:05:31
 excerpt: describe how to use AML at best to describe/expose/abstract clocks and regulators
   describe best reference ASL patterns, code walk through
+featured_image_name: LCA14-207.jpg
 image:
   featured: true
   name: LCA14-207.jpg

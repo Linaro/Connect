@@ -11,6 +11,7 @@ excerpt: Hibernation on ARM devices is a long-wanted feature, with multiple ways
   give brief overview of these methods, and will discuss the effort required in enabling
   in-kernel ARM hibernation to the TI platform. We will also share the pre-requisites
   for enabling this on other SoCs.
+featured_image_name: HKG15-409.jpg
 image:
   featured: true
   name: HKG15-409.jpg

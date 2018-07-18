@@ -8,6 +8,7 @@ comments: false
 date: 2016-02-22 17:20:54
 excerpt: Announcement of the process to update the old specs and kernel documentation
   into a new Device Tree Specification
+featured_image_name: BKK16-411.jpg
 image:
   featured: true
   name: BKK16-411.jpg

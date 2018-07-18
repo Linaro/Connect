@@ -12,6 +12,7 @@ excerpt: During the 4.6 development cycle, the operating performance points (OPP
   drivers, which can instead focus on platform-specific details. The rest of this
   article discusses what has changed and how can we use it to simplify our device
   drivers.
+featured_image_name: SFO17-219.jpg
 image:
   featured: true
   name: SFO17-219.jpg

@@ -7,6 +7,7 @@ comments: false
 date: 2015-07-24 14:05:35
 excerpt: Technical discussion around the implementation realities of the recently
   published Server Base System Architecture (SBSA) and forthcoming boot architecture.
+featured_image_name: LCA14-307.jpg
 image:
   featured: true
   name: LCA14-307.jpg

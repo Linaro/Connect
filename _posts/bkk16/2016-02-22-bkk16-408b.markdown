@@ -14,6 +14,7 @@ excerpt: "This talk will provide an overview of typical Data Analysis tools and 
   was used for Data Analysis. Python sci-kit learn library was used to analyze various
   Supervised Machine Learning algorithms including K-Nearest Neighbors, Linear & Logistic
   Regression, Bayesian Classifiers, Decision Trees, Bagging and Random Forests."
+featured_image_name: BKK16-408B.jpg
 image:
   featured: true
   name: BKK16-408B.jpg

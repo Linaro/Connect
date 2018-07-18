@@ -9,6 +9,7 @@ date: 2015-06-30 17:09:20
 excerpt: This session will provide a short summary on how Linaro teams are automating
   upstream Kernel CI with a goal to improve the overall Linux on ARM ecosystem. The
   second half of the session will be general Q&A
+featured_image_name: LCU14-203.jpg
 image:
   featured: true
   name: LCU14-203.jpg

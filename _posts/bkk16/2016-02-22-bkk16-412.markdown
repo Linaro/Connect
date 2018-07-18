@@ -4,6 +4,7 @@ categories:
 - bkk16
 comments: false
 date: 2016-02-22 17:20:54
+featured_image_name: BKK16-412.jpg
 image:
   featured: true
   name: BKK16-412.jpg

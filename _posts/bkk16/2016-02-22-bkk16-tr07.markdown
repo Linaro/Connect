@@ -13,6 +13,7 @@ excerpt: The complexity of the tools and working environments is very high in IT
   without talking to others and learning the results of their research. So, let's
   come together and discuss hardware/software setups for our workspaces and learn
   from each other.
+featured_image_name: BKK16-TR07.jpg
 image:
   featured: true
   name: BKK16-TR07.jpg

@@ -9,6 +9,7 @@ comments: false
 date: 2015-07-24 14:04:51
 excerpt: Review feedback and ACK from maintainers, agree with ARMv8 maintainer on
   next steps towards acceptance, agree on driver review guidelines
+featured_image_name: LCA14-107.jpg
 image:
   featured: true
   name: LCA14-107.jpg

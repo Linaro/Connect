@@ -9,6 +9,7 @@ comments: false
 date: 2015-07-24 14:06:01
 excerpt: "FLOSS - Free / Libre Open Source Software [1]\n \n What _is_ \"the community\"?\n
   What do they want from you?\n What do you get in return?\n [1] http://en.wikipedia.org/wiki/Free_and_open-source_software"
+featured_image_name: LCA14-110.jpg
 image:
   featured: true
   name: LCA14-110.jpg

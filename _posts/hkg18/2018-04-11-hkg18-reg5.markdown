@@ -7,6 +7,7 @@ categories:
 comments: false
 date: 2018-04-11 14:16:13
 excerpt: Registration will close at 5:00pm M-Th and 2:00pm on Friday.
+featured_image_name: HKG18-Reg5.png
 image:
   featured: true
   name: HKG18-Reg5.png

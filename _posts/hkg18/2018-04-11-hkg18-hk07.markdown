@@ -22,6 +22,7 @@ excerpt: '- Secure Key Store (SKS) - PKCS#11 based client library to be used wit
   - - Leverage SKS?
 
   - - Relations with Gatekeeper?'
+featured_image_name: HKG18-HK07.png
 image:
   featured: true
   name: HKG18-HK07.png

@@ -11,6 +11,7 @@ excerpt: ILP32 is a programming model that may be useful on AArch64 systems for 
   from upstream projects with the LEAP distribution to enable experimentation with
   this model. This talk discusses the relative benchmark performance of the LP64 and
   ILP32 programming models under AArch64.
+featured_image_name: BKK16-305B.jpg
 image:
   featured: true
   name: BKK16-305B.jpg

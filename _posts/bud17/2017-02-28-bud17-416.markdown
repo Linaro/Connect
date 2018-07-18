@@ -9,6 +9,7 @@ date: 2017-02-28 12:05:51
 excerpt: Benchmark and profiling are two newly developed features in OP-TEE. In this
   session we will cover what has been done and what is left to do and a bit about
   how it has been implemented.
+featured_image_name: BUD17-416.jpg
 image:
   featured: true
   name: BUD17-416.jpg

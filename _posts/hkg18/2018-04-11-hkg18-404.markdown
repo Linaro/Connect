@@ -7,6 +7,7 @@ categories:
 comments: false
 date: 2018-04-11 14:13:45
 excerpt: Common Misunderstanding of Copyleft
+featured_image_name: HKG18-404.png
 image:
   featured: true
   name: HKG18-404.png

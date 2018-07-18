@@ -11,6 +11,7 @@ excerpt: 'This survey of topics covers the engineering output of recent Android 
   LCR news, Work on both gcc and clang based toolchains, Increased participation in
   upstream development as well as a quick overview of some upcoming topics. Kernel
   possible topics: Generic Build: where we are at'
+featured_image_name: LAS16-209.png
 image:
   featured: true
   name: LAS16-209.png

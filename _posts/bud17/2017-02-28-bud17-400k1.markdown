@@ -16,6 +16,7 @@ excerpt: "HHVM is a high-performance, open source PHP execution engine developed
   HHVM can now target AArch64 in addition to x86-64 and successfully runs open source
   PHP frameworks like WordPress. Join us for an overview of HHVM, a quick demo, and
   some thoughts on where optimization efforts can go from here."
+featured_image_name: BUD17-400K1.jpg
 image:
   featured: true
   name: BUD17-400K1.jpg

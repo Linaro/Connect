@@ -22,6 +22,7 @@ excerpt: 'The current Hadoop ecosystem is challenged and slowed by fragmented an
 
   This talk will go over some of specifications defined, Linaro''s contributions,
   Roadmap and a quick demo'
+featured_image_name: BKK16-400B.jpg
 image:
   featured: true
   name: BKK16-400B.jpg

@@ -12,6 +12,7 @@ excerpt: Current hardware set on AI application have been dominated by GPGPU. We
   CNN dedicated processing accelerator into Socionext SynQuacer server becomes AI
   server with superior power efficiency to existing hardware set. The scalability
   of this AI server will make AI inference process similar to Index searching.
+featured_image_name: HKG18-304.png
 image:
   featured: true
   name: HKG18-304.png

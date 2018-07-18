@@ -26,6 +26,7 @@ excerpt: 'Introduction to secure storage concepts and design in TF-M. Some of th
   Early access to TF-M was released in December 2017 and it is being made public during
   Linaro Connect. The implementation should be considered a prototype until the PSA
   specifications reach release state and the code aligns._'
+featured_image_name: HKG18-222.png
 image:
   featured: true
   name: HKG18-222.png

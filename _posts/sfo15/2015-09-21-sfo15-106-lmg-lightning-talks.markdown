@@ -8,10 +8,11 @@ categories:
 - sfo15
 comments: false
 date: 2015-09-21 00:00:00
+featured_image_name: SFO15106LMGLightningTalks.jpg
 image:
   featured: true
-  name: SFO15-106-LMGLightningTalks.jpg
-  path: /assets/images/featured-images/SFO15-106-LMGLightningTalks.jpg
+  name: SFO15106LMGLightningTalks.jpg
+  path: /assets/images/featured-images/SFO15106LMGLightningTalks.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-106-lmg-lightning-talks/
 post_format:

@@ -13,6 +13,7 @@ excerpt: 'Last year, to provide at least a stop-gap solution to the problem of g
   This presentation goes through how to use and contribute to this repository, as
   well as providing a bit of an update about what is going on with getting platform
   code with EDK2 solved upstream.'
+featured_image_name: BKK16-309A.jpg
 image:
   featured: true
   name: BKK16-309A.jpg

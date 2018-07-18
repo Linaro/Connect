@@ -11,6 +11,7 @@ excerpt: The beloved LAVA dispatcher is currently undergoing a transformation to
   the LAVA team would like to provide status on what has been completed, what is in
   progress, and what is next. Feel free to join the team for a discussion shortly
   after a brief presentation and help us define the future of the LAVA dispatcher!
+featured_image_name: HKG15-111.jpg
 image:
   featured: true
   name: HKG15-111.jpg

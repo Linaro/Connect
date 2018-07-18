@@ -7,6 +7,7 @@ comments: false
 date: 2016-02-22 17:20:45
 excerpt: This presentation describes the architecture of OE builds and repositories
   as driven by LHG.
+featured_image_name: BKK16-307.jpg
 image:
   featured: true
   name: BKK16-307.jpg

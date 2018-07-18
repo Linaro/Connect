@@ -19,10 +19,11 @@ excerpt: "John\u2019s bio: John Simmons is the visionary who inspired Microsoft 
   Extensions (MSE) and authored an open spec to enable embedded browsers to implement
   EME without the use of proprietary software. At present John is the Media Platform
   Architect for Microsoft\u2019s Operating System Group."
+featured_image_name: SFO15200K3TheWebandDigitalRightsManagement.jpg
 image:
   featured: true
-  name: SFO15-200K3-TheWebandDigitalRightsManagement.jpg
-  path: /assets/images/featured-images/SFO15-200K3-TheWebandDigitalRightsManagement.jpg
+  name: SFO15200K3TheWebandDigitalRightsManagement.jpg
+  path: /assets/images/featured-images/SFO15200K3TheWebandDigitalRightsManagement.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-200k3-the-web-and-digital-rights-management/
 post_format:

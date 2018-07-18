@@ -10,6 +10,7 @@ excerpt: Two Linux pioneers, David Rusling (Linaro) and Linus Torvalds (Linux Fo
   will chat about past, present and future of Linux and the Open Source community.
   Questions submitted before hand will also be answered. Question submittal information
   coming soon.
+featured_image_name: LAS16-500K3.png
 image:
   featured: true
   name: LAS16-500K3.png

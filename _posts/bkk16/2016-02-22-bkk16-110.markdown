@@ -15,6 +15,7 @@ excerpt: "Smart connected devices such as mobile phones, tablets and Digital TVs
   how Trusted Execution is implemented by ARM TrustZone and OP-TEE, and outlines how
   trusted boot software manages the secure boot of an ARM platform. Finally, it gives
   some pointers on how to get started with OP-TEE."
+featured_image_name: BKK16-110.jpg
 image:
   featured: true
   name: BKK16-110.jpg

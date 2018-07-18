@@ -8,6 +8,7 @@ categories:
 comments: false
 date: 2015-07-24 14:04:54
 excerpt: Building Android with CLANG for ARM v7 and v8 platforms
+featured_image_name: LCA14-304.jpg
 image:
   featured: true
   name: LCA14-304.jpg

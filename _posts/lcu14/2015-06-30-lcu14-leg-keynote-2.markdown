@@ -6,6 +6,7 @@ categories:
 - lcu14
 comments: true
 date: 2015-06-30 17:08:38
+featured_image_name: LCU14-300b.jpg
 image:
   featured: true
   name: LCU14-300b.jpg

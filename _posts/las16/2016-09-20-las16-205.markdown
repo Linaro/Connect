@@ -11,6 +11,7 @@ excerpt: 'This session will cover the state of android-4.4: total patch count or
   dm-verity etc), patches dropped from android-4.4 either in favor of upstream patches
   (e.g. siockilladdr, switch class etc) or they are obsolete and no longer used in
   AOSP (e.g. uid, n/w activity stat etc).'
+featured_image_name: LAS16-205.png
 image:
   featured: true
   name: LAS16-205.png

@@ -13,6 +13,7 @@ excerpt: 'This session is a continuation of the Advanced Toolchain Usage Part 1 
   manually constructing a backtrace on arm & Aarch64, how to add lightweight debugging
   to your program, how to use a signal handler appropriately, and TLS Models on Aarch64
   and when to use them.'
+featured_image_name: HKG15-211.jpg
 image:
   featured: true
   name: HKG15-211.jpg

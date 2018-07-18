@@ -11,6 +11,7 @@ excerpt: This session will present a workflow of analyzing application or benchm
   toolchain. The session will cover use of profiling tools, reading of compiler optimization
   dumps, reducing optimization problems using compiler debug counters, and submitting
   optimization request/bug report to compiler developers
+featured_image_name: HKG15-501.jpg
 image:
   featured: true
   name: HKG15-501.jpg

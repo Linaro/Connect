@@ -10,6 +10,7 @@ excerpt: This presentation gives an updated RAS architecture on ARM64 base on RA
   extension (in ARMv8.2), SDEI (Software Delegated Exception Interface), APEI, UEFI
   PI-SMM.  Will talk about all the components of the new RAS architecture on ARM64,
   gives audience the current status and the next step of development.
+featured_image_name: SFO17-203.jpg
 image:
   featured: true
   name: SFO17-203.jpg

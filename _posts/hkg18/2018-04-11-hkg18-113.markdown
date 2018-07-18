@@ -9,6 +9,7 @@ date: 2018-04-11 14:11:12
 excerpt: NXP presentation on Secure Data Path work with i.MX8M Soc. Demonstrate 4K
   PlayReady playback with Android 8.1 running on i.MX8M. Focus on security (MS SL3000
   and Widevine level 1)
+featured_image_name: HKG18-113.png
 image:
   featured: true
   name: HKG18-113.png

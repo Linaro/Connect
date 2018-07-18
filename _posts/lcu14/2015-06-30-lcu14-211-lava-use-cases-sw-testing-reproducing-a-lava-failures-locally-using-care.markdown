@@ -9,6 +9,7 @@ excerpt: In this session, Remi, an ST assignee, will review how he is using LAVA
   ST to perform PRoot (an ST opensource project) testing and some of the extensions
   he has created for artifact publishing and reporducing LAVA failures using CARE
   (an extension to PRoot).
+featured_image_name: LCU14-211.jpg
 image:
   featured: true
   name: LCU14-211.jpg

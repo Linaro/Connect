@@ -13,6 +13,7 @@ excerpt: An overview of the infrastructure the Linaro LMG team is using for the 
   understanding of our infrastructure to any ART new starter as well as to anyone
   that is interesting in putting together a similar infrastructure for any other software
   project.
+featured_image_name: BKK16-306.jpg
 image:
   featured: true
   name: BKK16-306.jpg

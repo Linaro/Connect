@@ -17,6 +17,7 @@ excerpt: 'ARM server hardware will be shipping in 2016. An incredible amount of 
   FWTS to check for standards compliance, specifically ACPI and the SBBR, and how
   we can use LuvOS to run FWTS and other test suites so that we can rely on hard data,
   and not just wishful thinking.'
+featured_image_name: BKK16-400A.jpg
 image:
   featured: true
   name: BKK16-400A.jpg

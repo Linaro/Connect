@@ -32,6 +32,7 @@ excerpt: "The Android Open Source Project is one community which is strategic to
   where booting can be frequent and affect the product experience. Do you want to
   wait for a minute while your car boots? We\u2019ll spend time brainstorming on improving
   Android boot time."
+featured_image_name: LAS16-400.png
 image:
   featured: true
   name: LAS16-400.png

@@ -35,6 +35,7 @@ excerpt: "The current trend of IoT market segment is expected to enable and depl
   with options like TBSA-M+, TBSA-HSM and platform level security software abstraction
   framework to decouple the chosen RoT capability for various OSes and the Cloud security
   frameworks."
+featured_image_name: SFO17-304.jpg
 image:
   featured: true
   name: SFO17-304.jpg

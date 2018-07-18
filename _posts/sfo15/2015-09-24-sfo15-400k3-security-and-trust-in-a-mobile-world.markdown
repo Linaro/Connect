@@ -5,10 +5,11 @@ categories:
 - sfo15
 comments: false
 date: 2015-09-24 00:00:00
+featured_image_name: SFO15400K3SecurityandTrustinaMobileWorld.jpg
 image:
   featured: true
-  name: SFO15-400K3-SecurityandTrustinaMobileWorld.jpg
-  path: /assets/images/featured-images/SFO15-400K3-SecurityandTrustinaMobileWorld.jpg
+  name: SFO15400K3SecurityandTrustinaMobileWorld.jpg
+  path: /assets/images/featured-images/SFO15400K3SecurityandTrustinaMobileWorld.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-400k3-security-and-trust-in-a-mobile-world/
 post_format:

@@ -9,6 +9,7 @@ date: 2015-06-30 17:07:47
 excerpt: Isolation allows a task to have the core dedicated to its needs until it
   exits, currently the linux kernel interferes with this isolation in multiple ways.
   This task is targeted at removing these interruptions.
+featured_image_name: LCU14-401.jpg
 image:
   featured: true
   name: LCU14-401.jpg

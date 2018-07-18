@@ -17,6 +17,7 @@ excerpt: "ATOS is an Auto Tuning Optimization System that is able to find automa
   into the initial build system.\n    The nice property of ATOS is that NO modification
   of the sources or the makefiles are needed. ATOS can work on any large/deep project,
   as soon as the compiler used is gcc or LLVM under Linux."
+featured_image_name: BKK16-308.jpg
 image:
   featured: true
   name: BKK16-308.jpg

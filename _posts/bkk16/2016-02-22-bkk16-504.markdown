@@ -11,6 +11,7 @@ excerpt: Running Linux in EL2 offers potentially important performance benefits 
   worse performance for userspace applications.  This talk explores the required actions
   taken so far, an analysis of the benefits, and discusses challenges with upstreaming
   this approach.
+featured_image_name: BKK16-504.jpg
 image:
   featured: true
   name: BKK16-504.jpg

@@ -13,6 +13,7 @@ excerpt: 'This session will be about sharing current status and discussing ways 
   maintainers to join the cause. * SA110 platforms: RISC PC, EBSA110 and Footbridge/Netwinder
   - are people using them, maintaining them and testing new kernels on them? If not,
   can we deprecate and delete the SA110 platforms?'
+featured_image_name: LCA14-202.jpg
 image:
   featured: true
   name: LCA14-202.jpg

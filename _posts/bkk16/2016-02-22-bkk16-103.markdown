@@ -10,6 +10,7 @@ excerpt: The OpenCSD library for decoding CoreSight traces has reached the point
   it is ready to be integrated into applications. This session will present an overview
   of the state of the library, its interfaces and explore and demonstrate a sample
   integration with perf.
+featured_image_name: BKK16-103.jpg
 image:
   featured: true
   name: BKK16-103.jpg

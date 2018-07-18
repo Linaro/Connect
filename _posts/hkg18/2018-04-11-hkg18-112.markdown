@@ -13,6 +13,7 @@ excerpt: Ceph is a unified, distributed storage system designed for excellent pe
   how to accelerate Ceph by SPDK on AArch64 platform. SPDK can improve the IOPs of
   Ceph cluster, reduce the data transmission latency and reduce the CPU cost. It will
   make Ceph cluster profit from multi-core advantage on AArch64 platform.
+featured_image_name: HKG18-112.png
 image:
   featured: true
   name: HKG18-112.png

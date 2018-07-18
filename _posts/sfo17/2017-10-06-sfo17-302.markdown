@@ -18,6 +18,7 @@ excerpt: "The BFQ I/O scheduler has been finally ported to blk-mq, and merged\n 
   imposed by modern devices. As a last part, we try to have a look at\n the future
   of BFQ, and of the latency issues that still affect many,\n if not most Linux-based
   systems"
+featured_image_name: SFO17-302.jpg
 image:
   featured: true
   name: SFO17-302.jpg

@@ -9,6 +9,7 @@ date: 2017-10-06 16:54:03
 excerpt: This sessions will discuss the latest status on SBSA/SBBR specifications,
   compliance test and program. It will also discuss the standardization effort on
   the server management.
+featured_image_name: SFO17-117.jpg
 image:
   featured: true
   name: SFO17-117.jpg

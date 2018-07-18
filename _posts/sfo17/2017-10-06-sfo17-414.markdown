@@ -10,6 +10,7 @@ excerpt: The 96Boards Mezzanine ecosystem continues to grow as both partner and 
   engagement increase. To sustain and drive efforts forward, we must unite and maintain.
   This session will address the past, present and future potential of this vibrant
   ecosystem and touch on new ways to organize and allocate community resources.
+featured_image_name: SFO17-414.jpg
 image:
   featured: true
   name: SFO17-414.jpg

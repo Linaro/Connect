@@ -11,10 +11,11 @@ date: 2015-09-22 00:00:00
 excerpt: 'Abstract: Experiences productizing the gateway (from hobby to product) and
   the challenges for IoT deployment scenarios: Home security, Home automation, Home
   healthcare, and Enterprise IoT (smart manufacturing).'
+featured_image_name: SFO15209CiscoConnectedLifeIoTGateway.jpg
 image:
   featured: true
-  name: SFO15-209-CiscoConnectedLifeIoTGateway.jpg
-  path: /assets/images/featured-images/SFO15-209-CiscoConnectedLifeIoTGateway.jpg
+  name: SFO15209CiscoConnectedLifeIoTGateway.jpg
+  path: /assets/images/featured-images/SFO15209CiscoConnectedLifeIoTGateway.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-209-cisco-connected-life-iot-gateway/
 post_format:

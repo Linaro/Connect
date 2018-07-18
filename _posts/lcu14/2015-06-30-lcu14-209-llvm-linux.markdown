@@ -12,6 +12,7 @@ excerpt: This session will provide an update on the status of the LLVMLinux proj
   LLVM which make clang even more attractive to the kernel community. LLVM is an extensive
   compiler technology suite which is already commonplace from Android/Renderscript
   and OpenCL through to high performance computing clusters.
+featured_image_name: LCU14-209.jpg
 image:
   featured: true
   name: LCU14-209.jpg

@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-04-23 15:38:00
 excerpt: 'This session provides a summary of ODP activities since LCU '
+featured_image_name: HKG15-110.jpg
 image:
   featured: true
   name: HKG15-110.jpg

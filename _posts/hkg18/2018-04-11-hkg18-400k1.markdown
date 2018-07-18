@@ -9,6 +9,7 @@ date: 2018-04-11 14:13:45
 excerpt: This talk will explain why a commercial organization should join the open
   source development from the software architecture and commercial competition  perspective.
   And it will also tell how a bad open source strategy will fail the original target.
+featured_image_name: HKG18-400K1.png
 image:
   featured: true
   name: HKG18-400K1.png

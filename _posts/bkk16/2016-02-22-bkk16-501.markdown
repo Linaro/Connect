@@ -10,6 +10,7 @@ excerpt: "An update to the state of reference platform kernel and bootloader and
   discussion about the patch-inclusion policy. We\u2019ll also cover roadmap plans.
   Participation is invited if you have ideas on how we can make it easy to use the
   reference platform kernel for your development projects."
+featured_image_name: BKK16-501.jpg
 image:
   featured: true
   name: BKK16-501.jpg

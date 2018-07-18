@@ -15,6 +15,7 @@ excerpt: Deep learning algorithms are gaining popularity in IoT edge devices, be
   software kernels to enable deployment of neural networks on Cortex-M cores. We further
   present NN architecture exploration, using keyword spotting application as an example,
   to develop light-weight models suitable for resource constrained systems.
+featured_image_name: HKG18-312.png
 image:
   featured: true
   name: HKG18-312.png

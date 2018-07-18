@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-06-30 17:09:15
 excerpt: Overview of Red Hat for ARM Servers
+featured_image_name: LCU14-304.jpg
 image:
   featured: true
   name: LCU14-304.jpg

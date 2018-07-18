@@ -11,6 +11,7 @@ excerpt: Present performance data for the three kernel versions, showing the dif
   in results from the main stream test suites that analyse real time. Contrast with
   NO_HZ alone possibly and try to provide some insight into the trade offs between
   the approaches.
+featured_image_name: LCA14-506.jpg
 image:
   featured: true
   name: LCA14-506.jpg

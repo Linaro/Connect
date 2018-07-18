@@ -9,6 +9,7 @@ comments: false
 date: 2015-07-24 14:04:53
 excerpt: Come with identification of gaps (topology, shared data, etc.) Discuss pros
   and cons of existing proposals Go away with ownership of gaps identified
+featured_image_name: LCA14-306.jpg
 image:
   featured: true
   name: LCA14-306.jpg

@@ -10,6 +10,7 @@ excerpt: LHG has recently launched an AOSP TV lead project which is focused on s
   TV use cases using Android from AOSP for TV form factor. This presentation will
   describe the current AOSP TV builds on 96Boards and the strategy for Android TV
   for members and the community.
+featured_image_name: BUD17-118.jpg
 image:
   featured: true
   name: BUD17-118.jpg

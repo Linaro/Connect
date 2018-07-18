@@ -26,6 +26,7 @@ excerpt: 'The concept of ''time'' in Linux is encoded in many different ways, bu
   we are doing to address some of these issues.
 
 '
+featured_image_name: HKG15-206.jpg
 image:
   featured: true
   name: HKG15-206.jpg

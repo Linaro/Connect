@@ -23,6 +23,7 @@ excerpt: 'Memory footprint analysis
   Validation of VP8/VP9 using LAVA
 
 '
+featured_image_name: HKG15-102.jpg
 image:
   featured: true
   name: HKG15-102.jpg

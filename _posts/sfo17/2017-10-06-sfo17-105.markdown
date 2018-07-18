@@ -12,6 +12,7 @@ excerpt: MINCS is a small container engine written in shell script. This present
   image manager and ""polecat"" which shrinks down the container image for an application.
   It can be useful for testing cross-built rootfs and importing new applications on
   your platform.
+featured_image_name: SFO17-105.jpg
 image:
   featured: true
   name: SFO17-105.jpg

@@ -15,6 +15,7 @@ excerpt: Device-tree overlay feature allows for runtime modification of flattene
   overlay blob may not be resolved from the base (overlay) blob. This is useful to
   maintain device-tree source code in multiple repositories and merge their binary
   forms together during build.
+featured_image_name: HKG18-420.png
 image:
   featured: true
   name: HKG18-420.png

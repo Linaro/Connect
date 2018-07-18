@@ -8,6 +8,7 @@ comments: false
 date: 2018-04-11 14:11:54
 excerpt: A brief overview of Android common kernels. Out of mainline patchset status
   and a quick introduction to experimental/android-mainline-tracking tree.
+featured_image_name: HKG18-211.png
 image:
   featured: true
   name: HKG18-211.png

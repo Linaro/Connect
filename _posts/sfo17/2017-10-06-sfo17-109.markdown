@@ -17,6 +17,7 @@ excerpt: "Kubernetes and DPDK are the biggest hype for NFV solution today. While
   with high performance and low latency networking design. The benefits of leveraging
   container-based infrastructure for NFV use cases, particularly on the network edge
   based on ARM servers will be illustrated."
+featured_image_name: SFO17-109.jpg
 image:
   featured: true
   name: SFO17-109.jpg

@@ -10,6 +10,7 @@ comments: false
 date: 2015-09-25 00:00:00
 excerpt: "Show off current capabilities (benchmarking, power measurements), discuss
   Linaro\u2019s use of the Workload Automation (WA), suite and invite feedback"
+featured_image_name: SFO15506CapabilitiesofWorkloadAutomationtestharness.jpg
 image:
   featured: true
   name: SFO15506CapabilitiesofWorkloadAutomationtestharness.jpg

@@ -26,10 +26,11 @@ excerpt: "Suresh\u2019s bio: Dr. Suresh Gopalakrishnan is the corporate vice pre
   and HP.\n\nDr. Gopalakrishnan holds a Ph.D. in Electrical Engineering from the University
   of Idaho and has completed the Advanced Executive Program at Northwestern University\u2019s
   Kellogg School of Management. He is based in Sunnyvale, California."
+featured_image_name: SFO15300K2SureshGopalakrishnanAMD.jpg
 image:
   featured: true
-  name: SFO15-300K2-SureshGopalakrishnan,AMD.jpg
-  path: /assets/images/featured-images/SFO15-300K2-SureshGopalakrishnan,AMD.jpg
+  name: SFO15300K2SureshGopalakrishnanAMD.jpg
+  path: /assets/images/featured-images/SFO15300K2SureshGopalakrishnanAMD.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-300k2-suresh-gopalakrishnan-amd/
 post_format:

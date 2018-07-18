@@ -17,6 +17,7 @@ excerpt: The CoreSight framework available in the Linux kernel has recently been
   provide an end-to-end solution for CoreSight trace decoding. The presentation will
   conclude with trace acquisition and decoding scenarios, along with tips on how to
   interpret trace information rendered by the perf tools.
+featured_image_name: LAS16-210.png
 image:
   featured: true
   name: LAS16-210.png

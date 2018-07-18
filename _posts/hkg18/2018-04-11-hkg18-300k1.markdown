@@ -10,6 +10,7 @@ excerpt: "At scale everything changes. It is one thing to operate a datacenter o
   10K nodes, it\u2019s an entirely different thing to operate millions of nodes across
   100\u2019s of datacenters around the world.  What works well for enterprises doesn\u2019t
   necessarily work at scale."
+featured_image_name: HKG18-300K1.png
 image:
   featured: true
   name: HKG18-300K1.png

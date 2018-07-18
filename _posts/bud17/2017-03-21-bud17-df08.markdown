@@ -7,6 +7,7 @@ categories:
 comments: false
 date: 2017-03-21 15:31:37
 excerpt: RDK ports on 96Boards
+featured_image_name: BUD17-DF08.jpg
 image:
   featured: true
   name: BUD17-DF08.jpg

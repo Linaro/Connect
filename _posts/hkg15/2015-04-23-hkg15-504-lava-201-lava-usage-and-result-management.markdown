@@ -6,6 +6,7 @@ categories:
 comments: true
 date: 2015-04-23 15:36:23
 excerpt: 'Part 2: Want to get involved with LAVA but don'
+featured_image_name: HKG15-504.jpg
 image:
   featured: true
   name: HKG15-504.jpg

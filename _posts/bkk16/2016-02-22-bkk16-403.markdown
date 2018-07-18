@@ -8,6 +8,7 @@ comments: false
 date: 2016-02-22 17:20:51
 excerpt: Update on progress and discuss next steps on Android HAL consolidation Lead
   Project
+featured_image_name: BKK16-403.jpg
 image:
   featured: true
   name: BKK16-403.jpg

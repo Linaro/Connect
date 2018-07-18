@@ -8,6 +8,7 @@ comments: false
 date: 2018-04-11 14:12:48
 excerpt: 'Title: "Overview of Qualcomm Snapdragon Neural Processing Engine" Abstract:
   An overview presentation of Snapdragon NPE with Android based demos'
+featured_image_name: HKG18-306.png
 image:
   featured: true
   name: HKG18-306.png

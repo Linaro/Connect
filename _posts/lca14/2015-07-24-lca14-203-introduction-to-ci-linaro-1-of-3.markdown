@@ -11,6 +11,7 @@ excerpt: "QA Services will introduce you to existing Linaro Test Plans\n Builds 
   Baselines will provide an overview to our build system, how to create, manage and
   close out a build and how to submit the build artifacts to LAVA for a test on lab
   hardware."
+featured_image_name: LCA14-203.jpg
 image:
   featured: true
   name: LCA14-203.jpg

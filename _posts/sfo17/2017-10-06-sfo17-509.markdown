@@ -10,6 +10,7 @@ excerpt: A new era of deep learning is coming with algorithm evolvement, powerfu
   computing platforms and large dataset availability. This session will focus on existing
   and potential heterogeneous accelerator solutions (GPU, FPGA, DSP, and etc) for
   ARM platforms and the work ahead from platform perspective.
+featured_image_name: SFO17-509.jpg
 image:
   featured: true
   name: SFO17-509.jpg

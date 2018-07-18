@@ -12,6 +12,7 @@ excerpt: Several open source test frameworks for Linux exist and are being activ
   test systems, and propose standards in some areas so that the different frameworks
   can share infrastructure and interoperate.  This include standards for results formats,
   interfaces to commonly-used utility programs, and for board control hardware.
+featured_image_name: SFO17-116.jpg
 image:
   featured: true
   name: SFO17-116.jpg

@@ -11,6 +11,7 @@ excerpt: The purpose of this talk is to provide the audience with an introductio
   by LHG. The browser test suite is used to compare browser performance and compliance
   by using a series of benchmarks in key test categories. Sample browser results for
   both Android and RDK will be presented.
+featured_image_name: HKG15-411.jpg
 image:
   featured: true
   name: HKG15-411.jpg

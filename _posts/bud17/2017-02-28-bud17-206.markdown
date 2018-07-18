@@ -11,6 +11,7 @@ excerpt: "This session will talk about efforts around increasing Android testing
   - Current testing Linaro does\n \n - Changes we\u2019re working on for testing AOSP/master\n
   \n - More kernel focused testing & integrating community tests into android\n \n
   - \u201CSharding\u201D CTS test runs in the cloud for faster results"
+featured_image_name: BUD17-206.jpg
 image:
   featured: true
   name: BUD17-206.jpg

@@ -9,6 +9,7 @@ comments: false
 date: 2015-07-24 14:05:41
 excerpt: Define key use cases, review architectural choices, review external dependencies
   (key signing authority, etc.)
+featured_image_name: LCA14-105.jpg
 image:
   featured: true
   name: LCA14-105.jpg

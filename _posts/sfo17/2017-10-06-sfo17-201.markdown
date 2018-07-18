@@ -15,6 +15,7 @@ excerpt: "Building a totally secure boot system goes through establishing a full
   up to the Operating System execution by combining ARM Trusted Firmware with EDK2,
   two reference open-source implementations of the ARM Trusted Board Boot Requirement
   and UEFI Secure Boot specifications respectively."
+featured_image_name: SFO17-201.jpg
 image:
   featured: true
   name: SFO17-201.jpg

@@ -6,10 +6,11 @@ categories:
 - sfo15
 comments: false
 date: 2015-09-23 00:00:00
+featured_image_name: SFO15TR4ServerEcosytemDayPart4bCentOS.jpg
 image:
   featured: true
-  name: SFO15TR4ServerEcosytemDayPart4b(CentOS).jpg
-  path: /assets/images/featured-images/SFO15TR4ServerEcosytemDayPart4b(CentOS).jpg
+  name: SFO15TR4ServerEcosytemDayPart4bCentOS.jpg
+  path: /assets/images/featured-images/SFO15TR4ServerEcosytemDayPart4bCentOS.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr4-server-ecosytem-day-part-4b-centos/
 post_format:

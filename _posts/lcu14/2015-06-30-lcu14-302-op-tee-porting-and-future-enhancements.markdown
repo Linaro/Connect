@@ -13,6 +13,7 @@ excerpt: OP-TEE (Open Portable Trusted Execution Environment) is the source code
   or board specific hardware IP. In this session, you can learn the steps to follow
   to port OP-TEE for your armv7 platform, as the ones that have been defined when
   porting OP-TEE to A80 (SWG-77). OP-TEE to the Allwinner A80 platform
+featured_image_name: LCU14-302.jpg
 image:
   featured: true
   name: LCU14-302.jpg

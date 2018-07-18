@@ -14,6 +14,7 @@ excerpt: As we know, container technology are the most eminent virtualization te
   hand, for CI-CD purpose of our NFVI development work, how to efficiently measure,
   collect and analyze the performance data of the container networking environment
   for ARM container based NFVI infrastructure is also an important issue to deal with.
+featured_image_name: SFO17-119.jpg
 image:
   featured: true
   name: SFO17-119.jpg

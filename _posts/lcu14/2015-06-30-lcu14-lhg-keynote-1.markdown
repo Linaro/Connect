@@ -5,6 +5,7 @@ categories:
 - lcu14
 comments: true
 date: 2015-06-30 17:09:33
+featured_image_name: LCU14-200a.jpg
 image:
   featured: true
   name: LCU14-200a.jpg

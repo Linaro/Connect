@@ -21,6 +21,7 @@ excerpt: "VIXL is dynamic code generation toolkit for ARMv8 that we hope will en
   will introduce you to what VIXL is, what\u2019s new in VIXL and how to use it and
   take advantage of all its components that cover all the aspects of software development
   on ARM CPUs."
+featured_image_name: SFO15500VIXL.jpg
 image:
   featured: true
   name: SFO15500VIXL.jpg

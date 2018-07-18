@@ -7,10 +7,11 @@ comments: false
 date: 2015-07-24 14:04:58
 excerpt: A technical overview of enterprise workloads on linux on arm64, the focus
   is the tools available on arm64 to profile the workloads for performance.
+featured_image_name: LCA14-300K1.jpg
 image:
   featured: true
-  name: LCA14-300K1.jpg
-  path: /assets/images/featured-images/LCA14-300K1.jpg
+  name: LCA14-300K2.jpg
+  path: /assets/images/featured-images/LCA14-300K2.jpg
 layout: post
 link: http://connect.linaro.org/resource/lca14/wednesday-keynote-profiling-server-workload-for-arm64-cole-crawford-keynote-2/
 post_format:

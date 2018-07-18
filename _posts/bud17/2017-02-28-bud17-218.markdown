@@ -12,6 +12,7 @@ excerpt: "The Per Entity Load Tracking (PELT) is a key stone in tasks placement 
   to consider another load tracking mechanism for scheduler and/or EAS. This session
   will show the improvement reached since the last connect and the LPC as well as
   the next ones. We will also looks at the RT class which lacks a good load tracking."
+featured_image_name: BUD17-218.jpg
 image:
   featured: true
   name: BUD17-218.jpg

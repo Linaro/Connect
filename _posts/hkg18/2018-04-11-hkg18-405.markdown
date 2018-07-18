@@ -17,6 +17,7 @@ excerpt: The performance and accuracy of Convolutional Neural Networks for visua
   as well as varying number of neurons and layers. Finally, we will demonstrate a
   BNN running on a 96 board doing real-time traffic recognition at over 8,000 images
   per second.
+featured_image_name: HKG18-405.png
 image:
   featured: true
   name: HKG18-405.png

@@ -14,6 +14,7 @@ excerpt: Both the Field and more recently the LAVA lab have worked on HOWTOs to 
   show how an evaluation installation of LAVA along with a qemu target can be assembled
   in a VM. The target audience is member engineers or managers who are aware of LAVA
   and would consider to evaluate a pilot local installation
+featured_image_name: SFO15-TR8.jpg
 image:
   featured: true
   name: SFO15-TR8.jpg

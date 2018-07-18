@@ -9,6 +9,7 @@ comments: false
 date: 2015-07-24 14:05:30
 excerpt: Come with some existing tools to show. Go away with clear understanding of
   what are the gaps, how to fill them and who will fill them.
+featured_image_name: LCA14-206.jpg
 image:
   featured: true
   name: LCA14-206.jpg

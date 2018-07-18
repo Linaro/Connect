@@ -10,6 +10,7 @@ excerpt: This BOF session will analyze architectural challenges migrating Chromi
   from the desktop to embedded devices.  The impacts of different GPU libraries with
   their respective limitations will be discussed.  We welcome audience participation
   in an open discussion on the V4L2 adaptation in Chromium.
+featured_image_name: BKK16-209.jpg
 image:
   featured: true
   name: BKK16-209.jpg

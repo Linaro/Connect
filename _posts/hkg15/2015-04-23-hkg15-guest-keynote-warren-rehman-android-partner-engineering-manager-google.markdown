@@ -4,6 +4,7 @@ categories:
 - hkg15
 comments: true
 date: 2015-04-23 15:36:30
+featured_image_name: HKG15-400K1.jpg
 image:
   featured: true
   name: HKG15-400K1.jpg

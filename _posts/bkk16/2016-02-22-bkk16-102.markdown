@@ -9,6 +9,7 @@ date: 2016-02-22 17:20:34
 excerpt: "The session will cover the steps needed to prepare and use new workload
   for Workload Automation tool. The talk is based on the use case of preparing the
   \u2018applaunch + I/O\u2019 test case for benchmarking I/O schedulers."
+featured_image_name: BKK16-102.jpg
 image:
   featured: true
   name: BKK16-102.jpg

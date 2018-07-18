@@ -11,10 +11,11 @@ date: 2015-09-21 00:00:00
 excerpt: Updates on the status of the 96Boards program, development of the hardware
   ecosystem and how Linaro is helping to achieve better upstream coverage both in
   software code and documentation.
+featured_image_name: SFO1510096Boardsthecourseupstream.jpg
 image:
   featured: true
-  name: SFO15-100-96Boards&thecourseupstream.jpg
-  path: /assets/images/featured-images/SFO15-100-96Boards&thecourseupstream.jpg
+  name: SFO1510096Boardsthecourseupstream.jpg
+  path: /assets/images/featured-images/SFO1510096Boardsthecourseupstream.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-100-96boards-the-course-upstream/
 post_format:

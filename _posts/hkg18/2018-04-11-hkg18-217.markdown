@@ -11,6 +11,7 @@ excerpt: This session will provide an overview of Linaro OpenCDM/CDMi work with 
   build. The main focus will be about the addition of WPE browser support to existing
   Linaro CDM/CDMi and it's validation with different DRMs like ClearKey, PlayReady
   and Widevine on RDK Client image (Morty OE build) with Westeros Wayland Compositor.
+featured_image_name: HKG18-217.png
 image:
   featured: true
   name: HKG18-217.png

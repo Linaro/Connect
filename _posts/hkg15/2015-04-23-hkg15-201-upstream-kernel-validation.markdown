@@ -16,6 +16,7 @@ excerpt: Performing kernel validation on hundreds of platforms for every merge o
   through of the dashboard. A demo will provide users an example of how they may interact
   with the system. The second half of the session will be a dedicated discussions
   on next steps.
+featured_image_name: HKG15-201.jpg
 image:
   featured: true
   name: HKG15-201.jpg

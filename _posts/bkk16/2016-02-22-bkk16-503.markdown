@@ -14,6 +14,7 @@ excerpt: Compilers such as GCC may use undefined behaviour in language specifica
   standards and address what compilers can do to exploit the standard in order to
   generate optimized code. We will also look at tools that can help us in detecting
   undefined behaviours so that these correctness issues can be prevented.
+featured_image_name: BKK16-503.jpg
 image:
   featured: true
   name: BKK16-503.jpg

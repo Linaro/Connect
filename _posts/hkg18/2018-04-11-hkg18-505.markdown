@@ -21,6 +21,7 @@ excerpt: 'UEFI is a firmware specification created by Intel with portability in 
   Join me in exploring the depth of UEFI binary interfaces, marshalling between different
   architecture''s function call ABIs on the fly and learn how to integrate all of
   this into a working firmware, running on real hardware, driving a real PCIe adapter.'
+featured_image_name: HKG18-505.png
 image:
   featured: true
   name: HKG18-505.png

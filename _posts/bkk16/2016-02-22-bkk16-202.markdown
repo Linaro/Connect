@@ -9,6 +9,7 @@ date: 2016-02-22 17:20:37
 excerpt: "Cool things we\u2019re working on upstreaming from Android (reboot reason,
   pstore dts?, partition uevents)\nDRM driver status/details\nML lib acceleration
   with OpenCL\nART Team update"
+featured_image_name: BKK16-202.jpg
 image:
   featured: true
   name: BKK16-202.jpg

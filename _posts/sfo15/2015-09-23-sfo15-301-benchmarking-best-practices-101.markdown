@@ -14,6 +14,7 @@ excerpt: "This presentation will focus on beginner\u2019s benchmarking best prac
   of time and get the same results. An experiment is reproducible if external teams
   can run the same experiment over large periods of time and get comparable results.
   Clear, concise reporting allows others to utilise benchmark results."
+featured_image_name: SFO15301BenchmarkingBestPractices101.jpg
 image:
   featured: true
   name: SFO15301BenchmarkingBestPractices101.jpg

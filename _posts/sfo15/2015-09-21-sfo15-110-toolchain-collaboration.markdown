@@ -12,10 +12,11 @@ excerpt: The OpenDataPlane project is now two years old and is beginning to see 
   interest on the part of both application writers and platform providers. This talk
   will discuss recent developments in ODP and its uses and look at what lies ahead
   for this fast-growing open source project.
+featured_image_name: SFO15110ToolchainCollaboration.jpg
 image:
   featured: true
-  name: SFO15-110-ToolchainCollaboration.jpg
-  path: /assets/images/featured-images/SFO15-110-ToolchainCollaboration.jpg
+  name: SFO15110ToolchainCollaboration.jpg
+  path: /assets/images/featured-images/SFO15110ToolchainCollaboration.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-110-toolchain-collaboration/
 post_format:

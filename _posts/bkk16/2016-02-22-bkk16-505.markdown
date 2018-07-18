@@ -9,6 +9,7 @@ date: 2016-02-22 17:20:57
 excerpt: An overview of the work being done to support the mezzanine hardware ecosystem.
   Will cover the tools available, the boards that have already been created, and materials
   provided to support mezzanine board designers
+featured_image_name: BKK16-505.jpg
 image:
   featured: true
   name: BKK16-505.jpg

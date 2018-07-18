@@ -13,6 +13,7 @@ excerpt: To use mobile GPU to accelerate deep learning inference on ARM platform
   to support different frameworks and backends. OpenCL is one of the supported backends
   by NNVM & TVM now, the latest status and some how-tos will be discussed in this
   session.
+featured_image_name: HKG18-417.png
 image:
   featured: true
   name: HKG18-417.png

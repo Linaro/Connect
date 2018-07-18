@@ -12,6 +12,7 @@ excerpt: Being able to see the performance and power impacts of changes in a rea
   of this session will review setting up the tools to automate testing for performance
   and power in Android. The second half will cover the results of using these tests
   to compare the schedutil and interactive governors.
+featured_image_name: LAS16-307.png
 image:
   featured: true
   name: LAS16-307.png

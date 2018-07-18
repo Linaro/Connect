@@ -7,6 +7,7 @@ categories:
 - sfo15
 comments: false
 date: 2015-11-03 13:46:11
+featured_image_name: SFO15-411.jpg
 image:
   featured: true
   name: SFO15-411.jpg

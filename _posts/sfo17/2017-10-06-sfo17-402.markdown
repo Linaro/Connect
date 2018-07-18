@@ -12,6 +12,7 @@ excerpt: "Often an embedded WLAN chip is connected via an SDIO bus. During a sys
   several hundreds of milliseconds, as also shown by real measurements. Unfortunate
   this time adds up to the total suspend/resume time for the system.\n \n In this
   session the problem is being described and a solution being explored."
+featured_image_name: SFO17-402.jpg
 image:
   featured: true
   name: SFO17-402.jpg

@@ -15,6 +15,7 @@ excerpt: "Android integrates SQLite for database management, it\xE2\u20AC\u2122s
   So ideally both the data transfer to/from external storage and CPU utilization can
   be optimized. This presentation highlights the possibilities of optimizations in
   SQLite."
+featured_image_name: LCA14-205.jpg
 image:
   featured: true
   name: LCA14-205.jpg

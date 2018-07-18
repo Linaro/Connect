@@ -7,6 +7,7 @@ categories:
 comments: false
 date: 2016-02-22 17:20:36
 excerpt: Discuss the details of proposed lead project 2
+featured_image_name: BKK16-109.jpg
 image:
   featured: true
   name: BKK16-109.jpg

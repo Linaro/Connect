@@ -20,6 +20,7 @@ excerpt: 'ARM''s Scalable Vector Extensions present an innovative way of scaling
   seriously we need to look at improving our testing tools that currently have naive
   assumptions about results of an individual instruction across various implementations.
   As you will see implementing SVE is more than just adding a few extra instructions.'
+featured_image_name: SFO17-103.jpg
 image:
   featured: true
   name: SFO17-103.jpg

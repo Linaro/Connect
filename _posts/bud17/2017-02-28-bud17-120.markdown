@@ -12,6 +12,7 @@ excerpt: "Adding support for IEEE 802.15.4 and 6LoWPAN to an embedded Linux syst
   \ \n as border router for such networks.\n  \n This talk will show the current kernel
   support, how to enable and configure the\n  subsystems to use it and how to communicate
   between Linux and IoT operating\n  systems like RIOT, Contiki or Zephyr."
+featured_image_name: BUD17-120.jpg
 image:
   featured: true
   name: BUD17-120.jpg

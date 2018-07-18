@@ -7,6 +7,7 @@ comments: true
 date: 2015-07-24 14:04:02
 excerpt: Review performance evaluation suites, public results and further optimisation
   plans. Review JCK certification scope, responsibilities and plans.
+featured_image_name: LCA14-508.jpg
 image:
   featured: true
   name: LCA14-508.jpg

@@ -8,6 +8,7 @@ comments: true
 date: 2015-06-30 17:09:23
 excerpt: The LAVA team will present the current status of the LAVA product and highlight
   the the in-progress dispatcher re-factoring.
+featured_image_name: LCU14-207.jpg
 image:
   featured: true
   name: LCU14-207.jpg

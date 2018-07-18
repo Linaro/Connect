@@ -13,10 +13,11 @@ excerpt: "There has been recent work upstream to enable the LKP tests to build a
   these tests into Linaro\xE4\xF3\xBBs Automated Validation Architecture, and this
   presentation will provide a brief overview of the LKP results that have been obtained.
   It will also demonstrate useful way to compare the data."
+featured_image_name: SFO15303LinuxKernelPerformanceLKPProjectonARM.jpg
 image:
   featured: true
-  name: SFO15-303-LinuxKernelPerformance(LKP)ProjectonARM.jpg
-  path: /assets/images/featured-images/SFO15-303-LinuxKernelPerformance(LKP)ProjectonARM.jpg
+  name: SFO15303LinuxKernelPerformanceLKPProjectonARM.jpg
+  path: /assets/images/featured-images/SFO15303LinuxKernelPerformanceLKPProjectonARM.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-303-linux-kernel-performance-lkp-project-on-arm/
 post_format:

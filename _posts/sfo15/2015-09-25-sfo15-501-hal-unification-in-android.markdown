@@ -9,6 +9,7 @@ categories:
 comments: false
 date: 2015-09-25 00:00:00
 excerpt: Presentation and discussion to advance lead project on Android HAL unification.
+featured_image_name: SFO15501HALUnificationinAndroid.jpg
 image:
   featured: true
   name: SFO15501HALUnificationinAndroid.jpg

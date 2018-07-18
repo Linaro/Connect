@@ -10,6 +10,7 @@ excerpt: This presentation provides a current view of the Security work performe
   in LHG.  The focus is on hardware protected DRM integrated with OP TEE, creation
   of a Secure Data Path coupled with the Open Content Decryption Module, and the lessons
   learned from integrating third party libraries into trusted applications.
+featured_image_name: BKK16-201.jpg
 image:
   featured: true
   name: BKK16-201.jpg

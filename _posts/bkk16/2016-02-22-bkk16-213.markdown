@@ -13,6 +13,7 @@ excerpt: Linaro has multiple labs and board farms with varying purposes. This se
   upon which lab/board farm is being considered, so all will be reviewed) in each
   of the farm locations. Finally, the session will provide pointers to any respective
   documentation, user guides, etc. for each of the locations.
+featured_image_name: BKK16-213.jpg
 image:
   featured: true
   name: BKK16-213.jpg

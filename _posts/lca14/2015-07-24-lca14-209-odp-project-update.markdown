@@ -12,6 +12,7 @@ excerpt: ODP was announced at LCU13. An initial public release of ODP was publis
   extensions as well as new implementations. We will review ODP progress to date and
   discuss what is now available, as well as the directions for further development
   and deployment in 2014.
+featured_image_name: LCA14-209.jpg
 image:
   featured: true
   name: LCA14-209.jpg

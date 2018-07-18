@@ -8,6 +8,7 @@ excerpt: "As ODP enters its third year we are seeing increased maturity in its c
   as well as increased adoption by application writers. This talk highlights ODP developments
   since SFO15 and discusses what\u2019s ahead for ODP in 2016 as it enters production
   use."
+featured_image_name: BKK16-214.jpg
 image:
   featured: true
   name: BKK16-214.jpg

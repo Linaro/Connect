@@ -11,6 +11,7 @@ excerpt: The Dalvik virtual machine is the crucial part of Android responsible f
   replaces "Dalvik" with a new implementation of the Dalvik virtual machine called
   the "Android RunTime" (ART). In this session you can learn about ART, Dalvik compatibility,
   and our experiences assisting with the 64bit porting efforts on AOSP.
+featured_image_name: LCU14-100.jpg
 image:
   featured: true
   name: LCU14-100.jpg

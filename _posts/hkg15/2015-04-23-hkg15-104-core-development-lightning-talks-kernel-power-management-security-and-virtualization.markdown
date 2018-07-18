@@ -19,6 +19,7 @@ excerpt: "After an entire year of full time involvement of Linaro in the CoreSig
   to receive feedback from the audience on the soundness of our approach and definitely
   open to opinion or suggestions that can help make CoreSight a better sub-system
   usable by everyone."
+featured_image_name: HKG15-104.jpg
 image:
   featured: true
   name: HKG15-104.jpg

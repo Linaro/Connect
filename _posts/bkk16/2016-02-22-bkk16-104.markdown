@@ -12,6 +12,7 @@ excerpt: Sched-freq is the integration of the scheduler with cpufreq to yield sc
   in the scheduler and the implicit policy created by those hooks. Sched-freq will
   be contrasted with other cpufreq governors such as ondemand and interactive. The
   latest test results will be presented, along with next steps.
+featured_image_name: BKK16-104.jpg
 image:
   featured: true
   name: BKK16-104.jpg

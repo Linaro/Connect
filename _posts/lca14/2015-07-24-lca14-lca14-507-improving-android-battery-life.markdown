@@ -12,6 +12,7 @@ excerpt: 'This session is a discussion to understand the possible areas of optim
   life. We present the important use cases and how to improve the battery life with
   each, Example: How to increase x Hrs of continuous Video playback to x+1 Hrs on
   any given device.'
+featured_image_name: LCA14-507.jpg
 image:
   featured: true
   name: LCA14-507.jpg

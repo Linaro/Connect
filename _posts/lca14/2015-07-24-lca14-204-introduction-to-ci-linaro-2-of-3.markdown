@@ -10,6 +10,7 @@ date: 2015-07-24 14:05:26
 excerpt: "LAVA will describe the process of adding new test capabilities (New Platforms
   and/or New external test equipment)\n QA Services will overview how they use LAVA
   for tests"
+featured_image_name: LCA14-204.jpg
 image:
   featured: true
   name: LCA14-204.jpg

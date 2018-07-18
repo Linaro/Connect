@@ -11,10 +11,11 @@ excerpt: The next generation of HP hardware The Machine will be based on new non
   and software design, and enable new style of Big Data processing applications. The
   speaker will discuss the opportunities in NVM programming and the challenges along
   the way. A brief overview of current solutions will be presented.
+featured_image_name: SFO15410HPTheMachineProgrammingNVMwithAtlaslibrary.jpg
 image:
   featured: true
-  name: SFO15410HPTheMachine-ProgrammingNVMwithAtlaslibrary.jpg
-  path: /assets/images/featured-images/SFO15410HPTheMachine-ProgrammingNVMwithAtlaslibrary.jpg
+  name: SFO15410HPTheMachineProgrammingNVMwithAtlaslibrary.jpg
+  path: /assets/images/featured-images/SFO15410HPTheMachineProgrammingNVMwithAtlaslibrary.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-410-hp-the-machine-programming-nvm-with-atlas-library/
 post_format:

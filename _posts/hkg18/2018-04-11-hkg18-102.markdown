@@ -13,6 +13,7 @@ excerpt: 'DPDK (Data Plane Development Kit) is a set of libraries and drivers fo
   Arm platforms * The overview and comparison of DPDK performance statistics in different
   scenarios & platforms * The identified factors that may impact the DPDK performance
   * The fine tuning & code optimization for DPDK performance on Arm platforms'
+featured_image_name: HKG18-102.png
 image:
   featured: true
   name: HKG18-102.png

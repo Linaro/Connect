@@ -10,6 +10,7 @@ excerpt: ARM Trusted Firmware has established itself as a key part of the ARMv8-
   software stack. Broadening its applicability across all segments, from embedded
   to enterprise, is challenging. This session discusses the latest developments, including
   extension into the 32-bit space.
+featured_image_name: LAS16-402.png
 image:
   featured: true
   name: LAS16-402.png

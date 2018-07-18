@@ -11,6 +11,7 @@ excerpt: The Reference Software Platform lead project was introduced in Linaro C
   the first tree big milestones (the 15.10, 15.12 and 16.03 releases). This session
   will revisit the work done as part of the previous releases, covering the projects
   that were incorporated through the process and our vision for the future milestones.
+featured_image_name: BKK16-100.jpg
 image:
   featured: true
   name: BKK16-100.jpg

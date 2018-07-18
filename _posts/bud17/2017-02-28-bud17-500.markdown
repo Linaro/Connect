@@ -9,6 +9,7 @@ excerpt: Progress, difficulties and questions surrounding the creation of bootab
   openSUSE images in the Open Build Service for the various 96Boards (HiKey, DragonBoard
   410c, Bubblegum-96, Poplar, Mediatek X20) are presented. Focus is kernel and bootloaders
   as well as openSUSE specific tools.
+featured_image_name: BUD17-500.jpg
 image:
   featured: true
   name: BUD17-500.jpg

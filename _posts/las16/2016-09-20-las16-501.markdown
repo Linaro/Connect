@@ -12,6 +12,7 @@ excerpt: "Deep dive into LLVM internals, middle/back-ends, libraries, sanitizers
   development, as well as for other engineers to learn more about parts of the toolchain
   they\u2019re not familiar with. This presentation also touches on frequent LLVM-specific
   errors, so GCC users may find useful, if they\u2019re moving to LLVM."
+featured_image_name: LAS16-501.png
 image:
   featured: true
   name: LAS16-501.png

@@ -7,6 +7,7 @@ comments: true
 date: 2015-04-23 15:36:58
 excerpt: Internals of the OpenJDK JIT, guidelines to microarchitecture tuning, interpreting
   benchmark results.
+featured_image_name: HKG15-200.jpg
 image:
   featured: true
   name: HKG15-200.jpg

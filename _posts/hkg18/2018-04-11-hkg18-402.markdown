@@ -17,6 +17,7 @@ excerpt: The session presents an initiative to build secure key management servi
   current plans (starting from AES flavors) and what is currently missing in the OP-TEE
   (as certificate support, bootloader support). This session aims at getting feedback
   from the community on this topic, discuss about expected services and client APIs.
+featured_image_name: HKG18-402.png
 image:
   featured: true
   name: HKG18-402.png

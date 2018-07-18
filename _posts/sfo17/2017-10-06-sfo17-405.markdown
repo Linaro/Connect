@@ -11,6 +11,7 @@ excerpt: This presentation describes the evolution of a multi-producer / multi-c
   and software properties that limit scalability and prevent non-blocking behavior
   is identified. A novel use of lock-free delegation to release ring buffer updates
   is presented.
+featured_image_name: SFO17-405.jpg
 image:
   featured: true
   name: SFO17-405.jpg

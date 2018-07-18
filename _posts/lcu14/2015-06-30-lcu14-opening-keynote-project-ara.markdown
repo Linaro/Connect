@@ -9,6 +9,7 @@ date: 2015-06-30 17:11:26
 excerpt: The intention with this session is to provide guidelines for developing a
   Trusted Applicationbased on the Global Platform TEE Specifications, and for running
   it based on the OP-TEE implementation of the TEE.
+featured_image_name: LCU14-103.jpg
 image:
   featured: true
   name: LCU14-103.jpg

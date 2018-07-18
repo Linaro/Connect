@@ -16,6 +16,7 @@ excerpt: Nowadays people connect into Internet by multiple kinds of devices. To 
   has been widely supported in all kinds of devices sold in China market. Take Alipay
   as an example, more than 170M users are using fingerprint to pay their orders, almost
   35% of Alipay trades are now supported by IFAA standard.
+featured_image_name: HKG18-320.jpg
 image:
   featured: true
   name: HKG18-320.jpg

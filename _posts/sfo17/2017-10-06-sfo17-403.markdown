@@ -17,6 +17,7 @@ excerpt: A key drawback in the use of full system virtualization is the performa
   new hardware support in ARMv8.1, the Virtualization Host Extensions (VHE), but also
   support legacy hardware through invasive modifications to Linux to support running
   the kernel in the hypervisor-specific CPU mode, EL2
+featured_image_name: SFO17-403.jpg
 image:
   featured: true
   name: SFO17-403.jpg

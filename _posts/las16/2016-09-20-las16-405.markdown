@@ -13,6 +13,7 @@ excerpt: You may think OpenDataPlane and DPDK are somewhat equivalent. But they 
   core. With Software Dataplanes , all packets have to reach a CPU core. As a result,
   one vendor could leverage a Software Defined Dataplane to build a 100Tbps network
   box while it is not possible with a Software Dataplane.
+featured_image_name: LAS16-405.png
 image:
   featured: true
   name: LAS16-405.png

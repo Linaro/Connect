@@ -11,6 +11,7 @@ excerpt: We will share the status of several ARM64 features that we have been im
   at Linaro - Cortex strings, Audit, Oprofile, Ktrace, Kexec, etc. We are looking
   forward to feedback on existing implementation and on plans for upcoming work and
   needed features.
+featured_image_name: LCA14-308.jpg
 image:
   featured: true
   name: LCA14-308.jpg

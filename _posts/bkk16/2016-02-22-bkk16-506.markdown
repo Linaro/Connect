@@ -10,10 +10,11 @@ excerpt: We will explain the purpose of the PMWG farm and the current goals we h
   (e.g. collect power measurements, share reference platforms, monitor power trends
   of the kernel). We will also address the limitations of our farm and invite everyone
   to discuss which results should be displayed for further analysis.
+featured_image_name: BKK16-506.jpg
 image:
   featured: true
-  name: BKK16-506.jpg
-  path: /assets/images/featured-images/BKK16-506.jpg
+  name: BKK16506PMWGFarm.jpg
+  path: /assets/images/featured-images/BKK16506PMWGFarm.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-506/
 post_format:

@@ -11,6 +11,7 @@ excerpt: We often hear that you should not invent your own crypto. In this talk 
   well known by people working with software security. In 25 minutes we will give
   a brief introduction to why it is so hard to write software being robust against
   various software and hardware attacks.
+featured_image_name: HKG18-503.png
 image:
   featured: true
   name: HKG18-503.png

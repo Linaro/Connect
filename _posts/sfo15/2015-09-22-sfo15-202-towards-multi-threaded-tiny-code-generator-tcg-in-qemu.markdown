@@ -16,10 +16,11 @@ excerpt: 'While QEMU has continued to be optimised for KVM to make use of the gr
   operations. We will discuss previous work that has been done in this field before
   presenting a design that addresses these requirements. Finally we shall look at
   the current proposed patches and the design decisions they have taken.'
+featured_image_name: SFO15202TowardsMultiThreadedTinyCodeGeneratorTCGinQEMU.jpg
 image:
   featured: true
-  name: SFO15-202-TowardsMulti-ThreadedTinyCodeGenerator(TCG)inQEMU.jpg
-  path: /assets/images/featured-images/SFO15-202-TowardsMulti-ThreadedTinyCodeGenerator(TCG)inQEMU.jpg
+  name: SFO15202TowardsMultiThreadedTinyCodeGeneratorTCGinQEMU.jpg
+  path: /assets/images/featured-images/SFO15202TowardsMultiThreadedTinyCodeGeneratorTCGinQEMU.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-202-towards-multi-threaded-tiny-code-generator-tcg-in-qemu/
 post_format:

@@ -9,6 +9,7 @@ date: 2015-04-23 15:36:43
 excerpt: The RT patchset has come to EoL and an alternative to meet the determinism
   and latency requirements for networking workloads is required. Compare the two solutions
   and the impacts migrating to Core isolation may impose.
+featured_image_name: HKG15-305.jpg
 image:
   featured: true
   name: HKG15-305.jpg

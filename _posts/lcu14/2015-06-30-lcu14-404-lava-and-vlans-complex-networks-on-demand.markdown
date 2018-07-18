@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-06-30 17:07:52
 excerpt: Description to be added
+featured_image_name: LCU14-404.jpg
 image:
   featured: true
   name: LCU14-404.jpg

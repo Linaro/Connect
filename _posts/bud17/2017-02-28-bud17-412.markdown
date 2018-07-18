@@ -11,6 +11,7 @@ excerpt: One year ago, LHG launched an effort to organize the LHG components in 
   LHG specific features via meta-lhg and merge with support from 96Boards OE meta
   layers. The specific meta-lhg contents are described and how they are combined to
   create the LHG OE builds on 96Boards targets.
+featured_image_name: BUD17-412.jpg
 image:
   featured: true
   name: BUD17-412.jpg

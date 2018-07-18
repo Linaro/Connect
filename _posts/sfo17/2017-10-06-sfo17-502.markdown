@@ -13,6 +13,7 @@ excerpt: Writing test cases for virtualization is always a daunting task because
   We demonstrate how to write and debug test cases with real-world examples. This
   talk also covers our experience of integrating Avocado with Jenkins CI tools on
   Red Hat's internal testing infrastructure.
+featured_image_name: SFO17-502.jpg
 image:
   featured: true
   name: SFO17-502.jpg

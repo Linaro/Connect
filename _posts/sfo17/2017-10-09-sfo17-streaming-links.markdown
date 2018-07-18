@@ -4,6 +4,7 @@ amazon_s3_video_url: None
 author: celia.ilardi
 comments: false
 date: 2017-10-09 13:15:01
+featured_image_name: SFO17StreamingLinks.jpg
 image:
   featured: true
   name: SFO17StreamingLinks.jpg

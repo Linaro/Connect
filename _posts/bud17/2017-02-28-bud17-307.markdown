@@ -14,6 +14,7 @@ excerpt: "After deadline scheduling for processes (SCHED_DEADLINE scheduling pol
   details of all the new features currently under development: CPU capacity and clock
   frequency scaling, bandwidth reclaiming, coupling with clock frequency selection
   and cgroups support."
+featured_image_name: BUD17-307.jpg
 image:
   featured: true
   name: BUD17-307.jpg

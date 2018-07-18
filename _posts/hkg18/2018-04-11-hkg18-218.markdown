@@ -21,6 +21,7 @@ excerpt: 'With LoRa gaining more traction in recent times and seeing LoRa gatewa
   (link layer security with ieee802154, 6lowpan) o 1 transceiver driver already posted
   o A few people already showed interest, more people around here? o Project setup
   (vger mailing list, patchwork, github, korg tree hosting, etc)'
+featured_image_name: HKG18-218.png
 image:
   featured: true
   name: HKG18-218.png

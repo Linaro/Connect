@@ -8,6 +8,7 @@ categories:
 comments: false
 date: 2015-07-24 14:05:57
 excerpt: Roadmap changes discussed
+featured_image_name: LCA14-103.jpg
 image:
   featured: true
   name: LCA14-103.jpg

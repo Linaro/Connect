@@ -11,6 +11,7 @@ excerpt: "It won\xE2\u20AC\u2122t be long before arm64 based systems start to ca
   about having needs for optimized media libs, graphics infrastructure and GUIs. This
   session to an effort to discuss current status, identify where engineers should
   be directing their energies, a few experience reports and coordination of effort."
+featured_image_name: LCA14-301.jpg
 image:
   featured: true
   name: LCA14-301.jpg

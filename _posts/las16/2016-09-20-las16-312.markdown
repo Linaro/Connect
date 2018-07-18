@@ -15,6 +15,7 @@ excerpt: "How Linaro and the ARM Partners can drive contributions to the OCP Eco
   ARM contributions within the OCP rack formats. See what OCP currently has contributed,
   upcoming contributions and what is still needed.\n \n Amber welcomes your questions
   ahead of time and hopes to cover the above and more at Linaro Connect."
+featured_image_name: LAS16-312.png
 image:
   featured: true
   name: LAS16-312.png

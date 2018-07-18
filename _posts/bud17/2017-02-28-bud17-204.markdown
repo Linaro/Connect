@@ -8,6 +8,7 @@ comments: false
 date: 2017-02-28 12:05:32
 excerpt: Continuation of discussion from LAS16. QC kernel upstreaming status, issues,
   etc.
+featured_image_name: BUD17-204.jpg
 image:
   featured: true
   name: BUD17-204.jpg

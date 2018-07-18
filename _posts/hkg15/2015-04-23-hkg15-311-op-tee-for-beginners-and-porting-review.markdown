@@ -11,6 +11,7 @@ excerpt: Explains the building blocks involved in Security including TrustZone, 
   how a simple secure Trusted Application interacts with OP-TEE and works. Brief overview
   on how to port OP-TEE to an ARM platform. Opens discussions for Potential Challenges
   and Hardware limitations and how they can be overcome.
+featured_image_name: HKG15-311.jpg
 image:
   featured: true
   name: HKG15-311.jpg

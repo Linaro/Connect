@@ -7,6 +7,7 @@ categories:
 comments: false
 date: 2017-01-31 14:39:28
 excerpt: LAS16 Playlist
+featured_image_name: LAS16Playlist.jpg
 image:
   featured: true
   name: LAS16Playlist.jpg
@@ -24,6 +25,7 @@ video_thumbnail: None
 wordpress_id: 4516
 youtube_video_url: None
 ---
+
 {% include media.html media_url="https://www.youtube.com/embed/videoseries?list=PLKZSArYQptsPD8fQJvlL6fegGCplRF8jh" %}
 
 [vc_row][vc_column][scb column="4" row="10" postformats="post-format-video" show_rate="0" show_view="0" show_com="0" show_like="0" show_aut="0" quick_view="1" categories="las16"][/vc_column][/vc_row]

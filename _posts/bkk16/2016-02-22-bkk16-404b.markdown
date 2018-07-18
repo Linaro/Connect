@@ -6,6 +6,7 @@ comments: false
 date: 2016-02-22 17:20:51
 excerpt: This talk will highlight some of Machine learning features in Apache Spark
   ML and how it can be leveraged to do data mining and Predictive Analytics
+featured_image_name: BKK16-404B.jpg
 image:
   featured: true
   name: BKK16-404B.jpg

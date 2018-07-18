@@ -34,6 +34,7 @@ excerpt: 'The Linux kernel can use non-maskable interrupts (NMI) to detect hard
   also look at how TrustZone complicates the use of FIQ on armv7 and how
 
   the new architectural features introduced in armv8 can mitigate this.'
+featured_image_name: HKG15-302.jpg
 image:
   featured: true
   name: HKG15-302.jpg

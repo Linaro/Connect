@@ -8,10 +8,11 @@ categories:
 - sfo15
 comments: false
 date: 2015-09-23 00:00:00
+featured_image_name: SFO15300ServerEcosystemDayPart1.jpg
 image:
   featured: true
-  name: SFO15-300-ServerEcosystemDay(Part1).jpg
-  path: /assets/images/featured-images/SFO15-300-ServerEcosystemDay(Part1).jpg
+  name: SFO15300ServerEcosystemDayPart1.jpg
+  path: /assets/images/featured-images/SFO15300ServerEcosystemDayPart1.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-300-server-ecosystem-day-part-1/
 post_format:

@@ -11,6 +11,7 @@ excerpt: '[Note: this is a joint Security/Power Management session) Understand w
   Linux drivers interacts with Trusted Firmware / PSCI
 
 '
+featured_image_name: HKG15-505.jpg
 image:
   featured: true
   name: HKG15-505.jpg

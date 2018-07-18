@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-06-30 17:08:43
 excerpt: Technical details of Hadoop and OpenJDK on ARM servers
+featured_image_name: LCU14-301.jpg
 image:
   featured: true
   name: LCU14-301.jpg

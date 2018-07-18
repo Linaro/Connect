@@ -9,6 +9,7 @@ date: 2017-10-06 16:53:52
 excerpt: "What is Secure96 and why? In this session we will give an introduction to
   Secure96, a daughter board for engineers work with symmetric, asymmetric IC\u2019s
   as well as TPM chip."
+featured_image_name: SFO17-111.jpg
 image:
   featured: true
   name: SFO17-111.jpg

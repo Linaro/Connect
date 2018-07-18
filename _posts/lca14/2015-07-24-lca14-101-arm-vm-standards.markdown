@@ -10,6 +10,7 @@ date: 2015-07-24 14:05:33
 excerpt: "The need for standardization Hypervisor - VM Bootloader - Kernel interfaces
   (FDT, ACPI, \xE2\u20AC\xA6) VM Image format (GPT + UEFI + grub/kernel/\xE2\u20AC\xA6)
   PCIe support Hotplug Virtio and/or Xen drivers Graphics, keyboard, video, mouse?"
+featured_image_name: LCA14-101.jpg
 image:
   featured: true
   name: LCA14-101.jpg

@@ -11,10 +11,11 @@ date: 2015-09-22 00:00:00
 excerpt: LEG has been optimizing Ceph, HDFS, Swift and kernel file system CRC algorithms,
   the session will describe the speed up and patch upstreaming and will then cover
   how to improve the collaboration and synergy with the Linaro Kernel working group.
+featured_image_name: SFO15207Storageandfilesystemoptimizations.jpg
 image:
   featured: true
-  name: SFO15-207-Storageandfilesystemoptimizations.jpg
-  path: /assets/images/featured-images/SFO15-207-Storageandfilesystemoptimizations.jpg
+  name: SFO15207Storageandfilesystemoptimizations.jpg
+  path: /assets/images/featured-images/SFO15207Storageandfilesystemoptimizations.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-207-storage-and-filesystem-optimizations/
 post_format:

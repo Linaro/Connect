@@ -16,6 +16,7 @@ excerpt: 'Android provides CTS - Compatibility Test Suite, written in java and r
   done by ARM and Linaro, provide a quick overview on current Android user space tests,
   being run as part of Linaro''s monthly release. This will be followed by an open
   discussio'
+featured_image_name: LCU14-502.jpg
 image:
   featured: true
   name: LCU14-502.jpg

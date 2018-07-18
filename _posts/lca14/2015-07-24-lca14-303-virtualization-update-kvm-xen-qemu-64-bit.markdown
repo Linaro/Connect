@@ -11,6 +11,7 @@ excerpt: "- QEMU 64-bit support status\n \n - KVM Unit Tests\n \n - Cache issues
   \n - Defined tests\n \n - Performance monitoring\n \n - KVM Migration support\n
   \n - Guest debugging (KVM)\n \n - Device passthrough (Xen and KVM)\n \n - IOMMU
   Support in Xen\n \n - Short preview of ARM VM Standards work"
+featured_image_name: LCA14-303.jpg
 image:
   featured: true
   name: LCA14-303.jpg

@@ -14,6 +14,7 @@ excerpt: The RP Enterprise Kernel is the combination of Reference Platform topic
   the 4.4 kernel is released, all patches that were not accepted into the kernel release,
   will be rebased to the next developement kernel.  In the case of this example, rebase
   from 4.4 to 4.5.
+featured_image_name: BKK16-313A.jpg
 image:
   featured: true
   name: BKK16-313A.jpg

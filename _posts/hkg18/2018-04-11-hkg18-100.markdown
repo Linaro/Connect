@@ -8,6 +8,7 @@ comments: false
 date: 2018-04-11 14:11:12
 excerpt: This session is closed to any non-members of Linaro. We will be monitoring
   attendance at the door. Thank you.
+featured_image_name: HKG18-100.png
 image:
   featured: true
   name: HKG18-100.png

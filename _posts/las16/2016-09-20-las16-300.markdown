@@ -13,6 +13,7 @@ excerpt: SoC Vendors, board vendors, software middle layers, scripting languages
   footprint devices. This session will be to discuss the topic, how its done today,
   what kinda tooling might exist from different vendors, what we could utilize (device
   tree) and what issues that creates.
+featured_image_name: LAS16-300.png
 image:
   featured: true
   name: LAS16-300.png

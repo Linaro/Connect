@@ -13,6 +13,7 @@ excerpt: "- ARM to provide a quick overview of the current energy model\n- Intro
   sessions - plan to integrate Qualcomm-ARM-Linaro work to send upstream\n-Key outcomes:\n-List
   of features and responsibilities\n-Dependencies between upstreaming of features,
   if any"
+featured_image_name: LCU14-410.jpg
 image:
   featured: true
   name: LCU14-410.jpg

@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-06-30 17:08:31
 excerpt: Overview of Ubuntu for ARM Servers
+featured_image_name: LCU14-300.jpg
 image:
   featured: true
   name: LCU14-300.jpg

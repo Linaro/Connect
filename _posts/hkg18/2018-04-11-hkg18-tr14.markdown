@@ -18,6 +18,7 @@ excerpt: For most cases we can easily debug with kernel's oops dumping info, but
   data so we can reproduce the last execution flow before panic (even hang issue with
   some tweaking in kernel). This session wants to go through these topics and demonstrate
   the debugging tools on 96boards Hikey in 25 minutes session.
+featured_image_name: HKG18-TR14.png
 image:
   featured: true
   name: HKG18-TR14.png

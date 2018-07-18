@@ -14,6 +14,7 @@ excerpt: 'The Energy Aware Scheduler relies on a power model, rather than on heu
   as ftrace, kernelshark and LISA, we can examine its decision making and look for
   ways to improve this decision making. This talk will offer a practical introduction
   to using these trace tools.'
+featured_image_name: LAS16-TR04.png
 image:
   featured: true
   name: LAS16-TR04.png

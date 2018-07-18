@@ -10,6 +10,7 @@ date: 2015-07-24 14:05:29
 excerpt: "LAVA will show you new features to improve test result filtering and Visualization
   in LAVA\n QA Services will show you how Linaro rolls all the Build results, Test
   Results (Manual / LAVA) into our test reports"
+featured_image_name: LCA14-208.jpg
 image:
   featured: true
   name: LCA14-208.jpg

@@ -12,6 +12,7 @@ excerpt: Previous introductory tutorials on LAVA have focussed on virtual platfo
   based on off-the-shelf Arduino components and fully integrated with pdudaemon. It
   covers device requirements, device configuration for 32- and 64-bit platforms, use
   of lavatool, tftp, pduclient and logging via the LAVA web interface and /var.
+featured_image_name: BKK16-312.jpg
 image:
   featured: true
   name: BKK16-312.jpg

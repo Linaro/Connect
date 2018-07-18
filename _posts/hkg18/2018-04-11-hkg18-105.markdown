@@ -10,6 +10,7 @@ excerpt: 'We will have quick and concise presentations about various LMG activit
   - including: LCR status and plans, Moving towards a unified AOSP and AOSP TV build,
   Upgrading the kernel on production devices, PPP status, DB410c and generic build,
   LLCT/lsk-android updates and such.'
+featured_image_name: HKG18-105.png
 image:
   featured: true
   name: HKG18-105.png

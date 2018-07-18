@@ -11,6 +11,7 @@ excerpt: "There is a long standing feature interaction problem between CPUset to
   a short introduction of what the issues are the session will focus on the proposed
   solution and the feedback received from the mailing list and any conversation held
   at Linux Plumbers."
+featured_image_name: SFO17-505.jpg
 image:
   featured: true
   name: SFO17-505.jpg

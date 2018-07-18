@@ -10,6 +10,7 @@ excerpt: Review design. The current approach to predict the idle time duration i
   based on statistics on the previous idle time durations. The presentation will show
   the weaknesses of this approach and how by tracking the irq behavior we predict
   the next event to guess estimate the idle duration.
+featured_image_name: BKK16-203.jpg
 image:
   featured: true
   name: BKK16-203.jpg

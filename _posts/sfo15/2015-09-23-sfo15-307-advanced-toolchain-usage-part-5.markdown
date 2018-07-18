@@ -17,10 +17,11 @@ excerpt: "This session is a continuation of the Advanced Toolchain Usage series 
   Timers, Timestamps and the VDSO, branch prediction extensions vs hardware auto branch
   prediction. Out-of-order execution vs in-order execution performance considerations,
   and others."
+featured_image_name: SFO15307AdvancedToolchainUsagePart5.jpg
 image:
   featured: true
-  name: SFO15-307-AdvancedToolchainUsagePart5-.jpg
-  path: /assets/images/featured-images/SFO15-307-AdvancedToolchainUsagePart5-.jpg
+  name: SFO15307AdvancedToolchainUsagePart5.jpg
+  path: /assets/images/featured-images/SFO15307AdvancedToolchainUsagePart5.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-307-advanced-toolchain-usage-part-5/
 post_format:

@@ -22,6 +22,7 @@ excerpt: 'The 32-bit ARM kernel supports a wide variety of processors harking ba
   details of the respective DT and ACPI implementations.
 
 '
+featured_image_name: HKG15-108.jpg
 image:
   featured: true
   name: HKG15-108.jpg

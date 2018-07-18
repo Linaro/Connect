@@ -10,6 +10,7 @@ excerpt: System has a lot of interconnect bus that have to be set to provide thr
   to devices of the system. We are working on adding missing pieces to let device
   set the performance requirements to the performance provider that are interconnect
   bus.
+featured_image_name: LAS16-207.png
 image:
   featured: true
   name: LAS16-207.png

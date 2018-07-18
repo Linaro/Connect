@@ -12,10 +12,11 @@ excerpt: The OpenDataPlane project is now two years old and is beginning to see 
   interest on the part of both application writers and platform providers. This talk
   will discuss recent developments in ODP and its uses and look at what lies ahead
   for this fast-growing open source project.
+featured_image_name: SFO15102ODPProjectUpdate.jpg
 image:
   featured: true
-  name: SFO15102-ODPProjectUpdate.jpg
-  path: /assets/images/featured-images/SFO15102-ODPProjectUpdate.jpg
+  name: SFO15102ODPProjectUpdate.jpg
+  path: /assets/images/featured-images/SFO15102ODPProjectUpdate.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-102-odp-project-update/
 post_format:

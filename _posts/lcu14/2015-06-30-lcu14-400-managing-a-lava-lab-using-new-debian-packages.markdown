@@ -10,6 +10,7 @@ excerpt: This session will provide a summary of the process to install, update a
   manage LAVA within a LAVA LAB. We will also discuss how the LAVA LAB in Cambridge
   is managed and any thoughts or problems we know were experienced when the LAB upgraded
   from Ubuntu 12.04 to Debian Jessie.
+featured_image_name: LCU14-400.jpg
 image:
   featured: true
   name: LCU14-400.jpg

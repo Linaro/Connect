@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-04-23 15:38:29
 excerpt: Status of CPPC with runtime PM and discussion on idle PM with ACPI
+featured_image_name: HKG15-107.jpg
 image:
   featured: true
   name: HKG15-107.jpg

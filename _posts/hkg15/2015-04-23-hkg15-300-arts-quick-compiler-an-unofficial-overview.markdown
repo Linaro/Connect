@@ -38,6 +38,7 @@ excerpt: 'One of the important technical novelties introduced with the recent re
   [1] The ART runtime, B. Carlstrom, A. Ghuloum, and I. Rogers, Google I/O 2014, https://www.youtube.com/watch?v=EBlTzQsUoOw
 
 '
+featured_image_name: HKG15-300.jpg
 image:
   featured: true
   name: HKG15-300.jpg

@@ -17,6 +17,7 @@ excerpt: 'The ARMv8 Server Lab has been up and running for more than a year sinc
   short talks from the users, 10-15 minutes each, will be given after the introductory
   address of the status of the Lab from the managers, followed by a discussion between
   the attendees.'
+featured_image_name: BKK16-305A.jpg
 image:
   featured: true
   name: BKK16-305A.jpg

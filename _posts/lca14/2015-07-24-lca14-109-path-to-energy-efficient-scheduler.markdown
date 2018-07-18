@@ -6,6 +6,7 @@ categories:
 comments: false
 date: 2015-07-24 14:06:00
 excerpt: Energy efficient scheduler discussion
+featured_image_name: LCA14-109.jpg
 image:
   featured: true
   name: LCA14-109.jpg

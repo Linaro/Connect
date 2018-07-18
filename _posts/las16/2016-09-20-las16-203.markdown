@@ -8,6 +8,7 @@ comments: false
 date: 2016-09-20 17:10:45
 excerpt: Heads up on what ARM are doing with the new ARMv8-M architecture from a software
   perspective.
+featured_image_name: LAS16-203.png
 image:
   featured: true
   name: LAS16-203.png

@@ -14,10 +14,11 @@ excerpt: "One of the features introduced by the Android Runtime (ART) is an Ahea
   Project (AOSP). Roland and Calin will present this new compiler, its design and
   implementation, the benefits brought by Optimizing, and some issues we faced during
   its development"
+featured_image_name: SFO15204TheArtofOptimizingANewCompilerfortheAndroidRuntime.jpg
 image:
   featured: true
-  name: SFO15-204-TheArtofOptimizing-ANewCompilerfortheAndroidRuntime.jpg
-  path: /assets/images/featured-images/SFO15-204-TheArtofOptimizing-ANewCompilerfortheAndroidRuntime.jpg
+  name: SFO15204TheArtofOptimizingANewCompilerfortheAndroidRuntime.jpg
+  path: /assets/images/featured-images/SFO15204TheArtofOptimizingANewCompilerfortheAndroidRuntime.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-204-the-art-of-optimizing-a-new-compiler-for-the-android-runtime/
 post_format:

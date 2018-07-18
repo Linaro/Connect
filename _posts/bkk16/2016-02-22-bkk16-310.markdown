@@ -10,6 +10,7 @@ excerpt: An overview of collaborative effort done by Builds and Baselines, LMG, 
   and HiKey landing team in getting HiKey integrated into AOSP. Covers work on the
   AOSP common.git branches, cross kernel/bootloader feature work that provides more
   form-factor like integration not commonly found on devboards, lessons learned, etc.
+featured_image_name: BKK16-310.jpg
 image:
   featured: true
   name: BKK16-310.jpg

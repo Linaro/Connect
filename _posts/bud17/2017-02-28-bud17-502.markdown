@@ -18,6 +18,7 @@ excerpt: 'GPGPUs (General Purpose Graphics Processing Unit) are becoming a relev
   On the fly we will change drivers between: SW only, GPU on Asic, and OpenGPU to
   see its performance impact. The engineers that implemented this system will be at
   the session to support detailed technical questions.'
+featured_image_name: BUD17-502.jpg
 image:
   featured: true
   name: BUD17-502.jpg

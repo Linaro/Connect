@@ -10,10 +10,11 @@ excerpt: Introduction to CI v2 for AOSP builds. There has been changes on how we
   been doing AOSP development in Linaro. It has changed from daily builds to commit
   based builds. The session will give overview on how we can do all the builds on
   ci.linaro.org that we did on android-build.linaro.org.
+featured_image_name: BKK16-507.jpg
 image:
   featured: true
-  name: BKK16-507.jpg
-  path: /assets/images/featured-images/BKK16-507.jpg
+  name: BKK16507AOSPbuildsofLinarowithCIv2.jpg
+  path: /assets/images/featured-images/BKK16507AOSPbuildsofLinarowithCIv2.jpg
 layout: post
 link: http://connect.linaro.org/resource/bkk16/bkk16-507-aosp-builds-linaro-ci-v2/
 post_format:

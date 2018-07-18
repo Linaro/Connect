@@ -10,6 +10,7 @@ date: 2015-07-24 14:04:59
 excerpt: "An LHG Overview:\n \n - current state of media set-top technologies\n \n
   - benefit of moving to open source software on ARM\n \n - goals of reducing complexity
   and fragmentation"
+featured_image_name: LCA14-305.jpg
 image:
   featured: true
   name: LCA14-305.jpg

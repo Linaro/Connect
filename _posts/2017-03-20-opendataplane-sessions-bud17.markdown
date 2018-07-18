@@ -16,6 +16,7 @@ excerpt: 'A proposal to add ODP based compression/decompression API to provide p
 
   The initial implementation will target Cavium OCTEON TX SoC to accelerate IP Compression
   (IPComp)'
+featured_image_name: OpenDataPlanesessionsfromBUD17.jpg
 image:
   featured: true
   name: OpenDataPlanesessionsfromBUD17.jpg

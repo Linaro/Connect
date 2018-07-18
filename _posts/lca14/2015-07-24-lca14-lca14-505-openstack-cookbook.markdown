@@ -9,6 +9,7 @@ comments: true
 date: 2015-07-24 14:04:12
 excerpt: discuss and agree on top key use cases for performance evaluation review
   deployment models and ARM specific patches
+featured_image_name: LCA14-505.jpg
 image:
   featured: true
   name: LCA14-505.jpg

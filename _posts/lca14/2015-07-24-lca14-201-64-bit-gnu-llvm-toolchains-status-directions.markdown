@@ -9,6 +9,7 @@ comments: false
 date: 2015-07-24 14:05:22
 excerpt: The Toolchain Working Group provide a status report on AArch64 support in
   the GNU & LLVM Toolchains, and surrounding libraries.
+featured_image_name: LCA14-201.jpg
 image:
   featured: true
   name: LCA14-201.jpg

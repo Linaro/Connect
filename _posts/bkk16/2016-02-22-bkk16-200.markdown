@@ -14,6 +14,7 @@ excerpt: "Trust and security are essential for the Internet of Things (IoT) to s
   In this presentation, you will learn how ARM, Linaro and the ARM partnership are
   securing these sub $1 IoT endpoints by providing device security, lifecycle security
   and communication security, without the need for in-depth security experts\u2026"
+featured_image_name: BKK16-200.jpg
 image:
   featured: true
   name: BKK16-200.jpg

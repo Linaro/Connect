@@ -10,6 +10,7 @@ excerpt: This session will be a walk-through of TCWG benchmarking infrastructure
   discussion of design choices we made while building it. This presentation will be
   aimed at developers interested in performance benchmarking in general, and toolchain
   benchmarking in particular.
+featured_image_name: SFO17-312.jpg
 image:
   featured: true
   name: SFO17-312.jpg

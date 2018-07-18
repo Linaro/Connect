@@ -14,6 +14,7 @@ excerpt: "ARM mbed OS is an open source embedded operating system designed\nspec
   a choice of 40 different development boards from 11 different providers and a wide
   choice of toolchains including a complete command line build management and configuration
   tool mbed CLI, industry standard desktop IDEs or ARM\u2019s free online IDE."
+featured_image_name: LAS16-112.png
 image:
   featured: true
   name: LAS16-112.png

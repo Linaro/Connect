@@ -14,6 +14,7 @@ excerpt: "In this presentation we take a look at Global Task Scheduling (GTS), a
   kernel have been modified. We will\n also go through a list of things to keep in
   mind when porting the code\n to a new platform before concluding with an overview
   of some of the\n tuneables that add flexibility to the model."
+featured_image_name: LCA14-104.jpg
 image:
   featured: true
   name: LCA14-104.jpg

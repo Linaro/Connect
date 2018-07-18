@@ -13,6 +13,7 @@ excerpt: "Cover an outline of the AOSP Devboard effort with HiKey and now HiKey9
   presentation will be similar to one given earlier at Linux Plumbers but will go
   a bit deeper on issues and will provide some context to the discussion had at Linux
   Plumbers."
+featured_image_name: SFO17-506.jpg
 image:
   featured: true
   name: SFO17-506.jpg

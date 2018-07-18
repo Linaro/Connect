@@ -11,6 +11,7 @@ excerpt: Overview of small-size/low-resource VHLL (very high-level languages)/sc
   usage scenarios and benefits. Challenges of running VHLLs in deeply embedded/very
   resource-constrained environments. Progress reports on porting JerryScript to Zephyr.
   (Possibly, architecture comparison of JerryScript and MicroPython).
+featured_image_name: LAS16-108.png
 image:
   featured: true
   name: LAS16-108.png

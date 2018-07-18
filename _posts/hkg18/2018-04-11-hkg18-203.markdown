@@ -10,6 +10,7 @@ excerpt: This presentation will provide an overview of the Linaro Digital Rights
   (DRM) integrations with OP-TEE for Linux and Android. Topics covered will include
   the latest status for ClearKey, Widevine and Playready for supported browsers and
   boards.
+featured_image_name: HKG18-203.png
 image:
   featured: true
   name: HKG18-203.png

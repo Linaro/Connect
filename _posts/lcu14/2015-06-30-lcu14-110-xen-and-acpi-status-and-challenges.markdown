@@ -16,6 +16,7 @@ excerpt: In this development and hacking session, we will be working out develop
   be discussing current development challenges and specifically validate the feasibility
   of using the _STA methods to override hardware descriptors consumed or modified
   by Dom0.
+featured_image_name: LCU14-110.jpg
 image:
   featured: true
   name: LCU14-110.jpg

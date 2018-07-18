@@ -14,6 +14,7 @@ excerpt: Virtual Open Systems has developed VOSYSwitch, a high-performance user 
   live demonstration will showcase chained VNFs connected through VOSYSwitch, where
   an OpenFastPath web server is implemented behind an ODP enabled packet filtering
   firewall. The targeted platforms are Freescale (NXP) LS2085A and Cavium's ThunderX.
+featured_image_name: BKK16-409.jpg
 image:
   featured: true
   name: BKK16-409.jpg

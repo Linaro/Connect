@@ -11,6 +11,7 @@ excerpt: "Wayland & Weston are the dynamic duo billed as the next generation rep
   for X. Attend this session and learn what it takes to utilize Wayland / Weston in
   an ARM system. If you\xE2\u20AC\u2122re already using or thinking about using Wayland
   / Weston this is an excellent session to attend to ask questions or make requests."
+featured_image_name: LCA14-504.jpg
 image:
   featured: true
   name: LCA14-504.jpg

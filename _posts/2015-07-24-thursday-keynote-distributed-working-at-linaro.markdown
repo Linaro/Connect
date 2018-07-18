@@ -12,6 +12,7 @@ excerpt: "Interviewer: Mike Levine, Director Global Talent Acquisition\n  \n Pan
   on how Linaro operates with people spread over 30 different countries \n - Best
   practices to communicate with a global team.\n - Staying motivated while working
   remote.\n - Handling distractions and staying focused."
+featured_image_name: LCA14-400K1.jpg
 image:
   featured: true
   name: LCA14-400K1.jpg

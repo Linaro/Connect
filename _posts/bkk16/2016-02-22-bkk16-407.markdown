@@ -17,6 +17,7 @@ excerpt: 'Big toolchain changes ahead...
 
 
   What is Linaro doing to help?'
+featured_image_name: BKK16-407.jpg
 image:
   featured: true
   name: BKK16-407.jpg

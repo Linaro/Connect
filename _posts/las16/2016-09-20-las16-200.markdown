@@ -85,6 +85,7 @@ excerpt: 'The Linaro Enterprise Group has been driving the work to implement, up
   Speaker: Yazen Ghannam, Fu Wei
 
   Notetaker: Graeme Gregory'
+featured_image_name: LAS16-200.png
 image:
   featured: true
   name: LAS16-200.png

@@ -11,6 +11,7 @@ excerpt: A tour of essential topics for working on the Android Optimizing Compil
   Learn how to work on intrinsics, instruction simplification, platform specific optimizations,
   how to submit good patches, write Checker tests, analyse IR, take boot.oat measurements,
   and debug performance and execution issues with Streamline and GDB.
+featured_image_name: BKK16-302.jpg
 image:
   featured: true
   name: BKK16-302.jpg

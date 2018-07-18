@@ -17,6 +17,7 @@ excerpt: 'Linaro has been working on making AOSP build with Clang for a long tim
   This presentation gives an update on where we are, where we''re facing problems,
   and our continued efforts to keep AOSP userland building with newer versions of
   clang than what upstream is using.'
+featured_image_name: HKG18-215.png
 image:
   featured: true
   name: HKG18-215.png

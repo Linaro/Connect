@@ -9,6 +9,7 @@ date: 2018-04-11 14:14:39
 excerpt: An overview of Fedora Atomic for IoT running on ARM (aarch64 and ARMv7) platforms
   acting as a gateway to Zephyr devices. An overview of atomic and how OSTree, the
   underlying technology of Fedora Atomic, makes IoT useful for stress free upgrades.
+featured_image_name: HKG18-508.png
 image:
   featured: true
   name: HKG18-508.png

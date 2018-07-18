@@ -21,6 +21,7 @@ excerpt: 'The uptake of Linux in modern cars is on the rise. It is very hard to 
   source project that ticks a lot of boxes in order to let Linux be what it''s
 
   good at while providing the safety that the Auto world demands.'
+featured_image_name: SFO17-416.jpg
 image:
   featured: true
   name: SFO17-416.jpg

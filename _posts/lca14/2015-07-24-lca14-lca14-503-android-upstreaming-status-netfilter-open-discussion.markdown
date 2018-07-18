@@ -10,6 +10,7 @@ date: 2015-07-24 14:04:03
 excerpt: Mathieu Poirier and John Stultz will cover Mathieu's recent work on Android
   netfilter changes, a quick overall status on Android upstreaming, and then time
   for open discussion and planning
+featured_image_name: LCA14-503.jpg
 image:
   featured: true
   name: LCA14-503.jpg

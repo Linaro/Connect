@@ -10,6 +10,7 @@ excerpt: 'In this discussion session, we will cover the plans Linaro have to enh
   Adding a cryptographic layer to support custom cryptographic libraries or HW-acceleration
   IP / instructions (REQ-413 and REQ-421) PSCI support (REQ-415) Add ECC support for
   TEE Internal API 1.1 (REQ-419)'
+featured_image_name: LCU14-306.jpg
 image:
   featured: true
   name: LCU14-306.jpg
