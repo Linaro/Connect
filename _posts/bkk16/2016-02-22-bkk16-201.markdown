@@ -2,8 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-201.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Tuesday/BKK16-201%20PlayReady%20OPTEE%20Integration%20with%20Secure%20Video%20Path%20v3.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:37
 excerpt: This presentation provides a current view of the Security work performed
@@ -26,7 +25,7 @@ slug: bkk16-201
 speakers: Zoltan Kuscsik
 tags:
 - OP-TEE
-title: 'BKK16-201: PlayReady OPTEE Integration with Secure Video Path'
+title: 'BKK16-201&#58; PlayReady OPTEE Integration with Secure Video Path'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3323

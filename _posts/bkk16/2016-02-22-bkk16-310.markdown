@@ -2,8 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-310.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Wednesday/BKK16-310%20HiKey%20and%20AOSP%20collaborative%20experience.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:46
 excerpt: An overview of collaborative effort done by Builds and Baselines, LMG, 96boards
@@ -23,7 +22,7 @@ session_id: BKK16-310
 session_track: LMG
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16310-the-hikey-aosp-collaborative-experience
 slug: bkk16-310
-speakers: "John\nAmit \nGuodong,\nVishal"
+speakers: "John, Amit , Guodong,, Vishal"
 tags:
 - 96Boards
 - AOSP

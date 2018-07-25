@@ -2,8 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Friday/BKK16-507.pdf
 amazon_s3_video_url: None
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:35:24
 excerpt: Introduction to CI v2 for AOSP builds. There has been changes on how we have

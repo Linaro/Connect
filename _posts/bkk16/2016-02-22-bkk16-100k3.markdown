@@ -1,7 +1,6 @@
 ---
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:33
 featured_image_name: BKK16-100K3.jpg

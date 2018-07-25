@@ -2,8 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-TR07.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Thursday/BKK16-TR07%20Workspace%20setup%20tips%20and%20tricks.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:58
 excerpt: The complexity of the tools and working environments is very high in IT area,

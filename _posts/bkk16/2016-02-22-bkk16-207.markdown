@@ -1,8 +1,7 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-207.pdf
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:39
 excerpt: Submitting jobs to LAVA with VLAN support
@@ -19,7 +18,7 @@ session_id: BKK16-207
 session_track: LAVA
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16207-vland-in-lava
 slug: bkk16-207
-speakers: "Neil Williams \nSteve McIntyre"
+speakers: "Neil Williams , Steve McIntyre"
 tags:
 - LAVA
 - VLAND

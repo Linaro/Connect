@@ -2,8 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-409.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Thursday/BKK16-409%20VOSYSwitch%20port%20to%20ARMv8%20Platforms%20and%20ODP%20integration.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:54
 excerpt: Virtual Open Systems has developed VOSYSwitch, a high-performance user space
