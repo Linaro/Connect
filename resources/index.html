@@ -2,5 +2,70 @@
 title: Resources
 permalink: /resources/
 layout: container-breadcrumb
+js-package: resources
+css-package: resources
 ---
-# Resources
+{% assign total_slides = 0 %}
+{% assign total_videos = 0 %}
+
+{% for post in site.posts %}
+    {% if post.youtube_video_url %}
+        {% assign total_videos = total_videos | plus: 1 %}
+    {% endif %}
+    {% if post.slideshare_presentation_url %}
+        {% assign total_slides = total_slides | plus: 1 %}
+    {% endif %}
+{% endfor %}
+
+Total Slides: {{ total_slides }}
+Total Videos: {{ total_videos }}
+
+{% for category in site.categories %}
+    {% capture cat %}{{ category | first | upcase }}{% endcapture %}
+    {% if cat != "BLOG" and cat != "PLAYLIST" and cat != "DEMO-FRIDAY" and cat != "RESOURCES" %}        
+        {% assign connect-details = site.data.connects | where: "id", cat %}
+        {{connect-details["placeholder"]}}
+        <div class="col-md-4 col-sm-4 col-xs-6 no-padding">
+            <div class="resource-block">
+            <a href="/resources/{{cat | downcase }}/">
+                <div class="resource">
+                    {% if connect-details.placeholder %}
+                        {% capture image_path %}assets/images/blog/{{connect-details.placeholder}}{% endcapture %}
+                        {% responsive_image_block %}
+                        path: "{{ image_path }}"
+                        title: "{{ connect-details.long-name }}"
+                        alt: "{{ connect-details.long-name }}"
+                        {% endresponsive_image_block %}
+                    {% else %}
+                        {% capture image_path %}assets/images/content/connect-logo.png{% endcapture %}
+                        {% responsive_image_block %}
+                        path: "{{ image_path }}"
+                        title: "{{ connect-details.long-name }}"
+                        alt: "{{ connect-details.long-name }}"
+                        {% endresponsive_image_block %}
+                    {% endif %}
+                </div>
+            </a>
+            <!-- <div class="resource-info col-xs-12 no-padding">
+                <div class="video col-xs-6">
+                    <i class="icon-youtube"></i> - {% if post.youtube_video_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i> {% endif%}
+                </div>
+                <div class="presentation col-xs-6">
+                    <i class="icon-linkedin"></i> - {% if post.slideshare_presentation_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i>{% endif%}
+                </div>
+            </div>
+            <div class="resource-title col-xs-12 no-padding">
+                <h3>{{post.title}}</h3>
+                <a href="{{post.url}}">
+                    <div class="resource-button">
+                        <i class="glyphicon glyphicon-chevron-right"></i>
+                    </div>
+                </a>
+            </div> -->
+        </div>
+    </div>
+    {% endif %}
+{% endfor %}
+{% for post in paginator.posts %}
+
+{% endfor %}
