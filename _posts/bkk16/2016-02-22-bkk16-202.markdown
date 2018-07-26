@@ -2,13 +2,13 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-202.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Tuesday/BKK16-202%20LMG%20Lightning%20Talks.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:37
-excerpt: "Cool things we\u2019re working on upstreaming from Android (reboot reason,
-  pstore dts?, partition uevents)\nDRM driver status/details\nML lib acceleration
-  with OpenCL\nART Team update"
+excerpt: "Cool things we're working on upstreaming from Android (reboot reason,
+  pstore dts?, partition uevents), DRM driver status/details, ML lib acceleration
+  with OpenCL, ART Team update"
+featured_image_name: BKK16-202.jpg
 image:
   featured: true
   name: BKK16-202.jpg
@@ -21,9 +21,9 @@ session_id: BKK16-202
 session_track: LMG
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16202-lmg-lightning-talks-a-collection-of-short-and-interesting-topics-wrapped-up-into-one-session
 slug: bkk16-202
-speakers: "John Stultz\nBenjamin Gaignard, Xinliang Liu \nGil Pitney\nStuart Monteith"
-title: 'BKK16-202: LMG Lightning Talks:A collection of short and interesting topics
-  wrapped up into one session:'
+speakers: "John Stultz, Benjamin Gaignard, Xinliang Liu, Gil Pitney, Stuart Monteith"
+title: 'BKK16-202&#58; LMG Lightning Talks&#58; A collection of short and interesting topics
+  wrapped up into one session'
 video_length: '51:36'
 video_thumbnail: None
 wordpress_id: 3324

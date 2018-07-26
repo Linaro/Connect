@@ -17,6 +17,7 @@ excerpt: Nested virtualization is increasingly important because of the need to 
   evaluate the implementation on current ARMv8 hardware without hardware support for
   nested virtualization. We will present performance results and discuss future techniques
   to improve performance.
+featured_image_name: SFO17-410.jpg
 image:
   featured: true
   name: SFO17-410.jpg

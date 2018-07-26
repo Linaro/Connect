@@ -1,11 +1,10 @@
 ---
 author: connect
-categories:
-- bkk16
-- Resources
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:33
 excerpt: Review the data and plans collected to date
+featured_image_name: BKK16-101.jpg
 image:
   featured: true
   name: BKK16-101.jpg

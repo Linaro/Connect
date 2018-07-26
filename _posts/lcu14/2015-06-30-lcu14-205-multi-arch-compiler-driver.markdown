@@ -11,6 +11,7 @@ excerpt: This session will provide an overview of the foundations of a multi-arc
   (in both), and bug reporting. The eventual goal of a unified driver will be a compiler
   driver that has a common set of feature flags that can invoke the desired compiler,
   which will then generate consistent results between compilers.
+featured_image_name: LCU14-205.jpg
 image:
   featured: true
   name: LCU14-205.jpg

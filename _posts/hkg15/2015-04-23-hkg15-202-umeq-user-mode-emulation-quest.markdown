@@ -9,6 +9,7 @@ excerpt: UMEQ (user-mode emulation quest) and has been developed to eliminate th
   functional deficiencies of qemu in user mode (multi-threaded applications, signal
   handling, etc). Umeq primarily targets ARM 64-bit. The presentation will focus on
   the architecture principles of umeq and on its implementation.
+featured_image_name: HKG15-202.jpg
 image:
   featured: true
   name: HKG15-202.jpg

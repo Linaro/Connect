@@ -13,6 +13,7 @@ excerpt: Testing is like ice cream, there is always room for more. We can always
   Summer of Code project on making the in-kernel device tree unit tests easier to
   run, and Grant Likely will lead a discussion on ways we can make kernel testing
   as easy as typing "make test".
+featured_image_name: LCU14-409.jpg
 image:
   featured: true
   name: LCU14-409.jpg

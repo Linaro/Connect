@@ -15,6 +15,7 @@ excerpt: "On a device it\u2019s not uncommon to share power domains between secu
   sequence (CPU on/off etc) and finally there has been some concerns regarding the
   latency when communicating with PSCI. In this session we would like to highlight
   those and discuss what the short and long term plans are."
+featured_image_name: BUD17-510.jpg
 image:
   featured: true
   name: BUD17-510.jpg

@@ -19,6 +19,7 @@ excerpt: 'ARM v8-A NEON optimization, with the following outline - Zhongwei/Phil
   d) Performance comparison between assembly and intrinsic
 
 '
+featured_image_name: HKG15-408.jpg
 image:
   featured: true
   name: HKG15-408.jpg

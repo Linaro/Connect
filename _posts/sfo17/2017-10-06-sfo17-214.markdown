@@ -14,6 +14,7 @@ excerpt: "qa-reports.linaro.org is a new service that can provide QA dashboards 
   is powered by SQUAD, a project created by the QA Services Team after not being able
   to find an existing solution that would serve our needs. SQUAD is written in Python
   and licensed under the GPLv3."
+featured_image_name: SFO17-214.jpg
 image:
   featured: true
   name: SFO17-214.jpg

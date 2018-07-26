@@ -10,6 +10,7 @@ excerpt: Tiger Moth is the latest Long Term Support release of OpenDataPlane (OD
   Included in this release are significant new support for hardware offload and acceleration,
   including IPsec support. This talk provides an update on the ODP project and where
   it is going.
+featured_image_name: HKG18-106.png
 image:
   featured: true
   name: HKG18-106.png

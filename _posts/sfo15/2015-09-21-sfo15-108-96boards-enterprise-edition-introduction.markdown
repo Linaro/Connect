@@ -13,10 +13,11 @@ excerpt: The 96Boards Consumer Edition specification was launched at Linaro Conn
   released at the end of June. This session is the first opportunity to discuss the
   Enterprise Edition specification face to face and determine key directions for the
   software platform that will run across these new boards.
+featured_image_name: SFO1510896BoardsEnterpriseEditionIntroduction.jpg
 image:
   featured: true
-  name: SFO15-108-96BoardsEnterpriseEditionIntroduction.jpg
-  path: /assets/images/featured-images/SFO15-108-96BoardsEnterpriseEditionIntroduction.jpg
+  name: SFO1510896BoardsEnterpriseEditionIntroduction.jpg
+  path: /assets/images/featured-images/SFO1510896BoardsEnterpriseEditionIntroduction.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-108-96boards-enterprise-edition-introduction/
 post_format:

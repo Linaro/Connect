@@ -1,8 +1,7 @@
 ---
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Wednesday/BKK16-305A%20Server%20Colo%20Users%20BoF.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:45
 excerpt: 'The ARMv8 Server Lab has been up and running for more than a year since
@@ -17,6 +16,7 @@ excerpt: 'The ARMv8 Server Lab has been up and running for more than a year sinc
   short talks from the users, 10-15 minutes each, will be given after the introductory
   address of the status of the Lab from the managers, followed by a discussion between
   the attendees.'
+featured_image_name: BKK16-305A.jpg
 image:
   featured: true
   name: BKK16-305A.jpg

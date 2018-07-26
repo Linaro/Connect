@@ -7,6 +7,7 @@ categories:
 - sfo15
 comments: false
 date: 2015-09-24 00:00:00
+featured_image_name: SFO15BFO2Reducingthearmlinuxkernelsizewithoutlosingyourmind.jpg
 image:
   featured: true
   name: SFO15BFO2Reducingthearmlinuxkernelsizewithoutlosingyourmind.jpg

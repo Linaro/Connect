@@ -15,6 +15,7 @@ excerpt: 'This session is meant to look at Coresight in deeper details. The goal
 
   for trace decoding and the decoding of compressed streams themselves. The presentation
   will conclude with a use case example and it''s associated decoded trace stream.'
+featured_image_name: LCU14-105.jpg
 image:
   featured: true
   name: LCU14-105.jpg

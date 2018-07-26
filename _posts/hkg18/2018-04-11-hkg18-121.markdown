@@ -15,6 +15,7 @@ excerpt: The presentation will show a reference design of containerized VNFs wit
   high scalability. This presentation will be useful for audience who want to understand
   the progress of NFV on Arm and who have plan to deploy their containerized NFV solutions
   on Arm architecture.
+featured_image_name: HKG18-121.png
 image:
   featured: true
   name: HKG18-121.png

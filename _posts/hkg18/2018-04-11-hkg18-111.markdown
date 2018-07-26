@@ -9,6 +9,7 @@ date: 2018-04-11 14:11:12
 excerpt: The session will take the example of the hikey960 to explain how we can compute
   wakeup latency and residency time of a platform without expensive materiel or details
   of the platform.
+featured_image_name: HKG18-111.png
 image:
   featured: true
   name: HKG18-111.png

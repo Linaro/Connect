@@ -1,13 +1,13 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-408A.pdf
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:52
 excerpt: "Linaro is building an OpenStack based Developer Cloud. Here we present what
   was required to bring OpenStack to 64-bit ARM, the pitfalls, successes and lessons
-  learnt; what\u2019s missing and what\u2019s next."
+  learnt; what's missing and what's next."
+featured_image_name: BKK16-408A.jpg
 image:
   featured: true
   name: BKK16-408A.jpg

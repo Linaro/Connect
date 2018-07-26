@@ -6,6 +6,7 @@ categories:
 - hkg15
 comments: true
 date: 2015-04-23 15:36:45
+featured_image_name: HKG15-308.jpg
 image:
   featured: true
   name: HKG15-308.jpg

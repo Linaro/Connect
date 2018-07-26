@@ -2,8 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-300.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Wednesday/BKK16-300%20Benchmarking%20102.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:42
 excerpt: 'The presentation will continue from where Benchmarking Best Practices 101
@@ -14,6 +13,7 @@ excerpt: 'The presentation will continue from where Benchmarking Best Practices 
   An experiment is reproducible if external teams can run the same experiment over
   large periods of time and get comparable results. Clear, concise reporting allows
   others to utilise benchmark results.'
+featured_image_name: BKK16-300.jpg
 image:
   featured: true
   name: BKK16-300.jpg

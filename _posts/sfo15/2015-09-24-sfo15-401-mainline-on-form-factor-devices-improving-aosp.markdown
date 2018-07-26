@@ -11,10 +11,11 @@ date: 2015-09-24 00:00:00
 excerpt: "Combined session on John Stultz\u2019s Linux Plumbers Conference (LPC) presentations:
   1. blockers to running mainline on consumer devices, 2. Ideas to improve AOSP vendor
   tree support."
+featured_image_name: SFO15401MainlineonformfactordevicesImprovingAOSP.jpg
 image:
   featured: true
-  name: SFO15401Mainlineonformfactordevices-ImprovingAOSP.jpg
-  path: /assets/images/featured-images/SFO15401Mainlineonformfactordevices-ImprovingAOSP.jpg
+  name: SFO15401MainlineonformfactordevicesImprovingAOSP.jpg
+  path: /assets/images/featured-images/SFO15401MainlineonformfactordevicesImprovingAOSP.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-401-mainline-on-form-factor-devices-improving-aosp/
 post_format:

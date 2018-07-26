@@ -28,6 +28,7 @@ excerpt: 'Scene setting (Morten)
   - Current status
 
   - Feature roadmap'
+featured_image_name: LCU14-402.jpg
 image:
   featured: true
   name: LCU14-402.jpg

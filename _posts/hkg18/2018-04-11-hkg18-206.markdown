@@ -15,6 +15,7 @@ excerpt: 'Storage is one of the most important elements in enterprise area. It b
   In this presentation, Dennis will talk about one ''meta'' implementation of the
   CSI spec -- Rex-ray project and how it evolves and integrates into the COs like
   K8s, plus the challenges, the plan and the opportunity for Arm to get involved.'
+featured_image_name: HKG18-206.png
 image:
   featured: true
   name: HKG18-206.png

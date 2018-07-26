@@ -10,6 +10,7 @@ excerpt: It is a guide to ARM64 GoLang assembly. It introduces how to write a AR
   GoLang assembly program and some descriptions of key Go-specific details for ARM64.
   When we get to know the go assembly, we can do some optimization to improve performance.
   We will also show case with an example of SHA optimization.
+featured_image_name: SFO17-314.jpg
 image:
   featured: true
   name: SFO17-314.jpg

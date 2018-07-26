@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-06-30 17:09:22
 excerpt: Overview of rt-app and idlestat and how we use it
+featured_image_name: LCU14-206.jpg
 image:
   featured: true
   name: LCU14-206.jpg

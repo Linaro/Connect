@@ -8,6 +8,7 @@ comments: true
 date: 2015-06-30 17:08:48
 excerpt: Cisco to present their experience using ODP to provide portable accelerated
   access to crypto functions on various SoCs.
+featured_image_name: LCU14-310.jpg
 image:
   featured: true
   name: LCU14-310.jpg

@@ -7,6 +7,7 @@ categories:
 comments: false
 date: 2017-03-21 15:28:54
 excerpt: Android "AOSP TV"
+featured_image_name: BUD17-DF07.jpg
 image:
   featured: true
   name: BUD17-DF07.jpg

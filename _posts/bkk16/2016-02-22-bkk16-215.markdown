@@ -2,8 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-215.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Tuesday/BKK16-215%20kernelci%20dot%20org.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:42
 excerpt: 'The kernelci.org project is currently doing hundreds of build and boot
@@ -15,6 +14,7 @@ excerpt: 'The kernelci.org project is currently doing hundreds of build and boot
   demos and how to start consuming its results, and be a forum for
 
   further discussions.'
+featured_image_name: BKK16-215.jpg
 image:
   featured: true
   name: BKK16-215.jpg

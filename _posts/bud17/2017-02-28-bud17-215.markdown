@@ -8,6 +8,7 @@ comments: false
 date: 2017-02-28 12:05:35
 excerpt: Feedback and support for and by users of LAVA. Talk to us about your LAVA
   use cases, problems, and ideas.
+featured_image_name: BUD17-215.jpg
 image:
   featured: true
   name: BUD17-215.jpg

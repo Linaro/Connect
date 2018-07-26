@@ -8,6 +8,7 @@ date: 2017-10-06 16:55:16
 excerpt: This presentation takes a look at the current state of AArch64-specific optimizations
   in glibc, and the results of some initial tests using AArch64 vector capabilities
   to accelerate additional glibc functions
+featured_image_name: SFO17-308.jpg
 image:
   featured: true
   name: SFO17-308.jpg

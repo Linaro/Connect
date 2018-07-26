@@ -18,6 +18,7 @@ excerpt: 'One of the problems we experience quite a lot is to do with people set
   keep hacking up for later
 
   - if a hacking session detects that there are no users ssh'
+featured_image_name: HKG15-402.jpg
 image:
   featured: true
   name: HKG15-402.jpg

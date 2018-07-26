@@ -21,6 +21,7 @@ excerpt: "For connected embedded systems we can broadly consider security across
   solutions. This session will discuss the solutions that are available today, how
   to reason effectively about application security requirements and opportunities
   to evolve embedded security solutions in the future."
+featured_image_name: LAS16-308.png
 image:
   featured: true
   name: LAS16-308.png

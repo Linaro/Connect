@@ -6,6 +6,7 @@ categories:
 - sfo15
 comments: false
 date: 2015-09-23 00:00:00
+featured_image_name: SF015304ServerEcosystemDayPart2a.jpg
 image:
   featured: true
   name: SF015304ServerEcosystemDayPart2a.jpg

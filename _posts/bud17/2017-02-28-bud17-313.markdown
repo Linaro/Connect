@@ -12,6 +12,7 @@ excerpt: Device Tree is well established in the Linux kernel. But since there co
   it to Linux kernel. Therefore we are looking for a well established way for firmware
   to also make use and modify the Device Tree blobs before handing them over to Linux
   kernel. With this BoF session we would like to get started a gather ideas etc.
+featured_image_name: BUD17-313.jpg
 image:
   featured: true
   name: BUD17-313.jpg

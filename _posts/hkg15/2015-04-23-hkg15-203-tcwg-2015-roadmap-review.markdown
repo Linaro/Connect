@@ -10,6 +10,7 @@ excerpt: The TCWG 2015 Roadmap Discussion presentation will discuss both the Lin
   LLVM Toolchain Roadmap and the Linaro GNU Toolchain Roadmap for 2015. We will discuss
   the ongoing tasks, as well as features in development. We will also present the
   schedule for the binary and source releases in 2015.
+featured_image_name: HKG15-203.jpg
 image:
   featured: true
   name: HKG15-203.jpg

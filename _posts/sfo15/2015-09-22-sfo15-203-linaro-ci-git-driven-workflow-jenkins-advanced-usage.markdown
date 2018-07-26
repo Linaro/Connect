@@ -12,10 +12,11 @@ excerpt: As part of Linaro CI v2 project, several improvements have been impleme
   and deployed in order to make CI at Linaro faster, more reliable and easier to use
   by the developers. The session will present the new workflow to setup and maintain
   CI loops, as well as the tools used by Linaro like Jenkins.
+featured_image_name: SFO15203LinaroCIgitdrivenworkflowJenkinsadvancedusage.jpg
 image:
   featured: true
-  name: SFO15-203-LinaroCI-gitdrivenworkflow&Jenkinsadvancedusage.jpg
-  path: /assets/images/featured-images/SFO15-203-LinaroCI-gitdrivenworkflow&Jenkinsadvancedusage.jpg
+  name: SFO15203LinaroCIgitdrivenworkflowJenkinsadvancedusage.jpg
+  path: /assets/images/featured-images/SFO15203LinaroCIgitdrivenworkflowJenkinsadvancedusage.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-203-linaro-ci-git-driven-workflow-jenkins-advanced-usage/
 post_format:

@@ -8,6 +8,7 @@ comments: false
 date: 2017-03-23 16:55:41
 excerpt: Highlights OpenFastPath using OpenDataPlane to leverage SoC hardware acceleration
   capabilities for IPSEC offload
+featured_image_name: BUD17-DF16.jpg
 image:
   featured: true
   name: BUD17-DF16.jpg

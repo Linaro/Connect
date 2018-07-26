@@ -13,6 +13,7 @@ excerpt: "Real Time kernel is out of linux kernel upstream for long time. It kee
   in upstream kernel, and the solution to fix them in RT. We also go through the current
   out of upstream RT code. Introduce the base stone of RT features: sleeping spin_lock.
   This session also covers the basic criteria of RT, the general testing tools."
+featured_image_name: SFO17-207.jpg
 image:
   featured: true
   name: SFO17-207.jpg

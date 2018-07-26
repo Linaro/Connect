@@ -8,6 +8,7 @@ comments: true
 date: 2015-06-30 17:09:25
 excerpt: Technical session featuring a deep dive into the Chromium-Blink migration
   implementing Ozone-Aura graphics framework
+featured_image_name: LCU14-208.jpg
 image:
   featured: true
   name: LCU14-208.jpg

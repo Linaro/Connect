@@ -27,6 +27,7 @@ excerpt: 'A run-time bug in operating system software that enables car control c
   bugs. This then permits running Linux safely in virtual machines on top of
 
   seL4 - something that the Auto world demands.'
+featured_image_name: SFO17-417.jpg
 image:
   featured: true
   name: SFO17-417.jpg

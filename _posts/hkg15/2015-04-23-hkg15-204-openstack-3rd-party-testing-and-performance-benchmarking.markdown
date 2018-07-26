@@ -8,6 +8,7 @@ comments: true
 date: 2015-04-23 15:36:54
 excerpt: Status of Tempest 3rd party testing, discussion on scenarii for Rally benchmarking
   and hypervisor performance.
+featured_image_name: HKG15-204.jpg
 image:
   featured: true
   name: HKG15-204.jpg

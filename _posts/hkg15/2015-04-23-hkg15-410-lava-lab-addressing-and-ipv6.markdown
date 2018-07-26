@@ -11,6 +11,7 @@ excerpt: 'Currently the majority of DUTs in the Lab are allocated an IP address 
 
   The proposal is that, where devices have a stable, fixed MAC address, they should
   be mapped to a fixed IP by the DHCP daemon in a selected '
+featured_image_name: HKG15-410.jpg
 image:
   featured: true
   name: HKG15-410.jpg

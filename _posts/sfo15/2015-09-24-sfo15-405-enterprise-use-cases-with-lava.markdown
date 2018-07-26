@@ -9,10 +9,11 @@ date: 2015-09-24 00:00:00
 excerpt: UEFI boot testing with SCT and luvOS automation have stretched the original
   design scope for LAVA, the session will describe the challenges and needs for ARM
   server boot test automation going forward in cooperation with the LAVA and CI teams.
+featured_image_name: SFO15405EnterpriseUseCaseswithLAVA.jpg
 image:
   featured: true
-  name: SFO15-405-EnterpriseUseCaseswithLAVA.jpg
-  path: /assets/images/featured-images/SFO15-405-EnterpriseUseCaseswithLAVA.jpg
+  name: SFO15405EnterpriseUseCaseswithLAVA.jpg
+  path: /assets/images/featured-images/SFO15405EnterpriseUseCaseswithLAVA.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-405-enterprise-use-cases-with-lava/
 post_format:

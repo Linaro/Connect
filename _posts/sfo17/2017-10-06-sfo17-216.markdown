@@ -39,6 +39,7 @@ excerpt: 'Because all modern general-purpose CPUs support small-scale SIMD
   optimizations - and also will give an update on Linaro ART team''s
 
   SIMD-related activities.'
+featured_image_name: SFO17-216.jpg
 image:
   featured: true
   name: SFO17-216.jpg

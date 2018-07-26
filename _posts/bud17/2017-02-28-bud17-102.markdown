@@ -11,6 +11,7 @@ excerpt: "Even if the CPU-Idle framework has improved significantly over the las
   multi-cluster SMP systems and heterogeneous systems like big.LITTLE. Therefore Linaro
   have been working on a solution that unifies idle management for all kind of devices,
   including CPUs. This sessions provides the audience an update of this work"
+featured_image_name: BUD17-102.jpg
 image:
   featured: true
   name: BUD17-102.jpg

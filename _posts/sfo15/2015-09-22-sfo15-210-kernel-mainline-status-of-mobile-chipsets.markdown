@@ -19,10 +19,11 @@ excerpt: "In this session, Tim Bird will discuss the mainline status of several 
   and collaboration \n* working with upstream to address deficient sub-systems or
   needed maintainer assistance\n\nIt is hoped that discussion will ensue about ways
   to continue enhancing this work, to get more SoC code mainlined."
+featured_image_name: SFO15210KernelMainlineStatusofMobileChipsets.jpg
 image:
   featured: true
-  name: SFO15-210-KernelMainlineStatusofMobileChipsets.jpg
-  path: /assets/images/featured-images/SFO15-210-KernelMainlineStatusofMobileChipsets.jpg
+  name: SFO15210KernelMainlineStatusofMobileChipsets.jpg
+  path: /assets/images/featured-images/SFO15210KernelMainlineStatusofMobileChipsets.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-210-kernel-mainline-status-of-mobile-chipsets/
 post_format:

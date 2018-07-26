@@ -6,6 +6,7 @@ categories:
 - sfo15
 comments: false
 date: 2015-11-03 12:10:46
+featured_image_name: SFO15-200K2.jpg
 image:
   featured: true
   name: SFO15-200K2.jpg

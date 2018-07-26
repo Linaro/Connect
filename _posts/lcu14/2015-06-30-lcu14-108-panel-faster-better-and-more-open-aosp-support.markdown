@@ -31,6 +31,7 @@ excerpt: 'The ARM ecosystem is large and still growing, with Linaro a key focus 
   What practical steps can the members of the ecosystem take to produce more of the
   right patches, of the right quality and at the right time to improve both Android
   and the products and applications that use it ?'
+featured_image_name: LCU14-108.jpg
 image:
   featured: true
   name: LCU14-108.jpg

@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-04-23 15:36:27
 excerpt: Running Ceph in the colocation, ongoing optimizations
+featured_image_name: HKG15-401.jpg
 image:
   featured: true
   name: HKG15-401.jpg

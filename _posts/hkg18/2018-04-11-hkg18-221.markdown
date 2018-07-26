@@ -26,6 +26,7 @@ excerpt: 'An overview of the Trusted Firmware M project with an in depth present
   Early access to TF-M was released in December 2017 and it is being made public during
   Linaro Connect. The implementation should be considered a prototype until the PSA
   specifications reach release state and the code aligns._'
+featured_image_name: HKG18-221.png
 image:
   featured: true
   name: HKG18-221.png

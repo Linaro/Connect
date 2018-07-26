@@ -9,6 +9,7 @@ excerpt: Some platforms have the capability to configure the performance state o
   much platform dependent and we may need to work with a wide range of configurables.  For
   some platforms, like Qualcomm, it can be a positive integer value alone, while in
   other cases it can be voltage levels, etc.
+featured_image_name: SFO17-413.png
 image:
   featured: true
   name: SFO17-413.png

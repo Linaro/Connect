@@ -18,6 +18,7 @@ excerpt: 'Power distribution automation and serial console controller on an ARM 
   making it ideal as a desktop or demonstrator unit. http://wiki.vero-apparatus.com/OpenTAC
 
 '
+featured_image_name: HKG15-205.jpg
 image:
   featured: true
   name: HKG15-205.jpg

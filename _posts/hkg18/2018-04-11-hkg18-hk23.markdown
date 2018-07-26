@@ -7,6 +7,7 @@ categories:
 comments: false
 date: 2018-04-11 14:15:50
 excerpt: LISA wltest
+featured_image_name: HKG18-HK23.png
 image:
   featured: true
   name: HKG18-HK23.png

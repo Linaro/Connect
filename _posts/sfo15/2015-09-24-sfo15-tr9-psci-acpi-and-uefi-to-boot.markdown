@@ -12,10 +12,11 @@ excerpt: "An introductory session of a system-level overview at Power State Coor
   \n* Focus on ARMv8\n* Goes top-down from ACPI\n* A demo based on the current code
   in qemu (and/or 96Boards)\n* The specifications are very dynamic - what\u2019s onging
   for ACPI and PSCI"
+featured_image_name: SFO15TR9PSCIACPIandUEFItoboot.jpg
 image:
   featured: true
-  name: SFO15-TR9-PSCI,ACPI(andUEFItoboot).jpg
-  path: /assets/images/featured-images/SFO15-TR9-PSCI,ACPI(andUEFItoboot).jpg
+  name: SFO15TR9PSCIACPIandUEFItoboot.jpg
+  path: /assets/images/featured-images/SFO15TR9PSCIACPIandUEFItoboot.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr9-psci-acpi-and-uefi-to-boot/
 post_format:

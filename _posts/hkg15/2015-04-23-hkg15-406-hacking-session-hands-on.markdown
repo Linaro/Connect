@@ -13,6 +13,7 @@ excerpt: 'Hands on training and a Q&A involving the Lab and LAVA Teams on how to
 
 
   Key stakeholders are Hacking session users QA, LAVA team and Lab'
+featured_image_name: HKG15-406.jpg
 image:
   featured: true
   name: HKG15-406.jpg

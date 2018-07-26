@@ -8,6 +8,7 @@ comments: true
 date: 2015-04-23 15:38:26
 excerpt: In this BoF (birds of a feather) session we welcome general questions about
   OE in general and the meta-linaro layer. The discussion will focus on Linaro
+featured_image_name: HKG15-103.jpg
 image:
   featured: true
   name: HKG15-103.jpg

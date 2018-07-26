@@ -14,6 +14,7 @@ excerpt: Coresight is the name given to a set of IP blocks providing hardware as
   provide consolidation and standardization of interfaces to the coresight subsystem.
   We will conclude with a status of our current upstreaming efforts and how we see
   the coming months unfolding.
+featured_image_name: LCU14-101.jpg
 image:
   featured: true
   name: LCU14-101.jpg

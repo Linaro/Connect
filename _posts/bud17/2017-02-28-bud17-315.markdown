@@ -9,6 +9,7 @@ date: 2017-02-28 12:05:43
 excerpt: Hyperscaling applications can be difficult, but Kubernetes removes much of
   the complexity. Learn how to take a simple web application, and create a highly
   available, horizontally scalable service with Kubernetes running on an ARM cluster.
+featured_image_name: BUD17-315.jpg
 image:
   featured: true
   name: BUD17-315.jpg

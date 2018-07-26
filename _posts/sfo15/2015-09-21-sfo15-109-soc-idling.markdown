@@ -13,10 +13,11 @@ excerpt: Discuss plans in the PM community to improve genpd, runtime PM and cous
   (e.g. caches) and reduce platform-specific code. Please attend if you want to learn
   about dynamic power management for the whole SoC and would like to discuss problems
   faced currently.
+featured_image_name: SFO15109SoCidling.jpg
 image:
   featured: true
-  name: SFO15-109-SoCidling.jpg
-  path: /assets/images/featured-images/SFO15-109-SoCidling.jpg
+  name: SFO15109SoCidling.jpg
+  path: /assets/images/featured-images/SFO15109SoCidling.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-109-soc-idling/
 post_format:

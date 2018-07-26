@@ -12,6 +12,7 @@ excerpt: "Android doesn\x89\u2019t give application access to hardware over bus 
   apps needs to work with multiple different devices like sensors, controllers, etc
   directly to meet the efficiency and speed required. In this presentation we will
   introduce the APIs, architecture design and a working demo."
+featured_image_name: SFO15-505.jpg
 image:
   featured: true
   name: SFO15-505.jpg

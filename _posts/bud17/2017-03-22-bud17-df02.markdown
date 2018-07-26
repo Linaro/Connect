@@ -7,6 +7,7 @@ categories:
 comments: false
 date: 2017-03-22 11:33:21
 excerpt: Archermind demo for MTK X20 Pro and Mstar TV 96Boards
+featured_image_name: BUD17-DF02.jpg
 image:
   featured: true
   name: BUD17-DF02.jpg

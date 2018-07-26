@@ -10,6 +10,7 @@ excerpt: Making NEON shine simply requires following a few tips. In this present
   we explore the key factors to a successful use of NEON. I'll present work I've done
   on the Skia graphics library (used in Chromium, Firefox, Android) and share a number
   of tips.
+featured_image_name: LCU14-504.jpg
 image:
   featured: true
   name: LCU14-504.jpg

@@ -1,8 +1,7 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-400B.pdf
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:49
 excerpt: 'The current Hadoop ecosystem is challenged and slowed by fragmented and
@@ -22,6 +21,7 @@ excerpt: 'The current Hadoop ecosystem is challenged and slowed by fragmented an
 
   This talk will go over some of specifications defined, Linaro''s contributions,
   Roadmap and a quick demo'
+featured_image_name: BKK16-400B.jpg
 image:
   featured: true
   name: BKK16-400B.jpg

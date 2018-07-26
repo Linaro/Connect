@@ -9,6 +9,7 @@ date: 2015-06-30 17:07:42
 excerpt: This session will provide a summary of the current status of LSK, an introduction
   for those not familiar with it and provide a forum for discussion of the status
   and direction with members.
+featured_image_name: LCU14-511.jpg
 image:
   featured: true
   name: LCU14-511.jpg

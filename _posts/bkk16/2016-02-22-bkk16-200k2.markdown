@@ -2,10 +2,10 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-200K2.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Tuesday/BKK16-200K2%20Garrett%20Keynote.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:37
+featured_image_name: BKK16-200K2.jpg
 image:
   featured: true
   name: BKK16-200K2.jpg
@@ -19,7 +19,7 @@ session_track: Keynote
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16200k2-standards-and-security
 slug: bkk16-200k2
 speakers: Matthew Garrett
-title: 'BKK16-200K2: Guest Keynote: Matthew Garrett'
+title: 'BKK16200K2&#58; Guest Keynote&#58; Matthew Garrett'
 video_length: '34:47'
 video_thumbnail: None
 wordpress_id: 3322

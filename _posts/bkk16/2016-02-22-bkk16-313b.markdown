@@ -1,12 +1,12 @@
 ---
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:48
 excerpt: ARM in HPC /  This session will cover current ARM HPC software ecosystem
   and roadmap, as well as HPC market potential and how it intersects big data software
   stacks.
+featured_image_name: BKK16-313B.jpg
 image:
   featured: true
   name: BKK16-313B.jpg

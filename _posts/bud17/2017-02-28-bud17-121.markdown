@@ -9,6 +9,7 @@ date: 2017-02-28 12:05:29
 excerpt: This session will cover getting, and using newer tools such as gcc6 to use
   when building distribution components or 3rd party software for various improvements,
   while maintaining compatibility with the base distribution.
+featured_image_name: BUD17-121.jpg
 image:
   featured: true
   name: BUD17-121.jpg

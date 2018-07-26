@@ -11,6 +11,7 @@ excerpt: This presentation will examine the lifecycle of toolchain development f
   enablement in FOSS projects, to adoption in Linux Distributions. It will examine
   the behaviors of successful silicon vendors as well as behaviors of vendors that
   struggle to get their platform fully enabled in the GNU/Linux OS.
+featured_image_name: LAS16-106.png
 image:
   featured: true
   name: LAS16-106.png

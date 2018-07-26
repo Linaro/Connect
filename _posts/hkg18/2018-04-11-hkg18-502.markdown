@@ -12,6 +12,7 @@ excerpt: "To improve reliability, performance and maintainability, LEG is moving
   lab will solve them.\n\nThis pattern will be reproduced in other data centres around
   the world, in partnership with our members, to develop new best practices for Arm
   enterprise deployments."
+featured_image_name: HKG18-502.png
 image:
   featured: true
   name: HKG18-502.png

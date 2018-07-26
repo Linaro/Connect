@@ -13,6 +13,7 @@ excerpt: An example of a reference IoT product can be thought of supporting seve
   with FOTA support are also critically important.  This session will cover the development
   and challenges faced when producing a reference IoT product implementation with
   Zephyr, describing the state of the project, and the current gaps to productization.
+featured_image_name: BUD17-405.jpg
 image:
   featured: true
   name: BUD17-405.jpg

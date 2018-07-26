@@ -12,10 +12,11 @@ excerpt: This is an inside look of the state of compliance from the perspective 
   the Software Freedom Conservancy, a nonprofit charitable organization that is the
   most active in the field. Karen will give an overview of where things are with compliance
   initiatives and insight into the ideological movement behind copyleft.
+featured_image_name: SFO15500K2IdeologyinOpenSourceCompliance.jpg
 image:
   featured: true
-  name: SFO15-500K2-IdeologyinOpenSourceCompliance.jpg
-  path: /assets/images/featured-images/SFO15-500K2-IdeologyinOpenSourceCompliance.jpg
+  name: SFO15500K2IdeologyinOpenSourceCompliance.jpg
+  path: /assets/images/featured-images/SFO15500K2IdeologyinOpenSourceCompliance.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-500k2-ideology-in-open-source-compliance/
 post_format:

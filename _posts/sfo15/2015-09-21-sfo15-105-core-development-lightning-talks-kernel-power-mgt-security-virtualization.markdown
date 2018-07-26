@@ -10,10 +10,11 @@ comments: false
 date: 2015-09-21 00:00:00
 excerpt: A single session providing an overview of current development activities
   in the Kernel, Power Management, Security and Virtualization Teams.
+featured_image_name: SFO15105CoreDevelopmentLightningTalksKernelPowerMgtSecurityVirtualization.jpg
 image:
   featured: true
-  name: SFO15-105-CoreDevelopmentLightningTalks-Kernel,PowerMgt,Security&Virtualization.jpg
-  path: /assets/images/featured-images/SFO15-105-CoreDevelopmentLightningTalks-Kernel,PowerMgt,Security&Virtualization.jpg
+  name: SFO15105CoreDevelopmentLightningTalksKernelPowerMgtSecurityVirtualization.jpg
+  path: /assets/images/featured-images/SFO15105CoreDevelopmentLightningTalksKernelPowerMgtSecurityVirtualization.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-105-core-development-lightning-talks-kernel-power-mgt-security-virtualization/
 post_format:

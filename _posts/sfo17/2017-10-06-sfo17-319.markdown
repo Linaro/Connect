@@ -16,6 +16,7 @@ excerpt: "The ARM\u2019s System Control and Management Interface (SCMI) is a set
   the porting guidelines for any potential users of this test suite. Here we also
   demonstrate the execution of this test suite run on Juno ARM Development Platform
   (ADP) using LAVA."
+featured_image_name: SFO17-319.jpg
 image:
   featured: true
   name: SFO17-319.jpg

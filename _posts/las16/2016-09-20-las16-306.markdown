@@ -11,6 +11,7 @@ excerpt: Interconnected systems require trust between devices and service provid
   collaborated on the Open Trust Protocol (OTrP), which combines a secure architecture
   with trusted code management, using technologies proven in large scale banking and
   sensitive data applications on mass-market devices such as smartphones and tablets.
+featured_image_name: LAS16-306.png
 image:
   featured: true
   name: LAS16-306.png

@@ -2,8 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-313A.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Wednesday/BKK16-313A%20RP%20Enterprise%20kernel.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:48
 excerpt: The RP Enterprise Kernel is the combination of Reference Platform topic branches.  The
@@ -14,6 +13,7 @@ excerpt: The RP Enterprise Kernel is the combination of Reference Platform topic
   the 4.4 kernel is released, all patches that were not accepted into the kernel release,
   will be rebased to the next developement kernel.  In the case of this example, rebase
   from 4.4 to 4.5.
+featured_image_name: BKK16-313A.jpg
 image:
   featured: true
   name: BKK16-313A.jpg

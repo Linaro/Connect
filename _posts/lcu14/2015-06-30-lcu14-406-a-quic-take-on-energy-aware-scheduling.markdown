@@ -26,6 +26,7 @@ excerpt: 'Task scheduling on big.Little targets is a known challenge in the comm
   - Pain points from an upstream integration PoV.
 
   - Results, if any.'
+featured_image_name: LCU14-406.jpg
 image:
   featured: true
   name: LCU14-406.jpg

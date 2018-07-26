@@ -11,6 +11,7 @@ excerpt: Linaro used Jira for project Management, which handles development requ
   thrust, to put ourselves in exploration mode to have a bird eye view for the Jira
   requests as well as helping Project teams to cater enhanced Jira requests in simplified
   & concise way.
+featured_image_name: BUD17-115.jpg
 image:
   featured: true
   name: BUD17-115.jpg

@@ -17,6 +17,7 @@ excerpt: "To fulfill our vision of having Arm servers everywhere and easy to dep
   of the SBSA/SBBR specifications. I will also provide an overview of the Server Base
   Manageability Guide (SBMG) that is to be released later this year and the related
   sample implementation in OpenBMC."
+featured_image_name: HKG18-317.png
 image:
   featured: true
   name: HKG18-317.png

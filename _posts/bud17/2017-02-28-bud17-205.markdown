@@ -8,6 +8,7 @@ comments: false
 date: 2017-02-28 12:05:32
 excerpt: This session will provide updates to the ARM Server Base System Architecture
   and Boot Requirements (SBSA/SBBR) as well as their validation programs.
+featured_image_name: BUD17-205.jpg
 image:
   featured: true
   name: BUD17-205.jpg

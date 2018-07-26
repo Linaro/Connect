@@ -13,6 +13,7 @@ excerpt: The open source hypervisor Jailhouse provides hard partitioning of mult
   at the ARM-specific status of Jailhouse and discuss applications, to-dos and possible
   collaborations around it with the ARM community. The session is intended to be half
   presentation, half Q&A / discussion.
+featured_image_name: HKG18-115.png
 image:
   featured: true
   name: HKG18-115.png

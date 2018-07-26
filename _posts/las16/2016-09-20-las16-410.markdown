@@ -14,6 +14,7 @@ excerpt: Continuing the discussion from Linaro Connect Bangkok 2016, we discuss 
   estimation schemes can be built on top of WALT. Experiments use the new schedutil
   governor. Examination of individual use cases in detail as well as how to handle
   migration and potential caveats of a windowing scheme are discussed.
+featured_image_name: LAS16-410.png
 image:
   featured: true
   name: LAS16-410.png

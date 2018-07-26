@@ -9,6 +9,7 @@ date: 2016-09-20 17:10:34
 excerpt: The session would briefly provide updates on migration of builds from android-build
   to ci.linaro.org. The session would also take feedback from the users on what features
   would improve their experience with ci.
+featured_image_name: LAS16-110.png
 image:
   featured: true
   name: LAS16-110.png

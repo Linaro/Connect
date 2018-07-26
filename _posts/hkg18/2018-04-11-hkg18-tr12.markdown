@@ -10,6 +10,7 @@ excerpt: LAVA tutorial material specific to LITE with an emphasis on RTOS target
   rather than Linux (i.e. monolithic images and no shells). Covers Test job basics,
   Getting started with the Lab Instance, Anatomy of a test job, Looking at LAVA results,
   Writing tests. More advanced topics can also be covered if time allows.
+featured_image_name: HKG18-TR12.png
 image:
   featured: true
   name: HKG18-TR12.png

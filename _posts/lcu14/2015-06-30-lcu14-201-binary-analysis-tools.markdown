@@ -9,6 +9,7 @@ date: 2015-06-30 17:09:32
 excerpt: 'This session will be a presentation about currently available binary analysis
   tools, including: Sanitizers, perf (a performance counter and tracing profiling
   tool), record/replay (a reverse debugging facility in GDB) and prelink rootfs.'
+featured_image_name: LCU14-201.jpg
 image:
   featured: true
   name: LCU14-201.jpg

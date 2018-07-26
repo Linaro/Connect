@@ -14,6 +14,7 @@ excerpt: 'DynamIQ technology is the foundation for future ARM Cortex-A processor
   Last March, ARM announced DynamiQ which gives a new level of flexibility in designing
   heterogeneous system. During this session, we will cover what are the impacts and
   how to enable its supports in the kernel.'
+featured_image_name: SFO17-104.jpg
 image:
   featured: true
   name: SFO17-104.jpg

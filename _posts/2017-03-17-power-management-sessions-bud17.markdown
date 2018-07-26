@@ -6,6 +6,7 @@ categories:
 - Blog
 comments: false
 date: 2017-03-17 15:40:19
+featured_image_name: PowerManagementsessionsfromBUD17.jpg
 image:
   featured: true
   name: PowerManagementsessionsfromBUD17.jpg

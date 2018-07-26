@@ -16,6 +16,7 @@ excerpt: AArch64 is now a first class citizen with Apache Bigtop community. Apac
   it to AArch64 and running smoke tests. Jun He & Ganesh Raju - Bigtop patches, common
   areas of code fixes, challenges of porting.and walk through of setup and installation
   process. Naresh Bhat - Sandbox and Smoke Tests
+featured_image_name: HKG18-220.png
 image:
   featured: true
   name: HKG18-220.png

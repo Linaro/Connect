@@ -9,6 +9,7 @@ date: 2015-06-30 17:09:30
 excerpt: Aimed at developers who are working upstream and at the same time possibly
   working on NDA things. It covers secure email, when to and when not to use IRC for
   discussions, and general good practices.
+featured_image_name: LCU14-115.jpg
 image:
   featured: true
   name: LCU14-115.jpg

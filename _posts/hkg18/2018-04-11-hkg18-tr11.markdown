@@ -13,6 +13,7 @@ excerpt: The LAVA on your desk BoF is aimed at individual kernel engineers, subs
   kernel tree etc. The hardware for this use case does not have to cope with dozens
   of devices or automated submissions. It is the single-device-single-developer model
   and the cost of the hardware can reflect this.
+featured_image_name: HKG18-TR11.png
 image:
   featured: true
   name: HKG18-TR11.png

@@ -2,14 +2,14 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-103.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Monday/BKK16-103%20OpenCSD%20-%20Open%20for%20Business.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:34
 excerpt: The OpenCSD library for decoding CoreSight traces has reached the point where
   it is ready to be integrated into applications. This session will present an overview
   of the state of the library, its interfaces and explore and demonstrate a sample
   integration with perf.
+featured_image_name: BKK16-103.jpg
 image:
   featured: true
   name: BKK16-103.jpg

@@ -7,6 +7,7 @@ categories:
 comments: false
 date: 2017-10-06 16:54:07
 excerpt: 'High Performance Computing: Where is it going?'
+featured_image_name: SFO17-200K1.jpg
 image:
   featured: true
   name: SFO17-200K1.jpg

@@ -6,6 +6,7 @@ categories:
 - hkg18
 comments: false
 date: 2018-04-11 14:15:25
+featured_image_name: HKG18-CB4.png
 image:
   featured: true
   name: HKG18-CB4.png

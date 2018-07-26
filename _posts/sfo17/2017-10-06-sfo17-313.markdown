@@ -11,6 +11,7 @@ excerpt: To support the use of OpenDataPlane in Network Function Virtualization 
   distribution by platforms like RedHat, Ubuntu, SUSE, etc. that can offer both high-performance
   software implementations of ODP APIs as well as hardware-acceleration on platforms
   that offer such.
+featured_image_name: SFO17-313.jpg
 image:
   featured: true
   name: SFO17-313.jpg

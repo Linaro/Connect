@@ -15,10 +15,11 @@ excerpt: "96Boards is most obviously a hardware specification and website provid
   96Boards Software Reference Platform and then invite discussion about how to improve
   the platform and what should and shouldn\u2019t be a part of the platform across
   the range of boards."
+featured_image_name: SFO15104The96BoardsSoftwareReferencePlatform.jpg
 image:
   featured: true
-  name: SFO15-104-The96BoardsSoftwareReferencePlatform.jpg
-  path: /assets/images/featured-images/SFO15-104-The96BoardsSoftwareReferencePlatform.jpg
+  name: SFO15104The96BoardsSoftwareReferencePlatform.jpg
+  path: /assets/images/featured-images/SFO15104The96BoardsSoftwareReferencePlatform.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-104-the-96boards-software-reference-platform/
 post_format:

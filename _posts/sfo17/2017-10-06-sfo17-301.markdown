@@ -17,6 +17,7 @@ excerpt: "Now that large community open source projects like Linux power the wor
   model on enforcement, explain which enforcement players are vying for the hearts
   and minds of developers, and pose potential solutions to discourage disruptive enforcement
   efforts.  To sue or not to sue -- that is the question."
+featured_image_name: SFO17-301.jpg
 image:
   featured: true
   name: SFO17-301.jpg

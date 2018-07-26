@@ -15,6 +15,7 @@ excerpt: "Contiguous page hint is a feature in AArch32 and AArch64 which could d
   and analyze the performance of different designs, including\n  transparent hugepage,
   hugepage and Bamvor' design.\n \n 3. Discuss the scenarios which are suitable for
   this work beyond the\n  enterprise."
+featured_image_name: BUD17-305.jpg
 image:
   featured: true
   name: BUD17-305.jpg

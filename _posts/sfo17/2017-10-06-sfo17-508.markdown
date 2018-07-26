@@ -11,6 +11,7 @@ excerpt: This session provides an overview of the Embedded Base Boot Requirement
   for ARM embedded devices that want to take advantage of the UEFI technology to separate
   the firmware and OS development while the underline implementation can use U-boot,
   coreboot, EDK2 or proprietary mechanisms.
+featured_image_name: SFO17-508.jpg
 image:
   featured: true
   name: SFO17-508.jpg

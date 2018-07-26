@@ -6,6 +6,7 @@ categories:
 comments: true
 date: 2015-06-30 17:07:35
 excerpt: Description to be added
+featured_image_name: LCU14-505.jpg
 image:
   featured: true
   name: LCU14-505.jpg

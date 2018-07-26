@@ -13,10 +13,11 @@ excerpt: "VLAND is a project to enable dynamic network configuration of various 
   Automated Validation Architecture so that jobs can dynamically configure the network
   for testing. In this session, we will review the current state of the project, next
   steps, and open it up for a discussion."
+featured_image_name: SFO15507VLANDprogressupdate.jpg
 image:
   featured: true
-  name: SFO15-507-VLANDprogressupdate.jpg
-  path: /assets/images/featured-images/SFO15-507-VLANDprogressupdate.jpg
+  name: SFO15507VLANDprogressupdate.jpg
+  path: /assets/images/featured-images/SFO15507VLANDprogressupdate.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-507-vland-progress-update/
 post_format:

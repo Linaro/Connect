@@ -2,8 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Friday/BKK16-504.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Friday/BKK16-504%20Running%20Linux%20in%20EL2.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:57
 excerpt: Running Linux in EL2 offers potentially important performance benefits for
@@ -11,6 +10,7 @@ excerpt: Running Linux in EL2 offers potentially important performance benefits 
   worse performance for userspace applications.  This talk explores the required actions
   taken so far, an analysis of the benefits, and discusses challenges with upstreaming
   this approach.
+featured_image_name: BKK16-504.jpg
 image:
   featured: true
   name: BKK16-504.jpg

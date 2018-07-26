@@ -20,6 +20,7 @@ excerpt: 'OpenStack is the number 1 private cloud Open Source project and Contai
   and get a deep understanding about the micro service backend, cloud computing framework
   and prototype structure, and why they are critical for Arm in the cloud computing
   domain.'
+featured_image_name: HKG18-510.png
 image:
   featured: true
   name: HKG18-510.png

@@ -8,6 +8,7 @@ comments: false
 date: 2018-04-11 14:11:54
 excerpt: A brief overview of the process of integrating OP-TEE into HiKey620 AOSP
   builds
+featured_image_name: HKG18-119.png
 image:
   featured: true
   name: HKG18-119.png

@@ -10,6 +10,7 @@ excerpt: "At scale everything changes. It is one thing to operate a datacenter o
   10K nodes, it\u2019s an entirely different thing to operate millions of nodes across
   100\u2019s of datacenters around the world.  What works well for enterprises doesn\u2019t
   necessarily work at scale."
+featured_image_name: HKG18-300K1.png
 image:
   featured: true
   name: HKG18-300K1.png
@@ -22,8 +23,8 @@ session_id: HKG18-300K1
 session_track: Ecosystem Day;Keynote
 slug: hkg18-300k1
 speakers: Leendert van Doorn
-title: "HKG18-300K1 - Keynote: Leendert van Doorn \u201CMicrosoft Azure: Operating
-  at Hyper-Scale\""
+title: "HKG18-300K1 - Keynote &#58; Leendert van Doorn Microsoft Azure &#58; Operating
+  at Hyper-Scale"
 video_length: '29:13'
 video_thumbnail: None
 wordpress_id: 8770

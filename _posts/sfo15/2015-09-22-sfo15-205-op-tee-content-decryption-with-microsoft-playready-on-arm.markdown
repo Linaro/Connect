@@ -11,6 +11,7 @@ date: 2015-09-22 00:00:00
 excerpt: This presentation gives an overview of how various components of set-top
   software are integrated to provide a W3C EME solution employing a commercial DRM
   integrated with an open source TEE running on ARM TrustZone.
+featured_image_name: SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonARM.jpg
 image:
   featured: true
   name: SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonARM.jpg

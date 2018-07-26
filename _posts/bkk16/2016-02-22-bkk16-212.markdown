@@ -2,8 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-212.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Tuesday/BKK16-212%20Whats%20broken%20on%20ARM64.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:40
 excerpt: 'The arm64 port is now in pretty good shape with most things ported and
@@ -17,6 +16,7 @@ excerpt: 'The arm64 port is now in pretty good shape with most things ported and
   as well on arm64 as it does on x86. We (Linaro, ARM and Debian) want
 
   your feedback on where to direct effort next.'
+featured_image_name: BKK16-212.jpg
 image:
   featured: true
   name: BKK16-212.jpg

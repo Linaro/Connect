@@ -11,6 +11,7 @@ excerpt: OpenDataPlane provides a portable framework for data plane acceleration
   by OpenFastPath (OFP). ODP+OFP in turn can be used to offer acceleration to applications
   like the open source NGiNX web server. This talk discusses experiences using these
   tools with a focus on the performance and scaling benefits of using ODP and OFP.
+featured_image_name: LAS16-401.png
 image:
   featured: true
   name: LAS16-401.png

@@ -13,10 +13,11 @@ excerpt: "At this session we will get more knowledge about the TEE driver that L
   for example: What are the API\u2019s? How does the TEE driver work as a communication
   channel. What will a developer need to think of when adding support for another
   TEE solution?"
+featured_image_name: SFO15200LinuxkernelgenericTEEdriver.jpg
 image:
   featured: true
-  name: SFO15-200-LinuxkernelgenericTEEdriver.jpg
-  path: /assets/images/featured-images/SFO15-200-LinuxkernelgenericTEEdriver.jpg
+  name: SFO15200LinuxkernelgenericTEEdriver.jpg
+  path: /assets/images/featured-images/SFO15200LinuxkernelgenericTEEdriver.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-200-linux-kernel-generic-tee-driver/
 post_format:

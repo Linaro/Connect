@@ -12,6 +12,7 @@ excerpt: 'This is a demo of Android running with OPTEE and Secure Video Playback
 
 
 '
+featured_image_name: BUD17-DF10.jpg
 image:
   featured: true
   name: BUD17-DF10.jpg

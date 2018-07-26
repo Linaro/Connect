@@ -10,6 +10,7 @@ excerpt: LKFT project tries to address lack of functional testing on ARM Linux k
   The goal of the project is to provide an easy testing tool for kernel maintainers
   and developers. This talk describes the challenges we faced during building and
   using the system as well as future plans of the project.
+featured_image_name: HKG18-414.png
 image:
   featured: true
   name: HKG18-414.png

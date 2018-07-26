@@ -11,6 +11,7 @@ excerpt: This talk presents a highly flexible framework being developed to suppo
   can be personalized to microarchitectural differences discovered at runtime while
   still supporting application binary compatibility across an Instruction Set Architecture
   (ISA) as well as static bindings suitable for deep embedded use.
+featured_image_name: SFO17-303.jpg
 image:
   featured: true
   name: SFO17-303.jpg

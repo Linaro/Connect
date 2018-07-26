@@ -2,11 +2,11 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-406.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Thursday/BKK16-406%20Ubuntu%20Core%20-%20A%20snappy%20platform%20for%20embedded%2C%20IoT%20and%2096Boards%21.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:52
 excerpt: Summary of B&B OpenEmbedded work and input from other groups/members.
+featured_image_name: BKK16-406.jpg
 image:
   featured: true
   name: BKK16-406.jpg

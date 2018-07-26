@@ -11,6 +11,7 @@ excerpt: "Today\u2019s world of devices connected to clouds looks set to evolve 
   cloud and the edge. The very definition of edge is evolving too. In this presentation
   we will look at some potential futures made possible by the emergence of the fog
   and its implications for the segments that it embraces."
+featured_image_name: HKG18-200K1.png
 image:
   featured: true
   name: HKG18-200K1.png

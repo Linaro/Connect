@@ -19,6 +19,7 @@ excerpt: The SKS/KeyGen2 project is about establishing an security architecture,
   and basic key store is already running as an application which is used for testing
   and evaluation. What's missing is the OS/TEE/Browser integration, something which
   requires a set of rather different
+featured_image_name: BUD17-203.jpg
 image:
   featured: true
   name: BUD17-203.jpg

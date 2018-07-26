@@ -12,6 +12,7 @@ excerpt: "The ABI for a platform is defined by a multi-layered series of documen
   of the design principles used in its construction.\n \nThis presentation is aimed
   at software developers wanting to understand how to find information about the ABI,
   what they can rely upon and what they can extend"
+featured_image_name: BUD17-318.jpg
 image:
   featured: true
   name: BUD17-318.jpg

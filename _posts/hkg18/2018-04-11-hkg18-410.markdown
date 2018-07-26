@@ -20,6 +20,7 @@ excerpt: "Kubernetes is a commonly used Container Orchestration Engine today. It
   2, SRIOV CNI provides DPDK fast path networking for VNF 3, CPU Manger for Kubernetes
   delivers predictable network performance 4, Huge page management in Kubernetes enables
   the discovery, scheduling and allocation of huge pages as resource"
+featured_image_name: HKG18-410.png
 image:
   featured: true
   name: HKG18-410.png

@@ -13,6 +13,7 @@ excerpt: User space I/O offers significant speedup potential for data plane and 
   only minor changes to existing kernel drivers. Applications, in turn, need only
   provide "mini drivers" to handle the performance I/O paths in user space while leaving
   control operations in the kernel.
+featured_image_name: HKG18-110.png
 image:
   featured: true
   name: HKG18-110.png

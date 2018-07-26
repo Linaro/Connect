@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-04-23 15:37:56
 excerpt: A discussion session to gather ODP user experience from LNG members.
+featured_image_name: HKG15-209.jpg
 image:
   featured: true
   name: HKG15-209.jpg

@@ -10,6 +10,7 @@ excerpt: LHG is using the ION-based secure memory allocator integrated with OPTE
   as the basis for secure data path processing pipeline. LHG is following the W3C
   EME protocol and supporting Content Decryption Modules (CDMs) from Widevine and
   PlayReady.
+featured_image_name: BUD17-400.jpg
 image:
   featured: true
   name: BUD17-400.jpg

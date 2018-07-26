@@ -10,6 +10,7 @@ excerpt: 'This session will be working through the planned open source contribut
   from Linaro, ARM, and other members who want to share their open source contribution
   plans for the next year. Projects to be included are: gcc, llvm, glibc, gold, gdb,
   binutils.'
+featured_image_name: LCU14-303.jpg
 image:
   featured: true
   name: LCU14-303.jpg

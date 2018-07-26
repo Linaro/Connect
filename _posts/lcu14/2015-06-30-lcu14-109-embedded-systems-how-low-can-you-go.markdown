@@ -32,6 +32,7 @@ excerpt: 'ARM Linux has traditionally been the the operating system of choice fo
   or should we
 
   invest more time in these systems?'''
+featured_image_name: LCU14-109.jpg
 image:
   featured: true
   name: LCU14-109.jpg

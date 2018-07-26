@@ -14,6 +14,7 @@ excerpt: 'Native CI and CD pipelines for Arm The industrial revolution brought a
   Arm developers have had to jump through hoops to achieve similar productivity. This
   talk demonstrates how you can achieve CD natively on Arm and reduce friction in
   software delivery.'
+featured_image_name: HKG18-103.png
 image:
   featured: true
   name: HKG18-103.png

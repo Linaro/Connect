@@ -24,6 +24,7 @@ excerpt: "ARM TrustZone is a critical technology for securing IoT devices and sy
   tool for embedded systems development.\n  \n The presentation will focus on\n  \n
   * ARM v8a architecture and instruction set\n * ARM Trusted Firmware\n * TrustZone
   and OP-TEE basics\n * JTAG and bare metal debugging the Raspberry Pi 3"
+featured_image_name: LAS16-111.png
 image:
   featured: true
   name: LAS16-111.png

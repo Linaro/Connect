@@ -1,14 +1,14 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-402.pdf
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:51
 excerpt: Regular session taking place at Connect for developers working on Linux distributions
   to share progress on ARM Linux platform support. Users are also welcome to share
   their experiences using Linux distributions on ARM. The goal of the discussion is
   to identify areas in which Linaro can help.
+featured_image_name: BKK16-402.jpg
 image:
   featured: true
   name: BKK16-402.jpg

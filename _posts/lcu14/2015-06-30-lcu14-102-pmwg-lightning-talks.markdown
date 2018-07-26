@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-06-30 17:11:28
 excerpt: 5 minute updates from PMWG team members
+featured_image_name: LCU14-102.jpg
 image:
   featured: true
   name: LCU14-102.jpg

@@ -18,6 +18,7 @@ excerpt: "As Moore's law is slowing down, heterogeneous architectures are needed
   Artificial intelligence.\nIn this session we will introduce you to an all Programmable
   paradigm and low cost development platform to enable an ecosystem of flexibility
   and unparalleled programmability. \nThe future is now\u2026..."
+featured_image_name: HKG18-300K2.png
 image:
   featured: true
   name: HKG18-300K2.png

@@ -2,8 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-200.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Tuesday/BKK16-200%20Designing%20security%20into%20constrained%20IoT%20systems.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:37
 excerpt: "Trust and security are essential for the Internet of Things (IoT) to scale.
@@ -14,6 +13,7 @@ excerpt: "Trust and security are essential for the Internet of Things (IoT) to s
   In this presentation, you will learn how ARM, Linaro and the ARM partnership are
   securing these sub $1 IoT endpoints by providing device security, lifecycle security
   and communication security, without the need for in-depth security experts\u2026"
+featured_image_name: BKK16-200.jpg
 image:
   featured: true
   name: BKK16-200.jpg

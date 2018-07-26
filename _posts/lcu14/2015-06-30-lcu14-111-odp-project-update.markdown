@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-06-30 17:11:14
 excerpt: Update on the current status of ODP 1.0
+featured_image_name: LCU14-111.jpg
 image:
   featured: true
   name: LCU14-111.jpg

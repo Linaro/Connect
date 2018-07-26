@@ -2,13 +2,13 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-102.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Monday/BKK16-102%20Creating%20new%20workload%20for%20Workload%20Automation%20%26%20using%20WA%20with%20LAVA.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:34
 excerpt: "The session will cover the steps needed to prepare and use new workload
   for Workload Automation tool. The talk is based on the use case of preparing the
-  \u2018applaunch + I/O\u2019 test case for benchmarking I/O schedulers."
+  \u2018applaunch + I/O' test case for benchmarking I/O schedulers."
+featured_image_name: BKK16-102.jpg
 image:
   featured: true
   name: BKK16-102.jpg

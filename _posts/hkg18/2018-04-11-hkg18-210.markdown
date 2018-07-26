@@ -12,6 +12,7 @@ excerpt: The Android Open Source Project has integrated the Energy Aware Schedul
   areas and the scheduler may compete in the decisions for optimum energy saving /
   performance trade-off. We need to identify those conflicting interactions and improve
   the collaboration between the PM subsystems and the scheduler.
+featured_image_name: HKG18-210.png
 image:
   featured: true
   name: HKG18-210.png

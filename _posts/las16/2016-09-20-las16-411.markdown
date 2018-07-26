@@ -9,6 +9,7 @@ date: 2016-09-20 17:10:59
 excerpt: The session will describe the experience of using LAVA for ART CI. The goal
   of the session is to provide feedback from end user experience point of view of
   using LAVA.
+featured_image_name: LAS16-411.png
 image:
   featured: true
   name: LAS16-411.png

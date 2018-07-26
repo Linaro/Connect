@@ -8,6 +8,7 @@ comments: false
 date: 2017-02-28 12:05:56
 excerpt: Highlight the fact that they work across boards, e.g. LCD, PWM control, sensorhub,
   drone, etc.
+featured_image_name: BUD17-504.jpg
 image:
   featured: true
   name: BUD17-504.jpg

@@ -11,6 +11,7 @@ excerpt: As well as a compiler, a major output of the LLVM project are the Clang
   tools in your C/C++ project regardless of whether you use clang as your compiler.
   We'll cover tools such as clang-format, clang-tidy and clang-check, with a look
   at how you can use the python bindings to libclang to build your own custom tool.
+featured_image_name: HKG18-TR04.png
 image:
   featured: true
   name: HKG18-TR04.png

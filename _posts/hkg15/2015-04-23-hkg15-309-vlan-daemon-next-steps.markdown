@@ -10,6 +10,7 @@ excerpt: The VLAN daemon code base has progressed, and we should be closer to th
   ability to test in a controlled environment in the Lab (a rack has been set aside
   for this). This session is to determine the next steps in development, testing and
   LAVA integration. Key stakeholders are LNG, LEG, LAVA team and Lab.
+featured_image_name: HKG15-309.jpg
 image:
   featured: true
   name: HKG15-309.jpg

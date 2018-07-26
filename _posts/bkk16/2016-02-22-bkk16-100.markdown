@@ -2,8 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-100.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Monday/BKK16-100%20Evolution%20of%20the%20Reference%20Software.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:33
 excerpt: The Reference Software Platform lead project was introduced in Linaro Connect
@@ -11,6 +10,7 @@ excerpt: The Reference Software Platform lead project was introduced in Linaro C
   the first tree big milestones (the 15.10, 15.12 and 16.03 releases). This session
   will revisit the work done as part of the previous releases, covering the projects
   that were incorporated through the process and our vision for the future milestones.
+featured_image_name: BKK16-100.jpg
 image:
   featured: true
   name: BKK16-100.jpg

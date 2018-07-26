@@ -10,6 +10,7 @@ excerpt: Since the introduction of ARMv8 and 64bit AArch64 architecture 2013, th
   and to a 64bit only future. In this month, the official iOS 11 will be the first
   iOS with 64bit only support.  By June 2018, all apps in Mac Store must support 64bit
   and Mac OS will be 64bit only as well.
+featured_image_name: SFO17-316.jpg
 image:
   featured: true
   name: SFO17-316.jpg

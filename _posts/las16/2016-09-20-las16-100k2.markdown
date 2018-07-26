@@ -6,6 +6,7 @@ categories:
 - las16
 comments: false
 date: 2016-09-20 17:10:26
+featured_image_name: LAS16-100K2.png
 image:
   featured: true
   name: LAS16-100K2.png

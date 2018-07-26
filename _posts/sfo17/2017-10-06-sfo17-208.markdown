@@ -11,6 +11,7 @@ excerpt: "AOSP TV could benefit from having direct access to DVB TV and radio st
   of using anything (L)GPL, we\u2019ve developed a new Apache licensed library to
   access DVB tuners - and a connection into AOSP and into IP streaming. This presentation
   introduces the library, its API, and its possible uses with AOSP TV."
+featured_image_name: SFO17-208.jpg
 image:
   featured: true
   name: SFO17-208.jpg

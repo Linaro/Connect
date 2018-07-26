@@ -9,6 +9,7 @@ date: 2018-04-11 14:13:45
 excerpt: The Arm ecosystem is a vibrant place, but it's not always smooth sailing.
   This presentation will go through the highs and lows of getting the ecosystem fully
   Arm enabled.
+featured_image_name: HKG18-315.png
 image:
   featured: true
   name: HKG18-315.png

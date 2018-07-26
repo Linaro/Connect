@@ -8,6 +8,7 @@ comments: false
 date: 2018-04-11 14:15:50
 excerpt: "Generic soc idling\nCPU cluster idling \nMultiple power domain\nvoltage
   corner case"
+featured_image_name: HKG18-HK14.png
 image:
   featured: true
   name: HKG18-HK14.png

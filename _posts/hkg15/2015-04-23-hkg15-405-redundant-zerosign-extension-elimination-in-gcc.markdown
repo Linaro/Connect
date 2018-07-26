@@ -12,6 +12,7 @@ excerpt: Several instances of redundant zero/sign-extension related bugs are rep
   and performance characteristics of redundant zero/sign extension elimination in
   GCC. We will then discuss a new compiler pass that performs computation in promoted
   type mode in such a way that removes redundant zero/sign-extensions.
+featured_image_name: HKG15-405.jpg
 image:
   featured: true
   name: HKG15-405.jpg

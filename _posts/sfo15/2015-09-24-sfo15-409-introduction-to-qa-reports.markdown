@@ -13,6 +13,7 @@ excerpt: Reporting and visualization of test results are the most critical piece
   developers wade through the massive amounts of test results in a sane manner. This
   session will provide a brief overview of the application, and then it will be an
   open discussion on how to improve this solution.
+featured_image_name: SFO15409IntroductiontoQAReports.jpg
 image:
   featured: true
   name: SFO15409IntroductiontoQAReports.jpg

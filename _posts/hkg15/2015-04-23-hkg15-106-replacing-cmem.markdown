@@ -17,6 +17,7 @@ excerpt: "CMEM is an API and kernel driver for managing one or more blocks of ph
   requirements which are currently being met by CMEM, and a discussion of how/if we
   can meet these requirements instead using UMM (cenalloc/dma-buf), DRM, CMA or other
   mainline Linux mechanisms existing or under development.\n"
+featured_image_name: HKG15-106.jpg
 image:
   featured: true
   name: HKG15-106.jpg

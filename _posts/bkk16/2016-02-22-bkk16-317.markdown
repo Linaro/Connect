@@ -2,8 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-317.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Wednesday/BKK16-317%20How%20to%20generate%20power%20models%20for%20EAS%20and%20IPA%20%28without%20talking%20to%20a%20hardware%20engineer%29.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:49
 excerpt: Generating a specific power model for the platform is a pre-requirement for
@@ -12,6 +11,7 @@ excerpt: Generating a specific power model for the platform is a pre-requirement
   automation to gather power data from a board. We will then describe how to derive
   rough values for the EAS and IPA power models using nothing but this easily observable
   data. We will not rely on any information provided by OEM or SoC vendor.
+featured_image_name: BKK16-317.jpg
 image:
   featured: true
   name: BKK16-317.jpg

@@ -13,6 +13,7 @@ excerpt: The reference UEFI implementation, EDK2, has historically not contained
   to get platform code adopted into TianoCore was imlpemented, and the code in OpenPlatform
   has (hopefully) now been integrated into the official edk2-platforms repository.
   This talk gives a summary about the changes in process, code structure and tooling.
+featured_image_name: SFO17-211.jpg
 image:
   featured: true
   name: SFO17-211.jpg

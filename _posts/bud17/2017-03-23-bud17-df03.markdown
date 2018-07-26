@@ -11,6 +11,7 @@ excerpt: 'Node.js, Express and MongoDB implementing a data-aggregating sensor ga
 
 
 '
+featured_image_name: BUD17-DF03.jpg
 image:
   featured: true
   name: BUD17-DF03.jpg

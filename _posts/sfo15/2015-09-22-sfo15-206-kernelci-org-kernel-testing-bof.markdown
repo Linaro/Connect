@@ -11,10 +11,11 @@ date: 2015-09-22 00:00:00
 excerpt: Thanks to an amazing community the Linux kernel is one of the most tested
   projects, or is it? Do systems like kernelci.org provide value? What is the current
   state of kernelci.org? Is there more we can do?
+featured_image_name: SFO15206kernelciorgKernelTestingBoF.jpg
 image:
   featured: true
-  name: SFO15-206-kernelci.org-KernelTestingBoF.jpg
-  path: /assets/images/featured-images/SFO15-206-kernelci.org-KernelTestingBoF.jpg
+  name: SFO15206kernelciorgKernelTestingBoF.jpg
+  path: /assets/images/featured-images/SFO15206kernelciorgKernelTestingBoF.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-206-kernelci-org-kernel-testing-bof/
 post_format:

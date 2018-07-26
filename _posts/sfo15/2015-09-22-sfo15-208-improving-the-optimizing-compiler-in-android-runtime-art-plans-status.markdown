@@ -10,10 +10,11 @@ comments: false
 date: 2015-09-22 00:00:00
 excerpt: Alex Rames will discuss past accomplishments, techniques used to improve
   the Optimizing compiler in ART and then discuss upcoming plans
+featured_image_name: SFO15208ImprovingtheOptimizingCompilerinAndroidRuntimeARTplansstatus.jpg
 image:
   featured: true
-  name: SFO15-208-ImprovingtheOptimizingCompilerinAndroidRuntime(ART),plans&status.jpg
-  path: /assets/images/featured-images/SFO15-208-ImprovingtheOptimizingCompilerinAndroidRuntime(ART),plans&status.jpg
+  name: SFO15208ImprovingtheOptimizingCompilerinAndroidRuntimeARTplansstatus.jpg
+  path: /assets/images/featured-images/SFO15208ImprovingtheOptimizingCompilerinAndroidRuntimeARTplansstatus.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-208-improving-the-optimizing-compiler-in-android-runtime-art-plans-status/
 post_format:

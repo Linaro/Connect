@@ -36,6 +36,7 @@ excerpt: 'With the exponential rise in quantity of data to manage, the modern da
   This session will cover two topics. It will start with a status update on The Machine
   and an overview of how it works. Then we''ll shift into an introduction of Gen-Z,
   and how it can reshape the architecture of computing in the years to come.'
+featured_image_name: BUD17-503.jpg
 image:
   featured: true
   name: BUD17-503.jpg

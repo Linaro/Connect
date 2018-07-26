@@ -12,6 +12,7 @@ excerpt: 'In this session we will discuss techniques and tools for writing autom
   participation is expected, and encouraged. Some topics that will be covered: UIAutomator
   andAndroidViewClient for UI testing on Android; shunit2 and clitest for organizing
   test suites; best practices for shell scripts.'
+featured_image_name: LAS16-102.png
 image:
   featured: true
   name: LAS16-102.png

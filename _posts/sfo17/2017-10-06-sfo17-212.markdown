@@ -13,6 +13,7 @@ excerpt: The automotive industry has fallen behind the smartphone in terms of fe
   platform will debut in the 2018 US Toyota Camry. General Manager of Automotive,
   Dan Cauchy will discuss this transformation and provide insight into why automakers
   like Toyota are adopting AGL.
+featured_image_name: SFO17-212.jpg
 image:
   featured: true
   name: SFO17-212.jpg

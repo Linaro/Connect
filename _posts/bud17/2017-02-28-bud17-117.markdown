@@ -11,6 +11,7 @@ excerpt: OpenJDK is an implementation of the Java SE and Linaro has been involve
   auto vectorization support in the OpenJDK9 hotspot C2 compiler, especially the NEON
   support in AArch64 backend. Some potential optimization points of vectorization
   in OpenJDK9 Hotspot (especially for AArch64 backend) are also described.
+featured_image_name: BUD17-117.jpg
 image:
   featured: true
   name: BUD17-117.jpg

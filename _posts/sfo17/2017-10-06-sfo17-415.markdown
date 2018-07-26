@@ -22,6 +22,7 @@ excerpt: "Updating remotely an IoT device condenses solid knowledge of server-si
   and safe way to update an embedded system. The session will explore the single image
   mode update developed by Kynetics as a robust and efficient strategy to update safely
   embedded devices integrated with Eclipse Hawkbit"
+featured_image_name: SFO17-415.jpg
 image:
   featured: true
   name: SFO17-415.jpg

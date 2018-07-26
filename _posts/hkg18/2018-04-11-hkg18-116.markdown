@@ -13,6 +13,7 @@ excerpt: In order to get ARM64 servers into large scale production, both out-of-
   working together to achieve the goals, with focus on firmware. RAS topics covered
   include memory, PCIe, CPU, thermal management and catastrophic errors. In addition,
   future directions/expectations of server RAS technologies are presented.
+featured_image_name: HKG18-116.png
 image:
   featured: true
   name: HKG18-116.png

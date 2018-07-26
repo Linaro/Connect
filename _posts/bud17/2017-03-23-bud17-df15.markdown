@@ -10,6 +10,7 @@ excerpt: 'Boot optimized and HWA MM capabilities on Android N MR1 with 4.9 kerne
 
 
 '
+featured_image_name: BUD17-DF15.jpg
 image:
   featured: true
   name: BUD17-DF15.jpg

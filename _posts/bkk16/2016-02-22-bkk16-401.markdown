@@ -2,8 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-401.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Thursday/BKK16-401%20Enhancing%20Application%20Performance%20with%20ODP.mp4
 author: connect
-categories:
-- bkk16
+categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:51
 excerpt: 'The promise of ODP is to provide increased portability and performance for
@@ -16,6 +15,7 @@ excerpt: 'The promise of ODP is to provide increased portability and performance
   It is a panel discussion with ODP users sharing their experience. Bill will be hosting
   the session. Panel will include engineers/architects from LNG members, EZchip &
   VirtualOpenSystems.'
+featured_image_name: BKK16-401.jpg
 image:
   featured: true
   name: BKK16-401.jpg

@@ -27,6 +27,7 @@ excerpt: "**Title: Corporate Open Source Fail**\n \n What makes companies with g
   and genderqueer people, and United States residents of any gender who are Black/African
   American, Hispanic/Latin@, American Indian, Alaska Native, Native Hawaiian, or Pacific
   Islander."
+featured_image_name: LAS16-200K2.png
 image:
   featured: true
   name: LAS16-200K2.png

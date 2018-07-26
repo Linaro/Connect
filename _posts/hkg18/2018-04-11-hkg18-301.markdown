@@ -20,6 +20,7 @@ excerpt: "Key Takeaways: \n\nWith the drive to increase integration, reduce syst
   to understand primer of what modern FPGAs with embedded processors can do.  We will
   wrap up with examples of how high level synthesis tools can move software to programmable
   logic hardware enabling dramatic software acceleration."
+featured_image_name: HKG18-301.png
 image:
   featured: true
   name: HKG18-301.png

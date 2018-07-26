@@ -7,6 +7,7 @@ categories:
 comments: false
 date: 2016-09-20 17:11:06
 excerpt: Remaining tasks in the migration and next steps
+featured_image_name: LAS16-503.png
 image:
   featured: true
   name: LAS16-503.png

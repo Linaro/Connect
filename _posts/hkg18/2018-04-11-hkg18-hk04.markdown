@@ -16,6 +16,7 @@ excerpt: '- What to test?
   - - Travis? Shippable? HiKey Auto Boot? CI + Lava from Linaro?
 
   - AOSP builds? How can we automate that?'
+featured_image_name: HKG18-HK04.png
 image:
   featured: true
   name: HKG18-HK04.png

@@ -14,6 +14,7 @@ excerpt: "Kernelci.org has been hailed as \u201Cthe most successful, public buil
   new architecture for distributed testing that LAVA v2 will enable. Also, providing
   status of what\u2019s working currently, and what is still in progress. Come be
   a part of the solution and help make the Linux kernel the best it can be!"
+featured_image_name: BUD17-105.jpg
 image:
   featured: true
   name: BUD17-105.jpg

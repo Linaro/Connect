@@ -12,10 +12,11 @@ excerpt: Linaro is using OpenEmbedded as part of its engineering builds. We prop
   to discuss how Linaro is using OpenEmbedded for its use cases and how we can improve
   our contribution to YOCTO project. The goal of the discussion is to identify areas
   in which Linaro can help.
+featured_image_name: SFO15111OpenEmbeddedBoF.jpg
 image:
   featured: true
-  name: SFO15-111-OpenEmbeddedBoF.jpg
-  path: /assets/images/featured-images/SFO15-111-OpenEmbeddedBoF.jpg
+  name: SFO15111OpenEmbeddedBoF.jpg
+  path: /assets/images/featured-images/SFO15111OpenEmbeddedBoF.jpg
 layout: post
 link: http://connect.linaro.org/resource/sfo15/sfo15-111-openembedded-bof/
 post_format:

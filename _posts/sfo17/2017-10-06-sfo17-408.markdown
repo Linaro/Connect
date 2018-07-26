@@ -16,6 +16,7 @@ excerpt: 'Some platforms have the capability to configure the performance state 
   The power-domain framework until now was only designed for the idle state management
   of the device and this needs to change in order to reuse the power-domain framework
   for active state management of the devices.'
+featured_image_name: SFO17-408.jpg
 image:
   featured: true
   name: SFO17-408.jpg

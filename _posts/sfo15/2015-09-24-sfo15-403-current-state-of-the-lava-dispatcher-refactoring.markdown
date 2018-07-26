@@ -13,6 +13,7 @@ excerpt: Due to team size and dynamics, the LAVA dispatcher refactoring has been
   are starting to get closer to completion. Join us for a update and discussion on
   the current state of the effort, see how current use cases will migrate and how
   new use cases can be adopted.
+featured_image_name: SFO15403CurrentstateoftheLAVAdispatcherRefactoring.jpg
 image:
   featured: true
   name: SFO15403CurrentstateoftheLAVAdispatcherRefactoring.jpg

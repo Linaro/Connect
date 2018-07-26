@@ -9,6 +9,7 @@ date: 2016-09-20 17:10:32
 excerpt: "Discuss how the Systems team wound up hosting releases.linaro.org in the
   Austin Colo, how its holding up, and what other services might we \u201Cdogfood\u201D
   in the future."
+featured_image_name: LAS16-103.png
 image:
   featured: true
   name: LAS16-103.png

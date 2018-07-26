@@ -7,6 +7,7 @@ categories:
 - sfo15
 comments: false
 date: 2015-10-27 17:29:39
+featured_image_name: SFO15-304.jpg
 image:
   featured: true
   name: SFO15-304.jpg

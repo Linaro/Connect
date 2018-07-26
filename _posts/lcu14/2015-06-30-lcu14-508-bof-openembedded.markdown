@@ -23,6 +23,7 @@ excerpt: 'This informal BoF session will be held in an ad hoc manner and is open
   5. What features would be interesting from Linaro perspective
 
   6. How Linaro can make help to improve OpenEmbedded'
+featured_image_name: LCU14-508.jpg
 image:
   featured: true
   name: LCU14-508.jpg

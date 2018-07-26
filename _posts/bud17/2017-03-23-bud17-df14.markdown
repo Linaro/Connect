@@ -7,6 +7,7 @@ categories:
 comments: false
 date: 2017-03-23 16:48:50
 excerpt: Optimized Android N MR1 + 4.4 Kernel
+featured_image_name: BUD17-DF14.jpg
 image:
   featured: true
   name: BUD17-DF14.jpg

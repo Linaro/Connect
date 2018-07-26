@@ -6,6 +6,7 @@ categories:
 comments: true
 date: 2015-04-23 15:37:57
 excerpt: We
+featured_image_name: HKG15-210.jpg
 image:
   featured: true
   name: HKG15-210.jpg

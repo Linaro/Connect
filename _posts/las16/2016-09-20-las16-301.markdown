@@ -15,6 +15,7 @@ excerpt: OpenStack is powering the next generation of the opensource cloud on a 
   next. Then Gema Gomez will Introduce the OpenStack Interop Working Group. Why is
   interoperability important for OpenStack? And What is Linaro doing to improve the
   interoperability of OpenStack?
+featured_image_name: LAS16-301.png
 image:
   featured: true
   name: LAS16-301.png
