@@ -1,0 +1,25 @@
+span.count-to-number {
+    display:  block;
+    text-align:  center;
+    font-size: 48px;
+    color: #333333;
+}
+span.stats-title {
+    display:  block;
+    text-align:  center;
+    font-size: 28px;
+    color: #333333;
+}
+.stats.col-sm-4 {
+    margin: 30px 0;
+}
+.resource-image {
+    height: 200px;
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.resource-block {
+    display: none;
+}
