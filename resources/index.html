@@ -17,55 +17,103 @@ css-package: resources
     {% endif %}
 {% endfor %}
 
-Total Slides: {{ total_slides }}
-Total Videos: {{ total_videos }}
+<div class="row">
+    <div class="stats col-sm-4">
+        <span class="count-to-number">{{ total_videos }}</span>
+        <span class="stats-title">Videos</span>
+    </div>
+    <div class="stats col-sm-4">
+        <span class="count-to-number">{{ site.data.connects | size }}</span>
+        <span class="stats-title">Events</span>
+    </div>
+    <div class="stats col-sm-4">
+        <span class="count-to-number">{{ total_slides }}</span>
+        <span class="stats-title">Presentations</span>
+    </div>
+    
+</div>
 
-{% for category in site.categories %}
-    {% capture cat %}{{ category | first | upcase }}{% endcapture %}
-    {% if cat != "BLOG" and cat != "PLAYLIST" and cat != "DEMO-FRIDAY" and cat != "RESOURCES" %}        
-        {% assign connect-details = site.data.connects | where: "id", cat %}
-        {{connect-details["placeholder"]}}
-        <div class="col-md-4 col-sm-4 col-xs-6 no-padding">
+<div id="all-resources">
+{% assign connect_events = site.data.connects | sort: "start-date" | reverse %}
+{% for connect in connect_events %}
+        {% assign connect_id = connect.id | downcase %}
+        <!-- <h1>{{connect.long-name}}</h1> -->
+        <div class="col-md-4 col-sm-4 col-xs-12 no-padding">
             <div class="resource-block">
-            <a href="/resources/{{cat | downcase }}/">
+            <a href="/resources/{{connect_id}}/">
                 <div class="resource">
-                    {% if connect-details.placeholder %}
-                        {% capture image_path %}assets/images/blog/{{connect-details.placeholder}}{% endcapture %}
-                        {% responsive_image_block %}
-                        path: "{{ image_path }}"
-                        title: "{{ connect-details.long-name }}"
-                        alt: "{{ connect-details.long-name }}"
-                        {% endresponsive_image_block %}
+                    {% if connect.placeholder %}
+                        {% capture image-name %}{{connect.placeholder}}{% endcapture %}
                     {% else %}
-                        {% capture image_path %}assets/images/content/connect-logo.png{% endcapture %}
-                        {% responsive_image_block %}
-                        path: "{{ image_path }}"
-                        title: "{{ connect-details.long-name }}"
-                        alt: "{{ connect-details.long-name }}"
-                        {% endresponsive_image_block %}
+                        {% capture image-name %}connect-logo.png{% endcapture %}
                     {% endif %}
+                    <div class="resource-image" style="background-image:url({% asset_path '{{image-name}}' %})"></div>
                 </div>
             </a>
-            <!-- <div class="resource-info col-xs-12 no-padding">
-                <div class="video col-xs-6">
-                    <i class="icon-youtube"></i> - {% if post.youtube_video_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i> {% endif%}
+            <div class="col-xs-12 resources-stats no-padding">
+                <div class="resource-sidebar-block col-xs-4">
+                    <div class="col-xs-6">
+                        <span class="glyphicon glyphicon-th"></span>
+                    </div>
+                    <div class="col-xs-6">
+                        <span class="resources-number">{{site.categories[connect_id] | size}}</span>
+                    </div>
                 </div>
-                <div class="presentation col-xs-6">
-                    <i class="icon-linkedin"></i> - {% if post.slideshare_presentation_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i>{% endif%}
+                <div class="resource-sidebar-block col-xs-4">
+                    <div class="col-xs-6">
+                        <span class="icon-youtube"></span>
+                    </div>
+                    <div class="col-xs-6">
+                        <span class="resources-number">
+                            
+                            {% assign counter = 0 %}
+                            {% for resource in site.categories[connect_id] %}
+                                {% if resource.youtube_video_url %}
+                                    {% assign counter = counter | plus:1 %}
+                                {% endif %}
+                            {% endfor %}
+                            
+                            {{counter}}
+                        
+                        </span>
+                    </div>
+                </div>
+                <div class="resource-sidebar-block col-xs-4">
+                    <div class="col-xs-6">
+                        <span class="icon-linkedin"></span>
+                    </div>
+                    <div class="col-xs-6">
+                        <span class="resources-number">
+                            {% assign counter = 0 %}
+                            {% for resource in site.categories[connect_id] %}
+                                {% if resource.slideshare_presentation_url %}
+                                    {% assign counter = counter | plus:1 %}
+                                {% endif %}
+                            {% endfor %}
+                            {{counter}}
+                        </span>
+                    </div>
+                </div>
+                <div class="resource-sidebar-block col-xs-4">
+                    {% assign numberOfFlickrAlbums = connect.flickr-albums | size %}
+                    {% if numberOfFlickrAlbums > 1 %}
+                        <!-- Single button -->
+                        <div class="btn-group">
+                            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Flickr Albums <span class="caret"></span>
+                            </button>
+                            <ul class="dropdown-menu">
+                                {% for album in connect.flickr-albums %}
+                                    <li><a href="{{album.url}}">{{album.title}}</a></li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    {% else %}
+                        <a class="btn btn-primary" href="{{connect.flickr-albums | first }}">Flickr Album</a>
+                    {% endif %}
                 </div>
             </div>
-            <div class="resource-title col-xs-12 no-padding">
-                <h3>{{post.title}}</h3>
-                <a href="{{post.url}}">
-                    <div class="resource-button">
-                        <i class="glyphicon glyphicon-chevron-right"></i>
-                    </div>
-                </a>
-            </div> -->
         </div>
     </div>
-    {% endif %}
 {% endfor %}
-{% for post in paginator.posts %}
-
-{% endfor %}
+</div>
