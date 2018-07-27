@@ -22,6 +22,26 @@ You can do this with e.g:
 sudo apt install -y libmagickcore-dev imagemagick libmagickwand-dev ruby-rmagick
 ```
 
+## Building
+
+When working on the Dockerfile, it may be useful to tag the image with datestamp. For example:
+
+```bash
+docker build --label "Ruby environment for building connect.linaro.org" --memory 1GB --cpuset-cpus 0 --rm -t "linaro/connect:$(date --iso-8601)" ./
+```
+
+Build with:
+
+```bash
+docker build --label "Ruby environment for building connect.linaro.org" --memory 1GB --cpuset-cpus 0 --rm -t "linaro/connect:latest ./
+```
+
+### Build script
+
+```bash
+./build.sh
+```
+
 ## Contributing
 
 ### Guides
