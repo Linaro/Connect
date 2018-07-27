@@ -6,6 +6,7 @@ gem 'jumbo-jekyll-theme', "2.0.0"
 group :jekyll_plugins do
    gem "jekyll-data"
    gem "nokogiri"
+   gem "jekyll-responsive-image"
 end
 
 # # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
