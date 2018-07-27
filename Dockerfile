@@ -41,7 +41,7 @@ RUN export DEBIAN_FRONTEND=noninteractive && \
 # Install latest software
 # Change the date time stamp if you want to rebuild the image from this point down
 # Useful for Dockerfile development
-ENV SOFTWARE_UPDATED 2018-07-27.1205
+ENV SOFTWARE_UPDATED 2018-07-27.1246
 
 # Install packages
 # Add update && upgrade to this layer in case we're rebuilding from here down
@@ -66,9 +66,7 @@ RUN export DEBIAN_FRONTEND=noninteractive && \
 # Install Bundler
 RUN gem install --conservative \
 	bundler \
-	jekyll \
-	&& \
-	bundle install
+	jekyll
 
 # Add update && upgrade to this layer in case we're rebuilding
 RUN export DEBIAN_FRONTEND=noninteractive && \
@@ -79,9 +77,18 @@ RUN export DEBIAN_FRONTEND=noninteractive && \
 ################################################################################
 
 ################################################################################
+# Create user accounts
+RUN useradd --create-home --gid buildbot --shell /bin/bash buildbot \
+		--user-group
+################################################################################
+
+################################################################################
 # Dockerfile development only
-# ENV CONFIG_UPDATED 2018-07-27.1205
+# ENV CONFIG_UPDATED 2018-07-27.1246
 # COPY Gemfile /srv/Gemfile
 ################################################################################
+
+# Run as user buildbot
+USER buildbot:buildbot
 
 CMD /bin/bash
