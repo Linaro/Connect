@@ -130,9 +130,23 @@ css-package: resources
                     <a class="flickr-albums btn btn-primary" href="{{connect.flickr-albums | first }}">Flickr Album</a>
                     {% endif %}
                     {% if connect.location %}
-                        {% assign location = "" %}
-
-                        <a class="connect-map-location btn btn-primary" href="https://www.google.com/maps/search/{{location}}"><i class="glyphicon glyphicon-marker"></i>View on Map</a>
+                        {% capture location %}{% endcapture %}
+                        {% if connect.venue %}
+                            {% capture location %}{{location}}+{{connect.venue}}{% endcapture %}
+                        {% endif %}
+                        {% if connect.city %}
+                            {% capture location %}{{location}}+{{connect.city}}{% endcapture %}
+                        {% endif %}
+                        {% if connect.county %}
+                            {% capture location %}{{location}}+{{connect.county}}{% endcapture %}
+                        {% endif %}
+                        {% if connect.country %}
+                            {% capture location %}{{location}}+{{connect.country}}{% endcapture %}
+                        {% endif %}
+                        <a class="connect-map-location btn btn-primary" href="https://www.google.com/maps/search/{{location}}">
+                            <i class="glyphicon glyphicon-map-marker"></i>
+                            View on Map
+                        </a>
                     {% endif %}
                 </div>
                 <div class="col-xs-12 no-padding">
