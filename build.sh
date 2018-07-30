@@ -32,10 +32,10 @@ function _re_build_docker_image() {
 }
 
 function docker_local_gem_install() {
-    docker run --rm -t -i --cpus="$DOCKER_RUN_CPU_COUNT" -e GEM_HOME="$GEM_HOME" -v "$(pwd)":/srv --hostname="$DOCKER_HOSTNAME" "$DOCKER_TAGS" bundle install
+    docker run --rm -t -i --cpus="$DOCKER_RUN_CPU_COUNT" -e GEM_HOME="$GEM_HOME" -e HOME=srv -v /etc/passwd:/etc/passwd:ro -v /etc/group:/etc/group:ro -u "$(id -u)" -w /srv -v "$(pwd)":/srv --hostname="$DOCKER_HOSTNAME" "$DOCKER_TAGS" bundle install
 }
 function docker_build_site() {
-    docker run --rm -t -i --cpus="$DOCKER_RUN_CPU_COUNT" -e GEM_HOME="$GEM_HOME" -v "$(pwd)":/srv --hostname="$DOCKER_HOSTNAME" "$DOCKER_TAGS" jekyll build
+    docker run --rm -t -i --cpus="$DOCKER_RUN_CPU_COUNT" -e GEM_HOME="$GEM_HOME" -e HOME=srv -v /etc/passwd:/etc/passwd:ro -v /etc/group:/etc/group:ro -u "$(id -u)" -w /srv -v /etc/passwd:/etc/passwd:ro -v /etc/group:/etc/group:ro -u "$(id -u)" -v "$(pwd)":/srv --hostname="$DOCKER_HOSTNAME" "$DOCKER_TAGS" bundle exec jekyll build
 }
 
 # Build Docker iamge, rebuilding if necessary
@@ -46,6 +46,6 @@ _re_build_docker_image
 docker_local_gem_install
 
 # # Build Jekyll site
-# docker_build_site
+docker_build_site
 
 # exit 0
