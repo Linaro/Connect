@@ -6,9 +6,10 @@
             </div>
         </div>
         <div class="row">
+            <div class="owl-carousel">
             {% assign current_keynotes = include.keynotes %}
             {% for keynote in current_keynotes %}
-                <div class="col-md-3">
+                <div class="col-xs-12">
                     <div class="speaker-block">
                         <div class="img-responsive speaker-image center-block" style="background-image:url({% asset_path "{{keynote.image}}" %})"></div>
                         <h3 class="speaker-name">
@@ -19,6 +20,7 @@
                     </div>
                 </div>
             {% endfor %}
+            </div>
         </div>
     </div>
 </div>
