@@ -6,6 +6,7 @@ gem 'jumbo-jekyll-theme', "2.0.0"
 group :jekyll_plugins do
    gem "jekyll-data"
    gem "nokogiri"
+   gem "therubyracer"
    gem "jekyll-responsive-image"
 end
 

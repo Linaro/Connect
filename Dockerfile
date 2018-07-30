@@ -41,7 +41,7 @@ RUN export DEBIAN_FRONTEND=noninteractive && \
 # Install latest software
 # Change the date time stamp if you want to rebuild the image from this point down
 # Useful for Dockerfile development
-ENV SOFTWARE_UPDATED 2018-07-27.1246
+ENV SOFTWARE_UPDATED 2018-07-31.1625
 
 # Install packages
 # Add update && upgrade to this layer in case we're rebuilding from here down
@@ -56,6 +56,9 @@ RUN export DEBIAN_FRONTEND=noninteractive && \
 	ruby2.5-dev \
 # rmagick requires MagickWand libraries
 	libmagickwand-dev \
+# nodejs package/rubyracer test
+# https://github.com/jekyll/jekyll/issues/2327
+	ruby-dev \
 	&& \
 # Remove stale dependencies
 	apt-get --purge autoremove -y && \
@@ -83,7 +86,7 @@ RUN useradd --create-home --shell /bin/bash buildbot
 
 ################################################################################
 # Dockerfile development only
-# ENV CONFIG_UPDATED 2018-07-27.1246
+# ENV CONFIG_UPDATED 2018-07-30.1628
 # COPY Gemfile /srv/Gemfile
 ################################################################################
 
