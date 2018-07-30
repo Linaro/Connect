@@ -110,7 +110,7 @@ css-package: resources
                         </div>
                     </div>
                 </div>
-                <div class="col-xs-12 no-padding">
+                <div class="col-xs-12 no-padding text-center">
                     {% assign numberOfFlickrAlbums = connect.flickr-albums | size %} {% if numberOfFlickrAlbums > 1 %}
                     <!-- Single button -->
                     <div class="btn-group">
@@ -130,20 +130,20 @@ css-package: resources
                     <a class="flickr-albums btn btn-primary" href="{{connect.flickr-albums | first }}">Flickr Album</a>
                     {% endif %}
                     {% if connect.location %}
-                        {% capture location %}{% endcapture %}
-                        {% if connect.venue %}
-                            {% capture location %}{{location}}+{{connect.venue}}{% endcapture %}
+                        {% capture full-location %}{% endcapture %}
+                        {% if connect.location.venue %}
+                            {% capture full-location %}{{full-location}}+{{connect.location.venue}}{% endcapture %}
                         {% endif %}
-                        {% if connect.city %}
-                            {% capture location %}{{location}}+{{connect.city}}{% endcapture %}
+                        {% if connect.location.city %}
+                            {% capture full-location %}{{full-location}}+{{connect.location.city}}{% endcapture %}
                         {% endif %}
-                        {% if connect.county %}
-                            {% capture location %}{{location}}+{{connect.county}}{% endcapture %}
+                        {% if connect.location.county %}
+                            {% capture full-location %}{{full-location}}+{{connect.location.county}}{% endcapture %}
                         {% endif %}
-                        {% if connect.country %}
-                            {% capture location %}{{location}}+{{connect.country}}{% endcapture %}
+                        {% if connect.location.country %}
+                            {% capture full-location %}{{full-location}}+{{connect.location.country}}{% endcapture %}
                         {% endif %}
-                        <a class="connect-map-location btn btn-primary" href="https://www.google.com/maps/search/{{location}}">
+                        <a class="connect-map-location btn btn-primary" href="https://www.google.com/maps/search/{{full-location}}">
                             <i class="glyphicon glyphicon-map-marker"></i>
                             View on Map
                         </a>
