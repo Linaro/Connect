@@ -66,3 +66,12 @@ h3.connect-title.text-center {
 #all-resources button.btn.btn-default.dropdown-toggle {
     color: white;
 }
+a.connect-map-location.btn.btn-primary {
+    background-color: #333333;
+    color: white;
+    margin-top: -20px;
+}
+a.connect-map-location.btn.btn-primary:hover {
+    color:white !important;
+    background-color:#000;
+}
