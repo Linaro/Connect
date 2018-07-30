@@ -78,8 +78,7 @@ RUN export DEBIAN_FRONTEND=noninteractive && \
 
 ################################################################################
 # Create user accounts
-RUN useradd --create-home --gid buildbot --shell /bin/bash buildbot \
-		--user-group
+RUN useradd --create-home --shell /bin/bash buildbot
 ################################################################################
 
 ################################################################################
