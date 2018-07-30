@@ -1,4 +1,5 @@
 ---
+speaker: george-grey
 name: "George Grey"
 company: Linaro
 position: CEO
