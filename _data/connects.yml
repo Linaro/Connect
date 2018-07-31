@@ -31,11 +31,13 @@
       country: Hungary
 - id: LAS16
   long-name: Linaro Connect Las Vegas 2016
-  flickr-albums: 
-      - https://www.flickr.com/photos/linaroorg/albums/72157670966437214
-      - https://www.flickr.com/photos/linaroorg/albums/72157673342118822
+  flickr-albums:
+      - title: Linaro Connect LAS16
+        url: https://www.flickr.com/photos/linaroorg/albums/72157670966437214 
+      - title: Party Night LAS16
+      - url: https://www.flickr.com/photos/linaroorg/albums/72157673342118822
   start-date: 2016-09-26 09:00:00
-  end-date: 2016-09-39 09:00:00
+  end-date: 2016-09-30 09:00:00
   location:
       venue: JW Marriott Las Vegas Resort & Spa
       city: Las Vegas

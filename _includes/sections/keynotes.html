@@ -1,0 +1,26 @@
+<div class="row" id="speakers-row">
+    <div class="container no-padding" style="margin-top:30px;">
+        <div class="row">
+            <div class="col-xs-12 text-center">,
+                <h2>{{connect_code}} Speakers</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="owl-carousel">
+            {% assign current_keynotes = include.keynotes %}
+            {% for keynote in current_keynotes %}
+                <div class="col-xs-12">
+                    <div class="speaker-block">
+                        <div class="img-responsive speaker-image center-block" style="background-image:url({% asset_path "{{keynote.image}}" %})"></div>
+                        <h3 class="speaker-name">
+                            {{keynote.name}}
+                        </h3>
+                         {% if keynote.title %}<span class="keynote_title">{{keynote.title}}</span>{% endif %}
+                        <span class="keynote_time"><strong>{{keynote.day}}:</strong> {{keynote.start_time}} - {{keynote.end_time}}</span>
+                    </div>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
