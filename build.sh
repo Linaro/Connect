@@ -1,5 +1,5 @@
 #!/bin/bash
-# 2018-04-27T1228 Ciaran Moran: Initial version
+# 2018-04-31 Ciaran Moran: Initial version
 
 # Enable debug
 set -x
@@ -13,9 +13,15 @@ DOCKERLABEL="Ruby environment for building connect.linaro.org"
 	export DOCKERLABEL
 DOCKER_MEM_LIMIT="1GB"
 	export DOCKER_MEM_LIMIT
-# Allow 'docker run to use 75% CPU count
-DOCKER_RUN_CPU_COUNT="4"
-    export DOCKER_RUN_CPU_COUNT
+# Allow 'docker run to use 4 CPU cores
+# DOCKER_RUN_CPU_COUNT="4"
+#     export DOCKER_RUN_CPU_COUNT
+# Attempt to support 1-n CPU configurations, but still limit resources. See:
+# https://docs.docker.com/config/containers/resource_constraints/#configure-the-default-cfs-scheduler
+DOCKER_RUN_CPU_PERIOD="100000"
+	export DOCKER_RUN_CPU_PERIOD
+DOCKER_RUN_CPU_QUOTA="75000"
+	export DOCKER_RUN_CPU_PERIOD
 DOCKER_IMAGE_NAME="linaro/connect"
 	export DOCKER_IMAGE_NAME
 DOCKER_IMAGE_VERSION="$(git rev-parse --short HEAD)"
@@ -42,7 +48,8 @@ function docker_local_gem_install() {
     docker run --rm \
 	-t \
 	-i \
-	--cpus="$DOCKER_RUN_CPU_COUNT" \
+	--cpu-period="$DOCKER_RUN_CPU_PERIOD" \
+	--cpu-quota="$DOCKER_RUN_CPU_QUOTA" \
 	-e GEM_HOME="$GEM_HOME" \
 	-e HOME=/srv \
 	-e LC_ALL=en_US.UTF-8 \
@@ -61,7 +68,8 @@ function docker_build_site() {
 	--rm \
 	-t \
 	-i \
-	--cpus="$DOCKER_RUN_CPU_COUNT" \
+	--cpu-period="$DOCKER_RUN_CPU_PERIOD" \
+	--cpu-quota="$DOCKER_RUN_CPU_QUOTA" \
 	-e GEM_HOME="$GEM_HOME" \
 	-e HOME=/srv \
 	-e LC_ALL=en_US.UTF-8 \
@@ -80,7 +88,8 @@ function docker_serve_site() {
 	--rm \
 	-t \
 	-i \
-	--cpus="$DOCKER_RUN_CPU_COUNT" \
+	--cpu-period="$DOCKER_RUN_CPU_PERIOD" \
+	--cpu-quota="$DOCKER_RUN_CPU_QUOTA" \
 	-e GEM_HOME="$GEM_HOME" \
 	-e HOME=/srv \
 	-v /etc/passwd:/etc/passwd:ro \
