@@ -64,6 +64,10 @@ exclude:
   - .asset-cache
   - _site
   # - _posts
+  - vendor
+  - gems
+  - build.sh
+  - .bundle
 
 # Google Tag mangager site wide setting - for deployment of site to China.
 google-tag-manager: true
