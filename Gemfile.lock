@@ -25,13 +25,7 @@ GEM
       safe_yaml
     htmlbeautifier (1.3.1)
     htmlcompressor (0.4.0)
-    httmultiparty (0.3.16)
-      httparty (>= 0.7.3)
-      mimemagic
-      multipart-post
     http_parser.rb (0.6.0)
-    httparty (0.14.0)
-      multi_xml (>= 0.5.2)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     jekyll (3.7.3)
@@ -84,7 +78,7 @@ GEM
     jekyll-watch (2.0.0)
       listen (~> 3.0)
     json (2.1.0)
-    jumbo-jekyll-theme (2.0.2)
+    jumbo-jekyll-theme (2.0.3)
       autoprefixer-rails (~> 5.0, >= 5.0.0.1)
       bootstrap-sass (~> 3.3)
       hash-joiner (~> 0)
@@ -102,26 +96,24 @@ GEM
       sprockets (~> 3.7.2)
       uglifier (> 0)
     kramdown (1.17.0)
+    libv8 (3.16.14.19-x86_64-linux)
     liquid (4.0.0)
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
-    mimemagic (0.3.2)
     mini_portile2 (2.3.0)
-    multi_xml (0.6.0)
-    multipart-post (2.0.0)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
-    psych (3.0.2)
     public_suffix (3.0.2)
     rack (1.6.10)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
+    ref (2.0.0)
     rmagick (2.16.0)
     rouge (3.1.1)
     ruby_dep (1.5.0)
@@ -131,15 +123,13 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    siteleaf (2.0.2)
-      httmultiparty (~> 0.3.13)
-      httparty (~> 0.14.0)
-      psych (>= 2.0.17)
-      rack
     sprockets (3.7.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
-    uglifier (4.1.14)
+    therubyracer (0.12.3)
+      libv8 (~> 3.16.14.15)
+      ref
+    uglifier (4.1.16)
       execjs (>= 0.3.0, < 3)
 
 PLATFORMS
@@ -148,11 +138,9 @@ PLATFORMS
 DEPENDENCIES
   jekyll-data
   jekyll-responsive-image
-  jumbo-jekyll-theme (= 2.0.2)
+  jumbo-jekyll-theme (= 2.0.3)
   nokogiri
-  rmagick
-  sass (= 3.5.6)
-  siteleaf (~> 2)
+  therubyracer
 
 BUNDLED WITH
    1.16.1
