@@ -4,5 +4,4 @@ _site/
 # From debugging
 .bash_history
 node_modules
-Gemfile.lock
 .gemfiles/
