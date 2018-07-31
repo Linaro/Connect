@@ -2,4 +2,9 @@ _site/
 .asset-cache
 .sass-cache
 node_modules
+<<<<<<< HEAD
 
+=======
+Gemfile.lock
+gems/**
+>>>>>>> d702c724aa08fac438f91d8b6d5321e1c701d990

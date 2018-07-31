@@ -41,7 +41,7 @@ liquid:
 # Shema.org Setup -> used in the schema.html include.
 schema:
     organisation:
-        name: Linaor Connect
+        name: Linaro Connect
         url: https://www.connect.linaro.org
         sameAs:
             - https://twitter.com/linaroorg
@@ -64,6 +64,10 @@ exclude:
   - .asset-cache
   - _site
   # - _posts
+  - vendor
+  - gems
+  - build.sh
+  - .bundle
 
 # Google Tag mangager site wide setting - for deployment of site to China.
 google-tag-manager: true
