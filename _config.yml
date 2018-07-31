@@ -14,7 +14,7 @@ permalink: /resources/:categories/:slug/
 # Syntax highlighter for 96boards blog
 highlighter: rouge
 # Markdown version
-markdown: kramdown  
+markdown: kramdown
 # production status for robots.txt and files alike.
 production: false
 kramdown:
@@ -51,11 +51,11 @@ schema:
             - https://github.com/Linaro
             - https://www.slideshare.net/linaroorg
         address:
-            street: Harston Mill, Royston Rd 
-            town: Harston 
-            county: Cambridge 
+            street: Harston Mill, Royston Rd
+            town: Harston
+            county: Cambridge
             post_code: CB22 7GG
-            country_code: UK 
+            country_code: UK
 # Files that should be excluded from the Jekyll build.
 exclude:
   - Gemfile.lock
@@ -130,7 +130,7 @@ plugins:
   - jekyll-redirect-from
   - autoprefixer-rails
   - jekyll-paginate-v2
-    
+
 # Compress the html and beau2tify it.
 jekyll_tidy: # Compress the html and beautify it.
     compress_html: true
@@ -179,7 +179,7 @@ autopages:
 
 using_assets: true
 
-# Jekyll Collections configuration - Projects, Products and Documentation.      
+# Jekyll Collections configuration - Projects, Products and Documentation.
 collections:
     resources:
         output: true
@@ -193,10 +193,10 @@ collections:
     authors:
         output: true
         permalink: /author/:name/
-        
-# Jeykyll Repsonsive Image Configuration
+
+# Jeykyll Responsive Image Configuration
 responsive_image:
-  cache: true
+  cache: false
   # [Required]
   # Path to the image template.
   template: _includes/images/responsive-image.html
@@ -246,11 +246,6 @@ responsive_image:
   # [Optional, Default: true]
   # Whether or not to save the generated assets into the source folder.
   save_to_source: false
-
-  # [Optional, Default: false]
-  # Cache the result of {% responsive_image %} and {% responsive_image_block %}
-  # tags. See the "Caching" section of the README for more information.
-  cache: false
 
   # [Optional, Default: []]
   # By default, only images referenced by the responsive_image and responsive_image_block
