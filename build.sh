@@ -18,9 +18,9 @@ DOCKER_MEM_LIMIT="1GB"
 #     export DOCKER_RUN_CPU_COUNT
 # Attempt to support 1-n CPU configurations, but still limit resources. See:
 # https://docs.docker.com/config/containers/resource_constraints/#configure-the-default-cfs-scheduler
-DOCKER_RUN_CPU_PERIOD="100000"
+DOCKER_RUN_CPU_PERIOD="$(( 100 * 1000))" # (in milliseconds)
 	export DOCKER_RUN_CPU_PERIOD
-DOCKER_RUN_CPU_QUOTA="75000"
+DOCKER_RUN_CPU_QUOTA="$(( 75 * 1000))" # (in milliseconds)
 	export DOCKER_RUN_CPU_PERIOD
 DOCKER_IMAGE_NAME="linaro/connect"
 	export DOCKER_IMAGE_NAME
@@ -43,7 +43,6 @@ JEKYLL_PORT="4000"
 function _re_build_docker_image() {
     docker build --rm --label "$DOCKERLABEL" --memory "$DOCKER_MEM_LIMIT" --rm -t "$DOCKER_TAG" ./
 }
-
 function docker_local_gem_install() {
     docker run --rm \
 	-t \
@@ -82,7 +81,6 @@ function docker_build_site() {
 	"$DOCKER_TAG" \
 	bundle exec jekyll build --verbose
 }
-
 function docker_serve_site() {
     docker run \
 	--rm \
