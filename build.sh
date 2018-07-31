@@ -40,7 +40,7 @@ function docker_local_gem_install() {
     docker run --rm -t -i --cpus="$DOCKER_RUN_CPU_COUNT" -e GEM_HOME="$GEM_HOME" -e HOME=srv -v /etc/passwd:/etc/passwd:ro -v /etc/group:/etc/group:ro -u "$(id -u)":"$(id -g)" -w /srv -v "$(pwd)":/srv --hostname="$DOCKER_HOSTNAME" "$DOCKER_TAG" bundle install
 }
 function docker_build_site() {
-    docker run --rm -t -i --cpus="$DOCKER_RUN_CPU_COUNT" -e GEM_HOME="$GEM_HOME" -e HOME=srv -v /etc/passwd:/etc/passwd:ro -v /etc/group:/etc/group:ro -u "$(id -u)":"$(id -g)" -w /srv -v /etc/passwd:/etc/passwd:ro -v /etc/group:/etc/group:ro -u "$(id -u)" -v "$(pwd)":/srv --hostname="$DOCKER_HOSTNAME" "$DOCKER_TAG" bundle exec jekyll build --verbose
+    docker run --rm -t -i --cpus="$DOCKER_RUN_CPU_COUNT" -e GEM_HOME="$GEM_HOME" -e HOME=srv -v /etc/passwd:/etc/passwd:ro -v /etc/group:/etc/group:ro -u "$(id -u)":"$(id -g)" -w /srv -v /etc/passwd:/etc/passwd:ro -v /etc/group:/etc/group:ro -v "$(pwd)":/srv --hostname="$DOCKER_HOSTNAME" "$DOCKER_TAG" bundle exec jekyll build --verbose
 }
 
 # Build Docker iamge, rebuilding if necessary
