@@ -44,7 +44,9 @@ function docker_local_gem_install() {
 	-i \
 	--cpus="$DOCKER_RUN_CPU_COUNT" \
 	-e GEM_HOME="$GEM_HOME" \
-	-e HOME=srv \
+	-e HOME=/srv \
+	-e LC_ALL=en_US.UTF-8 \
+	-e LANG=en_US.UTF-8 \ 
 	-v /etc/passwd:/etc/passwd:ro \
 	-v /etc/group:/etc/group:ro \
 	-u "$(id -u)":"$(id -g)" \
@@ -61,7 +63,9 @@ function docker_build_site() {
 	-i \
 	--cpus="$DOCKER_RUN_CPU_COUNT" \
 	-e GEM_HOME="$GEM_HOME" \
-	-e HOME=srv \
+	-e HOME=/srv \
+	-e LC_ALL=en_US.UTF-8 \
+	-e LANG=en_US.UTF-8 \
 	-v /etc/passwd:/etc/passwd:ro \
 	-v /etc/group:/etc/group:ro \
 	-u "$(id -u)":"$(id -g)" \
@@ -78,16 +82,16 @@ function docker_serve_site() {
 	-i \
 	--cpus="$DOCKER_RUN_CPU_COUNT" \
 	-e GEM_HOME="$GEM_HOME" \
-	-e HOME=srv \
+	-e HOME=/srv \
 	-v /etc/passwd:/etc/passwd:ro \
 	-v /etc/group:/etc/group:ro \
 	-u "$(id -u)":"$(id -g)" \
 	-w /srv \
 	-v "$(pwd)":/srv \
 	--hostname="$DOCKER_HOSTNAME" \
-	-P \
+	-p "$JEKYLL_PORT":"$JEKYLL_PORT" \
 	"$DOCKER_TAG" \
-	bundle exec jekyll serve --port "$JEKYLL_PORT" --verbose
+	bundle exec jekyll serve --port "$JEKYLL_PORT"
 }
 
 # Build Docker iamge, rebuilding if necessary
