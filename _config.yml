@@ -41,7 +41,7 @@ liquid:
 # Shema.org Setup -> used in the schema.html include.
 schema:
     organisation:
-        name: Linaor Connect
+        name: Linaro Connect
         url: https://www.connect.linaro.org
         sameAs:
             - https://twitter.com/linaroorg
