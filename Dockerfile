@@ -38,10 +38,25 @@ RUN export DEBIAN_FRONTEND=noninteractive && \
 ################################################################################
 
 ################################################################################
+# Configure locale for jekyll build
+RUN export DEBIAN_FRONTEND=noninteractive && \
+	apt-get install -y \
+	language-pack-en \
+	&& \
+	locale-gen en_US.UTF-8 \
+	&& \
+# Set locale
+	dpkg-reconfigure locales && \
+# Remove stale dependencies
+	apt-get --purge autoremove -y && \
+	apt-get clean -y
+################################################################################
+
+################################################################################
 # Install latest software
 # Change the date time stamp if you want to rebuild the image from this point down
 # Useful for Dockerfile development
-ENV SOFTWARE_UPDATED 2018-07-31.1625
+ENV SOFTWARE_UPDATED 2018-07-31.1441
 
 # Install packages
 # Add update && upgrade to this layer in case we're rebuilding from here down
@@ -60,7 +75,6 @@ RUN export DEBIAN_FRONTEND=noninteractive && \
 # https://github.com/jekyll/jekyll/issues/2327
 	ruby-dev \
 	&& \
-# Remove stale dependencies
 	apt-get --purge autoremove -y && \
 	apt-get clean -y
 ################################################################################
@@ -86,11 +100,15 @@ RUN useradd --create-home --shell /bin/bash buildbot
 
 ################################################################################
 # Dockerfile development only
-# ENV CONFIG_UPDATED 2018-07-30.1628
+ENV CONFIG_UPDATED 2018-07-31.1523
 # COPY Gemfile /srv/Gemfile
 ################################################################################
 
 # Run as user buildbot
 USER buildbot:buildbot
+
+WORKDIR /srv
+
+EXPOSE 4000
 
 CMD /bin/bash
