@@ -46,7 +46,7 @@ function docker_local_gem_install() {
 	-e GEM_HOME="$GEM_HOME" \
 	-e HOME=/srv \
 	-e LC_ALL=en_US.UTF-8 \
-	-e LANG=en_US.UTF-8 \ 
+	-e LANG=en_US.UTF-8 \
 	-v /etc/passwd:/etc/passwd:ro \
 	-v /etc/group:/etc/group:ro \
 	-u "$(id -u)":"$(id -g)" \
@@ -91,7 +91,7 @@ function docker_serve_site() {
 	--hostname="$DOCKER_HOSTNAME" \
 	-p "$JEKYLL_PORT":"$JEKYLL_PORT" \
 	"$DOCKER_TAG" \
-	bundle exec jekyll serve --port "$JEKYLL_PORT"
+	bundle exec jekyll serve --skip-initial-build -H 0.0.0.0 -P "$JEKYLL_PORT"
 }
 
 # Build Docker iamge, rebuilding if necessary
