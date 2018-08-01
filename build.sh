@@ -13,14 +13,11 @@ DOCKERLABEL="Ruby environment for building connect.linaro.org"
 	export DOCKERLABEL
 DOCKER_MEM_LIMIT="1GB"
 	export DOCKER_MEM_LIMIT
-# Allow 'docker run to use 4 CPU cores
-# DOCKER_RUN_CPU_COUNT="4"
-#	export DOCKER_RUN_CPU_COUNT
-# Attempt to support 1-n CPU configurations, but still limit resources. See:
+# Support 1-n CPU configurations, but still limit CPU to max. 85% utilisation. See:
 # https://docs.docker.com/config/containers/resource_constraints/#configure-the-default-cfs-scheduler
 DOCKER_RUN_CPU_PERIOD="$(( 100 * 1000))" # (in milliseconds)
 	export DOCKER_RUN_CPU_PERIOD
-DOCKER_RUN_CPU_QUOTA="$(( 75 * 1000))" # (in milliseconds)
+DOCKER_RUN_CPU_QUOTA="$(( 85 * 1000))" # (in milliseconds)
 	export DOCKER_RUN_CPU_PERIOD
 DOCKER_IMAGE_NAME="linaro/connect"
 	export DOCKER_IMAGE_NAME
