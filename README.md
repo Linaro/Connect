@@ -23,7 +23,7 @@ When working on the Dockerfile, it may be useful to tag the image with a date-ti
 
 ```docker build``` _...snip..._ ```-t "linaro/connect:$(date --iso-8601)"```
 
-would result in a ```TAG``` value like ```2017-07-31```.
+would result in a ```TAG``` value like ```linaro/connect:2017-07-31```.
 
 Use the build script for convenience, or adapt the ```docker run``` commands correspondingly. The build script will echo all commands run, including the results of variable expansions, etc, so you should easily be able to copy and paste the parts you want for debugging.
 
@@ -37,7 +37,7 @@ This build script should probably be replaced by a make file.
 
 Run ```./build.sh``` in a Bash or ZSH shell.
 
-Browse to [http://127.0.0.1:4000/] to view the website.
+Browse to [http://127.0.0.1:4000/](http://127.0.0.1:4000/) to view the website.
 
 ## Contributing
 
