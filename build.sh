@@ -37,7 +37,7 @@ JEKYLL_PORT="4000"
 JEKYLL_SITE_BUILD_DIR="_site"
 	export JEKYLL_SITE_BUILD_DIR
 
-function _re_build_docker_image() {
+function _re_build_docker_build_image() {
 	docker build --rm --label "$DOCKERLABEL" --memory "$DOCKER_MEM_LIMIT" --rm -t "$DOCKER_TAG" ./
 }
 function docker_local_gem_install() {
@@ -101,7 +101,7 @@ function docker_serve_site() {
 
 # Build Docker image, rebuilding if necessary
 printf "Building Docker image %s" "$DOCKER_IMAGE_NAME"
-_re_build_docker_image
+_re_build_docker_build_image
 
 # Install gems to build directory
 echo "Installing Gems"
