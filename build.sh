@@ -46,8 +46,9 @@ fi
 echo "File tree:"
 tree -a -d -L 2
 
-# Serve Jekyll site
-echo "Serving Jekyll site"
-docker_serve_site
+# Broken 2018-08-02
+# # Serve Jekyll site
+# echo "Serving Jekyll site"
+# docker_serve_site
 
 exit 0
