@@ -27,17 +27,6 @@ RUN export DEBIAN_FRONTEND=noninteractive && \
 ################################################################################
 
 ################################################################################
-# Provides PPA support
-# Package "software-properties-common" provides command "add-apt-repository"
-RUN export DEBIAN_FRONTEND=noninteractive && \
-	apt-get install -y \
-	software-properties-common && \
-# Add Brightbox Ruby 2.x package repository
-	add-apt-repository --yes \
-		ppa:brightbox/ruby-ng
-################################################################################
-
-################################################################################
 # Configure locale for jekyll build
 RUN export DEBIAN_FRONTEND=noninteractive && \
 	apt-get install -y \
