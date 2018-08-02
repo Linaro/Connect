@@ -1,4 +1,3 @@
-_site/
 .asset-cache
 .sass-cache
 # From debugging
@@ -6,3 +5,4 @@ _site/
 node_modules
 .gemfiles/
 .bundle/
+site_dest/
