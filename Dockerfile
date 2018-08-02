@@ -27,17 +27,6 @@ RUN export DEBIAN_FRONTEND=noninteractive && \
 ################################################################################
 
 ################################################################################
-# Provides PPA support
-# Package "software-properties-common" provides command "add-apt-repository"
-RUN export DEBIAN_FRONTEND=noninteractive && \
-	apt-get install -y \
-	software-properties-common && \
-# Add Brightbox Ruby 2.x package repository
-	add-apt-repository --yes \
-		ppa:brightbox/ruby-ng
-################################################################################
-
-################################################################################
 # Configure locale for jekyll build
 RUN export DEBIAN_FRONTEND=noninteractive && \
 	apt-get install -y \
@@ -56,7 +45,7 @@ RUN export DEBIAN_FRONTEND=noninteractive && \
 # Install latest software
 # Change the date time stamp if you want to rebuild the image from this point down
 # Useful for Dockerfile development
-ENV SOFTWARE_UPDATED 2018-07-31.1441
+ENV SOFTWARE_UPDATED 2018-08-02.1227
 
 # Install packages
 # Add update && upgrade to this layer in case we're rebuilding from here down
@@ -65,15 +54,11 @@ RUN export DEBIAN_FRONTEND=noninteractive && \
 	apt-get upgrade -y && \
 	apt-get install -y --no-install-recommends \
 # Jekyll prerequisites, https://jekyllrb.com/docs/installation/
-	make \
 	build-essential \
 # Ruby 2.5 development environment
 	ruby2.5-dev \
 # rmagick requires MagickWand libraries
 	libmagickwand-dev \
-# nodejs package/rubyracer test
-# https://github.com/jekyll/jekyll/issues/2327
-	ruby-dev \
 	&& \
 	apt-get --purge autoremove -y && \
 	apt-get clean -y
@@ -100,7 +85,7 @@ RUN useradd --create-home --shell /bin/bash buildbot
 
 ################################################################################
 # Dockerfile development only
-ENV CONFIG_UPDATED 2018-07-31.1523
+ENV CONFIG_UPDATED 2018-08-02.1227
 # COPY Gemfile /srv/Gemfile
 ################################################################################
 
