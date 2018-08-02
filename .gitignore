@@ -5,3 +5,4 @@ _site/
 .bash_history
 node_modules
 .gemfiles/
+.bundle/
