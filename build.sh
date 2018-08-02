@@ -7,8 +7,6 @@ set -x
 set -e
 
 # Environment variables
-DATETIME="$(date --iso-8601)"
-	export DATETIME
 DOCKERLABEL="Ruby environment for building connect.linaro.org"
 	export DOCKERLABEL
 DOCKER_MEM_LIMIT="1GB"
