@@ -28,10 +28,10 @@ wordpress_id: 8688
 youtube_video_url: https://www.youtube.com/watch?v=t2LcAZXuwhI
 ---
 
-Session ID: HKG18-100K1
-Session Name: HKG18-100K1 - George Grey: Opening Keynote
-Speaker: George Grey
-Track: Keynote
+- Session ID: HKG18-100K1
+- Session Name: HKG18-100K1 - George Grey: Opening Keynote
+- Speaker: George Grey
+- Track: Keynote
 
 ## Session Summary
 
