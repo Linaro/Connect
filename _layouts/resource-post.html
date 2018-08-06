@@ -1,7 +1,7 @@
 ---
 layout: default
 js-package: blog
-css-package: blog
+css-package: resources-blog
 ---
 <div class="container-fluid" id="content-container">
     <div class="row">
@@ -10,20 +10,28 @@ css-package: blog
                 <article class="post-content">
                     <div class="post-info">
                         <h1>{{page.title }}</h1>
-
                         {% if page.date %}<small class="blog-date text-center"><em>Added to  <a href="/resources/{{page.categories[0]}}/">{{page.categories[0] | upcase }} Resources</a> on <b>{{page.date |  date: "%A, %B %-d, %Y"}}</b></em></small>{% endif %}
-
+                        {% if page.session_track %}
+                            {% if page.session_track contains "," %}
+                                {% assign tracks = page.session_track | split: "," %}
+                                {% for track in tracks %}
+                                    <span class="track">{{track}}</span>
+                                {% endfor %}
+                            {% else %}
+                                <span class="track">{{page.session_track}}</span>
+                            {% endif %}
+                        {% endif %}
                     </div>
                     <div class="col-xs-12 no-padding">
-                        <div class="col-sm-6">
+                        <div class="col-sm-6 no-padding">
                             <div class="video">
-
+                                {% include media.html media_url=page.youtube_video_url %}
                             </div>
                         </div>
-                        <div class="col-sm-6">
+                        <div class="col-sm-6 no-padding">
                             <div class="presentation">
-                                {% if page.slideshare_presentation_url %}
-                                    {% include presentation.html url=page.slideshare_presentation_url %}
+                                {% if page.slideshare_embed_url %}
+                                    {% include media.html media_url=page.slideshare_embed_url %}
                                 {% else %}
                                 <img class="img-responsive lazyload" src="" data-src="" alt="Presentation skeleton"/> 
                                 {% endif %}
