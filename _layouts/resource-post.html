@@ -1,6 +1,6 @@
 ---
 layout: default
-js-package: blog
+js-package: resources-blog
 css-package: resources-blog
 ---
 <div class="container-fluid" id="content-container">
@@ -12,30 +12,68 @@ css-package: resources-blog
                         <h1>{{page.title }}</h1>
                         {% if page.date %}<small class="blog-date text-center"><em>Added to  <a href="/resources/{{page.categories[0]}}/">{{page.categories[0] | upcase }} Resources</a> on <b>{{page.date |  date: "%A, %B %-d, %Y"}}</b></em></small>{% endif %}
                         {% if page.session_track %}
-                            {% if page.session_track contains "," %}
-                                {% assign tracks = page.session_track | split: "," %}
-                                {% for track in tracks %}
-                                    <span class="track">{{track}}</span>
-                                {% endfor %}
-                            {% else %}
-                                <span class="track">{{page.session_track}}</span>
-                            {% endif %}
+                            <div class="tracks">
+                                {% if page.session_track contains "," %}
+                                    {% assign tracks = page.session_track | split: "," %}
+                                    {% for track in tracks %}
+                                        <a href="/resources/tracks/#{{track}}"><span class="track">{{track}}</span></a>
+                                    {% endfor %}
+                                {% else %}
+                                    <a href="/resources/tracks/#{{page.session_track}}"><span class="track">{{page.session_track}}</span></a>
+                                {% endif %}
+                            </div>
                         {% endif %}
                     </div>
                     <div class="col-xs-12 no-padding">
                         <div class="col-sm-6 no-padding">
                             <div class="video">
-                                {% include media.html media_url=page.youtube_video_url %}
+                                {% if page.youtube_video_url %}
+                                    <div id="video-holder">
+                                        <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{% asset_path 'video-placeholder-image.jpg' %}" />
+                                        <div class="embed-responsive embed-responsive-16by9">
+                                            <iframe class="hidden-iframe" data-src="{{page.youtube_video_url}}" width="100%" height="500" frameborder="0" marginwidth="5"
+                                                marginheight="5" scrolling="auto" id="youtube-iframe"></iframe>
+                                        </div>
+                                    </div>
+                                {% else %}
+                                    <div id="video-holder">
+                                        <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{% asset_path 'video-placeholder-image.jpg' %}"/>
+                                        <h3 class="no-video">No video available</h3>
+                                    </div>
+                                {% endif %}
                             </div>
+                            {% if page.amazon_s3_video_url %}
+                            <div class="s3-link">
+                                <a href="{{page.amazon_s3_video_url}}" class="btn btn-primary s3-download">Download Video</a>
+                            </div>
+                            {% endif %}
                         </div>
                         <div class="col-sm-6 no-padding">
                             <div class="presentation">
                                 {% if page.slideshare_embed_url %}
-                                    {% include media.html media_url=page.slideshare_embed_url %}
+                                <div id="presentation-holder">
+                                    <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                                    data-src="{% asset_path 'video-placeholder-image.jpg' %}"
+                                    />
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="hidden-iframe" data-src="{{page.slideshare_embed_url}}" width="100%" height="500" frameborder="0" marginwidth="5"
+                                            marginheight="5" scrolling="auto" id="presentation-iframe"></iframe>
+                                    </div>
+                                </div>
                                 {% else %}
-                                <img class="img-responsive lazyload" src="" data-src="" alt="Presentation skeleton"/> 
+                                    <div id="presentation-holder">
+                                        <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                        data-src="{% asset_path 'video-placeholder-image.jpg' %}" /> 
+                                        <h3 class="no-video">No presentation available</h3>
+                                        {% include media.html media_url=page.slideshare_embed_url %}
+                                    </div>
                                 {% endif %}
                             </div>
+                            {% if page.amazon_s3_presentation_url %}
+                                <div class="s3-link">
+                                    <a href="{{page.amazon_s3_presentation_url}}" class="btn btn-primary s3-download">Download Presentation</a>
+                                </div>
+                            {% endif %}
                         </div>
                     </div>
                     {{ content }}
@@ -58,7 +96,6 @@ css-package: resources-blog
                     {% assign cat = page.categories[0] %}
                     {% include post-sidebar-resources.html event_code=cat %}
                 </div>
-
         </div>        
     </div>
 </div>
