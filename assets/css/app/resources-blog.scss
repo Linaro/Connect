@@ -85,3 +85,40 @@ span.event-code-span {
 #wrapper .resources-stats {
     margin-bottom: 20px !important;
 }
+span.track {
+    background-color: #eee;
+    color: black;
+    padding: 5px;
+    border: 1px solid #ccc;
+    display: inline;
+    transition: 500ms all ease;
+}
+span.track:hover {
+    background-color:#333333;
+    color:white;
+}
+.tracks {
+    margin-top: 14px;
+}
+#wrapper .s3-link {
+    padding: 10px;
+    margin-bottom: 31px;
+    margin-top: -25px;
+    border-top: 1px solid #4e4e4e;
+    background-color: #333333;
+}
+
+#wrapper a.btn.btn-primary.s3-download {
+    padding: 6px;
+    border-radius: 0px;
+    background-color: black;
+    color:white;
+    border:1px solid #4e4e4e;
+}
+#wrapper a.btn.btn-primary.s3-download:hover {
+    padding: 6px;
+    border-radius: 0px;
+    background-color: #ededed;
+    color:#333333;
+    border:1px solid #4e4e4e;
+}
