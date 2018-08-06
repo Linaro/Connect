@@ -19,12 +19,13 @@ image:
   featured: true
   name: HKG18-408.png
   path: /assets/images/featured-images/HKG18-408.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-408/
 post_format:
 - Video
 session_id: HKG18-408
 session_track: LHG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92750037
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18408-a-drm-solution-using-tzmp
 slug: hkg18-408
 speakers: Ken Liu

@@ -17,12 +17,13 @@ image:
   featured: true
   name: HKG18-403.png
   path: /assets/images/featured-images/HKG18-403.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-403/
 post_format:
 - Video
 session_id: HKG18-403
 session_track: Tools
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92158579
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18403-introducing-openocd-status-of-openocd-on-aarch64
 slug: hkg18-403
 speakers: Omair Javaid

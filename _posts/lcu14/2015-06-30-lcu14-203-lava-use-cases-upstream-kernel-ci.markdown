@@ -14,12 +14,13 @@ image:
   featured: true
   name: LCU14-203.jpg
   path: /assets/images/featured-images/LCU14-203.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-203-lava-use-cases-upstream-kernel-ci/
 post_format:
 - Video
 session_id: LCU14-203
 session_track: LAVA
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38948508
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-203-lava-use-cases-upstream-kernel-ci
 slug: lcu14-203-lava-use-cases-upstream-kernel-ci
 speakers: Tyler Baker, Milo Casagrande

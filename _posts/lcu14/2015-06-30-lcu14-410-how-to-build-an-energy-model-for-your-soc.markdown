@@ -18,10 +18,11 @@ image:
   featured: true
   name: LCU14-410.jpg
   path: /assets/images/featured-images/LCU14-410.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-410-how-to-build-an-energy-model-for-your-soc/
 session_id: LCU14-410
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39263683
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-410-how-tobuildanenergymodelforyoursoc
 slug: lcu14-410-how-to-build-an-energy-model-for-your-soc
 speakers: Amit Kucheria, Morten Rasmussen

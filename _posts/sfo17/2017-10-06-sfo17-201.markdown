@@ -20,12 +20,13 @@ image:
   featured: true
   name: SFO17-201.jpg
   path: /assets/images/featured-images/SFO17-201.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-201/
 post_format:
 - Video
 session_id: SFO17-201
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80134470
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/secure-boot-on-arm-systems-building-a-complete-chain-of-trust-upon-existing-industry-standards-using-opensource-firmware-sfo17201
 slug: sfo17-201
 speakers: Matteo Carlini

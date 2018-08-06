@@ -8,7 +8,7 @@ image:
   featured: true
   name: BKK16-204.jpg
   path: /assets/images/featured-images/BKK16-204.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-204/
 post_format:
 - Video

@@ -9,7 +9,7 @@ image:
   featured: true
   name: HKG15-300K2.jpg
   path: /assets/images/featured-images/HKG15-300K2.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-guest-keynote-bob-monkman-arm/
 post_format:
 - Video

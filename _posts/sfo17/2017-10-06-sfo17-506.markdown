@@ -18,12 +18,13 @@ image:
   featured: true
   name: SFO17-506.jpg
   path: /assets/images/featured-images/SFO17-506.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-506/
 post_format:
 - Video
 session_id: SFO17-506
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79939005
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/aosp-devboard-update-and-recentfuture-pain-points-sfo17506
 slug: sfo17-506
 speakers: John Stultz

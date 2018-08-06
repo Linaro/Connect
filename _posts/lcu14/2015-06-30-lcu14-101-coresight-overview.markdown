@@ -19,12 +19,13 @@ image:
   featured: true
   name: LCU14-101.jpg
   path: /assets/images/featured-images/LCU14-101.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-101-coresight-overview/
 post_format:
 - Video
 session_id: LCU14-101
 session_track: Linux Kernel
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38845936
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-101-coresight-overview
 slug: lcu14-101-coresight-overview
 speakers: Pancham Tumkur

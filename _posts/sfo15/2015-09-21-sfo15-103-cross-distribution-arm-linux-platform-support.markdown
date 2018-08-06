@@ -17,12 +17,13 @@ image:
   featured: true
   name: SFO15103CrossdistributionARMLinuxplatformsupport.jpg
   path: /assets/images/featured-images/SFO15103CrossdistributionARMLinuxplatformsupport.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-103-cross-distribution-arm-linux-platform-support/
 post_format:
 - Video
 session_id: None
 session_track: Builds and Baselines
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53572524
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15103-crossdistribution-arm-linux-platform-support-53572524
 slug: sfo15-103-cross-distribution-arm-linux-platform-support
 speakers: Steve Mcintyre, Riku Voipio

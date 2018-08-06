@@ -14,12 +14,13 @@ image:
   featured: true
   name: BUD17-315.jpg
   path: /assets/images/featured-images/BUD17-315.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-315/
 post_format:
 - Video
 session_id: BUD17-315
 session_track: LTD
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786685
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17315-hyperscaling-applications-with-kubernetes-on-arm
 slug: bud17-315
 speakers: Tyler Baker

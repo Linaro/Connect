@@ -25,12 +25,13 @@ image:
   featured: true
   name: SFO17-103.jpg
   path: /assets/images/featured-images/SFO17-103.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-103/
 post_format:
 - Video
 session_id: SFO17-103
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/81026772
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/the-challenge-of-sve-in-qemu-sfo17103-81026772
 slug: sfo17-103
 speakers: "Alex Benn\xE9e"

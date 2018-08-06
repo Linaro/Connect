@@ -16,12 +16,13 @@ image:
   featured: true
   name: SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonARM.jpg
   path: /assets/images/featured-images/SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonARM.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-205-op-tee-content-decryption-with-microsoft-playready-on-arm/
 post_format:
 - Video
 session_id: None
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53111683
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15205-optee-content-decryption-with-microsoft-playready-on-arm-53111683
 slug: sfo15-205-op-tee-content-decryption-with-microsoft-playready-on-arm
 speakers: Zoltan Kuscsik

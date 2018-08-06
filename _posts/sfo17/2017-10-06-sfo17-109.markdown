@@ -22,12 +22,13 @@ image:
   featured: true
   name: SFO17-109.jpg
   path: /assets/images/featured-images/SFO17-109.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-109/
 post_format:
 - Video
 session_id: SFO17-109
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/81009212
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/sfo17-109-containerized-vn-fs-with-data-plane-acceleration-on-arm-platform
 slug: sfo17-109
 speakers: Bin Lu - Jianbo Liu

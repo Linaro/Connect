@@ -8,7 +8,7 @@ excerpt: Server chips based on the ARM v8A architecture deliver greater core den
   to the Java SE specification, and supports the ARM v8 architecture. In this presentation
   we’ll look at how using Zulu makes moving enterprise Java applications to the ARM-enabled
   data center easy and cost efficient while delivering excellent performance.
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-454/
 session_id: SFO17-454
 session_track: LEG

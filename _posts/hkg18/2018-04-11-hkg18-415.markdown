@@ -20,12 +20,13 @@ image:
   featured: true
   name: HKG18-415.png
   path: /assets/images/featured-images/HKG18-415.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-415/
 post_format:
 - Video
 session_id: HKG18-415
 session_track: Networking
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92158620
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18415-time-sensitive-networking-tsn-and-linux
 slug: hkg18-415
 speakers: Ivan Khoronzhuk

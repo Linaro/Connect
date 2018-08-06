@@ -31,12 +31,13 @@ image:
   featured: true
   name: HKG15-206.jpg
   path: /assets/images/featured-images/HKG15-206.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-206-solving-the-year-2038-problem-in-linux/
 post_format:
 - Video
 session_id: HKG15-206
 session_track: Kernel
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44887297
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15206-solving-the-year-2038-problem-in-linux
 slug: hkg15-206-solving-the-year-2038-problem-in-linux
 speakers: Arnd Bergmann, Tina Ruchandani

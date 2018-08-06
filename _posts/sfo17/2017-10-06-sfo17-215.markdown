@@ -24,12 +24,13 @@ image:
   featured: true
   name: SFO17-215.jpg
   path: /assets/images/featured-images/SFO17-215.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-215/
 post_format:
 - Video
 session_id: SFO17-215
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80525877
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/a-functional-open-gpu-upon-arm-sfo17215
 slug: sfo17-215
 speakers: Fabricio Toloczko

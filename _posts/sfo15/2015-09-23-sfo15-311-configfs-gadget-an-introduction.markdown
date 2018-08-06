@@ -15,12 +15,13 @@ image:
   featured: true
   name: SFO15311ConfigFSGadgetAnIntroduction.jpg
   path: /assets/images/featured-images/SFO15311ConfigFSGadgetAnIntroduction.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-311-configfs-gadget-an-introduction/
 post_format:
 - Video
 session_id: None
 session_track: Mobile
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52946511
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15311-configfs-gadget-an-introduction
 slug: sfo15-311-configfs-gadget-an-introduction
 speakers: Amit Pundir

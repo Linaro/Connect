@@ -12,12 +12,13 @@ image:
   featured: true
   name: SFO17-107.jpg
   path: /assets/images/featured-images/SFO17-107.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-107/
 post_format:
 - Video
 session_id: SFO17-107
 session_track: LAVA
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79884068
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/lava-users-forum-sfo17107
 slug: sfo17-107
 speakers: Steve McIntyre

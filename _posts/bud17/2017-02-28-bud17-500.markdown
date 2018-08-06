@@ -14,12 +14,13 @@ image:
   featured: true
   name: BUD17-500.jpg
   path: /assets/images/featured-images/BUD17-500.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-500/
 post_format:
 - Video
 session_id: BUD17-500
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72787944
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17-500-open-suse96boardsfinal
 slug: bud17-500
 speakers: "Andreas F\xE4rber"

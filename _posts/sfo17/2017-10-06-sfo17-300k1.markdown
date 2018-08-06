@@ -12,12 +12,13 @@ image:
   featured: true
   name: SFO17-300K1.jpg
   path: /assets/images/featured-images/SFO17-300K1.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-300k1/
 post_format:
 - Video
 session_id: SFO17-300K1
 session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80263611
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/keynote-the-intelligent-connected-future-matt-grob-qualcomm-sfo17300k1
 slug: sfo17-300k1
 speakers: Matt Grob

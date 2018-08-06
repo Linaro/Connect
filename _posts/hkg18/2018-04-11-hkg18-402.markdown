@@ -22,12 +22,13 @@ image:
   featured: true
   name: HKG18-402.png
   path: /assets/images/featured-images/HKG18-402.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-402/
 post_format:
 - Video
 session_id: HKG18-402
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92158569
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18402-build-secure-key-management-services-in-optee
 slug: hkg18-402
 speakers: Etienne Carriere

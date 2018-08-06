@@ -12,12 +12,13 @@ image:
   featured: true
   name: LCU14-300.jpg
   path: /assets/images/featured-images/LCU14-300.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-300-openstack-and-kvm-on-arm-servers/
 post_format:
 - Video
 session_id: LCU14-300
 session_track: Enterprise Servers
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39257242
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-300-open-stack-andkvm-on-arm-servers
 slug: lcu14-300-openstack-and-kvm-on-arm-servers
 speakers: Christian Reis

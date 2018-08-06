@@ -20,12 +20,13 @@ image:
   featured: true
   name: LCU14-105.jpg
   path: /assets/images/featured-images/LCU14-105.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-105-coresight-advanced-topics/
 post_format:
 - Video
 session_id: LCU14-105
 session_track: Linux Kernel
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38846320
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-105-coresight-advanced-topics
 slug: lcu14-105-coresight-advanced-topics
 speakers: Mathieu Poirier

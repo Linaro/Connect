@@ -15,7 +15,7 @@ image:
   featured: true
   name: LCU14-504.jpg
   path: /assets/images/featured-images/LCU14-504.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-504-taming-armv8-neon-from-theory-to-benchmark-results/
 session_id: LCU14-504
 session_track: Android

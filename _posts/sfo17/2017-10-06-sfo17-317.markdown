@@ -13,12 +13,13 @@ image:
   featured: true
   name: SFO17-317.jpg
   path: /assets/images/featured-images/SFO17-317.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-317/
 post_format:
 - Video
 session_id: SFO17-317
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80195217
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/progress-and-demonstration-of-wrapdrive-a-accelerator-framework-sfo17317
 slug: sfo17-317
 speakers: Kenneth Lee - Xu Zhaibo

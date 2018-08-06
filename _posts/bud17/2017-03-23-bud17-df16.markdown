@@ -13,12 +13,13 @@ image:
   featured: true
   name: BUD17-DF16.jpg
   path: /assets/images/featured-images/BUD17-DF16.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/uncategorized/bud17-df16/
 post_format:
 - Video
 session_id: BUD17-DF16
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73369035
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/odp-ipsec-lookaside-api-demo
 slug: bud17-df16
 speakers: None

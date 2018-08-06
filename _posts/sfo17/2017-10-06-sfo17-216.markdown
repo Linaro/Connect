@@ -44,12 +44,13 @@ image:
   featured: true
   name: SFO17-216.jpg
   path: /assets/images/featured-images/SFO17-216.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-216/
 post_format:
 - Video
 session_id: SFO17-216
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80612035
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/automatic-vectorization-in-art-android-runtime-sfo17216
 slug: sfo17-216
 speakers: Aart Bik  - Artem Serov

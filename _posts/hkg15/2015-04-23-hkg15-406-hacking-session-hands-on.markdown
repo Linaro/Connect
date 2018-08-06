@@ -18,12 +18,13 @@ image:
   featured: true
   name: HKG15-406.jpg
   path: /assets/images/featured-images/HKG15-406.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-406-hacking-session-hands-on/
 post_format:
 - Video
 session_id: HKG15-406
 session_track: Validation
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44515179
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15406-hacking-session-hands-on
 slug: hkg15-406-hacking-session-hands-on
 speakers: Tyler Baker, Dave Pigott

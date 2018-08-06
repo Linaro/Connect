@@ -15,10 +15,11 @@ image:
   featured: true
   name: LCU14-400.jpg
   path: /assets/images/featured-images/LCU14-400.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-400-managing-a-lava-lab-using-new-debian-packages/
 session_id: LCU14-400
 session_track: LAVA
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38952701
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-400-managing-a-lava-lab-using-new-debian-packages
 slug: lcu14-400-managing-a-lava-lab-using-new-debian-packages
 speakers: Neil Williams, Matt Hart, Dave Pigott

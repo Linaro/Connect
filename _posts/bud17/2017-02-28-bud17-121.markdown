@@ -14,7 +14,7 @@ image:
   featured: true
   name: BUD17-121.jpg
   path: /assets/images/featured-images/BUD17-121.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-121/
 post_format:
 - Video

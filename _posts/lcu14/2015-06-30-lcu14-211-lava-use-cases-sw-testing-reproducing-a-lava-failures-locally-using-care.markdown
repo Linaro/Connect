@@ -14,12 +14,13 @@ image:
   featured: true
   name: LCU14-211.jpg
   path: /assets/images/featured-images/LCU14-211.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-211-lava-use-cases-sw-testing-reproducing-a-lava-failures-locally-using-care/
 post_format:
 - Video
 session_id: LCU14-211
 session_track: LAVA
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38951922
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-211-lava-use-cases-sw-testing-reproducing-a-lava-failures-locally-using-care
 slug: lcu14-211-lava-use-cases-sw-testing-reproducing-a-lava-failures-locally-using-care
 speakers: Remi Duraffort

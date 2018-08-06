@@ -33,10 +33,11 @@ image:
   featured: true
   name: LCU14-402.jpg
   path: /assets/images/featured-images/LCU14-402.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-402-energy-aware-scheduling-kernel-summit-update/
 session_id: LCU14-402
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39262924
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-402-kernel-summitupdatefinal-39262924
 slug: lcu14-402-energy-aware-scheduling-kernel-summit-update
 speakers: "Dietmar Eggemann, \nAmit Kucheria, \nPitre Nico, \nMorten Rasmussen, \nMichael

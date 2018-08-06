@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-213.pdf
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:42
 excerpt: Linaro has multiple labs and board farms with varying purposes. This session
@@ -17,7 +17,7 @@ image:
   featured: true
   name: BKK16-213.jpg
   path: /assets/images/featured-images/BKK16-213.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-213/
 post_format:
 - Video
@@ -25,6 +25,7 @@ session_id: BKK16-213
 session_track: 'Field Engineering /
 
   Premium Services'
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58731698
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16213-wheres-the-hardware
 slug: bkk16-213
 speakers: Don Harbin

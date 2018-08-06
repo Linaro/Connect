@@ -11,11 +11,12 @@ image:
   featured: true
   name: HKG15-904.jpg
   path: /assets/images/featured-images/HKG15-904.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-904-scrum-and-kanban-101/
 post_format:
 - Video
 session_id: HKG15-904
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44898896
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15904-scrum-and-kanban-101
 slug: hkg15-904-scrum-and-kanban-101
 speakers: Amro Hassaan

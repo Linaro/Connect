@@ -18,10 +18,11 @@ image:
   featured: true
   name: LCU14-302.jpg
   path: /assets/images/featured-images/LCU14-302.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-302-op-tee-porting-and-future-enhancements/
 session_id: LCU14-302
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38952505
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-302-how-to-port-optee-to-another-platform
 slug: lcu14-302-op-tee-porting-and-future-enhancements
 speakers: Sun Yangbang

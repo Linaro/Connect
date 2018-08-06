@@ -17,12 +17,13 @@ image:
   featured: true
   name: SFO15TR9PSCIACPIandUEFItoboot.jpg
   path: /assets/images/featured-images/SFO15TR9PSCIACPIandUEFItoboot.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr9-psci-acpi-and-uefi-to-boot/
 post_format:
 - Video
 session_id: None
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53572343
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15tr9-psci-acpi-and-uefi-to-boot
 slug: sfo15-tr9-psci-acpi-and-uefi-to-boot
 speakers: Bill Fletcher

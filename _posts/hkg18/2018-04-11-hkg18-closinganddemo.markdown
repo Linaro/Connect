@@ -11,7 +11,7 @@ image:
   featured: true
   name: HKG18-ClosingandDemo.png
   path: /assets/images/featured-images/HKG18-ClosingandDemo.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-closinganddemo/
 post_format:
 - Video

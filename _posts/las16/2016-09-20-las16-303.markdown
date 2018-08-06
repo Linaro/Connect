@@ -12,12 +12,13 @@ image:
   featured: true
   name: LAS16-303.png
   path: /assets/images/featured-images/LAS16-303.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-303/
 post_format:
 - Video
 session_id: LAS16-303
 session_track: Automation & CI
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357504
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16303-kernel-testing-with-kernelciorg
 slug: las16-303
 speakers: Tyler Baker

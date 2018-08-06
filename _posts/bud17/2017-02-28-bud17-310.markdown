@@ -15,12 +15,13 @@ image:
   featured: true
   name: BUD17-310.jpg
   path: /assets/images/featured-images/BUD17-310.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-310/
 post_format:
 - Video
 session_id: BUD17-310
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786593
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17310-introducing-lldb-for-linux-on-arm-and-aarch64
 slug: bud17-310
 speakers: Omair Javaid

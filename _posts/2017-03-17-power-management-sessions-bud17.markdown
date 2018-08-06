@@ -11,7 +11,7 @@ image:
   featured: true
   name: PowerManagementsessionsfromBUD17.jpg
   path: /assets/images/featured-images/PowerManagementsessionsfromBUD17.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/blog/power-management-sessions-bud17/
 session_id: None
 session_track: None

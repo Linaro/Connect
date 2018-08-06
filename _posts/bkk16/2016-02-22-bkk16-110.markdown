@@ -2,7 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-110.pdf
 amazon_s3_video_url: n/a
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:36
 excerpt: "Smart connected devices such as mobile phones, tablets and Digital TVs are
@@ -19,12 +19,13 @@ image:
   featured: true
   name: BKK16-110.jpg
   path: /assets/images/featured-images/BKK16-110.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-110/
 post_format:
 - Video
 session_id: BKK16-110
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58209663
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16110-a-gentle-introduction-to-trusted-execution-and-optee
 slug: bkk16-110
 speakers: Russell Wayman

@@ -14,12 +14,13 @@ image:
   featured: true
   name: LCU14-201.jpg
   path: /assets/images/featured-images/LCU14-201.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-201-binary-analysis-tools/
 post_format:
 - Video
 session_id: LCU14-201
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39029796
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-201-binary-analysis-tools
 slug: lcu14-201-binary-analysis-tools
 speakers: Christophe Lyon, Omair Javaid

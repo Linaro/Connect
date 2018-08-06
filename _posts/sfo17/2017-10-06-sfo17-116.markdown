@@ -17,12 +17,13 @@ image:
   featured: true
   name: SFO17-116.jpg
   path: /assets/images/featured-images/SFO17-116.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-116/
 post_format:
 - Video
 session_id: SFO17-116
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80700483
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/test-standards-can-fuego-lava-and-others-agree-sfo17116
 slug: sfo17-116
 speakers: Tim Bird

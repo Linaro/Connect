@@ -10,12 +10,13 @@ image:
   featured: true
   name: HKG15-902.jpg
   path: /assets/images/featured-images/HKG15-902.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-902-upstreaming-201/
 post_format:
 - Video
 session_id: HKG15-902
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44896634
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15901-upstreaming-201
 slug: hkg15-902-upstreaming-201
 speakers: Matt Porter

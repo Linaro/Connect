@@ -21,12 +21,13 @@ image:
   featured: true
   name: BUD17-213.jpg
   path: /assets/images/featured-images/BUD17-213.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-213/
 post_format:
 - Video
 session_id: BUD17-213
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73262432
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/libvirt-integration-and-testing-for-enterprise-kvmarm-bud17213
 slug: bud17-213
 speakers: Drew Jones, Eric Auger

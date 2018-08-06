@@ -2,27 +2,28 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-11-Wednesday/HKG15-306.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-11-Wednesday/HKG15-306+Introducing+Aster+-+a+tool+for+remote+GUI+testing+on+AOSP.mp4
 author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:36:45+00:00
-layout: post
+date: 2015-04-23 15:36:45
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-306/
+post_format:
+- Video
 session_id: HKG15-306
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44413403
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15306-introducing-aster-a-tool-for-remote-gui-testing-on-aosp
 slug: hkg15-306
 speakers: Yongqin Liu
+tags:
+- hkg15
+- HKG15-306
+- Yongqin Liu
 title: 'HKG15-306 : Introducing Aster - a tool for remote GUI testing on AOSP / Build
   system modifications to ease working with other AOSP projects'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 738
-categories:
-- hkg15
-post_format:
-- Video
-tags:
-- hkg15
-- HKG15-306
-- Yongqin Liu
 ---
 
 No Content Found

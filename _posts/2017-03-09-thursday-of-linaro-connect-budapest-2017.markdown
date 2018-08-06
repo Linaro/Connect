@@ -13,7 +13,7 @@ image:
   featured: true
   name: ThursdayofLinaroConnectBudapest2017.jpg
   path: /assets/images/featured-images/ThursdayofLinaroConnectBudapest2017.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/blog/thursday-of-linaro-connect-budapest-2017/
 session_id: None
 session_track: None

@@ -18,12 +18,13 @@ image:
   featured: true
   name: HKG15-207.jpg
   path: /assets/images/featured-images/HKG15-207.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-207-advanced-toolchain-usage-part-3/
 post_format:
 - Video
 session_id: HKG15-207
 session_track: Tools
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44417890
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15207-advanced-toolchain-usage-part-3
 slug: hkg15-207-advanced-toolchain-usage-part-3
 speakers: Ryan Arnold, Maxim Kuvyrkov, Will Newton, Yvan Roux

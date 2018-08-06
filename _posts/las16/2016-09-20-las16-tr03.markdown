@@ -21,12 +21,13 @@ image:
   featured: true
   name: LAS16-TR03.png
   path: /assets/images/featured-images/LAS16-TR03.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-tr03/
 post_format:
 - Video
 session_id: LAS16-TR03
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357311
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16tr03-upstreaming-201
 slug: las16-tr03
 speakers: Shawn Guo, Daniel Thompson

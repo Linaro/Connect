@@ -26,7 +26,7 @@ image:
   featured: true
   name: LAS16-308.png
   path: /assets/images/featured-images/LAS16-308.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-308/
 post_format:
 - Video

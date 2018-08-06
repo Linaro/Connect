@@ -21,12 +21,13 @@ image:
   featured: true
   name: SFO17-319.jpg
   path: /assets/images/featured-images/SFO17-319.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-319/
 post_format:
 - Video
 session_id: SFO17-319
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/81466200
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/scmi-test-suite-sfo17319
 slug: sfo17-319
 speakers: Saul Romero

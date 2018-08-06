@@ -11,7 +11,7 @@ image:
   featured: true
   name: HKG18-GroupPhoto.png
   path: /assets/images/featured-images/HKG18-GroupPhoto.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-groupphoto/
 post_format:
 - Video

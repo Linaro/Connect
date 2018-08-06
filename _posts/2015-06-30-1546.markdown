@@ -8,7 +8,7 @@ excerpt: Android Native Developer Kit (NDK) enables application developers lever
   the hardware features and differentiate. In this presentation, the Android NDK changes
   in latest NDK release for AArch64 is discussed, advantages of using NDK compiled
   with Linaro toolchains and validating NDK apps provided as part of Android is discussed.
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/1546/
 session_id: LCU14-309
 session_track: Android

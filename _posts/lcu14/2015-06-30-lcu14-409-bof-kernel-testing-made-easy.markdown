@@ -18,7 +18,7 @@ image:
   featured: true
   name: LCU14-409.jpg
   path: /assets/images/featured-images/LCU14-409.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-409-bof-kernel-testing-made-easy/
 session_id: LCU14-409
 session_track: Automation & Validation

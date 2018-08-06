@@ -16,12 +16,13 @@ image:
   featured: true
   name: LCU14-100.jpg
   path: /assets/images/featured-images/LCU14-100.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-100-dalvik-is-dead-long-live-dalvik-or-tuning-art/
 post_format:
 - Video
 session_id: LCU14-100
 session_track: Android
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39080857
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-100dalvik-is-dead-long-live-dalvik-39080857
 slug: lcu14-100-dalvik-is-dead-long-live-dalvik-or-tuning-art
 speakers: Stuart Monteith

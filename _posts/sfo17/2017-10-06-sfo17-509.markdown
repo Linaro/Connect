@@ -15,11 +15,12 @@ image:
   featured: true
   name: SFO17-509.jpg
   path: /assets/images/featured-images/SFO17-509.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-509/
 post_format:
 - Video
 session_id: SFO17-509
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79933020
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/deep-learning-on-arm-platforms-sfo17509
 slug: sfo17-509
 speakers: Jammy Zhou

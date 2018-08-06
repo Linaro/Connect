@@ -16,12 +16,13 @@ image:
   featured: true
   name: BUD17-221.jpg
   path: /assets/images/featured-images/BUD17-221.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-221/
 post_format:
 - Video
 session_id: BUD17-221
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72946878
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17221-whats-new-in-qemu
 slug: bud17-221
 speakers: "Alex Benn\xE9e"

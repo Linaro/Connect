@@ -15,12 +15,13 @@ image:
   featured: true
   name: SFO17-314.jpg
   path: /assets/images/featured-images/SFO17-314.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-314/
 post_format:
 - Video
 session_id: SFO17-314
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80657527
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/optimizing-golang-for-high-performance-with-arm64-assembly-sfo17314
 slug: sfo17-314
 speakers: Wei Xiao - Fannie Zhang

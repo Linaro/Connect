@@ -2,7 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Friday/BKK16-505.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Friday/BKK16-505%20kernel%20and%20bootloader%20consolidation%20and%20upstreaming.mp4
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:57
 excerpt: An overview of the work being done to support the mezzanine hardware ecosystem.
@@ -13,12 +13,13 @@ image:
   featured: true
   name: BKK16-505.jpg
   path: /assets/images/featured-images/BKK16-505.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-505/
 post_format:
 - Video
 session_id: BKK16-505
 session_track: 96Boards
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59646272
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16505-kernel-and-bootloader-consolidation-and-upstreaming
 slug: bkk16-505
 speakers: Grant Likely

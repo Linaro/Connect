@@ -14,12 +14,13 @@ image:
   featured: true
   name: HKG18-400K1.png
   path: /assets/images/featured-images/HKG18-400K1.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-400k1/
 post_format:
 - Video
 session_id: HKG18-400K1
 session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92877953
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18400k1-keynote-kenneth-lee-to-define-the-rule-why-you-should-go-open-source
 slug: hkg18-400k1
 speakers: Kenneth Lee

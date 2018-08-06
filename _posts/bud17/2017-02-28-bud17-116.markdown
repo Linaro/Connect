@@ -12,12 +12,13 @@ image:
   featured: true
   name: BUD17-116.jpg
   path: /assets/images/featured-images/BUD17-116.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-116/
 post_format:
 - Video
 session_id: BUD17-116
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72785902
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17116-zephyr-on-beetle
 slug: bud17-116
 speakers: Vincenzo Frascino

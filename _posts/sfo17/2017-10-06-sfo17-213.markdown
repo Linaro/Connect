@@ -15,12 +15,13 @@ image:
   featured: true
   name: SFO17-213.jpg
   path: /assets/images/featured-images/SFO17-213.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-213/
 post_format:
 - Video
 session_id: SFO17-213
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80525687
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/linux-based-infotainment-systems-thundersoft-case-study-sfo17213
 slug: sfo17-213
 speakers: Pengcheng Zou

@@ -2,7 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-317.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Wednesday/BKK16-317%20How%20to%20generate%20power%20models%20for%20EAS%20and%20IPA%20%28without%20talking%20to%20a%20hardware%20engineer%29.mp4
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:49
 excerpt: Generating a specific power model for the platform is a pre-requirement for
@@ -16,7 +16,7 @@ image:
   featured: true
   name: BKK16-317.jpg
   path: /assets/images/featured-images/BKK16-317.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-317/
 post_format:
 - Video
@@ -24,6 +24,7 @@ session_id: BKK16-317
 session_track: 'Field Engineering /
 
   Premium Services'
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58737633
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16317-how-to-generate-power-models-for-eas-and-ipa
 slug: bkk16-317
 speakers: Leo Yan

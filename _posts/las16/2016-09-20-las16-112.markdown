@@ -19,12 +19,13 @@ image:
   featured: true
   name: LAS16-112.png
   path: /assets/images/featured-images/LAS16-112.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-112/
 post_format:
 - Video
 session_id: LAS16-112
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66443081
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16112-mbed-os-technical-overview
 slug: las16-112
 speakers: Sam Grove

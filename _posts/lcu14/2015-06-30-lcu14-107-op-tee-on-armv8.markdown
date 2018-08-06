@@ -15,12 +15,13 @@ image:
   featured: true
   name: LCU14-107.jpg
   path: /assets/images/featured-images/LCU14-107.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-107-op-tee-on-armv8/
 post_format:
 - Video
 session_id: LCU14-107
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38846644
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-107-optee-on-ar-mv8
 slug: lcu14-107-op-tee-on-armv8
 speakers: Jens Wiklander

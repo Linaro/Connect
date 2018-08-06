@@ -15,12 +15,13 @@ image:
   featured: true
   name: SFO15506CapabilitiesofWorkloadAutomationtestharness.jpg
   path: /assets/images/featured-images/SFO15506CapabilitiesofWorkloadAutomationtestharness.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-506-capabilities-of-workload-automation-test-harness/
 post_format:
 - Video
 session_id: None
 session_track: Validation
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53134430
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15506-capabilities-of-workload-automation-test-harness-53134430
 slug: sfo15-506-capabilities-of-workload-automation-test-harness
 speakers: Lisa Nguyen

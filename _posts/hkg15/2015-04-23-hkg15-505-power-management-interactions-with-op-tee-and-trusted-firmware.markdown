@@ -16,12 +16,13 @@ image:
   featured: true
   name: HKG15-505.jpg
   path: /assets/images/featured-images/HKG15-505.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-505-power-management-interactions-with-op-tee-and-trusted-firmware/
 post_format:
 - Video
 session_id: HKG15-505
 session_track: Power, Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44899635
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15-505-power-management-interactions-with-optee-repaired
 slug: hkg15-505-power-management-interactions-with-op-tee-and-trusted-firmware
 speakers: Jorge Ramirez-Ortiz

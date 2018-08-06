@@ -11,7 +11,7 @@ image:
   featured: true
   name: LinaroConnectBudapest2017WeekinReview.jpg
   path: /assets/images/featured-images/LinaroConnectBudapest2017WeekinReview.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/blog/linaro-connect-budapest-2017-week-review/
 session_id: None
 session_track: None

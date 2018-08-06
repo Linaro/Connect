@@ -12,7 +12,7 @@ image:
   featured: true
   name: HKG15-209.jpg
   path: /assets/images/featured-images/HKG15-209.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-209-odp-user-experience/
 post_format:
 - Video

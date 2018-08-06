@@ -11,7 +11,7 @@ image:
   featured: true
   name: SFO15500K3GuestKeynoteSecurityPanel.jpg
   path: /assets/images/featured-images/SFO15500K3GuestKeynoteSecurityPanel.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-500k3-guest-keynote-security-panel/
 post_format:
 - Video

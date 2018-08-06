@@ -2,7 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Friday/BKK16-500K2.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Friday/BKK16-500K2%20David%20Rusling%20keynote.mp4
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:55
 featured_image_name: BKK16-500K2.jpg
@@ -10,12 +10,13 @@ image:
   featured: true
   name: BKK16-500K2.jpg
   path: /assets/images/featured-images/BKK16-500K2.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-500k2/
 post_format:
 - Video
 session_id: BKK16-500K2
 session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59646731
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16500k2-cto-talk-the-end-to-end-story
 slug: bkk16-500k2
 speakers: David Rusling

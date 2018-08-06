@@ -26,12 +26,13 @@ image:
   featured: true
   name: HKG18-218.png
   path: /assets/images/featured-images/HKG18-218.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-218/
 post_format:
 - Video
 session_id: HKG18-218
 session_track: Networking
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92872639
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg1218-bootstrapping-a-lora-linux-project
 slug: hkg18-218
 speakers: Stefan Schmidt

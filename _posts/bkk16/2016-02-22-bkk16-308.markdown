@@ -1,10 +1,10 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-308.pdf
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:46
-excerpt: "ATOS is an Auto Tuning Optimization System that is able to find automatically
+excerpt: ATOS is an Auto Tuning Optimization System that is able to find automatically
   the best performance/size tradeoff from a build system and a training application.
   The input of ATOS tools are a build command and a run command. From the build command,
   ATOS will infer an internal build configuration that it will run with different
@@ -15,18 +15,19 @@ excerpt: "ATOS is an Auto Tuning Optimization System that is able to find automa
   replayed later in order to generate the optimized executable without any modification
   into the initial build system.,     The nice property of ATOS is that NO modification
   of the sources or the makefiles are needed. ATOS can work on any large/deep project,
-  as soon as the compiler used is gcc or LLVM under Linux."
+  as soon as the compiler used is gcc or LLVM under Linux.
 featured_image_name: BKK16-308.jpg
 image:
   featured: true
   name: BKK16-308.jpg
   path: /assets/images/featured-images/BKK16-308.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-308/
 post_format:
 - Video
 session_id: BKK16-308
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58676271
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16308-the-tool-called-autotuned-optimization-system-atos
 slug: bkk16-308
 speakers: Christian BERTIN

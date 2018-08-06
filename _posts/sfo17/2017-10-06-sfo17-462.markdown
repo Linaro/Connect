@@ -9,7 +9,7 @@ image:
   featured: true
   name: SFO17-462.png
   path: /assets/images/featured-images/SFO17-462.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-462/
 post_format:
 - Video

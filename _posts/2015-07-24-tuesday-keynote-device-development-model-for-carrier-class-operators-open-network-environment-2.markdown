@@ -20,12 +20,13 @@ image:
   featured: true
   name: LCA14-200K2.jpg
   path: /assets/images/featured-images/LCA14-200K2.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lca14/tuesday-keynote-device-development-model-for-carrier-class-operators-open-network-environment-2/
 post_format:
 - Video
 session_id: LCA14-200K1
 session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/32641301
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lca14-sree-kotaykeynote
 slug: tuesday-keynote-device-development-model-for-carrier-class-operators-open-network-environment-2
 speakers: Sree Kotay

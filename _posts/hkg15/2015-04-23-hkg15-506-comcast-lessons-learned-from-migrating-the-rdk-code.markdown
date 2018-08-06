@@ -10,11 +10,12 @@ image:
   featured: true
   name: HKG15-506.jpg
   path: /assets/images/featured-images/HKG15-506.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-506-comcast-lessons-learned-from-migrating-the-rdk-code/
 post_format:
 - Video
 session_id: HKG15-506
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44899761
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15506-comcast-lessons-learned-from-migrating-the-rdk-code-base-to-the-openembeddedyocto-build-framework
 slug: hkg15-506-comcast-lessons-learned-from-migrating-the-rdk-code
 speakers: Sanjay Dorairaj, Khem Raj

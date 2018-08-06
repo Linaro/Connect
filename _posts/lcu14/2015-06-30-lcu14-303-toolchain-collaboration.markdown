@@ -15,12 +15,13 @@ image:
   featured: true
   name: LCU14-303.jpg
   path: /assets/images/featured-images/LCU14-303.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-303-toolchain-collaboration/
 post_format:
 - Video
 session_id: LCU14-303
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39202695
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-303-toolchain-collaboration
 slug: lcu14-303-toolchain-collaboration
 speakers: Ryan Arnold, Matt Gretton-Dann

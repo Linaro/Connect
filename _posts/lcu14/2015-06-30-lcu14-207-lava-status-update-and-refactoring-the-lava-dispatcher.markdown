@@ -13,12 +13,13 @@ image:
   featured: true
   name: LCU14-207.jpg
   path: /assets/images/featured-images/LCU14-207.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-207-lava-status-update-and-refactoring-the-lava-dispatcher/
 post_format:
 - Video
 session_id: LCU14-207
 session_track: LAVA
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38951819
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-207-refactoring-the-lavadispatcher
 slug: lcu14-207-lava-status-update-and-refactoring-the-lava-dispatcher
 speakers: None

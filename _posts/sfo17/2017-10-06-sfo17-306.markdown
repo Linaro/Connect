@@ -13,12 +13,13 @@ image:
   featured: true
   name: SFO17-306.jpg
   path: /assets/images/featured-images/SFO17-306.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-306/
 post_format:
 - Video
 session_id: SFO17-306
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79885324
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/digital-signatures-and-the-beginning-of-the-world-sfo17306
 slug: sfo17-306
 speakers: David Brown

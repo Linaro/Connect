@@ -14,12 +14,13 @@ image:
   featured: true
   name: SFO17-309.jpg
   path: /assets/images/featured-images/SFO17-309.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-309/
 post_format:
 - Video
 session_id: SFO17-309
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79885325
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/secure-storage-updates-sfo17309
 slug: sfo17-309
 speakers: Jens Wiklander - Jerome Forissier

@@ -17,12 +17,13 @@ image:
   featured: true
   name: SFO17-209.jpg
   path: /assets/images/featured-images/SFO17-209.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-209/
 post_format:
 - Video
 session_id: SFO17-209
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80099264
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/realtime-performance-of-networking-stack-sfo17209
 slug: sfo17-209
 speakers: Ivan Khoronzhuk - Pekka Varis

@@ -14,12 +14,13 @@ image:
   featured: true
   name: SFO15501HALUnificationinAndroid.jpg
   path: /assets/images/featured-images/SFO15501HALUnificationinAndroid.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-501-hal-unification-in-android/
 post_format:
 - Video
 session_id: None
 session_track: Mobile
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53032253
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15501-hal-unification-in-android
 slug: sfo15-501-hal-unification-in-android
 speakers: Rob Herring

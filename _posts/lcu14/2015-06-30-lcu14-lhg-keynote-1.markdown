@@ -10,7 +10,7 @@ image:
   featured: true
   name: LCU14-200a.jpg
   path: /assets/images/featured-images/LCU14-200a.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-lhg-keynote-1/
 post_format:
 - Video

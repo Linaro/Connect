@@ -11,7 +11,7 @@ image:
   featured: true
   name: HKG15-404.jpg
   path: /assets/images/featured-images/HKG15-404.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-404-standardizing-linux-kernel-power-management-on-arm-3264-bit/
 post_format:
 - Video

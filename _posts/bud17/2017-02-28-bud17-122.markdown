@@ -19,12 +19,13 @@ image:
   featured: true
   name: BUD17-122.jpg
   path: /assets/images/featured-images/BUD17-122.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-122/
 post_format:
 - Video
 session_id: BUD17-122
 session_track: QA
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72785944
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17122-linaro-test-suites-example-usage
 slug: bud17-122
 speakers: Milosz Wasilewski, Chase Qi

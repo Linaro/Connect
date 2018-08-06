@@ -15,12 +15,13 @@ image:
   featured: true
   name: SFO17-406.jpg
   path: /assets/images/featured-images/SFO17-406.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-406/
 post_format:
 - Video
 session_id: SFO17-406
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79886019
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/ipsec-full-offload-support-in-odp-sfo17406
 slug: sfo17-406
 speakers: Bill Fischofer

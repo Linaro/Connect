@@ -21,12 +21,13 @@ image:
   featured: true
   name: SFO17-408.jpg
   path: /assets/images/featured-images/SFO17-408.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-408/
 post_format:
 - Video
 session_id: SFO17-408
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80195119
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/active-state-management-of-power-domains-sfo17408
 slug: sfo17-408
 speakers: Viresh Kumar

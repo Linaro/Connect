@@ -20,12 +20,13 @@ image:
   featured: true
   name: SFO15104The96BoardsSoftwareReferencePlatform.jpg
   path: /assets/images/featured-images/SFO15104The96BoardsSoftwareReferencePlatform.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-104-the-96boards-software-reference-platform/
 post_format:
 - Video
 session_id: None
 session_track: Community
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53569516
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15104-the-96boards-software-reference-platformkeynote
 slug: sfo15-104-the-96boards-software-reference-platform
 tags:

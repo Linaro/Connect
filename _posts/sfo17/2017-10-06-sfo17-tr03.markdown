@@ -12,11 +12,12 @@ image:
   featured: true
   name: SFO17-TR03.jpg
   path: /assets/images/featured-images/SFO17-TR03.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-tr03/
 post_format:
 - Video
 session_id: SFO17-TR03
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79802125
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/upstreaming-201-sfo17tr03
 slug: sfo17-tr03
 speakers: Mathieu Poirier

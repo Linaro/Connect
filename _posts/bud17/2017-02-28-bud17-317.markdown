@@ -22,12 +22,13 @@ image:
   featured: true
   name: BUD17-317.jpg
   path: /assets/images/featured-images/BUD17-317.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-317/
 post_format:
 - Video
 session_id: BUD17-317
 session_track: LAVA
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786719
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17317-lava-migration-2017
 slug: bud17-317
 speakers: Neil Williams

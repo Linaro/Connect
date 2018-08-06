@@ -2,7 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-106.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Monday/BKK16-106%20ODP%20Project%20Update.mp4
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:34
 featured_image_name: BKK16-106.jpg
@@ -10,11 +10,12 @@ image:
   featured: true
   name: BKK16-106.jpg
   path: /assets/images/featured-images/BKK16-106.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-106/
 post_format:
 - Video
 session_id: BKK16-106
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58686865
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16106-odp-project-update
 slug: bkk16-106
 title: 'BKK16-106:'

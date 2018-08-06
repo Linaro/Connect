@@ -17,12 +17,13 @@ image:
   featured: true
   name: SFO17-110.jpg
   path: /assets/images/featured-images/SFO17-110.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-110/
 post_format:
 - Video
 session_id: SFO17-110
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80154260
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/getting-started-with-llvm-the-tldr-version-sfo17110
 slug: sfo17-110
 speakers: Diana Picus

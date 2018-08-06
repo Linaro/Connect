@@ -24,12 +24,13 @@ image:
   featured: true
   name: SFO15210KernelMainlineStatusofMobileChipsets.jpg
   path: /assets/images/featured-images/SFO15210KernelMainlineStatusofMobileChipsets.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-210-kernel-mainline-status-of-mobile-chipsets/
 post_format:
 - Video
 session_id: None
 session_track: Kernel
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53082150
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15210-kernel-mainline-status-of-mobile-chipsets
 slug: sfo15-210-kernel-mainline-status-of-mobile-chipsets
 speakers: Mark Brown

@@ -19,12 +19,13 @@ image:
   featured: true
   name: HKG15-303.jpg
   path: /assets/images/featured-images/HKG15-303.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-303-secure-playback-using-op-tee/
 post_format:
 - Video
 session_id: HKG15-303
 session_track: Security, Digital Home
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44897560
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15303-secure-playback-using-optee
 slug: hkg15-303-secure-playback-using-op-tee
 speakers: Viswanath Puttagunta

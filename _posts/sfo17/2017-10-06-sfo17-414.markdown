@@ -15,12 +15,13 @@ image:
   featured: true
   name: SFO17-414.jpg
   path: /assets/images/featured-images/SFO17-414.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-414/
 post_format:
 - Video
 session_id: SFO17-414
 session_track: 96Boards
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80643748
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/96boards-mezzanine-workshop-and-info-session-sfo17414
 slug: sfo17-414
 speakers: Robert Wolff

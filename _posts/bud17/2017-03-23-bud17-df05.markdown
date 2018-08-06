@@ -15,12 +15,13 @@ image:
   featured: true
   name: BUD17-DF05.jpg
   path: /assets/images/featured-images/BUD17-DF05.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df05/
 post_format:
 - Video
 session_id: BUD17-DF05
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73367729
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/http-server-on-userlevel-mtcp-stack-accelerated-by-dpdk
 slug: bud17-df05
 speakers: None

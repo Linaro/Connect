@@ -19,7 +19,7 @@ image:
   featured: true
   name: SFO15204TheArtofOptimizingANewCompilerfortheAndroidRuntime.jpg
   path: /assets/images/featured-images/SFO15204TheArtofOptimizingANewCompilerfortheAndroidRuntime.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-204-the-art-of-optimizing-a-new-compiler-for-the-android-runtime/
 post_format:
 - Video

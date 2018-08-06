@@ -16,12 +16,13 @@ image:
   featured: true
   name: SFO17-508.jpg
   path: /assets/images/featured-images/SFO17-508.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-508/
 post_format:
 - Video
 session_id: SFO17-508
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80642918
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/embedded-base-boot-requirements-ebbr-sfo17508
 slug: sfo17-508
 speakers: Dong Wei

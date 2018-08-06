@@ -15,12 +15,13 @@ image:
   featured: true
   name: LAS16-504.png
   path: /assets/images/featured-images/LAS16-504.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-504/
 post_format:
 - Video
 session_id: LAS16-504
 session_track: Core Development
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66358205
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16504-secure-storage-updates-in-optee
 slug: las16-504
 speakers: Jerome Forissier

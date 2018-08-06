@@ -16,12 +16,13 @@ image:
   featured: true
   name: BUD17-209.jpg
   path: /assets/images/featured-images/BUD17-209.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-209/
 post_format:
 - Video
 session_id: BUD17-209
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72946821
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17209-reliability-availability-and-serviceability-ras-on-arm64
 slug: bud17-209
 speakers: Wei Fu

@@ -12,12 +12,13 @@ image:
   featured: true
   name: SFO15BFO2Reducingthearmlinuxkernelsizewithoutlosingyourmind.jpg
   path: /assets/images/featured-images/SFO15BFO2Reducingthearmlinuxkernelsizewithoutlosingyourmind.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-bfo2-reducing-the-arm-linux-kernel-size-without-losing-your-mind/
 post_format:
 - Video
 session_id: None
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53570396
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15bfo2-reducing-the-arm-linux-kernel-size-without-losing-your-mind
 slug: sfo15-bfo2-reducing-the-arm-linux-kernel-size-without-losing-your-mind
 speakers: Nicolas Pitre

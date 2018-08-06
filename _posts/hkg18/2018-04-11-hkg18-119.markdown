@@ -13,12 +13,13 @@ image:
   featured: true
   name: HKG18-119.png
   path: /assets/images/featured-images/HKG18-119.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-119/
 post_format:
 - Video
 session_id: HKG18-119
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/91265509
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18119-overview-of-integrating-optee-into-hikey620-aosp
 slug: hkg18-119
 speakers: Victor Chong

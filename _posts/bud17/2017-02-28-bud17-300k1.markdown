@@ -18,12 +18,13 @@ image:
   featured: true
   name: BUD17-300K1.jpg
   path: /assets/images/featured-images/BUD17-300K1.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-300k1/
 post_format:
 - Video
 session_id: BUD17-300K1
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72946075
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17300k1-human-communication-a-niche-use-case-in-5g
 slug: bud17-300k1
 speakers: "Bj\xF6rn Ekelund"

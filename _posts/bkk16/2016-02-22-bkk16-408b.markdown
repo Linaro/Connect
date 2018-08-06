@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-408B.pdf
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:52
 excerpt: "This talk will provide an overview of typical Data Analysis tools and Machine
@@ -18,12 +18,13 @@ image:
   featured: true
   name: BKK16-408B.jpg
   path: /assets/images/featured-images/BKK16-408B.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-408b/
 post_format:
 - Video
 session_id: BKK16-408B
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59659459
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16408b-data-analytics-and-machine-learning-from-node-to-cluster
 slug: bkk16-408b
 speakers: Viswanath Puttagunta

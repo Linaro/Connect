@@ -16,7 +16,7 @@ image:
   featured: true
   name: HKG15-407.jpg
   path: /assets/images/featured-images/HKG15-407.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-407-eme-implementation-in-chromium-linaro-clear-key/
 post_format:
 - Video

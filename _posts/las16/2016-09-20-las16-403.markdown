@@ -16,12 +16,13 @@ image:
   featured: true
   name: LAS16-403.png
   path: /assets/images/featured-images/LAS16-403.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-403/
 post_format:
 - Video
 session_id: LAS16-403
 session_track: Core Development
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357862
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16403-gdb-linux-kernel-awareness
 slug: las16-403
 speakers: Peter Griffin

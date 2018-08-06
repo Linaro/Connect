@@ -15,12 +15,13 @@ image:
   featured: true
   name: BUD17-300.jpg
   path: /assets/images/featured-images/BUD17-300.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-300/
 post_format:
 - Video
 session_id: BUD17-300
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786390
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17300-journey-of-a-packet
 slug: bud17-300
 speakers: Maxim Uvarov

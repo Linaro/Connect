@@ -23,12 +23,13 @@ image:
   featured: true
   name: HKG18-TR14.png
   path: /assets/images/featured-images/HKG18-TR14.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-tr14/
 post_format:
 - Video
 session_id: HKG18-TR14
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92158796
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18tr14-postmortem-debugging-with-coresight
 slug: hkg18-tr14
 speakers: Leo Yan

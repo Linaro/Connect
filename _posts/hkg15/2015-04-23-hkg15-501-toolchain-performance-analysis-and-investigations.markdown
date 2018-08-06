@@ -16,12 +16,13 @@ image:
   featured: true
   name: HKG15-501.jpg
   path: /assets/images/featured-images/HKG15-501.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-501-toolchain-performance-analysis-and-investigations/
 post_format:
 - Video
 session_id: HKG15-501
 session_track: Tools
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44516240
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15501-toolchain-performance-analysis-and-investigations
 slug: hkg15-501-toolchain-performance-analysis-and-investigations
 speakers: Maxim Kuvyrkov

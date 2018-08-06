@@ -16,12 +16,13 @@ image:
   featured: true
   name: LAS16-401.png
   path: /assets/images/featured-images/LAS16-401.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-401/
 post_format:
 - Video
 session_id: LAS16-401
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357839
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16401-accelerating-applications-with-ofpodp-highlighting-nginx-openssl-and-l3fwd
 slug: las16-401
 speakers: None

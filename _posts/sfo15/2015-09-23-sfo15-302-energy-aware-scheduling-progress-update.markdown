@@ -15,12 +15,13 @@ image:
   featured: true
   name: SFO15302EnergyAwareSchedulingProgressUpdate.jpg
   path: /assets/images/featured-images/SFO15302EnergyAwareSchedulingProgressUpdate.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-302-energy-aware-scheduling-progress-update/
 post_format:
 - Video
 session_id: None
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53757578
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15302-energy-aware-scheduling-progress-update
 slug: sfo15-302-energy-aware-scheduling-progress-update
 speakers: Daniel Lezcano

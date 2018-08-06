@@ -23,12 +23,13 @@ image:
   featured: true
   name: BUD17-300K2.jpg
   path: /assets/images/featured-images/BUD17-300K2.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-300k2/
 post_format:
 - Video
 session_id: BUD17-300K2
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72924313
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17300k2-high-energy-physics-and-armv8-64bit-investigating-the-future-of-computing-at-cern
 slug: bud17-300k2
 speakers: Jakob Blomer, David Abdurachmanov

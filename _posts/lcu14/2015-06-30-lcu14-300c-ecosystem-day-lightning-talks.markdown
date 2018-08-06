@@ -11,7 +11,7 @@ image:
   featured: true
   name: LCU14-300c.jpg
   path: /assets/images/featured-images/LCU14-300c.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-300c-ecosystem-day-lightning-talks/
 post_format:
 - Video

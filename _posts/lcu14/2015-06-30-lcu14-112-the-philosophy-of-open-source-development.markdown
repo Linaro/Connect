@@ -12,7 +12,7 @@ image:
   featured: true
   name: LCU14-112.jpg
   path: /assets/images/featured-images/LCU14-112.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-112-the-philosophy-of-open-source-development/
 post_format:
 - Video

@@ -14,10 +14,11 @@ image:
   featured: true
   name: LCU14-401.jpg
   path: /assets/images/featured-images/LCU14-401.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-401-isolation-no_hz-upstreaming-progress-confirmed/
 session_id: LCU14-401
 session_track: Networking
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39051597
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-401-isolation-no-hz-upstreaming-progress
 slug: lcu14-401-isolation-no_hz-upstreaming-progress-confirmed
 speakers: Viresh Kumar

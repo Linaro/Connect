@@ -15,10 +15,11 @@ image:
   featured: true
   name: LCU14-306.jpg
   path: /assets/images/featured-images/LCU14-306.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-306-security-architecture-technical-discussion/
 session_id: LCU14-306
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38952605
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-306-optee-future-enhancements
 slug: lcu14-306-security-architecture-technical-discussion
 speakers: Joakim Bech, Jens Wiklander, Pascal Brand

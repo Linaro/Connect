@@ -11,10 +11,11 @@ image:
   featured: true
   name: LCU14-500z.jpg
   path: /assets/images/featured-images/LCU14-500z.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-500z-jim-zemlin-linux-foundation/
 session_id: LCU14-500z
 session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39671121
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/jim-zemlin-lcu14-keynote
 slug: lcu14-500z-jim-zemlin-linux-foundation
 speakers: None

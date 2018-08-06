@@ -22,12 +22,13 @@ image:
   featured: true
   name: LAS16-506.png
   path: /assets/images/featured-images/LAS16-506.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-506/
 post_format:
 - Video
 session_id: LAS16-506
 session_track: 96Boards
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/67471653
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16506-the-future-of-96boards-documentation
 slug: las16-506
 speakers: Robert Wolff

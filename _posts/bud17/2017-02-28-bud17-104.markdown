@@ -15,12 +15,13 @@ image:
   featured: true
   name: BUD17-104.jpg
   path: /assets/images/featured-images/BUD17-104.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-104/
 post_format:
 - Video
 session_id: BUD17-104
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72785709
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17104-scripting-languages-in-iot-challenges-and-approaches
 slug: bud17-104
 speakers: Paul Sokolovsky,

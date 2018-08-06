@@ -12,12 +12,13 @@ image:
   featured: true
   name: LCU14-304.jpg
   path: /assets/images/featured-images/LCU14-304.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-304-red-hat-offering-for-arm-servers/
 post_format:
 - Video
 session_id: LCU14-304
 session_track: Enterprise Servers
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39669148
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-304-linaro-connectusa2014
 slug: lcu14-304-red-hat-offering-for-arm-servers
 speakers: Jon Masters

@@ -15,12 +15,13 @@ image:
   featured: true
   name: BUD17-114.jpg
   path: /assets/images/featured-images/BUD17-114.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-114/
 post_format:
 - Video
 session_id: BUD17-114
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72785845
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17114-making-arm-the-best-platform-for-android
 slug: bud17-114
 speakers: Xueliang Zhong

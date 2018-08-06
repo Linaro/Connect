@@ -20,12 +20,13 @@ image:
   featured: true
   name: LCU14-114.jpg
   path: /assets/images/featured-images/LCU14-114.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-114-upstreaming-201/
 post_format:
 - Video
 session_id: LCU14-114
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39051539
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-114-upstreaming-201
 slug: lcu14-114-upstreaming-201
 speakers: Matt Porter

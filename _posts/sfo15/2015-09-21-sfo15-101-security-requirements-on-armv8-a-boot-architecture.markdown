@@ -19,12 +19,13 @@ image:
   featured: true
   name: SFO15101SecurityrequirementsonARMv8Abootarchitecture.jpg
   path: /assets/images/featured-images/SFO15101SecurityrequirementsonARMv8Abootarchitecture.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-101-security-requirements-on-armv8-a-boot-architecture/
 post_format:
 - Video
 session_id: None
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53753972
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15101-security-requirements-on-armv8a-boot-architecture
 slug: sfo15-101-security-requirements-on-armv8-a-boot-architecture
 speakers: Dan Handley, Grant Likely

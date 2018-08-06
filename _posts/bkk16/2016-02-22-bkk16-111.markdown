@@ -2,7 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-111.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Monday/BKK16-111%20Tuneable%20-%20The%20Future%20of%20Platform%20Optimisation%20Selection%20in%20glibc.mp4
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:36
 excerpt: The GNU C library has a number of magic constants that were decided based
@@ -22,12 +22,13 @@ image:
   featured: true
   name: BKK16-111.jpg
   path: /assets/images/featured-images/BKK16-111.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-111/
 post_format:
 - Video
 session_id: BKK16-111
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58209754
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16111-tunables-the-future-of-platform-optimization-selection-in-glibc
 slug: bkk16-111
 speakers: Siddhesh Poyarekar

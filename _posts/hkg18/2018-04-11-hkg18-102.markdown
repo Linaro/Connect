@@ -18,12 +18,13 @@ image:
   featured: true
   name: HKG18-102.png
   path: /assets/images/featured-images/HKG18-102.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-102/
 post_format:
 - Video
 session_id: HKG18-102
 session_track: Networking
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/93306295
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18102-dpdk-on-arm64-platforms
 slug: hkg18-102
 speakers: Yi He

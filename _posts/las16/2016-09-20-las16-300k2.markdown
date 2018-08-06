@@ -18,12 +18,13 @@ image:
   featured: true
   name: LAS16-300K2.png
   path: /assets/images/featured-images/LAS16-300K2.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-300k2/
 post_format:
 - Video
 session_id: LAS16-300K2
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66521412
 slideshare_presentation_url: http://www.slideshare.net/ShovanSargunam/las16300k2-geoff-thorpe-iot-zephyr
 slug: las16-300k2
 speakers: Geoff Thorpe

@@ -16,12 +16,13 @@ image:
   featured: true
   name: BUD17-103.jpg
   path: /assets/images/featured-images/BUD17-103.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-103/
 post_format:
 - Video
 session_id: BUD17-103
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73262507
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/compression-support-in-opendataplane-odp-bud17103
 slug: bud17-103
 speakers: Narayana Prasad Athreya

@@ -13,12 +13,13 @@ image:
   featured: true
   name: LCU14-208.jpg
   path: /assets/images/featured-images/LCU14-208.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-208-chromium-blink-migration-for-rdk/
 post_format:
 - Video
 session_id: LCU14-208
 session_track: Digital Home
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39155555
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-208-chromiumblink-migration-for-rdk-39155555
 slug: lcu14-208-chromium-blink-migration-for-rdk
 speakers: Zoltan Kuscsik, Haifeng Yan

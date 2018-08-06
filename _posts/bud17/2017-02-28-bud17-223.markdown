@@ -13,12 +13,13 @@ image:
   featured: true
   name: BUD17-223.jpg
   path: /assets/images/featured-images/BUD17-223.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-223/
 post_format:
 - Video
 session_id: BUD17-223
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786255
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17223-iot-toolchain-bof
 slug: bud17-223
 speakers: Maxim Kuvyrkov

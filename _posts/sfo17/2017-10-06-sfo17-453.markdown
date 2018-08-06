@@ -9,7 +9,7 @@ excerpt: 'The size of big data even the data sets to be processed individually i
 
   This is the technique building up hyper scale parallel computing system using ARM
   CPU.'
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-453/
 session_id: SFO17-453
 session_track: LEG

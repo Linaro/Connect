@@ -16,10 +16,11 @@ image:
   featured: true
   name: LCU14-509.jpg
   path: /assets/images/featured-images/LCU14-509.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-509-overview-of-qa-reports/
 session_id: LCU14-509
 session_track: QA
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38953286
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-509-overview-of-qa-reports
 slug: lcu14-509-overview-of-qa-reports
 speakers: Milosz Wasilewski

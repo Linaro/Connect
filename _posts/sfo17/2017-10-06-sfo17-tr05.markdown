@@ -16,12 +16,13 @@ image:
   featured: true
   name: SFO17-TR05.jpg
   path: /assets/images/featured-images/SFO17-TR05.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-tr05/
 post_format:
 - Video
 session_id: SFO17-TR05
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80118552
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/easv13-profiling-on-hikey960-sfo17tr05
 slug: sfo17-tr05
 speakers: 'Leo Yan & Daniel Thompson '

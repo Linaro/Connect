@@ -15,12 +15,13 @@ image:
   featured: true
   name: BUD17-312.jpg
   path: /assets/images/featured-images/BUD17-312.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-312/
 post_format:
 - Video
 session_id: BUD17-312
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786615
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17312-linux-networking-and-io-bof
 slug: bud17-312
 speakers: Francois Ozog, Ivan Khoronzhuk, Dmitry Eremin-Solenikov

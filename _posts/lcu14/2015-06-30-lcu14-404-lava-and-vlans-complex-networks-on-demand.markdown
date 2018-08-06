@@ -12,10 +12,11 @@ image:
   featured: true
   name: LCU14-404.jpg
   path: /assets/images/featured-images/LCU14-404.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-404-lava-and-vlans-complex-networks-on-demand/
 session_id: LCU14-404
 session_track: Networking
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38952834
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-404-lava-vlans-complex-networks-on-demand
 slug: lcu14-404-lava-and-vlans-complex-networks-on-demand
 speakers: Steve McIntyre, Dave Pigott, Matt Hart, Neil Williams

@@ -14,12 +14,13 @@ image:
   featured: true
   name: LCU14-115.jpg
   path: /assets/images/featured-images/LCU14-115.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-115-security-best-practices/
 post_format:
 - Video
 session_id: LCU14-115
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38952204
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-115-security-best-practices
 slug: lcu14-115-security-best-practices
 speakers: John Stultz, Deepak Saxena

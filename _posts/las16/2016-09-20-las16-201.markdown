@@ -18,12 +18,13 @@ image:
   featured: true
   name: LAS16-201.png
   path: /assets/images/featured-images/LAS16-201.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-201/
 post_format:
 - Video
 session_id: LAS16-201
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357019
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16201-art-jit-in-android-n
 slug: las16-201
 speakers: Xueliang Zhong

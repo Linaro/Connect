@@ -28,7 +28,7 @@ image:
   featured: true
   name: LCU14-508.jpg
   path: /assets/images/featured-images/LCU14-508.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-508-bof-openembedded/
 session_id: LCU14-508
 session_track: BoF

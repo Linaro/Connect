@@ -16,12 +16,13 @@ image:
   featured: true
   name: HKG15-411.jpg
   path: /assets/images/featured-images/HKG15-411.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-411-browser-testing-framework-for-lhg/
 post_format:
 - Video
 session_id: HKG15-411
 session_track: Digital Home
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44515999
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15411-browser-testing-framework-for-lhg
 slug: hkg15-411-browser-testing-framework-for-lhg
 speakers: Trevor Woerner, Will Chen

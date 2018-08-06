@@ -18,12 +18,13 @@ image:
   featured: true
   name: SFO15305ExpandingsecuritychoicesDRMCAinteroperability.jpg
   path: /assets/images/featured-images/SFO15305ExpandingsecuritychoicesDRMCAinteroperability.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-305-expanding-security-choices-drm-ca-interoperability/
 post_format:
 - Video
 session_id: None
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53031502
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15309-expanding-security-choices-panel-drm-and-ca-interoperability
 slug: sfo15-305-expanding-security-choices-drm-ca-interoperability
 speakers: Mark Gregotski

@@ -16,12 +16,13 @@ image:
   featured: true
   name: HKG15-111.jpg
   path: /assets/images/featured-images/HKG15-111.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-111-lava-dispatcher-refactoring/
 post_format:
 - Video
 session_id: HKG15-111
 session_track: LAVA, Validation
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44403927
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15111-lava-dispatcher-refactoring
 slug: hkg15-111-lava-dispatcher-refactoring
 speakers: "Neil Williams, R\xE9mi Duraffort"

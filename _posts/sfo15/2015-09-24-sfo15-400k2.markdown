@@ -10,7 +10,7 @@ image:
   featured: true
   name: SFO15400K2GuestKeynoteDaveNearyRedhat.jpg
   path: /assets/images/featured-images/SFO15400K2GuestKeynoteDaveNearyRedhat.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-400k2/
 post_format:
 - Video

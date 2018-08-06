@@ -16,12 +16,13 @@ image:
   featured: true
   name: SFO17-412.jpg
   path: /assets/images/featured-images/SFO17-412.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-412/
 post_format:
 - Video
 session_id: SFO17-412
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80643745
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bof-ion-sfo17412
 slug: sfo17-412
 speakers: Laura Abbott - Sumit Semwal

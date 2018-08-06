@@ -16,12 +16,13 @@ image:
   featured: true
   name: BUD17-115.jpg
   path: /assets/images/featured-images/BUD17-115.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-115/
 post_format:
 - Video
 session_id: BUD17-115
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72838091
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17115-linaro-project-management-project-tracking-controlling
 slug: bud17-115
 speakers: Anoop Saxena

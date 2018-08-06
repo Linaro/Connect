@@ -41,12 +41,13 @@ image:
   featured: true
   name: BUD17-503.jpg
   path: /assets/images/featured-images/BUD17-503.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-503z/
 post_format:
 - Video
 session_id: BUD17-503
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73213778
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/the-hpe-machine-and-genz-bud17503
 slug: bud17-503z
 speakers: Grant Likely

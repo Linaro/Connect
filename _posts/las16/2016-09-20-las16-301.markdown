@@ -20,12 +20,13 @@ image:
   featured: true
   name: LAS16-301.png
   path: /assets/images/featured-images/LAS16-301.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-301/
 post_format:
 - Video
 session_id: LAS16-301
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66572844
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16301-openstack-on-aarch64-running-in-production-upstream-improvements-and-interoperability
 slug: las16-301
 speakers: Yibo Cai, Gema Gomez Solano, Jack He, Marcin Juskiewicz, Martin Stadtler

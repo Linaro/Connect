@@ -4,7 +4,7 @@ amazon_s3_video_url: None
 author: connect
 comments: false
 date: 2017-03-20 13:44:13+00:00
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/blog/security-op-tee-sessions-bud17/
 session_id: None
 session_track: None

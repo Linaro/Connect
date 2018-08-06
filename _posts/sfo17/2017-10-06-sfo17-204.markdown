@@ -24,12 +24,13 @@ image:
   featured: true
   name: SFO17-204.jpg
   path: /assets/images/featured-images/SFO17-204.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-204/
 post_format:
 - Video
 session_id: SFO17-204
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79884897
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/functional-safety-and-development-tools-sfo17204
 slug: sfo17-204
 speakers: Peter Smith

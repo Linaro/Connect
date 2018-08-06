@@ -12,12 +12,13 @@ image:
   featured: true
   name: HKG15-500.jpg
   path: /assets/images/featured-images/HKG15-500.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-500-lava-101-lava-usage-and-result-management/
 post_format:
 - Video
 session_id: HKG15-500
 session_track: Validation
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44899285
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15500-lava-101-lava-usage-and-result-management
 slug: hkg15-500-lava-101-lava-usage-and-result-management
 speakers: Senthil Kumaran S

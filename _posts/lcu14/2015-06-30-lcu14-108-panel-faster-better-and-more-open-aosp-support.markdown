@@ -36,7 +36,7 @@ image:
   featured: true
   name: LCU14-108.jpg
   path: /assets/images/featured-images/LCU14-108.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-108-panel-faster-better-and-more-open-aosp-support/
 post_format:
 - Video

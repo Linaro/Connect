@@ -8,7 +8,7 @@ image:
   featured: true
   name: BKK16-100K3.jpg
   path: /assets/images/featured-images/BKK16-100K3.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-100k3/
 post_format:
 - Video

@@ -17,12 +17,13 @@ image:
   featured: true
   name: SFO15500K2IdeologyinOpenSourceCompliance.jpg
   path: /assets/images/featured-images/SFO15500K2IdeologyinOpenSourceCompliance.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-500k2-ideology-in-open-source-compliance/
 post_format:
 - Video
 session_id: None
 session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53893755
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15500k2-ideology-in-open-source-compliance
 slug: sfo15-500k2-ideology-in-open-source-compliance
 tags:

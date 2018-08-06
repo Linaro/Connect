@@ -13,12 +13,13 @@ image:
   featured: true
   name: SFO17-409.jpg
   path: /assets/images/featured-images/SFO17-409.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-409/
 post_format:
 - Video
 session_id: SFO17-409
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80526009
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/tsc-bof-oss-toolchain-discussion-sfo17409
 slug: sfo17-409
 speakers: Ryan Arnold

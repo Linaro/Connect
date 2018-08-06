@@ -26,12 +26,13 @@ image:
   featured: true
   name: SFO17-416.jpg
   path: /assets/images/featured-images/SFO17-416.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-416/
 post_format:
 - Video
 session_id: SFO17-416
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80298584
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/preventing-linux-in-your-car-from-killing-you-the-l4re-open-source-microvisor-system-sfo17416
 slug: sfo17-416
 speakers: Michael Hohmuth

@@ -13,12 +13,13 @@ image:
   featured: true
   name: LAS16-406.png
   path: /assets/images/featured-images/LAS16-406.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-406/
 post_format:
 - Video
 session_id: LAS16-406
 session_track: Core Development
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357910
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16406-android-widevine-on-optee
 slug: las16-406
 speakers: None

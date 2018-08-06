@@ -12,12 +12,13 @@ image:
   featured: true
   name: HKG15-107.jpg
   path: /assets/images/featured-images/HKG15-107.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-107-acpi-power-management-on-arm64-servers/
 post_format:
 - Video
 session_id: HKG15-107
 session_track: Power Management, Enterprise Server
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44412845
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15-107-acpi-power-management-on-arm64-servers-v2
 slug: hkg15-107-acpi-power-management-on-arm64-servers
 speakers: Ashwin Chaugule

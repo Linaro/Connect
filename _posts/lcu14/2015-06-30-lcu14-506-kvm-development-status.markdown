@@ -18,10 +18,11 @@ image:
   featured: true
   name: LCU14-506.jpg
   path: /assets/images/featured-images/LCU14-506.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-506-kvm-development-status/
 session_id: LCU14-506
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38953226
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-506-kvm-development-status
 slug: lcu14-506-kvm-development-status
 speakers: Christoffer Dall, Marc Zyngier, Eric Auger
