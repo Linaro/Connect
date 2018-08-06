@@ -45,3 +45,10 @@
   job_title: Principal Open Source Counsel, Arm
   image: jlovejoy.png
   link: /keynotes/yvr18/jilayne-lovejoy/
+- name: Long Wang
+  day: Thursday
+  start_time: "9:15"
+  end_time: "9:45"
+  job_title: Senior Vice President of Connectivity Solutions, Unisoc
+  image: lwang.png
+  link: /keynotes/yvr18/long-wang/
