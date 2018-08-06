@@ -1,0 +1,56 @@
+---
+layout: default
+js-package: blog
+css-package: blog
+---
+<div class="container-fluid" id="content-container">
+    <div class="row">
+        <div class="container">
+            <div class="col-md-9">
+                <article class="post-content">
+                    <div class="post-info">
+                        <h1>{{page.title }}</h1>
+
+                        {% if page.date %}<small class="blog-date text-center"><em>Added to  <a href="/resources/{{page.categories[0]}}/">{{page.categories[0] | upcase }} Resources</a> on <b>{{page.date |  date: "%A, %B %-d, %Y"}}</b></em></small>{% endif %}
+
+                    </div>
+                    <div class="col-xs-12 no-padding">
+                        <div class="col-sm-6">
+                            <div class="video">
+
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="presentation">
+                                {% if page.slideshare_presentation_url %}
+                                    {% include presentation.html url=page.slideshare_presentation_url %}
+                                {% else %}
+                                <img class="img-responsive lazyload" src="" data-src="" alt="Presentation skeleton"/> 
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                    {{ content }}
+                </article>
+
+                {% comment %}
+                    TAGS - Check to see if the tags_enabled setting in settings.yml data file is toggled.
+                {% endcomment %}
+                
+                {% include post-tags.html %}
+                
+                {% comment %}
+                    COMMENTS - Check to see if comments are toggled for this particular post.
+                {% endcomment %}
+            
+                {% include post-comments.html %}
+                
+                </div>
+                <div class="col-md-3 blog-sidebar no-padding">
+                    {% assign cat = page.categories[0] %}
+                    {% include post-sidebar-resources.html event_code=cat %}
+                </div>
+
+        </div>        
+    </div>
+</div>
