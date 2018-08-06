@@ -2,7 +2,6 @@
 .sass-cache
 # From debugging
 .bash_history
-node_modules
 .gemfiles/
 .bundle/
 site_dest/

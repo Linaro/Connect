@@ -72,6 +72,8 @@ function docker_serve_site() {
 	"$DOCKER_TAG" \
 	bundle exec \
 		jekyll serve \
-		--source "/srv/$JEKYLL_SITE_OUTPUT_DIRECTORY" \
-		--skip-initial-build -H 0.0.0.0 -P "$JEKYLL_PORT"
+		--skip-initial-build \
+		--destination "/srv/$JEKYLL_SITE_OUTPUT_DIRECTORY" \
+		-H 0.0.0.0 \
+		-P "$JEKYLL_PORT"
 }
