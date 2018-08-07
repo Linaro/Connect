@@ -85,7 +85,7 @@ RUN useradd --create-home --shell /bin/bash buildbot
 
 ################################################################################
 # Dockerfile development only
-ENV CONFIG_UPDATED 2018-08-02.1203
+ENV CONFIG_UPDATED 2018-08-06.1705
 # COPY Gemfile /srv/Gemfile
 ################################################################################
 
