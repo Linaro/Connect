@@ -8,7 +8,7 @@ PR's related to the Dockerfile and build.sh will take considerably longer to rev
 ## Prerequisites
 
 - Linux or *NIX-like OS: tested under [Arch Linux](https://archlinux.org) and [Ubuntu Linux 17.10](https://www.ubuntu.com/) on x86_64, Dell XPS 15 (9560).
-- [Bash](https://www.gnu.org/software/bash/).
+- [Bash](https://www.gnu.org/software/bash/) or [ZSH](http://zsh.sourceforge.net/).
 - [Docker Community Edition](https://www.docker.com/community-edition#/download) (and probably therefore [Docker Enterprise Edition](https://www.docker.com/enterprise-edition)).
 - \>= 2GiB of free RAM.
 - \>= 2GiB free disk space.
@@ -32,8 +32,6 @@ Use the build script for convenience, or adapt the ```docker run``` commands cor
 A modified build script is used for deployment onto AWS and is not currently publically available.
 
 This build script should probably be replaced by a make file.
-
-Closing your IDE may improve build times, as it may be watching files for ```git status```.
 
 ### Building using the build script
 
