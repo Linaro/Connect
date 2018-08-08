@@ -4,7 +4,7 @@ amazon_s3_video_url: None
 author: connect
 comments: false
 date: 2016-10-03 20:17:58+00:00
-layout: resource-post
+layout: post
 link: http://connect.linaro.org/blog/look-back-las16/
 session_id: None
 session_track: None

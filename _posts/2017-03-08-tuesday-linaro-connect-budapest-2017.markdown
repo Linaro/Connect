@@ -13,7 +13,7 @@ image:
   featured: true
   name: TuesdayofLinaroConnectBudapest2017.jpg
   path: /assets/images/featured-images/TuesdayofLinaroConnectBudapest2017.jpg
-layout: resource-post
+layout: post
 link: http://connect.linaro.org/blog/tuesday-linaro-connect-budapest-2017/
 session_id: None
 session_track: None
@@ -32,12 +32,17 @@ wordpress_id: 5200
 youtube_video_url: None
 ---
 
-[vc_row][vc_column][vc_column_text]Tuesday of Linaro Connect Budapest 2017 (BUD17) started off with a keynote by Christophe Arviset, who is Head of the Data and Engineering Division at ESA’s European Space Astronomy Centre (ESAC) in Spain.  Christophe gave a keynote titled: Big data, big challenges for ESA Space Science Missions’ Archives.  The keynote discussed the European Space Agency’s (ESA) current mission Gaia and upcoming one Euclid that will generate massive amounts of astronomical data will need to be made freely available on-line through powerful data management systems. This brings big challenges for building these missions’ archives.  He discussed how this new generation of science archiving is transforming into science exploitation and collaborative platforms, where the users can send her/his code to the data, run it on computing and storage services provided directly by the archive (where the data reside), and easily share all this with other scientists they’re collaborating with.  To watch his keynote go to:  [https://www.youtube.com/watch?v=zZFVMsrkMtg ](https://www.youtube.com/watch?v=zZFVMsrkMtg)[/vc_column_text][vc_video link="https://www.youtube.com/watch?v=zZFVMsrkMtg"][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_single_image image="5166" img_size="900x900"][/vc_column][vc_column width="1/2"][vc_column_text]Tuesday's themes were Linaro Enterprise Group, Linaro Mobile Group, Android and Big Data.  Starting with the keynote, which discussed the challenges of Big Data, many of the other sessions on Tuesday were focused on these topics.  Below is a list of the sessions that took place on Tuesday.  Many have the supporting presentations and videos, however keep checking back to the [BUD17 resources page ](http://connect.linaro.org/resources/)as we will continue to update it throughout the week as more items become available.[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
+Tuesday of Linaro Connect Budapest 2017 (BUD17) started off with a keynote by Christophe Arviset, who is Head of the Data and Engineering Division at ESA’s European Space Astronomy Centre (ESAC) in Spain. Christophe gave a keynote titled: Big data, big challenges for ESA Space Science Missions’ Archives. The keynote discussed the European Space Agency’s (ESA) current mission Gaia and upcoming one Euclid that will generate massive amounts of astronomical data will need to be made freely available on-line through powerful data management systems. This brings big challenges for building these missions’ archives. He discussed how this new generation of science archiving is transforming into science exploitation and collaborative platforms, where the users can send her/his code to the data, run it on computing and storage services provided directly by the archive (where the data reside), and easily share all this with other scientists they’re collaborating with. To watch his keynote go to:  [https://www.youtube.com/watch?v=zZFVMsrkMtg ](https://www.youtube.com/watch?v=zZFVMsrkMtg)
+
+{% include media.html media_url="https://www.youtube.com/watch?v=zZFVMsrkMtg" %}
+
+Tuesday's themes were Linaro Enterprise Group, Linaro Mobile Group, Android and Big Data.  Starting with the keynote, which discussed the challenges of Big Data, many of the other sessions on Tuesday were focused on these topics. Below is a list of the sessions that took place on Tuesday. Many have the supporting presentations and videos, however keep checking back to the [BUD17 resources page ](http://connect.linaro.org/resources/)as we will continue to update it throughout the week as more items become available.
+
 <table >
 <tbody >
 <tr >
+<td markdown="1">
 
-<td >
 
 
 ### **Tuesday**
@@ -55,7 +60,8 @@ youtube_video_url: None
 
 </td>
 
-<td >
+<td markdown="1">
+
 
 
 ### **Track**
@@ -64,287 +70,368 @@ youtube_video_url: None
 
 </td>
 
-<td >
+<td markdown="1">
+
 </td>
 </tr>
 <tr >
 
-<td >BUD17-200K1: Big data, big challenges for ESA Space Science Missions’ Archives –
+<td markdown="1">
+BUD17-200K1: Big data, big challenges for ESA Space Science Missions’ Archives –
 </td>
 
-<td >Christophe Arviset
+<td markdown="1">
+Christophe Arviset
 </td>
 
-<td >Keynote
+<td markdown="1">
+Keynote
 </td>
 
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-200k1/)
-</td>
-</tr>
-<tr >
-
-<td >BUD17-201: ARM Server Standards: The Next Generation
-</td>
-
-<td >Jon Masters
-</td>
-
-<td >LEG
-</td>
-
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-201/)
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-200k1/)
 </td>
 </tr>
 <tr >
 
-<td >BUD17-202: AOSP Toolchains
+<td markdown="1">
+BUD17-201: ARM Server Standards: The Next Generation
 </td>
 
-<td >Bero Rsenkränzer, Renato Golin
+<td markdown="1">
+Jon Masters
 </td>
 
-<td >LMG
+<td markdown="1">
+LEG
 </td>
 
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-202/)
-</td>
-</tr>
-<tr >
-
-<td >BUD17-203: Universal Keyring – The Time has Come
-</td>
-
-<td >Anders Rundgren
-</td>
-
-<td >Security
-</td>
-
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-203/)
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-201/)
 </td>
 </tr>
 <tr >
 
-<td >BUD17-204: QC Upstream BOF
+<td markdown="1">
+BUD17-202: AOSP Toolchains
 </td>
 
-<td >Stephen Boyd
+<td markdown="1">
+Bero Rsenkränzer, Renato Golin
 </td>
 
-<td >Kernel
+<td markdown="1">
+LMG
 </td>
 
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-204/)
-</td>
-</tr>
-<tr >
-
-<td >BUD17-205: Updates on Server Base System Architecture and Boot Requirements
-</td>
-
-<td >Dong Wei
-</td>
-
-<td >LEG
-</td>
-
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-205/)
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-202/)
 </td>
 </tr>
 <tr >
 
-<td >BUD17-206: Future of Android Automated Testing
+<td markdown="1">
+BUD17-203: Universal Keyring – The Time has Come
 </td>
 
-<td >
+<td markdown="1">
+Anders Rundgren
 </td>
 
-<td >LMG
+<td markdown="1">
+Security
 </td>
 
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-206/)
-</td>
-</tr>
-<tr >
-
-<td >BUD17-209: Reliability, Availability, and Serviceability (RAS) on ARM64
-</td>
-
-<td >Wei Fu
-</td>
-
-<td >LEG
-</td>
-
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-209/)
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-203/)
 </td>
 </tr>
 <tr >
 
-<td >BUD17-211: No more latencies!
+<td markdown="1">
+BUD17-204: QC Upstream BOF
 </td>
 
-<td >Ulf Hansson, Linus Walleij, Paolo Valente
+<td markdown="1">
+Stephen Boyd
 </td>
 
-<td >Kernel
+<td markdown="1">
+Kernel
 </td>
 
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-211/)
-</td>
-</tr>
-<tr >
-
-<td >BUD17-213: libvirt integration and testing for enterprise KVM/ARM
-</td>
-
-<td >Drew Jones, Eric Auger
-</td>
-
-<td >LEG
-</td>
-
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-213/)
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-204/)
 </td>
 </tr>
 <tr >
 
-<td >BUD17-214: Bus scaling QoS update
+<td markdown="1">
+BUD17-205: Updates on Server Base System Architecture and Boot Requirements
 </td>
 
-<td >Georgi Djakov
+<td markdown="1">
+Dong Wei
 </td>
 
-<td >Power Management
+<td markdown="1">
+LEG
 </td>
 
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-214/)
-</td>
-</tr>
-<tr >
-
-<td >BUD17-215: LAVA Users Forum
-</td>
-
-<td >Steve McIntyre
-</td>
-
-<td >LAVA
-</td>
-
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-215/)
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-205/)
 </td>
 </tr>
 <tr >
 
-<td >BUD17-217: VOSYSwitch on OPNFV – migration to ArmBand
+<td markdown="1">
+BUD17-206: Future of Android Automated Testing
 </td>
 
-<td >
+<td markdown="1">
+
 </td>
 
-<td >LNG
+<td markdown="1">
+LMG
 </td>
 
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-217/)
-</td>
-</tr>
-<tr >
-
-<td >BUD17-218: Scheduler Load tracking update and improvement
-</td>
-
-<td >Vincent Guittot
-</td>
-
-<td >Power Management
-</td>
-
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-218/)
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-206/)
 </td>
 </tr>
 <tr >
 
-<td >BUD17-221: What’s new in QEMU
+<td markdown="1">
+BUD17-209: Reliability, Availability, and Serviceability (RAS) on ARM64
 </td>
 
-<td >Alex Bennée
+<td markdown="1">
+Wei Fu
 </td>
 
-<td >Virtualization
+<td markdown="1">
+LEG
 </td>
 
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-221/)
-</td>
-</tr>
-<tr >
-
-<td >BUD17-222: Energy Awareness: The Next Step
-</td>
-
-<td >Carlos Kik Lloret
-</td>
-
-<td >LMG
-</td>
-
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-222/)
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-209/)
 </td>
 </tr>
 <tr >
 
-<td >BUD17-223: IoT Toolchain BoF
+<td markdown="1">
+BUD17-211: No more latencies!
 </td>
 
-<td >
+<td markdown="1">
+Ulf Hansson, Linus Walleij, Paolo Valente
 </td>
 
-<td >Toolchain
+<td markdown="1">
+Kernel
 </td>
 
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-223/)
-</td>
-</tr>
-<tr >
-
-<td >BUD17-TR01: Philosophy of Open Source
-</td>
-
-<td >
-</td>
-
-<td >
-</td>
-
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-tr01/)
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-211/)
 </td>
 </tr>
 <tr >
 
-<td >BUD17-TR02: Upstreaming 101
+<td markdown="1">
+BUD17-213: libvirt integration and testing for enterprise KVM/ARM
 </td>
 
-<td >
+<td markdown="1">
+Drew Jones, Eric Auger
 </td>
 
-<td >
+<td markdown="1">
+LEG
 </td>
 
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-tr02/)
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-213/)
 </td>
 </tr>
 <tr >
 
-<td >BUD17-TR03: Upstreaming 201
+<td markdown="1">
+BUD17-214: Bus scaling QoS update
 </td>
 
-<td >
+<td markdown="1">
+Georgi Djakov
 </td>
 
-<td >
+<td markdown="1">
+Power Management
 </td>
 
-<td >[View Resources](http://connect.linaro.org/resource/bud17/bud17-tr03/)
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-214/)
+</td>
+</tr>
+<tr >
+
+<td markdown="1">
+BUD17-215: LAVA Users Forum
+</td>
+
+<td markdown="1">
+Steve McIntyre
+</td>
+
+<td markdown="1">
+LAVA
+</td>
+
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-215/)
+</td>
+</tr>
+<tr >
+
+<td markdown="1">
+BUD17-217: VOSYSwitch on OPNFV – migration to ArmBand
+</td>
+
+<td markdown="1">
+
+</td>
+
+<td markdown="1">
+LNG
+</td>
+
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-217/)
+</td>
+</tr>
+<tr >
+
+<td markdown="1">
+BUD17-218: Scheduler Load tracking update and improvement
+</td>
+
+<td markdown="1">
+Vincent Guittot
+</td>
+
+<td markdown="1">
+Power Management
+</td>
+
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-218/)
+</td>
+</tr>
+<tr >
+
+<td markdown="1">
+BUD17-221: What’s new in QEMU
+</td>
+
+<td markdown="1">
+Alex Bennée
+</td>
+
+<td markdown="1">
+Virtualization
+</td>
+
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-221/)
+</td>
+</tr>
+<tr >
+
+<td markdown="1">
+BUD17-222: Energy Awareness: The Next Step
+</td>
+
+<td markdown="1">
+Carlos Kik Lloret
+</td>
+
+<td markdown="1">
+LMG
+</td>
+
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-222/)
+</td>
+</tr>
+<tr >
+
+<td markdown="1">
+BUD17-223: IoT Toolchain BoF
+</td>
+
+<td markdown="1">
+
+</td>
+
+<td markdown="1">
+Toolchain
+</td>
+
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-223/)
+</td>
+</tr>
+<tr >
+
+<td markdown="1">
+BUD17-TR01: Philosophy of Open Source
+</td>
+
+<td markdown="1">
+
+</td>
+
+<td markdown="1">
+
+</td>
+
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-tr01/)
+</td>
+</tr>
+<tr >
+
+<td markdown="1">
+BUD17-TR02: Upstreaming 101
+</td>
+
+<td markdown="1">
+
+</td>
+
+<td markdown="1">
+
+</td>
+
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-tr02/)
+</td>
+</tr>
+<tr >
+
+<td markdown="1">
+BUD17-TR03: Upstreaming 201
+</td>
+
+<td markdown="1">
+
+</td>
+
+<td markdown="1">
+
+</td>
+
+<td markdown="1">
+[View Resources](http://connect.linaro.org/resource/bud17/bud17-tr03/)
 </td>
 </tr>
 </tbody>

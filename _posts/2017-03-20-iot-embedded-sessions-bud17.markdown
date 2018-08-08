@@ -4,7 +4,7 @@ amazon_s3_video_url: None
 author: connect
 comments: false
 date: 2017-03-20 13:34:23+00:00
-layout: resource-post
+layout: post
 link: http://connect.linaro.org/blog/iot-embedded-sessions-bud17/
 session_id: None
 session_track: None

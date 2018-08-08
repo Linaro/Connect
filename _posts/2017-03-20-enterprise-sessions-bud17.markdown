@@ -4,7 +4,7 @@ amazon_s3_video_url: None
 author: connect
 comments: false
 date: 2017-03-20 12:05:57+00:00
-layout: resource-post
+layout: post
 link: http://connect.linaro.org/blog/enterprise-sessions-bud17/
 session_id: None
 session_track: None
@@ -23,10 +23,6 @@ categories:
 https://www.youtube.com/playlist?list=PLKZSArYQptsNtWUBuB2DcSEADXqJm6r12
 
 
-
-
-
-
 **Session Name:** Modern tooling with CentOS and DTS – BUD17-121
 
 **Abstract:**
@@ -38,10 +34,7 @@ This session will cover getting, and using newer tools such as gcc6 to use when 
 **Resource page:** [http://connect.linaro.org/resource/bud17/bud17-121/](http://connect.linaro.org/resource/bud17/bud17-121/)
 
 
-
 * * *
-
-
 
 **Session Name:** BUD17-201 – ARM Server Standards: The Next Generation – BUD17-201
 
