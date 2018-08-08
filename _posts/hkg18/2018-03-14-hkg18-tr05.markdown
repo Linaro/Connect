@@ -1,6 +1,4 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg-18tr05.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg-18tr05.mp4
 author: connect
 categories:
 - hkg18
@@ -20,7 +18,7 @@ session_id: HKG-18TR05
 session_track: LEG HPC
 slug: hkg-18tr05
 speakers: Steve McIntyre
-title: HKG-18TR05 - LAVA Users Forum
+title: HKG18-TR05 - LAVA Users Forum
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 8684
