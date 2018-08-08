@@ -22,9 +22,11 @@ $(window).on("load", function () {
         $("#youtube-iframe").attr("src", embedUrl);
 
         $("#youtube-iframe").on("load", function () {
+            $("#video-embed").removeClass("hidden-iframe");
             $(this).removeClass("hidden-iframe");
             $("#video-skeleton").hide();
             $(this).addClass("visible-iframe");
+            $("#video-embed").addClass("visible-iframe");
         });
     }
     // Presentation Lazy load
@@ -35,9 +37,11 @@ $(window).on("load", function () {
         $("#presentation-iframe").attr("src", url);
 
         $("#presentation-iframe").on("load", function () {
+            $("#presentation-embed").removeClass("hidden-iframe");
             $(this).removeClass("hidden-iframe");
             $("#presentation-skeleton").hide();
             $(this).addClass("visible-iframe");
+            $("#presentation-embed").addClass("visible-iframe");
         });
     }
 });
