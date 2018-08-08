@@ -42,7 +42,7 @@ The second keynote of the morning was by David Abdurachmanov, who is part of Co
 
 Linaro Connects are about collaboration and learning but they are also about socializing. In addition to the traditional breaks in the day and informal hacking sessions held each day there are also many evening events that allow attendees to network with their peers and get to know the other attendees as well as experience some of the local culture.  On Tuesday evening there was an event at the Opera Cafe in Budapest where attendees were treated to a great performance.
 
-Below is a list of the keynotes and sessions that took place on Wednesday along with links to the materials that are available. Keep checking back to the Linaro Connect resources page as we will continue to update it as more materials become available: [http://connect.linaro.org/resources/](http://connect.linaro.org/resources/)
+Below is a list of the keynotes and sessions that took place on Wednesday along with links to the materials that are available. Keep checking back to the Linaro Connect resources page as we will continue to update it as more materials become available: [http://connect.linaro.org/resources/](/resources/)
 
 <table >
 <tbody >
@@ -85,7 +85,7 @@ Björn Ekelund
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-300k1/)
+[View Resources](/resources/bud17/bud17-300k1/)
 </td>
 </tr>
 <tr >
@@ -103,7 +103,7 @@ Jakob Blomer, David Abdurachmanov
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-300k2/)
+[View Resources](/resources/bud17/bud17-300k2/)
 </td>
 </tr>
 <tr >
@@ -121,7 +121,7 @@ LNG
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-300/)
+[View Resources](/resources/bud17/bud17-300/)
 </td>
 </tr>
 <tr >
@@ -139,7 +139,7 @@ Virtualization
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-301/)
+[View Resources](/resources/bud17/bud17-301/)
 </td>
 </tr>
 <tr >
@@ -157,7 +157,7 @@ Toolchain
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-302/)
+[View Resources](/resources/bud17/bud17-302/)
 </td>
 </tr>
 <tr >
@@ -175,7 +175,7 @@ LITE
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-303/)
+[View Resources](/resources/bud17/bud17-303/)
 </td>
 </tr>
 <tr >
@@ -193,7 +193,7 @@ LNG
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-304/)
+[View Resources](/resources/bud17/bud17-304/)
 </td>
 </tr>
 <tr >
@@ -211,7 +211,7 @@ Kernel
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-305/)
+[View Resources](/resources/bud17/bud17-305/)
 </td>
 </tr>
 <tr >
@@ -230,7 +230,7 @@ Nikhil Agarwal, Bogdan Pricope, Petri Savolainen
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-306/)
+[View Resources](/resources/bud17/bud17-306/)
 </td>
 </tr>
 <tr >
@@ -248,7 +248,7 @@ Power Management
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-307/)
+[View Resources](/resources/bud17/bud17-307/)
 </td>
 </tr>
 <tr >
@@ -266,7 +266,7 @@ Power Management
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-309/)
+[View Resources](/resources/bud17/bud17-309/)
 </td>
 </tr>
 <tr >
@@ -284,7 +284,7 @@ Toolchain
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-310/)
+[View Resources](/resources/bud17/bud17-310/)
 </td>
 </tr>
 <tr >
@@ -302,7 +302,7 @@ LEG
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-311/)
+[View Resources](/resources/bud17/bud17-311/)
 </td>
 </tr>
 <tr >
@@ -320,7 +320,7 @@ LNG
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-312/)
+[View Resources](/resources/bud17/bud17-312/)
 </td>
 </tr>
 <tr >
@@ -338,7 +338,7 @@ Security
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-313/)
+[View Resources](/resources/bud17/bud17-313/)
 </td>
 </tr>
 <tr >
@@ -356,7 +356,7 @@ LTD
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-315/)
+[View Resources](/resources/bud17/bud17-315/)
 </td>
 </tr>
 <tr >
@@ -374,7 +374,7 @@ LAVA
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-317/)
+[View Resources](/resources/bud17/bud17-317/)
 </td>
 </tr>
 <tr >
@@ -392,7 +392,7 @@ Toolchain
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-318/)
+[View Resources](/resources/bud17/bud17-318/)
 </td>
 </tr>
 <tr >
@@ -410,7 +410,7 @@ LNG
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-320/)
+[View Resources](/resources/bud17/bud17-320/)
 </td>
 </tr>
 <tr >
@@ -428,7 +428,7 @@ LEG
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-323/)
+[View Resources](/resources/bud17/bud17-323/)
 </td>
 </tr>
 <tr >
@@ -446,7 +446,7 @@ Serge De-Paoli
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-324/)
+[View Resources](/resources/bud17/bud17-324/)
 </td>
 </tr>
 <tr >
@@ -464,7 +464,7 @@ BUD17-TR04: Kernel Debug Stories
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-tr04/)
+[View Resources](/resources/bud17/bud17-tr04/)
 </td>
 </tr>
 <tr >
@@ -482,7 +482,7 @@ Andrea Gallo
 </td>
 
 <td markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-321/)
+[View Resources](/resources/bud17/bud17-321/)
 </td>
 </tr>
 </tbody>

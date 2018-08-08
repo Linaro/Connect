@@ -50,10 +50,10 @@ Hardware and software will never stop evolving, yet many still choose to push ou
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-506
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-506/](http://connect.linaro.org/resource/las16/las16-506/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-506/](/resources/las16/las16-506/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

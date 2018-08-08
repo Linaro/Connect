@@ -43,9 +43,9 @@ Since the presentation back in 2015 (SFO15), there has been functionality added,
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-504
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-504/](http://connect.linaro.org/resource/las16/las16-504/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-504/](/resources/las16/las16-504/)
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

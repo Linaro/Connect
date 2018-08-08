@@ -38,10 +38,10 @@ George Grey, CEO of Linaro will welcome attendees to the conference and give an 
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-100k1
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-100k1/](http://connect.linaro.org/resource/las16/las16-100k1/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-100k1/](/resources/las16/las16-100k1/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

@@ -55,10 +55,10 @@ For connected embedded systems we can broadly consider security across four diff
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-308
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-308/](http://connect.linaro.org/resource/las16/las16-308/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-308/](/resources/las16/las16-308/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

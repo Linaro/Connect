@@ -40,10 +40,10 @@ FLOSS - Free / Libre Open Source Software What _is_ “the community”? What do
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-tr01
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-tr01/](http://connect.linaro.org/resource/las16/las16-tr01/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-tr01/](/resources/las16/las16-tr01/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

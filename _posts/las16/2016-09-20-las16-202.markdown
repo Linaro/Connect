@@ -38,10 +38,10 @@ Review of the direction the Reference Software Platform is taking for each of th
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-202
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-202/](http://connect.linaro.org/resource/las16/las16-202/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-202/](/resources/las16/las16-202/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

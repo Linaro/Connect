@@ -75,6 +75,6 @@ Finally at the traditional Linaro Connect Demo­ Friday, Linaro Security Group t
 
 Those attending Linaro Connect are welcome to come to any and all of the sessions on Security. To see the entire schedule of sessions taking place during the week please [click here](https://eu.eventscloud.com/ehome/bud17/200391688/). 
 
-If you are not able to attend you can visit the Linaro Connect resources page after the event to view recorded sessions and get access to select materials - [http://connect.linaro.org/resources/](http://connect.linaro.org/resources/). 
+If you are not able to attend you can visit the Linaro Connect resources page after the event to view recorded sessions and get access to select materials - [http://connect.linaro.org/resources/](/resources/). 
 
 To learn more about the Linaro Security team:  [https://www.linaro.org/core/security/](https://www.linaro.org/core/security/)

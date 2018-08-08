@@ -45,10 +45,10 @@ Deep dive into LLVM internals, middle/back-ends, libraries, sanitizers, linker, 
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-501
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-501/](http://connect.linaro.org/resource/las16/las16-501/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-501/](/resources/las16/las16-501/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

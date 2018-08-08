@@ -41,10 +41,10 @@ The session would briefly provide updates on migration of builds from android-bu
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-110
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-110/](http://connect.linaro.org/resource/las16/las16-110/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-110/](/resources/las16/las16-110/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

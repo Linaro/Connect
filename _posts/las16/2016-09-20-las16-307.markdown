@@ -46,10 +46,10 @@ Being able to see the performance and power impacts of changes in a real world e
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-307
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-307/](http://connect.linaro.org/resource/las16/las16-307/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-307/](/resources/las16/las16-307/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

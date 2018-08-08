@@ -46,10 +46,10 @@ You may think OpenDataPlane and DPDK are somewhat equivalent. But they are not. 
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-405
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-405/](http://connect.linaro.org/resource/las16/las16-405/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-405/](/resources/las16/las16-405/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

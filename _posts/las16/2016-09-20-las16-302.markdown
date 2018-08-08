@@ -45,10 +45,10 @@ This presentation will give an overview of the suite of reference security solut
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-302
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-302/](http://connect.linaro.org/resource/las16/las16-302/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-302/](/resources/las16/las16-302/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

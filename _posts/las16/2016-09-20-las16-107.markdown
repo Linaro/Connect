@@ -40,10 +40,10 @@ Feedback and support for and by users of LAVA.
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-107
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-107/](http://connect.linaro.org/resource/las16/las16-107/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-107/](/resources/las16/las16-107/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

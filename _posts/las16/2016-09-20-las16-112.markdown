@@ -49,10 +49,10 @@ specifically for the “things” in the Internet of Things. It includes all the
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-112
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-112/](http://connect.linaro.org/resource/las16/las16-112/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-112/](/resources/las16/las16-112/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

@@ -56,7 +56,7 @@ Linaro Connect San Francisco 2015 - #SFO15
 September 21-25, 2015
 Hyatt Regency Hotel
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)
 
 Track: Kernel Power Management
 Keywords: Kernel Power Management

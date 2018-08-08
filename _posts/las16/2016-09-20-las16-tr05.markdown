@@ -44,10 +44,10 @@ Tutorial material to support getting started/evaluating LAVA v2. An end-to-end t
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-tr05
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-tr05/](http://connect.linaro.org/resource/las16/las16-tr05/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-tr05/](/resources/las16/las16-tr05/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

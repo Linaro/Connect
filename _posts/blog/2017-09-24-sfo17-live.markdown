@@ -25,7 +25,7 @@ wordpress_id: 6430
 youtube_video_url: None
 ---
 
-Attracting 400+ attendees, [Linaro Connect](http://connect.linaro.org/) is a bi-annual event which brings together engineers and industry experts to discuss, learn, network and push forward new technologies for five days in some of the most interesting cities around the world. For the past five years, Linaro Connect has been the event to attend if you are interested in Linux development and related ecosystems on ARM. While the event continues to evolve, one thing stays the same – it is all about Engineering.
+Attracting 400+ attendees, [Linaro Connect](/) is a bi-annual event which brings together engineers and industry experts to discuss, learn, network and push forward new technologies for five days in some of the most interesting cities around the world. For the past five years, Linaro Connect has been the event to attend if you are interested in Linux development and related ecosystems on ARM. While the event continues to evolve, one thing stays the same – it is all about Engineering.
 
 {% include media.html media_url="https://youtu.be/4Iw50ZApbsI" %}
 

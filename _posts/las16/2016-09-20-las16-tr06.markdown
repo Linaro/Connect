@@ -44,9 +44,9 @@ Today the remoteproc & rpmsg code available in mainline serves as a base for num
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-tr06
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-tr06/](http://connect.linaro.org/resource/las16/las16-tr06/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-tr06/](/resources/las16/las16-tr06/)
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)
