@@ -29,7 +29,7 @@ css-package: resources-blog
                     <div class="col-xs-12 no-padding">
                         <div class="col-sm-6 no-padding">
                             <div class="video">
-                                {% if page.youtube_video_url %}
+                                {% if page.youtube_video_url and page.youtube_video_url != "None" %}
                                     <div id="video-holder">
                                         <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{% asset_path 'video-placeholder-image.jpg' %}" />
                                         <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="video-embed">
@@ -55,7 +55,7 @@ css-package: resources-blog
                         </div>
                         <div class="col-sm-6 no-padding">
                             <div class="presentation">
-                                {% if page.slideshare_embed_url %}
+                                {% if page.slideshare_embed_url and page.slideshare_embed_url != "None" %}
                                 <div id="presentation-holder">
                                     <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
                                     data-src="{% asset_path 'presentation-placeholder.svg' %}"
