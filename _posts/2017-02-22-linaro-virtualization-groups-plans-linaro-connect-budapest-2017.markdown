@@ -18,7 +18,7 @@ image:
   featured: true
   name: LinaroVirtualizationGroupsPlansforLinaroConnectBudapest2017.png
   path: /assets/images/featured-images/LinaroVirtualizationGroupsPlansforLinaroConnectBudapest2017.png
-layout: resource-post
+layout: post
 link: http://connect.linaro.org/blog/linaro-virtualization-groups-plans-linaro-connect-budapest-2017/
 session_id: None
 session_track: None

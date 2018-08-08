@@ -593,9 +593,7 @@ div#intro-row {
     padding-bottom: 100px;
     padding-top: 20px;
 }
-
 //Speakers Section
-
 .img-responsive.speaker-image {
     height: 200px;
     width: 200px;
@@ -603,6 +601,7 @@ div#intro-row {
     background-position:  center center;
     background-size:  cover;
     background-repeat:  no-repeat;
+    border: 1px solid #eaeaea;
 }
 .speaker-block {
     text-align: center;
@@ -642,4 +641,7 @@ span.keynote_time {
 }
 .owl-nav {
     text-align: center;
+}
+span.keynote_title {
+    height: 130px;
 }

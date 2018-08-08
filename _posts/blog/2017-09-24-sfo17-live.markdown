@@ -11,7 +11,7 @@ image:
   featured: true
   name: SFO17StreamingLinks.jpg
   path: /assets/images/featured-images/SFO17StreamingLinks.jpg
-layout: resource-post
+layout: post
 link: http://connect.linaro.org/blog/sfo17-live/
 session_id: None
 session_track: None
@@ -27,13 +27,16 @@ youtube_video_url: None
 
 Attracting 400+ attendees, [Linaro Connect](http://connect.linaro.org/) is a bi-annual event which brings together engineers and industry experts to discuss, learn, network and push forward new technologies for five days in some of the most interesting cities around the world. For the past five years, Linaro Connect has been the event to attend if you are interested in Linux development and related ecosystems on ARM. While the event continues to evolve, one thing stays the same – it is all about Engineering.
 
-https://youtu.be/4Iw50ZApbsI
+{% include media.html media_url="https://youtu.be/4Iw50ZApbsI" %}
+
 The upcoming Linaro Connect will take place at the **Hyatt Regency San Francisco Airport** in Burlingame, CA starting Monday 25 September 2017 and finish Friday 29 September 2017.
 
 Keynotes will be live streamed on [YouTube](http://linaro.co/youtube) (Subscribe) and presentations on [Slideshare](https://www.slideshare.net/linaroorg/).
 * Click on the videos below and to reminder
 
-https://www.youtube.com/watch?v=oDruIOdG0YM
+
+{% include media.html media_url="https://www.youtube.com/watch?v=oDruIOdG0YM" %}
+
 
 Monday 25 September - 08:45 - 09:45 PDT
 **Welcome to Linaro Connect San Francisco 2017** - Keynote by George Grey, Linaro CEO
@@ -43,8 +46,8 @@ Monday 25 September - 08:45 - 09:45 PDT
 * * *
 
 
+{% include media.html media_url="https://youtu.be/cTCIkpRpuA0" %}
 
-https://youtu.be/cTCIkpRpuA0
 
 Tuesday 26 September - 8:45 am - 9:45 am PDT
 **High-Performance Computing: Where is it going?** - Kanta Vekaria, Linaro Technology Strategist
@@ -55,8 +58,8 @@ Tuesday 26 September - 8:45 am - 9:45 am PDT
 * * *
 
 
+{% include media.html media_url="https://youtu.be/RT_iwqbYcR0" %}
 
-https://youtu.be/RT_iwqbYcR0
 
 Wednesday 27 September - 08:30 - 09:55 PDT
 The Intelligent, Connected Future - Matt Grob, former CTO and current EVP of Qualcomm
@@ -68,7 +71,8 @@ Open Source License Enforcement: to sue or not to sue - Heather Meeker: software
 
 
 
-https://youtu.be/_BLHJBkSsfI
+{% include media.html media_url="https://youtu.be/_BLHJBkSsfI" %}
+
 
 Thursday 28 September - 08:45 - 09:45
 **Treble Project Update** - Iliyan Malchev, Google Senior Software Engineer
@@ -80,7 +84,10 @@ Thursday 28 September - 08:45 - 09:45
 
 
 
-https://youtu.be/JJhwAWXSXVQ
+
+
+{% include media.html media_url="https://youtu.be/JJhwAWXSXVQ" %}
+
 
 **Arm Data Centre Day**
 How does the Arm-Powered data center of the future look and how can you prepare for it? Linaro Connect SFO17 will bring together the leading Arm vendors, end users and the open source development community in Burlingame, California, to discuss the latest products, developments and open source software support.Friday 29 September - 08:45 - 09:45 PDT
@@ -89,10 +96,6 @@ How does the Arm-Powered data center of the future look and how can you prepare 
 
 
 * * *
-
-
-
-https://youtu.be/JJhwAWXSXVQ
 
 **Watch 96Boards OpenHours Live from San Francisco**
 Participate in the ultimate community-driven experience. Bring your coffee and questions, demos and feedback, together we can make a difference for everyone! Based in San Francisco? Come in person
@@ -103,8 +106,8 @@ Participate in the ultimate community-driven experience. Bring your coffee and q
 * * *
 
 
+{% include media.html media_url="https://youtu.be/dZjPwSNc5A0" %}
 
-https://youtu.be/dZjPwSNc5A0
 
 **Swarms 2.0 – The Living Network of Everyone and Everything** - Jan M. Rabaey
 **Panel: 7 Years of Linaro** - David Rusling (Chair)
@@ -112,7 +115,6 @@ https://youtu.be/dZjPwSNc5A0
 
 
 * * *
-
 
 
 Click here for [full schedule](https://eu.eventscloud.com/ehome/200171724). Subscribe to [Linaro's Youtube](http://linaro.co/youtube)
