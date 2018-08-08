@@ -104,8 +104,10 @@ span.track:hover {
     padding: 10px;
     margin-bottom: 31px;
     margin-top: -25px;
+    height: 58px;
     border-top: 1px solid #4e4e4e;
     background-color: #333333;
+    position: relative;
 }
 
 #wrapper a.btn.btn-primary.s3-download {

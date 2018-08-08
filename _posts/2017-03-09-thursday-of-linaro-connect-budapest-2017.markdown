@@ -36,7 +36,7 @@ Thursday of Linaro Connect Budapest 2017 (BUD17) began with a keynote by Max Wan
 
 {% include media.html media_url="https://www.youtube.com/watch?v=aJ3KKyKeZUc" %}
 
-Thursday's themes were LHG and Digital Home. Below is a list of the sessions that took place on Tuesday.  Many have the supporting presentations and videos, however keep checking back to the [BUD17 resources page ](http://connect.linaro.org/resources/)as we will continue to update it throughout the week as more items become available.
+Thursday's themes were LHG and Digital Home. Below is a list of the sessions that took place on Tuesday.  Many have the supporting presentations and videos, however keep checking back to the [BUD17 resources page ](/resources/)as we will continue to update it throughout the week as more items become available.
 
 <table cellpadding="0" cellspacing="0" border="1" dir="ltr" markdown="1">
 
@@ -73,7 +73,7 @@ Max Wang
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[17]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-400k1/)
+[View Resources](/resources/bud17/bud17-400k1/)
 </td>
 </tr>
 <tr >
@@ -91,7 +91,7 @@ LHG
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[18]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-400/)
+[View Resources](/resources/bud17/bud17-400/)
 </td>
 </tr>
 <tr >
@@ -109,7 +109,7 @@ LEG
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[18]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-401/)
+[View Resources](/resources/bud17/bud17-401/)
 </td>
 </tr>
 <tr >
@@ -127,7 +127,7 @@ Virtualization
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[18]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-402/)
+[View Resources](/resources/bud17/bud17-402/)
 </td>
 </tr>
 <tr >
@@ -145,7 +145,7 @@ LEG
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[18]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-403/)
+[View Resources](/resources/bud17/bud17-403/)
 </td>
 </tr>
 <tr >
@@ -163,7 +163,7 @@ LHG
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[18]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-404/)
+[View Resources](/resources/bud17/bud17-404/)
 </td>
 </tr>
 <tr >
@@ -181,7 +181,7 @@ LTD
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[18]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-405/)
+[View Resources](/resources/bud17/bud17-405/)
 </td>
 </tr>
 <tr >
@@ -199,7 +199,7 @@ Toolchain
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[18]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-406/)
+[View Resources](/resources/bud17/bud17-406/)
 </td>
 </tr>
 <tr >
@@ -217,7 +217,7 @@ LHG
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[19]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-408/)
+[View Resources](/resources/bud17/bud17-408/)
 </td>
 </tr>
 <tr >
@@ -235,7 +235,7 @@ LHG
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[22]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-412/)
+[View Resources](/resources/bud17/bud17-412/)
 </td>
 </tr>
 <tr >
@@ -253,7 +253,7 @@ Leif Lindholm
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[22]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-413/)
+[View Resources](/resources/bud17/bud17-413/)
 </td>
 </tr>
 <tr >
@@ -271,7 +271,7 @@ LMG
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[22]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-414/)
+[View Resources](/resources/bud17/bud17-414/)
 </td>
 </tr>
 <tr >
@@ -289,7 +289,7 @@ Security
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[22]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-416/)
+[View Resources](/resources/bud17/bud17-416/)
 </td>
 </tr>
 <tr >
@@ -307,7 +307,7 @@ LEG
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[22]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-417/)
+[View Resources](/resources/bud17/bud17-417/)
 </td>
 </tr>
 <tr >
@@ -325,7 +325,7 @@ LMG
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[22]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-419/)
+[View Resources](/resources/bud17/bud17-419/)
 </td>
 </tr>
 <tr >
@@ -343,7 +343,7 @@ Robert Wolff, Mike Levine
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[24]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-423/)
+[View Resources](/resources/bud17/bud17-423/)
 </td>
 </tr>
 <tr >
@@ -361,7 +361,7 @@ Robert Wolff
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[24]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-424/)
+[View Resources](/resources/bud17/bud17-424/)
 </td>
 </tr>
 <tr >
@@ -379,7 +379,7 @@ Robert Wolff
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[24]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-425/)
+[View Resources](/resources/bud17/bud17-425/)
 </td>
 </tr>
 <tr >
@@ -397,7 +397,7 @@ BUD17-TR07: Kernel Debug Stories (in Mandarin) – BUD17-TR07
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[24]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-tr07/)
+[View Resources](/resources/bud17/bud17-tr07/)
 </td>
 </tr>
 <tr >
@@ -415,7 +415,7 @@ Oliver (Ogra) Grawert
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[24]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-426/)
+[View Resources](/resources/bud17/bud17-426/)
 </td>
 </tr>
 <tr >
@@ -433,7 +433,7 @@ David Rusling, Mark Hambleton
 </td>
 
 <td data-sheets-value="{"1":2,"2":"View Resources"}" data-sheets-formula="=HYPERLINK(SessionTracker!R[25]C[11], "View Resources")" markdown="1">
-[View Resources](http://connect.linaro.org/resource/bud17/bud17-426/)
+[View Resources](/resources/bud17/bud17-426/)
 </td>
 </tr>
 </tbody>

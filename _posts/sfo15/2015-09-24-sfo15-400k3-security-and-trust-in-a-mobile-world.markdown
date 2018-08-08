@@ -1,5 +1,5 @@
 ---
-amazon_s3_video_url: 10/8/2015
+amazon_s3_video_url: None
 author: connect
 categories:
 - sfo15

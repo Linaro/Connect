@@ -44,10 +44,10 @@ Overview of small-size/low-resource VHLL (very high-level languages)/scripting l
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-108
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-108/](http://connect.linaro.org/resource/las16/las16-108/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-108/](/resources/las16/las16-108/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

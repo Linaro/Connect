@@ -45,10 +45,10 @@ This is a discussion on various methods put forward to reduce the size of Linux 
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-407
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-407/](http://connect.linaro.org/resource/las16/las16-407/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-407/](/resources/las16/las16-407/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

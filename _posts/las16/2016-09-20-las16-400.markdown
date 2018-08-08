@@ -83,10 +83,10 @@ One build for many devices: device/build configuration. Next features and platfo
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-400
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-400/](http://connect.linaro.org/resource/las16/las16-400/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-400/](/resources/las16/las16-400/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

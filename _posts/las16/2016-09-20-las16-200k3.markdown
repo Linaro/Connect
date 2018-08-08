@@ -41,9 +41,9 @@ Stephane Le Provost will introduce MediaTek’s new X20 Board.
 Watch the video:  https://www.youtube.com/watch?v=97VfcbTi05c
 Etherpad: pad.linaro.org/p/las16-200k3
 Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-200k3/
-](http://connect.linaro.org/resource/las16/las16-200k3/)
+](/resources/las16/las16-200k3/)
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)
