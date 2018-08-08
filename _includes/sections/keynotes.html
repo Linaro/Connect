@@ -15,17 +15,12 @@
                         <h3 class="speaker-name">
                             {{keynote.name}}
                         </h3>
-                         {% if keynote.title %}<span class="keynote_title">{{keynote.title}}</span>{% endif %}
                         <span class="keynote_time"><strong>{{keynote.day}}:</strong> {{keynote.start_time}} - {{keynote.end_time}}</span>
-                        <a href="https://www.google.com/calendar/render?action=TEMPLATE
-                        &text={{keynote.title | replace: " ", "+"}}
-                        &dates={{keynote.date | date: "%Y%m%d"}}TH{{keynote.start_time | replace: ":", ""}}00Z/{{keynote.date | date: "%Y%m%d"}}\\TH{{keynote.end_time
-                        | replace: ":", ""}}00Z
-                        &details=For+details,+link+here:+http://www.example.com
-                        &location=Waldorf+Astoria,+301+Park+Ave+,+New+York,+NY+10022
-                        &sf=true&output=xml
-                        &text={{keynote.title | replace: " ", "+"}}
-                        &ctz=America/Vancouver" target="_blank" rel="nofollow"><i class="glyphicon glyphicon-calendar"></i></a>
+                         {% if keynote.title %}
+                            <span class="keynote_title">{{keynote.title}}</span>
+                        {% else %}
+                            <span class="keynote_title"></span>
+                        {% endif %}
                     </div>
                 </div>
             {% endfor %}
