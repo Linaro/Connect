@@ -10,7 +10,7 @@ image:
   featured: true
   name: HKG15.jpg
   path: /assets/images/featured-images/HKG15.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-cross-distribution-collaboration/
 post_format:
 - Video

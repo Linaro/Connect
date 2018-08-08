@@ -12,12 +12,13 @@ image:
   featured: true
   name: BUD17-100K1.png
   path: /assets/images/featured-images/BUD17-100K1.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-100k1/
 post_format:
 - Video
 session_id: BUD17-100K1
 session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72853814
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/george-grey-welcome-keynote-bud17100k1
 slug: bud17-100k1
 speakers: None

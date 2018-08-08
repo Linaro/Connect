@@ -19,12 +19,13 @@ image:
   featured: true
   name: BUD17-112.jpg
   path: /assets/images/featured-images/BUD17-112.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-112/
 post_format:
 - Video
 session_id: BUD17-112
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72785787
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17112-porting-the-ti-simplelink-cc32xx-wifi-stack-to-the-zephyr-iot-os
 slug: bud17-112
 speakers: Gil Pitney

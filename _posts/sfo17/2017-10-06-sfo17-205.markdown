@@ -14,12 +14,13 @@ image:
   featured: true
   name: SFO17-205.jpg
   path: /assets/images/featured-images/SFO17-205.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-205/
 post_format:
 - Video
 session_id: SFO17-205
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80708018
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/lmg-lightning-talks-sfo17205
 slug: sfo17-205
 speakers: "Sam Protsenko - Amit Pundir - Bero Rosenkr\xE4nzer"

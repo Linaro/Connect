@@ -16,12 +16,13 @@ image:
   featured: true
   name: SFO15207Storageandfilesystemoptimizations.jpg
   path: /assets/images/featured-images/SFO15207Storageandfilesystemoptimizations.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-207-storage-and-filesystem-optimizations/
 post_format:
 - Video
 session_id: None
 session_track: Enterprise Server
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53754748
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15207-storage-and-filesystem-optimizations
 slug: sfo15-207-storage-and-filesystem-optimizations
 speakers: Steve Capper, Yazen Ghannam

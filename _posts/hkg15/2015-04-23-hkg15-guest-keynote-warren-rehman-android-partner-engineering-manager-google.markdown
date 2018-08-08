@@ -9,7 +9,7 @@ image:
   featured: true
   name: HKG15-400K1.jpg
   path: /assets/images/featured-images/HKG15-400K1.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-guest-keynote-warren-rehman-android-partner-engineering-manager-google/
 post_format:
 - Video

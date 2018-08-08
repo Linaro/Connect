@@ -13,12 +13,13 @@ image:
   featured: true
   name: HKG15-103.jpg
   path: /assets/images/featured-images/HKG15-103.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-103-openembedded-bof/
 post_format:
 - Video
 session_id: HKG15-103
 session_track: Builds & Baselines
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44403639
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15-103-open-embedded-bof
 slug: hkg15-103-openembedded-bof
 speakers: Trevor Woerner

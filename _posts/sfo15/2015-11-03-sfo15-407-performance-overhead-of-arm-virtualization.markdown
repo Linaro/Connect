@@ -12,12 +12,13 @@ image:
   featured: true
   name: SFO15-407.jpg
   path: /assets/images/featured-images/SFO15-407.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-407-performance-overhead-of-arm-virtualization/
 post_format:
 - Video
 session_id: SFO15-407
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53570285
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15407-performance-overhead-of-arm-virtualization
 slug: sfo15-407-performance-overhead-of-arm-virtualization
 speakers: Christoffer Dall

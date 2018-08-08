@@ -7,7 +7,7 @@ excerpt: Secure data path for media streams involve lots of differents software 
   hardware elements and is very complexe. The goal of this talk is to expose an hardware
   independent proposition using open-TEE and dmabuf. Feedback from all SoC experts
   is more than welcome.
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-304/
 session_id: HKG15-304
 session_track: Graphics, Mobile

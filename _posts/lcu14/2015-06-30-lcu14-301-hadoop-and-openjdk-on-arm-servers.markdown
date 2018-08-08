@@ -12,12 +12,13 @@ image:
   featured: true
   name: LCU14-301.jpg
   path: /assets/images/featured-images/LCU14-301.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-301-hadoop-and-openjdk-on-arm-servers/
 post_format:
 - Video
 session_id: LCU14-301
 session_track: Enterprise Servers
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39257409
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-301-hadoop-and-open-jdk-on-arm-servers
 slug: lcu14-301-hadoop-and-openjdk-on-arm-servers
 speakers: Ed Nevill

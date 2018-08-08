@@ -24,12 +24,13 @@ image:
   featured: true
   name: HKG15-104.jpg
   path: /assets/images/featured-images/HKG15-104.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-104-core-development-lightning-talks-kernel-power-management-security-and-virtualization/
 post_format:
 - Video
 session_id: HKG15-104
 session_track: Kernel
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44403726
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15104-what-is-linaro-working-on-core-development-lightning-talks
 slug: hkg15-104-core-development-lightning-talks-kernel-power-management-security-and-virtualization
 speakers: Agust

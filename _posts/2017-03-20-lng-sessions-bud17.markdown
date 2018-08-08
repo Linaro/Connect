@@ -7,7 +7,7 @@ date: 2017-03-20 15:10:42+00:00
 excerpt: Compression support in OpenDataPlane (ODP), PCI-e EndPoint mode of operation
   in OpenDataPlane (ODP), High performance software packet scheduler, Journey of a
   packet, ODP IPsec offload panel, High resolution data plane timers
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/blog/lng-sessions-bud17/
 session_id: None
 session_track: None

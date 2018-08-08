@@ -19,12 +19,13 @@ image:
   featured: true
   name: BUD17-105.jpg
   path: /assets/images/featured-images/BUD17-105.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-105/
 post_format:
 - Video
 session_id: BUD17-105
 session_track: LTD
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72785749
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17105-kernelciorg-the-road-to-lava-v2
 slug: bud17-105
 speakers: Tyler Baker, Matt Hart, Mark Brown

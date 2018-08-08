@@ -40,12 +40,13 @@ image:
   featured: true
   name: SFO17-304.jpg
   path: /assets/images/featured-images/SFO17-304.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-304/
 post_format:
 - Video
 session_id: SFO17-304
 session_track: LHG,LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/83555369
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/sfo17-304-demystifying-ro-tfinallc-83555369
 slug: sfo17-304
 speakers: Suresh Marisetty

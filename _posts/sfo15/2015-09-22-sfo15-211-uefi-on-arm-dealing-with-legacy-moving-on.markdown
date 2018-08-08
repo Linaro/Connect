@@ -19,12 +19,13 @@ image:
   featured: true
   name: SFO15211UEFIonARMDealingwithlegacymovingon.jpg
   path: /assets/images/featured-images/SFO15211UEFIonARMDealingwithlegacymovingon.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-211-uefi-on-arm-dealing-with-legacy-moving-on/
 post_format:
 - Video
 session_id: None
 session_track: Enterprise Server
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53756300
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15211-uefi-on-arm-dealing-with-legacy-moving-on
 slug: sfo15-211-uefi-on-arm-dealing-with-legacy-moving-on
 speakers: Leif Lindholm

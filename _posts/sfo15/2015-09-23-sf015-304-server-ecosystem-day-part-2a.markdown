@@ -11,7 +11,7 @@ image:
   featured: true
   name: SF015304ServerEcosystemDayPart2a.jpg
   path: /assets/images/featured-images/SF015304ServerEcosystemDayPart2a.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sf015-304-server-ecosystem-day-part-2a/
 post_format:
 - Video

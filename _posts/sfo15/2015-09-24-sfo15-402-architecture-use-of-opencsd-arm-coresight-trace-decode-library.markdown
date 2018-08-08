@@ -19,12 +19,13 @@ image:
   featured: true
   name: SFO15402ArchitectureUseofopenCSDARMCoreSightTracedecodelibrary.jpg
   path: /assets/images/featured-images/SFO15402ArchitectureUseofopenCSDARMCoreSightTracedecodelibrary.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-402-architecture-use-of-opencsd-arm-coresight-trace-decode-library/
 post_format:
 - Video
 session_id: None
 session_track: Tools
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53032079
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15402-architecture-use-of-opencsd-arm-coresight-trace-decode-library
 slug: sfo15-402-architecture-use-of-opencsd-arm-coresight-trace-decode-library
 speakers: Tor Jeremiassen, Mike Leach

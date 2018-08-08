@@ -14,10 +14,11 @@ image:
   featured: true
   name: LCU14-511.jpg
   path: /assets/images/featured-images/LCU14-511.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-511-lsk-overview-and-status-update/
 session_id: LCU14-511
 session_track: LSK
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38953347
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-511-lsk-update-and-overview
 slug: lcu14-511-lsk-overview-and-status-update
 speakers: Mark Brown

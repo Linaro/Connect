@@ -11,10 +11,11 @@ image:
   featured: true
   name: LCU14-500.jpg
   path: /assets/images/featured-images/LCU14-500.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-500-arm-trusted-firmware-roadmap-and-progress/
 session_id: LCU14-500
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39295203
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-500-arm-trusted-firmware
 slug: lcu14-500-arm-trusted-firmware-roadmap-and-progress
 speakers: Andrew Thoelke

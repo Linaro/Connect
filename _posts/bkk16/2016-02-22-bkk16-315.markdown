@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-315.pdf
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:48
 featured_image_name: BKK16-315.jpg
@@ -9,7 +9,7 @@ image:
   featured: true
   name: BKK16-315.jpg
   path: /assets/images/featured-images/BKK16-315.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-315/
 post_format:
 - Video
@@ -17,6 +17,7 @@ session_id: BKK16-315
 session_track: 'Field Engineering /
 
   Premium Services'
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59351137
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16315-graphics-stack-update
 slug: bkk16-315
 speakers: Jammy Zhou

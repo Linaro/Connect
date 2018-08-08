@@ -11,7 +11,7 @@ image:
   featured: true
   name: HKG15-109.jpg
   path: /assets/images/featured-images/HKG15-109.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-109-96boards-software-requirements/
 post_format:
 - Video

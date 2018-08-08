@@ -20,12 +20,13 @@ image:
   featured: true
   name: BUD17-510.jpg
   path: /assets/images/featured-images/BUD17-510.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-510/
 post_format:
 - Video
 session_id: BUD17-510
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72787006
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17510-power-management-in-linux-together-with-secure-firmware
 slug: bud17-510
 speakers: Vincent Guittot, Joakim Bech

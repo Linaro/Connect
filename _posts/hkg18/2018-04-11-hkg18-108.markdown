@@ -13,12 +13,13 @@ excerpt: 'This session introduces deploying OPNFV on Arm with Compass4NFV projec
   and scenarios on Arm servers. Includes: - Introducing OPNFV and Compass4NFV project
   - Adding Arm support to Compass4NFV - Deploying OPNFV on Arm'
 featured_image_name: HKG18-108.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-108/
 post_format:
 - Video
 session_id: HKG18-108
 session_track: Enterprise
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92320835
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18108-deploying-opnfv-on-arm-with-compass4nfv
 slug: hkg18-108
 speakers: Yibo Cai

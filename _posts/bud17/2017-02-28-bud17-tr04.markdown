@@ -16,12 +16,13 @@ image:
   featured: true
   name: BUD17-TR04.jpg
   path: /assets/images/featured-images/BUD17-TR04.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-tr04/
 post_format:
 - Video
 session_id: BUD17-TR04
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786776
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17tr04-kernel-debug-stories
 slug: bud17-tr04
 speakers: None

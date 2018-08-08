@@ -16,12 +16,13 @@ image:
   featured: true
   name: BUD17-DF03.jpg
   path: /assets/images/featured-images/BUD17-DF03.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df03/
 post_format:
 - Video
 session_id: BUD17-DF03
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73368132
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/meanstack-based-sensor-gateway
 slug: bud17-df03
 speakers: None

@@ -18,12 +18,13 @@ image:
   featured: true
   name: SFO1510896BoardsEnterpriseEditionIntroduction.jpg
   path: /assets/images/featured-images/SFO1510896BoardsEnterpriseEditionIntroduction.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-108-96boards-enterprise-edition-introduction/
 post_format:
 - Video
 session_id: None
 session_track: Community
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53569635
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15108-96boards-enterprise-edition-introduction
 slug: sfo15-108-96boards-enterprise-edition-introduction
 tags:

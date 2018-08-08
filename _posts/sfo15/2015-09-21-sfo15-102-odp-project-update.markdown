@@ -17,12 +17,13 @@ image:
   featured: true
   name: SFO15102ODPProjectUpdate.jpg
   path: /assets/images/featured-images/SFO15102ODPProjectUpdate.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-102-odp-project-update/
 post_format:
 - Video
 session_id: None
 session_track: Networking
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52894983
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15102odp-project-update
 slug: sfo15-102-odp-project-update
 speakers: Bill Fischofer

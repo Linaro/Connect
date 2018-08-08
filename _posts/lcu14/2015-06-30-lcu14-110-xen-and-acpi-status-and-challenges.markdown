@@ -21,12 +21,13 @@ image:
   featured: true
   name: LCU14-110.jpg
   path: /assets/images/featured-images/LCU14-110.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-110-xen-and-acpi-status-and-challenges/
 post_format:
 - Video
 session_id: LCU14-110
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38847068
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-110-xen-acpi-status-challenges
 slug: lcu14-110-xen-and-acpi-status-and-challenges
 speakers: Naresh Bhat, Christoffer Dall

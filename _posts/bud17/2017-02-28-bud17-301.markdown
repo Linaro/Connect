@@ -23,12 +23,13 @@ image:
   featured: true
   name: BUD17-301.jpg
   path: /assets/images/featured-images/BUD17-301.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-301/
 post_format:
 - Video
 session_id: BUD17-301
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786421
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17301-zenos-paradox-optimizing-kvmarm
 slug: bud17-301
 speakers: Christoffer Dall

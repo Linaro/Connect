@@ -17,12 +17,13 @@ image:
   featured: true
   name: HKG18-210.png
   path: /assets/images/featured-images/HKG18-210.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-210/
 post_format:
 - Video
 session_id: HKG18-210
 session_track: Mobile
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/91396402
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18210-product-codeline-optimization
 slug: hkg18-210
 speakers: Daniel Lezcano

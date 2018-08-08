@@ -17,12 +17,13 @@ image:
   featured: true
   name: SFO15111OpenEmbeddedBoF.jpg
   path: /assets/images/featured-images/SFO15111OpenEmbeddedBoF.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-111-openembedded-bof/
 post_format:
 - Video
 session_id: None
 session_track: Community
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53569935
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15111-openembedded-bof
 slug: sfo15-111-openembedded-bof
 tags:

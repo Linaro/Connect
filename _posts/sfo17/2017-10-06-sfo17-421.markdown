@@ -12,12 +12,13 @@ image:
   featured: true
   name: SFO17-421.jpg
   path: /assets/images/featured-images/SFO17-421.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-421/
 post_format:
 - Video
 session_id: SFO17-421
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80656611
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/the-linux-kernel-scheduler-for-beginners-sfo17421
 slug: sfo17-421
 speakers: Viresh Kumar

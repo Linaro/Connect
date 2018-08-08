@@ -14,12 +14,13 @@ image:
   featured: true
   name: SFO15-TR1.jpg
   path: /assets/images/featured-images/SFO15-TR1.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr1/
 post_format:
 - Video
 session_id: SFO15-TR1
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53757319
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15tr1-the-philosophy-of-open-source-development
 slug: sfo15-tr1
 speakers: Jorge Ramirez-Ortiz

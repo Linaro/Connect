@@ -11,12 +11,13 @@ image:
   featured: true
   name: LCU14-300a.jpg
   path: /assets/images/featured-images/LCU14-300a.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-leg-keynote-1/
 post_format:
 - Video
 session_id: LCU14-300a
 session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39844906
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/leg-keynotelinda-linaro-keynote6
 slug: lcu14-leg-keynote-1
 speakers: Linda Knippers

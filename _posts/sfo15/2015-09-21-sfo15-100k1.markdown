@@ -13,12 +13,13 @@ image:
   featured: true
   name: SFO15100K1WelcomeKeynoteGeorgeGreyLinaroCEO.jpg
   path: /assets/images/featured-images/SFO15100K1WelcomeKeynoteGeorgeGreyLinaroCEO.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-100k1/
 post_format:
 - Video
 session_id: None
 session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53566535
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15100k1-welcome-keynote-george-grey-linaro-ceo
 slug: sfo15-100k1
 speakers: George Grey

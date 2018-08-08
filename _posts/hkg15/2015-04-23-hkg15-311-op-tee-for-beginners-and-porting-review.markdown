@@ -16,12 +16,13 @@ image:
   featured: true
   name: HKG15-311.jpg
   path: /assets/images/featured-images/HKG15-311.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-311-op-tee-for-beginners-and-porting-review/
 post_format:
 - Video
 session_id: HKG15-311
 session_track: Security, Enterprise Server
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44898792
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15311-optee-for-beginners-and-porting-review
 slug: hkg15-311-op-tee-for-beginners-and-porting-review
 speakers: Victor Chong

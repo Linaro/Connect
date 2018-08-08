@@ -15,12 +15,13 @@ image:
   featured: true
   name: SFO17-203.jpg
   path: /assets/images/featured-images/SFO17-203.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-203/
 post_format:
 - Video
 session_id: SFO17-203
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80657172
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/reliability-availability-and-serviceability-ras-on-arm64-status-sfo17203
 slug: sfo17-203
 speakers: Fu Wei

@@ -11,12 +11,13 @@ image:
   featured: true
   name: HKG15-101.jpg
   path: /assets/images/featured-images/HKG15-101.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-101-programming-for-performance/
 post_format:
 - Video
 session_id: HKG15-101
 session_track: Community
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44886361
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15-101-ar-mv8-optimization
 slug: hkg15-101-programming-for-performance
 speakers: Maddog

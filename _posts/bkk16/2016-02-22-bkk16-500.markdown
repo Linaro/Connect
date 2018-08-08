@@ -2,7 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Friday/BKK16-500.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Friday/BKK16-500%20Dissecting%20the%202M%20SLOC%20QC%20fork.mp4
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:54
 excerpt: What's fundamentally different and requires upstream framework modifications.
@@ -12,12 +12,13 @@ image:
   featured: true
   name: BKK16-500.jpg
   path: /assets/images/featured-images/BKK16-500.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-500/
 post_format:
 - Video
 session_id: BKK16-500
 session_track: QC
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59141003
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16500-dissecting-the-2m-loc-qc-fork
 slug: bkk16-500
 speakers: sboyd@quicinc.com

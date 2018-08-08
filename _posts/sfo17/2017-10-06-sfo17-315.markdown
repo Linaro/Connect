@@ -16,12 +16,13 @@ image:
   featured: true
   name: SFO17-315.jpg
   path: /assets/images/featured-images/SFO17-315.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-315/
 post_format:
 - Video
 session_id: SFO17-315
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79885327
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/complex-testing-in-travis-ci-sfo17315
 slug: sfo17-315
 speakers: Dmitry Eremin-Solenikov - Maxim Uvarov

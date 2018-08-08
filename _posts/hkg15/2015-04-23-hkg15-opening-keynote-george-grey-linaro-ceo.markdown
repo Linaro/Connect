@@ -10,12 +10,13 @@ image:
   featured: true
   name: HKG15-100K1.jpg
   path: /assets/images/featured-images/HKG15-100K1.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-opening-keynote-george-grey-linaro-ceo/
 post_format:
 - Video
 session_id: HKG15-100K1
 session_track: General
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44451942
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15-george-grey-keynote
 slug: hkg15-opening-keynote-george-grey-linaro-ceo
 speakers: George Grey

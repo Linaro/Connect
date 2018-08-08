@@ -16,12 +16,13 @@ image:
   featured: true
   name: BUD17-412.jpg
   path: /assets/images/featured-images/BUD17-412.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-412/
 post_format:
 - Video
 session_id: BUD17-412
 session_track: LHG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786959
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17412-opensdk-oe-builds-on-96boards
 slug: bud17-412
 speakers: Andrey Konovalov

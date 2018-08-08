@@ -18,12 +18,13 @@ image:
   featured: true
   name: SFO17-211.jpg
   path: /assets/images/featured-images/SFO17-211.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-211/
 post_format:
 - Video
 session_id: SFO17-211
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80700706
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/edk2-platform-support-sfo17211
 slug: sfo17-211
 speakers: Leif Lindholm

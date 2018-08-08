@@ -9,7 +9,7 @@ image:
   featured: true
   name: SFO17StreamingLinks.jpg
   path: /assets/images/featured-images/SFO17StreamingLinks.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/uncategorized/sfo17-streaming-links/
 post_format:
 - Video

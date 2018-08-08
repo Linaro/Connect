@@ -11,7 +11,7 @@ image:
   featured: true
   name: OutlineScheduleLinaroConnectSFO17.jpg
   path: /assets/images/featured-images/OutlineScheduleLinaroConnectSFO17.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/blog/sfo17-outline-schedule/
 session_id: None
 session_track: None

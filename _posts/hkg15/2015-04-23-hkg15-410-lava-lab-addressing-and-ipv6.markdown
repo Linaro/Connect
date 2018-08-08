@@ -16,12 +16,13 @@ image:
   featured: true
   name: HKG15-410.jpg
   path: /assets/images/featured-images/HKG15-410.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-410-lava-lab-addressing-and-ipv6/
 post_format:
 - Video
 session_id: HKG15-410
 session_track: Validation
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44515843
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15410-lava-lab-addressing-and-ipv6
 slug: hkg15-410-lava-lab-addressing-and-ipv6
 speakers: Dave Pigott, Ed Deacon

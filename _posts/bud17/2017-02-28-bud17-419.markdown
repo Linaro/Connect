@@ -17,12 +17,13 @@ image:
   featured: true
   name: BUD17-419.jpg
   path: /assets/images/featured-images/BUD17-419.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-419/
 post_format:
 - Video
 session_id: BUD17-419
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73262680
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/timekeeping-in-the-linux-kernel-bud17419-speaker-stephen-boyd
 slug: bud17-419
 speakers: Stephen Boyd

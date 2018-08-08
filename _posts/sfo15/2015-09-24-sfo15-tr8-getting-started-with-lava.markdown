@@ -19,12 +19,13 @@ image:
   featured: true
   name: SFO15-TR8.jpg
   path: /assets/images/featured-images/SFO15-TR8.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr8-getting-started-with-lava/
 post_format:
 - Video
 session_id: SFO15-TR8
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53572253
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15tr8-getting-started-with-lava
 slug: sfo15-tr8-getting-started-with-lava
 speakers: Bill Fletcher

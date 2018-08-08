@@ -14,12 +14,13 @@ image:
   featured: true
   name: BUD17-416.jpg
   path: /assets/images/featured-images/BUD17-416.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-416/
 post_format:
 - Video
 session_id: BUD17-416
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786979
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17416-benchmark-and-profiling-in-optee
 slug: bud17-416
 speakers: Jerome Forissier, Igor Opaniuk

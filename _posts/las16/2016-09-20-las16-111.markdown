@@ -29,12 +29,13 @@ image:
   featured: true
   name: LAS16-111.png
   path: /assets/images/featured-images/LAS16-111.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-111/
 post_format:
 - Video
 session_id: LAS16-111
 session_track: Core Development
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66347806
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16111-easing-access-to-arm-trustzone-optee-and-raspberry-pi-3
 slug: las16-111
 speakers: None

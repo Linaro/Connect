@@ -12,12 +12,13 @@ image:
   featured: true
   name: HKG15-401.jpg
   path: /assets/images/featured-images/HKG15-401.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-401-ceph-and-software-defined-storage-on-arm-servers/
 post_format:
 - Video
 session_id: HKG15-401
 session_track: Enterprise Server
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44514487
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15401-ceph-and-software-defined-storage-on-arm-servers
 slug: hkg15-401-ceph-and-software-defined-storage-on-arm-servers
 speakers: Yazen Ghannam, Steve Capper

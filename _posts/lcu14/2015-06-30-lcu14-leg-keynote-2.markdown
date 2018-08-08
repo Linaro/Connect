@@ -11,12 +11,13 @@ image:
   featured: true
   name: LCU14-300b.jpg
   path: /assets/images/featured-images/LCU14-300b.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-leg-keynote-2/
 post_format:
 - Video
 session_id: LCU14-300b
 session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39670706
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/leg-keynotekiko-lcu2014mythology-v2
 slug: lcu14-leg-keynote-2
 speakers: Christian Reis

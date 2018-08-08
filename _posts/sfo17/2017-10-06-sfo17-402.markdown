@@ -17,12 +17,13 @@ image:
   featured: true
   name: SFO17-402.jpg
   path: /assets/images/featured-images/SFO17-402.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-402/
 post_format:
 - Video
 session_id: SFO17-402
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80644092
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/sdio-power-onoff-time-impacts-system-suspendresume-time-sfo17402-80644092
 slug: sfo17-402
 speakers: Ulf Hansson

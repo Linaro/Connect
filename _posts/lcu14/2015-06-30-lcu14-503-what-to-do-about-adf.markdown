@@ -19,10 +19,11 @@ image:
   featured: true
   name: LCU14-503.jpg
   path: /assets/images/featured-images/LCU14-503.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-503-what-to-do-about-adf/
 session_id: LCU14-503
 session_track: Linux Kernel
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38953159
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-503-what-to-do-about-adf
 slug: lcu14-503-what-to-do-about-adf
 speakers: Daniel Thompson

@@ -15,12 +15,13 @@ image:
   featured: true
   name: SFO15208ImprovingtheOptimizingCompilerinAndroidRuntimeARTplansstatus.jpg
   path: /assets/images/featured-images/SFO15208ImprovingtheOptimizingCompilerinAndroidRuntimeARTplansstatus.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-208-improving-the-optimizing-compiler-in-android-runtime-art-plans-status/
 post_format:
 - Video
 session_id: None
 session_track: Mobile
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53570086
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15208-improving-the-optimizing-compiler-in-android-runtime-art-plans-status
 slug: sfo15-208-improving-the-optimizing-compiler-in-android-runtime-art-plans-status
 speakers: Alexandre Rames

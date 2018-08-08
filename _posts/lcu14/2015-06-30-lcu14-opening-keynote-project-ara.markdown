@@ -14,12 +14,13 @@ image:
   featured: true
   name: LCU14-103.jpg
   path: /assets/images/featured-images/LCU14-103.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-opening-keynote-project-ara/
 post_format:
 - Video
 session_id: LCU14-103
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39156092
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14103-how-to-create-and-run-trusted-applications-on-optee
 slug: lcu14-opening-keynote-project-ara
 speakers: Joakim Bech

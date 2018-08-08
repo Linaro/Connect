@@ -28,7 +28,7 @@ image:
   featured: true
   name: HKG15-102.jpg
   path: /assets/images/featured-images/HKG15-102.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-102-lmg-lightning-talks/
 post_format:
 - Video

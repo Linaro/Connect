@@ -18,12 +18,13 @@ image:
   featured: true
   name: LAS16-405.png
   path: /assets/images/featured-images/LAS16-405.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-405/
 post_format:
 - Video
 session_id: LAS16-405
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357886
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16405opendataplane-software-defined-dataplane-leader
 slug: las16-405
 speakers: "Fran\xE7ois-Fr\xE9d\xE9ric Ozog"

@@ -19,12 +19,13 @@ image:
   featured: true
   name: SFO17-104.jpg
   path: /assets/images/featured-images/SFO17-104.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-104/
 post_format:
 - Video
 session_id: SFO17-104
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79982339
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/getting-the-most-out-of-dynamiq-enabling-support-of-dynamiq-sfo17104
 slug: sfo17-104
 speakers: Dan Handley (Arm) -  Ionela Voinescu (Arm) - Vincent Guittot (Linaro)

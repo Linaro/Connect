@@ -24,12 +24,13 @@ image:
   featured: true
   name: SFO15200K3TheWebandDigitalRightsManagement.jpg
   path: /assets/images/featured-images/SFO15200K3TheWebandDigitalRightsManagement.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-200k3-the-web-and-digital-rights-management/
 post_format:
 - Video
 session_id: None
 session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53754377
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15200k3-john-simmons-the-web-and-digital-rights-management-the-technical-solution-to-the-webdrm-paradox-and-its-disruptive-implications
 slug: sfo15-200k3-the-web-and-digital-rights-management
 speakers: John Simmons

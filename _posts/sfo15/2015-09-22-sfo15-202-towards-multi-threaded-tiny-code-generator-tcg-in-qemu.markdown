@@ -21,12 +21,13 @@ image:
   featured: true
   name: SFO15202TowardsMultiThreadedTinyCodeGeneratorTCGinQEMU.jpg
   path: /assets/images/featured-images/SFO15202TowardsMultiThreadedTinyCodeGeneratorTCGinQEMU.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-202-towards-multi-threaded-tiny-code-generator-tcg-in-qemu/
 post_format:
 - Video
 session_id: None
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53063823
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15202-towards-multithreaded-tiny-code-generator-tcg-in-qemu
 slug: sfo15-202-towards-multi-threaded-tiny-code-generator-tcg-in-qemu
 speakers: Alex Bennee

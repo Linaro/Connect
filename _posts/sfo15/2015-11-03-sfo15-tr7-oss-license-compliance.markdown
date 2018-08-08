@@ -12,12 +12,13 @@ image:
   featured: true
   name: SFO15-TR7.jpg
   path: /assets/images/featured-images/SFO15-TR7.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr7-oss-license-compliance/
 post_format:
 - Video
 session_id: SFO15-TR7
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53988135
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15tr7-oss-license-compliance
 slug: sfo15-tr7-oss-license-compliance
 speakers: Kate Stewart

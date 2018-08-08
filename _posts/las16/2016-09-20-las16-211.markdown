@@ -15,12 +15,13 @@ image:
   featured: true
   name: LAS16-211.png
   path: /assets/images/featured-images/LAS16-211.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-211/
 post_format:
 - Video
 session_id: LAS16-211
 session_track: Automation & CI
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357241
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16211-using-lava-v2-for-advanced-kvm-testing
 slug: las16-211
 speakers: Riku Voipio

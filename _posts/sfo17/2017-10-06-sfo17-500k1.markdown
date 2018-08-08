@@ -11,7 +11,7 @@ image:
   featured: true
   name: SFO17-500K1.jpg
   path: /assets/images/featured-images/SFO17-500K1.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-500k1/
 post_format:
 - Video

@@ -12,12 +12,13 @@ image:
   featured: true
   name: SFO15-201.jpg
   path: /assets/images/featured-images/SFO15-201.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-201-boot-architecture-for-rdk/
 post_format:
 - Video
 session_id: SFO15-201
 session_track: Digital Home
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53087865
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15201-boot-architecture-for-rdk-53087865
 slug: sfo15-201-boot-architecture-for-rdk
 speakers: Khem Raj

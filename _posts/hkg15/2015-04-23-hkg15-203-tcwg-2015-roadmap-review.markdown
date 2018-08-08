@@ -15,12 +15,13 @@ image:
   featured: true
   name: HKG15-203.jpg
   path: /assets/images/featured-images/HKG15-203.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-203-tcwg-2015-roadmap-review/
 post_format:
 - Video
 session_id: HKG15-203
 session_track: Tools
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44417722
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15203-tcwg-2015-roadmap-review
 slug: hkg15-203-tcwg-2015-roadmap-review
 speakers: Ryan Arnold

@@ -12,12 +12,13 @@ image:
   featured: true
   name: BUD17-DF13.jpg
   path: /assets/images/featured-images/BUD17-DF13.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df13/
 post_format:
 - Video
 session_id: BUD17-DF13
 session_track: ARMv8-M secure debug demo
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73368785
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/armv8m-secure-debug-demo
 slug: bud17-df13
 speakers: LITE

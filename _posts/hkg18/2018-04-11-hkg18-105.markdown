@@ -15,12 +15,13 @@ image:
   featured: true
   name: HKG18-105.png
   path: /assets/images/featured-images/HKG18-105.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-105/
 post_format:
 - Video
 session_id: HKG18-105
 session_track: Mobile
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/91263878
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18105-lmg-lightning-talks
 slug: hkg18-105
 speakers: Sumit Semwal

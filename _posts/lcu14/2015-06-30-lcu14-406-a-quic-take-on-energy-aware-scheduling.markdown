@@ -31,10 +31,11 @@ image:
   featured: true
   name: LCU14-406.jpg
   path: /assets/images/featured-images/LCU14-406.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-406-a-quic-take-on-energy-aware-scheduling/
 session_id: LCU14-406
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39256443
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-406-a-quick-take-on-energyaware-scheduling
 slug: lcu14-406-a-quic-take-on-energy-aware-scheduling
 speakers: Stephen Muckle

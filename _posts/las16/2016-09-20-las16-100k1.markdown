@@ -11,12 +11,13 @@ image:
   featured: true
   name: LAS16-100K1.png
   path: /assets/images/featured-images/LAS16-100K1.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-100k1/
 post_format:
 - Video
 session_id: LAS16-100K1
 session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66438426
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16100k1-welcome-keynote
 slug: las16-100k1
 speakers: George Grey

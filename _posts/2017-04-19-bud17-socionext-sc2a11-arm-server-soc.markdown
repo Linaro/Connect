@@ -4,7 +4,7 @@ amazon_s3_video_url: None
 author: connect
 comments: false
 date: 2017-04-19 13:09:02+00:00
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-socionext-sc2a11-arm-server-soc/
 session_id: None
 session_track: None

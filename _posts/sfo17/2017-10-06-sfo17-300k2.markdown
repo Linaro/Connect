@@ -11,12 +11,13 @@ image:
   featured: true
   name: SFO17-300K2.jpg
   path: /assets/images/featured-images/SFO17-300K2.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-300k2/
 post_format:
 - Video
 session_id: SFO17-300K2
 session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80701031
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/keynote-heather-meeker-omelveny-myers-llp-sfo17300k2
 slug: sfo17-300k2
 speakers: Heather Meeker

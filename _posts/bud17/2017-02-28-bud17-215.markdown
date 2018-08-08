@@ -13,12 +13,13 @@ image:
   featured: true
   name: BUD17-215.jpg
   path: /assets/images/featured-images/BUD17-215.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-215/
 post_format:
 - Video
 session_id: BUD17-215
 session_track: LAVA
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786186
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17215-lava-users-forum
 slug: bud17-215
 speakers: Steve McIntyre

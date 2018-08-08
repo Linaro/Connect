@@ -19,12 +19,13 @@ image:
   featured: true
   name: SFO15301BenchmarkingBestPractices101.jpg
   path: /assets/images/featured-images/SFO15301BenchmarkingBestPractices101.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-301-benchmarking-best-practices-101/
 post_format:
 - Video
 session_id: None
 session_track: General
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52895470
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15301-benchmarking-best-practices-101
 slug: sfo15-301-benchmarking-best-practices-101
 speakers: Maxim Kuvyrkov, Bernie Ogden

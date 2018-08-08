@@ -20,12 +20,13 @@ image:
   featured: true
   name: HKG18-302.png
   path: /assets/images/featured-images/HKG18-302.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-302/
 post_format:
 - Video
 session_id: HKG18-302
 session_track: LEG AI;Ecosystem Day
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92327106
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18302-huawei-hiai-unlock-the-future
 slug: hkg18-302
 speakers: Zhou Hua

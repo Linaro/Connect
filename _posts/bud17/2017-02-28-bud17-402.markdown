@@ -23,12 +23,13 @@ image:
   featured: true
   name: BUD17-402.jpg
   path: /assets/images/featured-images/BUD17-402.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-402/
 post_format:
 - Video
 session_id: BUD17-402
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72946980
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17402-virtual-perspectives-on-crosscompilation
 slug: bud17-402
 speakers: "Alex Benn\xE9e"

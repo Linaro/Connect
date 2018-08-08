@@ -23,12 +23,13 @@ image:
   featured: true
   name: HKG15-402.jpg
   path: /assets/images/featured-images/HKG15-402.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-402-orphan-hacking-sessions/
 post_format:
 - Video
 session_id: HKG15-402
 session_track: Validation
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44514677
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15402-orphan-hacking-sessions
 slug: hkg15-402-orphan-hacking-sessions
 speakers: Dave Pigott

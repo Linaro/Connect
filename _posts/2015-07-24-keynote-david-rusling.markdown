@@ -18,7 +18,7 @@ image:
   featured: true
   name: LCA14-500K1.jpg
   path: /assets/images/featured-images/LCA14-500K1.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lca14/keynote-david-rusling/
 post_format:
 - Video

@@ -13,12 +13,13 @@ image:
   featured: true
   name: BUD17-204.jpg
   path: /assets/images/featured-images/BUD17-204.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-204/
 post_format:
 - Video
 session_id: BUD17-204
 session_track: Kernel
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73262773
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/qc-upstream-bof-bud17204-speaker-stephen-boyd
 slug: bud17-204
 speakers: Stephen Boyd

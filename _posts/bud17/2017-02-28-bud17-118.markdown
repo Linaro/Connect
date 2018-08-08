@@ -15,12 +15,13 @@ image:
   featured: true
   name: BUD17-118.jpg
   path: /assets/images/featured-images/BUD17-118.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-118/
 post_format:
 - Video
 session_id: BUD17-118
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73033229
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17118-status-of-android-aosp-tv
 slug: bud17-118
 speakers: Khasim Syed Mohammed

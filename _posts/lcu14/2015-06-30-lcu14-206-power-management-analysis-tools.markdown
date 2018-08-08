@@ -12,12 +12,13 @@ image:
   featured: true
   name: LCU14-206.jpg
   path: /assets/images/featured-images/LCU14-206.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-206-power-management-analysis-tools/
 post_format:
 - Video
 session_id: LCU14-206
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38951710
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-206-tools-to-analyse-scheduling-behaviour-and-its-impact-on-power-management
 slug: lcu14-206-power-management-analysis-tools
 tags:

@@ -2,7 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-200.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Tuesday/BKK16-200%20Designing%20security%20into%20constrained%20IoT%20systems.mp4
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:37
 excerpt: "Trust and security are essential for the Internet of Things (IoT) to scale.
@@ -18,12 +18,13 @@ image:
   featured: true
   name: BKK16-200.jpg
   path: /assets/images/featured-images/BKK16-200.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-200/
 post_format:
 - Video
 session_id: BKK16-200
 session_track: ARM
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59140785
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16200-designing-security-into-low-cost-io-t-systems
 slug: bkk16-200
 speakers: 'Jim Wallace

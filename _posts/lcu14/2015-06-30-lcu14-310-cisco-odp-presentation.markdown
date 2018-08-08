@@ -13,12 +13,13 @@ image:
   featured: true
   name: LCU14-310.jpg
   path: /assets/images/featured-images/LCU14-310.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-310-cisco-odp-presentation/
 post_format:
 - Video
 session_id: LCU14-310
 session_track: Networking
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39249615
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-310-cisco-odp-v2
 slug: lcu14-310-cisco-odp-presentation
 speakers: Robbie King

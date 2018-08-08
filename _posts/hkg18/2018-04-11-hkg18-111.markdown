@@ -14,12 +14,13 @@ image:
   featured: true
   name: HKG18-111.png
   path: /assets/images/featured-images/HKG18-111.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-111/
 post_format:
 - Video
 session_id: HKG18-111
 session_track: Kernel
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/91264366
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18111-how-to-get-realistic-cstate-latency-and-residency
 slug: hkg18-111
 speakers: Vincent Guittot

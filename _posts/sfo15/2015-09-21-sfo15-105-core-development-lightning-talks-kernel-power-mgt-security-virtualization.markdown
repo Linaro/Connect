@@ -15,12 +15,13 @@ image:
   featured: true
   name: SFO15105CoreDevelopmentLightningTalksKernelPowerMgtSecurityVirtualization.jpg
   path: /assets/images/featured-images/SFO15105CoreDevelopmentLightningTalksKernelPowerMgtSecurityVirtualization.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-105-core-development-lightning-talks-kernel-power-mgt-security-virtualization/
 post_format:
 - Video
 session_id: None
 session_track: Core Development
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52895245
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15105-core-development-lightning-talks-kernel-power-mgt-security-virtualization
 slug: sfo15-105-core-development-lightning-talks-kernel-power-mgt-security-virtualization
 speakers: Mark Brown, Mathieu Porier, Linus Waleij, Dave Long

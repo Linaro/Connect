@@ -17,7 +17,7 @@ image:
   featured: true
   name: LCA14-400K1.jpg
   path: /assets/images/featured-images/LCA14-400K1.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lca14/thursday-keynote-distributed-working-at-linaro/
 post_format:
 - Video

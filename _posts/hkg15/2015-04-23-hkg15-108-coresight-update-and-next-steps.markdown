@@ -27,12 +27,13 @@ image:
   featured: true
   name: HKG15-108.jpg
   path: /assets/images/featured-images/HKG15-108.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-108-coresight-update-and-next-steps/
 post_format:
 - Video
 session_id: HKG15-108
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/45074572
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15108-coresight-update-and-next-steps
 slug: hkg15-108-coresight-update-and-next-steps
 speakers: Mathieu Poirer

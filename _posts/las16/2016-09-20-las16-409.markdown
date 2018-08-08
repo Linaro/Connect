@@ -16,12 +16,13 @@ image:
   featured: true
   name: LAS16-409.png
   path: /assets/images/featured-images/LAS16-409.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-409/
 post_format:
 - Video
 session_id: LAS16-409
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357967
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16409time-sensitive-networking-kernel-modifications-for-automotiveindustrial
 slug: las16-409
 speakers: None

@@ -16,12 +16,13 @@ image:
   featured: true
   name: SFO15209CiscoConnectedLifeIoTGateway.jpg
   path: /assets/images/featured-images/SFO15209CiscoConnectedLifeIoTGateway.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-209-cisco-connected-life-iot-gateway/
 post_format:
 - Video
 session_id: None
 session_track: Digital Home
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53755347
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15209-cisco-connected-life-iot-gateway-53755347
 slug: sfo15-209-cisco-connected-life-iot-gateway
 speakers: Bent Christensen

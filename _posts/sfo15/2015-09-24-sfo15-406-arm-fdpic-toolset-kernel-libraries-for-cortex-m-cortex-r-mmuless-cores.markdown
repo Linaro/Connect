@@ -18,12 +18,13 @@ image:
   featured: true
   name: SFO15406ARMFDPICtoolsetkernellibrariesforCortexMCortexRmmulesscores.jpg
   path: /assets/images/featured-images/SFO15406ARMFDPICtoolsetkernellibrariesforCortexMCortexRmmulesscores.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-406-arm-fdpic-toolset-kernel-libraries-for-cortex-m-cortex-r-mmuless-cores/
 post_format:
 - Video
 session_id: None
 session_track: Tools
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52908317
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15406-arm-fdpic-toolset-kernel-libraries-for-cortexm-cortexr-mmuless-cores
 slug: sfo15-406-arm-fdpic-toolset-kernel-libraries-for-cortex-m-cortex-r-mmuless-cores
 tags:

@@ -16,12 +16,13 @@ image:
   featured: true
   name: SFO17-210.jpg
   path: /assets/images/featured-images/SFO17-210.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-210/
 post_format:
 - Video
 session_id: SFO17-210
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79884904
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/a-flexible-gdb-gnu-debugger-target-description-for-processor-diversity-sfo17210
 slug: sfo17-210
 speakers: Yao Qi

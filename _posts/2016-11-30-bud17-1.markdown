@@ -11,7 +11,7 @@ image:
   featured: true
   name: LinaroConnectBudapestBUD17Registrationhaslaunched.png
   path: /assets/images/featured-images/LinaroConnectBudapestBUD17Registrationhaslaunched.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/blog/bud17-1/
 session_id: None
 session_track: None

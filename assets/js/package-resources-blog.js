@@ -8,3 +8,4 @@
 //= require app/blog
 //= require app/tables
 //= require app/custom
+//= require app/resources-blog

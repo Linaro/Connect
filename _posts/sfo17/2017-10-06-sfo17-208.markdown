@@ -16,12 +16,13 @@ image:
   featured: true
   name: SFO17-208.jpg
   path: /assets/images/featured-images/SFO17-208.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-208/
 post_format:
 - Video
 session_id: SFO17-208
 session_track: LHG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79884903
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/aosp-tv-input-framework-dvb-ip-video-sources-sfo17208
 slug: sfo17-208
 speakers: "Bero Rosenkr\xE4nzer"

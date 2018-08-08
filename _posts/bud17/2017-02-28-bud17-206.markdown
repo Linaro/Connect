@@ -16,12 +16,13 @@ image:
   featured: true
   name: BUD17-206.jpg
   path: /assets/images/featured-images/BUD17-206.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-206/
 post_format:
 - Video
 session_id: BUD17-206
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786001
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17206-future-of-android-automated-testing
 slug: bud17-206
 speakers: None

@@ -24,7 +24,7 @@ image:
   featured: true
   name: HKG15-408.jpg
   path: /assets/images/featured-images/HKG15-408.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-408-arm-v8-a-neon-optimization/
 post_format:
 - Video

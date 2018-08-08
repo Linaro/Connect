@@ -39,12 +39,13 @@ image:
   featured: true
   name: HKG15-302.jpg
   path: /assets/images/featured-images/HKG15-302.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-302-debugging-arm-kernels-using-nmifiq/
 post_format:
 - Video
 session_id: HKG15-302
 session_track: Kernel
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44897220
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15302-debugging-arm-kernels-using-nmifiq
 slug: hkg15-302-debugging-arm-kernels-using-nmifiq
 speakers: Daniel Thompson

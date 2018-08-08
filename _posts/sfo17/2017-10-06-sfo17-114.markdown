@@ -22,12 +22,13 @@ image:
   featured: true
   name: SFO17-114.jpg
   path: /assets/images/featured-images/SFO17-114.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-114/
 post_format:
 - Video
 session_id: SFO17-114
 session_track: LITE,LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80701766
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/software-is-imperfect-so-how-to-deal-with-it-sfo17114
 slug: sfo17-114
 speakers: Krzysztof Opasiak

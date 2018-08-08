@@ -20,12 +20,13 @@ image:
   featured: true
   name: BUD17-305.jpg
   path: /assets/images/featured-images/BUD17-305.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-305/
 post_format:
 - Video
 session_id: BUD17-305
 session_track: Kernel
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786472
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17305-implementing-contiguous-page-hint-for-anonymous-pages-in-user-space
 slug: bud17-305
 speakers: Bamvor Jian Zhang

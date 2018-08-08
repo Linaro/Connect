@@ -17,12 +17,13 @@ image:
   featured: true
   name: HKG15-405.jpg
   path: /assets/images/featured-images/HKG15-405.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-405-redundant-zerosign-extension-elimination-in-gcc/
 post_format:
 - Video
 session_id: HKG15-405
 session_track: Tools
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44514994
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15405-redundant-zerosignextension-elimination-in-gcc
 slug: hkg15-405-redundant-zerosign-extension-elimination-in-gcc
 speakers: Kugan Vivekanandarajah

@@ -22,12 +22,13 @@ image:
   featured: true
   name: SFO15307AdvancedToolchainUsagePart5.jpg
   path: /assets/images/featured-images/SFO15307AdvancedToolchainUsagePart5.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-307-advanced-toolchain-usage-part-5/
 post_format:
 - Video
 session_id: None
 session_track: Tools
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52908180
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15307-advanced-toolchain-usage-part-5
 slug: sfo15-307-advanced-toolchain-usage-part-5
 speakers: Adhemerval Zanella, Ryan Arnold, Maxim Kuvyrkov, Charles Baylis

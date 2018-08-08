@@ -21,10 +21,11 @@ image:
   featured: true
   name: LCU14-502.jpg
   path: /assets/images/featured-images/LCU14-502.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-502-android-user-space-tests-multimedia-codec-tests-status-and-open-discussions/
 session_id: LCU14-502
 session_track: Android
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39302232
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-502-androiduserspacetests
 slug: lcu14-502-android-user-space-tests-multimedia-codec-tests-status-and-open-discussions
 speakers: Ashok Bhat

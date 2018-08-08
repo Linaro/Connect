@@ -10,7 +10,7 @@ image:
   featured: true
   name: BKK16-404B.jpg
   path: /assets/images/featured-images/BKK16-404B.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-404b/
 post_format:
 - Video

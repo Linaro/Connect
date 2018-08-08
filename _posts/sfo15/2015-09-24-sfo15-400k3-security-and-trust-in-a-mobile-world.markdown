@@ -10,7 +10,7 @@ image:
   featured: true
   name: SFO15400K3SecurityandTrustinaMobileWorld.jpg
   path: /assets/images/featured-images/SFO15400K3SecurityandTrustinaMobileWorld.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-400k3-security-and-trust-in-a-mobile-world/
 post_format:
 - Video

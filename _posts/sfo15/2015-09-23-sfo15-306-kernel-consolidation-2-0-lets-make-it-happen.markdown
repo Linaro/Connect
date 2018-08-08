@@ -18,12 +18,13 @@ image:
   featured: true
   name: SFO15306KernelConsolidation20Letsmakeithappen.jpg
   path: /assets/images/featured-images/SFO15306KernelConsolidation20Letsmakeithappen.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-306-kernel-consolidation-2-0-lets-make-it-happen/
 post_format:
 - Video
 session_id: None
 session_track: Kernel
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52896116
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15306-kernel-consolidation-20-lets-make-it-happen
 slug: sfo15-306-kernel-consolidation-2-0-lets-make-it-happen
 tags:

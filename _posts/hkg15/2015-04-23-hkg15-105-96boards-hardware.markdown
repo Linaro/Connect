@@ -10,7 +10,7 @@ image:
   featured: true
   name: HKG15-105.jpg
   path: /assets/images/featured-images/HKG15-105.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-105-96boards-hardware/
 post_format:
 - Video

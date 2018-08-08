@@ -2,7 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-401.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Thursday/BKK16-401%20Enhancing%20Application%20Performance%20with%20ODP.mp4
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:51
 excerpt: 'The promise of ODP is to provide increased portability and performance for
@@ -20,12 +20,13 @@ image:
   featured: true
   name: BKK16-401.jpg
   path: /assets/images/featured-images/BKK16-401.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-401/
 post_format:
 - Video
 session_id: BKK16-401
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58686936
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16401-enhancing-application-performance-with-odp
 slug: bkk16-401
 speakers: Bill Fischofer

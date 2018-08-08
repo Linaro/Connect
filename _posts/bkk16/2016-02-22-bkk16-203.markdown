@@ -2,7 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-203.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Tuesday/BKK16-203%20Irq%20predictions%20or%20how%20to%20better%20estimate%20idle%20time.mp4
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:39
 excerpt: Review design. The current approach to predict the idle time duration is
@@ -14,12 +14,13 @@ image:
   featured: true
   name: BKK16-203.jpg
   path: /assets/images/featured-images/BKK16-203.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-203/
 post_format:
 - Video
 session_id: BKK16-203
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58209173
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16203-irq-prediction-or-how-to-better-estimate-idle-time
 slug: bkk16-203
 speakers: Daniel Lezcano

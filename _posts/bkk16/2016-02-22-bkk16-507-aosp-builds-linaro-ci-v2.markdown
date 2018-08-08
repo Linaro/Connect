@@ -2,7 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Friday/BKK16-507.pdf
 amazon_s3_video_url: None
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:35:24
 excerpt: Introduction to CI v2 for AOSP builds. There has been changes on how we have
@@ -14,12 +14,13 @@ image:
   featured: true
   name: BKK16507AOSPbuildsofLinarowithCIv2.jpg
   path: /assets/images/featured-images/BKK16507AOSPbuildsofLinarowithCIv2.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-507-aosp-builds-linaro-ci-v2/
 post_format:
 - Video
 session_id: None
 session_track: B&B
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58207430
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16507-aosp-builds-of-linaro-with-ci-v2
 slug: bkk16-507-aosp-builds-linaro-ci-v2
 speakers: Daniel DiazVishal Bhoj

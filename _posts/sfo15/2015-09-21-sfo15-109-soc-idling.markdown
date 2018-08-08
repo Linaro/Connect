@@ -18,12 +18,13 @@ image:
   featured: true
   name: SFO15109SoCidling.jpg
   path: /assets/images/featured-images/SFO15109SoCidling.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-109-soc-idling/
 post_format:
 - Video
 session_id: None
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53569722
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15109-soc-idling
 slug: sfo15-109-soc-idling
 speakers: Kevin Hilman, Ulf Hansson, Lina Iyer

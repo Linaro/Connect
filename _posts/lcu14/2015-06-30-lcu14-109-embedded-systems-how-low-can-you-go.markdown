@@ -37,12 +37,13 @@ image:
   featured: true
   name: LCU14-109.jpg
   path: /assets/images/featured-images/LCU14-109.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-109-embedded-systems-how-low-can-you-go/
 post_format:
 - Video
 session_id: LCU14-109
 session_track: Linux Kernel
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38846937
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-109-embedded-systems-how-low-can-you-go
 slug: lcu14-109-embedded-systems-how-low-can-you-go
 speakers: Arnd Bergmann

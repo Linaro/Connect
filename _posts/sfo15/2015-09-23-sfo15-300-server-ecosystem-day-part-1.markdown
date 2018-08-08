@@ -13,12 +13,13 @@ image:
   featured: true
   name: SFO15300ServerEcosystemDayPart1.jpg
   path: /assets/images/featured-images/SFO15300ServerEcosystemDayPart1.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-300-server-ecosystem-day-part-1/
 post_format:
 - Video
 session_id: None
 session_track: Enterprise Server
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53757494
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15300-server-ecosystem-day-big-data-on-arm
 slug: sfo15-300-server-ecosystem-day-part-1
 speakers: Andrea Gallo

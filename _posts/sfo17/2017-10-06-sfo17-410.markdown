@@ -22,12 +22,13 @@ image:
   featured: true
   name: SFO17-410.jpg
   path: /assets/images/featured-images/SFO17-410.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-410/
 post_format:
 - Video
 session_id: SFO17-410
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/81027150
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/kvmarm-nested-virtualization-support-and-performance-sfo17410
 slug: sfo17-410
 speakers: Jintack Lim

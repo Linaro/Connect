@@ -18,12 +18,13 @@ image:
   featured: true
   name: SFO15303LinuxKernelPerformanceLKPProjectonARM.jpg
   path: /assets/images/featured-images/SFO15303LinuxKernelPerformanceLKPProjectonARM.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-303-linux-kernel-performance-lkp-project-on-arm/
 post_format:
 - Video
 session_id: None
 session_track: Validation
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53570171
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15303-linux-kernel-performance-lkp-project-on-arm
 slug: sfo15-303-linux-kernel-performance-lkp-project-on-arm
 speakers: Chase Qi

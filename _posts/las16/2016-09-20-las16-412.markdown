@@ -11,7 +11,7 @@ image:
   featured: true
   name: LAS16-412.png
   path: /assets/images/featured-images/LAS16-412.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-412/
 post_format:
 - Video

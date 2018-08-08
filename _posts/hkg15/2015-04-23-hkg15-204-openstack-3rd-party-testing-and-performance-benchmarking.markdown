@@ -13,12 +13,13 @@ image:
   featured: true
   name: HKG15-204.jpg
   path: /assets/images/featured-images/HKG15-204.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-204-openstack-3rd-party-testing-and-performance-benchmarking/
 post_format:
 - Video
 session_id: HKG15-204
 session_track: Enterprise Server
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44513965
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15204-openstack-3rd-party-testing-and-performance-benchmarking
 slug: hkg15-204-openstack-3rd-party-testing-and-performance-benchmarking
 speakers: Andrew McDermott, Clark Laughlin

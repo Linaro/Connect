@@ -7,7 +7,7 @@ excerpt: In this presentation, we will look at the latest solutions from the Ope
   address the needs for high performance IP communication in the datacentre. We will
   cover both the basic technology, as well as some recent performance numbers and
   results measured on real-world applications.
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-455/
 session_id: SFO17-455
 session_track: LEG

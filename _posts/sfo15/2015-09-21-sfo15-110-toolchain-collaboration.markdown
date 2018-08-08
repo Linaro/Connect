@@ -17,12 +17,13 @@ image:
   featured: true
   name: SFO15110ToolchainCollaboration.jpg
   path: /assets/images/featured-images/SFO15110ToolchainCollaboration.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-110-toolchain-collaboration/
 post_format:
 - Video
 session_id: None
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53569816
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15110-toolchain-collaboration
 slug: sfo15-110-toolchain-collaboration
 speakers: Ryan Arnold

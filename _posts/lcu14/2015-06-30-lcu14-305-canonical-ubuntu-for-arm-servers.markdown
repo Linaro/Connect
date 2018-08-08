@@ -11,7 +11,7 @@ image:
   featured: true
   name: LCU14-305.jpg
   path: /assets/images/featured-images/LCU14-305.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-305-canonical-ubuntu-for-arm-servers/
 post_format:
 - Video

@@ -18,12 +18,13 @@ image:
   featured: true
   name: SFO15409IntroductiontoQAReports.jpg
   path: /assets/images/featured-images/SFO15409IntroductiontoQAReports.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-409-introduction-to-qa-reports/
 post_format:
 - Video
 session_id: None
 session_track: Validation
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53987864
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15409-introduction-to-qa-reports
 slug: sfo15-409-introduction-to-qa-reports
 speakers: Milosz Wasilewski

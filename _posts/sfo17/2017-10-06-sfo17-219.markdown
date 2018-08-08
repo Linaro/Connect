@@ -17,12 +17,13 @@ image:
   featured: true
   name: SFO17-219.jpg
   path: /assets/images/featured-images/SFO17-219.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-219/
 post_format:
 - Video
 session_id: SFO17-219
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79884906
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/simplified-dvfs-and-opp-framework-sfo17219
 slug: sfo17-219
 speakers: Viresh Kumar

@@ -18,12 +18,13 @@ image:
   featured: true
   name: BUD17-323.jpg
   path: /assets/images/featured-images/BUD17-323.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-323/
 post_format:
 - Video
 session_id: BUD17-323
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73469445
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/dyninst-on-arm64-status-bud17323
 slug: bud17-323
 speakers: Itaru Kitayama

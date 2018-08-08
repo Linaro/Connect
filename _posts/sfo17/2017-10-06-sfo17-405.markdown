@@ -16,12 +16,13 @@ image:
   featured: true
   name: SFO17-405.jpg
   path: /assets/images/featured-images/SFO17-405.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-405/
 post_format:
 - Video
 session_id: SFO17-405
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80099267
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/multithreaded-programming-on-arm-a-mpmc-ring-buffer-case-study-sfo17405
 slug: sfo17-405
 speakers: Ola Liljedahl

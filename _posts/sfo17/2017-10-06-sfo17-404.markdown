@@ -20,12 +20,13 @@ image:
   featured: true
   name: SFO17-404.jpg
   path: /assets/images/featured-images/SFO17-404.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-404/
 post_format:
 - Video
 session_id: SFO17-404
 session_track: LHG,LITE,LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80739205
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/ion-integration-challenges-sfo17404
 slug: sfo17-404
 speakers: Archit Taneja

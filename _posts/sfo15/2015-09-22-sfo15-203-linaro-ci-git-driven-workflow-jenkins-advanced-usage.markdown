@@ -17,12 +17,13 @@ image:
   featured: true
   name: SFO15203LinaroCIgitdrivenworkflowJenkinsadvancedusage.jpg
   path: /assets/images/featured-images/SFO15203LinaroCIgitdrivenworkflowJenkinsadvancedusage.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-203-linaro-ci-git-driven-workflow-jenkins-advanced-usage/
 post_format:
 - Video
 session_id: None
 session_track: Validation
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53570010
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15203-linaro-ci-git-driven-workflow-jenkins-advanced-usage
 slug: sfo15-203-linaro-ci-git-driven-workflow-jenkins-advanced-usage
 speakers: Fathi Boudra

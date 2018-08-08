@@ -16,12 +16,13 @@ image:
   featured: true
   name: LAS16-209.png
   path: /assets/images/featured-images/LAS16-209.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-209/
 post_format:
 - Video
 session_id: LAS16-209
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357156
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16209-finished-and-upcoming-projects-in-lmg
 slug: las16-209
 speakers: "Yongqui Liu, Satish Patel, Bernhard Rosenkr\xE4nzer"

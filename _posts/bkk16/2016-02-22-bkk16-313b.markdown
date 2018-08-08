@@ -11,7 +11,7 @@ image:
   featured: true
   name: BKK16-313B.jpg
   path: /assets/images/featured-images/BKK16-313B.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-313b/
 post_format:
 - Video

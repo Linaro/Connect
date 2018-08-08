@@ -18,12 +18,13 @@ image:
   featured: true
   name: SFO17-305.jpg
   path: /assets/images/featured-images/SFO17-305.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-305/
 post_format:
 - Video
 session_id: SFO17-305
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80700037
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/moby-and-linuxkit-on-arm64-server-sfo17305
 slug: sfo17-305
 speakers: Dennis Chen

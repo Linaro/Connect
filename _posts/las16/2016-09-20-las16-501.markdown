@@ -17,12 +17,13 @@ image:
   featured: true
   name: LAS16-501.png
   path: /assets/images/featured-images/LAS16-501.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-501/
 post_format:
 - Video
 session_id: LAS16-501
 session_track: Core Development
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66358119
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16501-introduction-to-llvm-projects-components-integration-internals
 slug: las16-501
 speakers: Renato Golin

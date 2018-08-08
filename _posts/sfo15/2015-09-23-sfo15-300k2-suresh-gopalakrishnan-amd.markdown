@@ -31,12 +31,13 @@ image:
   featured: true
   name: SFO15300K2SureshGopalakrishnanAMD.jpg
   path: /assets/images/featured-images/SFO15300K2SureshGopalakrishnanAMD.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-300k2-suresh-gopalakrishnan-amd/
 post_format:
 - Video
 session_id: None
 session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53111532
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15300k2-suresh-gopalakrishnan-amd
 slug: sfo15-300k2-suresh-gopalakrishnan-amd
 speakers: Suresh Gopalakrishnan

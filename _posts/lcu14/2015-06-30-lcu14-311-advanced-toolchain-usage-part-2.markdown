@@ -39,12 +39,13 @@ image:
   featured: true
   name: LCU14-311.jpg
   path: /assets/images/featured-images/LCU14-311.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-311-advanced-toolchain-usage-part-2/
 post_format:
 - Video
 session_id: LCU14-311
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39030441
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-311-advanced-toolchain-usage-parts-12
 slug: lcu14-311-advanced-toolchain-usage-part-2
 speakers: Michael Collison, Maxim Kuvyrkov, Will Newton

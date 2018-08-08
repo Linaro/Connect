@@ -11,7 +11,7 @@ excerpt: The cloud is changing how modern applications are being developed, depl
   by the Cloud. This session will discuss the recently announced changes to the Java
   release cycle and distribution model. It will also cover the new Java 9 release
   and discuss the Java roadmap beyond 9.
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-461/
 session_id: SFO17-461
 session_track: LEG

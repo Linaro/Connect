@@ -17,12 +17,13 @@ image:
   featured: true
   name: BUD17-313.jpg
   path: /assets/images/featured-images/BUD17-313.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-313/
 post_format:
 - Video
 session_id: BUD17-313
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786638
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17313-bof-device-tree-and-secure-firmware
 slug: bud17-313
 speakers: Joakim Bech, Jens Wiklander

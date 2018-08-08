@@ -18,12 +18,13 @@ image:
   featured: true
   name: LCU14-106.jpg
   path: /assets/images/featured-images/LCU14-106.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-106-qemu-for-armv8-and-the-64-bit-android-emulator/
 post_format:
 - Video
 session_id: LCU14-106
 session_track: Android, Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39097410
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-106-qemu-for-ar-mv8-and-the-64bit-android-emulator-39097410
 slug: lcu14-106-qemu-for-armv8-and-the-64-bit-android-emulator
 speakers: Alex Bennee, Christoffer Dall, Peter Maydell

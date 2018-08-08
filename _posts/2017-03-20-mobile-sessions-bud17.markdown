@@ -4,7 +4,7 @@ amazon_s3_video_url: None
 author: connect
 comments: false
 date: 2017-03-20 11:29:38+00:00
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/uncategorized/mobile-sessions-bud17/
 session_id: None
 session_track: None

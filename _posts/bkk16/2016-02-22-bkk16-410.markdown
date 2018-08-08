@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-410.pdf
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:54
 excerpt: 'The linux kernel has two distinct ways of managing idle. The CPUidle framework
@@ -15,12 +15,13 @@ image:
   featured: true
   name: BKK16-410.jpg
   path: /assets/images/featured-images/BKK16-410.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-410/
 post_format:
 - Video
 session_id: BKK16-410
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58208874
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16410-soc-idling-cpu-cluster-pm
 slug: bkk16-410
 speakers: Ulf Hansson

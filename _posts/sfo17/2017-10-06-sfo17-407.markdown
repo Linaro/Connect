@@ -13,11 +13,12 @@ image:
   featured: true
   name: SFO17-407.jpg
   path: /assets/images/featured-images/SFO17-407.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-407/
 post_format:
 - Video
 session_id: SFO17-407
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80134471
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/collaboras-involvement-in-kernelci-sfo17407
 slug: sfo17-407
 speakers: Guillaume Tucker

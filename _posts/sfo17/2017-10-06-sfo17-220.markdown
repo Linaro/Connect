@@ -12,12 +12,13 @@ image:
   featured: true
   name: SFO17-220.jpg
   path: /assets/images/featured-images/SFO17-220.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-220/
 post_format:
 - Video
 session_id: SFO17-220
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80980638
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/designing-iot-devices-sfo17220
 slug: sfo17-220
 speakers: Gordon Kruberg

@@ -13,12 +13,13 @@ image:
   featured: true
   name: BUD17-306.jpg
   path: /assets/images/featured-images/BUD17-306.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-306/
 post_format:
 - Video
 session_id: BUD17-306
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73170768
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17306-odp-ipsec-offload-panel
 slug: bud17-306
 speakers: Bill Fischofer, Bala Manoharan,Nikhil Agarwal, Bogdan Pricope, Petri Savolainen

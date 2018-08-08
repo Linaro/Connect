@@ -18,12 +18,13 @@ image:
   featured: true
   name: SFO15200LinuxkernelgenericTEEdriver.jpg
   path: /assets/images/featured-images/SFO15200LinuxkernelgenericTEEdriver.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-200-linux-kernel-generic-tee-driver/
 post_format:
 - Video
 session_id: None
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52895328
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15200-linux-kernel-generic-tee-driver
 slug: sfo15-200-linux-kernel-generic-tee-driver
 speakers: Jens Wiklander

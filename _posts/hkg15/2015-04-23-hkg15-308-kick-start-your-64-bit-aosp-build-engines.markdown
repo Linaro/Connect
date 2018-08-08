@@ -11,12 +11,13 @@ image:
   featured: true
   name: HKG15-308.jpg
   path: /assets/images/featured-images/HKG15-308.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-308-kick-start-your-64-bit-aosp-build-engines/
 post_format:
 - Video
 session_id: HKG15-308
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44413716
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15308-kickstart-your-64bit-aosp-build-engines
 slug: hkg15-308-kick-start-your-64-bit-aosp-build-engines
 speakers: Amit Pundir

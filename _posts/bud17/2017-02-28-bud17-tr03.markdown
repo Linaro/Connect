@@ -12,12 +12,13 @@ image:
   featured: true
   name: BUD17-TR03.jpg
   path: /assets/images/featured-images/BUD17-TR03.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-tr03/
 post_format:
 - Video
 session_id: BUD17-TR03
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786331
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17tr03-upstreaming-201
 slug: bud17-tr03
 speakers: Mathieu Poirier

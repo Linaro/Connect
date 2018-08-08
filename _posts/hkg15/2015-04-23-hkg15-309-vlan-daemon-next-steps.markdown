@@ -15,12 +15,13 @@ image:
   featured: true
   name: HKG15-309.jpg
   path: /assets/images/featured-images/HKG15-309.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-309-vlan-daemon-next-steps/
 post_format:
 - Video
 session_id: HKG15-309
 session_track: Networking, Validation
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44898055
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15309-vlan-daemon-next-steps
 slug: hkg15-309-vlan-daemon-next-steps
 speakers: Dave Pigott

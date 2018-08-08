@@ -22,12 +22,13 @@ image:
   featured: true
   name: SFO17-100.jpg
   path: /assets/images/featured-images/SFO17-100.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-100/
 post_format:
 - Video
 session_id: SFO17-100
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80525172
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/internet-of-tiny-linux-iotl-episode-iv-sfo17100
 slug: sfo17-100
 speakers: Nicolas Pitre

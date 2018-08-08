@@ -15,12 +15,13 @@ image:
   featured: true
   name: SFO15502UsinggenericcpuidleframeworkforARMARM64inyourdriver.jpg
   path: /assets/images/featured-images/SFO15502UsinggenericcpuidleframeworkforARMARM64inyourdriver.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-502-using-generic-cpuidle-framework-for-arm-arm64-in-your-driver/
 post_format:
 - Video
 session_id: None
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53035823
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15502-using-generic-cpuidle-framework-for-armarm64-in-your-driver
 slug: sfo15-502-using-generic-cpuidle-framework-for-arm-arm64-in-your-driver
 speakers: Daniel Lezcano

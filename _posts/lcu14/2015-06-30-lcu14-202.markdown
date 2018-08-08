@@ -5,7 +5,7 @@ date: 2015-06-30 17:09:22+00:00
 excerpt: Several engineers from ARM and Linaro attended the EAS workshop at Kernel
   Summit. The goal of the session is to update everyone else on the key outcomes of
   the workshop and outline the plan going forward.
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-202/
 session_id: LCU14-202
 session_track: Power Management

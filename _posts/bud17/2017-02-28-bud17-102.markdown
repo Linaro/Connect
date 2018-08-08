@@ -16,12 +16,13 @@ image:
   featured: true
   name: BUD17-102.jpg
   path: /assets/images/featured-images/BUD17-102.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-102/
 post_format:
 - Video
 session_id: BUD17-102
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72784407
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17102-update-on-cpu-cluster-idling
 slug: bud17-102
 speakers: Ulf Hansson

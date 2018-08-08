@@ -16,12 +16,13 @@ image:
   featured: true
   name: BUD17-117.jpg
   path: /assets/images/featured-images/BUD17-117.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-117/
 post_format:
 - Video
 session_id: BUD17-117
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73262336
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/auto-vectorization-support-in-openjdk9-hotspot-c2-compiler-bud1711
 slug: bud17-117
 speakers: Stuart Monteith

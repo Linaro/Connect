@@ -16,12 +16,13 @@ image:
   featured: true
   name: SFO15401MainlineonformfactordevicesImprovingAOSP.jpg
   path: /assets/images/featured-images/SFO15401MainlineonformfactordevicesImprovingAOSP.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-401-mainline-on-form-factor-devices-improving-aosp/
 post_format:
 - Video
 session_id: None
 session_track: Mobile
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52946610
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15401-mainline-on-formfactor-devices-improving-aosp
 slug: sfo15-401-mainline-on-form-factor-devices-improving-aosp
 speakers: John Stultz

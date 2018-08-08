@@ -13,12 +13,13 @@ image:
   featured: true
   name: BUD17-304.jpg
   path: /assets/images/featured-images/BUD17-304.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-304/
 post_format:
 - Video
 session_id: BUD17-304
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73259950
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/p4-to-opendataplane-compiler-bud17304-73259950
 slug: bud17-304
 speakers: Zoltan Kiss, Gergely Pongracz

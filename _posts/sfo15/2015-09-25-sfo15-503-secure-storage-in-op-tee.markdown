@@ -17,12 +17,13 @@ image:
   featured: true
   name: SFO15503SecurestorageinOPTEE.jpg
   path: /assets/images/featured-images/SFO15503SecurestorageinOPTEE.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-503-secure-storage-in-op-tee/
 post_format:
 - Video
 session_id: None
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53035879
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15503-secure-storage-in-optee
 slug: sfo15-503-secure-storage-in-op-tee
 speakers: James Kung

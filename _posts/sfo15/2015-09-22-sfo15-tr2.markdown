@@ -21,12 +21,13 @@ image:
   featured: true
   name: SFO15-TR2.jpg
   path: /assets/images/featured-images/SFO15-TR2.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr2/
 post_format:
 - Video
 session_id: SFO15-TR2
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53571899
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15tr2-upstreaming-101
 slug: sfo15-tr2
 speakers: None

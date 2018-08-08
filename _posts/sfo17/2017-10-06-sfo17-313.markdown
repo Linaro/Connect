@@ -16,12 +16,13 @@ image:
   featured: true
   name: SFO17-313.jpg
   path: /assets/images/featured-images/SFO17-313.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-313/
 post_format:
 - Video
 session_id: SFO17-313
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80099265
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/odp-for-nfv-use-sfo17313
 slug: sfo17-313
 speakers: 'Honnappa Nagarahalli '

@@ -12,12 +12,13 @@ image:
   featured: true
   name: BUD17-DF08.jpg
   path: /assets/images/featured-images/BUD17-DF08.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df08/
 post_format:
 - Video
 session_id: BUD17-DF08
 session_track: RDK ports on 96Boards
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73368363
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/rdk-ports-on-96boards
 slug: bud17-df08
 speakers: LHG

@@ -32,12 +32,13 @@ image:
   featured: true
   name: LAS16-309.png
   path: /assets/images/featured-images/LAS16-309.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-309/
 post_format:
 - Video
 session_id: LAS16-309
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357564
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16309-server-ecosystem-xen-on-arm-from-big-iron-to-iot-luajit-status-on-aarch64
 slug: las16-309
 speakers: Ryan Arnold, Steve Capper, Julien Grall

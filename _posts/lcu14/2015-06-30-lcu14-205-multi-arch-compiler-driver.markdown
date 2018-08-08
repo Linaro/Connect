@@ -16,12 +16,13 @@ image:
   featured: true
   name: LCU14-205.jpg
   path: /assets/images/featured-images/LCU14-205.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-205-multi-arch-compiler-driver/
 post_format:
 - Video
 session_id: LCU14-205
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39029880
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-205-multiarch-compiler-driver
 slug: lcu14-205-multi-arch-compiler-driver
 speakers: Renato Golin, Maxim Kuvyrkov

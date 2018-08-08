@@ -2,7 +2,7 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-407.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Thursday/BKK16-407%20AOSP%20Toolchain%20Evolution%20and%20experimental%20languages%20on%20AOSP.mp4
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:52
 excerpt: 'Big toolchain changes ahead...
@@ -21,12 +21,13 @@ image:
   featured: true
   name: BKK16-407.jpg
   path: /assets/images/featured-images/BKK16-407.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-407/
 post_format:
 - Video
 session_id: BKK16-407
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58228791
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16407-aosp-toolchain-evolution-and-experimental-languages-on-aosp
 slug: bkk16-407
 speakers: 'Bero

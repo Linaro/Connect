@@ -23,12 +23,13 @@ image:
   featured: true
   name: SFO17-106.jpg
   path: /assets/images/featured-images/SFO17-106.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-106/
 post_format:
 - Video
 session_id: SFO17-106
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80641678
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/the-purpose-of-qemu-emulation-sfo17106
 slug: sfo17-106
 speakers: Christoffer Dall

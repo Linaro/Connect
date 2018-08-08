@@ -25,11 +25,12 @@ image:
   featured: true
   name: HKG18-200K2.png
   path: /assets/images/featured-images/HKG18-200K2.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-200k2/
 post_format:
 - Video
 session_id: HKG18-200K2
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92878286
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18200k2-keynote-mingfei-huang-accelerating-ai-from-cloud-to-edge
 slug: hkg18-200k2
 speakers: Mingfei Huang

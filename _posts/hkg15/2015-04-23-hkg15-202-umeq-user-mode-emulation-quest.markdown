@@ -14,12 +14,13 @@ image:
   featured: true
   name: HKG15-202.jpg
   path: /assets/images/featured-images/HKG15-202.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-202-umeq-user-mode-emulation-quest/
 post_format:
 - Video
 session_id: HKG15-202
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44887032
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15202-umeq-user-mode-emulation-quest
 slug: hkg15-202-umeq-user-mode-emulation-quest
 speakers: Remi Durafort

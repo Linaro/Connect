@@ -43,12 +43,13 @@ image:
   featured: true
   name: HKG15-300.jpg
   path: /assets/images/featured-images/HKG15-300.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-300-arts-quick-compiler-an-unofficial-overview/
 post_format:
 - Video
 session_id: HKG15-300
 session_track: Mobile
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44896758
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15300-arts-quick-compiler-an-unofficial-overview
 slug: hkg15-300-arts-quick-compiler-an-unofficial-overview
 speakers: Matteo Franchin

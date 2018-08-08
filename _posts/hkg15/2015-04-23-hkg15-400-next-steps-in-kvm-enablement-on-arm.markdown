@@ -10,12 +10,13 @@ image:
   featured: true
   name: HKG15-400.jpg
   path: /assets/images/featured-images/HKG15-400.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-400-next-steps-in-kvm-enablement-on-arm/
 post_format:
 - Video
 session_id: HKG15-400
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/45178884
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15400-next-steps-in-kvm-enablement-on-arm
 slug: hkg15-400-next-steps-in-kvm-enablement-on-arm
 tags:

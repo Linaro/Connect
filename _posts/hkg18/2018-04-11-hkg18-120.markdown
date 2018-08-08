@@ -1,5 +1,4 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-120.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-120.mp4
 author: connect
 categories:
@@ -20,12 +19,13 @@ image:
   featured: true
   name: HKG18-120.png
   path: /assets/images/featured-images/HKG18-120.png
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-120/
 post_format:
 - Video
 session_id: HKG18-120
 session_track: Kernel
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92871911
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18120-devicetree-schema-documentation-and-validation
 slug: hkg18-120
 speakers: Grant Likely

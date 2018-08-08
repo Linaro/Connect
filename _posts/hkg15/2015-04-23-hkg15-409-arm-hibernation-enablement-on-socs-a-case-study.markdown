@@ -16,12 +16,13 @@ image:
   featured: true
   name: HKG15-409.jpg
   path: /assets/images/featured-images/HKG15-409.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-409-arm-hibernation-enablement-on-socs-a-case-study/
 post_format:
 - Video
 session_id: HKG15-409
 session_track: Mobile
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44515522
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15409-arm-hibernation-enablement-on-socs-a-case-study
 slug: hkg15-409-arm-hibernation-enablement-on-socs-a-case-study
 speakers: Grygorii Strashko

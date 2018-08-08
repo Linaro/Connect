@@ -17,12 +17,13 @@ image:
   featured: true
   name: BUD17-107.jpg
   path: /assets/images/featured-images/BUD17-107.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-107/
 post_format:
 - Video
 session_id: BUD17-107
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73262598
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/pcie-endpoint-mode-of-operation-in-opendataplane-odp-bud17107
 slug: bud17-107
 speakers: Narayana Prasad Athreya

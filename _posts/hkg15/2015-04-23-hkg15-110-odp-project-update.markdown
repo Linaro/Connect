@@ -12,12 +12,13 @@ image:
   featured: true
   name: HKG15-110.jpg
   path: /assets/images/featured-images/HKG15-110.jpg
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-110-odp-project-update/
 post_format:
 - Video
 session_id: HKG15-110
 session_track: Networking
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44886683
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15110-odp-project-update
 slug: hkg15-110-odp-project-update
 speakers: Bill Fischofer
