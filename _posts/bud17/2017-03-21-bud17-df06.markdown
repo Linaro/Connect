@@ -3,7 +3,7 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: None
 author: celia.ilardi
 categories:
-- demo-friday
+- bud17
 comments: false
 date: 2017-03-21 15:16:42
 excerpt: Apache Ambari and Big data components on AARCH64
