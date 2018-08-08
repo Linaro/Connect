@@ -43,7 +43,7 @@ css-package: resources-blog
                                    </div>
                                 {% endif %}
                             </div>
-                            {% if page.amazon_s3_video_url page.amazon_s3_video_url != "None" and page.amazon_s3_video_url != "n/a" %}
+                            {% if page.amazon_s3_video_url and page.amazon_s3_video_url != "None" and page.amazon_s3_video_url != "n/a" %}
                                 <div class="s3-link">
                                     <a href="{{page.amazon_s3_video_url}}" class="btn btn-primary s3-download">Download Video</a>
                                 </div>
