@@ -3,7 +3,7 @@ amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Pre
 amazon_s3_video_url: None
 author: connect
 categories:
-- demo-friday
+- bud17
 comments: false
 date: 2017-03-23 16:45:50
 excerpt: 'Linux and Xenomai applied to pan and tilt motor control using GPIOs

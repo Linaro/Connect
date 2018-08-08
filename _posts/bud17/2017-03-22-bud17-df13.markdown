@@ -3,7 +3,7 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: None
 author: celia.ilardi
 categories:
-- demo-friday
+- bud17
 comments: false
 date: 2017-03-22 11:25:32
 excerpt: ARMv8-M secure debug demo
