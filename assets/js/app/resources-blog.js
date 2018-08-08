@@ -4,30 +4,33 @@ $(window).on("load", function () {
         // Get data-src url
         var url = $("#youtube-iframe").attr("data-src");
         // Function to return the ID of a youtube video given the standard URL
-        function getId(url) {
-            var regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
-            var match = url.match(regExp);
+        if(url){
+            function getId(url) {
+                var regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
+                var match = url.match(regExp);
 
-            if (match && match[2].length == 11) {
-                return match[2];
-            } else {
-                return 'error';
+                if (match && match[2].length == 11) {
+                    return match[2];
+                } else {
+                    return 'error';
+                }
             }
-        }
-        // Get the ID for the YouTube video.
-        var youtubeId = getId(url);
-        // Create the YouTube embed url
-        var embedUrl = "//www.youtube.com/embed/" + youtubeId;
-        // Set the src to the data-src
-        $("#youtube-iframe").attr("src", embedUrl);
+            // Get the ID for the YouTube video.
+            var youtubeId = getId(url);
+            // Create the YouTube embed url
+            var embedUrl = "//www.youtube.com/embed/" + youtubeId;
+            // Set the src to the data-src
+            $("#youtube-iframe").attr("src", embedUrl);
 
-        $("#youtube-iframe").on("load", function () {
-            $("#video-embed").removeClass("hidden-iframe");
-            $(this).removeClass("hidden-iframe");
-            $("#video-skeleton").hide();
-            $(this).addClass("visible-iframe");
-            $("#video-embed").addClass("visible-iframe");
-        });
+            $("#youtube-iframe").on("load", function () {
+                $("#video-embed").removeClass("hidden-iframe");
+                $(this).removeClass("hidden-iframe");
+                $("#video-skeleton").hide();
+                $(this).addClass("visible-iframe");
+                $("#video-embed").addClass("visible-iframe");
+            });
+        }
+        
     }
     // Presentation Lazy load
     if ($("#presentation-iframe")){

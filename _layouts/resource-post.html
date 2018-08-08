@@ -16,11 +16,11 @@ css-package: resources-blog
                                 {% if page.session_track contains "," %}
                                     {% assign tracks = page.session_track | split: "," %}
                                     {% for track in tracks %}
-                                        <a href="/resources/tracks/#{{track}}"><span class="track">{{track}}</span></a>
+                                        <a href="/resources/tracks/#{{track | downcase}}"><span class="track">{{track}}</span></a>
                                     {% endfor %}
                                 {% else %}
                                     {% unless page.session_track == "None" %}
-                                        <a href="/resources/tracks/#{{page.session_track}}"><span class="track">{{page.session_track}}</span></a>
+                                        <a href="/resources/tracks/#{{page.session_track | downcase }}"><span class="track">{{page.session_track}}</span></a>
                                     {% endunless %}
                                 {% endif %}
                             </div>
