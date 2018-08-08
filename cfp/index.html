@@ -4,55 +4,34 @@ permalink: /cfp/
 layout: container-breadcrumb
 ---
 <div class="row" id="cfp">
-    <div class="container no-padding">
-        <div class="col-md-6" style="margin-top:30px;">
+<div class="container no-padding">
+<div class="col-md-6" style="margin-top:30px;" markdown="1">
 
-            <p>
-                We are now collecting proposals for technical sessions at Linaro Connect Vancouver (YVR18).
-            </p>
-            <p>
-                Linaro Connect is all about providing a platform to discuss and learn about the leading software topics, challenges and opportunities in the ARM Ecosystem today. What are the problems, innovations and hands-on knowledge that today’s ARM Developers are working on? From the smallest devices (IoT and embedded) to big data (enterprise), there is an ARM solution. We welcome proposals for (1) Technical Presentation (2) Technical Discussions and (3) Birds of a Feather (BoF). Want to share what you’ve been working on? Click on the button below to submit your proposal.
-            </p>
+We are now collecting proposals for technical sessions at Linaro Connect Vancouver (YVR18).
 
+Linaro Connect is all about providing a platform to discuss and learn about the leading software topics, challenges and opportunities in the ARM Ecosystem today. What are the problems, innovations and hands-on knowledge that today’s ARM Developers are working on? From the smallest devices (IoT and embedded) to big data (enterprise), there is an ARM solution. We welcome proposals for (1) Technical Presentation (2) Technical Discussions and (3) Birds of a Feather (BoF). Want to share what you’ve been working on? Click on the button below to submit your proposal.
 
-            <h4>Timeline of submission process</h4>
+#### Timeline of submission process
+<ul class="list-group">
+    <li class="list-group-item">Deadline to submit proposals 23 July 2018</li>
+    <li class="list-group-item">Notifications of acceptance by 6 August 2018</li>
+    <li class="list-group-item">Full schedule announced 8 August 2018</li>
+</ul>
 
-            <ul class="list-group">
-                <li class="list-group-item">Deadline to submit proposals 23 July 2018</li>
-                <li class="list-group-item">Notifications of acceptance by 6 August 2018</li>
-                <li class="list-group-item">Full schedule announced 8 August 2018</li>
-            </ul>
-            <p>
-                <em>Please note</em>: We are using a new system to collect all proposals for YVR18 and you will be required to enter your email address and create a password in order to submit your proposal. You will then be able to login and modify your submission, add a collaborator to help you complete the submission (if necessary), check on the status, and receive updates and instructions.
-            </p>
-            <a href="https://catalyst.omnipress.com/#collection/348/submission" class="btn btn-primary">Submit Proposal</a>
-        </div>
-        <div class="col-md-6" style="margin-top:30px;">
-            <h4>Common Topic Areas</h4> 
-            
-            
-            <ul class="list-group">
-                <li class="list-group-item">Android</li>
-                <li class="list-group-item">Autonomous Vehicle</li>
-                <li class="list-group-item">Big Data</li>
-                <li class="list-group-item">Data Center</li>
-                <li class="list-group-item">High Performance Computing (HPC)</li>
-                <li class="list-group-item">Infrastructure and Automation (LAVA/</li>
-                <li class="list-group-item">IoT and AI</li>
-                <li class="list-group-item">IoT and Embedded</li>
-                <li class="list-group-item">IoT Fog/Gateway/Edge Computing</li>
-                <li class="list-group-item">Linux Kernel</li>
-                <li class="list-group-item">Machine Learning/AI</li>
-                <li class="list-group-item">Multimedia (Streaming Media, secure data path)</li>
-                <li class="list-group-item">Networking (General)</li>
-                <li class="list-group-item">Networking: Userland IO (ODP, net_mdev,DPDK, DMA_buf…)</li>
-                <li class="list-group-item">Open Source Development (Licensing, tools, governance, Community Projects)</li>
-                <li class="list-group-item">Power Management</li>
-                <li class="list-group-item">Security</li>
-                <li class="list-group-item">Tools</li>
-                <li class="list-group-item">Training</li>
-                <li class="list-group-item">Other</li>
-            </ul>
-        </div>
-    </div>
+__Please note__: We are using a new system to collect all proposals for YVR18 and you will be required to enter your email address and create a password in order to submit your proposal. You will then be able to login and modify your submission, add a collaborator to help you complete the submission (if necessary), check on the status, and receive updates and instructions.
+
+<a href="https://catalyst.omnipress.com/#collection/348/submission" class="btn btn-primary">Submit Proposal</a>
+
+</div>
+<div class="col-md-6" style="margin-top:30px;" markdown="1">
+#### Common Topic Areas 
+
+<ul class="list-group">
+    {% for item in site.data.common-topic-areas %}
+        <li class="list-group-item">{{item}}</li>
+    {% endfor %}
+</ul>
+
+</div>
+</div>
 </div>
