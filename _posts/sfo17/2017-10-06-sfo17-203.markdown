@@ -2,16 +2,26 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-203%20-%20Reliability%2C%20Availability%2C%20and%20Serviceability%20%28RAS%29%20on%20ARM64%20status.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-203%20Reliability%2C%20Availability%20and%20Serviceability%20%28RAS%29%20on%20ARM64%20status.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:54:16+00:00
+date: 2017-10-06 16:54:16
 excerpt: This presentation gives an updated RAS architecture on ARM64 base on RAS
   extension (in ARMv8.2), SDEI (Software Delegated Exception Interface), APEI, UEFI
   PI-SMM.  Will talk about all the components of the new RAS architecture on ARM64,
   gives audience the current status and the next step of development.
-layout: post
+featured_image_name: SFO17-203.jpg
+image:
+  featured: true
+  name: SFO17-203.jpg
+  path: /assets/images/featured-images/SFO17-203.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-203/
+post_format:
+- Video
 session_id: SFO17-203
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80657172
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/reliability-availability-and-serviceability-ras-on-arm64-status-sfo17203
 slug: sfo17-203
 speakers: Fu Wei
@@ -20,10 +30,6 @@ video_length: '51:07'
 video_thumbnail: None
 wordpress_id: 5961
 youtube_video_url: https://www.youtube.com/watch?v=NReFBzbeWi0
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-203

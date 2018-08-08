@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-10-Tuesday/HKG15-201.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-10-Tuesday/HKG15-201+Upstream+Kernel+Validation.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:37:05+00:00
+date: 2015-04-23 15:37:05
 excerpt: Performing kernel validation on hundreds of platforms for every merge on
   every upstream tree is a very challenging endeavor. Currently, much of this testing
   is performed by the maintainers, and/or chip vendors. The end result is that the
@@ -14,22 +16,21 @@ excerpt: Performing kernel validation on hundreds of platforms for every merge o
   through of the dashboard. A demo will provide users an example of how they may interact
   with the system. The second half of the session will be a dedicated discussions
   on next steps.
-layout: post
+featured_image_name: HKG15-201.jpg
+image:
+  featured: true
+  name: HKG15-201.jpg
+  path: /assets/images/featured-images/HKG15-201.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-201-upstream-kernel-validation/
+post_format:
+- Video
 session_id: HKG15-201
 session_track: Validation
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44417686
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15201-upstream-kernel-validation
 slug: hkg15-201-upstream-kernel-validation
 speakers: Tyler Baker, Milo Casagrande, Kevin Hilman
-title: 'HKG15-201: Upstream Kernel Validation'
-video_length: '53:38'
-video_thumbnail: None
-wordpress_id: 716
-youtube_video_url: https://www.youtube.com/watch?v=Uifh3Y6QklE
-categories:
-- hkg15
-post_format:
-- Video
 tags:
 - hkg15
 - HKG15-201
@@ -37,6 +38,11 @@ tags:
 - Milo Casagrande
 - Tyler Baker
 - Validation
+title: 'HKG15-201: Upstream Kernel Validation'
+video_length: '53:38'
+video_thumbnail: None
+wordpress_id: 716
+youtube_video_url: https://www.youtube.com/watch?v=Uifh3Y6QklE
 ---
 
 HKG15-201: Upstream Kernel Validation 

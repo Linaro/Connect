@@ -1,33 +1,39 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-408%20-%20RDK%20on%2096Boards.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-408%20RDK%20on%2096Boards.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:48+00:00
+date: 2017-02-28 12:05:48
 excerpt: LHG has been working on integrating open source features to the RDK for almost
   three years. Over time the development team has run RDK on many target boards. This
   presentation will discuss the 96B platforms that are running RDK and the challenges
   related to each port.
-layout: post
+featured_image_name: BUD17-408.jpg
+image:
+  featured: true
+  name: BUD17-408.jpg
+  path: /assets/images/featured-images/BUD17-408.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-408/
+post_format:
+- Video
 session_id: BUD17-408
 session_track: LHG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786906
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17408-rdk-on-96boards
 slug: bud17-408
 speakers: Sivasubramanian Patchaiperumal
+tags:
+- 96Boards
+- LHG
+- RDK
 title: RDK on 96Boards - BUD17-408
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4699
 youtube_video_url: https://youtu.be/WoIYBgkprgs
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- 96Boards
-- LHG
-- RDK
 ---
 
 "Session ID: BUD17-408

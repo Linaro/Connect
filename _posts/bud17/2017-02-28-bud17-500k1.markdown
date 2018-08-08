@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-500K1-Corbet-maint.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Friday/BUD17-500K1The%20kernels%20limits%20to%20growth%20-%20Jonathan%20Corbet%20from%20LWN%20-%20BUD17-500K1.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:54+00:00
+date: 2017-02-28 12:05:54
 excerpt: The Linux kernel is one of the most successful software-development projects
   ever. To get there we had to surmount a number of process and community-management
   hurdles, though. The result is a development process that is a wonder to behold,
@@ -11,27 +13,31 @@ excerpt: The Linux kernel is one of the most successful software-development pro
   We are facing a number of obstacles that, beyond limiting our future growth, might
   even threaten our ability to sustain our current development pace. What are those
   obstacles, and what can we be doing to address them?
-layout: post
+featured_image_name: BUD17-500K1.jpg
+image:
+  featured: true
+  name: BUD17-500K1.jpg
+  path: /assets/images/featured-images/BUD17-500K1.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-500k1/
+post_format:
+- Video
 session_id: BUD17-500K1
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73171293
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/the-kernels-limits-to-growth-bud17500k1
 slug: bud17-500k1
 speakers: Jonathan Corbet
-title: The kernel’s limits to growth - BUD17-500K1
-video_length: '47:36'
-video_thumbnail: None
-wordpress_id: 4717
-youtube_video_url: https://www.youtube.com/watch?v=_hajkHgyVbk
-categories:
-- bud17
-post_format:
-- Video
 tags:
 - corbet
 - Kernel
 - Keynote
 - Linux
+title: "The kernel\u2019s limits to growth - BUD17-500K1"
+video_length: '47:36'
+video_thumbnail: None
+wordpress_id: 4717
+youtube_video_url: https://www.youtube.com/watch?v=_hajkHgyVbk
 ---
 
 "Session ID: BUD17-500K1

@@ -2,8 +2,10 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-119%20-%20Performance%20Evaluation%20for%20Containerized%20NFV-I%20on%20Arm%20via%20OPNFV%20Yardstick.pptx.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-119%20-%20Performance%20Evaluation%20for%20Containerized%20NFV-I%20on%20Arm%20via%20OPNFV%20Yardstick.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:54:03+00:00
+date: 2017-10-06 16:54:03
 excerpt: As we know, container technology are the most eminent virtualization technology
   today. For ARM NFVI infrastructure, Kubernetes is used as the container orchestration
   engine with DPDK data plane acceleration for container networking. How to evaluate
@@ -12,10 +14,18 @@ excerpt: As we know, container technology are the most eminent virtualization te
   hand, for CI-CD purpose of our NFVI development work, how to efficiently measure,
   collect and analyze the performance data of the container networking environment
   for ARM container based NFVI infrastructure is also an important issue to deal with.
-layout: post
+featured_image_name: SFO17-119.jpg
+image:
+  featured: true
+  name: SFO17-119.jpg
+  path: /assets/images/featured-images/SFO17-119.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-119/
+post_format:
+- Video
 session_id: SFO17-119
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80642732
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/performance-evaluation-for-containerized-nfvi-on-arm-via-opnfv-yardstick-sfo17119
 slug: sfo17-119
 speakers: Herbert Guan
@@ -25,10 +35,6 @@ video_length: '20:41'
 video_thumbnail: None
 wordpress_id: 5951
 youtube_video_url: https://www.youtube.com/watch?v=kZX1GedKKEQ
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-119

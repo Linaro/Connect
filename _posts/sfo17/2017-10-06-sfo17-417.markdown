@@ -2,8 +2,10 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-417-SEL4.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-417%20-%20Using%20math%20to%20prevent%20Linux%20in%20your%20car%20from%20killing%20you-%20The%20Open%20Source%20SEL4%20kernel.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:56:05+00:00
+date: 2017-10-06 16:56:05
 excerpt: 'A run-time bug in operating system software that enables car control can
 
   result in loss of life or limb. Safety assessors require evidence that such
@@ -25,10 +27,18 @@ excerpt: 'A run-time bug in operating system software that enables car control c
   bugs. This then permits running Linux safely in virtual machines on top of
 
   seL4 - something that the Auto world demands.'
-layout: post
+featured_image_name: SFO17-417.jpg
+image:
+  featured: true
+  name: SFO17-417.jpg
+  path: /assets/images/featured-images/SFO17-417.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-417/
+post_format:
+- Video
 session_id: SFO17-417
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80298586
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/using-math-to-prevent-linux-in-your-car-from-killing-you-the-open-source-sel4-kernel-sfo17417
 slug: sfo17-417
 speakers: Gernot Heiser
@@ -38,10 +48,6 @@ video_length: 01:13:20
 video_thumbnail: None
 wordpress_id: 6351
 youtube_video_url: https://www.youtube.com/watch?v=heSmrHzHcuM
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-417

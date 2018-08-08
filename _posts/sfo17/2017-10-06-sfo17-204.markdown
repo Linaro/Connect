@@ -2,26 +2,35 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-204-%20Functional%20Safety%20and%20development%20tools.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-204%20Functional%20Safety%20and%20development%20tools.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:54:16+00:00
-excerpt: "In areas such as automotive where faulty software could lead to a risk to\
-  \ human safety, software development is often covered by functional safety standards\
-  \ such as ISO 26262.\n \n The Development tools used to produce software are themselves\
-  \ complex pieces of software that are far from bug free. In the worst case a development\
-  \ tool can silently inject a fault into the output of its customer's software or\
-  \ give false assurances by failing to detect a diagnoseable error in the input.\
-  \ The functional safety standards used in these markets require the developer's\
-  \ tool choice and specific usage of it to be justified against a standard risk assessment\
-  \ schema, a process known as 'qualification'.\n \n In this presentation I will present:\n\
-  \ - Introduction to functional safety concepts\n - How these are applied to development\
-  \ tools\n - ARM's experience in producing the ARM Compiler Qualification Kit and\
-  \ how we adapted it to cover components derived from open source.\n \n The content\
-  \ assumes no prior knowledge of functional safety, the technical focus is on development\
-  \ process."
-layout: post
+date: 2017-10-06 16:54:16
+excerpt: "In areas such as automotive where faulty software could lead to a risk to
+  human safety, software development is often covered by functional safety standards
+  such as ISO 26262.\n \n The Development tools used to produce software are themselves
+  complex pieces of software that are far from bug free. In the worst case a development
+  tool can silently inject a fault into the output of its customer's software or give
+  false assurances by failing to detect a diagnoseable error in the input. The functional
+  safety standards used in these markets require the developer's tool choice and specific
+  usage of it to be justified against a standard risk assessment schema, a process
+  known as 'qualification'.\n \n In this presentation I will present:\n - Introduction
+  to functional safety concepts\n - How these are applied to development tools\n -
+  ARM's experience in producing the ARM Compiler Qualification Kit and how we adapted
+  it to cover components derived from open source.\n \n The content assumes no prior
+  knowledge of functional safety, the technical focus is on development process."
+featured_image_name: SFO17-204.jpg
+image:
+  featured: true
+  name: SFO17-204.jpg
+  path: /assets/images/featured-images/SFO17-204.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-204/
+post_format:
+- Video
 session_id: SFO17-204
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79884897
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/functional-safety-and-development-tools-sfo17204
 slug: sfo17-204
 speakers: Peter Smith
@@ -30,10 +39,6 @@ video_length: '54:09'
 video_thumbnail: None
 wordpress_id: 5963
 youtube_video_url: https://www.youtube.com/watch?v=wf4KppZ5L9g
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-204
@@ -80,4 +85,4 @@ Event Date: 26 Sept 2017
 
 Speakers: Peter Smith
 
-Position: 
+Position:

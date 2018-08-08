@@ -1,18 +1,28 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr04.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr04.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:16:35+00:00
+date: 2018-04-11 14:16:35
 excerpt: As well as a compiler, a major output of the LLVM project are the Clang developer
   tools and libclang. In this presentation we will take a look at how to use these
   tools in your C/C++ project regardless of whether you use clang as your compiler.
   We'll cover tools such as clang-format, clang-tidy and clang-check, with a look
   at how you can use the python bindings to libclang to build your own custom tool.
-layout: post
+featured_image_name: HKG18-TR04.png
+image:
+  featured: true
+  name: HKG18-TR04.png
+  path: /assets/images/featured-images/HKG18-TR04.png
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-tr04/
+post_format:
+- Video
 session_id: HKG18-TR04
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92158736
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18tr04-using-the-clang-developer-tools
 slug: hkg18-tr04
 speakers: Peter Smith
@@ -21,10 +31,6 @@ video_length: '28:47'
 video_thumbnail: None
 wordpress_id: 8882
 youtube_video_url: https://www.youtube.com/watch?v=FO1qmxYFWc4
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-TR04
@@ -33,15 +39,15 @@ Speaker: Peter Smith
 Track: Training
 
 
-★ Session Summary ★
+## Session Summary
 As well as a compiler, a major output of the LLVM project are the Clang developer tools and libclang. In this presentation we will take a look at how to use these tools in your C/C++ project regardless of whether you use clang as your compiler. We'll cover tools such as clang-format, clang-tidy and clang-check, with a look at how you can use the python bindings to libclang to build your own custom tool.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-tr04/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr04.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr04.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -56,8 +62,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Peter Smith
+**Speakers**: Peter Smith
 
-Speaker Positions: Principal Engineer
-
-
+**Speaker Positions**: Principal Engineer

@@ -1,29 +1,34 @@
 ---
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-25-Friday/SFO15-500K3
   - Guest Keynote- Security Panel.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-25 00:00:00+00:00
-layout: post
+date: 2015-09-25 00:00:00
+featured_image_name: SFO15500K3GuestKeynoteSecurityPanel.jpg
+image:
+  featured: true
+  name: SFO15500K3GuestKeynoteSecurityPanel.jpg
+  path: /assets/images/featured-images/SFO15500K3GuestKeynoteSecurityPanel.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-500k3-guest-keynote-security-panel/
+post_format:
+- Video
 session_id: None
 session_track: Keynote
 slug: sfo15-500k3-guest-keynote-security-panel
 speakers: Grant Likely
-title: 'SFO15-500K3 : Guest Keynote: Security Panel'
-video_length: '25:01'
-video_thumbnail: None
-wordpress_id: 2882
-youtube_video_url: https://www.youtube.com/watch?v=KTeT6yC915Y
-categories:
-- Linaro Connect San Francisco 2015
-post_format:
-- Video
 tags:
 - ARM
 - Linaro
 - Linux
 - Security
+title: 'SFO15-500K3 : Guest Keynote: Security Panel'
+video_length: '25:01'
+video_thumbnail: None
+wordpress_id: 2882
+youtube_video_url: https://www.youtube.com/watch?v=KTeT6yC915Y
 ---
 
 SFO15-500K3: Security Panel

@@ -1,32 +1,38 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Thursday/LAS16-409%20-%20Time%20Sensitive%20Networking%20-%20kernel%20modifications%20for%20automotive-industrial.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Thursday/LAS16-409%20Time%20Sensitive%20Networking%20kernel%20modifications%20for%20automotive%20%20industrial.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:59+00:00
+date: 2016-09-20 17:10:59
 excerpt: Time Sensitive Networking (TSN) is a set of protocols and extensions that
   allow precise control of traffic latencies over standard Ethernet and is of growing
   importance in Automotive, Industrial, and Professional Audio/Video domains. This
   talk provides an overview of the topic and will include a dialog to help set priorities
   and next steps for work in this area with other interested groups.
-layout: post
+featured_image_name: LAS16-409.png
+image:
+  featured: true
+  name: LAS16-409.png
+  path: /assets/images/featured-images/LAS16-409.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-409/
+post_format:
+- Video
 session_id: LAS16-409
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357967
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16409time-sensitive-networking-kernel-modifications-for-automotiveindustrial
 slug: las16-409
 speakers: None
+tags:
+- Networking
 title: 'LAS16-409: Time Sensitive Networking: kernel modifications for automotive/industrial'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3850
 youtube_video_url: https://youtu.be/jDZ-o1pBSYM
-categories:
-- Linaro Connect Las Vegas 2016 (LAS16)
-post_format:
-- Video
-tags:
-- Networking
 ---
 
 LAS16-409: Time Sensitive Networking: kernel modifications for automotive/industrial
@@ -38,10 +44,10 @@ Time Sensitive Networking (TSN) is a set of protocols and extensions that allow 
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-409
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-409/](http://connect.linaro.org/resource/las16/las16-409/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-409/](/resources/las16/las16-409/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

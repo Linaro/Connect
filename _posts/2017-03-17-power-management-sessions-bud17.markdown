@@ -1,9 +1,16 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- Blog
 comments: false
-date: 2017-03-17 15:40:19+00:00
+date: 2017-03-17 15:40:19
+featured_image_name: PowerManagementsessionsfromBUD17.jpg
+image:
+  featured: true
+  name: PowerManagementsessionsfromBUD17.jpg
+  path: /assets/images/featured-images/PowerManagementsessionsfromBUD17.jpg
 layout: post
 link: http://connect.linaro.org/blog/power-management-sessions-bud17/
 session_id: None
@@ -16,11 +23,10 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5572
 youtube_video_url: None
-categories:
-- Blog
 ---
 
 https://www.youtube.com/playlist?list=PLKZSArYQptsMbk293t64TnZmxzLp-bRib
+
 **Session Name:**
 Update on CPU cluster Idling – BUD17-102
 
@@ -30,13 +36,9 @@ Even if the CPU-Idle framework has improved significantly over the last years, w
 **Speakers:** Ulf Hansson
 **Track:** Power Management
 **Session ID:** BUD17-102
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-102/](http://connect.linaro.org/resource/bud17/bud17-102/)
-
-
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-102/](/resources/bud17/bud17-102/)
 
 * * *
-
-
 
 **Session Name:**
 Bus scaling QoS update – BUD17-214
@@ -47,15 +49,10 @@ This session is a sequel of the “Bus scaling QoS” session from LAS16. During
 **Speakers:** Georgi Djakov
 **Track:** Power Management
 **Session ID:** BUD17-214
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-214/](http://connect.linaro.org/resource/bud17/bud17-214/)
-
-
-
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-214/](/resources/bud17/bud17-214/)
 
 
 * * *
-
-
 
 **Session Name:**
 Scheduler Load tracking update and improvement – BUD17-218
@@ -66,15 +63,10 @@ The Per Entity Load Tracking (PELT) is a key stone in tasks placement of the sch
 **Speakers:** Vincent Guittot
 **Track:** Power Management
 **Session ID:** BUD17-218
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-218/](http://connect.linaro.org/resource/bud17/bud17-218/)
-
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-218/](/resources/bud17/bud17-218/)
 
 
 * * *
-
-
-
-
 
 
 **Session Name:**
@@ -88,18 +80,9 @@ In this presentation, Juri Lelli, after giving a (very briefly) review of the cu
 **Speakers:** Juri Lelli
 **Track:** Power Management
 **Session ID:** BUD17-307
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-307/](http://connect.linaro.org/resource/bud17/bud17-307/)
-
-
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-307/](/resources/bud17/bud17-307/)
 
 * * *
-
-
-
-
-
-
-
 
 
 **Session Name:**
@@ -111,4 +94,4 @@ The CPUidle is one component of the power management framework. It behaves in an
 **Speakers:** Daniel Lezcano
 **Track:** Power Management
 **Session ID:** BUD17-309
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-309/](http://connect.linaro.org/resource/bud17/bud17-309/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-309/](/resources/bud17/bud17-309/)

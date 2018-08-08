@@ -1,37 +1,42 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-304%20Mini%20Conference%202%20Cortex-M%20Software%20-%20Build%20Systems.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:51+00:00
-excerpt: In composing RTOS-based images to run on embedded systems, there are number
+date: 2016-09-20 17:10:51
+excerpt: "In composing RTOS-based images to run on embedded systems, there are number
   of different issues that come into play that are different from building a root
   fs for Linux. Issues such as how third-party libraries and code link with the OS,
   how we pull down the code, etc. Additionally, such systems may also need to support
   the creation of filesystem-based images. There are several options that exist today
-  (“newt" - a tool from the Apache Mynewt project in the Apache Software Foundation;
-  “yotta" - from ARM mbed; the Yocto Project; and more). This session will discuss
+  (\u201Cnewt\" - a tool from the Apache Mynewt project in the Apache Software Foundation;
+  \u201Cyotta\" - from ARM mbed; the Yocto Project; and more). This session will discuss
   required features, compare and contrast project approaches, and potential additions
-  and changes that are needed in this space.
-layout: post
+  and changes that are needed in this space."
+featured_image_name: LAS16-304.png
+image:
+  featured: true
+  name: LAS16-304.png
+  path: /assets/images/featured-images/LAS16-304.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-304/
+post_format:
+- Video
 session_id: LAS16-304
 session_track: Mini-Conference
 slideshare_presentation_url: None
 slug: las16-304
 speakers: None
+tags:
+- IoT
+- LITE
 title: 'LAS16-304: Mini Conference 2 RTOS-Zephyr - Build Systems'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3828
 youtube_video_url: https://youtu.be/AbTRohVfZKM
-categories:
-- Linaro Connect Las Vegas 2016 (LAS16)
-post_format:
-- Video
-tags:
-- IoT
-- LITE
 ---
 
 LAS16-304: Mini Conference 2 RTOS-Zephyr - Build Systems
@@ -43,10 +48,10 @@ In composing RTOS-based images to run on embedded systems, there are number of d
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-304
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-304/](http://connect.linaro.org/resource/las16/las16-304/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-304/](/resources/las16/las16-304/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

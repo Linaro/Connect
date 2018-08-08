@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- Blog
 comments: false
-date: 2017-03-20 14:09:38+00:00
+date: 2017-03-20 14:09:38
 excerpt: 'A proposal to add ODP based compression/decompression API to provide portable
   hardware accelerated access for data plane applications that require compression/decompression.
   The proposal outlines 2 schemes:
@@ -14,6 +16,11 @@ excerpt: 'A proposal to add ODP based compression/decompression API to provide p
 
   The initial implementation will target Cavium OCTEON TX SoC to accelerate IP Compression
   (IPComp)'
+featured_image_name: OpenDataPlanesessionsfromBUD17.jpg
+image:
+  featured: true
+  name: OpenDataPlanesessionsfromBUD17.jpg
+  path: /assets/images/featured-images/OpenDataPlanesessionsfromBUD17.jpg
 layout: post
 link: http://connect.linaro.org/blog/opendataplane-sessions-bud17/
 session_id: None
@@ -26,8 +33,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5611
 youtube_video_url: None
-categories:
-- Blog
 ---
 
 https://www.youtube.com/playlist?list=PLKZSArYQptsP5AQz0xHG_vaMxbCVRM2jE
@@ -43,7 +48,7 @@ The initial implementation will target Cavium OCTEON TX SoC to accelerate IP Com
 **Speakers:** Narayana Prasad Athreya
 **Track:** LNG
 **Session ID:** BUD17-103
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-103/](http://connect.linaro.org/resource/bud17/bud17-103/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-103/](/resources/bud17/bud17-103/)
 
 
 
@@ -62,7 +67,7 @@ The initial implementation will target Cavium OCTEON TX SoC
 **Speakers:** Narayana Prasad Athreya
 **Track:** LNG
 **Session ID:** BUD17-107
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-107/](http://connect.linaro.org/resource/bud17/bud17-107/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-107/](/resources/bud17/bud17-107/)
 
 
 
@@ -77,7 +82,7 @@ The initial implementation will target Cavium OCTEON TX SoC
 **Speakers:**
 **Track:** LNG
 **Session ID:** BUD17-111
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-111/](http://connect.linaro.org/resource/bud17/bud17-111/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-111/](/resources/bud17/bud17-111/)
 
 
 
@@ -93,7 +98,7 @@ Describe step by step what components a packet goes through and details cases wh
 **Speakers:** Maxim Uvarov
 **Track:** LNG
 **Session ID:** BUD17-300
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-300/](http://connect.linaro.org/resource/bud17/bud17-300/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-300/](/resources/bud17/bud17-300/)
 
 
 
@@ -112,7 +117,7 @@ Implementation perspective
 **Speakers:** Bill Fischofer, Bala Manoharan,Nikhil Agarwal, Bogdan Pricope, Petri Savolainen
 **Track:**
 ** Session ID:** BUD17-306
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-306/](http://connect.linaro.org/resource/bud17/bud17-306/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-306/](/resources/bud17/bud17-306/)
 
 
 
@@ -128,4 +133,4 @@ Exploration of how timers are used in mobile networks as well as proposals for a
 **Speakers:** Brian Brooks
 **Track:** LNG
 **Session ID:** BUD17-320
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-320/](http://connect.linaro.org/resource/bud17/bud17-320/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-320/](/resources/bud17/bud17-320/)

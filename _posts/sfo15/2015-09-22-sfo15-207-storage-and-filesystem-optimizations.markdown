@@ -3,31 +3,37 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   LEG-Storage and filesystem optimisations- Steve Capper, Yazen Ghannam.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-22-Tuesday/SFO15-207
   Storage and filesystem optimizations.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-22 00:00:00+00:00
+date: 2015-09-22 00:00:00
 excerpt: LEG has been optimizing Ceph, HDFS, Swift and kernel file system CRC algorithms,
   the session will describe the speed up and patch upstreaming and will then cover
   how to improve the collaboration and synergy with the Linaro Kernel working group.
-layout: post
+featured_image_name: SFO15207Storageandfilesystemoptimizations.jpg
+image:
+  featured: true
+  name: SFO15207Storageandfilesystemoptimizations.jpg
+  path: /assets/images/featured-images/SFO15207Storageandfilesystemoptimizations.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-207-storage-and-filesystem-optimizations/
+post_format:
+- Video
 session_id: None
 session_track: Enterprise Server
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53754748
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15207-storage-and-filesystem-optimizations
 slug: sfo15-207-storage-and-filesystem-optimizations
 speakers: Steve Capper, Yazen Ghannam
+tags:
+- Enterprise Server
+- Linux
 title: 'SFO15-207: Storage and filesystem optimizations'
 video_length: '40:54'
 video_thumbnail: None
 wordpress_id: 2822
 youtube_video_url: https://www.youtube.com/watch?v=jgISdbT4TFo
-categories:
-- Linaro Connect San Francisco 2015
-post_format:
-- Video
-tags:
-- Enterprise Server
-- Linux
 ---
 
 SFO15-207: Storage and filesystem optimizations

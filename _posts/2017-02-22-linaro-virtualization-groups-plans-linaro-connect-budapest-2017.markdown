@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- Blog
 comments: false
-date: 2017-02-22 20:24:44+00:00
+date: 2017-02-22 20:24:44
 excerpt: The Linaro Virtualization group will host several sessions at the upcoming
   Linaro Connect Budapest 2017 (BUD17) and has scheduled a wide array of interesting
   presentations.  Linaro Connect is a great time for engineers interested opensource
@@ -11,6 +13,11 @@ excerpt: The Linaro Virtualization group will host several sessions at the upcom
   within the opensource community.   As part of this event the Linaro Virtualization
   team will host three sessions during the week, and Red Hat will host an additional
   session on their efforts on ARM virtualization.
+featured_image_name: LinaroVirtualizationGroupsPlansforLinaroConnectBudapest2017.png
+image:
+  featured: true
+  name: LinaroVirtualizationGroupsPlansforLinaroConnectBudapest2017.png
+  path: /assets/images/featured-images/LinaroVirtualizationGroupsPlansforLinaroConnectBudapest2017.png
 layout: post
 link: http://connect.linaro.org/blog/linaro-virtualization-groups-plans-linaro-connect-budapest-2017/
 session_id: None
@@ -18,18 +25,16 @@ session_track: None
 slideshare_presentation_url: None
 slug: linaro-virtualization-groups-plans-linaro-connect-budapest-2017
 speakers: None
-title: Linaro Virtualization Group's Plans for Linaro Connect Budapest 2017
-video_length: 00:00
-video_thumbnail: None
-wordpress_id: 4589
-youtube_video_url: None
-categories:
-- Blog
 tags:
 - BUD17
 - Budapest
 - Linaro Connect
 - Virtualization
+title: Linaro Virtualization Group's Plans for Linaro Connect Budapest 2017
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4589
+youtube_video_url: None
 ---
 
 The Linaro Virtualization group will host several sessions at the upcoming Linaro Connect Budapest 2017 (BUD17) and has scheduled a wide array of interesting presentations.  Linaro Connect is a great time for engineers interested opensource to get together and to learn more about what is going on not only with Linaro but within the opensource community.   As part of this event the Linaro Virtualization team will host three sessions during the week, and Red Hat will host an additional session on their efforts on ARM virtualization.
@@ -59,4 +64,4 @@ _**_Title: _****BUD17-402: Virtual Perspectives on Cross-compilation****
 _Abstract:_ Cross compiling (building software for one machine type on another) is something that should be familiar to most ARM developers. While kernel cross-compilation is well supported the story for user space is more complex. There are dedicated build systems for creating an entire rootfs from scratch but the overhead of learning them is quite for a single program. The usual fall-back of a linux-user chroot can be quite fiddly to set up and is often unique to each developer's set-up. Virtualisation developer Alex Bennée offers some solutions that utilise Docker's container based approach, optionally with QEMU's linux-user emulation to do builds directly from the command line. In contrast to custom chroots Docker allows the creation of well specified, rebuildable containers that can be simply deployed by new developers. He will talk about the ongoing work to make building test binaries for foreign architectures in QEMU as simple as a make invocation.
 
 
-Those attending Linaro Connect are welcome to come to any and all of the sessions on Virtualization. To see the entire schedule of sessions taking place during the week please [click here](https://eu.eventscloud.com/ehome/bud17/200391688/).   If you are not able to attend you can visit the Linaro Connect resources page after the event to view recorded sessions and get access to select materials - [http://connect.linaro.org/resources/](http://connect.linaro.org/resources/).
+Those attending Linaro Connect are welcome to come to any and all of the sessions on Virtualization. To see the entire schedule of sessions taking place during the week please [click here](https://eu.eventscloud.com/ehome/bud17/200391688/).   If you are not able to attend you can visit the Linaro Connect resources page after the event to view recorded sessions and get access to select materials - [http://connect.linaro.org/resources/](/resources/).

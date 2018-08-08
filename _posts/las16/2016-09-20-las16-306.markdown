@@ -1,33 +1,39 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/Open%20Trust%20Protocol%20-%20LAS16-306.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-306%20Exploring%20the%20Open%20Trusted%20Protocol.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:51+00:00
+date: 2016-09-20 17:10:51
 excerpt: Interconnected systems require trust between devices and service providers.
   To deal with this problem, several companies (ARM, Solacia, Symantec, Intercede)
   collaborated on the Open Trust Protocol (OTrP), which combines a secure architecture
   with trusted code management, using technologies proven in large scale banking and
   sensitive data applications on mass-market devices such as smartphones and tablets.
-layout: post
+featured_image_name: LAS16-306.png
+image:
+  featured: true
+  name: LAS16-306.png
+  path: /assets/images/featured-images/LAS16-306.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-306/
+post_format:
+- Video
 session_id: LAS16-306
 session_track: LHG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357732
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16306-exploring-the-open-trusted-protocol
 slug: las16-306
 speakers: Marc Canel
+tags:
+- 96Boards
+- Home
 title: 'LAS16-306: Exploring the Open Trusted Protocol'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3830
 youtube_video_url: https://youtu.be/EkuN48aa70w
-categories:
-- Linaro Connect Las Vegas 2016 (LAS16)
-post_format:
-- Video
-tags:
-- 96Boards
-- Home
 ---
 
 LAS16-306: Exploring the Open Trusted Protocol
@@ -39,10 +45,10 @@ Interconnected systems require trust between devices and service providers. To d
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-306
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-306/](http://connect.linaro.org/resource/las16/las16-306/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-306/](/resources/las16/las16-306/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

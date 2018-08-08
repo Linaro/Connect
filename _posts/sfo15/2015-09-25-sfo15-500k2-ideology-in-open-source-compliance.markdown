@@ -3,33 +3,39 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   Sandler-Keynote.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-25-Friday/SFO15-500K2
   - Ideology in Open Source Compliance.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-25 00:00:00+00:00
+date: 2015-09-25 00:00:00
 excerpt: This is an inside look of the state of compliance from the perspective of
   the Software Freedom Conservancy, a nonprofit charitable organization that is the
   most active in the field. Karen will give an overview of where things are with compliance
   initiatives and insight into the ideological movement behind copyleft.
-layout: post
+featured_image_name: SFO15500K2IdeologyinOpenSourceCompliance.jpg
+image:
+  featured: true
+  name: SFO15500K2IdeologyinOpenSourceCompliance.jpg
+  path: /assets/images/featured-images/SFO15500K2IdeologyinOpenSourceCompliance.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-500k2-ideology-in-open-source-compliance/
-session_id: None
-session_track: Keynote
-slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15500k2-ideology-in-open-source-compliance
-slug: sfo15-500k2-ideology-in-open-source-compliance
-title: 'SFO15-500K2 : Ideology in Open Source Compliance'
-video_length: '34:41'
-video_thumbnail: None
-wordpress_id: 2880
-youtube_video_url: https://www.youtube.com/watch?v=-GOCsXT8jas
-categories:
-- Linaro Connect San Francisco 2015
 post_format:
 - Video
+session_id: None
+session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53893755
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15500k2-ideology-in-open-source-compliance
+slug: sfo15-500k2-ideology-in-open-source-compliance
 tags:
 - ARM
 - Linaro
 - Linux
 - Security
+title: 'SFO15-500K2 : Ideology in Open Source Compliance'
+video_length: '34:41'
+video_thumbnail: None
+wordpress_id: 2880
+youtube_video_url: https://www.youtube.com/watch?v=-GOCsXT8jas
 ---
 
 SFO15-500K2: Ideology in Open Source Compliance

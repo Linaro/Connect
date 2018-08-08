@@ -1,39 +1,43 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-311.pdf
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:46+00:00
-excerpt: "- What we mean by EAS core and how it's distinct from the other components\
-  \ - also why it's so difficult to get it merged. (This is driven by key partner\
-  \ concerns).\n\n- An update on misc work that's underway to resolve the upstreaming.\n\
-  \  - Misc load balance pathway enhancements\n  - Wakeup pathway mods (cleanups,\
-  \ basic big.LITTLE capacity awareness etc)\n  - Periodic load balancer mods.\n\n\
-  - Energy model expression (why this is important, partner perspectives/experience\
-  \ and bottlenecks)\n    - Proposals to get an expression into the mainline\n   \
-  \   - Optional boot-time auto-detection of capacity over-ridable by sysfs\n    \
-  \  - Leveraging the merged power coefficient bindings\n      - Leveraging the OPP\
-  \ bindings\n      .. to effectively get to EAS' struct sched_group_energy.\n\n-\
-  \ How we are structuring things to ease upstream acceptance.  What's helping, what's\
-  \ not, where partners can help."
-layout: post
+date: 2016-02-22 17:20:46
+excerpt: '- What we mean by EAS core and how it''s distinct from the other components
+  - also why it''s so difficult to get it merged. (This is driven by key partner concerns).,
+  , - An update on misc work that''s underway to resolve the upstreaming.,   - Misc
+  load balance pathway enhancements,   - Wakeup pathway mods (cleanups, basic big.LITTLE
+  capacity awareness etc),   - Periodic load balancer mods., , - Energy model expression
+  (why this is important, partner perspectives/experience and bottlenecks),     -
+  Proposals to get an expression into the mainline,       - Optional boot-time auto-detection
+  of capacity over-ridable by sysfs,       - Leveraging the merged power coefficient
+  bindings,       - Leveraging the OPP bindings,       .. to effectively get to EAS''
+  struct sched_group_energy., , - How we are structuring things to ease upstream acceptance.  What''s
+  helping, what''s not, where partners can help.'
+featured_image_name: BKK16-311.jpg
+image:
+  featured: true
+  name: BKK16-311.jpg
+  path: /assets/images/featured-images/BKK16-311.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-311/
+post_format:
+- Video
 session_id: BKK16-311
 session_track: ARM
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59635545
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16311-eas-upstream-stategy
 slug: bkk16-311
 speakers: Morten RasmussenJuri Lelli
+tags:
+- EAS
 title: 'BKK16-311: EAS core - upstreaming strategy'
 video_length: '56:18'
 video_thumbnail: None
 wordpress_id: 3354
 youtube_video_url: https://www.youtube.com/watch?v=aO1WmIek4vw
-categories:
-- Linaro Connect Bangkok 2016
-post_format:
-- Video
-tags:
-- EAS
 ---
 
 - What we mean by EAS core and how it's distinct from the other components - also why it's so difficult to get it merged. (This is driven by key partner concerns). - An update on misc work that's underway to resolve the upstreaming. - Misc load balance pathway enhancements - Wakeup pathway mods (cleanups, basic big.LITTLE capacity awareness etc) - Periodic load balancer mods. - Energy model expression (why this is important, partner perspectives/experience and bottlenecks) - Proposals to get an expression into the mainline - Optional boot-time auto-detection of capacity over-ridable by sysfs - Leveraging the merged power coefficient bindings - Leveraging the OPP bindings .. to effectively get to EAS' struct sched_group_energy. - How we are structuring things to ease upstream acceptance. What's helping, what's not, where partners can help.

@@ -2,9 +2,11 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-22-Tuesday/SFO15-T2-
   Upstreaming 101.pdf
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-22 00:00:00+00:00
+date: 2015-09-22 00:00:00
 excerpt: This session is an introductory course on Linux kernel upstreaming fundamentals.
   The course covers the definition the Linux mainline kernel tree as well as the maintainer
   hierarchy and processes used to contribute software into the mainline kernel. Special
@@ -14,24 +16,28 @@ excerpt: This session is an introductory course on Linux kernel upstreaming fund
   and engineering managers preparing to upstream software into the kernel. The topic
   requires a solid background in software configuration management terminology and
   the git SCM tool as well as a good technical understanding of the Linux kernel itself.
-layout: post
+featured_image_name: SFO15-TR2.jpg
+image:
+  featured: true
+  name: SFO15-TR2.jpg
+  path: /assets/images/featured-images/SFO15-TR2.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr2/
+post_format:
+- Video
 session_id: SFO15-TR2
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53571899
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15tr2-upstreaming-101
 slug: sfo15-tr2
 speakers: None
+tags:
+- Training
 title: 'SFO15-TR2 : Upstreaming 101'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 2897
 youtube_video_url: None
-categories:
-- Linaro Connect San Francisco 2015
-post_format:
-- Video
-tags:
-- Training
 ---
 
 SFO15-TR2: Upstreaming 101 --------------------------------------------------- Speaker: Track: Training --------------------------------------------------- ★ Session Summary ★ This session is an introductory course on Linux kernel upstreaming fundamentals. The course covers the definition the Linux mainline kernel tree as well as the maintainer hierarchy and processes used to contribute software into the mainline kernel. Special focus is given to understanding what documentation will help understand the process and mechanics in more detail while breaking the workflow into the various steps of upstreaming software patches. The target audience is both software engineers and engineering managers preparing to upstream software into the kernel. The topic requires a solid background in software configuration management terminology and the git SCM tool as well as a good technical understanding of the Linux kernel itself. --------------------------------------------------- ★ Resources ★ pathable: https://sfo15.pathable.com/meetings/302927 Presentation: http://www.slideshare.net/linaroorg/sfo15tr2-upstreaming-101 Video: N Eatherpad: pad.linaro.org/p/sfo15-tr2 --------------------------------------------------- ★ Event Details ★ Linaro Connect San Francisco 2015 - #SFO15 September 21-25th, 2015 Hyatt Regency San Francisco Airport --------------------------------------------------- > http://www.linaro.org > http://connect.linaro.org

@@ -1,30 +1,35 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-404A.pdf
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:51+00:00
+date: 2016-02-22 17:20:51
 excerpt: Developers only discussion on the implementation of PCI on ARM64
-layout: post
+featured_image_name: BKK16-404A.jpg
+image:
+  featured: true
+  name: BKK16-404A.jpg
+  path: /assets/images/featured-images/BKK16-404A.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-404a/
+post_format:
+- Video
 session_id: BKK16-404A
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58685196
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16404a-pci-development-meeting
 slug: bkk16-404a
 speakers: 'Hanjun Guo
 
   Tomasz Nowicki'
+tags:
+- ARM64
+- PCI
 title: 'BKK16-404A: PCI Development Meeting'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3368
 youtube_video_url: https://youtu.be/DGZ0LJnNAdk
-categories:
-- Linaro Connect Bangkok 2016
-post_format:
-- Video
-tags:
-- ARM64
-- PCI
 ---
 
 Developers only discussion on the implementation of PCI on ARM64

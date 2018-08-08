@@ -1,31 +1,37 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/P4%20to%20OpenDataPlane%20Compiler%20-%20BUD17-304.pptx
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-304%20P4%20to%20Open%20Data%20Plane%20compiler.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:39+00:00
-excerpt: "Discuss IPsec offload from:\n Application perspective\n Application developer\
-  \ perspective\n Implementation perspective"
-layout: post
+date: 2017-02-28 12:05:39
+excerpt: "Discuss IPsec offload from:\n Application perspective\n Application developer
+  perspective\n Implementation perspective"
+featured_image_name: BUD17-304.jpg
+image:
+  featured: true
+  name: BUD17-304.jpg
+  path: /assets/images/featured-images/BUD17-304.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-304/
+post_format:
+- Video
 session_id: BUD17-304
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73259950
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/p4-to-opendataplane-compiler-bud17304-73259950
 slug: bud17-304
 speakers: Zoltan Kiss, Gergely Pongracz
+tags:
+- IPsec
+- LNG
+- ODP
 title: P4 to OpenDataPlane Compiler - BUD17-304
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4670
 youtube_video_url: https://youtu.be/Ft3mL4ABelw
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- IPsec
-- LNG
-- ODP
 ---
 
 Session ID: BUD17-304

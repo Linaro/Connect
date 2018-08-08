@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-09-Monday/HKG15-108.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-09-Monday/HKG15-108+Coresight+Update+and+Next+Steps.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:38:30+00:00
+date: 2015-04-23 15:38:30
 excerpt: 'The 32-bit ARM kernel supports a wide variety of processors harking back
   to ARM v4 architecture up to the latest v7 SMP processors. This huge legacy forced
   kernel developers to adapt the power management code for the newest processors (eg
@@ -19,28 +21,32 @@ excerpt: 'The 32-bit ARM kernel supports a wide variety of processors harking ba
   out at ARM to develop a kernel PM framework for ARM v8 systems, with kernel design
   details of the respective DT and ACPI implementations.
 
-  '
-layout: post
+'
+featured_image_name: HKG15-108.jpg
+image:
+  featured: true
+  name: HKG15-108.jpg
+  path: /assets/images/featured-images/HKG15-108.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-108-coresight-update-and-next-steps/
+post_format:
+- Video
 session_id: HKG15-108
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/45074572
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15108-coresight-update-and-next-steps
 slug: hkg15-108-coresight-update-and-next-steps
 speakers: Mathieu Poirer
-title: 'HKG15-108: Coresight Update and Next Steps'
-video_length: '41:42'
-video_thumbnail: None
-wordpress_id: 709
-youtube_video_url: https://www.youtube.com/watch?v=CgAN2An4GcA
-categories:
-- hkg15
-post_format:
-- Video
 tags:
 - hkg15
 - HKG15-108
 - Mathieu Poirer
 - Power Management
+title: 'HKG15-108: Coresight Update and Next Steps'
+video_length: '41:42'
+video_thumbnail: None
+wordpress_id: 709
+youtube_video_url: https://www.youtube.com/watch?v=CgAN2An4GcA
 ---
 
 HKG15-108: Coresight Update and Next Steps 

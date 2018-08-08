@@ -1,26 +1,31 @@
 ---
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-23-Wednesday/SFO15-TR4
   Server Ecosytem Day (Part 4b).mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-23 00:00:00+00:00
-layout: post
+date: 2015-09-23 00:00:00
+featured_image_name: SFO15TR4ServerEcosytemDayPart4bCentOS.jpg
+image:
+  featured: true
+  name: SFO15TR4ServerEcosytemDayPart4bCentOS.jpg
+  path: /assets/images/featured-images/SFO15TR4ServerEcosytemDayPart4bCentOS.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr4-server-ecosytem-day-part-4b-centos/
+post_format:
+- Video
 session_id: None
 session_track: Enterprise Server
 slug: sfo15-tr4-server-ecosytem-day-part-4b-centos
 speakers: Andrea Gallo
+tags:
+- Enterprise Server
 title: SFO15 TR4 Server Ecosytem Day Part 4b (CentOS)
 video_length: '14:20'
 video_thumbnail: None
 wordpress_id: 2899
 youtube_video_url: https://www.youtube.com/watch?v=I2F7VXV0PVE
-categories:
-- Linaro Connect San Francisco 2015
-post_format:
-- Video
-tags:
-- Enterprise Server
 ---
 
 14:30 – CentOS: Taking the Excitement out of your Development Process

@@ -1,27 +1,32 @@
 ---
-amazon_s3_video_url: 10/8/2015
-author: kyle.kirkby
+amazon_s3_video_url: None
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-24 00:00:00+00:00
-layout: post
+date: 2015-09-24 00:00:00
+featured_image_name: SFO15400K2GuestKeynoteDaveNearyRedhat.jpg
+image:
+  featured: true
+  name: SFO15400K2GuestKeynoteDaveNearyRedhat.jpg
+  path: /assets/images/featured-images/SFO15400K2GuestKeynoteDaveNearyRedhat.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-400k2/
+post_format:
+- Video
 session_id: None
 session_track: Keynote
 slug: sfo15-400k2
 speakers: Dneary
+tags:
+- ARM
+- Linaro
+- Linux
 title: 'SFO15-400K2 : Guest Keynote: Dave Neary, Redhat'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 2859
 youtube_video_url: https://youtu.be/9RPsaPr4mzg?t=10m2s
-categories:
-- Linaro Connect San Francisco 2015
-post_format:
-- Video
-tags:
-- ARM
-- Linaro
-- Linux
 ---
 
 SFO15-400K2: Guest Keynote: Dave Neary, Redhat  ---------------------------------------------------  Speaker: Dneary Track: Keynote ---------------------------------------------------  ★ Session Summary ★  ---------------------------------------------------  ★ Resources ★ pathable: https://sfo15.pathable.com/meetings/303069 Presentation:  Video: https://youtu.be/9RPsaPr4mzg?t=10m2s Eatherpad: pad.linaro.org/p/sfo15-400k2 ---------------------------------------------------  ★ Event Details ★ Linaro Connect San Francisco 2015 - #SFO15 September 21-25th, 2015 Hyatt Regency San Francisco Airport ---------------------------------------------------  > http://www.linaro.org > http://connect.linaro.org

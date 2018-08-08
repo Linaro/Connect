@@ -1,8 +1,9 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-400B.pdf
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:49+00:00
+date: 2016-02-22 17:20:49
 excerpt: 'The current Hadoop ecosystem is challenged and slowed by fragmented and
   duplicated efforts.
 
@@ -20,25 +21,29 @@ excerpt: 'The current Hadoop ecosystem is challenged and slowed by fragmented an
 
   This talk will go over some of specifications defined, Linaro''s contributions,
   Roadmap and a quick demo'
-layout: post
+featured_image_name: BKK16-400B.jpg
+image:
+  featured: true
+  name: BKK16-400B.jpg
+  path: /assets/images/featured-images/BKK16-400B.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-400b/
+post_format:
+- Video
 session_id: BKK16-400B
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59659217
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16400b-odpi-standardizing-hadoop
 slug: bkk16-400b
 speakers: Ganesh Raju
+tags:
+- Hadoop
+- ODPi
 title: 'BKK16-400B: Standardization of Hadoop Eco System'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3362
 youtube_video_url: https://youtu.be/lS4MdCMVQkg
-categories:
-- Linaro Connect Bangkok 2016
-post_format:
-- Video
-tags:
-- Hadoop
-- ODPi
 ---
 
 The current Hadoop ecosystem is challenged and slowed by fragmented and duplicated efforts.  An industry standard is required that translates to immediate benefits that will increase stability, capabilities and compatibility among Hadoop distributions. Its also important to include an open data management core with emphasis on making it enterprise focused.  The ODPi is a shared industry effort focused on build such standards and also promoting and advancing the state of Big Data technologies. Linaro is actively involved in this effort and also to make sure ODPi is ARM compatible.  This talk will go over some of specifications defined, Linaro's contributions, Roadmap and a quick demo

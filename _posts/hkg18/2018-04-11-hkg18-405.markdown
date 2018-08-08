@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-405.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-405.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:13:45+00:00
+date: 2018-04-11 14:13:45
 excerpt: The performance and accuracy of Convolutional Neural Networks for visual
   recognition has reached the point where researchers generally consider them to be
   more accurate than traditional algorithmic approaches.  In this session we will
@@ -15,10 +17,18 @@ excerpt: The performance and accuracy of Convolutional Neural Networks for visua
   as well as varying number of neurons and layers. Finally, we will demonstrate a
   BNN running on a 96 board doing real-time traffic recognition at over 8,000 images
   per second.
-layout: post
+featured_image_name: HKG18-405.png
+image:
+  featured: true
+  name: HKG18-405.png
+  path: /assets/images/featured-images/HKG18-405.png
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-405/
+post_format:
+- Video
 session_id: HKG18-405
 session_track: IoT, Embedded
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92327262
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18405-accelerating-neural-networks-for-vision-systems-via-fpgas
 slug: hkg18-405
 speakers: Glenn Steiner
@@ -27,10 +37,6 @@ video_length: '30:14'
 video_thumbnail: None
 wordpress_id: 9104
 youtube_video_url: https://www.youtube.com/watch?v=Hf1g5UkhJVw
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-405
@@ -39,15 +45,15 @@ Speaker: Glenn Steiner
 Track: IoT, Embedded
 
 
-★ Session Summary ★
+## Session Summary
 The performance and accuracy of Convolutional Neural Networks for visual recognition has reached the point where researchers generally consider them to be more accurate than traditional algorithmic approaches.  In this session we will examine implementation of a Binary Neural Network (BNN) on an FPGA with embedded processing system demonstrating four orders of magnitude greater performance than a software implementation on an embedded processor.  We will start with the basic concepts of Convolutional Neural Networks. Next, we will examine why FPGAs with embedded processors provide the necessary flexibility to accommodate network precision as well as varying number of neurons and layers. Finally, we will demonstrate a BNN running on a 96 board doing real-time traffic recognition at over 8,000 images per second. 
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-405/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-405.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-405.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -62,8 +68,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Glenn Steiner
+**Speakers**: Glenn Steiner
 
-Speaker Positions: Senior Manager
-
-
+**Speaker Positions**: Senior Manager

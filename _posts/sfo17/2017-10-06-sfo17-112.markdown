@@ -2,8 +2,10 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-112%20-%20Using%20SoC%20Vendor%20HALs%20in%20the%20Zephyr%20Project.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-112%20Using%20SoC%20Vendor%20HALs%20in%20the%20Zephyr%20Project.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:53:52+00:00
+date: 2017-10-06 16:53:52
 excerpt: The Zephyr OS is a small, scalable RTOS that supports a wide variety of SoCs,
   many of which have existing HALs provided by the SoC vendors, especially in the
   ARM Cortex-M world. These HALs provide peripheral register definitions and in many
@@ -11,10 +13,18 @@ excerpt: The Zephyr OS is a small, scalable RTOS that supports a wide variety of
   the Zephyr Project decided to proactively reuse these vendor HALs whenever possible.
   This session will cover how and why the Zephyr Project uses SoC vendor HALs, what
   are the common problems, and how to address them.
-layout: post
+featured_image_name: SFO17-112.jpg
+image:
+  featured: true
+  name: SFO17-112.jpg
+  path: /assets/images/featured-images/SFO17-112.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-112/
+post_format:
+- Video
 session_id: SFO17-112
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80689129
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/sfo17-112-using-so-c-vendor-hals-in-the-zephyr-project
 slug: sfo17-112
 speakers: Maureen Helm
@@ -23,10 +33,6 @@ video_length: '27:29'
 video_thumbnail: None
 wordpress_id: 5938
 youtube_video_url: https://www.youtube.com/watch?v=hHcnw4xu_Mo
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-112

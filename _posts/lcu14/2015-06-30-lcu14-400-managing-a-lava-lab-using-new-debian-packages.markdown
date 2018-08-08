@@ -1,27 +1,28 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-18-Thursday/LCU14-400.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-18-Thursday/LCU14-400-+Managing+a+LAVA+LAB+using+new+Debian+packages.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:07:48+00:00
+date: 2015-06-30 17:07:48
 excerpt: This session will provide a summary of the process to install, update and
   manage LAVA within a LAVA LAB. We will also discuss how the LAVA LAB in Cambridge
   is managed and any thoughts or problems we know were experienced when the LAB upgraded
   from Ubuntu 12.04 to Debian Jessie.
-layout: post
+featured_image_name: LCU14-400.jpg
+image:
+  featured: true
+  name: LCU14-400.jpg
+  path: /assets/images/featured-images/LCU14-400.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-400-managing-a-lava-lab-using-new-debian-packages/
 session_id: LCU14-400
 session_track: LAVA
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38952701
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-400-managing-a-lava-lab-using-new-debian-packages
 slug: lcu14-400-managing-a-lava-lab-using-new-debian-packages
 speakers: Neil Williams, Matt Hart, Dave Pigott
-title: 'LCU14-400: Managing a LAVA LAB using new Debian packages'
-video_length: '39:35'
-video_thumbnail: None
-wordpress_id: 1551
-youtube_video_url: https://www.youtube.com/watch?v=FzyMPZda9KM
-categories:
-- Linaro Connect USA 2014
 tags:
 - Dave Pigott
 - LAVA
@@ -29,6 +30,11 @@ tags:
 - LCU14-400
 - Matt Hart
 - Neil Williams
+title: 'LCU14-400: Managing a LAVA LAB using new Debian packages'
+video_length: '39:35'
+video_thumbnail: None
+wordpress_id: 1551
+youtube_video_url: https://www.youtube.com/watch?v=FzyMPZda9KM
 ---
 
 LCU14-400: Managing a LAVA LAB using new Debian packages

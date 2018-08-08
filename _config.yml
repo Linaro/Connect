@@ -1,5 +1,7 @@
 # Website title - used in the <title> tag of the <head> section of the website.
 title: Linaro Connect Vancouver 2018 (YVR18)
+# Name of the site - used to identify the site for setting the active class in the universal nav
+name: Linaro Connect
 # Description of the website used in the Meta Description.
 description: > # this means to ignore newlines until "baseurl:"
   Linaro Connect Vancouver 2018 (YVR18) will take place at the Hyatt Regency in Vancouver, 17-21 September 2018.
@@ -8,7 +10,7 @@ destination: _site
 # Include the Linaro Jekyll Theme
 theme: jumbo-jekyll-theme
 # Permalink for the blog posts of the Jekyll website.
-permalink: /blog/:title/
+permalink: /resources/:categories/:slug/
 # Syntax highlighter for 96boards blog
 highlighter: rouge
 # Markdown version
@@ -39,7 +41,7 @@ liquid:
 # Shema.org Setup -> used in the schema.html include.
 schema:
     organisation:
-        name: Linaor Connect
+        name: Linaro Connect
         url: https://www.connect.linaro.org
         sameAs:
             - https://twitter.com/linaroorg
@@ -49,11 +51,11 @@ schema:
             - https://github.com/Linaro
             - https://www.slideshare.net/linaroorg
         address:
-            street: Harston Mill, Royston Rd 
-            town: Harston 
-            county: Cambridge 
+            street: Harston Mill, Royston Rd
+            town: Harston
+            county: Cambridge
             post_code: CB22 7GG
-            country_code: UK 
+            country_code: UK
 # Files that should be excluded from the Jekyll build.
 exclude:
   - Gemfile.lock
@@ -62,6 +64,10 @@ exclude:
   - .asset-cache
   - _site
   # - _posts
+  - vendor
+  - gems
+  - build.sh
+  - .bundle
 
 # Google Tag mangager site wide setting - for deployment of site to China.
 google-tag-manager: true
@@ -84,7 +90,7 @@ defaults:
         path: ""
         type: "posts"
     values:
-        layout: post
+        layout: resource-post
         comments: true
   - scope:
         path: ""
@@ -119,10 +125,12 @@ plugins:
   - uglifier
   - jekyll-assets
   - jekyll-tidy
+  - jekyll-data
+  - jekyll-responsive-image
   - jekyll-redirect-from
   - autoprefixer-rails
   - jekyll-paginate-v2
-    
+
 # Compress the html and beau2tify it.
 jekyll_tidy: # Compress the html and beautify it.
     compress_html: true
@@ -140,6 +148,7 @@ assets:
     - assets/js/app/
     - assets/images
     - assets/images/sponsors
+    - assets/images/featured-images
     - assets/images/people
     - assets/images/speakers
     - assets/images/content
@@ -170,7 +179,7 @@ autopages:
 
 using_assets: true
 
-# Jekyll Collections configuration - Projects, Products and Documentation.      
+# Jekyll Collections configuration - Projects, Products and Documentation.
 collections:
     resources:
         output: true
@@ -184,3 +193,65 @@ collections:
     authors:
         output: true
         permalink: /author/:name/
+
+# Jeykyll Responsive Image Configuration
+responsive_image:
+  cache: false
+  # [Required]
+  # Path to the image template.
+  template: _includes/images/responsive-image.html
+
+  # [Optional, Default: 85]
+  # Quality to use when resizing images.
+  default_quality: 90
+
+  # [Optional, Default: []]
+  # An array of resize configuration objects. Each object must contain at least
+  # a `width` value.
+  sizes:
+    - width: 400  # [Required] How wide the resized image will be.
+      quality: 70 # [Optional] Overrides default_quality for this size.
+    - width: 800
+      quality: 70
+
+  # [Optional, Default: false]
+  # Rotate resized images depending on their EXIF rotation attribute. Useful for
+  # working with JPGs directly from digital cameras and smartphones
+  auto_rotate: false
+
+  # [Optional, Default: false]
+  # Strip EXIF and other JPEG profiles. Helps to minimize JPEG size and win friends
+  # at Google PageSpeed.
+  strip: false
+
+  # [Optional, Default: assets]
+  # The base directory where assets are stored. This is used to determine the
+  # `dirname` value in `output_path_format` below.
+  base_path: assets
+
+  # [Optional, Default: assets/resized/%{filename}-%{width}x%{height}.%{extension}]
+  # The template used when generating filenames for resized images. Must be a
+  # relative path.
+  #
+  # Parameters available are:
+  #   %{dirname}     Directory of the file relative to `base_path` (assets/sub/dir/some-file.jpg => sub/dir)
+  #   %{basename}    Basename of the file (assets/some-file.jpg => some-file.jpg)
+  #   %{filename}    Basename without the extension (assets/some-file.jpg => some-file)
+  #   %{extension}   Extension of the file (assets/some-file.jpg => jpg)
+  #   %{width}       Width of the resized image
+  #   %{height}      Height of the resized image
+  #
+  output_path_format: assets/resized/%{width}/%{basename}
+
+  # [Optional, Default: true]
+  # Whether or not to save the generated assets into the source folder.
+  save_to_source: false
+
+  # [Optional, Default: []]
+  # By default, only images referenced by the responsive_image and responsive_image_block
+  # tags are resized. Here you can set a list of paths or path globs to resize other
+  # images. This is useful for resizing images which will be referenced from stylesheets.
+  extra_images:
+    - assets/foo/bar.png
+    - assets/bgs/*.png
+    - assets/avatars/*.{jpeg,jpg}

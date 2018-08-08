@@ -1,28 +1,34 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-19-Friday/LCU14-500.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-19-Friday/LCU14-500-+ARM+Trusted+Firmware+roadmap+and+progress.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:07:29+00:00
-layout: post
+date: 2015-06-30 17:07:29
+featured_image_name: LCU14-500.jpg
+image:
+  featured: true
+  name: LCU14-500.jpg
+  path: /assets/images/featured-images/LCU14-500.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-500-arm-trusted-firmware-roadmap-and-progress/
 session_id: LCU14-500
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39295203
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-500-arm-trusted-firmware
 slug: lcu14-500-arm-trusted-firmware-roadmap-and-progress
 speakers: Andrew Thoelke
-title: 'LCU14-500: ARM Trusted Firmware roadmap and progress'
-video_length: '35:32'
-video_thumbnail: None
-wordpress_id: 1561
-youtube_video_url: https://www.youtube.com/watch?v=je0_-yYgKdc
-categories:
-- Linaro Connect USA 2014
 tags:
 - Andrew Thoelke
 - lcu14
 - LCU14-500
 - Security
+title: 'LCU14-500: ARM Trusted Firmware roadmap and progress'
+video_length: '35:32'
+video_thumbnail: None
+wordpress_id: 1561
+youtube_video_url: https://www.youtube.com/watch?v=je0_-yYgKdc
 ---
 
 LCU14-500: ARM Trusted Firmware roadmap and progress

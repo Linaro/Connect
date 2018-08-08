@@ -2,13 +2,23 @@
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
 author: celia.ilardi
+categories:
+- demo-friday
 comments: false
-date: 2017-03-22 11:25:32+00:00
+date: 2017-03-22 11:25:32
 excerpt: ARMv8-M secure debug demo
-layout: post
+featured_image_name: BUD17-DF13.jpg
+image:
+  featured: true
+  name: BUD17-DF13.jpg
+  path: /assets/images/featured-images/BUD17-DF13.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df13/
+post_format:
+- Video
 session_id: BUD17-DF13
 session_track: ARMv8-M secure debug demo
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73368785
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/armv8m-secure-debug-demo
 slug: bud17-df13
 speakers: LITE
@@ -17,10 +27,6 @@ video_length: 08:10
 video_thumbnail: None
 wordpress_id: 5677
 youtube_video_url: https://www.youtube.com/watch?v=9HgMuRMf0IU
-categories:
-- Demo Friday
-post_format:
-- Video
 ---
 
 "The new generation for ARM Cortex-M23 and Cortex-M33, the first in the new 

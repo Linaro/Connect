@@ -1,23 +1,28 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-18-Thursday/LCU14-405.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-18-Thursday/LCU14-405-+EMACS+users+BoFs.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:07:53+00:00
-layout: post
+date: 2015-06-30 17:07:53
+featured_image_name: LCU14-405.jpg
+image:
+  featured: true
+  name: LCU14-405.jpg
+  path: /assets/images/featured-images/LCU14-405.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-405-emacs-users-bofs/
 session_id: LCU14-405
 slug: lcu14-405-emacs-users-bofs
+tags:
+- lcu14
+- LCU14-405
 title: 'LCU14-405: EMACS users BoFs'
 video_length: '38:01'
 video_thumbnail: None
 wordpress_id: 1555
 youtube_video_url: https://www.youtube.com/watch?v=e7ryNq70wQU
-categories:
-- Linaro Connect USA 2014
-tags:
-- lcu14
-- LCU14-405
 ---
 
 LCU14-405: 

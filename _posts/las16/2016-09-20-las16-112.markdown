@@ -1,37 +1,42 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Monday/LAS16-112%20mbed%20OS%20Technical%20Overview.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Monday/LAS16-112%20mbed%20OS%20Technical%20Overview.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:34+00:00
-excerpt: 'ARM mbed OS is an open source embedded operating system designed
-
-  specifically for the “things” in the Internet of Things. It includes all the features
+date: 2016-09-20 17:10:34
+excerpt: "ARM mbed OS is an open source embedded operating system designed\nspecifically
+  for the \u201Cthings\u201D in the Internet of Things. It includes all the features
   you need to develop a connected product based on very small memory footprint ARM
   Cortex-M microcontrollers, including security,connectivity, an RTOS, and drivers
   for sensors and I/O devices. You can start developing with mbed OS 5.1.0 today using
   a choice of 40 different development boards from 11 different providers and a wide
   choice of toolchains including a complete command line build management and configuration
-  tool mbed CLI, industry standard desktop IDEs or ARM’s free online IDE.'
-layout: post
+  tool mbed CLI, industry standard desktop IDEs or ARM\u2019s free online IDE."
+featured_image_name: LAS16-112.png
+image:
+  featured: true
+  name: LAS16-112.png
+  path: /assets/images/featured-images/LAS16-112.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-112/
+post_format:
+- Video
 session_id: LAS16-112
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66443081
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16112-mbed-os-technical-overview
 slug: las16-112
 speakers: Sam Grove
+tags:
+- IoT
+- LITE
 title: 'LAS16-112:  mbed OS Technical Overview'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3978
 youtube_video_url: https://youtu.be/LQn5-2caSZY
-categories:
-- Linaro Connect Las Vegas 2016 (LAS16)
-post_format:
-- Video
-tags:
-- IoT
-- LITE
 ---
 
 LAS16-112: mbed OS Technical Overview
@@ -44,10 +49,10 @@ specifically for the “things” in the Internet of Things. It includes all the
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-112
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-112/](http://connect.linaro.org/resource/las16/las16-112/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-112/](/resources/las16/las16-112/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

@@ -1,41 +1,47 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Thursday/LAS16-400K2%20-%20tianocore%20linaro%20connect%202016.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Thursday/LAS16-400K2-%20Keynote-TianoCore%20Open%20Source%20UEFI%20Community%20Update.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:54+00:00
-excerpt: "**Title: TianoCore – Open Source UEFI Community Update**\n \n The TianoCore\
-  \ project hosts EDK II, an open source implementation of the Unified Extensible\
-  \ Firmware Interface (UEFI). EDK II has become the defacto UEFI implementation for\
-  \ ARM and Intel platforms, expanding standards based firmware across multiple architectures.\
-  \ This keynote will provide an update on the current status of the TianoCore project,\
-  \ plans for future improvements, and a discussion of why firmware is critical in\
-  \ today’s digital ecosystem.\n \n **Bio**\n Brian Richardson is an Intel technical\
-  \ evangelist who has spent most of his career as a “BIOS guy” working on the firmware\
-  \ that quietly boots billions of computers. Brian has focused on the industry transition\
-  \ to the Unified Extensible Firmware Interface (UEFI), demystifying how firmware\
-  \ works and simplifying firmware development tools. Brian has presented at LinuxCon,\
-  \ UEFI Plugfests, and Intel Developer Forum. He is a blogger for the Intel Software\
-  \ Evangelists project, former writer forlinux.com, and (apropos of nothing) executive\
-  \ producer for DragonConTV."
-layout: post
+date: 2016-09-20 17:10:54
+excerpt: "**Title: TianoCore \u2013 Open Source UEFI Community Update**\n \n The TianoCore
+  project hosts EDK II, an open source implementation of the Unified Extensible Firmware
+  Interface (UEFI). EDK II has become the defacto UEFI implementation for ARM and
+  Intel platforms, expanding standards based firmware across multiple architectures.
+  This keynote will provide an update on the current status of the TianoCore project,
+  plans for future improvements, and a discussion of why firmware is critical in today\u2019s
+  digital ecosystem.\n \n **Bio**\n Brian Richardson is an Intel technical evangelist
+  who has spent most of his career as a \u201CBIOS guy\u201D working on the firmware
+  that quietly boots billions of computers. Brian has focused on the industry transition
+  to the Unified Extensible Firmware Interface (UEFI), demystifying how firmware works
+  and simplifying firmware development tools. Brian has presented at LinuxCon, UEFI
+  Plugfests, and Intel Developer Forum. He is a blogger for the Intel Software Evangelists
+  project, former writer forlinux.com, and (apropos of nothing) executive producer
+  for DragonConTV."
+featured_image_name: LAS16-400K2.png
+image:
+  featured: true
+  name: LAS16-400K2.png
+  path: /assets/images/featured-images/LAS16-400K2.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-400k2/
+post_format:
+- Video
 session_id: LAS16-400K2
 session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66826794
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16400k2-tianocore-open-source-uefi-community-update
 slug: las16-400k2
 speakers: Brian Richardson
+tags:
+- Intel
 title: 'LAS16-400K2: Brian Richardson, Intel'
 video_length: '52:46'
 video_thumbnail: None
 wordpress_id: 3840
 youtube_video_url: https://www.youtube.com/watch?v=kQ5X8vqdSu0
-categories:
-- Linaro Connect Las Vegas 2016 (LAS16)
-post_format:
-- Video
-tags:
-- Intel
 ---
 
 LAS16-400K2: TianoCore – Open Source UEFI Community Update
@@ -53,10 +59,10 @@ Brian Richardson is an Intel technical evangelist who has spent most of his care
 ★ Resources ★
 Watch the video: [https://www.youtube.com/watch?v=kQ5X8vqdSu0](https://www.youtube.com/watch?v=kQ5X8vqdSu0)
 Etherpad: pad.linaro.org/p/las16-400k2
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-400k2/](http://connect.linaro.org/resource/las16/las16-400k2/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-400k2/](/resources/las16/las16-400k2/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

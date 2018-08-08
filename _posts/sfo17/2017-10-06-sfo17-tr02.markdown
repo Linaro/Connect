@@ -2,13 +2,23 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-TR02%20-%20Upstreaming%20101.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-TR02%20Upstreaming%20101.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:54:55+00:00
+date: 2017-10-06 16:54:55
 excerpt: Introduction to the mechanics and norms of upstreaming
-layout: post
+featured_image_name: SFO17-TR02.jpg
+image:
+  featured: true
+  name: SFO17-TR02.jpg
+  path: /assets/images/featured-images/SFO17-TR02.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-tr02/
+post_format:
+- Video
 session_id: SFO17-TR02
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79886025
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/upstreaming-101-sfo17tr02
 slug: sfo17-tr02
 speakers: Daniel Lezcano
@@ -17,10 +27,6 @@ video_length: '57:13'
 video_thumbnail: None
 wordpress_id: 5997
 youtube_video_url: https://www.youtube.com/watch?v=0PQDiNGICBc
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-TR02

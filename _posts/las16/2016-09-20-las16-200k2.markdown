@@ -1,47 +1,54 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-200K2-%20corporate-foss-fail-sarah-sharp-notes.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Tuesday/LAS16-200K2-%20Keynote-%20Corporate%20Open%20Source%20Fail%20Sarah%20Sharp.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:39+00:00
-excerpt: "**Title: Corporate Open Source Fail**\n \n What makes companies with good\
-  \ intentions fail so miserably at open source? How can we (as engineers and managers)\
-  \ influence our bosses to “do the right thing”?\n \n “We’ll just make a new open\
-  \ source community.”\n “You can fix up that code later.”\n “It’s taking too long\
-  \ to get this upstream.”\n \n Many companies have good intentions of being productive\
-  \ open source citizens. However, those good intentions often get thrown under the\
-  \ bus when product deadlines or legal issues loom. This talk will walk through a\
-  \ series of common corporate open source pitfalls and the executive and manager\
-  \ thinking behind those decisions. We’ll discuss ways engineers and managers can\
-  \ develop empathy for their corporate overlord’s needs, in order to influence their\
-  \ strategies around open source.\n \n **Bio**\n \n Sarah is the founder of Otter\
-  \ Tech, a consulting company offering open source training, software development,\
-  \ and diversity consulting. http://otter.technology\n \n Sarah Sharp is a Linux\
-  \ and open source developer, and has been running Debian-based Linux systems since\
-  \ 2003. She was a Linux kernel developer from 2006 to 2013, and is the original\
-  \ author of the Linux USB 3.0 xHCI host controller driver.Sarah is also a co-coordinator\
-  \ for Outreachy, a paid internship program for increasing diversity in open source\
-  \ programs. Applications are open to women (cis and trans), trans men, and genderqueer\
-  \ people, and United States residents of any gender who are Black/African American,\
-  \ Hispanic/Latin@, American Indian, Alaska Native, Native Hawaiian, or Pacific Islander."
-layout: post
+date: 2016-09-20 17:10:39
+excerpt: "**Title: Corporate Open Source Fail**\n \n What makes companies with good
+  intentions fail so miserably at open source? How can we (as engineers and managers)
+  influence our bosses to \u201Cdo the right thing\u201D?\n \n \u201CWe\u2019ll just
+  make a new open source community.\u201D\n \u201CYou can fix up that code later.\u201D\n
+  \u201CIt\u2019s taking too long to get this upstream.\u201D\n \n Many companies
+  have good intentions of being productive open source citizens. However, those good
+  intentions often get thrown under the bus when product deadlines or legal issues
+  loom. This talk will walk through a series of common corporate open source pitfalls
+  and the executive and manager thinking behind those decisions. We\u2019ll discuss
+  ways engineers and managers can develop empathy for their corporate overlord\u2019s
+  needs, in order to influence their strategies around open source.\n \n **Bio**\n
+  \n Sarah is the founder of Otter Tech, a consulting company offering open source
+  training, software development, and diversity consulting. http://otter.technology\n
+  \n Sarah Sharp is a Linux and open source developer, and has been running Debian-based
+  Linux systems since 2003. She was a Linux kernel developer from 2006 to 2013, and
+  is the original author of the Linux USB 3.0 xHCI host controller driver.Sarah is
+  also a co-coordinator for Outreachy, a paid internship program for increasing diversity
+  in open source programs. Applications are open to women (cis and trans), trans men,
+  and genderqueer people, and United States residents of any gender who are Black/African
+  American, Hispanic/Latin@, American Indian, Alaska Native, Native Hawaiian, or Pacific
+  Islander."
+featured_image_name: LAS16-200K2.png
+image:
+  featured: true
+  name: LAS16-200K2.png
+  path: /assets/images/featured-images/LAS16-200K2.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-200k2/
+post_format:
+- Video
 session_id: LAS16-200K2
 session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/67197092
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16200k2-corporate-open-source-fail-sarah-sharp
 slug: las16-200k2
 speakers: Sarah Sharp
-title: 'LAS16-200K2: Corporate Open Source Fail – Sarah Sharp'
+tags:
+- Community
+title: "LAS16-200K2: Corporate Open Source Fail \u2013 Sarah Sharp"
 video_length: '28:15'
 video_thumbnail: None
 wordpress_id: 3805
 youtube_video_url: https://www.youtube.com/watch?v=_17lUCd8ol0
-categories:
-- Linaro Connect Las Vegas 2016 (LAS16)
-post_format:
-- Video
-tags:
-- Community
 ---
 
 LAS16-200K2: Corporate Open Source Fail – Sarah Sharp
@@ -68,10 +75,10 @@ Sarah Sharp is a Linux and open source developer, and has been running Debian-ba
 ★ Resources ★
 Watch the video: [ https://www.youtube.com/watch?v=_17lUCd8ol0](https://www.youtube.com/watch?v=_17lUCd8ol0)
 Etherpad: pad.linaro.org/p/las16-200k2
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-200k2/](http://connect.linaro.org/resource/las16/las16-200k2/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-200k2/](/resources/las16/las16-200k2/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

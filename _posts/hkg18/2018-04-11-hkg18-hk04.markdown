@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-hk04.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-hk04.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:15:25+00:00
+date: 2018-04-11 14:15:25
 excerpt: '- What to test?
 
   - - Single git builds? Full (repo) setup builds? Xtest using software emulation?
@@ -14,8 +16,15 @@ excerpt: '- What to test?
   - - Travis? Shippable? HiKey Auto Boot? CI + Lava from Linaro?
 
   - AOSP builds? How can we automate that?'
-layout: post
+featured_image_name: HKG18-HK04.png
+image:
+  featured: true
+  name: HKG18-HK04.png
+  path: /assets/images/featured-images/HKG18-HK04.png
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-hk04/
+post_format:
+- Video
 session_id: HKG18-HK04
 session_track: Security
 slug: hkg18-hk04
@@ -24,10 +33,6 @@ title: 'HKG18-HK04 - SWG Hacking: Testing in OP-TEE'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 8855
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-HK04
@@ -36,7 +41,7 @@ Speaker: Joakim Bech
 Track: Security
 
 
-★ Session Summary ★
+## Session Summary
 - What to test?
 - - Single git builds? Full (repo) setup builds? Xtest using software emulation? Xtest using hardware?
 - Where to test?
@@ -44,12 +49,12 @@ Track: Security
 - AOSP builds? How can we automate that?
 
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-hk04/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-hk04.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-hk04.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -64,8 +69,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Joakim Bech
+**Speakers**: Joakim Bech
 
-Speaker Positions: Principal Engineer
-
-
+**Speaker Positions**: Principal Engineer

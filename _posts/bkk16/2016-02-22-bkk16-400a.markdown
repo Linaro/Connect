@@ -1,8 +1,9 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-400A.pdf
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:49+00:00
+date: 2016-02-22 17:20:49
 excerpt: 'ARM server hardware will be shipping in 2016. An incredible amount of work
   has been done to get this far -- defining and implementing industry standards used
   by servers, development and testing of SoCs, and all sorts of Linux kernel work.
@@ -15,29 +16,33 @@ excerpt: 'ARM server hardware will be shipping in 2016. An incredible amount of 
   FWTS to check for standards compliance, specifically ACPI and the SBBR, and how
   we can use LuvOS to run FWTS and other test suites so that we can rely on hard data,
   and not just wishful thinking.'
-layout: post
+featured_image_name: BKK16-400A.jpg
+image:
+  featured: true
+  name: BKK16-400A.jpg
+  path: /assets/images/featured-images/BKK16-400A.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-400a/
+post_format:
+- Video
 session_id: BKK16-400A
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58685283
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16400a-luvos-and-acpi-compliance-testing
 slug: bkk16-400a
 speakers: 'Naresh Bhat
 
   Al Stone'
-title: 'BKK16-400A: LuvOS and ACPI Compliance Testing'
-video_length: 00:00
-video_thumbnail: None
-wordpress_id: 3361
-youtube_video_url: https://youtu.be/EYV6Rb11QBI
-categories:
-- Linaro Connect Bangkok 2016
-post_format:
-- Video
 tags:
 - ACPI
 - Compliance
 - LuvOS
 - Testing
+title: 'BKK16-400A: LuvOS and ACPI Compliance Testing'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3361
+youtube_video_url: https://youtu.be/EYV6Rb11QBI
 ---
 
 ARM server hardware will be shipping in 2016. An incredible amount of work has been done to get this far -- defining and implementing industry standards used by servers, development and testing of SoCs, and all sorts of Linux kernel work. So, how do we make sure we meet all these industry standards?  To a great extent, we've relied on magical thinking so far. That works, but only for so long. LuvOS and FWTS were created in order to catch many of the problems users have found; in this presentation, we describe how we have started extending FWTS to check for standards compliance, specifically ACPI and the SBBR, and how we can use LuvOS to run FWTS and other test suites so that we can rely on hard data, and not just wishful thinking.

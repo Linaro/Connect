@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
 comments: false
 date: 2017-03-20 13:12:23+00:00
 layout: post
@@ -30,7 +30,7 @@ OpenJDK is an implementation of the Java SE and Linaro has been involved into Op
 **Speakers:** Stuart Monteith
 **Track:** LEG
 **Session ID:** BUD17-117
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-117/](http://connect.linaro.org/resource/bud17/bud17-117/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-117/](/resources/bud17/bud17-117/)
 
 
 
@@ -54,7 +54,7 @@ LMG team, in collaboration with Toolchains team, has worked on multiple areas re
 **Speakers:** Bero Rsenkränzer, Renato Golin
 **Track:** LMG
 **Session ID**: BUD17-202
-**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-202/](http://connect.linaro.org/resource/bud17/bud17-202/)
+**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-202/](/resources/bud17/bud17-202/)
 
 
 
@@ -70,7 +70,7 @@ At this BoF we are going to discuss what an IoT toolchain should look like from 
 **Speakers:** Maxim Kuvyrkov
 **Track:** Toolchain
 **Session ID:** BUD17-223
-**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-223/](http://connect.linaro.org/resource/bud17/bud17-223/)
+**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-223/](/resources/bud17/bud17-223/)
 
 
 
@@ -86,7 +86,7 @@ Continuing from LAS16 and, if we have time, introducing global isel that we’re
 **Speakers:** Renato Golin, Peter Smith, Diana Picus, Omair Javaid, Adhemerval Zanella
 **Track:** Toolchain
 **Session ID:** BUD17-302
-**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-302/](http://connect.linaro.org/resource/bud17/bud17-302/)
+**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-302/](/resources/bud17/bud17-302/)
 
 
 
@@ -102,7 +102,7 @@ This session provides an introduction of LLDB – Debugger from LLVM project and
 **Speakers:** Omair Javaid
 **Track:** Toolchain
 **Session ID:** BUD17-310
-**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-310/](http://connect.linaro.org/resource/bud17/bud17-310/)
+**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-310/](/resources/bud17/bud17-310/)
 
 
 
@@ -120,7 +120,7 @@ This presentation is aimed at software developers wanting to understand how to f
 **Speakers:** Peter Smith
 **Track:** Toolchain
 **Session ID:** BUD17-318
-**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-318/](http://connect.linaro.org/resource/bud17/bud17-318/)
+**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-318/](/resources/bud17/bud17-318/)
 
 
 
@@ -136,7 +136,7 @@ In STMicroelectronics we developed a set of tools for an efficient exploitation 
 **Speakers:** Serge De-Paoli
 **Track:**
 **Session ID:** BUD17-324
-**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-324/](http://connect.linaro.org/resource/bud17/bud17-324/)
+**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-324/](/resources/bud17/bud17-324/)
 
 
 
@@ -154,7 +154,7 @@ HHVM uses just-in-time compilation to transform PHP and Hack source code into op
 **Speakers:** Max Wang
 **Track:**
 **Session ID:** BUD17-400K1
-**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-400k1/](http://connect.linaro.org/resource/bud17/bud17-400k1/)
+**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-400k1/](/resources/bud17/bud17-400k1/)
 
 
 
@@ -170,4 +170,4 @@ TBD
 **Speakers:** Maxim Kuvyrkov
 **Track:** Toolchain
 **Session ID:** BUD17-406
-**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-406/](http://connect.linaro.org/resource/bud17/bud17-406/)
+**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-406/](/resources/bud17/bud17-406/)

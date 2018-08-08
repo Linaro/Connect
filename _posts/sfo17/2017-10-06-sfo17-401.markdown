@@ -2,8 +2,10 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-401%20UEFI%20Secure%20Boot%20and%20DRI.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-401%20-%20UEFI%20Secure%20Boot%20and%20DRI%20for%20RDK%20on%20HiKey.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:55:41+00:00
+date: 2017-10-06 16:55:41
 excerpt: 'Explains about implementation of Secure boot and DRI (disaster recovery
   Image) using UEFI/EDK2 on Hikey board.
 
@@ -14,10 +16,18 @@ excerpt: 'Explains about implementation of Secure boot and DRI (disaster recover
 
   DRI is UEFI executable which provides HTTP /HTTPS method to download RDK Image  and
   store the image in Flash memory.'
-layout: post
+featured_image_name: SFO17-401.jpg
+image:
+  featured: true
+  name: SFO17-401.jpg
+  path: /assets/images/featured-images/SFO17-401.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-401/
+post_format:
+- Video
 session_id: SFO17-401
 session_track: LHG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79886017
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/uefi-secure-boot-and-dri-for-rdk-on-hikey-sfo17401
 slug: sfo17-401
 speakers: Kalyan Nagabhirava
@@ -26,10 +36,6 @@ video_length: '26:04'
 video_thumbnail: None
 wordpress_id: 6046
 youtube_video_url: https://www.youtube.com/watch?v=Kx_DF2A4I5U
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-401

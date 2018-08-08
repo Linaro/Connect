@@ -1,29 +1,35 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-500%20-OpenSUSE_96Boards_final.pdf
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:54+00:00
+date: 2017-02-28 12:05:54
 excerpt: Progress, difficulties and questions surrounding the creation of bootable
   openSUSE images in the Open Build Service for the various 96Boards (HiKey, DragonBoard
   410c, Bubblegum-96, Poplar, Mediatek X20) are presented. Focus is kernel and bootloaders
   as well as openSUSE specific tools.
-layout: post
+featured_image_name: BUD17-500.jpg
+image:
+  featured: true
+  name: BUD17-500.jpg
+  path: /assets/images/featured-images/BUD17-500.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-500/
+post_format:
+- Video
 session_id: BUD17-500
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72787944
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17-500-open-suse96boardsfinal
 slug: bud17-500
-speakers: Andreas Färber
+speakers: "Andreas F\xE4rber"
 title: 96Boards enablement for openSUSE - BUD17-500
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4720
-categories:
-- bud17
-post_format:
-- Video
 ---
 
 Progress, difficulties and questions surrounding the creation of bootable openSUSE images in the Open Build Service for the various 96Boards (HiKey, DragonBoard 410c, Bubblegum-96, Poplar, Mediatek X20) are presented. Focus is kernel and bootloaders as well as openSUSE specific tools.
 
-Event Date: 
+Event Date:

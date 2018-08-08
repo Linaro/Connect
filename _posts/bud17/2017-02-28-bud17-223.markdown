@@ -1,31 +1,37 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-223%20-%20IoT%20Toolchain%20BoF.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Tuesday/BUD17-223%20IoT%20Toolchain%20BoF.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:36+00:00
+date: 2017-02-28 12:05:36
 excerpt: At this BoF we are going to discuss what an IoT toolchain should look like
   from a user perspective
-layout: post
+featured_image_name: BUD17-223.jpg
+image:
+  featured: true
+  name: BUD17-223.jpg
+  path: /assets/images/featured-images/BUD17-223.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-223/
+post_format:
+- Video
 session_id: BUD17-223
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786255
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17223-iot-toolchain-bof
 slug: bud17-223
 speakers: Maxim Kuvyrkov
+tags:
+- BoF
+- IoT
+- Toolchain
 title: IoT Toolchain BoF - BUD17-223
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4658
 youtube_video_url: https://youtu.be/pzVv0gJypaY
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- BoF
-- IoT
-- Toolchain
 ---
 
 Session ID: BUD17-223

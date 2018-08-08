@@ -8,7 +8,7 @@ excerpt: 6WIND’s packet processing software helps Telcos deploy ARM servers as
   we will provide an overview of 6WIND software, our offerings on ARM servers and
   an NFV use case with our partner Qualcomm that integrates hypervisor networking
   power with high performance routing VMs with line rate throughput.
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-458/
 session_id: SFO17-458
 session_track: LEG

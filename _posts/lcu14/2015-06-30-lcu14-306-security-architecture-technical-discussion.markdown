@@ -1,27 +1,28 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-17-Wednesday/LCU14-306.pdf
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:08:27+00:00
+date: 2015-06-30 17:08:27
 excerpt: 'In this discussion session, we will cover the plans Linaro have to enhance
   the current OP-TEE implementation. Different topics will be covered, among them:
   Adding a cryptographic layer to support custom cryptographic libraries or HW-acceleration
   IP / instructions (REQ-413 and REQ-421) PSCI support (REQ-415) Add ECC support for
   TEE Internal API 1.1 (REQ-419)'
-layout: post
+featured_image_name: LCU14-306.jpg
+image:
+  featured: true
+  name: LCU14-306.jpg
+  path: /assets/images/featured-images/LCU14-306.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-306-security-architecture-technical-discussion/
 session_id: LCU14-306
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38952605
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-306-optee-future-enhancements
 slug: lcu14-306-security-architecture-technical-discussion
 speakers: Joakim Bech, Jens Wiklander, Pascal Brand
-title: 'LCU14-306: Security Architecture Technical Discussion'
-video_length: '42:16'
-video_thumbnail: None
-wordpress_id: 1542
-youtube_video_url: https://www.youtube.com/watch?v=GTKEmdUU1lE
-categories:
-- Linaro Connect USA 2014
 tags:
 - Jens Wiklander
 - Joakim Bech
@@ -29,6 +30,11 @@ tags:
 - LCU14-306
 - Pascal Brand
 - Security
+title: 'LCU14-306: Security Architecture Technical Discussion'
+video_length: '42:16'
+video_thumbnail: None
+wordpress_id: 1542
+youtube_video_url: https://www.youtube.com/watch?v=GTKEmdUU1lE
 ---
 
 LCU14-306: Security Architecture Technical Discussion

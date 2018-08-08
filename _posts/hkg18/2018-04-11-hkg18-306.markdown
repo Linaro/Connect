@@ -1,15 +1,25 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-306.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-306.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:12:48+00:00
+date: 2018-04-11 14:12:48
 excerpt: 'Title: "Overview of Qualcomm Snapdragon Neural Processing Engine" Abstract:
   An overview presentation of Snapdragon NPE with Android based demos'
-layout: post
+featured_image_name: HKG18-306.png
+image:
+  featured: true
+  name: HKG18-306.png
+  path: /assets/images/featured-images/HKG18-306.png
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-306/
+post_format:
+- Video
 session_id: HKG18-306
 session_track: Ecosystem Day;LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92327111
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18306-overview-of-qualcomm-snapdragon-neural-processing-engine
 slug: hkg18-306
 speakers: Mark Charlebois
@@ -18,10 +28,6 @@ video_length: '16:51'
 video_thumbnail: None
 wordpress_id: 8782
 youtube_video_url: https://www.youtube.com/watch?v=HI2N7TGH0ys
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-306
@@ -30,15 +36,15 @@ Speaker: Mark Charlebois
 Track: Ecosystem Day;LMG
 
 
-★ Session Summary ★
+## Session Summary
 Title: "Overview of Qualcomm Snapdragon Neural Processing Engine" Abstract: An overview presentation of Snapdragon NPE with Android based demos
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-306/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-306.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-306.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -53,8 +59,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Mark Charlebois
+**Speakers**: Mark Charlebois
 
-Speaker Positions: Director - Engineering
-
-
+**Speaker Positions**: Director - Engineering

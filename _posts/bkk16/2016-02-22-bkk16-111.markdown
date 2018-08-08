@@ -1,9 +1,10 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-111.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Monday/BKK16-111%20Tuneable%20-%20The%20Future%20of%20Platform%20Optimisation%20Selection%20in%20glibc.mp4
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:36+00:00
+date: 2016-02-22 17:20:36
 excerpt: The GNU C library has a number of magic constants that were decided based
   on performance and resource data available when they were first introduced. Those
   constants may be suboptimal for some loads and may have even been rendered incorrect
@@ -16,24 +17,28 @@ excerpt: The GNU C library has a number of magic constants that were decided bas
   and integrators to tweak this configuration. This talk describes the architecture
   of this layer and the interface it provides and also describes the potential roadmap
   for this feature in glibc.
-layout: post
+featured_image_name: BKK16-111.jpg
+image:
+  featured: true
+  name: BKK16-111.jpg
+  path: /assets/images/featured-images/BKK16-111.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-111/
+post_format:
+- Video
 session_id: BKK16-111
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58209754
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16111-tunables-the-future-of-platform-optimization-selection-in-glibc
 slug: bkk16-111
 speakers: Siddhesh Poyarekar
+tags:
+- glibc
 title: 'BKK16-111: Tunables: The Future of Platform Optimization Selection in glibc'
 video_length: '34:45'
 video_thumbnail: None
 wordpress_id: 3319
 youtube_video_url: https://www.youtube.com/watch?v=0SElB9s7gog
-categories:
-- Linaro Connect Bangkok 2016
-post_format:
-- Video
-tags:
-- glibc
 ---
 
 The GNU C library has a number of magic constants that were decided based on performance and resource data available when they were first introduced. Those constants may be suboptimal for some loads and may have even been rendered incorrect due to advances in other components or hardware. Further, there are a number of global configuration variables that were added over the years to work around the problems posed by such magic constants (the MMAP_THRESHOLD in malloc is one such example). These variables have ad hoc names and each have their own scheme of initialization and maintenance. A tunables framework aims to provide a layer that manages such global configuration and provides a unified interface to programmers, system administrators, and integrators to tweak this configuration. This talk describes the architecture of this layer and the interface it provides and also describes the potential roadmap for this feature in glibc.

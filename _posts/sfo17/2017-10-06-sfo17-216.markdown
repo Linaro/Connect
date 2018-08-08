@@ -2,8 +2,10 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-216%20Vectorization%20%28final%29.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-216%20Automatic%20Vectorization%20in%20ART%20%28Android%20RunTime%29.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:54:45+00:00
+date: 2017-10-06 16:54:45
 excerpt: 'Because all modern general-purpose CPUs support small-scale SIMD
 
   instructions (typically between 64-bit and 512-bit), modern compilers
@@ -37,10 +39,18 @@ excerpt: 'Because all modern general-purpose CPUs support small-scale SIMD
   optimizations - and also will give an update on Linaro ART team''s
 
   SIMD-related activities.'
-layout: post
+featured_image_name: SFO17-216.jpg
+image:
+  featured: true
+  name: SFO17-216.jpg
+  path: /assets/images/featured-images/SFO17-216.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-216/
+post_format:
+- Video
 session_id: SFO17-216
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80612035
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/automatic-vectorization-in-art-android-runtime-sfo17216
 slug: sfo17-216
 speakers: Aart Bik  - Artem Serov
@@ -49,10 +59,6 @@ video_length: 01:01:55
 video_thumbnail: None
 wordpress_id: 5986
 youtube_video_url: https://www.youtube.com/watch?v=KOD5D_DjzaI
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-216

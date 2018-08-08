@@ -1,41 +1,46 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-402%20Virtual%20perspectives%20on%20cross-compiling.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-402%20Virtual%20Perspectives%20on%20Cross-compilation.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:47+00:00
-excerpt: 'Cross compiling (building software for one machine type on another) is something
+date: 2017-02-28 12:05:47
+excerpt: "Cross compiling (building software for one machine type on another) is something
   that should be familiar to most ARM developers. While kernel cross-compilation is
   well supported the story for user space is more complex. There are dedicated build
   systems for creating an entire rootfs from scratch but the overhead of learning
   them is quite for a single program. The usual fall-back of a linux-user chroot can
-  be quite fiddly to set up and is often unique to each developer''s set-up.
-
-  Virtualisation developer Alex Bennée offers some solutions that utilise Docker''s
-  container based approach, optionally with QEMU''s linux-user emulation to do builds
-  directly from the command line. In contrast to custom chroots Docker allows the
-  creation of well specified, re-buildable containers that can be simply deployed
-  by new developers. He will talk about the ongoing work to make building test binaries
-  for foreign architectures in QEMU as simple as a make invocation.'
-layout: post
+  be quite fiddly to set up and is often unique to each developer's set-up.\nVirtualisation
+  developer Alex Benn\xE9e offers some solutions that utilise Docker's container based
+  approach, optionally with QEMU's linux-user emulation to do builds directly from
+  the command line. In contrast to custom chroots Docker allows the creation of well
+  specified, re-buildable containers that can be simply deployed by new developers.
+  He will talk about the ongoing work to make building test binaries for foreign architectures
+  in QEMU as simple as a make invocation."
+featured_image_name: BUD17-402.jpg
+image:
+  featured: true
+  name: BUD17-402.jpg
+  path: /assets/images/featured-images/BUD17-402.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-402/
+post_format:
+- Video
 session_id: BUD17-402
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72946980
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17402-virtual-perspectives-on-crosscompilation
 slug: bud17-402
-speakers: Alex Bennée
+speakers: "Alex Benn\xE9e"
+tags:
+- cross-compilation
+- Virtualization
 title: Virtual Perspectives on Cross-compilation - BUD17-402
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4693
 youtube_video_url: https://youtu.be/8q9gWreQYZU
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- cross-compilation
-- Virtualization
 ---
 
 "Session ID: BUD17-402

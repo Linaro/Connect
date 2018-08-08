@@ -1,15 +1,25 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-211.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-211.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:11:54+00:00
+date: 2018-04-11 14:11:54
 excerpt: A brief overview of Android common kernels. Out of mainline patchset status
   and a quick introduction to experimental/android-mainline-tracking tree.
-layout: post
+featured_image_name: HKG18-211.png
+image:
+  featured: true
+  name: HKG18-211.png
+  path: /assets/images/featured-images/HKG18-211.png
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-211/
+post_format:
+- Video
 session_id: HKG18-211
 session_track: Mobile
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/91396427
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18211-android-common-kernel-and-out-of-mainline-patchset-status
 slug: hkg18-211
 speakers: Amit Pundir
@@ -18,10 +28,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 8746
 youtube_video_url: https://www.youtube.com/watch?v=jvwm95CdUSY
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-211
@@ -30,15 +36,15 @@ Speaker: Amit Pundir
 Track: Mobile
 
 
-★ Session Summary ★
+## Session Summary
 A brief overview of Android common kernels. Out of mainline patchset status and a quick introduction to experimental/android-mainline-tracking tree.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-211/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-211.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-211.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -53,8 +59,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Amit Pundir
+**Speakers**: Amit Pundir
 
-Speaker Positions: Android Engineer
-
-
+**Speaker Positions**: Android Engineer

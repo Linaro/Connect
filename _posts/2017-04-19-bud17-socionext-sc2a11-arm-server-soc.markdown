@@ -1,10 +1,10 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
 comments: false
 date: 2017-04-19 13:09:02+00:00
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-socionext-sc2a11-arm-server-soc/
 session_id: None
 session_track: None
@@ -17,7 +17,7 @@ video_thumbnail: None
 wordpress_id: 5755
 youtube_video_url: None
 categories:
-- Demo Friday
+- demo-friday
 post_format:
 - Video
 ---

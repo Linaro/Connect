@@ -1,4 +1,5 @@
 ---
+speaker: shuah-khan
 name: Shuah Khan
 company: Samsung Open Source Group
 position: Sr. Linux Kernel Engineer

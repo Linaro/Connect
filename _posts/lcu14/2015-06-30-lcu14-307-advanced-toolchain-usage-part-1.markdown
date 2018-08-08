@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-17-Wednesday/LCU14-307.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-17-Wednesday/LCU14-307-+Advanced+Toolchain+Usage+-+Part+1.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:09:14+00:00
+date: 2015-06-30 17:09:14
 excerpt: 'This set of sessions will go into detail on many toolchain topics and help
   the attendee get the most out of their toolchain usage. Topics covered will include:
 
@@ -32,22 +34,21 @@ excerpt: 'This set of sessions will go into detail on many toolchain topics and 
   Libatomic usage
 
   Debugging binaries compiled with optimizations.'
-layout: post
+featured_image_name: LCU14-307.jpg
+image:
+  featured: true
+  name: LCU14-307.jpg
+  path: /assets/images/featured-images/LCU14-307.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-307-advanced-toolchain-usage-part-1/
+post_format:
+- Video
 session_id: LCU14-307
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39030175
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-307-advanced-toolchain-usage-parts-12
 slug: lcu14-307-advanced-toolchain-usage-part-1
 speakers: Michael Collison, Maxim Kuvyrkov, Will Newton
-title: 'LCU14-307: Advanced Toolchain Usage (Part 1)'
-video_length: '42:21'
-video_thumbnail: None
-wordpress_id: 1543
-youtube_video_url: https://www.youtube.com/watch?v=E0troMIh1Go
-categories:
-- Linaro Connect USA 2014
-post_format:
-- Video
 tags:
 - lcu14
 - LCU14-307
@@ -55,6 +56,11 @@ tags:
 - Michael Collison
 - Toolchain
 - Will Newton
+title: 'LCU14-307: Advanced Toolchain Usage (Part 1)'
+video_length: '42:21'
+video_thumbnail: None
+wordpress_id: 1543
+youtube_video_url: https://www.youtube.com/watch?v=E0troMIh1Go
 ---
 
 LCU14-307: Advanced Toolchain Usage (Part 1)

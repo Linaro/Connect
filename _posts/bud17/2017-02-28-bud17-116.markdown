@@ -1,31 +1,37 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-116-Zephyr-on-Beetle.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Monday/BUD17-116%20Zephyr%20on%20Beetle.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:27+00:00
+date: 2017-02-28 12:05:27
 excerpt: This presentation summarized efficient project management solution to c
-layout: post
+featured_image_name: BUD17-116.jpg
+image:
+  featured: true
+  name: BUD17-116.jpg
+  path: /assets/images/featured-images/BUD17-116.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-116/
+post_format:
+- Video
 session_id: BUD17-116
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72785902
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17116-zephyr-on-beetle
 slug: bud17-116
 speakers: Vincenzo Frascino
-title: Zephyr on Beetle - BUD17-116
-video_length: 00:00
-video_thumbnail: None
-wordpress_id: 4629
-youtube_video_url: https://youtu.be/el4b4A0SSCE
-categories:
-- bud17
-post_format:
-- Video
 tags:
 - Beetle
 - LITE
 - Vincenzo Frascino
 - Zephyr
+title: Zephyr on Beetle - BUD17-116
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4629
+youtube_video_url: https://youtu.be/el4b4A0SSCE
 ---
 
 Session ID: BUD17-116

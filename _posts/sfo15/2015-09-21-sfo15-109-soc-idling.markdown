@@ -3,34 +3,40 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   Soc Idle.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-21-Monday/SFO15-109
   SoC idling.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-21 00:00:00+00:00
+date: 2015-09-21 00:00:00
 excerpt: Discuss plans in the PM community to improve genpd, runtime PM and cousins
   that will lead to better dynamic power management of peripherals, shared resources
   (e.g. caches) and reduce platform-specific code. Please attend if you want to learn
   about dynamic power management for the whole SoC and would like to discuss problems
   faced currently.
-layout: post
+featured_image_name: SFO15109SoCidling.jpg
+image:
+  featured: true
+  name: SFO15109SoCidling.jpg
+  path: /assets/images/featured-images/SFO15109SoCidling.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-109-soc-idling/
+post_format:
+- Video
 session_id: None
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53569722
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15109-soc-idling
 slug: sfo15-109-soc-idling
 speakers: Kevin Hilman, Ulf Hansson, Lina Iyer
+tags:
+- Community
+- Linux
+- Power
 title: 'SFO15-109: SoC idling'
 video_length: '47:31'
 video_thumbnail: None
 wordpress_id: 2802
 youtube_video_url: https://www.youtube.com/watch?v=bmU_3Z90NH0
-categories:
-- Linaro Connect San Francisco 2015
-post_format:
-- Video
-tags:
-- Community
-- Linux
-- Power
 ---
 
 SFO15-109: SoC idling

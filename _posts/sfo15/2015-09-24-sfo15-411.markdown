@@ -2,30 +2,36 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-24-Thursday/SFO15-411-
   Energy Aware Scheduling- Power vs. Performance policy -part 1.pdf
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-24 00:00:00+00:00
+date: 2015-09-24 00:00:00
 excerpt: We get lots of questions from members during initial HW design, SW implementation
   and tuning of PM on their platforms. This session will address some of those questions
   and make general recommendations for new platforms.
-layout: post
+featured_image_name: SFO15-411.jpg
+image:
+  featured: true
+  name: SFO15-411.jpg
+  path: /assets/images/featured-images/SFO15-411.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-411/
+post_format:
+- Video
 session_id: SFO15-411
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53031884
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15411-energy-aware-scheduling-power-vs-performance-policy-part-1
 slug: sfo15-411
 speakers: Vincent Guittot
+tags:
+- Power Management
 title: 'SFO15-411 : Energy Aware Scheduling: Power vs. Performance policy'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 2877
 youtube_video_url: None
-categories:
-- Linaro Connect San Francisco 2015
-post_format:
-- Video
-tags:
-- Power Management
 ---
 
 SFO15-411: Energy Aware Scheduling: Power vs. Performance policy --------------------------------------------------- Speaker: Vincent Guittot Track: Power Management --------------------------------------------------- ★ Session Summary ★ We get lots of questions from members during initial HW design, SW implementation and tuning of PM on their platforms. This session will address some of those questions and make general recommendations for new platforms. --------------------------------------------------- ★ Resources ★ pathable: https://sfo15.pathable.com/meetings/303083 Presentation: http://www.slideshare.net/linaroorg/sfo15411-energy-aware-scheduling-power-vs-performance-policy-part-1 Video: Eatherpad: pad.linaro.org/p/sfo15-411 --------------------------------------------------- ★ Event Details ★ Linaro Connect San Francisco 2015 - #SFO15 September 21-25th, 2015 Hyatt Regency San Francisco Airport --------------------------------------------------- > http://www.linaro.org > http://connect.linaro.org

@@ -1,32 +1,37 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-302.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Wednesday/BKK16-302%20Android%20Optimizing%20Compiler%20%20New%20Member%20Assimilation%20Guide.mp4
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:43+00:00
+date: 2016-02-22 17:20:43
 excerpt: A tour of essential topics for working on the Android Optimizing Compiler,
   with a special emphasis on helping new engineers integrate and hit the ground running.
   Learn how to work on intrinsics, instruction simplification, platform specific optimizations,
   how to submit good patches, write Checker tests, analyse IR, take boot.oat measurements,
   and debug performance and execution issues with Streamline and GDB.
-layout: post
+featured_image_name: BKK16-302.jpg
+image:
+  featured: true
+  name: BKK16-302.jpg
+  path: /assets/images/featured-images/BKK16-302.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-302/
+post_format:
+- Video
 session_id: BKK16-302
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58680872
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16302-android-optimizing-compiler-new-member-assimilation-guide
 slug: bkk16-302
 speakers: Scott Wakeling
+tags:
+- Android Optimizing Compiler,
 title: 'BKK16-302: Android Optimizing Compiler: New Member Assimilation Guide'
 video_length: '41:20'
 video_thumbnail: None
 wordpress_id: 3343
 youtube_video_url: https://www.youtube.com/watch?v=XE-QSx06cmo
-categories:
-- Linaro Connect Bangkok 2016
-post_format:
-- Video
-tags:
-- Android Optimizing Compiler,
 ---
 
 A tour of essential topics for working on the Android Optimizing Compiler, with a special emphasis on helping new engineers integrate and hit the ground running. Learn how to work on intrinsics, instruction simplification, platform specific optimizations, how to submit good patches, write Checker tests, analyse IR, take boot.oat measurements, and debug performance and execution issues with Streamline and GDB.

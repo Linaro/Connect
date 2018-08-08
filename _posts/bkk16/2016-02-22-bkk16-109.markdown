@@ -1,29 +1,34 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-109.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Monday/BKK16-109%20OpenEmbedded%20BoF.mp4
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:36+00:00
+date: 2016-02-22 17:20:36
 excerpt: Discuss the details of proposed lead project 2
-layout: post
+featured_image_name: BKK16-109.jpg
+image:
+  featured: true
+  name: BKK16-109.jpg
+  path: /assets/images/featured-images/BKK16-109.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-109/
+post_format:
+- Video
 session_id: BKK16-109
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59172348
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16109-openembedded-bof
 slug: bkk16-109
 speakers: Matthew Locke
+tags:
+- IoT
+- LITE
 title: 'BKK16-109: Lead Project #2'
 video_length: '35:49'
 video_thumbnail: None
 wordpress_id: 3317
 youtube_video_url: https://www.youtube.com/watch?v=_ZHI5GZp_Zo
-categories:
-- Linaro Connect Bangkok 2016
-post_format:
-- Video
-tags:
-- IoT
-- LITE
 ---
 
 Discuss the details of proposed lead project 2

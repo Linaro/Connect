@@ -1,28 +1,34 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-11-Wednesday/HKG15-904.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-11-Wednesday/HKG15-904+Scrum+and+Kanban+101.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:36:16+00:00
-layout: post
+date: 2015-04-23 15:36:16
+featured_image_name: HKG15-904.jpg
+image:
+  featured: true
+  name: HKG15-904.jpg
+  path: /assets/images/featured-images/HKG15-904.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-904-scrum-and-kanban-101/
+post_format:
+- Video
 session_id: HKG15-904
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44898896
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15904-scrum-and-kanban-101
 slug: hkg15-904-scrum-and-kanban-101
 speakers: Amro Hassaan
+tags:
+- Amro Hassaan
+- hkg15
+- HKG15-904
 title: 'HKG15-904: Scrum and Kanban 101'
 video_length: '47:35'
 video_thumbnail: None
 wordpress_id: 745
 youtube_video_url: https://www.youtube.com/watch?v=o0w8AXW832c
-categories:
-- hkg15
-post_format:
-- Video
-tags:
-- Amro Hassaan
-- hkg15
-- HKG15-904
 ---
 
 HKG15-904: Scrum and Kanban 101 

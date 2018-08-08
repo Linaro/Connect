@@ -1,26 +1,31 @@
 ---
-amazon_s3_video_url: 10/8/2015
-author: kyle.kirkby
+amazon_s3_video_url: None
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-24 00:00:00+00:00
-layout: post
+date: 2015-09-24 00:00:00
+featured_image_name: SFO15400K3SecurityandTrustinaMobileWorld.jpg
+image:
+  featured: true
+  name: SFO15400K3SecurityandTrustinaMobileWorld.jpg
+  path: /assets/images/featured-images/SFO15400K3SecurityandTrustinaMobileWorld.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-400k3-security-and-trust-in-a-mobile-world/
+post_format:
+- Video
 session_id: None
 session_track: Keynote
 slug: sfo15-400k3-security-and-trust-in-a-mobile-world
+tags:
+- ARM
+- Linaro
+- Linux
 title: 'SFO15-400K3: Security and Trust in a Mobile World'
 video_length: '17:26'
 video_thumbnail: None
 wordpress_id: 2860
 youtube_video_url: https://www.youtube.com/watch?v=HPooPahP5Co
-categories:
-- Linaro Connect San Francisco 2015
-post_format:
-- Video
-tags:
-- ARM
-- Linaro
-- Linux
 ---
 
 Speaker: Roger Casals

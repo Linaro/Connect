@@ -1,29 +1,35 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-TR02%20-%20Upstreaming%20101.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Tuesday/BUD17-TR02%20Upstreaming%20101.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:38+00:00
+date: 2017-02-28 12:05:38
 excerpt: Introduction to the mechanics and norms of upstreaming
-layout: post
+featured_image_name: BUD17-TR02.jpg
+image:
+  featured: true
+  name: BUD17-TR02.jpg
+  path: /assets/images/featured-images/BUD17-TR02.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-tr02/
+post_format:
+- Video
 session_id: BUD17-TR02
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786293
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17tr02-upstreaming-101
 slug: bud17-tr02
 speakers: None
+tags:
+- '101'
+- Upstreaming
 title: Upstreaming 101 - BUD17-TR02
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4662
 youtube_video_url: https://youtu.be/S-zoQNNn-Q0
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- '101'
-- Upstreaming
 ---
 
 Session ID: BUD17-TR02

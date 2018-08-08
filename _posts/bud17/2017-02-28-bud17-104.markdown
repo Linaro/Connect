@@ -1,38 +1,42 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-104%20-%20Scripting%20Languages%20in%20IoT.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Monday/BUD17-104%20Scripting%20Languages%20in%20IoT%20%20Challenge%20and%20Approaches.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:24+00:00
+date: 2017-02-28 12:05:24
 excerpt: Scripting languages is hot emerging topic in IoT. They allow easy learnability
   and rapid prototyping and further benefits (like production use) as they evolve.
   This session compares approaches of MicroPython and JerryScript/Zephyr.js projects
   and gives status update on their Zephyr RTOS ports.
-layout: post
+featured_image_name: BUD17-104.jpg
+image:
+  featured: true
+  name: BUD17-104.jpg
+  path: /assets/images/featured-images/BUD17-104.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-104/
+post_format:
+- Video
 session_id: BUD17-104
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72785709
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17104-scripting-languages-in-iot-challenges-and-approaches
 slug: bud17-104
 speakers: Paul Sokolovsky,
-title: 'Scripting Languages in IoT: Challenges and Approaches - BUD17-104'
-video_length: 00:00
-video_thumbnail: None
-wordpress_id: 4617
-youtube_video_url: https://youtu.be/lIO8QL2SRuU
-categories:
-- bud17
-post_format:
-- Video
 tags:
 - IoT
 - LITE
 - Paul Sokolovsky
 - scripting languages
 - Zephyr
+title: 'Scripting Languages in IoT: Challenges and Approaches - BUD17-104'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4617
+youtube_video_url: https://youtu.be/lIO8QL2SRuU
 ---
-
-
 
 Session ID: BUD17-104
 Session Name: Scripting Languages in IoT: Challenges and Approaches - BUD17-104

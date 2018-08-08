@@ -1,9 +1,10 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-215.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Tuesday/BKK16-215%20kernelci%20dot%20org.mp4
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:42+00:00
+date: 2016-02-22 17:20:42
 excerpt: 'The kernelci.org project is currently doing hundreds of build and boot
 
   tests for upstream kernels on a wide variety of hardware. This session
@@ -13,10 +14,18 @@ excerpt: 'The kernelci.org project is currently doing hundreds of build and boot
   demos and how to start consuming its results, and be a forum for
 
   further discussions.'
-layout: post
+featured_image_name: BKK16-215.jpg
+image:
+  featured: true
+  name: BKK16-215.jpg
+  path: /assets/images/featured-images/BKK16-215.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-215/
+post_format:
+- Video
 session_id: BKK16-215
 session_track: B&B
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58207166
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16-215-kernelciorg-beyond-boot-testing
 slug: bkk16-215
 speakers: 'Tyler Baker
@@ -24,17 +33,13 @@ speakers: 'Tyler Baker
   Kevin Hilman
 
   Milo Casagrande'
+tags:
+- kernelci.org
 title: 'BKK16-215: kernelci.org: beyond boot testing'
 video_length: '53:17'
 video_thumbnail: None
 wordpress_id: 3337
 youtube_video_url: https://www.youtube.com/watch?v=Gd49WFBynFA
-categories:
-- Linaro Connect Bangkok 2016
-post_format:
-- Video
-tags:
-- kernelci.org
 ---
 
 The kernelci.org project is currently doing hundreds of build and boot tests for upstream kernels on a wide variety of hardware. This session will provide an introduction to the kernelci.org system, some live demos and how to start consuming its results, and be a forum for further discussions.

@@ -1,9 +1,10 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-306.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Wednesday/BKK16-306%20ART%20II.mp4
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:45+00:00
+date: 2016-02-22 17:20:45
 excerpt: An overview of the infrastructure the Linaro LMG team is using for the ART
   development, describing some of the interaction between Gerrit, Jenkins and Lava,
   the differences between target and host tests as well as a high level overview of
@@ -11,25 +12,29 @@ excerpt: An overview of the infrastructure the Linaro LMG team is using for the 
   understanding of our infrastructure to any ART new starter as well as to anyone
   that is interesting in putting together a similar infrastructure for any other software
   project.
-layout: post
+featured_image_name: BKK16-306.jpg
+image:
+  featured: true
+  name: BKK16-306.jpg
+  path: /assets/images/featured-images/BKK16-306.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-306/
+post_format:
+- Video
 session_id: BKK16-306
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59657401
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16306-art-ii
 slug: bkk16-306
-speakers: Şerban Constantinescu
+speakers: "\u015Eerban Constantinescu"
+tags:
+- ART
+- LMG
 title: 'BKK16-306: ART II'
 video_length: '45:24'
 video_thumbnail: None
 wordpress_id: 3348
 youtube_video_url: https://www.youtube.com/watch?v=KKZ8BtDIOlw
-categories:
-- Linaro Connect Bangkok 2016
-post_format:
-- Video
-tags:
-- ART
-- LMG
 ---
 
 An overview of the infrastructure the Linaro LMG team is using for the ART development, describing some of the interaction between Gerrit, Jenkins and Lava, the differences between target and host tests as well as a high level overview of most of the Linaro ART Jenkins tests. The presentation is aimed at providing a better understanding of our infrastructure to any ART new starter as well as to anyone that is interesting in putting together a similar infrastructure for any other software project.

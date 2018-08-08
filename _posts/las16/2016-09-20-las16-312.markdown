@@ -1,38 +1,42 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-312%20Open%20Compute%20Project%20%28OCP%29%20%20Consume%2C%20Collaborate%2C%20Contribute.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:53+00:00
-excerpt: "How Linaro and the ARM Partners can drive contributions to the OCP Ecosystem\
-  \ and more.\n \n In this session, Amber Graner, Operations Director for the Open\
-  \ Compute Project Foundation will discuss how Linaro Member can influence and drive\
-  \ ARM consumption, collaboration and contribution in, near and around the data center\
-  \ ecosystem through the OCP community. Learn how to participate, contribute to and\
-  \ influence ARM contributions with the OCP ecosystem. How can you, the Linaro community\
-  \ and ARM partners drive ARM contributions within the OCP rack formats. See what\
-  \ OCP currently has contributed, upcoming contributions and what is still needed.\n\
-  \ \n Amber welcomes your questions ahead of time and hopes to cover the above and\
-  \ more at Linaro Connect."
-layout: post
+date: 2016-09-20 17:10:53
+excerpt: "How Linaro and the ARM Partners can drive contributions to the OCP Ecosystem
+  and more.\n \n In this session, Amber Graner, Operations Director for the Open Compute
+  Project Foundation will discuss how Linaro Member can influence and drive ARM consumption,
+  collaboration and contribution in, near and around the data center ecosystem through
+  the OCP community. Learn how to participate, contribute to and influence ARM contributions
+  with the OCP ecosystem. How can you, the Linaro community and ARM partners drive
+  ARM contributions within the OCP rack formats. See what OCP currently has contributed,
+  upcoming contributions and what is still needed.\n \n Amber welcomes your questions
+  ahead of time and hopes to cover the above and more at Linaro Connect."
+featured_image_name: LAS16-312.png
+image:
+  featured: true
+  name: LAS16-312.png
+  path: /assets/images/featured-images/LAS16-312.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-312/
+post_format:
+- Video
 session_id: LAS16-312
 session_track: LEG
 slideshare_presentation_url: None
 slug: las16-312
 speakers: Amber Graner
+tags:
+- Community
+- Enterprise
 title: 'LAS16-312: Open Compute Project (OCP): Consume, Collaborate, Contribute.'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3836
 youtube_video_url: https://youtu.be/-z_oyy3Uml0
-categories:
-- Linaro Connect Las Vegas 2016 (LAS16)
-post_format:
-- Video
-tags:
-- Community
-- Enterprise
 ---
 
 LAS16-312: Open Compute Project (OCP): Consume, Collaborate, Contribute.
@@ -48,10 +52,10 @@ Amber welcomes your questions ahead of time and hopes to cover the above and mor
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-312
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-312/](http://connect.linaro.org/resource/las16/las16-312/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-312/](/resources/las16/las16-312/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

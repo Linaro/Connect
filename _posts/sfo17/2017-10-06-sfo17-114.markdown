@@ -2,8 +2,10 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-114%20Software%20Is%20Imperfect.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-114%20-%20Software%20is%20imperfect%21%20...so%20how%20to%20deal%20with%20it.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:53:58+00:00
+date: 2017-10-06 16:53:58
 excerpt: Userspace software is imperfect and everyone knows it but most of people
   are afraid to talk openly about this. Usually problems start when people try to
   run this software for a long period of time. This problem already gave server guys
@@ -15,10 +17,18 @@ excerpt: Userspace software is imperfect and everyone knows it but most of peopl
   presented. Then Krzysztof will try to identify what's missing and show how we could
   fill this gap using rlimit-events concept. Last part is going to be a discussion
   on a presented idea and experience sharing.
-layout: post
+featured_image_name: SFO17-114.jpg
+image:
+  featured: true
+  name: SFO17-114.jpg
+  path: /assets/images/featured-images/SFO17-114.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-114/
+post_format:
+- Video
 session_id: SFO17-114
 session_track: LITE,LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80701766
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/software-is-imperfect-so-how-to-deal-with-it-sfo17114
 slug: sfo17-114
 speakers: Krzysztof Opasiak
@@ -27,10 +37,6 @@ video_length: '27:40'
 video_thumbnail: None
 wordpress_id: 5942
 youtube_video_url: https://www.youtube.com/watch?v=Nc18N2lQvqs
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-114

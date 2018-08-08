@@ -7,7 +7,7 @@ excerpt: Works on Arm is a collaborative project led by Packet with resources fr
   data center as well as resources for test, build, and CI/CD projects. Ed Vielmetti,
   project director, will speak on the lessons learned in getting this effort off the
   ground as well as present a roadmap for the next year's worth of work.
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-457/
 session_id: SFO17-457
 session_track: LEG

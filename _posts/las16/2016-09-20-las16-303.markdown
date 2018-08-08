@@ -1,29 +1,35 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-303%20-%20Kernel%20Testing%20with%20KernelCI.org.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-303%20Kernel%20Testing%20with%20KernelCI%20dot%20org.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:48+00:00
+date: 2016-09-20 17:10:48
 excerpt: TBD - BoF discussion
-layout: post
+featured_image_name: LAS16-303.png
+image:
+  featured: true
+  name: LAS16-303.png
+  path: /assets/images/featured-images/LAS16-303.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-303/
+post_format:
+- Video
 session_id: LAS16-303
 session_track: Automation & CI
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357504
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16303-kernel-testing-with-kernelciorg
 slug: las16-303
 speakers: Tyler Baker
+tags:
+- Kernel
+- LAVA
 title: 'LAS16-303: Kernel Testing with KernelCI.org'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3827
 youtube_video_url: https://youtu.be/_pTXTXTHpyY
-categories:
-- Linaro Connect Las Vegas 2016 (LAS16)
-post_format:
-- Video
-tags:
-- Kernel
-- LAVA
 ---
 
 LAS16-303: Kernel Testing with KernelCI.org
@@ -35,10 +41,10 @@ TBD - BoF discussion.
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-303
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-303/](http://connect.linaro.org/resource/las16/las16-303/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-303/](/resources/las16/las16-303/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

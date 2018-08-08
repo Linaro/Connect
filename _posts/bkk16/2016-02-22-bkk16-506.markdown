@@ -1,33 +1,38 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Friday/BKK16-506.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Friday/BKK16-506%20PMWG%20Farm.mp4
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:57+00:00
+date: 2016-02-22 17:20:57
 excerpt: We will explain the purpose of the PMWG farm and the current goals we have
   (e.g. collect power measurements, share reference platforms, monitor power trends
   of the kernel). We will also address the limitations of our farm and invite everyone
   to discuss which results should be displayed for further analysis.
-layout: post
+featured_image_name: BKK16-506.jpg
+image:
+  featured: true
+  name: BKK16506PMWGFarm.jpg
+  path: /assets/images/featured-images/BKK16506PMWGFarm.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-506/
+post_format:
+- Video
 session_id: BKK16-506
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58209528
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16506-pmwg-farm
 slug: bkk16-506
 speakers: 'Lisa Nguyen
 
   Vincent Guittot'
+tags:
+- '"PMWG farm"'
 title: 'BKK16-506: PMWG Farm'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3388
 youtube_video_url: https://youtu.be/WgjMGR4BX3w
-categories:
-- Linaro Connect Bangkok 2016
-post_format:
-- Video
-tags:
-- '"PMWG farm"'
 ---
 
 We will explain the purpose of the PMWG farm and the current goals we have (e.g. collect power measurements, share reference platforms, monitor power trends of the kernel). We will also address the limitations of our farm and invite everyone to discuss which results should be displayed for further analysis.

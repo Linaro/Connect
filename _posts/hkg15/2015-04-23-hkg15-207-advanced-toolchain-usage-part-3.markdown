@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-10-Tuesday/HKG15-207.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-10-Tuesday/HKG15-207+Advanced+Toolchain+Usage+Part+3.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:37:02+00:00
+date: 2015-04-23 15:37:02
 excerpt: 'This session is a continuation of the Advanced Toolchain Usage Part 1 &
   2 presentations given at LCU14. Parts 3 and 4 will cover a variety of topics, such
   as: Linker tips and tricks, adding symbol versioning interfaces to a system library,
@@ -11,22 +13,21 @@ excerpt: 'This session is a continuation of the Advanced Toolchain Usage Part 1 
   manually constructing a backtrace on arm & Aarch64, how to add lightweight debugging
   to your program, how to use a signal handler appropriately, and TLS Models on Aarch64
   and when to use them.'
-layout: post
+featured_image_name: HKG15-207.jpg
+image:
+  featured: true
+  name: HKG15-207.jpg
+  path: /assets/images/featured-images/HKG15-207.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-207-advanced-toolchain-usage-part-3/
+post_format:
+- Video
 session_id: HKG15-207
 session_track: Tools
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44417890
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15207-advanced-toolchain-usage-part-3
 slug: hkg15-207-advanced-toolchain-usage-part-3
 speakers: Ryan Arnold, Maxim Kuvyrkov, Will Newton, Yvan Roux
-title: 'HKG15-207: Advanced Toolchain Usage Part 3'
-video_length: '43:34'
-video_thumbnail: None
-wordpress_id: 722
-youtube_video_url: https://www.youtube.com/watch?v=EhNqFCN0YJ0
-categories:
-- hkg15
-post_format:
-- Video
 tags:
 - hkg15
 - HKG15-207
@@ -35,6 +36,11 @@ tags:
 - Tools
 - Will Newton
 - Yvan Roux
+title: 'HKG15-207: Advanced Toolchain Usage Part 3'
+video_length: '43:34'
+video_thumbnail: None
+wordpress_id: 722
+youtube_video_url: https://www.youtube.com/watch?v=EhNqFCN0YJ0
 ---
 
 HKG15-207: Advanced Toolchain Usage Part 3 

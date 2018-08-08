@@ -2,11 +2,20 @@
 amazon_s3_presentation_url: None
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-23-Wednesday/SF015-304
   Server Ecosystem Day (Part 2b).mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-10-27 17:29:39+00:00
-layout: post
+date: 2015-10-27 17:29:39
+featured_image_name: SFO15-304.jpg
+image:
+  featured: true
+  name: SFO15-304.jpg
+  path: /assets/images/featured-images/SFO15-304.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sf015-304-server-ecosystem-day-part-2b/
+post_format:
+- Video
 session_id: SFO15-304
 session_track: Enterprise Server
 slideshare_presentation_url: None
@@ -17,10 +26,6 @@ video_length: '24:09'
 video_thumbnail: None
 wordpress_id: 2845
 youtube_video_url: https://www.youtube.com/watch?v=8jyHeoi_JMo
-categories:
-- Linaro Connect San Francisco 2015
-post_format:
-- Video
 ---
 
 11:45 – ScaleMark: Understanding Performance Results for Servers in the Data Center

@@ -2,21 +2,31 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-404-ion_slides_final.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-404%20-%20Ion%20integration%20challenges.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:55:49+00:00
-excerpt: "The goal of this talk is to share details on how Ion is integrated in production\
-  \ software, taking MSM\n as an example. This should provide an insight on additional\
-  \ requirements that we'd want to\n keep in mind while de-staging ION and finalizing\
-  \ on the ABI. The agenda would involve:\n \n - Run through the Ion optimizations\
-  \ available downstream and the feasibility of merging them.\n - Run through how\
-  \ a Userspace client uses Ion. Can we completely avoid hardcoding heap instances?\n\
-  \ - Using Ion as an allocator in kernel drivers. Is it a good idea?\n - Secure Heaps:\
-  \ Will a new heap type be sufficient?\n - Impact of the current de-staging efforts.\n\
-  \ - Ion on virtualized platforms?"
-layout: post
+date: 2017-10-06 16:55:49
+excerpt: "The goal of this talk is to share details on how Ion is integrated in production
+  software, taking MSM\n as an example. This should provide an insight on additional
+  requirements that we'd want to\n keep in mind while de-staging ION and finalizing
+  on the ABI. The agenda would involve:\n \n - Run through the Ion optimizations available
+  downstream and the feasibility of merging them.\n - Run through how a Userspace
+  client uses Ion. Can we completely avoid hardcoding heap instances?\n - Using Ion
+  as an allocator in kernel drivers. Is it a good idea?\n - Secure Heaps: Will a new
+  heap type be sufficient?\n - Impact of the current de-staging efforts.\n - Ion on
+  virtualized platforms?"
+featured_image_name: SFO17-404.jpg
+image:
+  featured: true
+  name: SFO17-404.jpg
+  path: /assets/images/featured-images/SFO17-404.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-404/
+post_format:
+- Video
 session_id: SFO17-404
 session_track: LHG,LITE,LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80739205
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/ion-integration-challenges-sfo17404
 slug: sfo17-404
 speakers: Archit Taneja
@@ -25,10 +35,6 @@ video_length: '37:30'
 video_thumbnail: None
 wordpress_id: 6051
 youtube_video_url: https://www.youtube.com/watch?v=jhpS5ZquHWk
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-404

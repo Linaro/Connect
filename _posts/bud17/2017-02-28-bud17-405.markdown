@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-405%20-%20Building%20a%20reference%20IoT%20product%20with%20Zephyr.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-405%20Building%20a%20reference%20IoT%20product%20with%20Zephyr.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:48+00:00
+date: 2017-02-28 12:05:48
 excerpt: An example of a reference IoT product can be thought of supporting several
   core technologies such as IPv4/IPv6, 6LoWPAN, Bluetooth LE and also several protocols
   such as MQTT, CoAP and LWM2M. Additional requirements such as having a complete
@@ -11,25 +13,29 @@ excerpt: An example of a reference IoT product can be thought of supporting seve
   with FOTA support are also critically important.  This session will cover the development
   and challenges faced when producing a reference IoT product implementation with
   Zephyr, describing the state of the project, and the current gaps to productization.
-layout: post
+featured_image_name: BUD17-405.jpg
+image:
+  featured: true
+  name: BUD17-405.jpg
+  path: /assets/images/featured-images/BUD17-405.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-405/
+post_format:
+- Video
 session_id: BUD17-405
 session_track: LTD
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786877
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17405-building-a-reference-iot-product-with-zephyr
 slug: bud17-405
 speakers: Michael Scott, Ricardo Salveti
+tags:
+- LTD
+- Zephyr. IoT
 title: Building a reference IoT product with Zephyr - BUD17-405
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4696
 youtube_video_url: https://youtu.be/TOJkzIJ_3jg
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- LTD
-- Zephyr. IoT
 ---
 
 "Session ID: BUD17-405

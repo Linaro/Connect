@@ -3,34 +3,40 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   Benchmarking Best Practices 101.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-23-Wednesday/SFO15-301
   Benchmarking Best Practices 101.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-23 00:00:00+00:00
-excerpt: 'This presentation will focus on beginner’s benchmarking best practices covering
-  the three Rs: repeatability, reproducibility, and reporting. An experiment is repeatable
-  if one team can repeatedly run the same experiment over short periods of time and
-  get the same results. An experiment is reproducible if external teams can run the
-  same experiment over large periods of time and get comparable results. Clear, concise
-  reporting allows others to utilise benchmark results.'
-layout: post
+date: 2015-09-23 00:00:00
+excerpt: "This presentation will focus on beginner\u2019s benchmarking best practices
+  covering the three Rs: repeatability, reproducibility, and reporting. An experiment
+  is repeatable if one team can repeatedly run the same experiment over short periods
+  of time and get the same results. An experiment is reproducible if external teams
+  can run the same experiment over large periods of time and get comparable results.
+  Clear, concise reporting allows others to utilise benchmark results."
+featured_image_name: SFO15301BenchmarkingBestPractices101.jpg
+image:
+  featured: true
+  name: SFO15301BenchmarkingBestPractices101.jpg
+  path: /assets/images/featured-images/SFO15301BenchmarkingBestPractices101.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-301-benchmarking-best-practices-101/
+post_format:
+- Video
 session_id: None
 session_track: General
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52895470
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15301-benchmarking-best-practices-101
 slug: sfo15-301-benchmarking-best-practices-101
 speakers: Maxim Kuvyrkov, Bernie Ogden
+tags:
+- Benchmarking
+- Toolchain
 title: SFO15 301 Benchmarking Best Practices 101
 video_length: '50:37'
 video_thumbnail: None
 wordpress_id: 2837
 youtube_video_url: https://www.youtube.com/watch?v=OFhyuFE9v2I
-categories:
-- Linaro Connect San Francisco 2015
-post_format:
-- Video
-tags:
-- Benchmarking
-- Toolchain
 ---
 
 SFO15-301: Benchmarking Best Practices 101

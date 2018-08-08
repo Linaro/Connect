@@ -1,31 +1,36 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-405.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Thursday/BKK16-405%20LNG%20Future%20Directions.mp4
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:52+00:00
+date: 2016-02-22 17:20:52
 excerpt: Session discussion on various opensource applications on ODP and their implementations.
   Applications to be discussed include NGiNX, TRex, OFP
-layout: post
+featured_image_name: BKK16-405.jpg
+image:
+  featured: true
+  name: BKK16-405.jpg
+  path: /assets/images/featured-images/BKK16-405.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-405/
-session_id: BKK16-405
-session_track: LNG
-slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16405-lng-future-directions
-slug: bkk16-405
-title: 'BKK16-405: Applications on ODP'
-video_length: 00:00
-video_thumbnail: None
-wordpress_id: 3370
-youtube_video_url: https://youtu.be/FPQM-XoesdQ
-categories:
-- Linaro Connect Bangkok 2016
 post_format:
 - Video
+session_id: BKK16-405
+session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58686993
+slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16405-lng-future-directions
+slug: bkk16-405
 tags:
 - NGiNX
 - ODP
 - OFP
 - TRex
+title: 'BKK16-405: Applications on ODP'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 3370
+youtube_video_url: https://youtu.be/FPQM-XoesdQ
 ---
 
 Session discussion on various opensource applications on ODP and their implementations. Applications to be discussed include NGiNX, TRex, OFP

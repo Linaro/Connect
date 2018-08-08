@@ -1,28 +1,34 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-13-Friday/HKG15-506.pdf
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:36:15+00:00
-layout: post
+date: 2015-04-23 15:36:15
+featured_image_name: HKG15-506.jpg
+image:
+  featured: true
+  name: HKG15-506.jpg
+  path: /assets/images/featured-images/HKG15-506.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-506-comcast-lessons-learned-from-migrating-the-rdk-code/
+post_format:
+- Video
 session_id: HKG15-506
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44899761
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15506-comcast-lessons-learned-from-migrating-the-rdk-code-base-to-the-openembeddedyocto-build-framework
 slug: hkg15-506-comcast-lessons-learned-from-migrating-the-rdk-code
 speakers: Sanjay Dorairaj, Khem Raj
-title: 'HKG15-506: Comcast - Lessons learned from migrating the RDK code....'
-video_length: 01:00:39
-video_thumbnail: None
-wordpress_id: 766
-youtube_video_url: https://www.youtube.com/watch?v=RIGpastAifg
-categories:
-- hkg15
-post_format:
-- Video
 tags:
 - hkg15
 - HKG15-506
 - Khem Raj
 - Sanjay Dorairaj
+title: 'HKG15-506: Comcast - Lessons learned from migrating the RDK code....'
+video_length: 01:00:39
+video_thumbnail: None
+wordpress_id: 766
+youtube_video_url: https://www.youtube.com/watch?v=RIGpastAifg
 ---
 
 HKG15-506: Comcast - Lessons learned from migrating the RDK code base to the OpenEmbedded/Yocto build framework 

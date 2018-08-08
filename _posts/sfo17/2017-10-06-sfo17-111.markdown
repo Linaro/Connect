@@ -2,15 +2,25 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-111%20-%20Secure96.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-111%20Secure96.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:53:52+00:00
-excerpt: What is Secure96 and why? In this session we will give an introduction to
-  Secure96, a daughter board for engineers work with symmetric, asymmetric IC’s as
-  well as TPM chip.
-layout: post
+date: 2017-10-06 16:53:52
+excerpt: "What is Secure96 and why? In this session we will give an introduction to
+  Secure96, a daughter board for engineers work with symmetric, asymmetric IC\u2019s
+  as well as TPM chip."
+featured_image_name: SFO17-111.jpg
+image:
+  featured: true
+  name: SFO17-111.jpg
+  path: /assets/images/featured-images/SFO17-111.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-111/
+post_format:
+- Video
 session_id: SFO17-111
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79884071
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/secure96-sfo17111
 slug: sfo17-111
 speakers: Joakim Bech
@@ -19,10 +29,6 @@ video_length: '22:36'
 video_thumbnail: None
 wordpress_id: 5936
 youtube_video_url: https://www.youtube.com/watch?v=nuoKQES0txU
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-111

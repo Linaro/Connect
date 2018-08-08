@@ -1,29 +1,34 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Friday/LAS16-502%2096Boards%20Community%20Panel.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:11:06+00:00
+date: 2016-09-20 17:11:06
 excerpt: Discussion around activities for 96Boards.
-layout: post
+featured_image_name: LAS16-502.png
+image:
+  featured: true
+  name: LAS16-502.png
+  path: /assets/images/featured-images/LAS16-502.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-502/
+post_format:
+- Video
 session_id: LAS16-502
 session_track: 96Boards
 slideshare_presentation_url: None
 slug: las16-502
 speakers: David Mandala
+tags:
+- 96Boards
+- Community
 title: 'LAS16-502: 96Boards Community Panel'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3859
 youtube_video_url: https://youtu.be/o5_0sG3nk78
-categories:
-- Linaro Connect Las Vegas 2016 (LAS16)
-post_format:
-- Video
-tags:
-- 96Boards
-- Community
 ---
 
 LAS16-502: 96Boards Community Panel
@@ -35,10 +40,10 @@ Discussion around activities for 96Boards.
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-502
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-502/](http://connect.linaro.org/resource/las16/las16-502/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-502/](/resources/las16/las16-502/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

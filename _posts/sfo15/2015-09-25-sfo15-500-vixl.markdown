@@ -3,42 +3,48 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   VIXL.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-25-Friday/SFO15-500
   VIXL.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-25 00:00:00+00:00
-excerpt: "VIXL is dynamic code generation toolkit for ARMv8 that we hope will enable\
-  \ JIT creators to rapidly target the ARM instruction set.\n\nOver the past few years\
-  \ we (the ARM JIT team) have worked on the code generators of many of the leading\
-  \ JIT compilers for the JavaScript and Java languages. During that time we built\
-  \ up a strong knowledge base on \nsome of the pitfalls and time-sinks involved in\
-  \ creating a good JIT compiler backend. This led us to develop some tools to help\
-  \ improve our productivity. With ARM announcing the new Cortex-A range of processors\
-  \ supporting the AArch64 execution state we decided that we would focus our efforts\
-  \ on A64 tooling to enable developers to rapidly port programming language virtual\
-  \ machines for this new processor range. Soon after we decided to support Aarch32\
-  \ as well.\n\nThis presentation will introduce you to what VIXL is, what’s new in\
-  \ VIXL and how to use it and take advantage of all its components that cover all\
-  \ the aspects of software development on ARM CPUs."
-layout: post
+date: 2015-09-25 00:00:00
+excerpt: "VIXL is dynamic code generation toolkit for ARMv8 that we hope will enable
+  JIT creators to rapidly target the ARM instruction set.\n\nOver the past few years
+  we (the ARM JIT team) have worked on the code generators of many of the leading
+  JIT compilers for the JavaScript and Java languages. During that time we built up
+  a strong knowledge base on \nsome of the pitfalls and time-sinks involved in creating
+  a good JIT compiler backend. This led us to develop some tools to help improve our
+  productivity. With ARM announcing the new Cortex-A range of processors supporting
+  the AArch64 execution state we decided that we would focus our efforts on A64 tooling
+  to enable developers to rapidly port programming language virtual machines for this
+  new processor range. Soon after we decided to support Aarch32 as well.\n\nThis presentation
+  will introduce you to what VIXL is, what\u2019s new in VIXL and how to use it and
+  take advantage of all its components that cover all the aspects of software development
+  on ARM CPUs."
+featured_image_name: SFO15500VIXL.jpg
+image:
+  featured: true
+  name: SFO15500VIXL.jpg
+  path: /assets/images/featured-images/SFO15500VIXL.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-500-vixl/
+post_format:
+- Video
 session_id: None
 session_track: Mobile
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/54401150
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15500-vixl
 slug: sfo15-500-vixl
 speakers: Amaury Le Leyzour - Arm
+tags:
+- ARMv8
+- Mobile
+- VIXL
 title: SFO15 500 VIXL
 video_length: '34:43'
 video_thumbnail: None
 wordpress_id: 2878
 youtube_video_url: https://www.youtube.com/watch?v=XxMTSO4clQY
-categories:
-- Linaro Connect San Francisco 2015
-post_format:
-- Video
-tags:
-- ARMv8
-- Mobile
-- VIXL
 ---
 
 VIXL is dynamic code generation toolkit for ARMv8 that we hope will enable JIT creators to rapidly target the ARM instruction set.

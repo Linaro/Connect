@@ -2,8 +2,10 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-211%20%20EDK2%20Platforms.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-211%20EDK2%20Platform%20Support.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:54:33+00:00
+date: 2017-10-06 16:54:33
 excerpt: The reference UEFI implementation, EDK2, has historically not contained much
   in the way of actual platform support, and has not had any process for dealing with
   it. For the past few years, I've instead been running a separate repository called
@@ -11,10 +13,18 @@ excerpt: The reference UEFI implementation, EDK2, has historically not contained
   to get platform code adopted into TianoCore was imlpemented, and the code in OpenPlatform
   has (hopefully) now been integrated into the official edk2-platforms repository.
   This talk gives a summary about the changes in process, code structure and tooling.
-layout: post
+featured_image_name: SFO17-211.jpg
+image:
+  featured: true
+  name: SFO17-211.jpg
+  path: /assets/images/featured-images/SFO17-211.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-211/
+post_format:
+- Video
 session_id: SFO17-211
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80700706
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/edk2-platform-support-sfo17211
 slug: sfo17-211
 speakers: Leif Lindholm
@@ -23,10 +33,6 @@ video_length: '45:43'
 video_thumbnail: None
 wordpress_id: 5977
 youtube_video_url: https://www.youtube.com/watch?v=qZgmntvCAxQ
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-211

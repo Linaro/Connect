@@ -1,34 +1,34 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-202.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Tuesday/BKK16-202%20LMG%20Lightning%20Talks.mp4
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:37+00:00
-excerpt: 'Cool things we’re working on upstreaming from Android (reboot reason, pstore
-  dts?, partition uevents)
-
-  DRM driver status/details
-
-  ML lib acceleration with OpenCL
-
-  ART Team update'
-layout: post
+date: 2016-02-22 17:20:37
+excerpt: Cool things we're working on upstreaming from Android (reboot reason, pstore
+  dts?, partition uevents), DRM driver status/details, ML lib acceleration with OpenCL,
+  ART Team update
+featured_image_name: BKK16-202.jpg
+image:
+  featured: true
+  name: BKK16-202.jpg
+  path: /assets/images/featured-images/BKK16-202.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-202/
+post_format:
+- Video
 session_id: BKK16-202
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58681576
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16202-lmg-lightning-talks-a-collection-of-short-and-interesting-topics-wrapped-up-into-one-session
 slug: bkk16-202
-speakers: "John Stultz\nBenjamin Gaignard, Xinliang Liu \nGil Pitney\nStuart Monteith"
-title: 'BKK16-202: LMG Lightning Talks:A collection of short and interesting topics
-  wrapped up into one session:'
+speakers: John Stultz, Benjamin Gaignard, Xinliang Liu, Gil Pitney, Stuart Monteith
+title: BKK16-202&#58; LMG Lightning Talks&#58; A collection of short and interesting
+  topics wrapped up into one session
 video_length: '51:36'
 video_thumbnail: None
 wordpress_id: 3324
 youtube_video_url: https://www.youtube.com/watch?v=eMo3pw8P9sY
-categories:
-- Linaro Connect Bangkok 2016
-post_format:
-- Video
 ---
 
 Cool things we’re working on upstreaming from Android (reboot reason, pstore dts?, partition uevents) DRM driver status/details ML lib acceleration with OpenCL ART Team update

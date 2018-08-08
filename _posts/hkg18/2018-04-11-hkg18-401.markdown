@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-401.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-401.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:13:45+00:00
+date: 2018-04-11 14:13:45
 excerpt: In this session we will explain all the work the Software Defined Infrastructure
   team has gone through to make OpenStack run as it does today on Aarch64. We will
   talk about the good, the bad and the ugly with emphasis on our experience working
@@ -11,10 +13,18 @@ excerpt: In this session we will explain all the work the Software Defined Infra
   being part of the project almost without realising, and the journey has been filled
   with evangelization and engineers amazed at the fact that Aarch64 is ready to run
   infrastructure software such as OpenStack.
-layout: post
+featured_image_name: HKG18-401.png
+image:
+  featured: true
+  name: HKG18-401.png
+  path: /assets/images/featured-images/HKG18-401.png
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-401/
+post_format:
+- Video
 session_id: HKG18-401
 session_track: Enterprise
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92950483
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18-401-open-stack-on-aarch64-journey
 slug: hkg18-401
 speakers: Marcin Juszkiewicz,Sameer Goel,Gema Gomez-Solano
@@ -23,10 +33,6 @@ video_length: '25:43'
 video_thumbnail: None
 wordpress_id: 8800
 youtube_video_url: https://www.youtube.com/watch?v=72Sx6mY24MU
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-401
@@ -35,15 +41,15 @@ Speaker: Marcin Juszkiewicz,Sameer Goel,Gema Gomez-Solano
 Track: Enterprise
 
 
-★ Session Summary ★
+## Session Summary
 In this session we will explain all the work the Software Defined Infrastructure team has gone through to make OpenStack run as it does today on Aarch64. We will talk about the good, the bad and the ugly with emphasis on our experience working with OpenStack upstream and setting up CI on Arm. We went from being outsiders to being part of the project almost without realising, and the journey has been filled with evangelization and engineers amazed at the fact that Aarch64 is ready to run infrastructure software such as OpenStack.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-401/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-401.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-401.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -58,8 +64,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Marcin Juszkiewicz,Sameer Goel,Gema Gomez-Solano
+**Speakers**: Marcin Juszkiewicz,Sameer Goel,Gema Gomez-Solano
 
-Speaker Positions: Senior Software Engineer,Staff Engineer,Technical Lead
-
-
+**Speaker Positions**: Senior Software Engineer,Staff Engineer,Technical Lead

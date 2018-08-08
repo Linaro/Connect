@@ -1,31 +1,37 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-310%20-%20Introducing%20the%20first%2096Boards%20TV%20Platform%20-%20Poplar%20by%20Hisilicon.pdf
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:53+00:00
+date: 2016-09-20 17:10:53
 excerpt: This presentation will discuss the hardware and software features of the
   Poplar TV platform board. The capabilities and use cases that can be exercised will
   be highlighted.
-layout: post
+featured_image_name: LAS16-310.png
+image:
+  featured: true
+  name: LAS16-310.png
+  path: /assets/images/featured-images/LAS16-310.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-310/
+post_format:
+- Video
 session_id: LAS16-310
 session_track: LHG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357599
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16310-introducing-the-first-96boards-tv-platform-poplar-by-hisilicon
 slug: las16-310
 speakers: Mark Gregotski
+tags:
+- 96Boards
+- Home
 title: 'LAS16-310: Introducing the first 96Boards TV Platform: Poplar by Hisilicon'
 video_length: '29:11'
 video_thumbnail: None
 wordpress_id: 3834
 youtube_video_url: https://www.youtube.com/watch?v=tcoby8k0FCw
-categories:
-- Linaro Connect Las Vegas 2016 (LAS16)
-post_format:
-- Video
-tags:
-- 96Boards
-- Home
 ---
 
 LAS16-310: Introducing the first 96Boards TV Platform: Poplar by Hisilicon
@@ -37,10 +43,10 @@ This presentation will discuss the hardware and software features of the Poplar 
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-310
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-310/](http://connect.linaro.org/resource/las16/las16-310/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-310/](/resources/las16/las16-310/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)
