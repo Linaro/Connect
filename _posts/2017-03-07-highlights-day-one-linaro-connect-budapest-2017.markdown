@@ -32,7 +32,7 @@ The 21st Linaro Connect kicked off yesterday in Budapest, Hungary with over 40
   
 ### Keynote by Linaro’s CEO, George Grey.
 
-{% include media.html media_url="https://www.youtube.com/watch?v=BUikAFy21ZI&list=PLKZSArYQptsN6EIfYlON9fQzBIYYIAVLH"" %}
+{% include media.html media_url="https://www.youtube.com/watch?v=BUikAFy21ZI&list=PLKZSArYQptsN6EIfYlON9fQzBIYYIAVLH" %}
 
 There were also many announcements during the opening keynote regarding new members joining Linaro to be part of different team efforts taking place. First was the announcement that [Google has joined as a club member ](https://www.linaro.org/news/google-becomes-club-member-linaro/)with Linaro. Then was the announcement that [Fujitsu will be collaborating with Linaro ](https://www.linaro.org/news/linaro-announces-fujitsus-collaboration-accelerate-high-performance-computing-arm/)to accelerate High Performance Computing on ARM. Next was [HXT Semiconductor joining Linaro ](https://www.linaro.org/news/hxt-semiconductor-joins-linaro-accelerate-advanced-server-development-arm/)to work on accelerating Advanced Server Development on ARM. Finally George announced that [Acer joined Linaro's IoT and Embedded group](https://www.linaro.org/news/acer-joins-linaro-iot-and-embedded-group/), which is focused on delivering end to end open source reference software for more secure connected products. 
 
