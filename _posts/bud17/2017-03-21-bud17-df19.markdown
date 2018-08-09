@@ -3,7 +3,7 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: None
 author: celia.ilardi
 categories:
-- demo-friday
+- bud17
 comments: false
 date: 2017-03-21 16:04:43
 excerpt: Socionext ARMv8 server SoC chipset demo
@@ -37,7 +37,7 @@ Socionext introduces its newly released ARMv8 server SoC chipset "SC2A11"
 
 Specification overview:
 
-• SC2A11
+- SC2A11
 
 24 x A53 cores
 
@@ -47,7 +47,7 @@ Specification overview:
 
 2ch Gigabit Ethernet MAC (1 for application, 1 for maintenance)
 
-• SC2A20
+- SC2A20
 
 8 x PCI Express Root for downstream interconnect
 

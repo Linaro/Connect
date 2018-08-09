@@ -3,7 +3,7 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: None
 author: celia.ilardi
 categories:
-- demo-friday
+- bud17
 comments: false
 date: 2017-03-21 15:31:37
 excerpt: RDK ports on 96Boards
@@ -31,14 +31,14 @@ youtube_video_url: https://www.youtube.com/watch?v=zmOTyKFeyCs
 
 LHG has been working with upstreaming key components of the RDK over the last 3 years. This demo shows the RDK media framework (RMF) running on 96Boards platforms such as HiKey and DB410C.
 
-● Reference Design Kit (RDK) Mediaclient using Yocto Krogoth/2.1 branch.
+- Reference Design Kit (RDK) Mediaclient using Yocto Krogoth/2.1 branch.
 
-● Mediaclient functionality (streaming media playback) by integrating gstreamer V4L2 hardware video acceleration plugin.
+- Mediaclient functionality (streaming media playback) by integrating gstreamer V4L2 hardware video acceleration plugin.
 
-● Westeros, an alternative lightweight & open source wayland compositor by using DRM support.
+- Westeros, an alternative lightweight & open source wayland compositor by using DRM support.
 
-● Metrological’s WebKit for Wayland browser (web content rendering) by implementing offscreen egl target support for Westeros(Mesa backend only).
+- Metrological’s WebKit for Wayland browser (web content rendering) by implementing offscreen egl target support for Westeros(Mesa backend only).
 
-● 32bit RDK rootfs on 64bit Dragonboard 410c.
+- 32bit RDK rootfs on 64bit Dragonboard 410c.
 
 Team: LHG
