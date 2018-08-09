@@ -1,0 +1,19 @@
+---
+author: kyle.kirkby
+comments: false
+date: 2018-07-24 08:35:17
+layout: speaker-post.html
+link: http://connect.linaro.org/member/todd-kjos/
+permalink: /speaker/:title/
+slug: todd-kjos
+title: Todd Kjos
+wordpress_id: 10044
+---
+
+**Job Title**: Staff Software Engineer
+
+**Bio**: Todd Kjos is a tech-lead for the Android Kernel Team at Google. He maintains AOSP common kernels and is a Linux maintainer for the binder driver. He also leads the development of Android kernel scheduling and DVFS. Previously he worked on x86 and Itanium server enablement and Itanium virtualization.
+
+**Keynote Title: **"Android kernels: How the sausage is made"
+
+**Keynote Abstract: **This presentation will cover the circuitous process by which mainline Linux kernels are transformed into the kernels that run on modern Android devices. It outlines the challenge of providing timely device updates to new Android releases and the equally daunting challenge of ensuring critical security issues are fixed across the ecosystem. Project Treble was launched In Android Oreo to address these challenges. The presentation will give an update on Project Treble, describing how it is affecting kernel development in Android-P and how we expect it to evolve in future Android releases.

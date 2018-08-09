@@ -1,0 +1,15 @@
+---
+author: kyle.kirkby
+comments: false
+date: 2016-01-25 11:48:53
+layout: speaker-post.html
+link: http://connect.linaro.org/member/shane/
+permalink: /speaker/:title/
+slug: shane
+title: Shane Coughlan
+wordpress_id: 3197
+---
+
+Shane Coughlan is an expert in communication methods and business development. He is well known for building bridges between commercial and non-commercial stakeholders in the technology sector. His professional accomplishments include establishing a legal department for the primary NGO promoting Free Software in Europe, building a professional network of over 270 legal counsel and technical experts across 4 continents, and aligning corporate and community interests to launch both the first law journal and first legal book dedicated to Free/Open Source Software. He spearheaded the licensing outreach that elevated OIN into the largest patent non-aggression community in history from Fall 2013.
+
+Shane has extensive knowledge of Internet technologies, management best practice, community building and Free/Open Source Software. His experience includes engagement with the server, desktop, embedded and mobile telecommunication industries. He does business in Europe, Asia and the Americas, and maintains a broad network of contacts.

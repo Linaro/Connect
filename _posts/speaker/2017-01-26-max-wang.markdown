@@ -1,0 +1,35 @@
+---
+author: kyle.kirkby
+comments: false
+date: 2017-01-26 09:57:52
+layout: speaker-post.html
+link: http://connect.linaro.org/member/max-wang/
+permalink: /speaker/:title/
+slug: max-wang
+title: Max Wang
+wordpress_id: 4490
+---
+
+**Title: HHVM on AArch64
+Date: Thursday, March 9
+Time: 8.30 – 9.00**
+
+HHVM is a high-performance, open source PHP execution engine developed at Facebook.  It’s the fastest PHP runtime in the world, with support for PHP5, PHP7, and Hack—the programming language used for Facebook's web server application logic.  In addition to powering Facebook's web tier, HHVM has also been adopted by other major services such as Wikipedia, Baidu, and Box.
+
+HHVM uses just-in-time compilation to transform PHP and Hack source code into optimized machine code.  Thanks to contributions from developers across the ARM community, HHVM can now target AArch64 in addition to x86-64 and successfully runs open source PHP frameworks like WordPress.  Join us for an overview of HHVM, a quick demo, and some thoughts on where optimization efforts can go from here.
+
+**Bio**
+
+Max Wang is a software engineer working on HHVM at Facebook.  He works on JIT performance and optimization, and coordinates open source porting efforts in HHVM’s backend.  Max has a degree in computer science from Harvard University and lives in Boston, Massachusetts.
+
+
+
+* * *
+
+
+
+★ Session Summary ★
+HHVM is a high-performance, open source PHP execution engine developed at Facebook. It’s the fastest PHP runtime in the world, with support for PHP5, PHP7, and Hack—the programming language used for Facebook’s web server application logic. In addition to powering Facebook’s web tier, HHVM has also been adopted by other major services such as Wikipedia, Baidu, and Box.
+
+HHVM uses just-in-time compilation to transform PHP and Hack source code into optimized machine code. Thanks to contributions from developers across the ARM community, HHVM can now target AArch64 in addition to x86-64 and successfully runs open source PHP frameworks like WordPress. Join us for an overview of HHVM, a quick demo, and some thoughts on where optimization efforts can go from here.
+View video & presentation: [http://connect.linaro.org/resource/bud17/bud17-400k1/](http://connect.linaro.org/resource/bud17/bud17-400k1/)

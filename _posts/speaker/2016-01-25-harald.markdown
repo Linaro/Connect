@@ -1,0 +1,13 @@
+---
+author: kyle.kirkby
+comments: false
+date: 2016-01-25 11:49:05
+layout: speaker-post.html
+link: http://connect.linaro.org/member/harald/
+permalink: /speaker/:title/
+slug: harald
+title: Harald Welte
+wordpress_id: 3198
+---
+
+[gpl-violations.org](http://gpl-violations.org/) is a non-for-profit effort to bring corporate users of GPL licensed Free Software into compliance with the license. It has so far enforced the license more than one hundred times, mostly due to out of court settlements, but sometimes also via preliminary injunctions or other in-court action.
