@@ -5,7 +5,7 @@
   date: 2018-09-17 08:45:00
   job_title: Linaro, CEO
   image: george-grey.jpg
-  link: /keynotes/yvr18/george-grey/
+  link: /speaker/george-grey/
   title: Opening Keynote
 - name: Shuah Khan
   day: Tuesday
@@ -14,7 +14,7 @@
   date: 2018-09-18 08:45:00
   job_title:  Sr. Linux Kernel Engineer, Samsung Open Source Group
   image: shuah-khan.jpg
-  link: /keynotes/yvr18/shuah-khan/
+  link: /speaker/shuah-khan/
   title: Let’s Talk Kernel Selftest
 - name: Jem Davies
   day: Wednesday
@@ -23,7 +23,7 @@
   date: 2018-09-19 08:45:00
   job_title: VP, Fellow and GM, Machine Learning Group at Arm
   image: jem-davies.png
-  link: /keynotes/yvr18/jem-davies/
+  link: /speaker/jem-davies/
   title: Enabling Machine Learning to Explode with Open Standards and Collaboration
 - name: Thea Aldrich
   day: Friday
@@ -32,7 +32,7 @@
   date: 2018-09-21 08:45:00
   job_title: Zephyr Project Developer Evangelist, on contract with the Linux Foundation
   image: thea-aldrich.jpg
-  link: /keynotes/yvr18/thea-aldrich/
+  link: /speaker/thea-aldrich/
   title: Putting Principle into Practice
 - name: Todd Kjos 
   day: Friday
@@ -41,7 +41,7 @@
   date: 2018-09-21 09:15:00
   job_title: Staff Software Engineer, Google
   image: todd-kjos.jpg
-  link: /keynotes/yvr18/todd-kjos/
+  link: /speaker/todd-kjos/
   title: Android kernels - How the sausage is made
 - name: Jilayne Lovejoy
   title: An open source developer and a lawyer walk into a bar…
@@ -52,7 +52,7 @@
   job_title: Principal Open Source Counsel, Arm
   image: jlovejoy.png
   title: An open source developer and a lawyer walk into a bar…
-  link: /keynotes/yvr18/jilayne-lovejoy/
+  link: /speaker/jilayne-lovejoy/
 - name: Long Wang
   title: Smart communities - Challenge, Solution and Cooperation
   day: Thursday
@@ -62,4 +62,4 @@
   date: 2018-09-20 09:15:00
   job_title: Senior Vice President of Connectivity Solutions, Unisoc
   image: lwang.jpg
-  link: /keynotes/yvr18/long-wang/
+  link: /speaker/long-wang/
