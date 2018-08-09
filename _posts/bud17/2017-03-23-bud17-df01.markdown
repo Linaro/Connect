@@ -6,7 +6,10 @@ categories:
 - bud17
 comments: false
 date: 2017-03-23 16:45:50
-excerpt: 'Linux and Xenomai applied to pan and tilt motor control using GPIOs'
+excerpt: 'Linux and Xenomai applied to pan and tilt motor control using GPIOs
+
+
+'
 featured_image_name: BUD17-DF01.jpg
 image:
   featured: true

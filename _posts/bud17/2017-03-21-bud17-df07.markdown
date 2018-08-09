@@ -2,19 +2,11 @@
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
 author: celia.ilardi
-<<<<<<< HEAD
 categories:
 - bud17
 comments: false
 date: 2017-03-21 15:28:54
 excerpt: Android AOSP TV
-=======
-categories: 
-- bud17
-comments: false
-date: 2017-03-21 15:28:54
-excerpt: "Android AOSP TV"
->>>>>>> c938cf8b52864818c77a821e50c9f7e8b9af5cac
 featured_image_name: BUD17-DF07.jpg
 image:
   featured: true
@@ -22,6 +14,8 @@ image:
   path: /assets/images/featured-images/BUD17-DF07.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df07/
+post_format:
+- Video
 session_id: BUD17-DF07
 session_track: 'Android'
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73367572
