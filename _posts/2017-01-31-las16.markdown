@@ -24,6 +24,7 @@ video_length: 01:40
 video_thumbnail: None
 wordpress_id: 4516
 youtube_video_url: None
+permalink: /blog/:title/
 ---
 
 {% include media.html media_url="https://www.youtube.com/embed/videoseries?list=PLKZSArYQptsPD8fQJvlL6fegGCplRF8jh" %}

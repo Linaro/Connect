@@ -29,6 +29,7 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4582
 youtube_video_url: None
+permalink: /blog/:title/
 ---
 
 The Linaro Security Group will be presenting at four sessions during the upcoming Linaro Connect Budapest 2017 (BUD17), including sessions on Universal Keyring, Device Tree, Op-Tee and Power Management.

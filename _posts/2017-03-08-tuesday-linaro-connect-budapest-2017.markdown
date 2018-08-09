@@ -30,6 +30,7 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5200
 youtube_video_url: None
+permalink: /blog/:title/
 ---
 
 Tuesday of Linaro Connect Budapest 2017 (BUD17) started off with a keynote by Christophe Arviset, who is Head of the Data and Engineering Division at ESA’s European Space Astronomy Centre (ESAC) in Spain. Christophe gave a keynote titled: Big data, big challenges for ESA Space Science Missions’ Archives. The keynote discussed the European Space Agency’s (ESA) current mission Gaia and upcoming one Euclid that will generate massive amounts of astronomical data will need to be made freely available on-line through powerful data management systems. This brings big challenges for building these missions’ archives. He discussed how this new generation of science archiving is transforming into science exploitation and collaborative platforms, where the users can send her/his code to the data, run it on computing and storage services provided directly by the archive (where the data reside), and easily share all this with other scientists they’re collaborating with. To watch his keynote go to:  [https://www.youtube.com/watch?v=zZFVMsrkMtg ](https://www.youtube.com/watch?v=zZFVMsrkMtg)

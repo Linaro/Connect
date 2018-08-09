@@ -30,6 +30,7 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5228
 youtube_video_url: None
+permalink: /blog/:title/
 ---
 
 The third day of Linaro Connect Budapest 2017 (BUD17) had a theme of networking and the two morning keynotes were right on point for this topic. The first keynote of the day was by Björn Ekelund, who is Head of Hardware and Device Technology at Ericsson Research. Mr. Ekelund's keynote was titled: Human communication, a niche use case in 5G. He spoke about how the fifth generation mobile communications network is optimized for connected and intelligent machines. To watch his keynote please visit: [https://www.youtube.com/watch?v=cmHrMa7Hq68 ](https://www.youtube.com/watch?v=cmHrMa7Hq68)
