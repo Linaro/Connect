@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2015-03-24 11:53:35
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/dejan-milojicic/
 permalink: /speaker/:title/
 slug: dejan-milojicic

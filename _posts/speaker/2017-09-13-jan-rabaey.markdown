@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2017-09-13 13:38:33
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/jan-rabaey/
 permalink: /speaker/:title/
 slug: jan-rabaey

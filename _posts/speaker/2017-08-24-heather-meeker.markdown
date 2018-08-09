@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2017-08-24 14:01:51
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/heather-meeker/
 permalink: /speaker/:title/
 slug: heather-meeker

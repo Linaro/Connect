@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2018-02-14 12:08:45
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/tomas-evensen/
 permalink: /speaker/:title/
 slug: tomas-evensen

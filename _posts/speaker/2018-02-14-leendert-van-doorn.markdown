@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2018-02-14 12:22:18
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/leendert-van-doorn/
 permalink: /speaker/:title/
 slug: leendert-van-doorn

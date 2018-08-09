@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2016-01-25 11:49:26
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/per-beming/
 permalink: /speaker/:title/
 slug: per-beming

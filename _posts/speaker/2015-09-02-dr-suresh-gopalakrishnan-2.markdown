@@ -1,8 +1,9 @@
 ---
-author: celia.ilardi
+author: linaro
+categories: speaker
 comments: false
 date: 2015-09-02 15:29:25
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/dr-suresh-gopalakrishnan-2/
 permalink: /speaker/:title/
 slug: dr-suresh-gopalakrishnan-2

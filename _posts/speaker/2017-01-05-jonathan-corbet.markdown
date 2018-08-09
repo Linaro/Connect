@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2017-01-05 11:05:41
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/jonathan-corbet/
 permalink: /speaker/:title/
 slug: jonathan-corbet

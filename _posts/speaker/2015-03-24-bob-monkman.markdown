@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2015-03-24 11:56:25
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/bob-monkman/
 permalink: /speaker/:title/
 slug: bob-monkman

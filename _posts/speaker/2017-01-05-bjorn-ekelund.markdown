@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2017-01-05 11:02:59
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/bjorn-ekelund/
 permalink: /speaker/:title/
 slug: bjorn-ekelund

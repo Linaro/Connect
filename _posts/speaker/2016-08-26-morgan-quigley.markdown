@@ -1,8 +1,9 @@
 ---
 author: ebba.simpson
+categories: speaker
 comments: false
 date: 2016-08-26 13:00:41
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/morgan-quigley/
 permalink: /speaker/:title/
 slug: morgan-quigley

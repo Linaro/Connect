@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2015-07-27 14:08:09
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/karen-m-sandler/
 permalink: /speaker/:title/
 slug: karen-m-sandler

@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2018-02-26 12:19:56
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/laura-dekker/
 permalink: /speaker/:title/
 slug: laura-dekker

@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2017-01-26 09:57:52
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/max-wang/
 permalink: /speaker/:title/
 slug: max-wang

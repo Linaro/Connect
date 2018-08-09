@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2018-08-06 08:40:50
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/long-wang/
 permalink: /speaker/:title/
 slug: long-wang

@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2018-02-27 10:30:28
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/kenneth-lee/
 permalink: /speaker/:title/
 slug: kenneth-lee

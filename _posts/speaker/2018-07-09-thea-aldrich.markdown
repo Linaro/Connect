@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2018-07-09 08:28:41
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/thea-aldrich/
 permalink: /speaker/:title/
 slug: thea-aldrich

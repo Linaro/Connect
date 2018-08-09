@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2017-01-26 09:59:06
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/david-abdurachmanov/
 permalink: /speaker/:title/
 slug: david-abdurachmanov

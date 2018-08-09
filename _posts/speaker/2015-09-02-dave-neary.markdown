@@ -1,8 +1,9 @@
 ---
-author: celia.ilardi
+author: linaro
+categories: speaker
 comments: false
 date: 2015-09-02 16:26:21
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/dave-neary/
 permalink: /speaker/:title/
 slug: dave-neary

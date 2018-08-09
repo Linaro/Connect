@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2016-01-25 11:50:35
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/david-rusling/
 permalink: /speaker/:title/
 slug: david-rusling

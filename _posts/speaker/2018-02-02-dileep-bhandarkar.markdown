@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2018-02-02 16:37:26
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/dileep-bhandarkar/
 permalink: /speaker/:title/
 slug: dileep-bhandarkar

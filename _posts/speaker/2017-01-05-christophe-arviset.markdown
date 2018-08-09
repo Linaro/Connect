@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2017-01-05 11:04:46
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/christophe-arviset/
 permalink: /speaker/:title/
 slug: christophe-arviset

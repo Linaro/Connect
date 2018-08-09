@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2016-08-09 20:33:48
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/geoff-thorpe/
 permalink: /speaker/:title/
 slug: geoff-thorpe

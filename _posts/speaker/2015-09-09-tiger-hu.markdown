@@ -1,8 +1,9 @@
 ---
-author: celia.ilardi
+author: linaro
+categories: speaker
 comments: false
 date: 2015-09-09 16:13:38
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/tiger-hu/
 permalink: /speaker/:title/
 slug: tiger-hu

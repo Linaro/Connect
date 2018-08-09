@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2018-06-27 14:07:31
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/jem-davies/
 permalink: /speaker/:title/
 slug: jem-davies

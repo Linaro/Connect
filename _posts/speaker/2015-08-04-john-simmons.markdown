@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2015-08-04 16:44:52
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/john-simmons/
 permalink: /speaker/:title/
 slug: john-simmons

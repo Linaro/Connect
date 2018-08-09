@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2018-02-02 16:33:41
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/mark-hambleton/
 permalink: /speaker/:title/
 slug: mark-hambleton

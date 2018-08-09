@@ -1,8 +1,9 @@
 ---
-author: celia.ilardi
+author: linaro
+categories: speaker
 comments: false
 date: 2016-07-31 21:41:42
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/sarah-sharp/
 permalink: /speaker/:title/
 slug: sarah-sharp

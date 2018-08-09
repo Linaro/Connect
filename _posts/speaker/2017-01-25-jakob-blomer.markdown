@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2017-01-25 10:14:22
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/jakob-blomer/
 permalink: /speaker/:title/
 slug: jakob-blomer

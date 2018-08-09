@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2017-08-24 14:00:39
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/kanta-vekaria/
 permalink: /speaker/:title/
 slug: kanta-vekaria

@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2018-07-30 08:31:09
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/jilayne-lovejoy/
 permalink: /speaker/:title/
 slug: jilayne-lovejoy

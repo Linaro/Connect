@@ -1,8 +1,9 @@
 ---
-author: kyle.kirkby
+author: linaro
+categories: speaker
 comments: false
 date: 2018-06-22 14:41:41
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/shuah-khan/
 permalink: /speaker/:title/
 slug: shuah-khan

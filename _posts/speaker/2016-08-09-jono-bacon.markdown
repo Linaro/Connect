@@ -1,8 +1,9 @@
 ---
 author: ebba.simpson
+categories: speaker
 comments: false
 date: 2016-08-09 20:43:50
-layout: speaker-post.html
+layout: speaker-post
 link: http://connect.linaro.org/member/jono-bacon/
 permalink: /speaker/:title/
 slug: jono-bacon
