@@ -23,7 +23,7 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/opencv-robot-f
 slug: bud17-df09
 speakers: LHG
 title: OpenCV & Robot Framework-BUD17-DF09
-video_length: 03:57
+video_length: "03:57"
 video_thumbnail: None
 wordpress_id: 5656
 youtube_video_url: https://www.youtube.com/watch?v=_eklI09Vmi8
