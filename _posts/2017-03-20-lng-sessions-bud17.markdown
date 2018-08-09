@@ -133,4 +133,4 @@ Implementation perspective
 **Speakers:** Zoltan Kiss, Gergely Pongracz
 **Track:** LNG
 **Session ID:** BUD17-304
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-30](/resources/bud17/bud17-30)4/
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-30](/resources/bud17/bud17-304/)
