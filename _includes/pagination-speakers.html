@@ -1,4 +1,4 @@
-{% assign pagination_path = "/company/:num/" %}
+{% assign pagination_path = "/speaker/:num/" %}
 
 {% if paginator.total_pages > 1 %}
 <div class="text-center" id="pagination_panel">
@@ -12,7 +12,7 @@
       {% if paginator.page_trail %}
         {% for trail in paginator.page_trail %}
           <li {% if page.url == trail.path %}class="active"{% endif %}>
-              <a href="{% if trail.num == 1 %}/company/{% else %}
+              <a href="{% if trail.num == 1 %}/speaker/{% else %}
               {{ pagination_path | replace: ':num', trail.num  }}{% endif %}"
               title="{{trail.title}}">{{ trail.num }}</a>
           </li>
@@ -22,12 +22,14 @@
               {% if page == paginator.page %}
                 <li class="active"><a href="">{{ page }}</a></li>
               {% elsif page == 1 %}
-                <li><a href="/company/">{{ page }}</a></li>
+                <li><a href="/speaker/">{{ page }}</a></li>
               {% else %}
                 <li><a href="{{ pagination_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
               {% endif %}
             {% endfor %}
         {% endif %}
+
+
 
       {% if paginator.next_page %}
         <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>

@@ -1,0 +1,27 @@
+---
+author: linaro
+categories: speaker
+comments: false
+date: 2018-08-06 08:40:50
+featured_image_name: Long Wang.jpg
+image:
+  featured: true
+  name: Long Wang.jpg
+  path: /assets/images/speakers/Long Wang.jpg
+layout: speaker-post
+link: http://connect.linaro.org/member/long-wang/
+permalink: /speaker/:title/
+slug: long-wang
+title: Long Wang
+wordpress_id: 10055
+---
+
+**Company:** Unisoc
+
+**Job Title**: Senior Vice President of Connectivity Solutions
+
+**Bio** : Long Wang is the Senior Vice President of Connectivity Solutions at Unisoc, where oversee the Engineering R&D of the WIFI/BT/FM/GNSS chipset, hardware, software and system solution, as well as Connectivity Business Development for mobile phone, tablet, consumer electronics and connected home. Prior to Unisoc, held position as the Sr. Director of Engineering at Qualcomm Technologies Inc. where led a multi-national engineering team to design and develop Qualcomm’s first 2x2 IEEE 802.11AC solution and, later, enabled Qualcomm to make a foray into Internet of Things (IoT) market by leading the engineering effort for its first ever 1x1 IEEE 802.11AC chipset which was heavily optimized for power consumption. His area of expertise is in Wi-fi and Bluetooth Chipset and Software Architecture, System Design and Product Development with a track record of leading world class teams across multiple countries in North America and Asia to introduce revolutionary solutions to market which feed into hundreds of millions of Handsets, IoT gateways, Consumer Electronics (Drones, TV, Gaming consoles, Security Cameras etc.) and Networking Access Points. Prior to Qualcomm, held the position of Sr. Director of Engineering at Atheros Communications Inc,, architecting Atheros’ first _Wi-Fi & Bluetooth Combo Chipset_ which had a design win in 9 out of 10 OEMs and sold 120 million units worldwide. Prior to Atheros, held engineering lead roles in various companies such as PC-TEL, Media-Ring etc. Long earned his M.S. and B.S. degrees in Electrical Engineering from Shanghai JiaoTong University and Zhejiang University respectively.
+
+**Keynote Title:** "Smart communities: Challenge, Solution and Cooperation"
+
+**Keynote Abstract:** Challenge and solution on enabling smart communities to offer built-in high quality wireless networks with comprehensive coverage, throughput and capacity throughout the home and outdoor living spaces. A powered Smart Community solution, improvement of the living experience and enhancement of security for the setup of IoT devices will be discussed in this session.
