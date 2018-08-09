@@ -19,10 +19,10 @@ Below are a few guides that will help when adding content to the Linaro website.
 
 ## Adding a blog post
 
-In order to add a blog post to Linaro copy an existing post from the [_posts folder](https://github.com/Linaro/connect/tree/master/_posts). Posts are organised into by year/month so add to the correct folder based on the month you are posting it in and if the folder doesn't exist create one.
+In order to add a blog post to the Connect website copy an existing blog post from the [_posts/blog/ folder](https://github.com/Linaro/connect/tree/master/_posts/blog). Posts on the Connect website are either typical blog posts (/blog/your-title/) or resource posts from a Linaro Connect event (/resources/yvr18/yvr18-100k1/).
 
 ### Step 1 - Modify the post file name
-The url for your title is based on the title provided in the filename e.g 2018-06-07-i2s-in-dragonboard410c.md will have a url of /blog/i2s-in-dragonboard410c/. Separate the words in your title by dashes and modify the date at the start of the filename as neccessary. 
+The url for your title is based on the title provided in the filename e.g 2018-06-07-yvr18-wrap-up.md will have a url of /blog/yvr18-wrap-up/. Separate the words in your title by dashes and modify the date at the start of the filename as neccessary. 
 
 ### Step 2 - Modify the post front matter
 Modify the post front matter based on your post. Values to modify are:
@@ -45,9 +45,9 @@ This value is used for the featured image displayed on your blog post and the im
 
 image:
     featured: true
-    path: /assets/images/blog/DragonBoard-UpdatedImages-front.png
-    name: DragonBoard-UpdatedImages-front.png
-    thumb: DragonBoard-UpdatedImages-front.png 
+    path: /assets/images/blog/yvr18-wrap-up.png
+    name: yvr18-wrap-up.png
+    thumb: yvr18-wrap-up.png 
     
 ```
 
@@ -73,14 +73,14 @@ Please use the following code snipppet to add an image to your blog post. Make s
 
 You also align/scale your image using the following css classes.
 
-|Class|Details|
-|-----|-------|
-|small-inline|Small image aligned to the left|
-|small-inline right| Small image aligned to the right|
-|medium-inline|Medium image aligned to the left|
-|medium-inline right|Medium image aligned to the right|
-|large-inline|Large image aligned to the left|
-|large-inline right|Large image aligned to the right|
+| Class               | Details                           |
+| ------------------- | --------------------------------- |
+| small-inline        | Small image aligned to the left   |
+| small-inline right  | Small image aligned to the right  |
+| medium-inline       | Medium image aligned to the left  |
+| medium-inline right | Medium image aligned to the right |
+| large-inline        | Large image aligned to the left   |
+| large-inline right  | Large image aligned to the right  |
 
 ```
 {% include image.html name="name-of-your-image.png"  class="medium-inline" alt="The Alt text for your image" %}
