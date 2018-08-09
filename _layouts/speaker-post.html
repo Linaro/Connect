@@ -10,37 +10,6 @@ css-package: blog
             {% if site.data.settings.blog.sidebar.display-on-posts %}
             <div class="col-md-9">
                     <article class="post-content">
-                        {% unless page.image.featured %}
-                        <div class="post-info">
-                            <h1>{{page.title }}</h1>
-                            {% if page.author %}
-                                {% if site.authors %}
-                                    {% assign author = site.authors | where: "username", page.author | first %}
-                                    {% assign author-url = author.url %}
-                                    {% assign using-data-file = false %}
-                                {% elsif site.data.authors %}
-                                    {% assign using-data-file = true %}
-                                    {% assign author = site.data.authors | where: "username", page.author | first %}
-                                    {% assign author-url = "#" %}
-                                {% endif %}
-                            
-                                <em> By
-                                    {% if author %}
-                                        <a href="{{author-url}}">
-                                            <strong>
-                                                {{author.name}}
-                                            </strong>
-                                        </a>
-                                    {% else %}
-                                            <strong>
-                                                {{page.author}}
-                                            </strong>
-                                    {% endif %}
-                                    
-                                </em>
-                            {% endif %}
-                        </div>
-                        {% endunless %}
                         {{ content }}
                     </article>
 
