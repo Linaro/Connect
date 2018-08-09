@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2017-08-24 14:01:51
+featured_image_name: Heather Meeker.jpg
+image:
+  featured: true
+  name: Heather Meeker.jpg
+  path: /assets/images/speakers/Heather Meeker.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/heather-meeker/
 permalink: /speaker/:title/
@@ -26,9 +31,9 @@ This talk will explain the effect of open source’s direct licensing model on e
 ## Session 2
 
 
-**Title: **A Practical Guide to Open Source Software Licensing
-**Date: **Wednesday 27th Sept
-**Time: **10am (25 mins session)
+**Title:** A Practical Guide to Open Source Software Licensing
+**Date:** Wednesday 27th Sept
+**Time:** 10am (25 mins session)
 
 Heather’s session is a practical guide to help businesspeople, engineers, and lawyers understand open source software licensing. Based on the speaker’s twenty years as an attorney working at the crossroads of intellectual property and technology, this session explains the legal and technical principles behind open source licensing so you can make the right decisions for your business:
 Why open source is not a “virus”

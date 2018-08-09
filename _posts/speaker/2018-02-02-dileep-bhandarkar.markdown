@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2018-02-02 16:37:26
+featured_image_name: Dileep Bhandarkar.jpg
+image:
+  featured: true
+  name: Dileep Bhandarkar.jpg
+  path: /assets/images/speakers/Dileep Bhandarkar.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/dileep-bhandarkar/
 permalink: /speaker/:title/

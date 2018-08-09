@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2016-08-09 20:33:48
+featured_image_name: Geoff Thorpe.png
+image:
+  featured: true
+  name: Geoff Thorpe.png
+  path: /assets/images/speakers/Geoff Thorpe.png
 layout: speaker-post
 link: http://connect.linaro.org/member/geoff-thorpe/
 permalink: /speaker/:title/

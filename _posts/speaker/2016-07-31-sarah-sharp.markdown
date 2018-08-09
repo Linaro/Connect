@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2016-07-31 21:41:42
+featured_image_name: Sarah Sharp.jpg
+image:
+  featured: true
+  name: Sarah Sharp.jpg
+  path: /assets/images/speakers/Sarah Sharp.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/sarah-sharp/
 permalink: /speaker/:title/

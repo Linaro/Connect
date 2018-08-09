@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2016-07-29 14:20:14
+featured_image_name: Brian Richardson.png
+image:
+  featured: true
+  name: Brian Richardson.png
+  path: /assets/images/speakers/Brian Richardson.png
 layout: speaker-post
 link: http://connect.linaro.org/member/speakers/
 permalink: /speaker/:title/

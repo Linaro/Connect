@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2018-02-02 16:33:41
+featured_image_name: Mark Hambleton.jpg
+image:
+  featured: true
+  name: Mark Hambleton.jpg
+  path: /assets/images/speakers/Mark Hambleton.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/mark-hambleton/
 permalink: /speaker/:title/

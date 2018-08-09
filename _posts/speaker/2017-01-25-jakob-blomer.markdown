@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2017-01-25 10:14:22
+featured_image_name: Jakob Blomer.jpg
+image:
+  featured: true
+  name: Jakob Blomer.jpg
+  path: /assets/images/speakers/Jakob Blomer.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/jakob-blomer/
 permalink: /speaker/:title/

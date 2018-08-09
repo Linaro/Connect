@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2017-08-24 14:01:28
+featured_image_name: Matt Grob.jpg
+image:
+  featured: true
+  name: Matt Grob.jpg
+  path: /assets/images/speakers/Matt Grob.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/matt-grob/
 permalink: /speaker/:title/
@@ -12,5 +17,5 @@ wordpress_id: 5867
 ---
 
 **Title:** The Intelligent, Connected Future
-**Date: **Wednesday 27th September 2017
+**Date:** Wednesday 27th September 2017
 **Time:** 8:30  - 9:15

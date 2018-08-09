@@ -3,6 +3,11 @@ author: ebba.simpson
 categories: speaker
 comments: false
 date: 2016-08-09 20:43:50
+featured_image_name: Jono Bacon.png
+image:
+  featured: true
+  name: Jono Bacon.png
+  path: /assets/images/speakers/Jono Bacon.png
 layout: speaker-post
 link: http://connect.linaro.org/member/jono-bacon/
 permalink: /speaker/:title/

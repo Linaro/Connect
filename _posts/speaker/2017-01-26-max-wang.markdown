@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2017-01-26 09:57:52
+featured_image_name: Max Wang.jpg
+image:
+  featured: true
+  name: Max Wang.jpg
+  path: /assets/images/speakers/Max Wang.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/max-wang/
 permalink: /speaker/:title/

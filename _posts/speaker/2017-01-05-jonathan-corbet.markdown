@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2017-01-05 11:05:41
+featured_image_name: Jonathan Corbet.jpg
+image:
+  featured: true
+  name: Jonathan Corbet.jpg
+  path: /assets/images/speakers/Jonathan Corbet.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/jonathan-corbet/
 permalink: /speaker/:title/

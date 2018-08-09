@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2017-09-13 13:38:33
+featured_image_name: Jan Rabaey.jpeg
+image:
+  featured: true
+  name: Jan Rabaey.jpeg
+  path: /assets/images/speakers/Jan Rabaey.jpeg
 layout: speaker-post
 link: http://connect.linaro.org/member/jan-rabaey/
 permalink: /speaker/:title/
@@ -11,11 +16,11 @@ title: Jan Rabaey
 wordpress_id: 5898
 ---
 
-**Title: **Swarms 2.0 – The Living Network of Everyone and Everything
-**Date: **Friday 29th September 2017
-**Time: **8:45 - 9:15
+**Title:** Swarms 2.0 – The Living Network of Everyone and Everything
+**Date:** Friday 29th September 2017
+**Time:** 8:45 - 9:15
 
-Jan M. Rabaey
+### Jan M. Rabaey
 Around 2010, the Berkeley Ubiquitous SwarmLab was formed focusing on the transformational
 opportunities offered by trillions of networked motor-sensory nodes distributed throughout our
 physical world. To enable the full potential of the sensory swarm, we realized that a degree of

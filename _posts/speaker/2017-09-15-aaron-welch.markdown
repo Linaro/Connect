@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2017-09-15 08:23:56
+featured_image_name: Aaron Welch.jpg
+image:
+  featured: true
+  name: Aaron Welch.jpg
+  path: /assets/images/speakers/Aaron Welch.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/aaron-welch/
 permalink: /speaker/:title/
@@ -12,51 +17,18 @@ wordpress_id: 5906
 ---
 
 **Title:** Imagine The Internet in Ten Years And Why Hardware is the Next Innovation Layer
-**Date: **Thursday 28th September 2017
+**Date:** Thursday 28th September 2017
 **Time:** 9:15 am - 9:45 am
 
-
-
-
-
-# Abstract:
-
-
-
+### Abstract:
 
 Think back to the summer of 2007.  AWS was a few months old, the first iPhone had just been released, and Uber was still two years away from its founding.
 
-
-
-
-
-
-
 Now look the other way: ten years into the future.  A future standing on the shoulders of today’s nearly 20 million software developers (which may double in the next five years), a mature ecosystem of venture funded firms around the world, and dozens of major companies dumping massive resources into everything from new data centers, cloud services, VR, 5G, robotics, autonomy, space travel, and a huge variety of software of all stripes and flavors.
-
-
-
-
-
-
-
-
-
 
 Aaron Welch, co-founder and SVP of Product at Packet (the leading bare metal cloud for developers), outlines Packet's vision for the infrastructure of tomorrow, and why hardware is the next innovation layer.
 
-
-
-
-# Biography:
-
-
-
-
-
-
-
-
+### Biography:
 
 Aaron Welch co-founded Packet in 2014 and directed product development and architecture through 2016.  He now leads open source and technical integration efforts, where he works with a broad array of partners.   He has been known to pound out decent code, including Packet's official Terraform, Salt, and Juju providers as well as Python and Golang libraries.
 

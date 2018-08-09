@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2015-09-02 15:29:25
+featured_image_name: Dr. Suresh Gopalakrishnan.jpg
+image:
+  featured: true
+  name: Dr. Suresh Gopalakrishnan.jpg
+  path: /assets/images/speakers/Dr. Suresh Gopalakrishnan.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/dr-suresh-gopalakrishnan-2/
 permalink: /speaker/:title/
@@ -11,9 +16,9 @@ title: Dr. Suresh Gopalakrishnan
 wordpress_id: 2360
 ---
 
-**Title: **** Keynote Talk**
-**Date: Wednesday, September 23**
-**Time:  8:50am - 9:20am**
+**Title:** Keynote Talk
+**Date:** Wednesday, September 23
+**Time:**  8:50am - 9:20am
   
 
 Dr. Suresh Gopalakrishnan is the corporate vice president and general manager of AMD’s server business. He is responsible for driving the end-to-end business execution of AMD server solutions worldwide. Under his leadership, AMD is pursuing a server strategy that leverages AMD’s broad IP portfolio to deliver disruptive products for the virtualized datacenter, software defined storage, high performance data analytics and IoT infrastructure.

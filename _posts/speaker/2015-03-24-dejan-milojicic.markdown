@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2015-03-24 11:53:35
+featured_image_name: Simon Segars.jpg
+image:
+  featured: true
+  name: Simon Segars.jpg
+  path: /assets/images/speakers/Simon Segars.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/dejan-milojicic/
 permalink: /speaker/:title/

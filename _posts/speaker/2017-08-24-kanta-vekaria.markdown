@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2017-08-24 14:00:39
+featured_image_name: Kanta Vekaria.jpg
+image:
+  featured: true
+  name: Kanta Vekaria.jpg
+  path: /assets/images/speakers/Kanta Vekaria.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/kanta-vekaria/
 permalink: /speaker/:title/
@@ -11,9 +16,9 @@ title: Kanta Vekaria
 wordpress_id: 5866
 ---
 
-**Title: **High Performance Computing: Where is it going?
-**Date: **Tuesday 26th September 2017
-**Time: **8:45 - 9:15
+**Title:** High Performance Computing: Where is it going?
+**Date:** Tuesday 26th September 2017
+**Time:** 8:45 - 9:15
 
 **Abstract:**
 

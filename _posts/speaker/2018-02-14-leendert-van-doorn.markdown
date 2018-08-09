@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2018-02-14 12:22:18
+featured_image_name: Leendert van Doorn.jpg
+image:
+  featured: true
+  name: Leendert van Doorn.jpg
+  path: /assets/images/speakers/Leendert van Doorn.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/leendert-van-doorn/
 permalink: /speaker/:title/

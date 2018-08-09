@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2018-02-27 10:30:28
+featured_image_name: Kenneth Lee.jpg
+image:
+  featured: true
+  name: Kenneth Lee.jpg
+  path: /assets/images/speakers/Kenneth Lee.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/kenneth-lee/
 permalink: /speaker/:title/

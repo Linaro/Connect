@@ -3,6 +3,11 @@ author: linaro
 categories: speaker
 comments: false
 date: 2018-02-14 12:08:45
+featured_image_name: Tomas Evensen.jpg
+image:
+  featured: true
+  name: Tomas Evensen.jpg
+  path: /assets/images/speakers/Tomas Evensen.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/tomas-evensen/
 permalink: /speaker/:title/
