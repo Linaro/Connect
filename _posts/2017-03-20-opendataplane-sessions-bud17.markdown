@@ -33,6 +33,7 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5611
 youtube_video_url: None
+permalink: /blog/:title/
 ---
 
 https://www.youtube.com/playlist?list=PLKZSArYQptsP5AQz0xHG_vaMxbCVRM2jE

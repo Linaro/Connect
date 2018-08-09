@@ -26,6 +26,7 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5165
 youtube_video_url: None
+permalink: /blog/:title/
 ---
 
 The 21st Linaro Connect kicked off yesterday in Budapest, Hungary with over 400 attendees. Linaro Connect Budapest 2017 will be held all this week from March 6-10th and will feature keynotes from industry experts and daily sessions. It is the conference for anyone interested in Linux development and related ecosystems on ARM. Monday began with an opening keynote by George Grey - Linaro's CEO.

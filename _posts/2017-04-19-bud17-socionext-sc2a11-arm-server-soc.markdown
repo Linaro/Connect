@@ -17,7 +17,7 @@ video_thumbnail: None
 wordpress_id: 5755
 youtube_video_url: None
 categories:
-- demo-friday
+- bud17
 post_format:
 - Video
 ---

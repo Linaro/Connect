@@ -35,6 +35,7 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4589
 youtube_video_url: None
+permalink: /blog/:title/
 ---
 
 The Linaro Virtualization group will host several sessions at the upcoming Linaro Connect Budapest 2017 (BUD17) and has scheduled a wide array of interesting presentations.  Linaro Connect is a great time for engineers interested opensource to get together and to learn more about what is going on not only with Linaro but within the opensource community.   As part of this event the Linaro Virtualization team will host three sessions during the week, and Red Hat will host an additional session on their efforts on ARM virtualization.
