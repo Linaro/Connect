@@ -646,3 +646,21 @@ span.keynote_time {
 span.keynote_title {
     height: 130px;
 }
+div#schedule-row {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#schedule-row h1 {
+    font-weight: normal;
+}
+#schedule-row a.btn {
+    background-color:#7ca72c;
+    color:white;
+    border-radius:0px;
+    border:0;
+
+    transition: all 1s ease;
+}
+#schedule-row a.btn:hover {
+    background-color:#000000;
+}
