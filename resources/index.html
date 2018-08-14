@@ -39,6 +39,7 @@ The following part removes dulpicated tags and invalid tags like blank tag.
 
 <div class="row">
     <div class="stats col-xs-12">
+        <p>Search by Tracks:</p>
         <select class="form-control" onChange="window.location.href=this.value">
              {% for tag in tags %}
                 <option value="/resources/tracks/#{{ tag | slugify }}">{{ tag }}</option>
