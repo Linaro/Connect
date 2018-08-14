@@ -52,6 +52,7 @@ h3.connect-title.text-center {
     padding: 3px;
     margin-bottom: 10px;
     margin-top: 10px;
+    height: 130px;
 }
 .resource-sidebar-block.col-xs-4 {
     background-color: #d8d8d8;
@@ -61,7 +62,7 @@ h3.connect-title.text-center {
     border: 1px solid #cccccc;
 }
 #all-resources ul.dropdown-menu {
-    margin-top: -20px !important;
+    margin-top: 0px;
 }
 #all-resources button.btn.btn-default.dropdown-toggle {
     color: white;
@@ -77,4 +78,7 @@ a.connect-map-location.btn.btn-primary:hover {
 }
 #wrapper .col-md-4.col-sm-4.col-xs-12 {
     padding-bottom: 50px;
+}
+.resource-block a.btn {
+    margin-bottom: 10px;
 }
