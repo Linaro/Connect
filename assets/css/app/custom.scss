@@ -635,7 +635,6 @@ span.line {
 #wrapper .faq .panel-body {
     padding: 20px;
 }
-
 .hidden-iframe{
     position: absolute;
     visibility: hidden;
@@ -644,7 +643,6 @@ span.line {
     position: relative;
     visibility: visible;
 }
-
 .sponsors .sponsor .img-responsive {
     height: 100px;
     background-size: contain;
@@ -657,18 +655,15 @@ span.line {
 .sponsors .sponsor {
     text-align: center;
 }
-
 div.sponsors {
     margin-top: 50px;
     margin-bottom: 50px;
 }
-
 .sponsors h2 {
     margin-bottom: 40px;
     font-size: 20px;
     font-weight: normal;
 }
-
 .sponsors p {
     text-align:  center;
     margin-bottom: 10px;
@@ -679,7 +674,7 @@ div.sponsors {
 .sponsors .sponsor .img-responsive:hover {
     transform: scale(1.2);
 }
-.lead-sponsor h3 {
+.lead-sponsor h3, .connect-sponsor h3 {
     font-weight: normal;
     font-size: 16px;
 }
