@@ -32,7 +32,7 @@ permalink: /legal/
   </li>
   <li role="presentation">
     <a href="#cancellation_policy" role="tab" data-toggle="tab">
-         Cancellation policy
+         Connect Cancellation policy
     </a>
   </li>
 

@@ -21,6 +21,8 @@ pages:
       options:
           - text: Overview
             url: /attend/
+          - text: AI and Neural Networks on Arm Summit at YVR18
+            url: /ai-neural-networks-arm-summit/
           - text: Register
             url: /register/
           - text: Call for Proposals

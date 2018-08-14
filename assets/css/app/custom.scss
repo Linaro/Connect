@@ -593,178 +593,6 @@ img.img-responsive.right-aligned-image {
     margin: 30px;
 }
 
-dl.timeline-dl > dd {
-    margin-left: 15px;
-}
-
-.about-icon {
-    width: 100px;
-    height: 100px;
-    border-radius: 100px;
-    border: 1px solid #9758b7;
-    padding: 13px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 10px;
-}
-
-#main-container div.container.board_member {
-    padding-left: 0;
-    padding-right: 0;
-    border-top: 1px solid #ccc;
-}
-
-#main-container div.container.board_member > div.col-sm-9 {
-    padding-left: 0;
-    padding-right: 0;
-}
-
-#main-container div.container.board_member > div.col-sm-3 {
-    padding-left: 0;
-    padding-right: 0;
-}
-
-.linaro-profile-image {
-    display: inline-block;
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
-    float: right;
-    margin-top: 60px;
-    background-size: cover;
-    background-position: center;
-    clear: both;
-}
-
-h2.linaro-connect-title {
-    color: #5990d4;
-    text-shadow: none;
-    font-size: 18px;
-}
-
-h4.linaro-connect-sub-title {
-    color: #5990d4;
-    font-weight: 100;
-    text-shadow: none;
-}
-
-a.connect-home-button {
-    padding: 5px;
-    opacity: 1;
-    font-weight: bold;
-    color: #000;
-    width: 140px;
-    padding: 15px;
-    height: 50px;
-    line-height: 17px;
-    font-size: 10px;
-    height: auto;
-    letter-spacing: 2px;
-    background-color: white;
-    border-radius: 4px;
-    text-shadow: none;
-    transition: all 200ms ease;
-    display: inline-block;
-    margin: 10px;
-    text-decoration: none;
-    transition: all 1s ease;
-}
-
-a.connect-home-button:hover {
-    text-decoration: none;
-    color: #000;
-    opacity: 0.8;
-    background-color: #ccc;
-    transition: all 1s ease;
-}
-//Linaro SVG Icons
-.linaro-svg-icon {
-    width: 50px;
-    height: 50px;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 50px;
-    fill: #ffffff;
-    background-color: #a682b8;
-    border: 1px solid #9658b7;
-    padding: 12px;
-    transition: all 500ms ease;
-}
-
-.linaro-svg-icon:hover {
-    background-color: #9658b7;
-    border: 1px solid #a682b8;
-}
-
-.linaro-svg-icon-caption {
-    text-align: center;
-    line-height: 70px;
-}
-
-div.dark {
-    background: #696969;
-}
-
-#main-container p.justify {
-    font-size: 16px;
-    text-align: justify;
-    line-height: 1.66em;
-}
-
-.content-container h2 {
-    font-size: 30px;
-    color: #3D383E;
-    font-weight: 200;
-    text-transform: none;
-}
-
-.ext-left {
-    float: left;
-}
-
-.ext-right {
-    height: auto;
-    vertical-align: middle;
-    display: table-cell;
-    padding-right: 10px;
-    padding-left: 10px;
-}
-// Nav Bar SVG Base Style 
-#navbar_svg .cls-1 {
-    fill: none;
-}
-
-#navbar_svg .cls-2 {
-    fill: #666;
-}
-
-#navbar_svg .cls-3 {
-    fill: #9c3;
-}
-
-#navbar_svg .cls-8 {
-    fill: #9c3;
-}
-
-#navbar_svg .cls-4,
-#navbar_svg .cls-5 {
-    fill: #c03;
-}
-
-#navbar_svg .cls-5 {
-    opacity: 0.6;
-}
-
-#navbar_svg .cls-6,
-#navbar_svg .cls-7 {
-    fill: #909;
-}
-
-#navbar_svg .cls-7,
-#navbar_svg .cls-8 {
-    opacity: 0.7;
-}
 
 #main-container small.blog-author.text-center > a > em {
     color: white;
@@ -807,7 +635,6 @@ span.line {
 #wrapper .faq .panel-body {
     padding: 20px;
 }
-
 .hidden-iframe{
     position: absolute;
     visibility: hidden;
@@ -815,4 +642,43 @@ span.line {
 .visible-iframe{
     position: relative;
     visibility: visible;
+}
+.sponsors .sponsor .img-responsive {
+    height: 100px;
+    background-size: contain;
+    background-repeat:  no-repeat;
+    background-position:  center center;
+    transition: all 200ms ease;
+    margin-bottom:20px;
+    margin-top:20px;
+}
+.sponsors .sponsor {
+    text-align: center;
+}
+div.sponsors {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.sponsors h2 {
+    margin-bottom: 40px;
+    font-size: 20px;
+    font-weight: normal;
+}
+.sponsors p {
+    text-align:  center;
+    margin-bottom: 10px;
+}
+.sponsors .col-xs-12.text-center {
+    margin-bottom: 25px;
+}
+.sponsors .sponsor .img-responsive:hover {
+    transform: scale(1.2);
+}
+.lead-sponsor h3, .connect-sponsor h3 {
+    font-weight: normal;
+    font-size: 16px;
+}
+.breadcrumb-container {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
