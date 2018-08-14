@@ -7,8 +7,9 @@
         </div>
         <div class="row">
             <div class="owl-carousel">
-            {% assign current_keynotes = include.keynotes | sort: date %}
-            {% for keynote in current_keynotes %}
+            {% assign current_keynotes = include.keynotes %}
+            {% assign current_keynotes_sorted = current_keynotes | sort_by: 'date' %}
+            {% for keynote in current_keynotes_sorted %}
                 <div class="col-xs-12">
                     <a href="{{keynote.url}}">
                         <div class="speaker-block">
