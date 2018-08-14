@@ -1,26 +1,31 @@
 
-<div class="container-fluid current-sponsors">
+<div class="container-fluid sponsors">
     <div class="row">
         <div class="container">
+            <div class="row">
+                <div class="col-xs-12  text-center">
+                    <h1
+                </div>
+            </div>
             {% for sponsor in site.data.current-sponsors %}
                 {% if sponsor.type == "lead" %}
                     <div class="row">
-                        <div class="col-xs-12 col-sm-offset-4 col-sm-4 lead-sponsor">
+                        <div class="col-xs-12 col-sm-offset-4 col-sm-4  text-center lead-sponsor">
                             <div class="sponsor">
                                 <a href="{{sponsor.url}}" target="_blank">
                                     <div class="img-responsive lazyload" style="background-image: url({% asset_path '{{sponsor.image}}' %});"></div>
                                 </a>
-                                <h3> {{sponsor.name}} </h3>
+                                <h3> Lead Sponsor </h3>
                             </div>
                         </div>
                     </div>
                 {% else %}
-                    <div class="col-xs-12 col-sm-4 sponsor">
+                    <div class="col-xs-12 col-sm-4  text-center sponsor">
                         <div class="sponsor">
                             <a href="{{sponsor.url}}" target="_blank">
                                 <div class="img-responsive lazyload" style="background-image: url({% asset_path '{{sponsor.image}}' %});"></div>
                             </a>    
-                            <h3> {{sponsor.name}} </h3>
+                            <h3> Sponsor </h3>
                         </div>
                     </div>
                 {% endif %}
@@ -28,7 +33,6 @@
         </div>
     </div>       
 </div>    
-
 <div class="container-fluid footer">
     <div class="row">
         <footer id="footer">
