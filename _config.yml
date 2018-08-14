@@ -7,6 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Linaro Connect Vancouver 2018 (YVR18) will take place at the Hyatt Regency in Vancouver, 17-21 September 2018.
 # Destination of the Jekyll site upon build of site.
 destination: _site
+# Code of current connect.
+connect-code: YVR18
 # Include the Linaro Jekyll Theme
 theme: jumbo-jekyll-theme
 # Permalink for the blog posts of the Jekyll website.
