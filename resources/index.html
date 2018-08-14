@@ -37,17 +37,6 @@ The following part removes dulpicated tags and invalid tags like blank tag.
 	{% endif %}
 {% endfor %}
 
-<div class="row">
-    <div class="stats col-xs-12">
-        <p>Search by Tracks:</p>
-        <select class="form-control" onChange="window.location.href=this.value">
-             {% for tag in tags %}
-                <option value="/resources/tracks/#{{ tag | slugify }}">{{ tag }}</option>
-            {% endfor %}
-        </select>
-    </div>
-</div>
-
 {% assign total_slides = 0 %}
 {% assign total_videos = 0 %}
 
@@ -74,12 +63,21 @@ The following part removes dulpicated tags and invalid tags like blank tag.
     </div>
 </div>
 
+<div class="stats col-xs-12">
+    <p>Search by Tracks:</p>
+    <select class="form-control" onChange="window.location.href=this.value">
+        {% for tag in tags %}
+        <option value="/resources/tracks/#{{ tag | slugify }}">{{ tag }}</option>
+        {% endfor %}
+    </select>
+</div>
+
 <div id="all-resources">
 {% assign connect_events = site.data.connects | sort: "start-date" | reverse %}
     {% for connect in connect_events %}
         {% assign connect_id = connect.id | downcase %}
         <!-- <h1>{{connect.long-name}}</h1> -->
-        <div class="col-md-4 col-sm-4 col-xs-12">
+        <div class="col-md-4 col-sm-4 col-xs-12 no-padding">
             <div class="col-xs-12 connect-title-holder">
                 <h3 class="connect-title text-center">{{connect.long-name}}</h3>
             </div>
@@ -109,18 +107,18 @@ The following part removes dulpicated tags and invalid tags like blank tag.
                 </a>
                 <div class="col-xs-12 resources-stats no-padding">
                     <div class="resource-sidebar-block col-xs-4 text-center">
-                        <div class="col-xs-6">
+                        <div class="col-xs-12 col-sm-6 no-padding">
                             <span class="glyphicon glyphicon-th"></span>
                         </div>
-                        <div class="col-xs-6">
+                        <div class="col-xs-12 col-sm-6 no-padding">
                             <span class="resources-number">{{site.categories[connect_id] | size}}</span>
                         </div>
                     </div>
                     <div class="resource-sidebar-block col-xs-4 text-center">
-                        <div class="col-xs-6">
+                        <div class="col-xs-12 col-sm-6 no-padding">
                             <span class="icon-youtube"></span>
                         </div>
-                        <div class="col-xs-6">
+                        <div class="col-xs-12 col-sm-6 no-padding">
                             <span class="resources-number">
                                 
                                 {% assign counter = 0 %}
@@ -136,10 +134,10 @@ The following part removes dulpicated tags and invalid tags like blank tag.
                         </div>
                     </div>
                     <div class="resource-sidebar-block col-xs-4 text-center">
-                        <div class="col-xs-6">
+                        <div class="col-xs-12 col-sm-6 no-padding">
                             <span class="icon-linkedin"></span>
                         </div>
-                        <div class="col-xs-6">
+                        <div class="col-xs-12 col-sm-6 no-padding">
                             <span class="resources-number">
                                 {% assign counter = 0 %}
                                 {% for resource in site.categories[connect_id] %}
