@@ -44,7 +44,43 @@ In order to get your changes added to the Connect website you must make changes 
 For example we will edit the https://connect.linaro.org/about/ page text and submit a PR.
 
 
+## Add Keynotes to the Homepage Carousel
 
+Keynotes in the homepage carousel are added from the _data/yvr18-keynotes.yml file. If you need to add a keynote to the homepage carousel simply append your keynote to the data file. In regards to following Connect events, duplicate the yvr18-keynotes.yml file and rename appropriately. Then change the included data file by amending this line:
+
+```
+...
+{% include sections/keynotes.html keynotes=site.data.yvr18-keynotes %}
+...
+```
+E.g 
+
+```
+...
+{% include sections/keynotes.html keynotes=site.data.bkk19-keynotes %}
+...
+```
+
+## Add Keynotes to the Homepage Carousel
+
+Keynotes in the homepage carousel are added from the _data/yvr18-keynotes.yml file. If you need to add a keynote to the homepage carousel simply append your keynote to the data file. In regards to following Connect events, duplicate the yvr18-keynotes.yml file and rename appropriately. Then change the included data file by amending this line:
+
+```
+...
+{% include sections/keynotes.html keynotes=site.data.yvr18-keynotes %}
+...
+```
+E.g 
+
+```
+...
+{% include sections/keynotes.html keynotes=site.data.bkk19-keynotes %}
+...
+```
+
+## Add a new resources section to Resources
+
+The resources section is generated from a _data/connects.yml file. This should be modified to include all the previous Connect events whichh have resources.
 
 ## Adding Connect Speakers
 
