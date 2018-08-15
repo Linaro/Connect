@@ -7,3 +7,37 @@
 .row.content {
     padding-top: 20px;
 }
+.panel-body {
+    height: 400px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+h1 {
+    top: 135px;
+    position: relative;
+    text-align: center;
+    color: #f7f7f7;
+    font-weight: bold;
+}
+.row.featured_blog_post {
+    margin-left: 0px;
+    margin-right: 0px;
+    border-bottom: 1px solid #eee;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    color: #404040;
+}
+
+.featured_blog_post .col-xs-12 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.featured_blog_post .col-xs-12:hover{
+    background-color:#eee;
+}
+.content .container > .col-xs-12 {
+    padding-bottom: 20px;
+}
+#wrapper .content .panel-heading {
+    border: 1px solid #eee;
+}
