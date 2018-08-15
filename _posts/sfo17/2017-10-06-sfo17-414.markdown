@@ -2,16 +2,26 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-414.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-414%20-%2096Boards%20Mezzanine%20Workshop%20and%20info%20session.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:56:02+00:00
+date: 2017-10-06 16:56:02
 excerpt: The 96Boards Mezzanine ecosystem continues to grow as both partner and community
   engagement increase. To sustain and drive efforts forward, we must unite and maintain.
   This session will address the past, present and future potential of this vibrant
   ecosystem and touch on new ways to organize and allocate community resources.
-layout: post
+featured_image_name: SFO17-414.jpg
+image:
+  featured: true
+  name: SFO17-414.jpg
+  path: /assets/images/featured-images/SFO17-414.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-414/
+post_format:
+- Video
 session_id: SFO17-414
 session_track: 96Boards
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80643748
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/96boards-mezzanine-workshop-and-info-session-sfo17414
 slug: sfo17-414
 speakers: Robert Wolff
@@ -20,10 +30,6 @@ video_length: '30:37'
 video_thumbnail: None
 wordpress_id: 6067
 youtube_video_url: https://www.youtube.com/watch?v=E7zA0_NfAnI
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-414

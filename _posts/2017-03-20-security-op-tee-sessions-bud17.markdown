@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
 comments: false
 date: 2017-03-20 13:44:13+00:00
 layout: post
@@ -30,7 +30,7 @@ The SKS/KeyGen2 project is about establishing an security architecture, provisio
 **Speakers:** Anders Rundgren
 **Track:** Security
 **Session ID:** BUD17-203
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-203/](http://connect.linaro.org/resource/bud17/bud17-203/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-203/](/resources/bud17/bud17-203/)
 
 
 
@@ -46,7 +46,7 @@ Device Tree is well established in the Linux kernel. But since there could be ot
 **Speakers:** Joakim Bech, Jens Wiklander
 **Track:** Security
 **Session ID:** BUD17-313
-**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-313/](http://connect.linaro.org/resource/bud17/bud17-313/)
+**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-313/](/resources/bud17/bud17-313/)
 
 
 
@@ -62,7 +62,7 @@ Benchmark and profiling are two newly developed features in OP-TEE. In this sess
 **Speakers:** Jerome Forissier, Igor Opaniuk
 **Track:** Security
 **Session ID:** BUD17-416
-**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-416/](http://connect.linaro.org/resource/bud17/bud17-416/)
+**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-416/](/resources/bud17/bud17-416/)
 
 
 
@@ -78,4 +78,4 @@ On a device it’s not uncommon to share power domains between secure and non-se
 **Speakers:** Vincent Guittot, Joakim Bech
 **Track:** Security
 **Session ID:** BUD17-510
-**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-510/](http://connect.linaro.org/resource/bud17/bud17-510/)
+**Resource page: **[http://connect.linaro.org/resource/bud17/bud17-510/](/resources/bud17/bud17-510/)

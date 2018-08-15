@@ -1,31 +1,37 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-18-Thursday/LCU14-401.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-18-Thursday/LCU14-401-+Isolation+-+no_hz+upstreaming+progress+Confirmed.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:07:47+00:00
+date: 2015-06-30 17:07:47
 excerpt: Isolation allows a task to have the core dedicated to its needs until it
   exits, currently the linux kernel interferes with this isolation in multiple ways.
   This task is targeted at removing these interruptions.
-layout: post
+featured_image_name: LCU14-401.jpg
+image:
+  featured: true
+  name: LCU14-401.jpg
+  path: /assets/images/featured-images/LCU14-401.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-401-isolation-no_hz-upstreaming-progress-confirmed/
 session_id: LCU14-401
 session_track: Networking
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39051597
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-401-isolation-no-hz-upstreaming-progress
 slug: lcu14-401-isolation-no_hz-upstreaming-progress-confirmed
 speakers: Viresh Kumar
-title: 'LCU14-401: Isolation / no_hz upstreaming progress Confirmed'
-video_length: '15:56'
-video_thumbnail: None
-wordpress_id: 1552
-youtube_video_url: https://www.youtube.com/watch?v=j55hcmdP2Ok
-categories:
-- lcu14
 tags:
 - lcu14
 - LCU14-401
 - Networking
 - Viresh Kumar
+title: 'LCU14-401: Isolation / no_hz upstreaming progress Confirmed'
+video_length: '15:56'
+video_thumbnail: None
+wordpress_id: 1552
+youtube_video_url: https://www.youtube.com/watch?v=j55hcmdP2Ok
 ---
 
 LCU14-401: Isolation / no_hz upstreaming progress Confirmed

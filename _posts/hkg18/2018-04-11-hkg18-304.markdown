@@ -1,19 +1,29 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-304.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-304.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:12:48+00:00
+date: 2018-04-11 14:12:48
 excerpt: Current hardware set on AI application have been dominated by GPGPU. We see
   this trend very natural since "LEARNING" which requires processing power was the
   start point. Now we are in the phase to utilize the "DATA" for inference. Attaching
   CNN dedicated processing accelerator into Socionext SynQuacer server becomes AI
   server with superior power efficiency to existing hardware set. The scalability
   of this AI server will make AI inference process similar to Index searching.
-layout: post
+featured_image_name: HKG18-304.png
+image:
+  featured: true
+  name: HKG18-304.png
+  path: /assets/images/featured-images/HKG18-304.png
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-304/
+post_format:
+- Video
 session_id: HKG18-304
 session_track: LEG AI;Ecosystem Day
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92857936
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18304-scalable-ai-server
 slug: hkg18-304
 speakers: Shuichi Yamane
@@ -22,10 +32,6 @@ video_length: '24:08'
 video_thumbnail: None
 wordpress_id: 8780
 youtube_video_url: https://www.youtube.com/watch?v=HhJAISa2ap0
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-304
@@ -34,15 +40,15 @@ Speaker: Shuichi Yamane
 Track: LEG AI;Ecosystem Day
 
 
-★ Session Summary ★
+## Session Summary
 Current hardware set on AI application have been dominated by GPGPU. We see this trend very natural since "LEARNING" which requires processing power was the start point. Now we are in the phase to utilize the "DATA" for inference. Attaching CNN dedicated processing accelerator into Socionext SynQuacer server becomes AI server with superior power efficiency to existing hardware set. The scalability of this AI server will make AI inference process similar to Index searching.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-304/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-304.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-304.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -57,8 +63,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Shuichi Yamane
+**Speakers**: Shuichi Yamane
 
-Speaker Positions: 
-
-
+**Speaker Positions**:

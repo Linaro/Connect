@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-307.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-307.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:12:48+00:00
+date: 2018-04-11 14:12:48
 excerpt: 'Linaro Developer Cloud, update and plans.
 
 
@@ -17,10 +19,18 @@ excerpt: 'Linaro Developer Cloud, update and plans.
   as ERP as the underlying operating system and the multiple SDI projects that are
   part of the cloud infrastructure such as OpenStack CI and Kolla. Finally, we will
   do a quick FAQ session.'
-layout: post
+featured_image_name: HKG18-307.png
+image:
+  featured: true
+  name: HKG18-307.png
+  path: /assets/images/featured-images/HKG18-307.png
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-307/
+post_format:
+- Video
 session_id: HKG18-307
 session_track: Ecosystem Day
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92856818
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18307-linaro-developer-cloud
 slug: hkg18-307
 speakers: Jorge Niedbalski
@@ -29,10 +39,6 @@ video_length: '27:51'
 video_thumbnail: None
 wordpress_id: 8784
 youtube_video_url: https://www.youtube.com/watch?v=lF9EEjD1bGg
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-307
@@ -41,19 +47,19 @@ Speaker: Jorge Niedbalski
 Track: Ecosystem Day
 
 
-★ Session Summary ★
+## Session Summary
 Linaro Developer Cloud, update and plans.
 
 The Developer Cloud is a multi-region cloud based on OpenStack built on top of Aarch64 servers that offers resources to developers, companies and upstream projects to step into and enable  the ARM ecosystem.
 This presentation will explain the current status of the project, the changes that have been executed as part of the deployment and upgrade to the reference architecture v2.0 and how we plan to keep leveraging and supporting some of the LEG efforts such as ERP as the underlying operating system and the multiple SDI projects that are part of the cloud infrastructure such as OpenStack CI and Kolla. Finally, we will do a quick FAQ session.
 
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-307/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-307.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-307.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -68,8 +74,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Jorge Niedbalski
+**Speakers**: Jorge Niedbalski
 
-Speaker Positions: Senior Software Engineer
-
-
+**Speaker Positions**: Senior Software Engineer

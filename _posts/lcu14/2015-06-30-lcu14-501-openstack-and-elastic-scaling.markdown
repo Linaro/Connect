@@ -1,27 +1,32 @@
 ---
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-19-Friday/LCU14-501-+OpenStack+and+elastic+scaling.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:07:30+00:00
-layout: post
+date: 2015-06-30 17:07:30
+featured_image_name: LCU14-501.jpg
+image:
+  featured: true
+  name: LCU14-501.jpg
+  path: /assets/images/featured-images/LCU14-501.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-501-openstack-and-elastic-scaling/
 session_id: LCU14-501
 session_track: Enterprise Server
 slug: lcu14-501-openstack-and-elastic-scaling
 speakers: Andrew McDermott, Michael Hudson-Doyle
-title: 'LCU14-501: OpenStack and elastic scaling'
-video_length: '31:25'
-video_thumbnail: None
-wordpress_id: 1562
-youtube_video_url: https://www.youtube.com/watch?v=sb7pXg5LugA
-categories:
-- lcu14
 tags:
 - Andrew McDermott
 - Enterprise Server
 - lcu14
 - LCU14-501
 - Michael Hudson-Doyle
+title: 'LCU14-501: OpenStack and elastic scaling'
+video_length: '31:25'
+video_thumbnail: None
+wordpress_id: 1562
+youtube_video_url: https://www.youtube.com/watch?v=sb7pXg5LugA
 ---
 
 LCU14-501: OpenStack and elastic scaling

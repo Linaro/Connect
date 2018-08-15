@@ -1,32 +1,38 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-300%20OpenDataPlane-%20network%20packet%20journey.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/BUD17-300%20Journey%20of%20a%20packet.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:39+00:00
+date: 2017-02-28 12:05:39
 excerpt: Describe step by step what components a packet goes through and details cases
   when components are implemented in hardware or in software.  Attendees will have
   the definite presentation to understand fundamental differences with DPDK and how
   ODP solves low end and high end networking issues.
-layout: post
+featured_image_name: BUD17-300.jpg
+image:
+  featured: true
+  name: BUD17-300.jpg
+  path: /assets/images/featured-images/BUD17-300.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-300/
+post_format:
+- Video
 session_id: BUD17-300
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786390
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17300-journey-of-a-packet
 slug: bud17-300
 speakers: Maxim Uvarov
+tags:
+- LNG
+- packet
 title: Journey of a packet - BUD17-300
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4666
 youtube_video_url: https://youtu.be/wRZXw_xBT20
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- LNG
-- packet
 ---
 
 "Session ID: BUD17-300

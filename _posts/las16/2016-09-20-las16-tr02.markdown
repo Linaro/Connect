@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-TR02%20-%20Upstreaming%20101.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Tuesday/LAS16-TR02%20Upstreaming%20101.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:46+00:00
+date: 2016-09-20 17:10:46
 excerpt: This session is an introductory course on Linux kernel upstreaming fundamentals.
   The course covers the definition the Linux mainline kernel tree as well as the maintainer
   hierarchy and processes used to contribute software into the mainline kernel. Special
@@ -13,24 +15,28 @@ excerpt: This session is an introductory course on Linux kernel upstreaming fund
   and engineering managers preparing to upstream software into the kernel. The topic
   requires a solid background in software configuration management terminology and
   the git SCM tool as well as a good technical understanding of the Linux kernel itself.
-layout: post
+featured_image_name: LAS16-TR02.png
+image:
+  featured: true
+  name: LAS16-TR02.png
+  path: /assets/images/featured-images/LAS16-TR02.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-tr02/
+post_format:
+- Video
 session_id: LAS16-TR02
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357282
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16tr02-upstreaming-101
 slug: las16-tr02
 speakers: Shawn Guo, Daniel Thompson
+tags:
+- Training
 title: 'LAS16-TR02: Upstreaming 101'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3820
 youtube_video_url: https://youtu.be/QBY8OceIt5I
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Training
 ---
 
 LAS16-TR02: Upstreaming 101
@@ -42,10 +48,10 @@ This session is an introductory course on Linux kernel upstreaming fundamentals.
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-tr02
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-tr02/](http://connect.linaro.org/resource/las16/las16-tr02/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-tr02/](/resources/las16/las16-tr02/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

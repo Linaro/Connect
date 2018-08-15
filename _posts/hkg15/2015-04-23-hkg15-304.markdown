@@ -1,13 +1,13 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-11-Wednesday/HKG15-304.pdf
-author: kyle.kirkby
+author: connect
 comments: true
 date: 2015-04-23 15:36:43+00:00
 excerpt: Secure data path for media streams involve lots of differents software and
   hardware elements and is very complexe. The goal of this talk is to expose an hardware
   independent proposition using open-TEE and dmabuf. Feedback from all SoC experts
   is more than welcome.
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-304/
 session_id: HKG15-304
 session_track: Graphics, Mobile

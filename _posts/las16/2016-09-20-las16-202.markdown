@@ -1,13 +1,22 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Tuesday/LAS16-202%20Reference%20Software%20Platform.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:39+00:00
+date: 2016-09-20 17:10:39
 excerpt: Review of the direction the Reference Software Platform is taking for each
   of the variants
-layout: post
+featured_image_name: LAS16-202.png
+image:
+  featured: true
+  name: LAS16-202.png
+  path: /assets/images/featured-images/LAS16-202.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-202/
+post_format:
+- Video
 session_id: LAS16-202
 session_track: Automation & CI
 slideshare_presentation_url: None
@@ -18,10 +27,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3809
 youtube_video_url: https://youtu.be/WFY0Kt3HDas
-categories:
-- las16
-post_format:
-- Video
 ---
 
 LAS16-202: Reference Software Platform
@@ -33,10 +38,10 @@ Review of the direction the Reference Software Platform is taking for each of th
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-202
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-202/](http://connect.linaro.org/resource/las16/las16-202/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-202/](/resources/las16/las16-202/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

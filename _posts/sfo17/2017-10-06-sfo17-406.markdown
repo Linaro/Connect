@@ -2,16 +2,26 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-406%20-%20Full%20IPsec%20Offload%20Support%20in%20OpenDataPlane.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-406%20IPsec%20Full%20Offload%20Support%20in%20ODP.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:55:49+00:00
-excerpt: The ODP “Tiger Moth” release introduces inline processing support for IPsec
-  that enables dramatic increases in throughput and performance by fully leveraging
-  hardware-offload capabilities on platforms that provide this. This talk discusses
-  the design of this support and the results achievable with it.
-layout: post
+date: 2017-10-06 16:55:49
+excerpt: "The ODP \u201CTiger Moth\u201D release introduces inline processing support
+  for IPsec that enables dramatic increases in throughput and performance by fully
+  leveraging hardware-offload capabilities on platforms that provide this. This talk
+  discusses the design of this support and the results achievable with it."
+featured_image_name: SFO17-406.jpg
+image:
+  featured: true
+  name: SFO17-406.jpg
+  path: /assets/images/featured-images/SFO17-406.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-406/
+post_format:
+- Video
 session_id: SFO17-406
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79886019
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/ipsec-full-offload-support-in-odp-sfo17406
 slug: sfo17-406
 speakers: Bill Fischofer
@@ -20,10 +30,6 @@ video_length: '27:57'
 video_thumbnail: None
 wordpress_id: 6055
 youtube_video_url: https://www.youtube.com/watch?v=HsaC-nkDPBk
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-406

@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Thursday/LAS16-410%20-%20Don%27t%20waste%20power%20when%20idle%20with%20runtime%20PM.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Thursday/LAS16-410%20Don%27t%20waste%20power%20when%20idle%20with%20runtime%20PM.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:59+00:00
+date: 2016-09-20 17:10:59
 excerpt: Continuing the discussion from Linaro Connect Bangkok 2016, we discuss further
   experiments with Window Assisted Load Tracking (WALT, formerly WinLT) on other architectures
   such as x86 and with different workloads including laptop/desktop and server usecases.
@@ -12,24 +14,28 @@ excerpt: Continuing the discussion from Linaro Connect Bangkok 2016, we discuss 
   estimation schemes can be built on top of WALT. Experiments use the new schedutil
   governor. Examination of individual use cases in detail as well as how to handle
   migration and potential caveats of a windowing scheme are discussed.
-layout: post
+featured_image_name: LAS16-410.png
+image:
+  featured: true
+  name: LAS16-410.png
+  path: /assets/images/featured-images/LAS16-410.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-410/
+post_format:
+- Video
 session_id: LAS16-410
 session_track: Core Development
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357630
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16410-dont-waste-power-when-idle-with-runtime-pm
 slug: las16-410
 speakers: Ulf Hansson
+tags:
+- Power Management
 title: 'LAS16-410: Don''t waste power when idle with runtime PM'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3851
 youtube_video_url: https://youtu.be/2oGtHeXJguE
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Power Management
 ---
 
 LAS16-410: Don’t waste power when idle with runtime PM
@@ -41,10 +47,10 @@ For a while Linaro has been working on improving some components of the PM core 
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-410
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-410/](http://connect.linaro.org/resource/las16/las16-410/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-410/](/resources/las16/las16-410/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-10-Tuesday/HKG15-205.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-10-Tuesday/HKG15-205+OpenTAC+-+Open+Hardware+Test+Automation+Controller.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:36:53+00:00
+date: 2015-04-23 15:36:53
 excerpt: 'Power distribution automation and serial console controller on an ARM platform.
   OpenTAC is a community project using open hardware and free software. The hardware
   combines a PDU and serial console server in a single box and removes the forest
@@ -15,23 +17,22 @@ excerpt: 'Power distribution automation and serial console controller on an ARM 
   the 4 channel variant for a small ARM server (e.g. cubietruck) with a SATA drive,
   making it ideal as a desktop or demonstrator unit. http://wiki.vero-apparatus.com/OpenTAC
 
-  '
-layout: post
+'
+featured_image_name: HKG15-205.jpg
+image:
+  featured: true
+  name: HKG15-205.jpg
+  path: /assets/images/featured-images/HKG15-205.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-205-opentac-open-hardware-test-automation-controller/
+post_format:
+- Video
 session_id: HKG15-205
 session_track: LAVA, Validation
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44417836
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15205-opentac-open-hardware-test-automation-controller
 slug: hkg15-205-opentac-open-hardware-test-automation-controller
 speakers: Andy Simpkins, Neil Williams
-title: 'HKG15-205: OpenTAC - Open Hardware Test Automation Controller'
-video_length: '49:09'
-video_thumbnail: None
-wordpress_id: 720
-youtube_video_url: https://www.youtube.com/watch?v=1fNr8wiLAfQ
-categories:
-- hkg15
-post_format:
-- Video
 tags:
 - Andy Simpkins
 - hkg15
@@ -39,6 +40,11 @@ tags:
 - LAVA
 - Neil Williams
 - Validation
+title: 'HKG15-205: OpenTAC - Open Hardware Test Automation Controller'
+video_length: '49:09'
+video_thumbnail: None
+wordpress_id: 720
+youtube_video_url: https://www.youtube.com/watch?v=1fNr8wiLAfQ
 ---
 
 HKG15-205: OpenTAC - Open Hardware Test Automation Controller 

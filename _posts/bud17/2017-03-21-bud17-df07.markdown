@@ -2,13 +2,23 @@
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
 author: celia.ilardi
+categories:
+- demo-friday
 comments: false
-date: 2017-03-21 15:28:54+00:00
+date: 2017-03-21 15:28:54
 excerpt: Android "AOSP TV"
-layout: post
+featured_image_name: BUD17-DF07.jpg
+image:
+  featured: true
+  name: BUD17-DF07.jpg
+  path: /assets/images/featured-images/BUD17-DF07.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df07/
+post_format:
+- Video
 session_id: BUD17-DF07
 session_track: 'Android '
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73367572
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/android-aosp-tv-bud17
 slug: bud17-df07
 speakers: None
@@ -17,10 +27,6 @@ video_length: '11:39'
 video_thumbnail: None
 wordpress_id: 5649
 youtube_video_url: https://www.youtube.com/watch?v=lkAERtIry4w
-categories:
-- Demo Friday
-post_format:
-- Video
 ---
 
 Android TV is a smart TV platform that can be built for both TVs and stand alone media players and set top boxes.

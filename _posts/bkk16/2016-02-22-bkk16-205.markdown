@@ -1,32 +1,37 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-205.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Tuesday/BKK16-205%20RDK-B%20as%20an%20IoT%20Gateway.mp4
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:39+00:00
+date: 2016-02-22 17:20:39
 excerpt: RDKB is Open Source Broadband Gateway platform stack, built on top of an
-  OpenEmbedded build framework.  It’s currently deployed on all Comcast broadband
+  OpenEmbedded build framework.  It's currently deployed on all Comcast broadband
   home gateways.  This talk will introduce the internals of RDKB and features forming
   the basis of the IoT framework for the Comcast Network.
-layout: post
+featured_image_name: BKK16-205.jpg
+image:
+  featured: true
+  name: BKK16-205.jpg
+  path: /assets/images/featured-images/BKK16-205.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-205/
+post_format:
+- Video
 session_id: BKK16-205
 session_track: LHG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59686254
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16205-rdkb-iot
 slug: bkk16-205
 speakers: Khem Raj (Comcast)
+tags:
+- IoT
+- RDKB
 title: 'BKK16-205: RDK-B as an IoT Gateway'
 video_length: '49:40'
 video_thumbnail: None
 wordpress_id: 3327
 youtube_video_url: https://www.youtube.com/watch?v=PkadSuZBnRw
-categories:
-- bkk16
-post_format:
-- Video
-tags:
-- IoT
-- RDKB
 ---
 
 RDKB is Open Source Broadband Gateway platform stack, built on top of an OpenEmbedded build framework.  It’s currently deployed on all Comcast broadband home gateways.  This talk will introduce the internals of RDKB and features forming the basis of the IoT framework for the Comcast Network.

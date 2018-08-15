@@ -1,8 +1,8 @@
 ---
-author: kyle.kirkby
+author: connect
 comments: true
 date: 2015-04-23 15:36:19+00:00
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-500k2/
 session_id: HKG15-500K2
 session_track: General

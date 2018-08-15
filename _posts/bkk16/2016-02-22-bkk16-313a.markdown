@@ -1,9 +1,10 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-313A.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Wednesday/BKK16-313A%20RP%20Enterprise%20kernel.mp4
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:48+00:00
+date: 2016-02-22 17:20:48
 excerpt: The RP Enterprise Kernel is the combination of Reference Platform topic branches.  The
   goal is that, members of Linaro will in combination contribute to a kernel branch
   that incorporates the activities and development of all members.   The topics will
@@ -12,26 +13,30 @@ excerpt: The RP Enterprise Kernel is the combination of Reference Platform topic
   the 4.4 kernel is released, all patches that were not accepted into the kernel release,
   will be rebased to the next developement kernel.  In the case of this example, rebase
   from 4.4 to 4.5.
-layout: post
+featured_image_name: BKK16-313A.jpg
+image:
+  featured: true
+  name: BKK16-313A.jpg
+  path: /assets/images/featured-images/BKK16-313A.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-313a/
+post_format:
+- Video
 session_id: BKK16-313A
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58684868
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16313-legkernel-to-rp-enterprise-kernel
 slug: bkk16-313a
 speakers: Graeme Gregory
+tags:
+- Enterprise
+- Kernel
+- RP
 title: 'BKK16-313A: RP Enterprise Kernel'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3356
 youtube_video_url: https://youtu.be/AicXYdgbJfc
-categories:
-- bkk16
-post_format:
-- Video
-tags:
-- Enterprise
-- Kernel
-- RP
 ---
 
 The RP Enterprise Kernel is the combination of Reference Platform topic branches.  The goal is that, members of Linaro will in combination contribute to a kernel branch that incorporates the activities and development of all members.   The topics will be targeted towards tip, and rebased once the kernel has moved from rc to stable.  As in, if the current RC is for 4.4, then all topics will be based on that kernel.  Once the 4.4 kernel is released, all patches that were not accepted into the kernel release, will be rebased to the next developement kernel.  In the case of this example, rebase from 4.4 to 4.5.

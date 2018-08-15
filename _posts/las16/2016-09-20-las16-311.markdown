@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-311%20Window%20Based%20Load%20Tracking%20%28WALT%29%20versus%20PELT%20utilization.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:53+00:00
+date: 2016-09-20 17:10:53
 excerpt: Continuing the discussion from Linaro Connect Bangkok 2016, we discuss further
   experiments with Window Assisted Load Tracking (WALT, formerly WinLT) on other architectures
   such as x86 and with different workloads including laptop/desktop and server usecases.
@@ -12,24 +14,27 @@ excerpt: Continuing the discussion from Linaro Connect Bangkok 2016, we discuss 
   estimation schemes can be built on top of WALT. Experiments use the new schedutil
   governor. Examination of individual use cases in detail as well as how to handle
   migration and potential caveats of a windowing scheme are discussed.
-layout: post
+featured_image_name: LAS16-311.png
+image:
+  featured: true
+  name: LAS16-311.png
+  path: /assets/images/featured-images/LAS16-311.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-311/
+post_format:
+- Video
 session_id: LAS16-311
 session_track: Core Development
 slideshare_presentation_url: None
 slug: las16-311
 speakers: Vikram Mulukutla
+tags:
+- Power Management
 title: 'LAS16-311:  Window Based Load Tracking (WALT) versus PELT utilization'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3835
 youtube_video_url: https://youtu.be/hc0aufpfWvY
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Power Management
 ---
 
 LAS16-311: Window Based Load Tracking (WALT) versus PELT utilization
@@ -41,10 +46,10 @@ Continuing the discussion from Linaro Connect Bangkok 2016, we discuss further e
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-311
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-311/](http://connect.linaro.org/resource/las16/las16-311/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-311/](/resources/las16/las16-311/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

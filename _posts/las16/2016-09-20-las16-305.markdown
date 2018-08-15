@@ -1,34 +1,40 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-305%20-%20Big%20Data%20usecase%20demo%20and%20Big%20Data%20Benchmarking%20Standards.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-305%20Upstream%2C%20porting%2C%20performance%20testing%20and.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:51+00:00
-excerpt: Cities are getting identified as smart cities based on what and how data
+date: 2016-09-20 17:10:51
+excerpt: "Cities are getting identified as smart cities based on what and how data
   are used to do predictive analytics. Smart City as a phrase can have a wide spectrum
-  of meaning. But there are two key things (Data and Analytics) that ‘smart’ refers
-  to in smart city. With IoT gaining so much market attention, brings in the power
-  to drive the implementation. Data collection, Storage and Analytics provide so much
-  potential. This talk will go over a sample use case scenario utilizing ODPi based
-  Hadoop eco system and H20 visualizations for analytics.
-layout: post
+  of meaning. But there are two key things (Data and Analytics) that \u2018smart\u2019
+  refers to in smart city. With IoT gaining so much market attention, brings in the
+  power to drive the implementation. Data collection, Storage and Analytics provide
+  so much potential. This talk will go over a sample use case scenario utilizing ODPi
+  based Hadoop eco system and H20 visualizations for analytics."
+featured_image_name: LAS16-305.png
+image:
+  featured: true
+  name: LAS16-305.png
+  path: /assets/images/featured-images/LAS16-305.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-305/
+post_format:
+- Video
 session_id: LAS16-305
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/67471515
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16305-smart-city-big-data-visualization-on-96boards
 slug: las16-305
 speakers: Naresh Bhat, Ganesh Raju
+tags:
+- Enterprise
 title: 'LAS16-305: Smart City Big Data Visualization on 96Boards'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3829
 youtube_video_url: https://youtu.be/f-0QX8yTSJo
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Enterprise
 ---
 
 LAS16-305: Smart City Big Data Visualization on 96Boards
@@ -40,10 +46,10 @@ Cities are getting identified as smart cities based on what and how data are use
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-305
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-305/](http://connect.linaro.org/resource/las16/las16-305/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-305/](/resources/las16/las16-305/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

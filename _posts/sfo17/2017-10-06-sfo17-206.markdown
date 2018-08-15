@@ -2,15 +2,25 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-206%20RDK%252FWPE%20Port%20on%20DragonBoard%20410c.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-206%20RDK%20%20WPE%20Port%20on%20DB410C.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:54:22+00:00
+date: 2017-10-06 16:54:22
 excerpt: LHG has been working on porting RDK with Westeros and WPE browser and optimizing
   it on Dragonboard410c. This session discuss about the challenges w.r.t this work
   on DB410c and LHG contributions to RDK, Westeros and WPE.
-layout: post
+featured_image_name: SFO17-206.jpg
+image:
+  featured: true
+  name: SFO17-206.jpg
+  path: /assets/images/featured-images/SFO17-206.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-206/
+post_format:
+- Video
 session_id: SFO17-206
 session_track: LHG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79884899
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/rdkwpe-port-on-db410c-sfo17206
 slug: sfo17-206
 speakers: Sivasubramanian Patchaiperumal
@@ -19,10 +29,6 @@ video_length: '23:25'
 video_thumbnail: None
 wordpress_id: 5967
 youtube_video_url: https://www.youtube.com/watch?v=4v2FFBmxOFs
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-206

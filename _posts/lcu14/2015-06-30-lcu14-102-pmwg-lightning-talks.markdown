@@ -1,29 +1,35 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-15-Monday/LCU14-102.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-15-Monday/LCU14-102-+PMWG+lightning+talks.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:11:28+00:00
+date: 2015-06-30 17:11:28
 excerpt: 5 minute updates from PMWG team members
-layout: post
+featured_image_name: LCU14-102.jpg
+image:
+  featured: true
+  name: LCU14-102.jpg
+  path: /assets/images/featured-images/LCU14-102.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-102-pmwg-lightning-talks/
+post_format:
+- Video
 session_id: LCU14-102
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39098678
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-102-pmwg-lightning-talks-v2
 slug: lcu14-102-pmwg-lightning-talks
+tags:
+- lcu14
+- LCU14-102
+- Power Management
 title: 'LCU14-102: PMWG lightning talks'
 video_length: '52:25'
 video_thumbnail: None
 wordpress_id: 1507
 youtube_video_url: https://www.youtube.com/watch?v=rNPlyP-AENg
-categories:
-- lcu14
-post_format:
-- Video
-tags:
-- lcu14
-- LCU14-102
-- Power Management
 ---
 
 LCU14-102: PMWG lightning talks

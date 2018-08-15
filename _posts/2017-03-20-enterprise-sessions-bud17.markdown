@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
 comments: false
 date: 2017-03-20 12:05:57+00:00
 layout: post
@@ -23,10 +23,6 @@ categories:
 https://www.youtube.com/playlist?list=PLKZSArYQptsNtWUBuB2DcSEADXqJm6r12
 
 
-
-
-
-
 **Session Name:** Modern tooling with CentOS and DTS – BUD17-121
 
 **Abstract:**
@@ -35,13 +31,10 @@ This session will cover getting, and using newer tools such as gcc6 to use when 
 **Speakers:** Jim Perrin
 **Track:** LEG
 **Session ID:** BUD17-121
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-121/](http://connect.linaro.org/resource/bud17/bud17-121/)
-
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-121/](/resources/bud17/bud17-121/)
 
 
 * * *
-
-
 
 **Session Name:** BUD17-201 – ARM Server Standards: The Next Generation – BUD17-201
 
@@ -51,7 +44,7 @@ We have recently achieved a critical milestone of having core enablement for SBS
 **Speakers:** Jon Masters
 **Track:** LEG
 **Session ID:** BUD17-201
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-201/](http://connect.linaro.org/resource/bud17/bud17-201/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-201/](/resources/bud17/bud17-201/)
 
 
 
@@ -67,7 +60,7 @@ This session will provide updates to the ARM Server Base System Architecture and
 **Speakers:** Dong Wei
 **Track:** LEG
 **Session ID:** BUD17-205
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-205/](http://connect.linaro.org/resource/bud17/bud17-205/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-205/](/resources/bud17/bud17-205/)
 
 
 
@@ -93,7 +86,7 @@ The RAS architecture base on RAS extension, SDEI, APEI.
 **Speakers:** Wei Fu
 **Track:** LEG
 **Session ID:** BUD17-209
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-209/](http://connect.linaro.org/resource/bud17/bud17-209/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-209/](/resources/bud17/bud17-209/)
 
 
 
@@ -109,7 +102,7 @@ This technical discussion will highlight on-going Red Hat activities for the int
 **Speakers:** Drew Jones, Eric Auger
 **Track:** LEG
 **Session ID:** BUD17-213
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-213/](http://connect.linaro.org/resource/bud17/bud17-213/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-213/](/resources/bud17/bud17-213/)
 
 
 
@@ -125,7 +118,7 @@ Regular session taking place at Connect for developers working on Linux distribu
 **Speakers:** Wookey
 **Track:** LEG
 **Session ID:** BUD17-311
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-311/](http://connect.linaro.org/resource/bud17/bud17-311/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-311/](/resources/bud17/bud17-311/)
 
 
 
@@ -141,7 +134,7 @@ The DynInst package (https://github.com/dyninst/dyninst) provides an API for pro
 **Speakers:** Itaru Kitayama
 **Track:** LEG
 **Session ID:** BUD17-323
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-323/](http://connect.linaro.org/resource/bud17/bud17-323/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-323/](/resources/bud17/bud17-323/)
 
 
 
@@ -157,7 +150,7 @@ Developing applications on ARM based machines: compilers, debuggers, runtimes an
 **Speakers:** Chris Goodyer, Chris Adeniyi-Jones
 **Track:** LEG
 **Session ID:** BUD17-403
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-403/](http://connect.linaro.org/resource/bud17/bud17-403/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-403/](/resources/bud17/bud17-403/)
 
 
 
@@ -173,7 +166,7 @@ A summary of important changes in UEFI land in general, especially in the area o
 **Speakers:** Rong Chen
 **Track:** LEG
 **Session ID:** BUD17-417
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-417/](http://connect.linaro.org/resource/bud17/bud17-417/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-417/](/resources/bud17/bud17-417/)
 
 
 
@@ -189,4 +182,4 @@ Progress, difficulties and questions surrounding the creation of bootable openSU
 **Speakers:** Andreas Färber
 **Track:** LEG
 **Session ID:** BUD17-500
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-500/](http://connect.linaro.org/resource/bud17/bud17-500/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-500/](/resources/bud17/bud17-500/)

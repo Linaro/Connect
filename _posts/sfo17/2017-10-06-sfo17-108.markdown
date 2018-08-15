@@ -1,15 +1,20 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-108%20BSD%20Sockets%20Zephyr.pdf
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:53:48+00:00
+date: 2017-10-06 16:53:48
 excerpt: Zephyr 1.9 features initial implementation of BSD Sockets compatible API.
   This session surveys reasons to add it, requirements, details of implementation
   and results achieved. Known issues and future work are also discussed.
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-108/
+post_format:
+- Video
 session_id: SFO17-108
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79884070
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bsd-sockets-api-in-zephyr-rtos-sfo17108
 slug: sfo17-108
 speakers: Paul Sokolovsky
@@ -17,10 +22,6 @@ title: BSD Sockets API in Zephyr RTOS - SFO17-108
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5930
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-108

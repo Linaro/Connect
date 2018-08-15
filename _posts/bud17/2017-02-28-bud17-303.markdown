@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-303%20The%20Swarm%20on%20the%20Edge%20%20Pushing%20IoT%20to%20the%20next%20step.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:39+00:00
+date: 2017-02-28 12:05:39
 excerpt: Sensory swarms of an IoT can be wirelessly interconnected to interact with
   the edge of a cloud, and offer an unprecedented ability to monitor and act on a
   range of evolving physical quantities. The Swarm leverages the paradigm of independent,
@@ -15,26 +17,29 @@ excerpt: Sensory swarms of an IoT can be wirelessly interconnected to interact w
   this talk we will describe our experience implementing and deploying the heterogeneous
   broker developed by USP in partnership with UC Berkeley. An special focus will be
   given to the 96Boards program.
-layout: post
+featured_image_name: BUD17-303.jpg
+image:
+  featured: true
+  name: BUD17-303.jpg
+  path: /assets/images/featured-images/BUD17-303.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-303/
+post_format:
+- Video
 session_id: BUD17-303
 session_track: LITE
 slideshare_presentation_url: None
 slug: bud17-303
-speakers: Marcelo Knörich Zuffo
-title: 'The Swarm on the Edge: Pushing “IoT” to the next step - BUD17-303'
-video_length: 00:00
-video_thumbnail: None
-wordpress_id: 4669
-youtube_video_url: https://youtu.be/_n7mg3mfMJY
-categories:
-- bud17
-post_format:
-- Video
+speakers: "Marcelo Kn\xF6rich Zuffo"
 tags:
 - IoT
 - LITE
 - Swarm
+title: "The Swarm on the Edge: Pushing \u201CIoT\u201D to the next step - BUD17-303"
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4669
+youtube_video_url: https://youtu.be/_n7mg3mfMJY
 ---
 
 "Session ID: BUD17-303

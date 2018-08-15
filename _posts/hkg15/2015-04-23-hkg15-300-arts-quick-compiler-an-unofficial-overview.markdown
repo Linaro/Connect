@@ -1,8 +1,10 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-11-Wednesday/HKG15-300.pdf
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:36:47+00:00
+date: 2015-04-23 15:36:47
 excerpt: 'One of the important technical novelties introduced with the recent release
   of Android Lollipop is the replacement of Dalvik, the VM which was used to execute
   the bytecode produced from Java apps, with ART, a new Android Run-Time. One interesting
@@ -35,28 +37,32 @@ excerpt: 'One of the important technical novelties introduced with the recent re
 
   [1] The ART runtime, B. Carlstrom, A. Ghuloum, and I. Rogers, Google I/O 2014, https://www.youtube.com/watch?v=EBlTzQsUoOw
 
-  '
-layout: post
+'
+featured_image_name: HKG15-300.jpg
+image:
+  featured: true
+  name: HKG15-300.jpg
+  path: /assets/images/featured-images/HKG15-300.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-300-arts-quick-compiler-an-unofficial-overview/
+post_format:
+- Video
 session_id: HKG15-300
 session_track: Mobile
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44896758
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15300-arts-quick-compiler-an-unofficial-overview
 slug: hkg15-300-arts-quick-compiler-an-unofficial-overview
 speakers: Matteo Franchin
-title: 'HKG15-300: Art''s Quick Compiler: An unofficial overview'
-video_length: '47:38'
-video_thumbnail: None
-wordpress_id: 732
-youtube_video_url: https://www.youtube.com/watch?v=iho-e7EPHk0
-categories:
-- hkg15
-post_format:
-- Video
 tags:
 - hkg15
 - HKG15-300
 - Matteo Franchin
 - Mobile
+title: 'HKG15-300: Art''s Quick Compiler: An unofficial overview'
+video_length: '47:38'
+video_thumbnail: None
+wordpress_id: 732
+youtube_video_url: https://www.youtube.com/watch?v=iho-e7EPHk0
 ---
 
 HKG15-300: Art's Quick Compiler: An unofficial overview 

@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-19-Friday/LCU14-502.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-19-Friday/LCU14-502-+Android+User-Space+Tests-+Multimedia+codec+tests%252C+Status+and+Open+Discussions.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:07:32+00:00
+date: 2015-06-30 17:07:32
 excerpt: 'Android provides CTS - Compatibility Test Suite, written in java and run
   to verify the Android system. However Android has limited low-level tests, typically
   needed to port, benchmark and optimize components, in isolation. There is a need
@@ -14,26 +16,30 @@ excerpt: 'Android provides CTS - Compatibility Test Suite, written in java and r
   done by ARM and Linaro, provide a quick overview on current Android user space tests,
   being run as part of Linaro''s monthly release. This will be followed by an open
   discussio'
-layout: post
+featured_image_name: LCU14-502.jpg
+image:
+  featured: true
+  name: LCU14-502.jpg
+  path: /assets/images/featured-images/LCU14-502.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-502-android-user-space-tests-multimedia-codec-tests-status-and-open-discussions/
 session_id: LCU14-502
 session_track: Android
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39302232
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-502-androiduserspacetests
 slug: lcu14-502-android-user-space-tests-multimedia-codec-tests-status-and-open-discussions
 speakers: Ashok Bhat
+tags:
+- Android
+- Ashok Bhat
+- lcu14
+- LCU14-502
 title: 'LCU14-502: Android User-Space Tests: Multimedia codec tests, Status and Open
   Discussions'
 video_length: '36:21'
 video_thumbnail: None
 wordpress_id: 1563
 youtube_video_url: https://www.youtube.com/watch?v=xNr6xsvnNVA
-categories:
-- lcu14
-tags:
-- Android
-- Ashok Bhat
-- lcu14
-- LCU14-502
 ---
 
 LCU14-502: Android User-Space Tests: Multimedia codec tests, Status and Open Discussions

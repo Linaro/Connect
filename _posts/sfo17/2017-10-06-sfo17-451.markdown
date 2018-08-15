@@ -19,7 +19,7 @@ excerpt: 'The next flagship supercomputer in Japan, replacement of the K
   middleware.  After introducing an overview of the post K architecture,
 
   the current status of the system software development will be presented.'
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-451/
 session_id: SFO17-451
 session_track: LEG

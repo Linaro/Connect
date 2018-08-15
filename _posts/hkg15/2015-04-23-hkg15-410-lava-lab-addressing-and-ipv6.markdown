@@ -1,36 +1,42 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-12-Thursday/HKG15-410.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-12-Thursday/HKG15-410+LAVA+Lab+addressing+and+IPV6.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:36:39+00:00
+date: 2015-04-23 15:36:39
 excerpt: 'Currently the majority of DUTs in the Lab are allocated an IP address at
   boot time by DHCP in the 10.254.x.x address range.
 
   The proposal is that, where devices have a stable, fixed MAC address, they should
   be mapped to a fixed IP by the DHCP daemon in a selected '
-layout: post
+featured_image_name: HKG15-410.jpg
+image:
+  featured: true
+  name: HKG15-410.jpg
+  path: /assets/images/featured-images/HKG15-410.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-410-lava-lab-addressing-and-ipv6/
+post_format:
+- Video
 session_id: HKG15-410
 session_track: Validation
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44515843
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15410-lava-lab-addressing-and-ipv6
 slug: hkg15-410-lava-lab-addressing-and-ipv6
 speakers: Dave Pigott, Ed Deacon
-title: HKG15-410 LAVA Lab addressing and IPV6
-video_length: '38:43'
-video_thumbnail: None
-wordpress_id: 757
-youtube_video_url: https://www.youtube.com/watch?v=XUQ0sisGfF0
-categories:
-- hkg15
-post_format:
-- Video
 tags:
 - Dave Pigott
 - Ed Deacon
 - hkg15
 - HKG15-410
 - Validation
+title: HKG15-410 LAVA Lab addressing and IPV6
+video_length: '38:43'
+video_thumbnail: None
+wordpress_id: 757
+youtube_video_url: https://www.youtube.com/watch?v=XUQ0sisGfF0
 ---
 
 HKG15-410: LAVA Lab addressing and IPV6 

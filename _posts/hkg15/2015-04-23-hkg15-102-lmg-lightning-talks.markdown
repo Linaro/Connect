@@ -1,8 +1,10 @@
 ---
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-09-Monday/HKG15-102+LMG+Lightning+Talks.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:38:25+00:00
+date: 2015-04-23 15:38:25
 excerpt: 'Memory footprint analysis
 
   Android toolchain updates: Building Android with clang 3.6 (prerelease), Linaro
@@ -20,25 +22,28 @@ excerpt: 'Memory footprint analysis
 
   Validation of VP8/VP9 using LAVA
 
-  '
-layout: post
+'
+featured_image_name: HKG15-102.jpg
+image:
+  featured: true
+  name: HKG15-102.jpg
+  path: /assets/images/featured-images/HKG15-102.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-102-lmg-lightning-talks/
+post_format:
+- Video
 session_id: HKG15-102
 session_track: Mobile
 slug: hkg15-102-lmg-lightning-talks
+tags:
+- hkg15
+- HKG15-102
+- Mobile
 title: 'HKG15-102: LMG Lightning Talks'
 video_length: '41:23'
 video_thumbnail: None
 wordpress_id: 703
 youtube_video_url: https://www.youtube.com/watch?v=iDKE751IDwM
-categories:
-- hkg15
-post_format:
-- Video
-tags:
-- hkg15
-- HKG15-102
-- Mobile
 ---
 
 Memory footprint analysis

@@ -3,27 +3,33 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   LMG Lightning Talks.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-21-Monday/SFO15-106
   LMG Lightning Talks.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-21 00:00:00+00:00
-layout: post
+date: 2015-09-21 00:00:00
+featured_image_name: SFO15106LMGLightningTalks.jpg
+image:
+  featured: true
+  name: SFO15106LMGLightningTalks.jpg
+  path: /assets/images/featured-images/SFO15106LMGLightningTalks.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-106-lmg-lightning-talks/
+post_format:
+- Video
 session_id: None
 session_track: Mobile
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52946312
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15106-lmg-lightning-talks
 slug: sfo15-106-lmg-lightning-talks
+tags:
+- Android
+- Mobile
 title: 'SFO15-106: LMG Lightning Talks'
 video_length: '46:57'
 video_thumbnail: None
 wordpress_id: 2796
 youtube_video_url: https://www.youtube.com/watch?v=El0jw1n36Ik
-categories:
-- sfo15
-post_format:
-- Video
-tags:
-- Android
-- Mobile
 ---
 
 SFO15-106: LMG Lightning Talks

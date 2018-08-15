@@ -2,14 +2,19 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-320%20TSC%20BoF%20Accelerators%20Discussion%20.pdf
 amazon_s3_video_url: None
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:55:31+00:00
+date: 2017-10-06 16:55:31
 excerpt: Discussion on the various hardware acceleration efforts in Linaro.  What
   are we doing now and how should this evolve?
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-320/
+post_format:
+- Video
 session_id: SFO17-320
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80657817
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/tsc-bof-accelerators-discussion-sfo17320
 slug: sfo17-320
 speakers: None
@@ -18,10 +23,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 6324
 youtube_video_url: None
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-320

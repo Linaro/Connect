@@ -1,12 +1,21 @@
 ---
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-115%20BoF%20%20Quic%20Upstreaming.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:53:58+00:00
+date: 2017-10-06 16:53:58
 excerpt: Continuation of discussion from BUD17. QC kernel upstream status, issues,
   roadblocks, planning.
-layout: post
+featured_image_name: SFO17-115.jpg
+image:
+  featured: true
+  name: SFO17-115.jpg
+  path: /assets/images/featured-images/SFO17-115.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-115/
+post_format:
+- Video
 session_id: SFO17-115
 slug: sfo17-115
 title: 'BoF: Quic Upstreaming - SFO17-115'
@@ -14,10 +23,6 @@ video_length: 01:13:00
 video_thumbnail: None
 wordpress_id: 5944
 youtube_video_url: https://www.youtube.com/watch?v=H8KeZDsNVDs
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-115
@@ -55,4 +60,4 @@ Event Date: 26 Sept 2017
 
 Speakers: 
 
-Position: 
+Position:

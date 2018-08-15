@@ -1,8 +1,10 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-10-Tuesday/HKG15-206.pdf
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:37:01+00:00
+date: 2015-04-23 15:37:01
 excerpt: 'The concept of ''time'' in Linux is encoded in many different ways, but
   the
 
@@ -23,29 +25,33 @@ excerpt: 'The concept of ''time'' in Linux is encoded in many different ways, bu
 
   we are doing to address some of these issues.
 
-  '
-layout: post
+'
+featured_image_name: HKG15-206.jpg
+image:
+  featured: true
+  name: HKG15-206.jpg
+  path: /assets/images/featured-images/HKG15-206.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-206-solving-the-year-2038-problem-in-linux/
+post_format:
+- Video
 session_id: HKG15-206
 session_track: Kernel
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44887297
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15206-solving-the-year-2038-problem-in-linux
 slug: hkg15-206-solving-the-year-2038-problem-in-linux
 speakers: Arnd Bergmann, Tina Ruchandani
-title: 'HKG15-206: Solving the year 2038 problem in Linux'
-video_length: '42:10'
-video_thumbnail: None
-wordpress_id: 721
-youtube_video_url: https://www.youtube.com/watch?v=ILiMzjN71zM
-categories:
-- hkg15
-post_format:
-- Video
 tags:
 - Arnd Bergmann
 - hkg15
 - HKG15-206
 - Kernel
 - Tina Ruchandani
+title: 'HKG15-206: Solving the year 2038 problem in Linux'
+video_length: '42:10'
+video_thumbnail: None
+wordpress_id: 721
+youtube_video_url: https://www.youtube.com/watch?v=ILiMzjN71zM
 ---
 
 HKG15-206: Solving the year 2038 problem in Linux 

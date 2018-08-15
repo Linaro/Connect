@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr08.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr08.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:16:35+00:00
+date: 2018-04-11 14:16:35
 excerpt: ARM's Scalable Vector Extensions is an innovative solution to processing
   highly data parallel workloads. While several out-of-tree attempts at implementing
   SVE support for QEMU existed, we took a fundamentally different approach to solving
@@ -12,22 +14,26 @@ excerpt: ARM's Scalable Vector Extensions is an innovative solution to processin
   organisation we were focused on a solution that would be readily accepted by the
   upstream project. This entailed doing our development in the open on the project
   mailing lists where early feedback and community consensus can be reached.
-layout: post
+featured_image_name: HKG18-TR08.png
+image:
+  featured: true
+  name: HKG18-TR08.png
+  path: /assets/images/featured-images/HKG18-TR08.png
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-tr08/
+post_format:
+- Video
 session_id: HKG18-TR08
 session_track: Enterprise
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92876219
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18tr08-upstreaming-sve-in-qemu-92876219
 slug: hkg18-tr08
-speakers: Alex Bennée,Richard Henderson
+speakers: "Alex Benn\xE9e,Richard Henderson"
 title: HKG18-TR08 - Upstreaming SVE in QEMU
 video_length: '48:29'
 video_thumbnail: None
 wordpress_id: 8884
 youtube_video_url: https://www.youtube.com/watch?v=vOOI9_p5zTU
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-TR08
@@ -36,15 +42,15 @@ Speaker: Alex Bennée,Richard Henderson
 Track: Enterprise
 
 
-★ Session Summary ★
+## Session Summary
 ARM's Scalable Vector Extensions is an innovative solution to processing highly data parallel workloads. While several out-of-tree attempts at implementing SVE support for QEMU existed, we took a fundamentally different approach to solving key challenges and therefore pursued a from-scratch QEMU SVE implementation in Linaro. Our strategic choice was driven by several factors. First as an "upstream first" organisation we were focused on a solution that would be readily accepted by the upstream project. This entailed doing our development in the open on the project mailing lists where early feedback and community consensus can be reached.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-tr08/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr08.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr08.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -59,8 +65,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Alex Bennée,Richard Henderson
+**Speakers**: Alex Bennée,Richard Henderson
 
-Speaker Positions: Software Engineer,Sr Virtualization Engineer
-
-
+**Speaker Positions**: Software Engineer,Sr Virtualization Engineer

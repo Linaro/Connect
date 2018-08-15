@@ -1,30 +1,36 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Monday/LAS16-103%20-%20How%20We%20Wound%20Up%20Hosting%20releases.linaro.org%20on%20aarch64%20%281%29.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Monday/LAS16-103%20How%20We%20Wound%20Up%20Hosting%20releases.linaro.org%20on%20aarch64.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:32+00:00
-excerpt: Discuss how the Systems team wound up hosting releases.linaro.org in the
-  Austin Colo, how its holding up, and what other services might we “dogfood” in the
-  future.
-layout: post
+date: 2016-09-20 17:10:32
+excerpt: "Discuss how the Systems team wound up hosting releases.linaro.org in the
+  Austin Colo, how its holding up, and what other services might we \u201Cdogfood\u201D
+  in the future."
+featured_image_name: LAS16-103.png
+image:
+  featured: true
+  name: LAS16-103.png
+  path: /assets/images/featured-images/LAS16-103.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-103/
+post_format:
+- Video
 session_id: LAS16-103
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66323709
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16103-how-we-wound-up-hosting-releaseslinaroorg-on-aarch64
 slug: las16-103
 speakers: Andy Doan
+tags:
+- Systems
 title: 'LAS16-103: How We Wound Up Hosting releases.linaro.org on aarch64'
 video_length: '32:45'
 video_thumbnail: None
 wordpress_id: 3796
 youtube_video_url: https://www.youtube.com/watch?v=Y99xF_3mCvE
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Systems
 ---
 
 LAS16-103: How We Wound Up Hosting releases.linaro.org on aarch64
@@ -36,10 +42,10 @@ Discuss how the Systems team wound up hosting releases.linaro.org in the Austin 
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-103
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-103/](http://connect.linaro.org/resource/las16/las16-103/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-103/](/resources/las16/las16-103/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

@@ -1,13 +1,23 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- lce13
 comments: false
-date: 2013-07-08 15:01:58+00:00
-layout: post
+date: 2013-07-08 15:01:58
+featured_image_name: LCE13WhyallthissuddenattentionontheLinuxScheduler.jpg
+image:
+  featured: true
+  name: LCE13WhyallthissuddenattentionontheLinuxScheduler.jpg
+  path: /assets/images/featured-images/LCE13WhyallthissuddenattentionontheLinuxScheduler.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/lce13/lce13-sudden-attention-linux-scheduler/
+post_format:
+- Video
 session_id: None
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/32577275
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lce13-whyattentiononschedulertalk
 slug: lce13-sudden-attention-linux-scheduler
 speakers: None
@@ -16,10 +26,6 @@ video_length: 01:07:00
 video_thumbnail: None
 wordpress_id: 3955
 youtube_video_url: https://www.youtube.com/watch?v=NoeHIjqlriI
-categories:
-- lce13
-post_format:
-- Video
 ---
 
 No Content Found

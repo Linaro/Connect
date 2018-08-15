@@ -1,32 +1,38 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-204%20QC%20Upstreaming%20BoF.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Tuesday/BUD17-204%20QC%20Upstreaming%20BoF.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:32+00:00
+date: 2017-02-28 12:05:32
 excerpt: Continuation of discussion from LAS16. QC kernel upstreaming status, issues,
   etc.
-layout: post
+featured_image_name: BUD17-204.jpg
+image:
+  featured: true
+  name: BUD17-204.jpg
+  path: /assets/images/featured-images/BUD17-204.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-204/
+post_format:
+- Video
 session_id: BUD17-204
 session_track: Kernel
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73262773
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/qc-upstream-bof-bud17204-speaker-stephen-boyd
 slug: bud17-204
 speakers: Stephen Boyd
-title: QC Upstream BOF - BUD17-204
-video_length: 00:00
-video_thumbnail: None
-wordpress_id: 4643
-youtube_video_url: https://youtu.be/IFsyj_-ZM-Q
-categories:
-- bud17
-post_format:
-- Video
 tags:
 - BoF
 - Kernel
 - QC
 - Upstream
+title: QC Upstream BOF - BUD17-204
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4643
+youtube_video_url: https://youtu.be/IFsyj_-ZM-Q
 ---
 
 "Session ID: BUD17-204

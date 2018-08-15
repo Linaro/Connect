@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Monday/LAS16-101%20-%20Efficient_kernel_backporting.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Monday/LAS16-101%20Efficient%20kernel%20Backporting.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:26+00:00
+date: 2016-09-20 17:10:26
 excerpt: In computer/mobile product world, due to the stability, project timeline,
   etc considerations, latest upstream kernel isn't their preference. The long term
   stable kernel is. But if you want to some of the latest features which only is in
@@ -14,24 +16,28 @@ excerpt: In computer/mobile product world, due to the stability, project timelin
   We will use some examples, to discuss how to get info from backport request, how
   to find necessary commits, how to get dependency, how to resolve conflicts, and
   finally how to test it.
-layout: post
+featured_image_name: LAS16-101.png
+image:
+  featured: true
+  name: LAS16-101.png
+  path: /assets/images/featured-images/LAS16-101.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-101/
+post_format:
+- Video
 session_id: LAS16-101
 session_track: Core Development
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66323348
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16101-efficient-kernel-backporting
 slug: las16-101
 speakers: Alex Shi
+tags:
+- Kernel
 title: 'LAS16-101: Efficient kernel backporting'
 video_length: '51:53'
 video_thumbnail: None
 wordpress_id: 3794
 youtube_video_url: https://www.youtube.com/watch?v=-z7_eOR7_Ug
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Kernel
 ---
 
 LAS16-101: Efficient kernel backporting
@@ -43,10 +49,10 @@ In computer/mobile product world, due to the stability, project timeline, etc co
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-101
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-101/](http://connect.linaro.org/resource/las16/las16-101/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-101/](/resources/las16/las16-101/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

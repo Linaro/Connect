@@ -2,8 +2,10 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-103%20The%20Challenge%20of%20SVE%20on%20QEMU.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-103%20The%20challenge%20of%20SVE%20in%20QEMU.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:53:39+00:00
+date: 2017-10-06 16:53:39
 excerpt: 'ARM''s Scalable Vector Extensions present an innovative way of scaling silicon
   performance without needing to constantly re-write your code. However for a system
   emulator like QEMU it presents a number of challenges. There are fairly routine
@@ -18,22 +20,26 @@ excerpt: 'ARM''s Scalable Vector Extensions present an innovative way of scaling
   seriously we need to look at improving our testing tools that currently have naive
   assumptions about results of an individual instruction across various implementations.
   As you will see implementing SVE is more than just adding a few extra instructions.'
-layout: post
+featured_image_name: SFO17-103.jpg
+image:
+  featured: true
+  name: SFO17-103.jpg
+  path: /assets/images/featured-images/SFO17-103.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-103/
+post_format:
+- Video
 session_id: SFO17-103
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/81026772
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/the-challenge-of-sve-in-qemu-sfo17103-81026772
 slug: sfo17-103
-speakers: Alex Bennée
+speakers: "Alex Benn\xE9e"
 title: The challenge of SVE in QEMU - SFO17-103
 video_length: '26:09'
 video_thumbnail: None
 wordpress_id: 5920
 youtube_video_url: https://www.youtube.com/watch?v=fzxMD7uFfBY
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-103

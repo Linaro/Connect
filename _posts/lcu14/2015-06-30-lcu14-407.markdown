@@ -1,5 +1,5 @@
 ---
-author: kyle.kirkby
+author: connect
 comments: true
 date: 2015-06-30 17:07:52+00:00
 excerpt: 'All Linaro Android builds for ARMv8 AArch64 are going to be enabled for
@@ -7,7 +7,7 @@ excerpt: 'All Linaro Android builds for ARMv8 AArch64 are going to be enabled fo
   on SELinux for Android, topics covered are : SELinux related kernel configs SELinux
   settings on init SE policy, how to read and create new policy Problems we met when
   enabling selinux and solutions we found.'
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-407/
 session_id: LCU14-407
 session_track: Android

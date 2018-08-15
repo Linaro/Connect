@@ -1,31 +1,37 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-207%20-%20Bus%20scaling%20QoS.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Tuesday/LAS16-207%20Bus%20scaling%20QoS.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:45+00:00
+date: 2016-09-20 17:10:45
 excerpt: System has a lot of interconnect bus that have to be set to provide throughputs
   to devices of the system. We are working on adding missing pieces to let device
   set the performance requirements to the performance provider that are interconnect
   bus.
-layout: post
+featured_image_name: LAS16-207.png
+image:
+  featured: true
+  name: LAS16-207.png
+  path: /assets/images/featured-images/LAS16-207.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-207/
+post_format:
+- Video
 session_id: LAS16-207
 session_track: Core Development
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357118
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16207-bus-scaling-qos
 slug: las16-207
 speakers: Georgi Djakov
+tags:
+- Power Management
 title: 'LAS16-207: Bus scaling QoS'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3814
 youtube_video_url: https://youtu.be/uCTmfrzTbW4
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Power Management
 ---
 
 LAS16-207: Bus scaling QoS
@@ -37,10 +43,10 @@ System has a lot of interconnect bus that have to be set to provide throughputs 
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-207
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-207/](http://connect.linaro.org/resource/las16/las16-207/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-207/](/resources/las16/las16-207/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

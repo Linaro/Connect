@@ -1,33 +1,39 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Monday/LAS16-102%20-%20Writing%20Effective%20Automated%20Tests.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Monday/LAS16-102%20Writing%20Effective%20Automated%20Tests.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:26+00:00
+date: 2016-09-20 17:10:26
 excerpt: 'In this session we will discuss techniques and tools for writing automated
   tests that are robust, extensible and maintainable. The speakers will provide an
   initial presentation of the their own point of view on the subject, but audience
   participation is expected, and encouraged. Some topics that will be covered: UIAutomator
   andAndroidViewClient for UI testing on Android; shunit2 and clitest for organizing
   test suites; best practices for shell scripts.'
-layout: post
+featured_image_name: LAS16-102.png
+image:
+  featured: true
+  name: LAS16-102.png
+  path: /assets/images/featured-images/LAS16-102.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-102/
+post_format:
+- Video
 session_id: LAS16-102
 session_track: Automation & CI
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66323525
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16102-writing-effective-automated-tests
 slug: las16-102
 speakers: Milosz Wasilewski, AntonioTerceiro
+tags:
+- QA
 title: 'LAS16-102: Writing Effective Automated Tests'
 video_length: '37:31'
 video_thumbnail: None
 wordpress_id: 3795
 youtube_video_url: https://www.youtube.com/watch?v=_O3biENV1gc
-categories:
-- las16
-post_format:
-- Video
-tags:
-- QA
 ---
 
 LAS16-102: Writing Effective Automated Tests
@@ -39,10 +45,10 @@ In this session we will discuss techniques and tools for writing automated tests
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-102
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-102/](http://connect.linaro.org/resource/las16/las16-102/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-102/](/resources/las16/las16-102/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

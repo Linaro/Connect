@@ -1,28 +1,34 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-300k1.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-300k1.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:12:48+00:00
-excerpt: At scale everything changes. It is one thing to operate a datacenter of 10K
-  nodes, it’s an entirely different thing to operate millions of nodes across 100’s
-  of datacenters around the world.  What works well for enterprises doesn’t necessarily
-  work at scale.
-layout: post
+date: 2018-04-11 14:12:48
+excerpt: "At scale everything changes. It is one thing to operate a datacenter of
+  10K nodes, it\u2019s an entirely different thing to operate millions of nodes across
+  100\u2019s of datacenters around the world.  What works well for enterprises doesn\u2019t
+  necessarily work at scale."
+featured_image_name: HKG18-300K1.png
+image:
+  featured: true
+  name: HKG18-300K1.png
+  path: /assets/images/featured-images/HKG18-300K1.png
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-300k1/
+post_format:
+- Video
 session_id: HKG18-300K1
 session_track: Ecosystem Day;Keynote
 slug: hkg18-300k1
 speakers: Leendert van Doorn
-title: 'HKG18-300K1 - Keynote: Leendert van Doorn “Microsoft Azure: Operating at Hyper-Scale"'
+title: "HKG18-300K1 - Keynote &#58; Leendert van Doorn Microsoft Azure &#58; Operating
+  at Hyper-Scale"
 video_length: '29:13'
 video_thumbnail: None
 wordpress_id: 8770
 youtube_video_url: https://www.youtube.com/watch?v=1yrCO5_KGk0
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-300K1
@@ -31,16 +37,16 @@ Speaker: Leendert van Doorn
 Track: Ecosystem Day;Keynote
 
 
-★ Session Summary ★
+## Session Summary
 At scale everything changes. It is one thing to operate a datacenter of 10K nodes, it’s an entirely different thing to operate millions of nodes across 100’s of datacenters around the world.  What works well for enterprises doesn’t necessarily work at scale.
 
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-300k1/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-300k1.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-300k1.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -55,8 +61,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Leendert van Doorn
+**Speakers**: Leendert van Doorn
 
-Speaker Positions: Dinstinguished Engineer
-
-
+**Speaker Positions**: Dinstinguished Engineer

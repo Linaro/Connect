@@ -1,8 +1,8 @@
 ---
-author: kyle.kirkby
+author: connect
 comments: true
 date: 2015-06-30 17:07:38+00:00
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-507/
 session_id: LCU14-507
 slug: lcu14-507

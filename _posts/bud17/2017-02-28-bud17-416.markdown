@@ -1,32 +1,38 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-416%20-%20Benchmark%20and%20Profiling%20in%20OP-TEE.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-416%20Benchmark%20and%20profiling%20in%20OP-TEE.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:51+00:00
+date: 2017-02-28 12:05:51
 excerpt: Benchmark and profiling are two newly developed features in OP-TEE. In this
   session we will cover what has been done and what is left to do and a bit about
   how it has been implemented.
-layout: post
+featured_image_name: BUD17-416.jpg
+image:
+  featured: true
+  name: BUD17-416.jpg
+  path: /assets/images/featured-images/BUD17-416.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-416/
+post_format:
+- Video
 session_id: BUD17-416
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786979
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17416-benchmark-and-profiling-in-optee
 slug: bud17-416
 speakers: Jerome Forissier, Igor Opaniuk
+tags:
+- benchmark
+- OP-TEE
+- Security
 title: Benchmark and profiling in OP-TEE - BUD17-416
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4706
 youtube_video_url: https://youtu.be/gr6AxvqfDds
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- benchmark
-- OP-TEE
-- Security
 ---
 
 "Session ID: BUD17-416

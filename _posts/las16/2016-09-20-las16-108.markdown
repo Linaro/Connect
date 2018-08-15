@@ -1,32 +1,38 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Monday/LAS16-108%20-%20JerryScript%20and%20other%20scripting%20languages%20for%20IoT.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Monday/LAS16-108%20Jerryscript%20and%20other%20scripting%20languages%20for%20IoT.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:34+00:00
+date: 2016-09-20 17:10:34
 excerpt: Overview of small-size/low-resource VHLL (very high-level languages)/scripting
   languages available for embedded/IoT usage (JavaScript, Python, Lua, etc.). Typical/possible
   usage scenarios and benefits. Challenges of running VHLLs in deeply embedded/very
   resource-constrained environments. Progress reports on porting JerryScript to Zephyr.
   (Possibly, architecture comparison of JerryScript and MicroPython).
-layout: post
+featured_image_name: LAS16-108.png
+image:
+  featured: true
+  name: LAS16-108.png
+  path: /assets/images/featured-images/LAS16-108.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-108/
+post_format:
+- Video
 session_id: LAS16-108
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66437485
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16108-jerryscript-and-other-scripting-languages-for-iot
 slug: las16-108
 speakers: Paul Sokolovsky
+tags:
+- LITE
 title: 'LAS16-108: JerryScript and other scripting languages for IoT'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3801
 youtube_video_url: https://youtu.be/E8MptBmh20M
-categories:
-- las16
-post_format:
-- Video
-tags:
-- LITE
 ---
 
 LAS16-108: JerryScript and other scripting languages for IoT
@@ -38,10 +44,10 @@ Overview of small-size/low-resource VHLL (very high-level languages)/scripting l
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-108
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-108/](http://connect.linaro.org/resource/las16/las16-108/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-108/](/resources/las16/las16-108/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

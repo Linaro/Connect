@@ -1,30 +1,36 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-302%20-%20Introduction%20to%20LLVM%20-%20Projects%2C%20Components%2C%20Integration%2C%20Internals.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-302%20LLVM%20Internals%20%202.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:39+00:00
-excerpt: Continuing from LAS16 and, if we have time, introducing global isel that
-  we’re working on.
-layout: post
+date: 2017-02-28 12:05:39
+excerpt: "Continuing from LAS16 and, if we have time, introducing global isel that
+  we\u2019re working on."
+featured_image_name: BUD17-302.jpg
+image:
+  featured: true
+  name: BUD17-302.jpg
+  path: /assets/images/featured-images/BUD17-302.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-302/
+post_format:
+- Video
 session_id: BUD17-302
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786446
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17302-llvm-internals-2
 slug: bud17-302
 speakers: Renato Golin, Peter Smith, Diana Picus, Omair Javaid, Adhemerval Zanella
+tags:
+- LLVM
+- Toolchain
 title: 'LLVM Internals #2 - BUD17-302'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4668
 youtube_video_url: https://youtu.be/9h0zDr4GtsY
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- LLVM
-- Toolchain
 ---
 
 "Session ID: BUD17-302

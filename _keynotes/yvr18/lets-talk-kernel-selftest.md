@@ -1,10 +1,10 @@
 ---
 title: Let's Talk Kernel Selftest
-speaker: Shuah Khan
+speaker: shuah-khan
 event_code: YVR18
 keynote: true
-start_time: 8:45
-finish_time: 9:15
+start_time: "8:45"
+finish_time: "9:15"
 day: Wednesday
 session_id: YVR18-300K1
 ---

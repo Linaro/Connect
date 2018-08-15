@@ -1,17 +1,27 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-DF01.pdf
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- demo-friday
 comments: false
-date: 2017-03-23 16:45:50+00:00
+date: 2017-03-23 16:45:50
 excerpt: 'Linux and Xenomai applied to pan and tilt motor control using GPIOs
 
 
-  '
-layout: post
+'
+featured_image_name: BUD17-DF01.jpg
+image:
+  featured: true
+  name: BUD17-DF01.jpg
+  path: /assets/images/featured-images/BUD17-DF01.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df01/
+post_format:
+- Video
 session_id: BUD17-DF01
 session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73367894
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/db410c-face-tracking-and-motor-control
 slug: bud17-df01
 speakers: None
@@ -20,10 +30,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5706
 youtube_video_url: None
-categories:
-- Demo Friday
-post_format:
-- Video
 ---
 
 Linux and Xenomai applied to pan and tilt motor control using GPIOs

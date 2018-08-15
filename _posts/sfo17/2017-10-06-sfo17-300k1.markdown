@@ -2,13 +2,23 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-300K1.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/Intelligent%252C%20Connected%20Future%20%257C%20Open%20Source%20License%20Enforcement-%20to%20sue%20or%20not%20to%20sue%20%257C%20%2523SFO17.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:55:02+00:00
+date: 2017-10-06 16:55:02
 excerpt: The Intelligent, Connected Future
-layout: post
+featured_image_name: SFO17-300K1.jpg
+image:
+  featured: true
+  name: SFO17-300K1.jpg
+  path: /assets/images/featured-images/SFO17-300K1.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-300k1/
+post_format:
+- Video
 session_id: SFO17-300K1
 session_track: Keynote
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80263611
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/keynote-the-intelligent-connected-future-matt-grob-qualcomm-sfo17300k1
 slug: sfo17-300k1
 speakers: Matt Grob
@@ -17,10 +27,6 @@ video_length: '53:34'
 video_thumbnail: None
 wordpress_id: 6000
 youtube_video_url: https://www.youtube.com/watch?v=qVlGTPWhQoQ
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-300K1

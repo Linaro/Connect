@@ -8,7 +8,7 @@ excerpt: Ceph block I/O performance is the basis for achieving database and virt
   storage with Arm processors can be deployed an optimal cost justification on a $/GB
   basis. This presentation provides an overview of storage performance benchmarks
   to help formulate a scalable Ceph cluster environment for performance-oriented deployments.
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-452/
 session_id: SFO17-452
 session_track: LEG

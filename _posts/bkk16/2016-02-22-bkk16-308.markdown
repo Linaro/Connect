@@ -1,38 +1,42 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-308.pdf
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:46+00:00
-excerpt: "ATOS is an Auto Tuning Optimization System that is able to find automatically\
-  \ the best performance/size tradeoff from a build system and a training application.\
-  \ The input of ATOS tools are a build command and a run command. From the build\
-  \ command, ATOS will infer an internal build configuration that it will run with\
-  \ different sets of compiler options. These build configurations are executed with\
-  \ the run command from which code size and performance will be extracted.\n   From\
-  \ the set of build configurations that ATOS explores, one can extract the preferred\
-  \ trade-off between code size and performance. The extracted build configuration\
-  \ can be archived and replayed later in order to generate the optimized executable\
-  \ without any modification into the initial build system.\n    The nice property\
-  \ of ATOS is that NO modification of the sources or the makefiles are needed. ATOS\
-  \ can work on any large/deep project, as soon as the compiler used is gcc or LLVM\
-  \ under Linux."
-layout: post
+date: 2016-02-22 17:20:46
+excerpt: ATOS is an Auto Tuning Optimization System that is able to find automatically
+  the best performance/size tradeoff from a build system and a training application.
+  The input of ATOS tools are a build command and a run command. From the build command,
+  ATOS will infer an internal build configuration that it will run with different
+  sets of compiler options. These build configurations are executed with the run command
+  from which code size and performance will be extracted.,    From the set of build
+  configurations that ATOS explores, one can extract the preferred trade-off between
+  code size and performance. The extracted build configuration can be archived and
+  replayed later in order to generate the optimized executable without any modification
+  into the initial build system.,     The nice property of ATOS is that NO modification
+  of the sources or the makefiles are needed. ATOS can work on any large/deep project,
+  as soon as the compiler used is gcc or LLVM under Linux.
+featured_image_name: BKK16-308.jpg
+image:
+  featured: true
+  name: BKK16-308.jpg
+  path: /assets/images/featured-images/BKK16-308.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-308/
+post_format:
+- Video
 session_id: BKK16-308
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58676271
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16308-the-tool-called-autotuned-optimization-system-atos
 slug: bkk16-308
 speakers: Christian BERTIN
+tags:
+- ATOS
 title: 'BKK16-308: The tool called Auto-Tuned Optimization System (ATOS)'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3350
-categories:
-- bkk16
-post_format:
-- Video
-tags:
-- ATOS
 ---
 
 ATOS is an Auto Tuning Optimization System that is able to find automatically the best performance/size tradeoff from a build system and a training application. The input of ATOS tools are a build command and a run command. From the build command, ATOS will infer an internal build configuration that it will run with different sets of compiler options. These build configurations are executed with the run command from which code size and performance will be extracted.    From the set of build configurations that ATOS explores, one can extract the preferred trade-off between code size and performance. The extracted build configuration can be archived and replayed later in order to generate the optimized executable without any modification into the initial build system.     The nice property of ATOS is that NO modification of the sources or the makefiles are needed. ATOS can work on any large/deep project, as soon as the compiler used is gcc or LLVM under Linux.

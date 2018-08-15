@@ -3,27 +3,33 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   Big Data on ARM.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-23-Wednesday/SF015-300
   Server Ecosystem Day (Part 1).mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-23 00:00:00+00:00
-layout: post
+date: 2015-09-23 00:00:00
+featured_image_name: SFO15300ServerEcosystemDayPart1.jpg
+image:
+  featured: true
+  name: SFO15300ServerEcosystemDayPart1.jpg
+  path: /assets/images/featured-images/SFO15300ServerEcosystemDayPart1.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-300-server-ecosystem-day-part-1/
+post_format:
+- Video
 session_id: None
 session_track: Enterprise Server
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53757494
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15300-server-ecosystem-day-big-data-on-arm
 slug: sfo15-300-server-ecosystem-day-part-1
 speakers: Andrea Gallo
+tags:
+- Enterprise Server
 title: 'SFO15-300: Server Ecosystem Day (Part 1)'
 video_length: '47:23'
 video_thumbnail: None
 wordpress_id: 2833
 youtube_video_url: https://www.youtube.com/watch?v=f9I5DwodLa8
-categories:
-- sfo15
-post_format:
-- Video
-tags:
-- Enterprise Server
 ---
 
 SFO15-300: Server Ecosystem Day (Part 1)

@@ -3,12 +3,22 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   OpenJDK Development.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-23-Wednesday/SFO15-TR6
   Server Ecosystem Day (Part 6b).mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-10-27 17:30:04+00:00
-layout: post
+date: 2015-10-27 17:30:04
+featured_image_name: SFO15TR6ServerEcosystemDayPart6bOpenJDK.jpg
+image:
+  featured: true
+  name: SFO15TR6ServerEcosystemDayPart6bOpenJDK.jpg
+  path: /assets/images/featured-images/SFO15TR6ServerEcosystemDayPart6bOpenJDK.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr6-server-ecosystem-day-part-6b-openjdk/
+post_format:
+- Video
 session_id: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53773931
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15tr6-server-ecosystem-day-part-6
 slug: sfo15-tr6-server-ecosystem-day-part-6b-openjdk
 title: SFO15 TR6 Server Ecosystem Day Part 6b (OpenJDK)
@@ -16,10 +26,6 @@ video_length: '12:11'
 video_thumbnail: None
 wordpress_id: 2901
 youtube_video_url: https://www.youtube.com/watch?v=U3DVzL4Yrko
-categories:
-- sfo15
-post_format:
-- Video
 ---
 
 16:30 – Linaro: OpenJDK on ARM, where we are today

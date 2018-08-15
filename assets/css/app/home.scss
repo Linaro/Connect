@@ -593,3 +593,55 @@ div#intro-row {
     padding-bottom: 100px;
     padding-top: 20px;
 }
+//Speakers Section
+.img-responsive.speaker-image {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    background-position:  center center;
+    background-size:  cover;
+    background-repeat:  no-repeat;
+    border: 1px solid #eaeaea;
+}
+.speaker-block {
+    text-align: center;
+}
+#speakers-row {
+    margin-bottom: 80px;
+}
+#speakers-row h2 {
+    margin-bottom: 80px;
+}
+span.keynote_title {
+    display: block;
+    margin: 20px 0px;
+    font-size: 24px;
+}
+.speaker-block {
+    min-height: 500px;
+}
+span.keynote_title {
+    display: block;
+    margin: 20px 20px;
+    font-size: 24px;
+}
+span.keynote_time {
+    padding: 5px;
+    background-color: #e2e2e2;
+    border: 1px solid #c5c5c5;
+    margin-top: 23px;
+    display:  block;
+    width: 194px;
+    margin-left: auto;
+    margin-right: auto;
+}
+//Home page owl carousel
+.owl-stage-outer {
+    height: 500px;
+}
+.owl-nav {
+    text-align: center;
+}
+span.keynote_title {
+    height: 130px;
+}

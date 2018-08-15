@@ -21,7 +21,7 @@ excerpt: 'The Power Management Working Group (PMWG) is hosting topic focused hac
   16:45        45m        Automate power model generation        Leo Yan
 
   17:30        45m        IPA on Pixel        Ionela Voinescu'
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-pm01/
 session_id: SFO17-PM01
 session_track: Power Management

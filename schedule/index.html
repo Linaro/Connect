@@ -28,7 +28,16 @@ css-package: blog
             }
             </style>
             <script type="text/javascript">
-                $( document ).ready( function($) {
+            function defer(method) {
+                if (window.jQuery) {
+                    method();
+                } else {
+                    setTimeout(function() { defer(method) }, 50);
+                }
+            }
+            
+            defer(function () {
+                $( document ).ready( function() {
                     $.ajax({ url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTfxF3EqStN-AvTUPxuhgG9LPmJ43M0N7Cwm3u6gVxEInNri7yW57EF2FxlNGVNYV-cfDOSR4i7BruZ/pubhtml?gid=1839914928&single=true', dataType: 'html', crossDomain: true, success:         function(response) {
                          var tableEl = $(response).find('.grid-container');
                          $('#schedule').html(response).promise().done(function(){
@@ -42,6 +51,9 @@ css-package: blog
                            
                     });
                 });
+            });
+
+                
             </script>
             
             <div id="schedule"></div>

@@ -33,6 +33,8 @@ pages:
             url: /important-dates/
           - text: Visa/Business Invitation Letters
             url: /business-invitation-letters/
+          - text: Schedule
+            url: /schedule/
           - text: Code of Conduct
             url: /code-of-conduct/
           - text: FAQ
@@ -40,12 +42,6 @@ pages:
     - title: Sponsors
       url: /sponsors/
     - title: Resources
-      options:
-          - text: All Resources
-            url: /resources/
-          - text: HKG18
-            url: /resources/hkg18/
-          - text: SFO17
-            url: /resources/sfo17/
+      data: site.data.connects
     - title: Blog
       url: /blog/

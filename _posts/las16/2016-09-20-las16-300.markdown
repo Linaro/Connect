@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-300-%20Device%20Configuration%20.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-300%20Mini%20Conference%202%20Cortex-M%20Software%20-%20Device%20Configuration.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:48+00:00
+date: 2016-09-20 17:10:48
 excerpt: SoC Vendors, board vendors, software middle layers, scripting languages,
   etc all need to have access to system configuration information (pin muxes, what
   sensors are on a system, what amount of memory, flash, etc, etc). We need a means
@@ -11,25 +13,29 @@ excerpt: SoC Vendors, board vendors, software middle layers, scripting languages
   footprint devices. This session will be to discuss the topic, how its done today,
   what kinda tooling might exist from different vendors, what we could utilize (device
   tree) and what issues that creates.
-layout: post
+featured_image_name: LAS16-300.png
+image:
+  featured: true
+  name: LAS16-300.png
+  path: /assets/images/featured-images/LAS16-300.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-300/
+post_format:
+- Video
 session_id: LAS16-300
 session_track: Mini-Conference
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357348
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16300-mini-conference-2-cortexm-software-device-configuration
 slug: las16-300
 speakers: Andy Gross
+tags:
+- IoT
+- LITE
 title: 'LAS16-300: Mini Conference 2 RTOS-Zephyr - Device Configuration'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3824
 youtube_video_url: https://youtu.be/ehbeqDi7Jf4
-categories:
-- las16
-post_format:
-- Video
-tags:
-- IoT
-- LITE
 ---
 
 LAS16-300: Mini Conference 2 RTOS-Zephyr - Device Configuration
@@ -41,10 +47,10 @@ SoC Vendors, board vendors, software middle layers, scripting languages, etc all
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-300
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-300/](http://connect.linaro.org/resource/las16/las16-300/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-300/](/resources/las16/las16-300/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

@@ -20,7 +20,7 @@ excerpt: 'The Power Management Working Group (PMWG) is hosting topic focused hac
   16:40        35m        PMWG Board Farm status        Lisa Nguyen
 
   17:15        45m        Memory Power down        Daniel Lezcano'
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-pm03/
 session_id: SFO17-PM03
 session_track: Power Management

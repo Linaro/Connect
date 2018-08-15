@@ -1,30 +1,35 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Wednesday/BKK16-301A.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Wednesday/BKK16-301A%20Expanding%20the%20Enterprise%20Landscape%20in%20CentOS.mp4
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:43+00:00
+date: 2016-02-22 17:20:43
 excerpt: This talk will focus on the current state of enterprise tooling within CentOS,
   what we plan to add in the future, and how the community can help. We'll cover OpenStack,
   storage with Ceph and Gluster, as well as building and managing Docker containers.
-layout: post
+featured_image_name: BKK16-301A.jpg
+image:
+  featured: true
+  name: BKK16-301A.jpg
+  path: /assets/images/featured-images/BKK16-301A.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-301a/
+post_format:
+- Video
 session_id: BKK16-301A
 session_track: LEG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58879934
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16301a-expanding-the-enterprise-landscape-in-centos
 slug: bkk16-301a
 speakers: Jim Perrin
+tags:
+- CentOS OpenStack Ceph Gluster Docker
 title: 'BKK16-301A: Expanding the enterprise landscape in CentOS'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3341
 youtube_video_url: https://youtu.be/7fcOfMcy6KM
-categories:
-- bkk16
-post_format:
-- Video
-tags:
-- CentOS OpenStack Ceph Gluster Docker
 ---
 
 This talk will focus on the current state of enterprise tooling within CentOS, what we plan to add in the future, and how the community can help. We'll cover OpenStack, storage with Ceph and Gluster, as well as building and managing Docker containers.

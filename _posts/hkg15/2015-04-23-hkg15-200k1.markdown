@@ -1,28 +1,29 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-10-Tuesday/HKG15-200K1.pdf
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:37:01+00:00
-layout: post
+date: 2015-04-23 15:37:01
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-200k1/
+post_format:
+- Video
 session_id: HKG15-200K1
 session_track: General
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44750236
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15the-machine-a-new-kind-of-computer-keynote-by-dejan-milojicic
 slug: hkg15-200k1
 speakers: Dejan Milojicic
-title: 'HKG15-200K1 : The Machine: A new kind of computer'
-video_length: 00:00
-video_thumbnail: None
-wordpress_id: 713
-categories:
-- hkg15
-post_format:
-- Video
 tags:
 - Dejan Milojicic
 - General
 - hkg15
 - HKG15-200K1
+title: 'HKG15-200K1 : The Machine: A new kind of computer'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 713
 ---
 
 No Content Found

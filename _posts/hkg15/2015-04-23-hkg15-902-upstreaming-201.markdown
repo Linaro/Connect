@@ -1,29 +1,35 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-10-Tuesday/HKG15-902.pdf
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:37:08+00:00
-layout: post
+date: 2015-04-23 15:37:08
+featured_image_name: HKG15-902.jpg
+image:
+  featured: true
+  name: HKG15-902.jpg
+  path: /assets/images/featured-images/HKG15-902.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-902-upstreaming-201/
+post_format:
+- Video
 session_id: HKG15-902
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44896634
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15901-upstreaming-201
 slug: hkg15-902-upstreaming-201
 speakers: Matt Porter
-title: 'HKG15-902: Upstreaming 201'
-video_length: '40:43'
-video_thumbnail: None
-wordpress_id: 729
-youtube_video_url: https://www.youtube.com/watch?v=yhQdSP2436I
-categories:
-- hkg15
-post_format:
-- Video
 tags:
 - hkg15
 - HKG15-902
 - Matt Porter
 - Training
+title: 'HKG15-902: Upstreaming 201'
+video_length: '40:43'
+video_thumbnail: None
+wordpress_id: 729
+youtube_video_url: https://www.youtube.com/watch?v=yhQdSP2436I
 ---
 
 HKG15-902: Upstreaming 201 

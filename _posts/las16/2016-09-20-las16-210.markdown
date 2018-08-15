@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-210%20-%20Hardware%20Assisted%20Tracing%20on%20ARM%20with%20CoreSight%20and%20OpenCSD.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Tuesday/LAS16-210%20Hardware%20Assited%20Tracing%20on%20ARM%20with%20CoreSight%20and%20OpenCSD.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:45+00:00
+date: 2016-09-20 17:10:45
 excerpt: The CoreSight framework available in the Linux kernel has recently been integrated
   with the standard Perf trace system, making HW assisted tracing on ARM systems accessible
   to developers working on a wide spectrum of products. This presentation will start
@@ -15,24 +17,28 @@ excerpt: The CoreSight framework available in the Linux kernel has recently been
   provide an end-to-end solution for CoreSight trace decoding. The presentation will
   conclude with trace acquisition and decoding scenarios, along with tips on how to
   interpret trace information rendered by the perf tools.
-layout: post
+featured_image_name: LAS16-210.png
+image:
+  featured: true
+  name: LAS16-210.png
+  path: /assets/images/featured-images/LAS16-210.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-210/
+post_format:
+- Video
 session_id: LAS16-210
 session_track: Core Development
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357208
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16210-hardware-assisted-tracing-on-arm-with-coresight-and-opencsd
 slug: las16-210
 speakers: Mathieu Poirier
+tags:
+- Kernel
 title: 'LAS16-210: Hardware Assisted Tracing on ARM with CoreSight and OpenCSD'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3817
 youtube_video_url: https://youtu.be/wBM6Ejf0aFs
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Kernel
 ---
 
 LAS16-210: Hardware Assisted Tracing on ARM with CoreSight and OpenCSD
@@ -44,10 +50,10 @@ The CoreSight framework available in the Linux kernel has recently been integrat
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-210
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-210/](http://connect.linaro.org/resource/las16/las16-210/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-210/](/resources/las16/las16-210/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

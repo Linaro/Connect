@@ -2,24 +2,34 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-106%20QEMU.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-106%20The%20Purpose%20of%20QEMU%20Emulation.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:53:43+00:00
-excerpt: One of the key features of QEMU is the ability to emulate foreign computer
+date: 2017-10-06 16:53:43
+excerpt: "One of the key features of QEMU is the ability to emulate foreign computer
   architectures. This means, for example, that you can run your favorite ARM binaries
   and system images on your x86 laptop or server. QEMU is used a key tool for engineers
   and test infrastructure across both ARM and x86 ecosystems, and is also the basis
-  of the Android emulator. QEMU’s emulation features is also used for system modeling
-  in some scenarios. In this session we will present what QEMU currently does well
-  as an emulator, and what the QEMU project has deliberately deemed as out-of-scope.
+  of the Android emulator. QEMU\u2019s emulation features is also used for system
+  modeling in some scenarios. In this session we will present what QEMU currently
+  does well as an emulator, and what the QEMU project has deliberately deemed as out-of-scope.
   We will also discuss future avenues that could be pursued to further improve capabilities
   of QEMU emulation, such as adding support for new architecture features, and support
   writing device emulation in a higher level language than C. We encourage the audience
   to provide user stories of QEMU from Linaro member companies to help direct our
-  efforts.
-layout: post
+  efforts."
+featured_image_name: SFO17-106.jpg
+image:
+  featured: true
+  name: SFO17-106.jpg
+  path: /assets/images/featured-images/SFO17-106.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-106/
+post_format:
+- Video
 session_id: SFO17-106
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80641678
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/the-purpose-of-qemu-emulation-sfo17106
 slug: sfo17-106
 speakers: Christoffer Dall
@@ -28,10 +38,6 @@ video_length: '26:45'
 video_thumbnail: None
 wordpress_id: 5926
 youtube_video_url: https://www.youtube.com/watch?v=gVun2PHlwH4
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-106

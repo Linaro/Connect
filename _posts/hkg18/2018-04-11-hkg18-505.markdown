@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-505.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-505.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:14:39+00:00
+date: 2018-04-11 14:14:39
 excerpt: 'UEFI is a firmware specification created by Intel with portability in mind.
   The UEFI way of doing that was to provide special UEFI byte code (EBC). Unfortunately
   nobody really cared so compiler, firmware support and providers of EBC option roms
@@ -19,8 +21,15 @@ excerpt: 'UEFI is a firmware specification created by Intel with portability in 
   Join me in exploring the depth of UEFI binary interfaces, marshalling between different
   architecture''s function call ABIs on the fly and learn how to integrate all of
   this into a working firmware, running on real hardware, driving a real PCIe adapter.'
-layout: post
+featured_image_name: HKG18-505.png
+image:
+  featured: true
+  name: HKG18-505.png
+  path: /assets/images/featured-images/HKG18-505.png
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-505/
+post_format:
+- Video
 session_id: HKG18-505
 session_track: LEG
 slug: hkg18-505
@@ -30,10 +39,6 @@ video_length: '42:21'
 video_thumbnail: None
 wordpress_id: 8840
 youtube_video_url: https://www.youtube.com/watch?v=ICP_3_-CYSQ
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-505
@@ -42,19 +47,19 @@ Speaker: Alexander Graf
 Track: LEG
 
 
-★ Session Summary ★
+## Session Summary
 UEFI is a firmware specification created by Intel with portability in mind. The UEFI way of doing that was to provide special UEFI byte code (EBC). Unfortunately nobody really cared so compiler, firmware support and providers of EBC option roms ceased and basically every UEFI option rom today contains native x86(_64) machine code.
 
 If you now want to plug a PCIe card into your shiny ARM server, that means even though firmware would be compatible it still can't execute the option rom. Until you add QEMU to the mix.
 
 Join me in exploring the depth of UEFI binary interfaces, marshalling between different architecture's function call ABIs on the fly and learn how to integrate all of this into a working firmware, running on real hardware, driving a real PCIe adapter.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-505/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-505.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-505.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -69,8 +74,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Alexander Graf
+**Speakers**: Alexander Graf
 
-Speaker Positions: Principal Software Engineer
-
-
+**Speaker Positions**: Principal Software Engineer

@@ -1,32 +1,38 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-12-Thursday/HKG15-401.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-12-Thursday/HKG15-401+Ceph+and+Software+Defined+Storage+on+ARM+servers.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg15
 comments: true
-date: 2015-04-23 15:36:27+00:00
+date: 2015-04-23 15:36:27
 excerpt: Running Ceph in the colocation, ongoing optimizations
-layout: post
+featured_image_name: HKG15-401.jpg
+image:
+  featured: true
+  name: HKG15-401.jpg
+  path: /assets/images/featured-images/HKG15-401.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-401-ceph-and-software-defined-storage-on-arm-servers/
+post_format:
+- Video
 session_id: HKG15-401
 session_track: Enterprise Server
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44514487
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15401-ceph-and-software-defined-storage-on-arm-servers
 slug: hkg15-401-ceph-and-software-defined-storage-on-arm-servers
 speakers: Yazen Ghannam, Steve Capper
-title: HKG15-401 Ceph and Software Defined Storage on ARM servers
-video_length: '33:25'
-video_thumbnail: None
-wordpress_id: 748
-youtube_video_url: https://www.youtube.com/watch?v=RdZojLL7ttk
-categories:
-- hkg15
-post_format:
-- Video
 tags:
 - Enterprise Server
 - hkg15
 - HKG15-401
 - Steve Capper
 - Yazen Ghannam
+title: HKG15-401 Ceph and Software Defined Storage on ARM servers
+video_length: '33:25'
+video_thumbnail: None
+wordpress_id: 748
+youtube_video_url: https://www.youtube.com/watch?v=RdZojLL7ttk
 ---
 
 HKG15-401: Ceph and Software Defined Storage on ARM servers 

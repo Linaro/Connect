@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-112.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-112.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:11:12+00:00
+date: 2018-04-11 14:11:12
 excerpt: Ceph is a unified, distributed storage system designed for excellent performance,
   reliability and scalability. Ceph can supply block storage service within Clould
   production. SPDK (Storage Performance Development Kit) is a technology to improve
@@ -11,10 +13,18 @@ excerpt: Ceph is a unified, distributed storage system designed for excellent pe
   how to accelerate Ceph by SPDK on AArch64 platform. SPDK can improve the IOPs of
   Ceph cluster, reduce the data transmission latency and reduce the CPU cost. It will
   make Ceph cluster profit from multi-core advantage on AArch64 platform.
-layout: post
+featured_image_name: HKG18-112.png
+image:
+  featured: true
+  name: HKG18-112.png
+  path: /assets/images/featured-images/HKG18-112.png
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-112/
+post_format:
+- Video
 session_id: HKG18-112
 session_track: Enterprise
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92877695
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18112-accelerate-ceph-by-spdk-on-aarch64
 slug: hkg18-112
 speakers: Jun He
@@ -23,10 +33,6 @@ video_length: '26:33'
 video_thumbnail: None
 wordpress_id: 8710
 youtube_video_url: https://www.youtube.com/watch?v=RkTG9eYe4Ko
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-112
@@ -35,15 +41,15 @@ Speaker: Jun He
 Track: Enterprise
 
 
-★ Session Summary ★
+## Session Summary
 Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. Ceph can supply block storage service within Clould production. SPDK (Storage Performance Development Kit) is a technology to improve the performance of nonvolatile media (NVMe SSD) and networking. The paper will introduce how to accelerate Ceph by SPDK on AArch64 platform. SPDK can improve the IOPs of Ceph cluster, reduce the data transmission latency and reduce the CPU cost. It will make Ceph cluster profit from multi-core advantage on AArch64 platform.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-112/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-112.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-112.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -58,8 +64,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Jun He
+**Speakers**: Jun He
 
-Speaker Positions: Staff Software Engineer
-
-
+**Speaker Positions**: Staff Software Engineer

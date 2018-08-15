@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-420.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-420.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:14:39+00:00
+date: 2018-04-11 14:14:39
 excerpt: Device-tree overlay feature allows for runtime modification of flattened
   device-tree. Its useful when device configuration can be fully determined only at
   runtime. Overlay involves merging number of overlay blobs into a base blob after
@@ -13,8 +15,15 @@ excerpt: Device-tree overlay feature allows for runtime modification of flattene
   overlay blob may not be resolved from the base (overlay) blob. This is useful to
   maintain device-tree source code in multiple repositories and merge their binary
   forms together during build.
-layout: post
+featured_image_name: HKG18-420.png
+image:
+  featured: true
+  name: HKG18-420.png
+  path: /assets/images/featured-images/HKG18-420.png
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-420/
+post_format:
+- Video
 session_id: HKG18-420
 session_track: Kernel
 slug: hkg18-420
@@ -24,10 +33,6 @@ video_length: '24:59'
 video_thumbnail: None
 wordpress_id: 8828
 youtube_video_url: https://www.youtube.com/watch?v=ys4R6xHuNNM
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-420
@@ -36,15 +41,15 @@ Speaker: Srivatsa Vaddagiri
 Track: Kernel
 
 
-★ Session Summary ★
+## Session Summary
 Device-tree overlay feature allows for runtime modification of flattened device-tree. Its useful when device configuration can be fully determined only at runtime. Overlay involves merging number of overlay blobs into a base blob after fixing local and external phandle references found in overlay blobs. This discussion will focus on extending overlay feature to allow an overlay blob to be overlaid on another overlay blob, which means that some of the external reference found in overlay blob may not be resolved from the base (overlay) blob. This is useful to maintain device-tree source code in multiple repositories and merge their binary forms together during build.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-420/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-420.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-420.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -59,8 +64,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Srivatsa Vaddagiri
+**Speakers**: Srivatsa Vaddagiri
 
-Speaker Positions: Principal Engineer
-
-
+**Speaker Positions**: Principal Engineer

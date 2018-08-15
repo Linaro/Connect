@@ -1,0 +1,130 @@
+.resource-info i.icon-youtube {
+    color: black;
+}
+.resource-info i.icon-linkedin {
+    color: black;
+}
+.resource-info .col-xs-4 {
+    padding-left: 5px;
+    padding-top: 10px;
+    text-align: center;
+    border-top: 1px solid #f1f1f1;
+    margin-bottom: 10px;
+}
+#wrapper  i.glyphicon.glyphicon-remove-sign {
+    color: #9c9c9c;
+}
+span.event-code-span {
+    padding: 5px;
+    background-color: #fbfbfb;
+    color: #313131;
+    border-radius: 2px;
+    border: 1px solid #ccc;
+}
+.resource-info.col-xs-12.no-padding .col-xs-6{
+    text-align: center;
+    padding: 10px 0px;
+ 
+}
+.resource-info.col-xs-12.no-padding {
+    background-color:#f1f1f1;
+}
+
+.resource-info i.glyphicon.glyphicon-ok-sign {
+    color:#78ac01;
+}
+#wrapper .resource-title.col-xs-12.no-padding h3 {
+    height: 80px;
+    font-size: 14px;
+}
+
+.col-md-4.col-sm-4.col-xs-12.no-padding {
+    margin-bottom: 40px;
+}
+.resource img.img-responsive.lazyloaded {
+    height: 165px;
+    object-fit:  contain;
+}
+
+.resource-block {
+    height: auto;
+    padding: 20px;
+    background-color: #e6e6e6;
+    overflow: auto;
+    margin-left: 5px;
+    border: 1px solid #ccc;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+#wrapper .resource-title.col-xs-12.no-padding h3 {
+    font-weight: normal;
+}
+#wrapper .resource-title.col-xs-12.no-padding {
+
+    background-color:#fbfbfb;
+    padding:10px !important;
+}
+.resource-button {
+    width: 50px;
+    height: 50px;
+    background-color: #f2f2f2;
+    padding: 16px;
+    border-radius: 25px;
+    right: -16px;
+    position:  absolute;
+    bottom: -12px;
+    border: 1px solid #ccc;
+
+    transition: all 500ms ease;
+}
+.resource-button:hover {
+    background-color: #333333;
+    color:white;
+}
+#wrapper .resources-stats {
+    margin-bottom: 20px !important;
+}
+span.track {
+    background-color: #eee;
+    color: black;
+    padding: 5px;
+    border: 1px solid #ccc;
+    display: inline;
+    transition: 500ms all ease;
+}
+span.track:hover {
+    background-color:#333333;
+    color:white;
+}
+.tracks {
+    margin-top: 14px;
+}
+#wrapper .s3-link {
+    padding: 10px;
+    margin-bottom: 31px;
+    margin-top: -25px;
+    height: 58px;
+    border-top: 1px solid #4e4e4e;
+    background-color: #333333;
+    position: relative;
+}
+
+#wrapper a.btn.btn-primary.s3-download {
+    padding: 6px;
+    border-radius: 0px;
+    background-color: black;
+    color:white;
+    border:1px solid #4e4e4e;
+}
+#wrapper a.btn.btn-primary.s3-download:hover {
+    padding: 6px;
+    border-radius: 0px;
+    background-color: #ededed;
+    color:#333333;
+    border:1px solid #4e4e4e;
+}
+#video-skeleton{
+    -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(0%);
+}

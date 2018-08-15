@@ -1,27 +1,37 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-301.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-301.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:12:48+00:00
-excerpt: "Key Takeaways: \n\nWith the drive to increase integration, reduce system\
-  \ costs, accelerate performance, and enhance reliability, software developers are\
-  \ discovering the processor they would like to target is simply not fast enough.\
-  \  This session will help you the system architect or software developer understand\
-  \ how you can architect and develop software on an FPGA integrated processor, and\
-  \ accelerate software code via FPGA accelerators.\n\nAbstract: \nAs a software developer,\
-  \ in order to meet system level performance requirements, you may have realized\
-  \ that your next software project will be targeting a processor inside of an FPGA.\
-  \  How will this impact your development process and what benefits might you gain\
-  \ with this tight integration of processor and FPGA?  Starting from the basics of\
-  \ what FPGAs are (in terms of software programming), this session will provide a\
-  \ simple to understand primer of what modern FPGAs with embedded processors can\
-  \ do.  We will wrap up with examples of how high level synthesis tools can move\
-  \ software to programmable logic hardware enabling dramatic software acceleration."
-layout: post
+date: 2018-04-11 14:12:48
+excerpt: "Key Takeaways: \n\nWith the drive to increase integration, reduce system
+  costs, accelerate performance, and enhance reliability, software developers are
+  discovering the processor they would like to target is simply not fast enough.  This
+  session will help you the system architect or software developer understand how
+  you can architect and develop software on an FPGA integrated processor, and accelerate
+  software code via FPGA accelerators.\n\nAbstract: \nAs a software developer, in
+  order to meet system level performance requirements, you may have realized that
+  your next software project will be targeting a processor inside of an FPGA.  How
+  will this impact your development process and what benefits might you gain with
+  this tight integration of processor and FPGA?  Starting from the basics of what
+  FPGAs are (in terms of software programming), this session will provide a simple
+  to understand primer of what modern FPGAs with embedded processors can do.  We will
+  wrap up with examples of how high level synthesis tools can move software to programmable
+  logic hardware enabling dramatic software acceleration."
+featured_image_name: HKG18-301.png
+image:
+  featured: true
+  name: HKG18-301.png
+  path: /assets/images/featured-images/HKG18-301.png
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-301/
+post_format:
+- Video
 session_id: HKG18-301
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92327087
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18301-dramatically-accelerate-96board-software-via-an-fpga-with-integrated-processors
 slug: hkg18-301
 speakers: Glenn Steiner
@@ -31,10 +41,6 @@ video_length: '58:52'
 video_thumbnail: None
 wordpress_id: 8774
 youtube_video_url: https://www.youtube.com/watch?v=ZYXubMrgTfU
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-301
@@ -43,7 +49,7 @@ Speaker: Glenn Steiner
 Track: LITE
 
 
-★ Session Summary ★
+## Session Summary
 Key Takeaways: 
 
 With the drive to increase integration, reduce system costs, accelerate performance, and enhance reliability, software developers are discovering the processor they would like to target is simply not fast enough.  This session will help you the system architect or software developer understand how you can architect and develop software on an FPGA integrated processor, and accelerate software code via FPGA accelerators.
@@ -53,12 +59,12 @@ As a software developer, in order to meet system level performance requirements,
 
 
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-301/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-301.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-301.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -73,8 +79,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Glenn Steiner
+**Speakers**: Glenn Steiner
 
-Speaker Positions: Senior Manager
-
-
+**Speaker Positions**: Senior Manager

@@ -3,30 +3,36 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   kernelci.org.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-22-Tuesday/SFO15-206
   kernelci.org Kernel Testing BoF.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-22 00:00:00+00:00
+date: 2015-09-22 00:00:00
 excerpt: Thanks to an amazing community the Linux kernel is one of the most tested
   projects, or is it? Do systems like kernelci.org provide value? What is the current
   state of kernelci.org? Is there more we can do?
-layout: post
+featured_image_name: SFO15206kernelciorgKernelTestingBoF.jpg
+image:
+  featured: true
+  name: SFO15206kernelciorgKernelTestingBoF.jpg
+  path: /assets/images/featured-images/SFO15206kernelciorgKernelTestingBoF.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-206-kernelci-org-kernel-testing-bof/
+post_format:
+- Video
 session_id: None
 session_track: Product
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53031213
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15206-kernelciorg-kernel-testing-bof
 slug: sfo15-206-kernelci-org-kernel-testing-bof
 speakers: Kevin Hilman, Tyler Baker
+tags:
+- Kernel
 title: 'SFO15-206: kernelci.org / Kernel Testing BoF'
 video_length: '50:08'
 video_thumbnail: None
 wordpress_id: 2820
 youtube_video_url: https://www.youtube.com/watch?v=OfFDiZYCMqE
-categories:
-- sfo15
-post_format:
-- Video
-tags:
-- Kernel
 ---
 
 SFO15-206: kernelci.org / Kernel Testing BoF

@@ -1,30 +1,35 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-402.pdf
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:51+00:00
+date: 2016-02-22 17:20:51
 excerpt: Regular session taking place at Connect for developers working on Linux distributions
   to share progress on ARM Linux platform support. Users are also welcome to share
   their experiences using Linux distributions on ARM. The goal of the discussion is
   to identify areas in which Linaro can help.
-layout: post
+featured_image_name: BKK16-402.jpg
+image:
+  featured: true
+  name: BKK16-402.jpg
+  path: /assets/images/featured-images/BKK16-402.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-402/
+post_format:
+- Video
 session_id: BKK16-402
 session_track: B&B
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58207759
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16402-cross-distro-bof
 slug: bkk16-402
 speakers: Riku Voipio
+tags:
+- ARM
+- Linux
 title: 'BKK16-402: Cross distro BoF'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3366
-categories:
-- bkk16
-post_format:
-- Video
-tags:
-- ARM
-- Linux
 ---
 
 Regular session taking place at Connect for developers working on Linux distributions to share progress on ARM Linux platform support. Users are also welcome to share their experiences using Linux distributions on ARM. The goal of the discussion is to identify areas in which Linaro can help.

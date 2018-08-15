@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-15-Monday/LCU14-110.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-15-Monday/LCU14-110-+Xen+and+ACPI-+Status+and+challenges.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:11:15+00:00
+date: 2015-06-30 17:11:15
 excerpt: In this development and hacking session, we will be working out development
   issues relating to the developing a prototype of running the Xen hypervisor and
   Dom0 on platforms with only ACPI support. Supporting Xen on ACPI platforms is particularly
@@ -14,28 +16,32 @@ excerpt: In this development and hacking session, we will be working out develop
   be discussing current development challenges and specifically validate the feasibility
   of using the _STA methods to override hardware descriptors consumed or modified
   by Dom0.
-layout: post
+featured_image_name: LCU14-110.jpg
+image:
+  featured: true
+  name: LCU14-110.jpg
+  path: /assets/images/featured-images/LCU14-110.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-110-xen-and-acpi-status-and-challenges/
+post_format:
+- Video
 session_id: LCU14-110
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38847068
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-110-xen-acpi-status-challenges
 slug: lcu14-110-xen-and-acpi-status-and-challenges
 speakers: Naresh Bhat, Christoffer Dall
-title: 'LCU14-110: Xen and ACPI: Status and challenges'
-video_length: '34:19'
-video_thumbnail: None
-wordpress_id: 1514
-youtube_video_url: https://www.youtube.com/watch?v=XHmaNFOd08g
-categories:
-- lcu14
-post_format:
-- Video
 tags:
 - Christoffer Dall
 - lcu14
 - LCU14-110
 - Naresh Bhat
 - Virtualization
+title: 'LCU14-110: Xen and ACPI: Status and challenges'
+video_length: '34:19'
+video_thumbnail: None
+wordpress_id: 1514
+youtube_video_url: https://www.youtube.com/watch?v=XHmaNFOd08g
 ---
 
 LCU14-110: Xen and ACPI: Status and challenges

@@ -1,8 +1,10 @@
 ---
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-212%20Open%20Source%20Automotive%20%20How%20Shared%20Development%20will%20Drive%20the%20Industry%20Forward.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:54:33+00:00
+date: 2017-10-06 16:54:33
 excerpt: The automotive industry has fallen behind the smartphone in terms of features
   and functionality because innovation is too slow, time-to-market is too long and
   there's very little software reuse. Automotive companies like Toyota are now in
@@ -11,8 +13,15 @@ excerpt: The automotive industry has fallen behind the smartphone in terms of fe
   platform will debut in the 2018 US Toyota Camry. General Manager of Automotive,
   Dan Cauchy will discuss this transformation and provide insight into why automakers
   like Toyota are adopting AGL.
-layout: post
+featured_image_name: SFO17-212.jpg
+image:
+  featured: true
+  name: SFO17-212.jpg
+  path: /assets/images/featured-images/SFO17-212.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-212/
+post_format:
+- Video
 session_id: SFO17-212
 session_track: LITE
 slug: sfo17-212
@@ -23,10 +32,6 @@ video_length: '36:22'
 video_thumbnail: None
 wordpress_id: 5979
 youtube_video_url: https://www.youtube.com/watch?v=XSk4oeIRRyU
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-212

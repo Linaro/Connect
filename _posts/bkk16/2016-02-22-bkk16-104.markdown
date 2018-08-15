@@ -1,19 +1,28 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-104.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Monday/BKK16-104%20sched-freq.mp4
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:34+00:00
+date: 2016-02-22 17:20:34
 excerpt: Sched-freq is the integration of the scheduler with cpufreq to yield scheduler-aware
   CPU frequency management. The purpose of the project will be briefly explained.
   The current design will be presented including things like the location of hooks
   in the scheduler and the implicit policy created by those hooks. Sched-freq will
   be contrasted with other cpufreq governors such as ondemand and interactive. The
   latest test results will be presented, along with next steps.
-layout: post
+featured_image_name: BKK16-104.jpg
+image:
+  featured: true
+  name: BKK16-104.jpg
+  path: /assets/images/featured-images/BKK16-104.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-104/
+post_format:
+- Video
 session_id: BKK16-104
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58209321
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16104-schedfreq
 slug: bkk16-104
 speakers: Steve Muckle
@@ -22,10 +31,6 @@ video_length: '47:37'
 video_thumbnail: None
 wordpress_id: 3312
 youtube_video_url: https://youtu.be/2cGZBrSZwUY
-categories:
-- bkk16
-post_format:
-- Video
 ---
 
 Sched-freq is the integration of the scheduler with cpufreq to yield scheduler-aware CPU frequency management. The purpose of the project will be briefly explained. The current design will be presented including things like the location of hooks in the scheduler and the implicit policy created by those hooks. Sched-freq will be contrasted with other cpufreq governors such as ondemand and interactive. The latest test results will be presented, along with next steps.

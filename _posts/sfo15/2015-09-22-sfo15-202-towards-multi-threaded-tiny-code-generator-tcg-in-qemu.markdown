@@ -3,9 +3,11 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   Towards Multi-Threaded Tiny Code Generator (TCG) in QEMU.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-22-Tuesday/SFO15-202
   Towards Multi-Threaded Tiny Code Generator (TCG) in QEMU.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-22 00:00:00+00:00
+date: 2015-09-22 00:00:00
 excerpt: 'While QEMU has continued to be optimised for KVM to make use of the growing
   number of cores on modern systems TCG emulation has been stuck running in a single
   thread. This year there is another push to get a workable solution merged upstream.
@@ -14,25 +16,29 @@ excerpt: 'While QEMU has continued to be optimised for KVM to make use of the gr
   operations. We will discuss previous work that has been done in this field before
   presenting a design that addresses these requirements. Finally we shall look at
   the current proposed patches and the design decisions they have taken.'
-layout: post
+featured_image_name: SFO15202TowardsMultiThreadedTinyCodeGeneratorTCGinQEMU.jpg
+image:
+  featured: true
+  name: SFO15202TowardsMultiThreadedTinyCodeGeneratorTCGinQEMU.jpg
+  path: /assets/images/featured-images/SFO15202TowardsMultiThreadedTinyCodeGeneratorTCGinQEMU.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-202-towards-multi-threaded-tiny-code-generator-tcg-in-qemu/
+post_format:
+- Video
 session_id: None
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53063823
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15202-towards-multithreaded-tiny-code-generator-tcg-in-qemu
 slug: sfo15-202-towards-multi-threaded-tiny-code-generator-tcg-in-qemu
 speakers: Alex Bennee
+tags:
+- QEMU
+- Virtualization
 title: 'SFO15-202: Towards Multi-Threaded Tiny Code Generator (TCG) in QEMU'
 video_length: '34:44'
 video_thumbnail: None
 wordpress_id: 2812
 youtube_video_url: https://www.youtube.com/watch?v=9xQGDTEmNtI
-categories:
-- sfo15
-post_format:
-- Video
-tags:
-- QEMU
-- Virtualization
 ---
 
 SFO15-202: Towards Multi-Threaded Tiny Code Generator (TCG) in QEMU

@@ -1,31 +1,36 @@
 ---
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-15-Monday/LCU14-112-+The+Philosophy+of+Open+Source+Development.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:11:12+00:00
-excerpt: "FLOSS - Free / Libre Open Source Software [1] \n\nWhat _is_ \"the community\"\
-  ?\nWhat do they want from you?\nWhat do you get in return?\n[1] http://en.wikipedia.org/wiki/Free_and_open-source_software"
-layout: post
+date: 2015-06-30 17:11:12
+excerpt: "FLOSS - Free / Libre Open Source Software [1] \n\nWhat _is_ \"the community\"?\nWhat
+  do they want from you?\nWhat do you get in return?\n[1] http://en.wikipedia.org/wiki/Free_and_open-source_software"
+featured_image_name: LCU14-112.jpg
+image:
+  featured: true
+  name: LCU14-112.jpg
+  path: /assets/images/featured-images/LCU14-112.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-112-the-philosophy-of-open-source-development/
+post_format:
+- Video
 session_id: LCU14-112
 session_track: Training
 slug: lcu14-112-the-philosophy-of-open-source-development
 speakers: Leif Lindholm, Wookey
-title: 'LCU14-112: The Philosophy of Open Source Development'
-video_length: '56:16'
-video_thumbnail: None
-wordpress_id: 1516
-youtube_video_url: https://www.youtube.com/watch?v=2S-N5-l5WKE
-categories:
-- lcu14
-post_format:
-- Video
 tags:
 - lcu14
 - LCU14-112
 - Leif Lindholm
 - Training
 - Wookey
+title: 'LCU14-112: The Philosophy of Open Source Development'
+video_length: '56:16'
+video_thumbnail: None
+wordpress_id: 1516
+youtube_video_url: https://www.youtube.com/watch?v=2S-N5-l5WKE
 ---
 
 LCU14-112: The Philosophy of Open Source Development

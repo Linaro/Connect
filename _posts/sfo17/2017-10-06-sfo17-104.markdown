@@ -2,8 +2,10 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-104%20Enabling%20Arm%20DynamIQ%20support%20v1.0.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-104%20Enabling%20ARM%20DynamIQ%20support.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:53:39+00:00
+date: 2017-10-06 16:53:39
 excerpt: 'DynamIQ technology is the foundation for future ARM Cortex-A processors.
   This session discusses the software impact of DynamIQ and how to get the most out
   of it, with particular reference to ARM Trusted Firmware and EAS.
@@ -12,10 +14,18 @@ excerpt: 'DynamIQ technology is the foundation for future ARM Cortex-A processor
   Last March, ARM announced DynamiQ which gives a new level of flexibility in designing
   heterogeneous system. During this session, we will cover what are the impacts and
   how to enable its supports in the kernel.'
-layout: post
+featured_image_name: SFO17-104.jpg
+image:
+  featured: true
+  name: SFO17-104.jpg
+  path: /assets/images/featured-images/SFO17-104.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-104/
+post_format:
+- Video
 session_id: SFO17-104
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79982339
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/getting-the-most-out-of-dynamiq-enabling-support-of-dynamiq-sfo17104
 slug: sfo17-104
 speakers: Dan Handley (Arm) -  Ionela Voinescu (Arm) - Vincent Guittot (Linaro)
@@ -24,10 +34,6 @@ video_length: '52:14'
 video_thumbnail: None
 wordpress_id: 5922
 youtube_video_url: https://www.youtube.com/watch?v=CAoDi4j-gtE
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-104

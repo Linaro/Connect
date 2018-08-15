@@ -2,16 +2,26 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-312-%20Benchmarking%20at%20TCWG.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-312%20Benchmarking%20at%20TCWG.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:55:21+00:00
+date: 2017-10-06 16:55:21
 excerpt: This session will be a walk-through of TCWG benchmarking infrastructure and
   discussion of design choices we made while building it. This presentation will be
   aimed at developers interested in performance benchmarking in general, and toolchain
   benchmarking in particular.
-layout: post
+featured_image_name: SFO17-312.jpg
+image:
+  featured: true
+  name: SFO17-312.jpg
+  path: /assets/images/featured-images/SFO17-312.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-312/
+post_format:
+- Video
 session_id: SFO17-312
 session_track: Toolchain
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79885326
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/benchmarking-at-tcwg-sfo17312
 slug: sfo17-312
 speakers: Maxim Kuvyrkov - Christophe Lyon
@@ -20,10 +30,6 @@ video_length: '28:28'
 video_thumbnail: None
 wordpress_id: 6026
 youtube_video_url: https://www.youtube.com/watch?v=q_YaSnHnSSI
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-312

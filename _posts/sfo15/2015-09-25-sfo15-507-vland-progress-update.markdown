@@ -3,33 +3,39 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   VLANd progress update.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-25-Friday/SFO15-507
   VLANd progress update.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-25 00:00:00+00:00
-excerpt: "VLAND is a project to enable dynamic network configuration of various switches.\
-  \ A communication protocol to interact with the daemon will be integrated into Linaro\x89\
-  ’s Automated Validation Architecture so that jobs can dynamically configure the\
-  \ network for testing. In this session, we will review the current state of the\
-  \ project, next steps, and open it up for a discussion."
-layout: post
+date: 2015-09-25 00:00:00
+excerpt: "VLAND is a project to enable dynamic network configuration of various switches.
+  A communication protocol to interact with the daemon will be integrated into Linaro\x89\u2019s
+  Automated Validation Architecture so that jobs can dynamically configure the network
+  for testing. In this session, we will review the current state of the project, next
+  steps, and open it up for a discussion."
+featured_image_name: SFO15507VLANDprogressupdate.jpg
+image:
+  featured: true
+  name: SFO15507VLANDprogressupdate.jpg
+  path: /assets/images/featured-images/SFO15507VLANDprogressupdate.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-507-vland-progress-update/
+post_format:
+- Video
 session_id: None
 session_track: Validation
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53895291
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15507-vland-progress-update
 slug: sfo15-507-vland-progress-update
 speakers: Steve Mcintyre, Dave Pigott
+tags:
+- Validation
+- VLAND
 title: 'SFO15-507: VLAND progress update'
 video_length: '20:37'
 video_thumbnail: None
 wordpress_id: 2894
 youtube_video_url: https://www.youtube.com/watch?v=ASCkK1l2y9g
-categories:
-- sfo15
-post_format:
-- Video
-tags:
-- Validation
-- VLAND
 ---
 
 SFO15-507: VLAND progress update

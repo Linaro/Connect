@@ -1,32 +1,38 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-TR06%20-%20Remoteproc%20%26%20rpmsg%20development.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-TR06%20Remoteproc%20%26%20rpmsg%20development.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:54+00:00
+date: 2016-09-20 17:10:54
 excerpt: Today the remoteproc & rpmsg code available in mainline serves as a base
   for numerous out-of-tree implementations, ranging from bug fixes to larger feature
   additions. As we're discussing how to bring these additions towards mainline a common
   set of topics shows up between the various trees. This talk serves to give an insight
   into these discussions, ongoing work and connect people with interest in these subsystems.
-layout: post
+featured_image_name: LAS16-TR06.png
+image:
+  featured: true
+  name: LAS16-TR06.png
+  path: /assets/images/featured-images/LAS16-TR06.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-tr06/
+post_format:
+- Video
 session_id: LAS16-TR06
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357810
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16tr06-remoteproc-rpmsg-development
 slug: las16-tr06
 speakers: Bjorn Andersson
+tags:
+- Kernel
 title: 'LAS16-TR06: Remoteproc & rpmsg development'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3839
 youtube_video_url: https://youtu.be/QnnLvmvriVA
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Kernel
 ---
 
 LAS16-TR06: Remoteproc & rpmsg development
@@ -38,9 +44,9 @@ Today the remoteproc & rpmsg code available in mainline serves as a base for num
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-tr06
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-tr06/](http://connect.linaro.org/resource/las16/las16-tr06/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-tr06/](/resources/las16/las16-tr06/)
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

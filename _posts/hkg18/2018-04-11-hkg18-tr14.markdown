@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr14.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr14.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:16:35+00:00
+date: 2018-04-11 14:16:35
 excerpt: For most cases we can easily debug with kernel's oops dumping info, but sometimes
   we need to know more information for program execution flow before the issue happens.
   So we can rely on two tracing methods to reproduce the program execution flow, one
@@ -16,10 +18,18 @@ excerpt: For most cases we can easily debug with kernel's oops dumping info, but
   data so we can reproduce the last execution flow before panic (even hang issue with
   some tweaking in kernel). This session wants to go through these topics and demonstrate
   the debugging tools on 96boards Hikey in 25 minutes session.
-layout: post
+featured_image_name: HKG18-TR14.png
+image:
+  featured: true
+  name: HKG18-TR14.png
+  path: /assets/images/featured-images/HKG18-TR14.png
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-tr14/
+post_format:
+- Video
 session_id: HKG18-TR14
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92158796
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18tr14-postmortem-debugging-with-coresight
 slug: hkg18-tr14
 speakers: Leo Yan
@@ -28,10 +38,6 @@ video_length: '33:45'
 video_thumbnail: None
 wordpress_id: 8894
 youtube_video_url: https://www.youtube.com/watch?v=uSi4LcSgXhU
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-TR14
@@ -40,15 +46,15 @@ Speaker: Leo Yan
 Track: Training
 
 
-★ Session Summary ★
+## Session Summary
 For most cases we can easily debug with kernel's oops dumping info, but sometimes we need to know more information for program execution flow before the issue happens. So we can rely on two tracing methods to reproduce the program execution flow, one method is using software tracing which is kernel's pstore method; another method is to rely on Coresight hardware tracing, this method also can avoid extra workload introduced by tracing itself. Coresight has provided two mechanisms for Postmortem debugging, one method is Coresight CPU debug module so we can extract CPU program counter info, this is quite straightforward to debug CPU lockup issue; Another is Coresight panic kdump, we connect kernel kdump mechanism to extract Coresight tracing data so we can reproduce the last execution flow before panic (even hang issue with some tweaking in kernel). This session wants to go through these topics and demonstrate the debugging tools on 96boards Hikey in 25 minutes session.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-tr14/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr14.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr14.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -63,8 +69,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Leo Yan
+**Speakers**: Leo Yan
 
-Speaker Positions: Software Engineer
-
-
+**Speaker Positions**: Software Engineer

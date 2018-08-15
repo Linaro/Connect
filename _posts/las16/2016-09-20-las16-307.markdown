@@ -1,34 +1,40 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-307%20-%20Benchmarking%20Schedutil%20in%20Android%20%281%29.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-307%20Benchmarking%20Schedutil%20in%20Android.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:51+00:00
+date: 2016-09-20 17:10:51
 excerpt: Being able to see the performance and power impacts of changes in a real
   world environment such as Android is a prerequisite to doing meaningful development
   on scheduler-guided frequency (or many other sensitive subsystems). The first half
   of this session will review setting up the tools to automate testing for performance
   and power in Android. The second half will cover the results of using these tests
   to compare the schedutil and interactive governors.
-layout: post
+featured_image_name: LAS16-307.png
+image:
+  featured: true
+  name: LAS16-307.png
+  path: /assets/images/featured-images/LAS16-307.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-307/
+post_format:
+- Video
 session_id: LAS16-307
 session_track: Core Development
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357531
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16307-benchmarking-schedutil-in-android
 slug: las16-307
 speakers: Steve Muckle
+tags:
+- Android
+- Power Management
 title: 'LAS16-307: Benchmarking Schedutil in Android'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3831
 youtube_video_url: https://youtu.be/Wxu5ApDRYH4
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Android
-- Power Management
 ---
 
 LAS16-307: Benchmarking Schedutil in Android
@@ -40,10 +46,10 @@ Being able to see the performance and power impacts of changes in a real world e
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-307
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-307/](http://connect.linaro.org/resource/las16/las16-307/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-307/](/resources/las16/las16-307/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

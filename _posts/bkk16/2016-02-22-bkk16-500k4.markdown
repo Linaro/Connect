@@ -1,9 +1,17 @@
 ---
-author: kyle.kirkby
+author: connect
+categories: "bkk16"
 comments: false
-date: 2016-02-22 17:20:55+00:00
-layout: post
+date: 2016-02-22 17:20:55
+featured_image_name: BKK16-500K4.jpg
+image:
+  featured: true
+  name: BKK16-500K4.jpg
+  path: /assets/images/featured-images/BKK16-500K4.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-500k4/
+post_format:
+- Video
 session_id: BKK16-500K4
 session_track: DEMO
 slug: bkk16-500k4
@@ -12,12 +20,6 @@ title: 'BKK16-500K4: Demo w/ Lunch'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3382
-categories:
-- bkk16
-post_format:
-- Video
 ---
-
-
 
 Event Date: March 11, 2016

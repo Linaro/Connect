@@ -2,13 +2,23 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-24-Thursday/SFO15-407-
   Performance Overhead of ARM Virtualization.pdf
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-11-03 13:41:51+00:00
-layout: post
+date: 2015-11-03 13:41:51
+featured_image_name: SFO15-407.jpg
+image:
+  featured: true
+  name: SFO15-407.jpg
+  path: /assets/images/featured-images/SFO15-407.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-407-performance-overhead-of-arm-virtualization/
+post_format:
+- Video
 session_id: SFO15-407
 session_track: Virtualization
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53570285
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15407-performance-overhead-of-arm-virtualization
 slug: sfo15-407-performance-overhead-of-arm-virtualization
 speakers: Christoffer Dall
@@ -17,13 +27,7 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3029
 youtube_video_url: None
-categories:
-- sfo15
-post_format:
-- Video
 ---
-
-
 
 SFO15-407: Performance Overhead of ARM Virtualization
 Speaker: Christoffer Dall
@@ -43,10 +47,8 @@ Linaro Connect San Francisco 2015 - #SFO15
 September 21-25, 2015
 Hyatt Regency Hotel
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)
 
 Track: Virtualization
 Keywords: Virtualization
 Session ID: SFO15-40
-
-

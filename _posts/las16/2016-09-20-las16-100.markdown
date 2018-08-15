@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Monday/LAS16-100%20Zephyr%20Technical%20Overview.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:10:26+00:00
+date: 2016-09-20 17:10:26
 excerpt: This session will give an overview of Zephyr Project. Zephyr is a small,
   scalable, real-time operating system designed specifically for small-footprint IoT
   edge devices. Its modular design allows you to create an IoT solution that meets
@@ -13,24 +15,27 @@ excerpt: This session will give an overview of Zephyr Project. Zephyr is a small
   open source solution focused on empowering community development. The goal of Zephyr
   is to allow commercial and open source developers alike to define and develop IoT
   solutions best suited for their needs.
-layout: post
+featured_image_name: LAS16-100.png
+image:
+  featured: true
+  name: LAS16-100.png
+  path: /assets/images/featured-images/LAS16-100.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-100/
+post_format:
+- Video
 session_id: LAS16-100
 session_track: LITE
 slideshare_presentation_url: None
 slug: las16-100
 speakers: None
+tags:
+- LITE
 title: 'LAS16-100: Zephyr Technical Overview'
 video_length: '59:05'
 video_thumbnail: None
 wordpress_id: 3793
 youtube_video_url: https://www.youtube.com/watch?v=lanZJ0vbINE
-categories:
-- las16
-post_format:
-- Video
-tags:
-- LITE
 ---
 
 LAS16-100: Zephyr Technical Overview
@@ -42,10 +47,10 @@ This session will give an overview of Zephyr Project. Zephyr is a small, scalabl
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-100
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-100/](http://connect.linaro.org/resource/las16/las16-100/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-100/](/resources/las16/las16-100/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

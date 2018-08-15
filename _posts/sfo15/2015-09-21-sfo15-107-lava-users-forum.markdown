@@ -3,32 +3,38 @@ amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Pr
   LAVA Users Forum.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-21-Monday/SFO15-107Lava
   Users Forum.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-09-21 00:00:00+00:00
+date: 2015-09-21 00:00:00
 excerpt: This session will be a chance for LAVA users to discuss things that are going
   right and things that are more challenging when using LAVA. The LAVA team will attend
   and hopefully address some of their concerns later in the week with the dispatcher
   refactoring session.
-layout: post
+featured_image_name: SFO15107LAVAUsersForum.jpg
+image:
+  featured: true
+  name: SFO15107LAVAUsersForum.jpg
+  path: /assets/images/featured-images/SFO15107LAVAUsersForum.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-107-lava-users-forum/
+post_format:
+- Video
 session_id: None
 session_track: Validation
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52946383
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15107-lava-users-forum
 slug: sfo15-107-lava-users-forum
 speakers: Steve Mcintyre, Neil Williams
+tags:
+- Community
+- LAVA
 title: 'SFO15-107: LAVA Users Forum'
 video_length: '51:09'
 video_thumbnail: None
 wordpress_id: 2798
 youtube_video_url: https://www.youtube.com/watch?v=BTtFzclVGfg
-categories:
-- sfo15
-post_format:
-- Video
-tags:
-- Community
-- LAVA
 ---
 
 SFO15-107: LAVA Users Forum

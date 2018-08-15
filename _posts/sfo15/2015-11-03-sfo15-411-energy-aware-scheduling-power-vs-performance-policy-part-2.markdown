@@ -2,13 +2,23 @@
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-24-Thursday/SFO15-411-EnergyAware
   Scheduling Part 2.pdf
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
+categories:
+- sfo15
 comments: false
-date: 2015-11-03 13:46:11+00:00
-layout: post
+date: 2015-11-03 13:46:11
+featured_image_name: SFO15-411.jpg
+image:
+  featured: true
+  name: SFO15-411.jpg
+  path: /assets/images/featured-images/SFO15-411.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-411-energy-aware-scheduling-power-vs-performance-policy-part-2/
+post_format:
+- Video
 session_id: SFO15-411
 session_track: Kernel Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53031975
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15411-energy-aware-scheduling-power-vs-performance-policy-part-2
 slug: sfo15-411-energy-aware-scheduling-power-vs-performance-policy-part-2
 speakers: ' Vincent Guittot, Juri Lellli '
@@ -17,10 +27,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3031
 youtube_video_url: None
-categories:
-- sfo15
-post_format:
-- Video
 ---
 
 SFO15-411: Energy Aware Scheduling: Power vs. Performance policy
@@ -50,7 +56,7 @@ Linaro Connect San Francisco 2015 - #SFO15
 September 21-25, 2015
 Hyatt Regency Hotel
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)
 
 Track: Kernel Power Management
 Keywords: Kernel Power Management

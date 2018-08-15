@@ -1,31 +1,36 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Friday/BKK16-501.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Friday/BKK16-501%20Mezzanine%20Enablement.mp4
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:55+00:00
+date: 2016-02-22 17:20:55
 excerpt: An update to the state of reference platform kernel and bootloader and a
-  discussion about the patch-inclusion policy. We’ll also cover roadmap plans. Participation
+  discussion about the patch-inclusion policy. We'll also cover roadmap plans. Participation
   is invited if you have ideas on how we can make it easy to use the reference platform
   kernel for your development projects.
-layout: post
+featured_image_name: BKK16-501.jpg
+image:
+  featured: true
+  name: BKK16-501.jpg
+  path: /assets/images/featured-images/BKK16-501.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-501/
+post_format:
+- Video
 session_id: BKK16-501
 session_track: 96Boards
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59646263
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16501-mezzanine-enablement
 slug: bkk16-501
 speakers: Amit Kucheria
+tags:
+- '"reference platform kernel" bootloader'
 title: 'BKK16-501: Kernel and bootloader consolidation and upstreaming'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3383
 youtube_video_url: https://youtu.be/2RiYARxwT9U
-categories:
-- bkk16
-post_format:
-- Video
-tags:
-- '"reference platform kernel" bootloader'
 ---
 
 An update to the state of reference platform kernel and bootloader and a discussion about the patch-inclusion policy. We’ll also cover roadmap plans. Participation is invited if you have ideas on how we can make it easy to use the reference platform kernel for your development projects.

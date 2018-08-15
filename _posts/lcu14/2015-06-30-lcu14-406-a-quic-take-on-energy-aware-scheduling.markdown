@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-18-Thursday/LCU14-406.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-18-Thursday/LCU14-406-+A+QuIC+Take+on+Energy-Aware+Scheduling.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:08:26+00:00
+date: 2015-06-30 17:08:26
 excerpt: 'Task scheduling on big.Little targets is a known challenge in the community.
   A commercial grade solution exists with ARM''s Global Task Scheduler and there is
   a second solution being developed by ARM to solve this problem in a more generic,
@@ -24,25 +26,29 @@ excerpt: 'Task scheduling on big.Little targets is a known challenge in the comm
   - Pain points from an upstream integration PoV.
 
   - Results, if any.'
-layout: post
+featured_image_name: LCU14-406.jpg
+image:
+  featured: true
+  name: LCU14-406.jpg
+  path: /assets/images/featured-images/LCU14-406.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-406-a-quic-take-on-energy-aware-scheduling/
 session_id: LCU14-406
 session_track: Power Management
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39256443
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-406-a-quick-take-on-energyaware-scheduling
 slug: lcu14-406-a-quic-take-on-energy-aware-scheduling
 speakers: Stephen Muckle
-title: 'LCU14-406: A QuIC Take on Energy-Aware Scheduling'
-video_length: '53:26'
-video_thumbnail: None
-wordpress_id: 1556
-youtube_video_url: https://www.youtube.com/watch?v=2xb0vOV-E6E
-categories:
-- lcu14
 tags:
 - lcu14
 - LCU14-406
 - Power Management
 - Stephen Muckle
+title: 'LCU14-406: A QuIC Take on Energy-Aware Scheduling'
+video_length: '53:26'
+video_thumbnail: None
+wordpress_id: 1556
+youtube_video_url: https://www.youtube.com/watch?v=2xb0vOV-E6E
 ---
 
 LCU14-406: A QuIC Take on Energy-Aware Scheduling

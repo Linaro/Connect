@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-115.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-115.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:11:12+00:00
+date: 2018-04-11 14:11:12
 excerpt: The open source hypervisor Jailhouse provides hard partitioning of multicore
   systems to co-locate multiple Linux or RTOS instances side by side. It aims at low
   complexity and minimal footprint to achieve deterministic behavior and enable certifications
@@ -11,10 +13,18 @@ excerpt: The open source hypervisor Jailhouse provides hard partitioning of mult
   at the ARM-specific status of Jailhouse and discuss applications, to-dos and possible
   collaborations around it with the ARM community. The session is intended to be half
   presentation, half Q&A / discussion.
-layout: post
+featured_image_name: HKG18-115.png
+image:
+  featured: true
+  name: HKG18-115.png
+  path: /assets/images/featured-images/HKG18-115.png
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-115/
+post_format:
+- Video
 session_id: HKG18-115
 session_track: Security
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92947728
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18-115-partitioning-arm-systems-with-the-jailhouse-hypervisor
 slug: hkg18-115
 speakers: Jan Kiszka
@@ -23,10 +33,6 @@ video_length: '56:25'
 video_thumbnail: None
 wordpress_id: 8714
 youtube_video_url: https://www.youtube.com/watch?v=sispV-vf_9I
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-115
@@ -35,15 +41,15 @@ Speaker: Jan Kiszka
 Track: Security
 
 
-★ Session Summary ★
+## Session Summary
 The open source hypervisor Jailhouse provides hard partitioning of multicore systems to co-locate multiple Linux or RTOS instances side by side. It aims at low complexity and minimal footprint to achieve deterministic behavior and enable certifications according to safety or security standards. In this session, we would like to look at the ARM-specific status of Jailhouse and discuss applications, to-dos and possible collaborations around it with the ARM community. The session is intended to be half presentation, half Q&A; / discussion.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-115/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-115.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-115.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -58,8 +64,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Jan Kiszka
+**Speakers**: Jan Kiszka
 
-Speaker Positions: Senior Key Expert
-
-
+**Speaker Positions**: Senior Key Expert

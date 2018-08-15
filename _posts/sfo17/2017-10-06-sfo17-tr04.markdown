@@ -2,8 +2,10 @@
 amazon_s3_presentation_url: None
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-TR04-Arrow_96Boards_Ecosystem.pdf
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:55:34+00:00
+date: 2017-10-06 16:55:34
 excerpt: 'Arrow Electronics, now a member of the 96Boards steering committee, is bringing
   to market a wide range of solutions based on the 96Boards specification. Arrow is
   the only organization that has platforms designed to Community, Community Extended,
@@ -11,10 +13,13 @@ excerpt: 'Arrow Electronics, now a member of the 96Boards steering committee, is
   boards available including solutions for camera, cellular, LoRa, PoE, and security
   requirements. Come learn about a wide range of products from Arrow and the partners
   including: Qualcomm, NXP, Cypress, Altera, Renesas, Bosch, Infineon, and MicroChip.'
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-tr04/
+post_format:
+- Video
 session_id: SFO17-TR04
 session_track: 96Boards
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80701288
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/expanding-the-96boards-ecosystem-sfo17tr04-80701288
 slug: sfo17-tr04
 speakers: None
@@ -23,10 +28,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 6039
 youtube_video_url: None
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-TR04

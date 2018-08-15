@@ -2,24 +2,34 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-302.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-302%20BFQ%2C%20fairness%20and%20low%20latency%20in%20block%20I%20%20O%20-%20The%20Two%20Towers.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:55:07+00:00
-excerpt: "The BFQ I/O scheduler has been finally ported to blk-mq, and merged\n into\
-  \ the kernel (from 4.12). We start the first part of this\n presentation by recalling\
-  \ motivations and benefits of BFQ. Then we\n report the developments occurred since\
-  \ BFQ has been ported to blk-mq\n and upstreamed: fixes of important bugs, further\
-  \ throughput\n improvements for flash-based storage, public performance reports.\
-  \ In\n the second part of the presentation, we deal with the near future of\n BFQ,\
-  \ characterized by two great challenges. The first is to keep\n throughput high,\
-  \ while, at the same time, providing strong guarantees\n on fairness, bandwidth\
-  \ distribution and latency. The second great\n challenge is to achieve this combined\
-  \ goal with the low overhead\n imposed by modern devices. As a last part, we try\
-  \ to have a look at\n the future of BFQ, and of the latency issues that still affect\
-  \ many,\n if not most Linux-based systems"
-layout: post
+date: 2017-10-06 16:55:07
+excerpt: "The BFQ I/O scheduler has been finally ported to blk-mq, and merged\n into
+  the kernel (from 4.12). We start the first part of this\n presentation by recalling
+  motivations and benefits of BFQ. Then we\n report the developments occurred since
+  BFQ has been ported to blk-mq\n and upstreamed: fixes of important bugs, further
+  throughput\n improvements for flash-based storage, public performance reports. In\n
+  the second part of the presentation, we deal with the near future of\n BFQ, characterized
+  by two great challenges. The first is to keep\n throughput high, while, at the same
+  time, providing strong guarantees\n on fairness, bandwidth distribution and latency.
+  The second great\n challenge is to achieve this combined goal with the low overhead\n
+  imposed by modern devices. As a last part, we try to have a look at\n the future
+  of BFQ, and of the latency issues that still affect many,\n if not most Linux-based
+  systems"
+featured_image_name: SFO17-302.jpg
+image:
+  featured: true
+  name: SFO17-302.jpg
+  path: /assets/images/featured-images/SFO17-302.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-302/
+post_format:
+- Video
 session_id: SFO17-302
 session_track: Kernel
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79885319
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bfq-fairness-and-low-latency-in-block-io-the-two-towers-sfo17302
 slug: sfo17-302
 speakers: Paolo Valente
@@ -28,10 +38,6 @@ video_length: 01:27:00
 video_thumbnail: None
 wordpress_id: 6007
 youtube_video_url: https://www.youtube.com/watch?v=Buc6smuh0RA
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-302

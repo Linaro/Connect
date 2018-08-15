@@ -1,39 +1,43 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-103%20CompressionODP.pdf
 amazon_s3_video_url: https://youtu.be/9L5T5UdDG-A
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:24+00:00
-excerpt: "A proposal to add ODP based compression/decompression API to provide portable\
-  \ hardware accelerated access for data plane applications that require compression/decompression.\
-  \ The proposal outlines 2 schemes:\n   A. Reuse the existing Cryptography API to\
-  \ support Compression.\n   B. Introduce independent Compression API.\n  The initial\
-  \ implementation will target Cavium OCTEON TX SoC to accelerate IP Compression (IPComp)"
-layout: post
+date: 2017-02-28 12:05:24
+excerpt: "A proposal to add ODP based compression/decompression API to provide portable
+  hardware accelerated access for data plane applications that require compression/decompression.
+  The proposal outlines 2 schemes:\n   A. Reuse the existing Cryptography API to support
+  Compression.\n   B. Introduce independent Compression API.\n  The initial implementation
+  will target Cavium OCTEON TX SoC to accelerate IP Compression (IPComp)"
+featured_image_name: BUD17-103.jpg
+image:
+  featured: true
+  name: BUD17-103.jpg
+  path: /assets/images/featured-images/BUD17-103.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-103/
+post_format:
+- Video
 session_id: BUD17-103
 session_track: LNG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73262507
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/compression-support-in-opendataplane-odp-bud17103
 slug: bud17-103
 speakers: Narayana Prasad Athreya
-title: Compression support in OpenDataPlane(ODP) - BUD17-103
-video_length: 00:00
-video_thumbnail: None
-wordpress_id: 4616
-youtube_video_url: https://youtu.be/aTOL0rGuIn8
-categories:
-- bud17
-post_format:
-- Video
 tags:
 - compression
 - LNG
 - Narayana Prasad Athreya
 - ODP
 - opendataplane
+title: Compression support in OpenDataPlane(ODP) - BUD17-103
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4616
+youtube_video_url: https://youtu.be/aTOL0rGuIn8
 ---
-
-
 
 Session ID: BUD17-103
 Session Name: Compression support in OpenDataPlane(ODP) - BUD17-103

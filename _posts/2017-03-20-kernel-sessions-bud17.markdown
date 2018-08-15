@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: kyle.kirkby
+author: connect
 comments: false
 date: 2017-03-20 13:50:04+00:00
 layout: post
@@ -30,7 +30,7 @@ This session will detail and respond to questions regarding the latest developme
 **Speakers:** Ulf Hansson, Linus Walleij
 **Track:** Kernel
 **Session ID:** BUD17-211
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-211/](http://connect.linaro.org/resource/bud17/bud17-211/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-211/](/resources/bud17/bud17-211/)
 
 
 
@@ -54,4 +54,4 @@ enterprise.
 **Speakers:** Bamvor Jian Zhang
 **Track:** Kernel
 **Session ID:** BUD17-305
-**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-305/](http://connect.linaro.org/resource/bud17/bud17-305/)
+**Resource page:** [http://connect.linaro.org/resource/bud17/bud17-305/](/resources/bud17/bud17-305/)

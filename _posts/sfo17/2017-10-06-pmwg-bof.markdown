@@ -4,7 +4,7 @@ comments: false
 date: 2017-10-06 16:54:22+00:00
 excerpt: Reviewing Qualcomm engineering feedback on voltage corners and power domains.
   All are invited.
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/pmwg-bof/
 session_id: PMWG BoF
 session_track: Power Management

@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-hk-10.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-hk-10.mp4
-author: kyle.kirkby
+author: connect
 comments: false
 date: 2018-04-11 14:16:35+00:00
 excerpt: '- What are the missing pieces?
@@ -9,7 +9,7 @@ excerpt: '- What are the missing pieces?
   - What is the state of the Security WG ION work?
 
   - How to deploy the solutions in real devices. What to think about (licenses)?'
-layout: post
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-hk-10/
 session_id: HKG18-HK-10
 session_track: Security
@@ -32,18 +32,18 @@ Speaker: Peter Griffin
 Track: Security
 
 
-★ Session Summary ★
+## Session Summary
 - What are the missing pieces?
 - What is the state of the Security WG ION work?
 - How to deploy the solutions in real devices. What to think about (licenses)?
 
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-hk-10/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-hk-10.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-hk-10.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -58,8 +58,8 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Peter Griffin
+**Speakers**: Peter Griffin
 
-Speaker Positions: Senior Engineer
+**Speaker Positions**: Senior Engineer
 
 

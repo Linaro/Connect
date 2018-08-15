@@ -1,31 +1,36 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-411.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Thursday/BKK16-411%20Device%20Tree%20Standardization.mp4
-author: kyle.kirkby
+author: connect
+categories: bkk16
 comments: false
-date: 2016-02-22 17:20:54+00:00
+date: 2016-02-22 17:20:54
 excerpt: Announcement of the process to update the old specs and kernel documentation
   into a new Device Tree Specification
-layout: post
+featured_image_name: BKK16-411.jpg
+image:
+  featured: true
+  name: BKK16-411.jpg
+  path: /assets/images/featured-images/BKK16-411.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-411/
+post_format:
+- Video
 session_id: BKK16-411
 session_track: OCTO
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59647377
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16411-devicetree-specification
 slug: bkk16-411
 speakers: 'Grant Likely
 
   Kanta Vekaria'
+tags:
+- DT "Device Tree"
 title: 'BKK16-411: Device Tree Standardization'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3377
 youtube_video_url: https://youtu.be/37icrkY3PuM
-categories:
-- bkk16
-post_format:
-- Video
-tags:
-- DT "Device Tree"
 ---
 
 Announcement of the process to update the old specs and kernel documentation into a new Device Tree Specification

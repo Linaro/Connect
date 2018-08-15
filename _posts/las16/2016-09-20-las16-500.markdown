@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Friday/LAS16-500%20-%20The%20Rise%20and%20Fall%20of%20Assembler%20and%20the%20VGIC%20from%20Hell.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Friday/LAS16-500%20The%20Rise%20and%20Fall%20of%20Assembler%20and%20the%20VGIC%20from%20Hell.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-20 17:11:00+00:00
+date: 2016-09-20 17:11:00
 excerpt: 'KVM/ARM has grown up. While the initial implementation of virtualization
   support for ARM processors in Linux was a quality upstream software project, there
   were initial design decisions simply not suitable for a long-term maintained hypervisor
@@ -22,24 +24,28 @@ excerpt: 'KVM/ARM has grown up. While the initial implementation of virtualizati
   the whole thing from scratch as a team effort, with a very promising result, upstream
   since Linux v4.7. In this talk we will cover the evolution of this software project
   and give an overview of the state of the project as it is today.'
-layout: post
+featured_image_name: LAS16-500.png
+image:
+  featured: true
+  name: LAS16-500.png
+  path: /assets/images/featured-images/LAS16-500.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-500/
+post_format:
+- Video
 session_id: LAS16-500
 session_track: Core Development
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66358088
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16500-the-rise-and-fall-of-assembler-and-the-vgic-from-hell
 slug: las16-500
 speakers: Marc Zyngier, Christoffer Dall
+tags:
+- Virtualization
 title: 'LAS16-500: The Rise and Fall of Assembler and the VGIC from Hell'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3857
 youtube_video_url: https://youtu.be/_o6gb-8UYXc
-categories:
-- las16
-post_format:
-- Video
-tags:
-- Virtualization
 ---
 
 LAS16-500: The Rise and Fall of Assembler and the VGIC from Hell
@@ -51,10 +57,10 @@ KVM/ARM has grown up. While the initial implementation of virtualization support
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-500
-Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-500/](http://connect.linaro.org/resource/las16/las16-500/)
+Presentations & Videos: [http://connect.linaro.org/resource/las16/las16-500/](/resources/las16/las16-500/)
 
 ★ Event Details ★
 Linaro Connect Las Vegas 2016 – #LAS16
 September 26-30, 2016
 [http://www.linaro.org](http://www.linaro.org/)
-[http://connect.linaro.org](http://connect.linaro.org/)
+[http://connect.linaro.org](/)

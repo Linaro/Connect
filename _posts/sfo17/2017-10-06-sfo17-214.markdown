@@ -2,20 +2,30 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-214%20SQUAD-%20an%20overview%20of%20the%20platform%20behind%20qa-reports.linaro.org.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-214%20SQUAD%20%20an%20overview%20of%20the%20platform%20behind.mp4
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:54:39+00:00
-excerpt: "qa-reports.linaro.org is a new service that can provide QA dashboards for\
-  \ any Linaro project. These dashboards feature presentation of test results, charts\
-  \ for metrics (such as benchmark results), automated email notifications, and much\
-  \ more. Results are accumulated over time, and the entire history of the project\
-  \ can kept for reference. Initial users include LKFT and LITE.\n \n qa-reports.linaro.org\
-  \ is powered by SQUAD, a project created by the QA Services Team after not being\
-  \ able to find an existing solution that would serve our needs. SQUAD is written\
-  \ in Python and licensed under the GPLv3."
-layout: post
+date: 2017-10-06 16:54:39
+excerpt: "qa-reports.linaro.org is a new service that can provide QA dashboards for
+  any Linaro project. These dashboards feature presentation of test results, charts
+  for metrics (such as benchmark results), automated email notifications, and much
+  more. Results are accumulated over time, and the entire history of the project can
+  kept for reference. Initial users include LKFT and LITE.\n \n qa-reports.linaro.org
+  is powered by SQUAD, a project created by the QA Services Team after not being able
+  to find an existing solution that would serve our needs. SQUAD is written in Python
+  and licensed under the GPLv3."
+featured_image_name: SFO17-214.jpg
+image:
+  featured: true
+  name: SFO17-214.jpg
+  path: /assets/images/featured-images/SFO17-214.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-214/
+post_format:
+- Video
 session_id: SFO17-214
 session_track: QA
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80644903
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/squad-an-overview-of-the-platform-behind-qareportslinaroorg-sfo17214
 slug: sfo17-214
 speakers: Antonio Terceiro
@@ -24,10 +34,6 @@ video_length: '22:04'
 video_thumbnail: None
 wordpress_id: 5983
 youtube_video_url: https://www.youtube.com/watch?v=cF_LWUBqMZo
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-214

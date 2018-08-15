@@ -1,34 +1,40 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-16-Tuesday/LCU14-203.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-16-Tuesday/LCU14-203-+LAVA+Use+Cases-+Upstream+Kernel+CI.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:09:20+00:00
+date: 2015-06-30 17:09:20
 excerpt: This session will provide a short summary on how Linaro teams are automating
   upstream Kernel CI with a goal to improve the overall Linux on ARM ecosystem. The
   second half of the session will be general Q&A
-layout: post
+featured_image_name: LCU14-203.jpg
+image:
+  featured: true
+  name: LCU14-203.jpg
+  path: /assets/images/featured-images/LCU14-203.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-203-lava-use-cases-upstream-kernel-ci/
+post_format:
+- Video
 session_id: LCU14-203
 session_track: LAVA
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38948508
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-203-lava-use-cases-upstream-kernel-ci
 slug: lcu14-203-lava-use-cases-upstream-kernel-ci
 speakers: Tyler Baker, Milo Casagrande
-title: 'LCU14-203: LAVA Use Cases: Upstream Kernel CI'
-video_length: '47:49'
-video_thumbnail: None
-wordpress_id: 1522
-youtube_video_url: https://www.youtube.com/watch?v=VcJziUPtknI
-categories:
-- lcu14
-post_format:
-- Video
 tags:
 - LAVA
 - lcu14
 - LCU14-203
 - Milo Casagrande
 - Tyler Baker
+title: 'LCU14-203: LAVA Use Cases: Upstream Kernel CI'
+video_length: '47:49'
+video_thumbnail: None
+wordpress_id: 1522
+youtube_video_url: https://www.youtube.com/watch?v=VcJziUPtknI
 ---
 
 LCU14-203: LAVA Use Cases: Upstream Kernel CI

@@ -1,37 +1,42 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-120%20-%20Linux-wpan-%20IEEE%20802.15.4%20and%206LoWPAN%20in%20the%20Linux%20Kernel.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Monday/BUD17-120%20Linux-wpan%20%20IEEE%20802.15.4%20and%206LoWP.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:29+00:00
-excerpt: "Adding support for IEEE 802.15.4 and 6LoWPAN to an embedded Linux system\
-  \ opens up new possibilities to communicate with tiny devices. The mainline kernel\n\
-  \  supports the wireless protocols to connect such devices to the internet, acting\n\
-  \  \n as border router for such networks.\n  \n This talk will show the current\
-  \ kernel support, how to enable and configure the\n  subsystems to use it and how\
-  \ to communicate between Linux and IoT operating\n  systems like RIOT, Contiki or\
-  \ Zephyr."
-layout: post
+date: 2017-02-28 12:05:29
+excerpt: "Adding support for IEEE 802.15.4 and 6LoWPAN to an embedded Linux system
+  opens up new possibilities to communicate with tiny devices. The mainline kernel\n
+  \ supports the wireless protocols to connect such devices to the internet, acting\n
+  \ \n as border router for such networks.\n  \n This talk will show the current kernel
+  support, how to enable and configure the\n  subsystems to use it and how to communicate
+  between Linux and IoT operating\n  systems like RIOT, Contiki or Zephyr."
+featured_image_name: BUD17-120.jpg
+image:
+  featured: true
+  name: BUD17-120.jpg
+  path: /assets/images/featured-images/BUD17-120.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-120/
+post_format:
+- Video
 session_id: BUD17-120
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73173525
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/linuxwpan-ieee-802154-and-6lowpan-in-the-linux-kernel-bud17120
 slug: bud17-120
 speakers: Stefan Schmidt
-title: 'Linux-wpan: IEEE 802.15.4 and 6LoWPAN in the Linux Kernel - BUD17-120'
-video_length: 00:00
-video_thumbnail: None
-wordpress_id: 4633
-youtube_video_url: https://youtu.be/6YNeF2H2i-U
-categories:
-- bud17
-post_format:
-- Video
 tags:
 - IEEE
 - Kernel
 - linux-wpan
 - Stefan Schmidt
+title: 'Linux-wpan: IEEE 802.15.4 and 6LoWPAN in the Linux Kernel - BUD17-120'
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4633
+youtube_video_url: https://youtu.be/6YNeF2H2i-U
 ---
 
 Session ID: BUD17-120

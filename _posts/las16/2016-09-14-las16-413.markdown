@@ -1,23 +1,28 @@
 ---
-author: kyle.kirkby
+author: connect
+categories:
+- las16
 comments: false
-date: 2016-09-14 10:19:20+00:00
-layout: post
+date: 2016-09-14 10:19:20
+featured_image_name: LAS16-413.png
+image:
+  featured: true
+  name: LAS16-413.png
+  path: /assets/images/featured-images/LAS16-413.png
+layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-413/
+post_format:
+- Video
 session_id: LAS16-413
 slug: las16-413
 title: 'LAS16-413: ARM Mali GPU Q&A Session'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3855
-categories:
-- las16
-post_format:
-- Video
 ---
 
 Questions and conversation on ARM Mali GPU and associated drivers    Note: this session will not be videotaped.
 
 Event Date: September 29, 2016
 
-Speakers: 
+Speakers:

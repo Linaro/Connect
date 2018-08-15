@@ -1,32 +1,38 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-222%20Energy%20Awareness%20The%20Next%20Step.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Tuesday/BUD17-222%20Energy%20Awareness%20%20The%20Next%20Step.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:36+00:00
+date: 2017-02-28 12:05:36
 excerpt: This will be a forward thinking session where, in the age of ML/AI/VR/AR,
   we share some ideas that could help transform EAS into a Hardware/Kernel solution
   that uniquely adapts, in realtime, to every single platform without the need for
   prior costly & precalculated knowledge.
-layout: post
+featured_image_name: BUD17-222.jpg
+image:
+  featured: true
+  name: BUD17-222.jpg
+  path: /assets/images/featured-images/BUD17-222.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-222/
+post_format:
+- Video
 session_id: BUD17-222
 session_track: LMG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72789369
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17222-energy-awareness-the-next-step
 slug: bud17-222
 speakers: Carlos Kik Lloret
+tags:
+- Energy-awareness
+- LMG
 title: 'Energy Awareness: The Next Step - BUD17-222'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4657
 youtube_video_url: https://youtu.be/ZvpufAWMRCw
-categories:
-- bud17
-post_format:
-- Video
-tags:
-- Energy-awareness
-- LMG
 ---
 
 Session ID: BUD17-222

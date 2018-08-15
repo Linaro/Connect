@@ -1,9 +1,11 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-214.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-214.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- hkg18
 comments: false
-date: 2018-04-11 14:11:54+00:00
+date: 2018-04-11 14:11:54
 excerpt: As a Common Accelerator Framework for User Space Applications was brought
   up at last Connect SFO 2017 by Kenneth Lee, we have done a series of work to support
   user applications better. DMA mapping for accelerators in multiple processes and
@@ -13,10 +15,18 @@ excerpt: As a Common Accelerator Framework for User Space Applications was broug
   scenarios with our SOC device (ZIP) to show the advantages of Wrapdrive.In the next,
   SVM with page fault from devices will be supported by Wrapdrive with a high performance
   and smart coding way.
-layout: post
+featured_image_name: HKG18-214.png
+image:
+  featured: true
+  name: HKG18-214.png
+  path: /assets/images/featured-images/HKG18-214.png
+layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-214/
+post_format:
+- Video
 session_id: HKG18-214
 session_track: Networking
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/93548001
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18-214-progress-of-wrapdrive
 slug: hkg18-214
 speakers: Zaibo Xu
@@ -25,10 +35,6 @@ video_length: '26:32'
 video_thumbnail: None
 wordpress_id: 8752
 youtube_video_url: https://www.youtube.com/watch?v=TCHck3XRZxo
-categories:
-- hkg18
-post_format:
-- Video
 ---
 
 Session ID: HKG18-214
@@ -37,15 +43,15 @@ Speaker: Zaibo Xu
 Track: Networking
 
 
-★ Session Summary ★
+## Session Summary
 As a Common Accelerator Framework for User Space Applications was brought up at last Connect SFO 2017 by Kenneth Lee, we have done a series of work to support user applications better. DMA mapping for accelerators in multiple processes and SVM(Share Virtual Memory) without page fault are running okay on our D06 board, which is enabled by new VFIO and IOMMU APIs based on the SVM patch (RFC v3) from Jean-Philippe Brucker of ARM. Also, we do some performance testing on the above scenarios with our SOC device (ZIP) to show the advantages of Wrapdrive.In the next, SVM with page fault from devices will be supported by Wrapdrive with a high performance and smart coding way.
 ---------------------------------------------------
-★ Resources ★
+## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-214/
 Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-214.pdf
 Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-214.mp4
  ---------------------------------------------------
-★ Event Details ★
+## Event Details
 hkg18
 19-23 March 2018 
 Regal Airport Hotel Hong Kong
@@ -60,8 +66,6 @@ https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
 https://www.linkedin.com/company/1026961
 
-Speakers: Zaibo Xu
+**Speakers**: Zaibo Xu
 
-Speaker Positions: Software Architect
-
-
+**Speaker Positions**: Software Architect

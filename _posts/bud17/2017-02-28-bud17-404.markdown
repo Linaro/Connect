@@ -1,35 +1,41 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-404%20-%20UEFI-EDK2%20for%20RDK%20on%20HiKey.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-404%20UEFI%20%20EDK2%20for%20RDK%20on%20HiKey.mp4
-author: kyle.kirkby
+author: connect
+categories:
+- bud17
 comments: false
-date: 2017-02-28 12:05:47+00:00
+date: 2017-02-28 12:05:47
 excerpt: The set-top industry is still heavily reliant upon proprietary U Boot bootloader
   schemes that present significant integration challenges to OEM vendors. LHG has
   undertaken an initiative to implement a UEFI/EDK2 solution for the RDK. This presentation
   will describe the implementation challenges and advantages by moving to a UEFI runtime
   environment.
-layout: post
+featured_image_name: BUD17-404.jpg
+image:
+  featured: true
+  name: BUD17-404.jpg
+  path: /assets/images/featured-images/BUD17-404.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-404/
+post_format:
+- Video
 session_id: BUD17-404
 session_track: LHG
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786842
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17404-uefiedk2-for-rdk-on-hikey
 slug: bud17-404
 speakers: Kalyan Nagabhirava
-title: UEFI/EDK2 for RDK on HiKey - BUD17-404
-video_length: 00:00
-video_thumbnail: None
-wordpress_id: 4695
-youtube_video_url: https://youtu.be/AwVfedYi_S4
-categories:
-- bud17
-post_format:
-- Video
 tags:
 - HiKey
 - LHG
 - RDK
 - UEFI EDK2
+title: UEFI/EDK2 for RDK on HiKey - BUD17-404
+video_length: 00:00
+video_thumbnail: None
+wordpress_id: 4695
+youtube_video_url: https://youtu.be/AwVfedYi_S4
 ---
 
 "Session ID: BUD17-404

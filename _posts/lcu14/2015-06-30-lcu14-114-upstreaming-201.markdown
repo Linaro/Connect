@@ -1,8 +1,10 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-15-Monday/LCU14-114.pdf
-author: kyle.kirkby
+author: connect
+categories:
+- lcu14
 comments: true
-date: 2015-06-30 17:09:35+00:00
+date: 2015-06-30 17:09:35
 excerpt: This session is an advanced course on Linux kernel upstreaming fundamentals.
   The course covers how the arm-soc kernel tree is maintained and why that is important
   to ARM Linux kernel developers. The focus of the course is the explanation of the
@@ -13,27 +15,31 @@ excerpt: This session is an advanced course on Linux kernel upstreaming fundamen
   into the kernel. The topic requires a solid background in software configuration
   management terminology and the git SCM tool as well as a good technical understanding
   of the Linux kernel itself.
-layout: post
+featured_image_name: LCU14-114.jpg
+image:
+  featured: true
+  name: LCU14-114.jpg
+  path: /assets/images/featured-images/LCU14-114.jpg
+layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-114-upstreaming-201/
+post_format:
+- Video
 session_id: LCU14-114
 session_track: Training
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39051539
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-114-upstreaming-201
 slug: lcu14-114-upstreaming-201
 speakers: Matt Porter
-title: 'LCU14-114: Upstreaming 201'
-video_length: '35:17'
-video_thumbnail: None
-wordpress_id: 1518
-youtube_video_url: https://www.youtube.com/watch?v=Au6Ijfz8ays
-categories:
-- lcu14
-post_format:
-- Video
 tags:
 - lcu14
 - LCU14-114
 - Matt Porter
 - Training
+title: 'LCU14-114: Upstreaming 201'
+video_length: '35:17'
+video_thumbnail: None
+wordpress_id: 1518
+youtube_video_url: https://www.youtube.com/watch?v=Au6Ijfz8ays
 ---
 
 LCU14-114: Upstreaming 201

@@ -2,15 +2,17 @@
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-507%20Modular%20Middleware.pdf
 amazon_s3_video_url: None
 author: celia.ilardi
+categories:
+- sfo17
 comments: false
-date: 2017-10-06 16:56:29+00:00
-excerpt: To make application development a breeze, Apache Mynewt OS includes several
+date: 2017-10-06 16:56:29
+excerpt: "To make application development a breeze, Apache Mynewt OS includes several
   optional middleware components and a build infrastructure to easily choose and configure
   them while creating an image for a target device. An example is the file system
   module with an API that allows the application to use file system operations without
   being tied to a particular file system implementation. Users are free to choose
-  the FAT file system or Apache Mynewt’s Newtron Flash File System or any other FS
-  of their choice. The logging infrastructure is another example. It allows applications,
+  the FAT file system or Apache Mynewt\u2019s Newtron Flash File System or any other
+  FS of their choice. The logging infrastructure is another example. It allows applications,
   targets, and libraries to name and define their own log streams and direct them
   to desired output destinations. The stats module follows the same flexible design
   as the log module. The accompanying build and package management tool called the
@@ -21,11 +23,14 @@ excerpt: To make application development a breeze, Apache Mynewt OS includes sev
   modules, allowing it to be shared and collaborated on across multiple operating
   systems. The steps for creating a log stream for a package will be presented as
   an example to demonstrate the design simplicity and modularity of the Mynewt OS
-  and the power of the Newt tool.
-layout: post
+  and the power of the Newt tool."
+layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-507/
+post_format:
+- Video
 session_id: SFO17-507
 session_track: LITE
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80888607
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/modular-middleware-components-in-apache-mynewt-os-sfo17507
 slug: sfo17-507
 speakers: James Pace
@@ -34,10 +39,6 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 6087
 youtube_video_url: None
-categories:
-- sfo17
-post_format:
-- Video
 ---
 
 Session ID: SFO17-507
