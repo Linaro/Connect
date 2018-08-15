@@ -48,7 +48,9 @@ Add the speakers image to the /assets/images/speakers/ sub folder and modify the
 
 To upload a file on GitHub you first need to navigate to the folder you wish to add the image to.
 
-![Uploading a speaker image through GitHub](/assets/images/help/UploadSpeakerImage.gif)
+![Uploading a speaker image through GitHub](/assets/images/help/UploadASpeakerImage.gif)
+
+Verify you are on your fork of the repo and not the main Connect repository. Also make sure you are pushing to the master branch (the branch to main live site is built from - unless you are testing the changes which can be added to the develop branch and built to staging.connect.linaro.org).
 
 ## Updating Home page Banner
 
