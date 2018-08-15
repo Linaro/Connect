@@ -6,9 +6,11 @@ css-package: ai-summit
 ---
 <div class="container-fluid">
 <div class="row banner-row" style="background-image: url('{% asset_path 'AINNBanner.png' %}');">
-
+    <div class="container">
+        <h1>AI and Neural Networks on Arm Summit</h1>
+    </div>
 </div>
-<div class="row">
+<div class="row content">
 <div class="container">
 <div class="col-xs-12" markdown="1">
 
@@ -62,7 +64,26 @@ Join us and learn about the latest AI technologies available in edge and consume
 </div>
 <div class="col-sm-6">
 
-
+<div class="panel panel-primary" class="blog-sidebar">
+    <div class="panel-heading">
+      <h3 class="panel-title">AI/ML Resources from HKG18</h3>
+    </div>
+    <div class="panel-body">
+        {% assign posts = site.categories["hkg18"]  %}
+        {% for post in posts %}
+            {% if post.session_track contains 'AI/ML' %}
+                <a href="{{post.url}}">
+                    <div class="row featured_blog_post">
+                        <div class="col-xs-12 ">
+                            {{post.title | truncate: 40}}
+                            <br /><small><em>{{post.date | date: "%A, %B %-d, %Y" }}</em></small>
+                        </div>
+                    </div>
+                </a>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
 
 </div>
 </div>
