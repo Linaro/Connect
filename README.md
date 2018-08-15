@@ -6,14 +6,13 @@ Hosted in this repo are the markdown content files associated with the website. 
 PR's related to the Dockerfile and build.sh will take considerably longer to review than Jekyll or content changes.
 
 
-
 ## Guides
 
 Below are a few guides that will help when adding content to the Linaro website.
 
+- [Editing on GitHub](#editing-on-gitHub)
 - [Adding a blog post](#adding-a-blog-post)
 - [Building and Contributing](#building-and-contributing)
-
 
 *****
 
@@ -40,11 +39,14 @@ Each repository can have multiple branches with whatever name you choose. The Li
 
 ### Step 4 - Make your changes and submit a pull request.
 
-In order to get your changes to the Connect website up on the live website you must make changes to a file/files on your fork of the Connect repository and then submit a pull request (or a `PR` which is a way to get your changes added to the main `repository` and not just your copy of the Connect website.) 
+In order to get your changes added to the Connect website you must make changes to a file/files on **your** `fork` of the Connect repository and then submit a __pull request__ (or a `PR` which is a way to get your changes added to the main `repository` and not just your copy of the Connect website.) 
+
+For example we will edit the https://connect.linaro.org/about/ page text and submit a PR.
 
 
 
-## Adding Speakers
+
+## Adding Connect Speakers
 
 Speakers on the static Connect website are posts with a category of `speaker`. Speakers have been added to the _posts/speaker folder to keep them separate from resources/blog posts. In order to add a speaker simply copy an existing speaker and modify accoridngly. Below are the values in the post's front matter (values between to two set's of --- at the top of the file):
 
