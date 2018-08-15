@@ -36,7 +36,7 @@
   url: /speaker/chris-benson/
 - name: Toshiyuki Shimizu
   day: Thursday
-  title: Fujitsu’s HPC processor for the Post-K computer
+  title: A new powerful general purpose CPU complements and accelerates Arm ecosystem prosperity in high performance servers
   start_time: "08:45"
   end_time: "09:15"
   date: 2018-09-20 08:45:00
@@ -79,6 +79,16 @@
   image: todd-kjos.jpg
   url: /speaker/todd-kjos/
   title: Android kernels - How the sausage is made
+- name: Shinpei Kato 
+  day: Friday
+  start_time: "09:45"
+  end_time: "10:15"
+  date: 2018-09-21 09:45:00
+  job_title: Director of TierⅣ and Graduate School of Information Science and Engineering, The University of Tokyo
+  image: ShinpeiKato.jpg
+  url: /speaker/shinpei-kato/
+  title: Autoware on Board
+
 
 
 
