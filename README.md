@@ -48,7 +48,7 @@ Add the speakers image to the /assets/images/speakers/ sub folder and modify the
 
 To upload a file on GitHub you first need to navigate to the folder you wish to add the image to.
 
-![Uploading a speaker image through GitHub](/assets/images/help/UploadSpeakerImage.gif])
+![Uploading a speaker image through GitHub](/assets/images/help/UploadSpeakerImage.gif)
 
 ## Updating Home page Banner
 
