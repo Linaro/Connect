@@ -17,7 +17,7 @@ You should have left Linaro Connect SFO15 with a GiveMeTap bottle sponsored by A
 
 If there aren’t any Taps close by, you can try and persuade potential Taps in your area to [join the program](http://www.givemetap.co.uk/pages/join-givemetap).
 
-Send your photos and Tap recruitment stories to [competition@linaro.org](mailto:competition@linaro.org). Prizes will be awarded at [Linaro Connect BKK16](http://connect.linaro.org/bkk16/) based on the positive impact your selfies demonstrate.
+Send your photos and Tap recruitment stories to [competition@linaro.org](mailto:competition@linaro.org). Prizes will be awarded at [Linaro Connect BKK16](http://connect.linaro.org/) based on the positive impact your selfies demonstrate.
 
 Each bottle ARM has sponsored gives a person in Africa clean drinking water for 5 years. Find out more about GiveMeTap [here](http://www.givemetap.co.uk/).
 
