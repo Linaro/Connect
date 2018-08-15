@@ -7,11 +7,6 @@
 .row.content {
     padding-top: 20px;
 }
-.panel-body {
-    height: 400px;
-    overflow-y: scroll;
-    overflow-x: hidden;
-}
 h1 {
     top: 135px;
     position: relative;
@@ -42,5 +37,5 @@ h1 {
     border: 1px solid #eee;
 }
 li.js-ticket-item.disable-touch-feedback:nth-child(-n+2) {
-    display:none;
+    display:none !important;
 }
