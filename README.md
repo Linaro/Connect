@@ -17,6 +17,32 @@ Below are a few guides that will help when adding content to the Linaro website.
 
 *****
 
+## Editing on GitHub
+
+If you are editing the website on GitHub you will need to make a fork of the Linaro/Connect repo, make changes there and then create a pull request to merge your changes in the main code repository for the Connect website.
+
+### Step 1 - Create an Account on GitHub/Login
+Firstly, create an account on GitHub if you have not already done so - [Create an Account on GitHub](https://github.com/join?source=header-home) - or login to your existing GitHub account.
+
+### Step 2 - Fork the Linaro/Connect repo.
+
+GitHub contains many repositories (basically a folder with a load of files inside it) and the Connect static website has it's own repository [here](https://github.com/Linaro/Connect). You need to make a fork (a copy) of this repository to your account. Which is as simple as clicking the fork button at the top right of the repository.
+
+![Fork the Connect repo on Github](/assets/images/help/ForkRepository.png)
+
+### Step 3 - Branches on Repositories
+
+Each repository can have multiple branches with whatever name you choose. The Linaro Connect repository has two main branches - `develop` and `master`. The `develop` branch contains the version of the websites files that are used to build [staging.connect.linaro.org](https://staging.connect.linaro.org). The `master` branch contains the version of the websites files that are used to build [connect.linaro.org](https://connect.linaro.org). When submitting changes to the website you need to make sure you are on the correct branch. 
+
+
+![Changing branch on your Fork](/assets/images/help/ChangingBranchOnFork.gif)
+
+
+### Step 4 - Make your changes and submit a pull request.
+
+In order to get your changes to the Connect website up on the live website you must make changes to a file/files on your fork of the Connect repository and then submit a pull request (or a `PR` which is a way to get your changes added to the main `repository` and not just your copy of the Connect website.) 
+
+
 
 ## Adding Speakers
 
@@ -44,7 +70,7 @@ title: Shinpei Kato
 
 Add the speakers image to the /assets/images/speakers/ sub folder and modify the path and name to match the image you added.
 
-**Editing on GitHub**
+**Uploading/Editing on GitHub**
 
 To upload a file on GitHub you first need to navigate to the folder you wish to add the image to.
 
