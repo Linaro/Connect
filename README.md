@@ -17,6 +17,49 @@ Below are a few guides that will help when adding content to the Linaro website.
 
 *****
 
+## Updating Home page Banner
+
+### Text/logo
+
+You can modify the home page banner by updating the '_include/hero-banner.html' include. Here you can find the text / Connect logo used in the banner. 
+
+### Background image
+
+To modify the background image you change the image listed in the home section of '_data/settings.yml' file. 
+
+```
+background-image:
+            # Darken is set to true by default - if you wish to remove the image overlay
+            # then change this setting to false.
+            darken: false
+            # This is the name of the background-image located in /assets/images/
+            name: YVR18-banner-high-res.jpg
+```
+
+Updated the `name` of the image to one that is include in a /assets/images/ folder. If you add a new folder please make sure to add to the jekyll-assets paths in the _config.yml
+
+```
+assets:
+  compress:
+        js: true
+  autoprefixer:
+      browsers: ["last 2 versions","> 5%","IE 9"]
+  sources:
+    - assets/js/
+    - assets/js/vendor/
+    - assets/js/app/
+    - assets/images
+    - assets/images/sponsors
+    - assets/images/featured-images
+    - assets/images/people
+    - assets/images/speakers
+    - assets/images/content
+    - assets/images/blog
+    - assets/css/
+```
+
+All the paths listed above are used by Jekyll when looking for image assets.
+
 ## Adding a blog post
 
 In order to add a blog post to the Connect website copy an existing blog post from the [_posts/blog/ folder](https://github.com/Linaro/connect/tree/master/_posts/blog). Posts on the Connect website are either typical blog posts (/blog/your-title/) or resource posts from a Linaro Connect event (/resources/yvr18/yvr18-100k1/).
