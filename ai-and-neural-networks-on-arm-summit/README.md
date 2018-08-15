@@ -18,9 +18,13 @@ The options for neural network acceleration in Arm-based platforms provide an un
 
 The growing amount of data captured by sensors and connected devices coupled with real time constraints and the cost to move large data sets from the edge to the cloud intensifies the need to manage and execute Big Data analytics and Machine Learning (ML) inference engines at the edge.
 
+### Why attend this event?
+
 The AI and Neural Networks on Arm Summit is intended to bring the software and silicon industries together to educate and collaborate, in order to accelerate development of these fascinating new technologies, while also mitigating the fragmentation and duplication of effort to support the many AI/NN frameworks spanning the range of silicon vendor offerings.
 
-Join us and learn about the latest AI technologies available in edge and consumer devices from the Arm ecosystem and how these accelerate deep learning applications leveraging the most widely adopted AI frameworks:
+### What will we talk about?
+
+There will be sessions on the latest AI technologies available in edge and consumer devices from the Arm ecosystem and how these accelerate deep learning applications leveraging the most widely adopted AI frameworks:
 
 - Inference on NPU, GPU, DSP and CPU
 - AI/ML frameworks and NN formats
