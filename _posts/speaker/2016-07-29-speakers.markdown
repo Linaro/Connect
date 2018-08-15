@@ -1,0 +1,31 @@
+---
+author: linaro
+categories: speaker
+comments: false
+date: 2016-07-29 14:20:14
+featured_image_name: Brian Richardson.png
+image:
+  featured: true
+  name: Brian Richardson.png
+  path: /assets/images/speakers/Brian Richardson.png
+layout: speaker-post
+link: http://connect.linaro.org/member/speakers/
+permalink: /speaker/:title/
+slug: speakers
+title: Brian Richardson
+wordpress_id: 3714
+---
+
+**Title: TianoCore - Open Source UEFI Community Update**
+**Date: Thursday, September 29**
+**Time: 8:55am – 9:35am**
+
+
+
+The TianoCore project hosts EDK II, an open source implementation of the Unified Extensible Firmware Interface (UEFI). EDK II has become the defacto UEFI implementation for ARM and Intel platforms, expanding standards based firmware across multiple architectures. This keynote will provide an update on the current status of the TianoCore project, plans for future improvements, and a discussion of why firmware is critical in today’s digital ecosystem.
+
+
+
+**Bio**
+
+Brian Richardson is an Intel technical evangelist who has spent most of his career as a "BIOS guy" working on the firmware that quietly boots billions of computers. Brian has focused on the industry transition to the Unified Extensible Firmware Interface (UEFI), demystifying how firmware works and simplifying firmware development tools. Brian has presented at LinuxCon, UEFI Plugfests, and Intel Developer Forum. He is a blogger for the Intel Software Evangelists project, former writer forlinux.com, and (apropos of nothing) executive producer for DragonConTV.

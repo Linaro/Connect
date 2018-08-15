@@ -3,13 +3,10 @@ amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Pre
 amazon_s3_video_url: None
 author: connect
 categories:
-- demo-friday
+- bud17
 comments: false
 date: 2017-03-23 17:10:30
-excerpt: 'Boot optimized and HWA MM capabilities on Android N MR1 with 4.9 kernel
-
-
-'
+excerpt: 'Boot optimized and HWA MM capabilities on Android N MR1 with 4.9 kernel'
 featured_image_name: BUD17-DF15.jpg
 image:
   featured: true

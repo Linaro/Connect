@@ -3,7 +3,7 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: None
 author: connect
 categories:
-- demo-friday
+- bud17
 comments: false
 date: 2017-04-19 13:09:53
 featured_image_name: BUD17DFSocionextSC2A11ARMServerSoC.jpg

@@ -1,0 +1,16 @@
+- name: Arm
+  type: lead
+  image: arm.jpg
+  url: https://www.linaro.org/company/arm/
+- name: Arrow
+  type: sponsor
+  image: arrow.jpg
+  url: https://www.linaro.org/company/arrow/
+- name: Shiratech
+  type: sponsor
+  image: shiratech.png
+  url: http://www.shiratech-solutions.com/
+- name: Xilinx
+  type: sponsor
+  image: xilinx.jpg
+  url: https://www.linaro.org/company/xilinx/

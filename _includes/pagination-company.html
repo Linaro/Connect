@@ -29,8 +29,6 @@
             {% endfor %}
         {% endif %}
 
-
-
       {% if paginator.next_page %}
         <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
       {% else %}

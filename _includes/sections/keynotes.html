@@ -8,20 +8,23 @@
         <div class="row">
             <div class="owl-carousel">
             {% assign current_keynotes = include.keynotes %}
-            {% for keynote in current_keynotes %}
+            {% assign current_keynotes_sorted = current_keynotes | sort_by: 'date' %}
+            {% for keynote in current_keynotes_sorted %}
                 <div class="col-xs-12">
-                    <div class="speaker-block">
-                        <div class="img-responsive speaker-image center-block" style="background-image:url({% asset_path "{{keynote.image}}" %})"></div>
-                        <h3 class="speaker-name">
-                            {{keynote.name}}
-                        </h3>
-                        <span class="keynote_time"><strong>{{keynote.day}}:</strong> {{keynote.start_time}} - {{keynote.end_time}}</span>
-                         {% if keynote.title %}
-                            <span class="keynote_title">{{keynote.title}}</span>
-                        {% else %}
-                            <span class="keynote_title"></span>
-                        {% endif %}
-                    </div>
+                    <a href="{{keynote.url}}">
+                        <div class="speaker-block">
+                            <div class="img-responsive speaker-image center-block" style="background-image:url({% asset_path "{{keynote.image}}" %})"></div>
+                            <h3 class="speaker-name">
+                                {{keynote.name}}
+                            </h3>
+                            <span class="keynote_time"><strong>{{keynote.day}}:</strong> {{keynote.start_time}} - {{keynote.end_time}}</span>
+                            {% if keynote.title %}
+                                <span class="keynote_title">{{keynote.title}}</span>
+                            {% else %}
+                                <span class="keynote_title"></span>
+                            {% endif %}
+                        </div>
+                    </a>
                 </div>
             {% endfor %}
             </div>

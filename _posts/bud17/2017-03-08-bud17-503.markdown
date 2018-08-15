@@ -1,0 +1,103 @@
+---
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-503%20The%20HPE%20Machine%20and%20Gen%20Z.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Friday/BUD17-503%20The%20HPE%20Machine%20and%20Gen-Z.mp4
+author: connect
+categories:
+- bud17
+comments: false
+date: 2017-03-08 15:52:31
+excerpt: |-
+  With the exponential rise in quantity of data to manage, the modern data
+  centre is increasingly limited by the capacity of individual machines. Since storage
+  and compute demand more capacity than can be provided by a single machine, we distribute
+  both over large clusters and use the network to transfer data between where it is
+  stored and where it is processed. Moving all that data around uses deep storage
+  stacks which incur a significant performance impact. If we could somehow flatten
+  the storage stack and provide applications with direct access to data, then we could
+  improve performance by orders of magnitude.
+
+
+  Hewlett Packard Enterprise recently demonstrated that we can do exactly with their
+  research project, "The Machine". Instead of moving data around with a network,
+  The Machine uses multi terabytes of persistent memory and a next generation fabric-attached
+  memory interconnect to provide a single pool of storage which can be accessed by
+  any processor in the cluster. It shows that we can provide applications with immediate
+  load/store access to huge data sets in a model called Memory-Driven Computing.
+
+
+  Proof in hand, now it is time to bring Memory-Defined Computing to the data centre.
+  Gen-Z is an open systems interconnect designed to provide memory semantic access
+  to data and devices via direct attached, switched or fabric topologies. HPE has
+  joined the Gen-Z consortium and is using the knowledge gained with The Machine to
+  help shape Gen-Z to set the stage for true Memory-Driven Computing. With putting
+  memory at the centre, this enables us to overcome the limitations of today's computing
+  systems and power innovations.
+
+
+  This session will cover two topics. It will start with a status update on The Machine
+  and an overview of how it works. Then we'll shift into an introduction of Gen-Z,
+  and how it can reshape the architecture of computing in the years to come.
+featured_image_name: BUD17-503.jpg
+image:
+  featured: true
+  name: BUD17-503.jpg
+  path: /assets/images/featured-images/BUD17-503.jpg
+layout: resource-post
+link: http://connect.linaro.org/resource/bud17/bud17-503z/
+post_format:
+- Video
+session_id: BUD17-503
+session_track: None
+slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73213778
+slideshare_presentation_url: https://www.slideshare.net/linaroorg/the-hpe-machine-and-genz-bud17503
+slug: bud17-503z
+speakers: Grant Likely
+tags:
+- Gen-Z
+- HPE
+title: The HPE Machine and Gen-Z - BUD17-503
+video_length: '21:11'
+video_thumbnail: None
+wordpress_id: 5224
+youtube_video_url: https://www.youtube.com/watch?v=1BVtChDQVyQ
+---
+
+"Session ID: BUD17-503
+Session Name: The HPE Machine and Gen-Z - BUD17-503
+Speaker: 
+Grant Likely
+Track: 
+
+
+★ Session Summary ★
+With the exponential rise in quantity of data to manage, the modern data centre is increasingly limited by the capacity of individual machines. Since storage and compute demand more capacity than can be provided by a single machine, we distribute both over large clusters and use the network to transfer data between where it is stored and where it is processed. Moving all that data around uses deep storage stacks which incur a significant performance impact. If we could somehow flatten the storage stack and provide applications with direct access to data, then we could improve performance by orders of magnitude.
+
+Hewlett Packard Enterprise recently demonstrated that we can do exactly with their research project, ""The Machine"". Instead of moving data around with a network, The Machine uses multi terabytes of persistent memory and a next generation fabric-attached memory interconnect to provide a single pool of storage which can be accessed by any processor in the cluster. It shows that we can provide applications with immediate load/store access to huge data sets in a model called Memory-Driven Computing.
+
+Proof in hand, now it is time to bring Memory-Defined Computing to the data centre. Gen-Z is an open systems interconnect designed to provide memory semantic access to data and devices via direct attached, switched or fabric topologies. HPE has joined the Gen-Z consortium and is using the knowledge gained with The Machine to help shape Gen-Z to set the stage for true Memory-Driven Computing. With putting memory at the centre, this enables us to overcome the limitations of today's computing systems and power innovations.
+
+This session will cover two topics. It will start with a status update on The Machine and an overview of how it works. Then we'll shift into an introduction of Gen-Z, and how it can reshape the architecture of computing in the years to come.
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/bud17/bud17-503/
+Presentation: 
+Video: https://youtu.be/1BVtChDQVyQ
+ ---------------------------------------------------
+
+★ Event Details ★
+bud17
+6-10 March 2017
+Corinthia Hotel, Budapest,
+Erzsébet krt. 43-49,
+1073 Hungary
+
+---------------------------------------------------
+Keyword: HPE, Gen-Z
+http://www.linaro.org
+http://connect.linaro.org
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961"

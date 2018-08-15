@@ -18,6 +18,7 @@ wordpress_id: 5605
 youtube_video_url: None
 categories:
 - Blog
+permalink: /blog/:title/
 ---
 
 https://www.youtube.com/playlist?list=PLKZSArYQptsM311TZC_fVQRDEUuE6anPo

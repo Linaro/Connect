@@ -12,7 +12,6 @@ excerpt: 'This session introduces deploying OPNFV on Arm with Compass4NFV projec
   official OPNFV installer. Now with Compass4NFV, we can easily deploy OPNFV infrastructure
   and scenarios on Arm servers. Includes: - Introducing OPNFV and Compass4NFV project
   - Adding Arm support to Compass4NFV - Deploying OPNFV on Arm'
-featured_image_name: HKG18-108.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-108/
 post_format:
