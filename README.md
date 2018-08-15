@@ -17,6 +17,39 @@ Below are a few guides that will help when adding content to the Linaro website.
 
 *****
 
+
+## Adding Speakers
+
+Speakers on the static Connect website are posts with a category of `speaker`. Speakers have been added to the _posts/speaker folder to keep them separate from resources/blog posts. In order to add a speaker simply copy an existing speaker and modify accoridngly. Below are the values in the post's front matter (values between to two set's of --- at the top of the file):
+
+**Front matter example from a speaker post**
+
+```
+---
+author: linaro
+categories: speaker
+comments: false
+date: 2018-08-14 08:40:50
+image:
+  featured: true
+  name: ShinpeiKato.jpg
+  path: /assets/images/speakers/ShinpeiKato.jpg
+layout: speaker-post
+permalink: /speaker/:title/
+title: Shinpei Kato
+---
+```
+
+### Speaker image - image:
+
+Add the speakers image to the /assets/images/speakers/ sub folder and modify the path and name to match the image you added.
+
+**Editing on GitHub**
+
+To upload a file on GitHub you first need to navigate to the folder you wish to add the image to.
+
+![Uploading a speaker image through GitHub](/assets/images/help/UploadSpeakerImage.gif])
+
 ## Updating Home page Banner
 
 ### Text/logo
