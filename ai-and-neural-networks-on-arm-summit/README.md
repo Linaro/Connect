@@ -1,8 +1,19 @@
 ---
 title: AI and Neural Networks on Arm Summit
 permalink: /ai-neural-networks-arm-summit/
-layout: container-breadcrumb
+layout: empty
+css-package: ai-summit
 ---
+<div class="container-fluid">
+<div class="row banner-row" style="background-image: url('{% asset_path 'AINNBanner.png' %}');">
+    <div class="container">
+        <h1>AI and Neural Networks on Arm Summit</h1>
+    </div>
+</div>
+<div class="row content">
+<div class="container">
+<div class="col-xs-12" markdown="1">
+
 The multifarious options for neural network acceleration in Arm-based platforms provide an unprecedented opportunity for new intelligent devices. However, it also raises the risk of fragmentation and duplication of effort when varied frameworks and libraries will be required to support a multitude of accelerators.
 
 The growing amount of data captured by sensors and connected devices coupled with real time constraints and the cost to move large data sets from the edge to the cloud intensifies the need to manage and execute Big Data analytics and Machine Learning (ML) inference engines at the edge.
@@ -23,28 +34,58 @@ Join us and learn about the latest AI technologies available in edge and consume
 
 - Cost  $45
 - Sponsorship options available, please contact kristine.dill@linaro.org
-
-<script type="text/javascript">
-    function defer(method) {
-        if (window.jQuery) {
-            method();
-        } else {
-            setTimeout(function() { defer(method) }, 50);
+  
+</div>
+<div class="col-sm-6">
+    <script type="text/javascript">
+        function defer(method) {
+            if (window.jQuery) {
+                method();
+            } else {
+                setTimeout(function() { defer(method) }, 50);
+            }
         }
-    }
-    defer(function(){
-        $(window).on("load",function(){
-            var url = "https://eventbrite.co.uk/tickets-external?eid=45251216607&amp;ref=etckt";    
-            $("#eventbrite-iframe").attr("src",url);
-            $("#eventbrite-iframe").on("load",function(){
-                $(this).removeClass("hidden-iframe");
-                $("#placeholder-skeleton").hide();
-                $(this).addClass("visible-iframe");
-            });
-        });       
-    });
-</script>
-<div id="eventbrite-skeleton">
-    <img id="placeholder-skeleton" class="img-responsive lazyload" data-src="{% asset_path 'eventbrite-skeleton.png' %}" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-    <iframe class="hidden-iframe" data-src="https://eventbrite.co.uk/tickets-external?eid=45251216607&amp;ref=etckt" width="100%" height="500" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto" id="eventbrite-iframe"></iframe>
+        defer(function(){
+            $(window).on("load",function(){
+                var url = "https://eventbrite.co.uk/tickets-external?eid=45251216607&amp;ref=etckt";    
+                $("#eventbrite-iframe").attr("src",url);
+                $("#eventbrite-iframe").on("load",function(){
+                    $(this).removeClass("hidden-iframe");
+                    $("#placeholder-skeleton").hide();
+                    $(this).addClass("visible-iframe");
+                });
+            });       
+        });
+    </script>
+    <div id="eventbrite-skeleton">
+        <img id="placeholder-skeleton" class="img-responsive lazyload" data-src="{% asset_path 'eventbrite-skeleton.png' %}" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+        <iframe class="hidden-iframe" data-src="https://eventbrite.co.uk/tickets-external?eid=45251216607&amp;ref=etckt" width="100%" height="500" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto" id="eventbrite-iframe"></iframe>
+    </div>
+</div>
+<div class="col-sm-6">
+
+<div class="panel panel-primary" class="blog-sidebar">
+    <div class="panel-heading">
+      <h3 class="panel-title">AI/ML Resources from HKG18</h3>
+    </div>
+    <div class="panel-body">
+        {% assign posts = site.categories["hkg18"]  %}
+        {% for post in posts %}
+            {% if post.session_track contains 'AI/ML' %}
+                <a href="{{post.url}}">
+                    <div class="row featured_blog_post">
+                        <div class="col-xs-12 ">
+                            {{post.title | truncate: 40}}
+                            <br /><small><em>{{post.date | date: "%A, %B %-d, %Y" }}</em></small>
+                        </div>
+                    </div>
+                </a>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
+
+</div>
+</div>
+</div>
 </div>

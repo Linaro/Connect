@@ -18,7 +18,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-306/
 post_format:
 - Video
 session_id: HKG18-306
-session_track: Ecosystem Day;LMG
+session_track: AI/ML, Ecosystem Day, LMG
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92327111
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18306-overview-of-qualcomm-snapdragon-neural-processing-engine
 slug: hkg18-306

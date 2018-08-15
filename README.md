@@ -6,16 +6,158 @@ Hosted in this repo are the markdown content files associated with the website. 
 PR's related to the Dockerfile and build.sh will take considerably longer to review than Jekyll or content changes.
 
 
-
 ## Guides
 
 Below are a few guides that will help when adding content to the Linaro website.
 
+- [Editing on GitHub](#editing-on-gitHub)
 - [Adding a blog post](#adding-a-blog-post)
 - [Building and Contributing](#building-and-contributing)
 
-
 *****
+
+## Editing on GitHub
+
+If you are editing the website on GitHub you will need to make a fork of the Linaro/Connect repo, make changes there and then create a pull request to merge your changes in the main code repository for the Connect website.
+
+### Step 1 - Create an Account on GitHub/Login
+Firstly, create an account on GitHub if you have not already done so - [Create an Account on GitHub](https://github.com/join?source=header-home) - or login to your existing GitHub account.
+
+### Step 2 - Fork the Linaro/Connect repo.
+
+GitHub contains many repositories (basically a folder with a load of files inside it) and the Connect static website has it's own repository [here](https://github.com/Linaro/Connect). You need to make a fork (a copy) of this repository to your account. Which is as simple as clicking the fork button at the top right of the repository.
+
+![Fork the Connect repo on Github](/assets/images/help/ForkRepository.png)
+
+### Step 3 - Branches on Repositories
+
+Each repository can have multiple branches with whatever name you choose. The Linaro Connect repository has two main branches - `develop` and `master`. The `develop` branch contains the version of the websites files that are used to build [staging.connect.linaro.org](https://staging.connect.linaro.org). The `master` branch contains the version of the websites files that are used to build [connect.linaro.org](https://connect.linaro.org). When submitting changes to the website you need to make sure you are on the correct branch. 
+
+
+![Changing branch on your Fork](/assets/images/help/ChangingBranchOnFork.gif)
+
+
+### Step 4 - Make your changes and submit a pull request.
+
+In order to get your changes added to the Connect website you must make changes to a file/files on **your** `fork` of the Connect repository and then submit a __pull request__ (or a `PR` which is a way to get your changes added to the main `repository` and not just your copy of the Connect website.) 
+
+For example we will edit the https://connect.linaro.org/about/ page text and submit a PR.
+
+
+## Add Keynotes to the Homepage Carousel
+
+Keynotes in the homepage carousel are added from the _data/yvr18-keynotes.yml file. If you need to add a keynote to the homepage carousel simply append your keynote to the data file. In regards to following Connect events, duplicate the yvr18-keynotes.yml file and rename appropriately. Then change the included data file by amending this line:
+
+```
+...
+{% include sections/keynotes.html keynotes=site.data.yvr18-keynotes %}
+...
+```
+E.g 
+
+```
+...
+{% include sections/keynotes.html keynotes=site.data.bkk19-keynotes %}
+...
+```
+
+## Add Keynotes to the Homepage Carousel
+
+Keynotes in the homepage carousel are added from the _data/yvr18-keynotes.yml file. If you need to add a keynote to the homepage carousel simply append your keynote to the data file. In regards to following Connect events, duplicate the yvr18-keynotes.yml file and rename appropriately. Then change the included data file by amending this line:
+
+```
+...
+{% include sections/keynotes.html keynotes=site.data.yvr18-keynotes %}
+...
+```
+E.g 
+
+```
+...
+{% include sections/keynotes.html keynotes=site.data.bkk19-keynotes %}
+...
+```
+
+## Add a new resources section to Resources
+
+The resources section is generated from a _data/connects.yml file. This should be modified to include all the previous Connect events whichh have resources.
+
+## Adding Connect Speakers
+
+Speakers on the static Connect website are posts with a category of `speaker`. Speakers have been added to the _posts/speaker folder to keep them separate from resources/blog posts. In order to add a speaker simply copy an existing speaker and modify accoridngly. Below are the values in the post's front matter (values between to two set's of --- at the top of the file):
+
+**Front matter example from a speaker post**
+
+```
+---
+author: linaro
+categories: speaker
+comments: false
+date: 2018-08-14 08:40:50
+image:
+  featured: true
+  name: ShinpeiKato.jpg
+  path: /assets/images/speakers/ShinpeiKato.jpg
+layout: speaker-post
+permalink: /speaker/:title/
+title: Shinpei Kato
+---
+```
+
+### Speaker image - image:
+
+Add the speakers image to the /assets/images/speakers/ sub folder and modify the path and name to match the image you added.
+
+**Uploading/Editing on GitHub**
+
+To upload a file on GitHub you first need to navigate to the folder you wish to add the image to.
+
+![Uploading a speaker image through GitHub](/assets/images/help/UploadASpeakerImage.gif)
+
+Verify you are on your fork of the repo and not the main Connect repository. Also make sure you are pushing to the master branch (the branch to main live site is built from - unless you are testing the changes which can be added to the develop branch and built to staging.connect.linaro.org).
+
+## Updating Home page Banner
+
+### Text/logo
+
+You can modify the home page banner by updating the '_include/hero-banner.html' include. Here you can find the text / Connect logo used in the banner. 
+
+### Background image
+
+To modify the background image you change the image listed in the home section of '_data/settings.yml' file. 
+
+```
+background-image:
+            # Darken is set to true by default - if you wish to remove the image overlay
+            # then change this setting to false.
+            darken: false
+            # This is the name of the background-image located in /assets/images/
+            name: YVR18-banner-high-res.jpg
+```
+
+Updated the `name` of the image to one that is include in a /assets/images/ folder. If you add a new folder please make sure to add to the jekyll-assets paths in the _config.yml
+
+```
+assets:
+  compress:
+        js: true
+  autoprefixer:
+      browsers: ["last 2 versions","> 5%","IE 9"]
+  sources:
+    - assets/js/
+    - assets/js/vendor/
+    - assets/js/app/
+    - assets/images
+    - assets/images/sponsors
+    - assets/images/featured-images
+    - assets/images/people
+    - assets/images/speakers
+    - assets/images/content
+    - assets/images/blog
+    - assets/css/
+```
+
+All the paths listed above are used by Jekyll when looking for image assets.
 
 ## Adding a blog post
 

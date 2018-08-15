@@ -17,7 +17,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-413/
 post_format:
 - Video
 session_id: HKG18-413
-session_track: AI / ML
+session_track: AI/ML
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92856355
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18413-ai-and-machine-learning-bof-sponsored-by-the-tsc
 slug: hkg18-413
@@ -32,7 +32,7 @@ youtube_video_url: https://www.youtube.com/watch?v=SmeguiMm3Ho
 Session ID: HKG18-413
 Session Name: HKG18-413 - AI and Machine Learning BoF (sponsored by the TSC)
 Speaker: David Rusling,Andrea Gallo
-Track: AI / ML
+Track: AI/ML
 
 
 ## Session Summary
@@ -49,7 +49,7 @@ hkg18
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------
-Keyword: AI / ML
+Keyword: AI/ML
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

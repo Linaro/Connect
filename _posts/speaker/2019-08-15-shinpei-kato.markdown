@@ -2,7 +2,7 @@
 author: linaro
 categories: speaker
 comments: false
-date: 2018-08-15 08:40:50
+date: 2018-08-14 08:40:50
 image:
   featured: true
   name: ShinpeiKato.jpg
@@ -10,8 +10,6 @@ image:
 layout: speaker-post
 permalink: /speaker/:title/
 title: Shinpei Kato
-company: TierIV
-job-title: Director of TierⅣ and Graduate School of Information Science and Engineering, The University of Tokyo
 ---
 **Company:** TierIV
 

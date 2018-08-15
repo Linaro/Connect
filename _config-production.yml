@@ -1,6 +1,5 @@
-# In order to build for staging run:
+# In order to build for production run:
 # $ jekyll build --config _config.yml, _config-production.yml
-#
 #
 # URL of static site
 url: "https://connect.linaro.org"
