@@ -41,3 +41,6 @@ h1 {
 #wrapper .content .panel-heading {
     border: 1px solid #eee;
 }
+li.js-ticket-item.disable-touch-feedback:nth-child(-n+2) {
+    display:none;
+}

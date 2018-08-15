@@ -14,7 +14,7 @@ css-package: ai-summit
 <div class="container">
 <div class="col-xs-12" markdown="1">
 
-The multifarious options for neural network acceleration in Arm-based platforms provide an unprecedented opportunity for new intelligent devices. However, it also raises the risk of fragmentation and duplication of effort when varied frameworks and libraries will be required to support a multitude of accelerators.
+The options for neural network acceleration in Arm-based platforms provide an unprecedented opportunity for new intelligent devices. However, it also raises the risk of fragmentation and duplication of effort when varied frameworks and libraries will be required to support a multitude of accelerators.
 
 The growing amount of data captured by sensors and connected devices coupled with real time constraints and the cost to move large data sets from the edge to the cloud intensifies the need to manage and execute Big Data analytics and Machine Learning (ML) inference engines at the edge.
 
@@ -76,7 +76,6 @@ Join us and learn about the latest AI technologies available in edge and consume
                     <div class="row featured_blog_post">
                         <div class="col-xs-12 ">
                             {{post.title | truncate: 40}}
-                            <br /><small><em>{{post.date | date: "%A, %B %-d, %Y" }}</em></small>
                         </div>
                     </div>
                 </a>
