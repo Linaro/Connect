@@ -16,5 +16,22 @@
     "^/lce13(/?|/index.html)$ /resources/lce13/ [R,L,NC]",
     "^/lca13(/?|/index.html)$ /resources/lca13/ [R,L,NC]",
     "^/lcu13(/?|/index.html)$ /resources/lcu13/ [R,L,NC]",
-    "^/resource/(.*)$ /resources/$1 [R,L,NC]"
+    "^/yvr18/resources(/?|/index.html)$ /resources/yvr18/ [R,L,NC]",
+    "^/hkg18/resources(/?|/index.html)$ /resources/hkg18/ [R,L,NC]",
+    "^/bud17/resources(/?|/index.html)$ /resources/bud17/ [R,L,NC]",
+    "^/las16/resources(/?|/index.html)$ /resources/las16/ [R,L,NC]",
+    "^/bkk16/resources(/?|/index.html)$ /resources/bkk16/ [R,L,NC]",
+    "^/sfo15/resources(/?|/index.html)$ /resources/sfo15/ [R,L,NC]",
+    "^/hkg15/resources(/?|/index.html)$ /resources/hkg15/ [R,L,NC]",
+    "^/lcu14/resources(/?|/index.html)$ /resources/lcu14/ [R,L,NC]",
+    "^/lca14/resources(/?|/index.html)$ /resources/lca14/ [R,L,NC]",
+    "^/lce13/resources(/?|/index.html)$ /resources/lce13/ [R,L,NC]",
+    "^/lca13/resources(/?|/index.html)$ /resources/lca13/ [R,L,NC]",
+    "^/lcu13/resources(/?|/index.html)$ /resources/lcu13/ [R,L,NC]",
+    "^/resource/(.*)$ /resources/$1 [R,L,NC]",
+    "^/member/(.*)$ /speaker/$1 [R,L,NC]",
+    "^/member(/?|/index.html)$ /speaker/ [R,L,NC]",
+    "^/speakers(/?|/index.html)$ /speaker/ [R,L,NC]",
+    "^/hub(/?|/index.html)$ /resources/ [R,L,NC]",
+    "^/wp-login.php?redirect_to=/register-connect/$ / [R,L,NC]"
 ]

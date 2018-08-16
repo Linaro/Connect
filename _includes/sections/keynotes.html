@@ -17,6 +17,9 @@
                             <h3 class="speaker-name">
                                 {{keynote.name}}
                             </h3>
+                             {% if keynote.job_title %}
+                            <span class="keynote_job_title">{{keynote.job_title}}</span>
+                            {% endif %}
                             <span class="keynote_time"><strong>{{keynote.day}}:</strong> {{keynote.start_time}} - {{keynote.end_time}}</span>
                             {% if keynote.title %}
                                 <span class="keynote_title">{{keynote.title}}</span>

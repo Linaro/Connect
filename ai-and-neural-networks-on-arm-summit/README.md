@@ -6,9 +6,15 @@ css-package: ai-summit
 ---
 <div class="container-fluid">
 <div class="row banner-row" style="background-image: url('{% asset_path 'AINNBanner.png' %}');">
-    <div class="container">
-        <h1>AI and Neural Networks on Arm Summit</h1>
-    </div>
+<div class="container" id="summit-container">
+<h1>AI and Neural Networks on Arm Summit</h1>
+<p>
+At <span class="linaro-green">Linaro Connect Vancouver 2018</span><br>
+<strong>Wednesday 19 September</strong> - Hyatt Regency Vancouver, <br>
+655 Burrard Street, V6C 2R7<br>
+<strong>$45 to attend the summit only</strong>
+</p>
+</div>
 </div>
 <div class="row content">
 <div class="container">
@@ -41,51 +47,51 @@ There will be sessions on the latest AI technologies available in edge and consu
   
 </div>
 <div class="col-sm-6">
-    <script type="text/javascript">
-        function defer(method) {
-            if (window.jQuery) {
-                method();
-            } else {
-                setTimeout(function() { defer(method) }, 50);
-            }
-        }
-        defer(function(){
-            $(window).on("load",function(){
-                var url = "https://eventbrite.co.uk/tickets-external?eid=45251216607&amp;ref=etckt";    
-                $("#eventbrite-iframe").attr("src",url);
-                $("#eventbrite-iframe").on("load",function(){
-                    $(this).removeClass("hidden-iframe");
-                    $("#placeholder-skeleton").hide();
-                    $(this).addClass("visible-iframe");
-                });
-            });       
-        });
-    </script>
-    <div id="eventbrite-skeleton">
-        <img id="placeholder-skeleton" class="img-responsive lazyload" data-src="{% asset_path 'eventbrite-skeleton.png' %}" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-        <iframe class="hidden-iframe" data-src="https://eventbrite.co.uk/tickets-external?eid=45251216607&amp;ref=etckt" width="100%" height="500" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto" id="eventbrite-iframe"></iframe>
-    </div>
+<script type="text/javascript">
+function defer(method) {
+if (window.jQuery) {
+    method();
+} else {
+    setTimeout(function() { defer(method) }, 50);
+}
+}
+defer(function(){
+$(window).on("load",function(){
+    var url = "https://eventbrite.co.uk/tickets-external?eid=45251216607&amp;ref=etckt";    
+    $("#eventbrite-iframe").attr("src",url);
+    $("#eventbrite-iframe").on("load",function(){
+        $(this).removeClass("hidden-iframe");
+        $("#placeholder-skeleton").hide();
+        $(this).addClass("visible-iframe");
+    });
+});       
+});
+</script>
+<div id="eventbrite-skeleton">
+<img id="placeholder-skeleton" class="img-responsive lazyload" data-src="{% asset_path 'eventbrite-skeleton.png' %}" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<iframe class="hidden-iframe" data-src="https://eventbrite.co.uk/tickets-external?eid=45251216607&amp;ref=etckt" width="100%" height="500" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto" id="eventbrite-iframe"></iframe>
+</div>
 </div>
 <div class="col-sm-6">
 
 <div class="panel panel-primary" class="blog-sidebar">
-    <div class="panel-heading">
-      <h3 class="panel-title">AI/ML Resources from HKG18</h3>
-    </div>
-    <div class="panel-body">
-        {% assign posts = site.categories["hkg18"]  %}
-        {% for post in posts %}
-            {% if post.session_track contains 'AI/ML' %}
-                <a href="{{post.url}}">
-                    <div class="row featured_blog_post">
-                        <div class="col-xs-12 ">
-                            {{post.title | truncate: 40}}
-                        </div>
-                    </div>
-                </a>
-            {% endif %}
-        {% endfor %}
-    </div>
+<div class="panel-heading">
+<h3 class="panel-title">AI/ML Resources from HKG18</h3>
+</div>
+<div class="panel-body">
+{% assign posts = site.categories["hkg18"]  %}
+{% for post in posts %}
+{% if post.session_track contains 'AI/ML' %}
+<a href="{{post.url}}">
+<div class="row featured_blog_post">
+<div class="col-xs-12 ">
+{{post.title | truncate: 40}}
+</div>
+</div>
+</a>
+{% endif %}
+{% endfor %}
+</div>
 </div>
 
 </div>
