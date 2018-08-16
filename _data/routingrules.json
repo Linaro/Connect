@@ -2,7 +2,7 @@
     "^/hkg18/resources(/?|/index.html)$ /resources/hkg18/ [R,L,NC]",
     "^/demofriday(/?|/index.html)$ /demo-friday/ [R,L,NC]",
     "^/ecosystem-day(/?|/index.html)$ /resources/ [R,L,NC]",
-    "^/business-invitation-letters(/?|/index.html)$ /visa-business-invitation-letters-2/ [R,L,NC]",
+    "^/visa-business-invitation-letters-2(/?|/index.html)$ /business-invitation-letters/ [R,L,NC]",
     "^/member(/?|/index.html)$ /code-of-conduct/ [R,L,NC]",
     "^/linaro-connect-code-conduct(/?|/index.html)$ /code-of-conduct/ [R,L,NC]",
     "^/yvr18(/?|/index.html)$ /resources/yvr18/ [R,L,NC]",
