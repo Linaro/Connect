@@ -3,5 +3,18 @@
     "^/demofriday(/?|/index.html)$ /demo-friday/ [R,L,NC]",
     "^/business-invitation-letters(/?|/index.html)$ /visa-business-invitation-letters-2/ [R,L,NC]",
     "^/member(/?|/index.html)$ /code-of-conduct/ [R,L,NC]",
-    "^/linaro-connect-code-conduct(/?|/index.html)$ /code-of-conduct/ [R,L,NC]"
+    "^/linaro-connect-code-conduct(/?|/index.html)$ /code-of-conduct/ [R,L,NC]",
+    "^/yvr18(/?|/index.html)$ /resources/yvr18/ [R,L,NC]",
+    "^/hkg18(/?|/index.html)$ /resources/hkg18/ [R,L,NC]",
+    "^/bud17(/?|/index.html)$ /resources/bud17/ [R,L,NC]",
+    "^/las16(/?|/index.html)$ /resources/las16/ [R,L,NC]",
+    "^/bkk16(/?|/index.html)$ /resources/bkk16/ [R,L,NC]",
+    "^/sfo15(/?|/index.html)$ /resources/sfo15/ [R,L,NC]",
+    "^/hkg15(/?|/index.html)$ /resources/hkg15/ [R,L,NC]",
+    "^/lcu14(/?|/index.html)$ /resources/lcu14/ [R,L,NC]",
+    "^/lca14(/?|/index.html)$ /resources/lca14/ [R,L,NC]",
+    "^/lce13(/?|/index.html)$ /resources/lce13/ [R,L,NC]",
+    "^/lca13(/?|/index.html)$ /resources/lca13/ [R,L,NC]",
+    "^/lcu13(/?|/index.html)$ /resources/lcu13/ [R,L,NC]",
+    "^/resource/(.*)$ /resources/$1 [R,L,NC]"
 ]
