@@ -7,6 +7,41 @@ css-package: sponsor
 ---
 {% include breadcrumb.html %}
 
+<div class="container-fluid sponsors">
+    <div class="row" id="current-sponsors">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12  text-center">
+                    <h2>{{site.connect-code}} Sponsors</h2>
+                </div>
+            </div>
+            <div class="row">
+            {% for sponsor in site.data.current-sponsors %} 
+                {% if sponsor.type == "lead" %}
+                    <div class="col-xs-12 col-sm-3  text-center lead-sponsor">
+                        <div class="sponsor">
+                            <h3> Lead Sponsor </h3>
+                            <a href="{{sponsor.url}}" target="_blank">
+                                <div class="img-responsive lazyload" style="background-image: url({% asset_path '{{sponsor.image}}' %});"></div>
+                            </a>
+                        </div>
+                    </div>
+                {% else %}
+                    <div class="col-xs-12 col-sm-3 text-center connect-sponsor">
+                        <div class="sponsor">
+                            <h3> Sponsor </h3>
+                            <a href="{{sponsor.url}}" target="_blank">
+                                <div class="img-responsive lazyload" style="background-image: url({% asset_path '{{sponsor.image}}' %});"></div>
+                            </a>
+                        </div>
+                    </div>
+                {% endif %} 
+            {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+
 <div class="container-fluid">
     <div class="row" id="intro-row">
         <div class="container" style="padding-top: 30px;">
