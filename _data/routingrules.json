@@ -1,6 +1,7 @@
 [
     "^/hkg18/resources(/?|/index.html)$ /resources/hkg18/ [R,L,NC]",
     "^/demofriday(/?|/index.html)$ /demo-friday/ [R,L,NC]",
+    "^/ecosystem-day(/?|/index.html)$ /resources/ [R,L,NC]",
     "^/business-invitation-letters(/?|/index.html)$ /visa-business-invitation-letters-2/ [R,L,NC]",
     "^/member(/?|/index.html)$ /code-of-conduct/ [R,L,NC]",
     "^/linaro-connect-code-conduct(/?|/index.html)$ /code-of-conduct/ [R,L,NC]",
@@ -28,6 +29,7 @@
     "^/lce13/resources(/?|/index.html)$ /resources/lce13/ [R,L,NC]",
     "^/lca13/resources(/?|/index.html)$ /resources/lca13/ [R,L,NC]",
     "^/lcu13/resources(/?|/index.html)$ /resources/lcu13/ [R,L,NC]",
+    "^/lce12/resources(/?|/index.html)$ /resources/ [R,L,NC]",
     "^/resource/(.*)$ /resources/$1 [R,L,NC]",
     "^/member/(.*)$ /speaker/$1 [R,L,NC]",
     "^/member(/?|/index.html)$ /speaker/ [R,L,NC]",
