@@ -1,16 +1,20 @@
-# connect.linaro.org website
+# Linaro Connect Event Website
 
-Welcome to the official content repository for Linaro Connect's static Jekyll based website.
-Hosted in this repo are the markdown content files associated with the website. Feel free to [submit a PR](https://github.com/linaro/connect/pulls) / [Issue](https://github.com/Linaro/connect/issues/new) if there is anything you would like to change.
+Welcome to the official content repository for Linaro Connect's static [Jekyll](https://jekyllrb.com/) website. Connect resources are added to this website through Jekyll posts. These resources are updated during and after Connect.
 
-PR's related to the Dockerfile and build.sh will take considerably longer to review than Jekyll or content changes.
+We are open to you [submitting a PR](https://github.com/linaro/connect/pulls) / [Issue](https://github.com/Linaro/connect/issues/new) if there is anything you notice that is out of place or needs updating.
 
+__PR's related to the Dockerfile and build.sh will take considerably longer to review than Jekyll or content changes.__
 
 ## Guides
 
-Below are a few guides that will help when adding content to the Linaro website.
+Below are a few guides that will help when adding content/making changes to the Linaro Connect website.
 
 - [Editing on GitHub](#editing-on-gitHub)
+- [Adding Keynotes to the Homepage Carousel](#add-keynotes-to-the-homepage-carousel)
+- [Add a new resources section to /resources/ ](#add-a-new-resources-section-to-resources)
+- [Adding Connect Keynote Speakers](#adding-connect-keynote-speakers)
+- [Updating the Home page Banner](#updating-the-homepage-banner)
 - [Adding a blog post](#adding-a-blog-post)
 - [Building and Contributing](#building-and-contributing)
 
@@ -65,7 +69,7 @@ E.g
 
 The resources section is generated from a _data/connects.yml file. This should be modified to include all the previous Connect events whichh have resources.
 
-## Adding Connect Speakers
+## Adding Connect Keynote Speakers
 
 Speakers on the static Connect website are posts with a category of `speaker`. Speakers have been added to the _posts/speaker folder to keep them separate from resources/blog posts. In order to add a speaker simply copy an existing speaker and modify accoridngly. Below are the values in the post's front matter (values between to two set's of --- at the top of the file):
 
@@ -99,7 +103,7 @@ To upload a file on GitHub you first need to navigate to the folder you wish to 
 
 Verify you are on your fork of the repo and not the main Connect repository. Also make sure you are pushing to the master branch (the branch to main live site is built from - unless you are testing the changes which can be added to the develop branch and built to staging.connect.linaro.org).
 
-## Updating Home page Banner
+## Updating the Homepage Banner
 
 ### Text/logo
 
