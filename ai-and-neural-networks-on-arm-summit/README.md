@@ -81,15 +81,15 @@ $(window).on("load",function(){
 <div class="panel-body">
 {% assign posts = site.categories["hkg18"]  %}
 {% for post in posts %}
-    {% if post.session_track contains 'AI/ML' %}
-        <a href="{{post.url}}">
-            <div class="row featured_blog_post">
-                <div class="col-xs-12 ">
-                    {{post.title | truncate: 40}}
-                </div>
-            </div>
-        </a>
-    {% endif %}
+{% if post.session_track contains 'AI/ML' %}
+<a href="{{post.url}}">
+<div class="row featured_blog_post">
+<div class="col-xs-12 ">
+{{post.title | truncate: 40}}
+</div>
+</div>
+</a>
+{% endif %}
 {% endfor %}
 </div>
 </div>
