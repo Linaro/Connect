@@ -22,6 +22,7 @@ production: false
 kramdown:
   input: GFM
   syntax_highlighter: rouge # Syntax highlighter for Kramdown.
+  parse_block_html: true
 # Encoding of the files being included in the Jekyll Build.
 encoding: utf-8
 # Jekyll configuration for running the site in "Safe" mode.
