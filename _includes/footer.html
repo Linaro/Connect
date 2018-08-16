@@ -7,31 +7,29 @@
                     <h2>{{site.connect-code}} Sponsors</h2>
                 </div>
             </div>
-            {% for sponsor in site.data.current-sponsors %}
-                {% if sponsor.type == "lead" %}
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-offset-4 col-sm-4  text-center lead-sponsor">
-                            <div class="sponsor">
-                                <h3> Lead Sponsor </h3>
-                                <a href="{{sponsor.url}}" target="_blank">
-                                    <div class="img-responsive lazyload" style="background-image: url({% asset_path '{{sponsor.image}}' %});"></div>
-                                </a>
-                            </div>
-                        </div>
+            <div class="row">
+                {% for sponsor in site.data.current-sponsors %} {% if sponsor.type == "lead" %}
+                <div class="col-xs-12 col-sm-3  text-center lead-sponsor">
+                    <div class="sponsor">
+                        <h3> Lead Sponsor </h3>
+                        <a href="{{sponsor.url}}" target="_blank">
+                            <div class="img-responsive lazyload" style="background-image: url({% asset_path '{{sponsor.image}}' %});"></div>
+                        </a>
                     </div>
+                </div>
                 {% else %}
-                    <div class="col-xs-12 col-sm-4  text-center connect-sponsor">
-                        <div class="sponsor">
-                            <h3> Sponsor </h3>
-                            <a href="{{sponsor.url}}" target="_blank">
-                                <div class="img-responsive lazyload" style="background-image: url({% asset_path '{{sponsor.image}}' %});"></div>
-                            </a>    
-                        </div>
+                <div class="col-xs-12 col-sm-3 text-center connect-sponsor">
+                    <div class="sponsor">
+                        <h3> Sponsor </h3>
+                        <a href="{{sponsor.url}}" target="_blank">
+                            <div class="img-responsive lazyload" style="background-image: url({% asset_path '{{sponsor.image}}' %});"></div>
+                        </a>
                     </div>
-                {% endif %}
-            {% endfor %}
+                </div>
+                {% endif %} {% endfor %}
+            </div>
         </div>
-    </div>       
+    </div>
 </div>
 {% endunless %}
 <div class="container-fluid footer">
