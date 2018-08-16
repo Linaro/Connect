@@ -1,4 +1,4 @@
-
+{% unless page.url == "/sponsors/" %}
 <div class="container-fluid sponsors">
     <div class="row" id="current-sponsors">
         <div class="container">
@@ -32,7 +32,8 @@
             {% endfor %}
         </div>
     </div>       
-</div>    
+</div>
+{% endunless %}
 <div class="container-fluid footer">
     <div class="row">
         <footer id="footer">
