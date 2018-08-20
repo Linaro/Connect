@@ -69,6 +69,7 @@ Keynotes in the homepage carousel are added from the _data/yvr18-keynotes.yml fi
 {% include sections/keynotes.html keynotes=site.data.yvr18-keynotes %}
 ...
 ```
+
 E.g 
 
 ```
