@@ -51,8 +51,8 @@ Each repository can have multiple branches with whatever name you choose. The Li
 
 In order to get your changes added to the Connect website you must make changes to a file/files on **your** `fork` of the Connect repository and then submit a __pull request__ (or a `PR` which is a way to get your changes added to the main `repository` and not just your copy of the Connect website.) 
 
-For example we will edit the https://connect.linaro.org/about/ page text and submit a PR.
 
+![Creating a pull request.](/assets/images/help/CreatingAPullRequest.gif)
 
 ## Add Keynotes to the Homepage Carousel
 
