@@ -51,6 +51,14 @@ For example we will edit the https://connect.linaro.org/about/ page text and sub
 ![Making a change and creating a pull request.](/assets/images/help/CreatingAPullRequest.gif)
 
 
+#### Overriding the need for a reviewer on your pull request
+
+If you are certain that you need to merge the changes you have made and you are an Administrator of the repository you do the following to merge the PR.
+
+**Warning:** If you are an administrator and are using the above method of mergin your pr. Then please make sure that at least the tests __have passed__!
+
+![Overriding the need for a reviewer](/assets/images/help/OverridingNeedForReview.gif)
+
 
 ## Add Keynotes to the Homepage Carousel
 
