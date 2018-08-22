@@ -60,7 +60,8 @@
               <h3 class="panel-title">Other {{include.event_code | upcase}} Sessions</h3>
             </div>
             <div class="panel-body">
-                {% assign related_posts = site.categories[include.event_code] %}
+                {% assign event_code_formatted = include.event_code | downcase %}
+                {% assign related_posts = site.categories[event_code_formatted] %}
                 {% for post in related_posts limit: 4 %}
                     <a href="{{post.url}}">
                         <div class="row featured_blog_post">
