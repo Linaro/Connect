@@ -23,7 +23,7 @@
               {% if page == paginator.page %}
                 <li class="active"><a href="">{{ page }}</a></li>
               {% elsif page == 1 %}
-                <li><a href="/resources/{{include.event_code | | downcase }}}}/">{{ page }}</a></li>
+                <li><a href="/resources/{{include.event_code | downcase }}}}/">{{ page }}</a></li>
               {% else %}
                 <li><a href="{{ pagination_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
               {% endif %}
