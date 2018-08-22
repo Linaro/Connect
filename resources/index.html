@@ -151,24 +151,28 @@ The following part removes dulpicated tags and invalid tags like blank tag.
                     </div>
                 </div>
                 <div class="col-xs-12 no-padding text-center">
-                    {% assign numberOfFlickrAlbums = connect.flickr-albums | size %} {% if numberOfFlickrAlbums > 1 %}
-                    <!-- Single button -->
-                    <div class="btn-group">
-                        <button type="button" class="flickr-albums btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Flickr Albums
-                            <span class="caret"></span>
-                        </button>
-                        <ul class="dropdown-menu">
-                            {% for album in connect.flickr-albums %}
-                            <li>
-                                <a href="{{album.url}}">{{album.title}}</a>
-                            </li>
-                            {% endfor %}
-                        </ul>
-                    </div>
-                    {% else %}
-                    <a class="flickr-albums btn btn-primary" href="{{connect.flickr-albums | first }}">Flickr Album</a>
+                    {% if connect.flickr-albums %}
+                        {% assign numberOfFlickrAlbums = connect.flickr-albums | size %} 
+                        {% if numberOfFlickrAlbums > 1 %}
+                        <!-- Single button -->
+                        <div class="btn-group">
+                            <button type="button" class="flickr-albums btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Flickr Albums
+                                <span class="caret"></span>
+                            </button>
+                            <ul class="dropdown-menu">
+                                {% for album in connect.flickr-albums %}
+                                <li>
+                                    <a href="{{album.url}}">{{album.title}}</a>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                        {% else %}
+                        <a class="flickr-albums btn btn-primary" href="{{connect.flickr-albums | first }}">Flickr Album</a>
+                        {% endif %}
                     {% endif %}
+                    
                     {% if connect.location %}
                         {% capture full-location %}{% endcapture %}
                         {% if connect.location.venue %}

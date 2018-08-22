@@ -1,5 +1,6 @@
-{% capture pagination_path %}/resources/{{include.event_code}}/:num/{% endcapture %}
+{% capture pagination_path %}/resources/{{include.event_code | downcase }}/:num/{% endcapture %}
 
+<div class="col-xs-12">
 {% if paginator.total_pages > 1 %}
 <div class="text-center" id="pagination_panel">
     <ul class="pagination pagination-sm">
@@ -12,7 +13,7 @@
       {% if paginator.page_trail %}
         {% for trail in paginator.page_trail %}
           <li {% if page.url == trail.path %}class="active"{% endif %}>
-              <a href="{% if trail.num == 1 %}/resources/{{include.event_code}}/{% else %}
+              <a href="{% if trail.num == 1 %}/resources/{{include.event_code | downcase }}/{% else %}
               {{ pagination_path | replace: ':num', trail.num  }}{% endif %}"
               title="{{trail.title}}">{{ trail.num }}</a>
           </li>
@@ -22,7 +23,7 @@
               {% if page == paginator.page %}
                 <li class="active"><a href="">{{ page }}</a></li>
               {% elsif page == 1 %}
-                <li><a href="/resources/{{include.event_code}}/">{{ page }}</a></li>
+                <li><a href="/resources/{{include.event_code | downcase }}}}/">{{ page }}</a></li>
               {% else %}
                 <li><a href="{{ pagination_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
               {% endif %}
@@ -37,3 +38,4 @@
     </ul>
 </div>
 {% endif %}
+</div>

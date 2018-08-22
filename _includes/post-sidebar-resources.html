@@ -22,16 +22,13 @@
             </div>
             <div class="col-xs-6">
                 <span class="resources-number">
-                    
                     {% assign counter = 0 %}
                     {% for resource in site.categories[include.event_code] %}
                         {% if resource.youtube_video_url %}
                             {% assign counter = counter | plus:1 %}
                         {% endif %}
                     {% endfor %}
-                    
                     {{counter}}
-                
                 </span>
             </div>
         </div>
@@ -63,6 +60,7 @@
               <h3 class="panel-title">Other {{include.event_code | upcase}} Sessions</h3>
             </div>
             <div class="panel-body">
+                {% assign event_code_formatted = include.event_code | downc%}
                 {% assign related_posts = site.categories[include.event_code] %}
                 {% for post in related_posts limit: 4 %}
                     <a href="{{post.url}}">
