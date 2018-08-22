@@ -41,10 +41,10 @@ The following part removes dulpicated tags and invalid tags like blank tag.
 {% assign total_videos = 0 %}
 
 {% for post in site.posts %}
-    {% if post.youtube_video_url %}
+    {% if post.youtube_video_url != "None" %}
         {% assign total_videos = total_videos | plus: 1 %}
     {% endif %}
-    {% if post.slideshare_presentation_url %}
+    {% if post.slideshare_presentation_url != "None" %}
         {% assign total_slides = total_slides | plus: 1 %}
     {% endif %}
 {% endfor %}
