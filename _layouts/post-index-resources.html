@@ -69,7 +69,7 @@ alt: "{{ post.title }}"
                     {% for each in site.data.connects %}
                         {% if each.id == page.event_code %}
                             {% if each.placeholder %}
-                                {% capture image_path %}assets/images/blog/{{each.placeholder}}{% endcapture %}
+                                {% capture image_path %}assets/images/content/{{each.placeholder}}{% endcapture %}
                             {% endif %}
                         {% endif %}
                     {% endfor %}
