@@ -41,10 +41,10 @@ The following part removes dulpicated tags and invalid tags like blank tag.
 {% assign total_videos = 0 %}
 
 {% for post in site.posts %}
-    {% if post.youtube_video_url != "None" %}
+    {% if post.youtube_video_url and resource.youtube_video_url != "None" %}
         {% assign total_videos = total_videos | plus: 1 %}
     {% endif %}
-    {% if post.slideshare_presentation_url != "None" %}
+    {% if post.slideshare_presentation_url and resource.slideshare_presentation_url != "None" %}
         {% assign total_slides = total_slides | plus: 1 %}
     {% endif %}
 {% endfor %}
@@ -63,13 +63,15 @@ The following part removes dulpicated tags and invalid tags like blank tag.
     </div>
 </div>
 
-<div class="stats col-xs-12">
-    <p>Search by Tracks:</p>
-    <select class="form-control" onChange="window.location.href=this.value">
-        {% for tag in tags %}
-        <option value="/resources/tracks/#{{ tag | slugify }}">{{ tag }}</option>
-        {% endfor %}
-    </select>
+<div class="stats col-xs-12 no-padding">
+    <div class="col-xs-12 col-sm-3 col-md-2 col-lg-1">Search by Tracks:</div>
+    <div class="col-xs-12 col-sm-9 col-md-10 col-lg-11">
+        <select class="form-control" onChange="window.location.href=this.value">
+            {% for tag in tags %}
+            <option value="/resources/tracks/#{{ tag | slugify }}">{{ tag }}</option>
+            {% endfor %}
+        </select>
+    </div>
 </div>
 
 <div id="all-resources">
