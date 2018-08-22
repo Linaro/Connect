@@ -25,7 +25,7 @@
                 <span class="resources-number">
                     {% assign counter = 0 %}
                     {% for resource in site.categories[event_code_formatted] %}
-                        {% if resource.youtube_video_url != "None" %}
+                        {% if resource.youtube_video_url and resource.youtube_video_url != "None" %}
                             {% assign counter = counter | plus:1 %}
                         {% endif %}
                     {% endfor %}
@@ -41,7 +41,7 @@
                 <span class="resources-number">
                     {% assign counter = 0 %}
                     {% for resource in site.categories[event_code_formatted] %}
-                        {% if resource.slideshare_presentation_url != "None" %}
+                        {% if resource.slideshare_presentation_url and resource.slideshare_presentation_url != "None" %}
                             {% assign counter = counter | plus:1 %}
                         {% endif %}
                     {% endfor %}
