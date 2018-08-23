@@ -5,74 +5,10 @@ layout: container-breadcrumb
 js-package: resources
 css-package: resources
 ---
-{% comment %}
-=======================
-The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
-=======================
-{% endcomment %}
 
-{% assign rawtags = "" %}
-{% for post in site.posts %}
-    {% assign post-tracks = post.session_track | split: "," %}
-	{% assign ttags = post-tracks | join:'|' | append:'|' %}
-	{% assign rawtags = rawtags | append:ttags %}
-{% endfor %}
-{% assign rawtags = rawtags | split:'|' | sort %}
+{% include_cached stats.html %}
 
-{% comment %}
-=======================
-The following part removes dulpicated tags and invalid tags like blank tag.
-=======================
-{% endcomment %}
-
-{% assign tags = "" %}
-{% for tag in rawtags %}
-	{% if tag != "" %}
-		{% if tags == "" %}
-			{% assign tags = tag | split:'|' %}
-		{% endif %}
-		{% unless tags contains tag %}
-			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
-		{% endunless %}
-	{% endif %}
-{% endfor %}
-
-{% assign total_slides = 0 %}
-{% assign total_videos = 0 %}
-
-{% for post in site.posts %}
-    {% if post.youtube_video_url and resource.youtube_video_url != "None" %}
-        {% assign total_videos = total_videos | plus: 1 %}
-    {% endif %}
-    {% if post.slideshare_presentation_url and resource.slideshare_presentation_url != "None" %}
-        {% assign total_slides = total_slides | plus: 1 %}
-    {% endif %}
-{% endfor %}
-<div class="row">
-    <div class="stats col-sm-4">
-        <span class="count-to-number">{{ total_videos }}</span>
-        <span class="stats-title">Videos</span>
-    </div>
-    <div class="stats col-sm-4">
-        <span class="count-to-number">{{ site.data.connects | size }}</span>
-        <span class="stats-title">Events</span>
-    </div>
-    <div class="stats col-sm-4">
-        <span class="count-to-number">{{ total_slides }}</span>
-        <span class="stats-title">Presentations</span>
-    </div>
-</div>
-
-<div class="stats col-xs-12 no-padding">
-    <div class="col-xs-12 col-sm-3 col-md-2 col-lg-1">Search by Tracks:</div>
-    <div class="col-xs-12 col-sm-9 col-md-10 col-lg-11">
-        <select class="form-control" onChange="window.location.href=this.value">
-            {% for tag in tags %}
-            <option value="/resources/tracks/#{{ tag | slugify }}">{{ tag }}</option>
-            {% endfor %}
-        </select>
-    </div>
-</div>
+{% include_cached search-by-tracks.html %}
 
 <div id="all-resources">
 {% assign connect_events = site.data.connects | sort: "start-date" | reverse %}
