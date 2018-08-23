@@ -48,9 +48,16 @@ span.event-code-span {
     margin-bottom: 40px;
 }
 
-.resource img.img-responsive.lazyloaded {
+.resource img {
     height: 165px;
     object-fit: contain;
+}
+
+.resource picture img {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    display: block;
 }
 
 .resource-block {
@@ -155,4 +162,14 @@ span.track:hover {
         top: -1px;
         position: relative;
     }
+}
+
+#content-container .blog-sidebar .stats.col-xs-12 p {
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+.stats-inner {
+    margin-bottom: 20px;
+    border: 1px solid #eee;
+    padding: 20px;
 }
