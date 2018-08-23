@@ -48,6 +48,18 @@ In order to get your changes added to the Connect website you must make changes 
 For example we will edit the https://connect.linaro.org/about/ page text and submit a PR.
 
 
+![Making a change and creating a pull request.](/assets/images/help/CreatingAPullRequest.gif)
+
+
+#### Overriding the need for a reviewer on your pull request
+
+If you are certain that you need to merge the changes you have made and you are an Administrator of the repository you do the following to merge the PR.
+
+**Warning:** If you are an administrator and are using the above method of mergin your pr. Then please make sure that at least the tests __have passed__!
+
+![Overriding the need for a reviewer](/assets/images/help/OverridingNeedForReview.gif)
+
+
 ## Add Keynotes to the Homepage Carousel
 
 Keynotes in the homepage carousel are added from the _data/yvr18-keynotes.yml file. If you need to add a keynote to the homepage carousel simply append your keynote to the data file. In regards to following Connect events, duplicate the yvr18-keynotes.yml file and rename appropriately. Then change the included data file by amending this line:
@@ -57,6 +69,7 @@ Keynotes in the homepage carousel are added from the _data/yvr18-keynotes.yml fi
 {% include sections/keynotes.html keynotes=site.data.yvr18-keynotes %}
 ...
 ```
+
 E.g 
 
 ```
