@@ -1,0 +1,42 @@
+{% comment %}
+=======================
+The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
+=======================
+{% endcomment %}
+
+{% assign rawtags = "" %}
+{% for post in site.posts %}
+    {% assign post-tracks = post.session_track | split: "," %}
+	{% assign ttags = post-tracks | join:'|' | append:'|' %}
+	{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+
+{% comment %}
+=======================
+The following part removes dulpicated tags and invalid tags like blank tag.
+=======================
+{% endcomment %}
+
+{% assign tags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
+
+<div class="stats col-xs-12 no-padding {% if include.hidden %} visible-xs {% endif %}">
+    <div class="stats-inner">
+        <p>Search by Tracks:</p>
+        <select class="form-control" onChange="window.location.href=this.value">
+            {% for tag in tags %}
+            <option value="/resources/tracks/#{{ tag | slugify }}">{{ tag }}</option>
+            {% endfor %}
+        </select>
+    </div>
+</div>

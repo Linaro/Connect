@@ -132,6 +132,7 @@ plugins:
   - jekyll-redirect-from
   - autoprefixer-rails
   - jekyll-paginate-v2
+  - jekyll-include-cache
 
 # Compress the html and beau2tify it.
 jekyll_tidy: # Compress the html and beautify it.
