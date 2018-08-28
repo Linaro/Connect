@@ -5,6 +5,7 @@ css-package: resources-blog
 js-package: resources-blog
 ---
 <div class="col-md-9 no-padding">
+    <div class="row">
     {% for post in paginator.posts %}
         <div class="col-md-4 col-sm-4 col-xs-12 no-padding">
             <div class="resource-block">
@@ -53,6 +54,7 @@ alt: "{{ post.title }}"
         </div>
     </div>
     {% endfor %}
+    </div>
     {% include pagination-resources.html event_code=page.event_code %}
 </div>
 
