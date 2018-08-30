@@ -10,7 +10,7 @@
   type: sponsor
   image: shiratech.png
   url: http://www.shiratech-solutions.com/
-- name: Xilinx
+- name: Xilinx and Avnet
   type: sponsor
-  image: xilinx.jpg
+  image: xilinx-avnet.jpg
   url: https://www.linaro.org/company/xilinx/
