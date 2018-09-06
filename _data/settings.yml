@@ -28,7 +28,7 @@ linaro-footer-image: Linaro-Sprinkle.png
 #Content Repo for static site.
 # Used for the edit on github include
 edit-on-github:
-    enabled: false
+    enabled: true
     repo: https://www.github.com/Linaro/connect
     
 # Settings for the home page

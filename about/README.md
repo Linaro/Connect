@@ -19,7 +19,6 @@ To view slides or videos from the keynotes and sessions from previous Connects, 
 If you are a member attendee or plan to submit a paper to speak at Linaro Connect and need information about your registration
 discount code, please email [connect@linaro.org](mailto:connect@linaro.org).
 
-
 The next Linaro Connect will be held in Vancouver 17-21 September 2018. Register below!
 
 <script type="text/javascript">
