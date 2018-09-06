@@ -6,3 +6,4 @@ _site/
 node_modules
 .gemfiles/
 .bundle/
+resources/yvr18/resources.json
