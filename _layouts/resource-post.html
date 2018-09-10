@@ -3,16 +3,17 @@ layout: default
 js-package: resources-blog
 css-package: resources-blog
 ---
+{% assign using_json = "False" %}
 {% assign current_connect = page.categories[0] | upcase %}
 {% for connect in site.data.connects %}
-    {% if connect.id == current_connect and connect.using_json == True %}
-        {% assign using_json = True %}
+    {% if connect.id == current_connect and connect.using_json == "True" %}
+        {% assign using_json = "True" %}
     {% endif %}
 {% endfor %}
 <div class="container-fluid" id="content-container">
     <div class="row">
         <div class="container">
-            <div class="col-md-9">
+            <div class="col-md-9 {{current_connect}}">
                 <article class="post-content">
                     <div class="post-info">
                         <h1>{{page.title }}</h1>
@@ -35,7 +36,7 @@ css-package: resources-blog
                     <div class="col-xs-12 no-padding">
                         <div class="col-sm-6 no-padding">
                             <div class="video">
-                                {% if using_json %}
+                                {% if using_json == "True" %}
                                     <div id="video-holder" class="using_json">
                                         <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                             data-src="{% asset_path 'video_placeholder.png' %}" />
@@ -58,7 +59,7 @@ css-package: resources-blog
                                    </div>
                                 {% endif %}
                             </div>
-                            {% if using_json %}
+                            {% if using_json == "True" %}
                                 <div class="s3-link">
                                     <a class="btn btn-primary greyed s3-download video using_json">Not Available</a>
                                 </div>
@@ -74,7 +75,7 @@ css-package: resources-blog
                         </div>
                         <div class="col-sm-6 no-padding">
                             <div class="presentation">
-                                {% if using_json %}
+                                {% if using_json == "True" %}
                                     <div id="presentation-holder" class="using_json">
                                         <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                             data-src="{% asset_path 'presentation-placeholder.svg' %}" />
@@ -100,7 +101,7 @@ css-package: resources-blog
                                     </div>
                                 {% endif %}
                             </div>
-                            {% if using_json %}
+                            {% if using_json == "True" %}
                                 <div class="s3-link">
                                     <a class="btn btn-primary greyed s3-download presentation using_json">Not Available</a>
                                 </div>
