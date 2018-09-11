@@ -78,7 +78,7 @@ $(window).on("load", function () {
         // Get data-src url
         var url = $("#presentation-iframe").attr("data-src");
         // Get the current Connect code from the event-code attribute
-        var connectCode = $("#presentation-holder.using_json").attr("event-code");
+        var connectCode = $("#presentation-holder.using_json").attr("event-id");
         // URL for the resources.json
         var resources_json_url = "https://s3.amazonaws.com/connect.linaro.org/" + connectCode.toString().toLowerCase() + "/resources.json";
         console.log(resources_json_url);
