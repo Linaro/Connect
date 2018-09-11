@@ -37,7 +37,7 @@ css-package: resources-blog
                         <div class="col-sm-6 no-padding">
                             <div class="video">
                                 {% if using_json == "True" %}
-                                    <div id="video-holder" class="using_json">
+                                    <div id="video-holder" class="using_json" event-id="{{current_connect}}">
                                         <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                             data-src="{% asset_path 'video_placeholder.png' %}" />
                                         <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="video-embed">
@@ -76,7 +76,7 @@ css-package: resources-blog
                         <div class="col-sm-6 no-padding">
                             <div class="presentation">
                                 {% if using_json == "True" %}
-                                    <div id="presentation-holder" class="using_json">
+                                    <div id="presentation-holder" class="using_json" event-id="{{current_connect}}">
                                         <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                             data-src="{% asset_path 'presentation-placeholder.svg' %}" />
                                         <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="presentation-embed">
