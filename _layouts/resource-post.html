@@ -37,12 +37,14 @@ css-package: resources-blog
                         <div class="col-sm-6 no-padding">
                             <div class="video">
                                 {% if using_json == "True" %}
-                                    <div id="video-holder" class="using_json" event-id="{{current_connect}}">
+                                    <div id="video-holder" class="using_json" event-id="{{current_connect}}" session-id="{{page.session_id}}">
                                         <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                             data-src="{% asset_path 'video_placeholder.png' %}" />
                                         <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="video-embed">
                                             <iframe class="hidden-iframe" data-src="" width="100%" height="500" frameborder="0" marginwidth="5"
                                                 marginheight="5" scrolling="auto" id="youtube-iframe"></iframe>
+                                                <!-- <embed src="" width="600" height="500" alt="pdf"
+                                                 pluginspage="http://www.adobe.com/products/acrobat/readstep2.html"> -->
                                         </div>
                                     </div>
                                 {% elsif page.youtube_video_url and page.youtube_video_url != "None" %}
@@ -76,12 +78,15 @@ css-package: resources-blog
                         <div class="col-sm-6 no-padding">
                             <div class="presentation">
                                 {% if using_json == "True" %}
-                                    <div id="presentation-holder" class="using_json" event-id="{{current_connect}}">
+                                    <div id="presentation-holder" class="using_json" event-id="{{current_connect}}" session-id="{{page.session_id}}">
                                         <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                             data-src="{% asset_path 'presentation-placeholder.svg' %}" />
                                         <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="presentation-embed">
-                                            <iframe class="hidden-iframe" data-src="" width="100%" height="500" frameborder="0" marginwidth="5"
-                                                marginheight="5" scrolling="auto" id="presentation-iframe"></iframe>
+                                            <!-- <iframe class="hidden-iframe" data-src="" width="100%" height="500" frameborder="0" marginwidth="5"
+                                                marginheight="5" scrolling="auto" id="presentation-iframe"></iframe> -->
+                                                <embed type="application/pdf" id="presentation-data-embed" class="hidden-iframe" data-src="" width="100%" height="500" alt="pdf"
+                                                 pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+
                                         </div>
                                     </div>
                                 {% elsif page.slideshare_embed_url and page.slideshare_embed_url != "None" %}
