@@ -4,7 +4,15 @@ title: Resources
 css-package: resources-blog
 js-package: resources-blog
 ---
-<div class="col-md-9 no-padding">
+{% assign using_json = "False" %}
+{% assign current_connect = page.event_code | upcase %}
+{% for connect in site.data.connects %}
+    {% if connect.id == current_connect and connect.using_json == "True" %}
+        {% assign using_json = "True" %}
+    {% endif %}
+{% endfor %}
+
+<div class="col-md-9 no-padding" id="main-resources-content" event-id="{{current_connect}}">
     <div class="row">
     {% for post in paginator.posts %}
         <div class="col-md-4 col-sm-4 col-xs-12 no-padding">
@@ -35,12 +43,13 @@ alt: "{{ post.title }}"
                     {% endif %}
                 </div>
             </a>
-            <div class="resource-info col-xs-12 no-padding">
+            {% if using_json == "True" %}
+            <div class="resource-info col-xs-12 no-padding using_json" session-id="{{post.session_id}}">
                 <div class="video col-xs-6">
-                    <i class="icon-youtube"></i> - {% if post.amazon_s3_video_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i> {% endif%}
+                    <i class="icon-youtube"></i> - <i class="glyphicon glyphicon-remove-sign"></i>
                 </div>
                 <div class="presentation col-xs-6">
-                    <i class="icon-linkedin"></i> - {% if post.amazon_s3_presentation_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i>{% endif%}
+                    <i class="icon-linkedin"></i> - <i class="glyphicon glyphicon-remove-sign"></i>
                 </div>
             </div>
             <div class="resource-title col-xs-12 no-padding">
@@ -51,6 +60,25 @@ alt: "{{ post.title }}"
                     </div>
                 </a>
             </div>
+            {% else %}
+            <div class="resource-info col-xs-12 no-padding {% if using_json == "True" %}using_json{% endif %}"  {% if using_json == "True" %}session-id="{{post.session_id}}"{% endif %}>
+                <div class="video col-xs-6">
+                    <i class="icon-youtube"></i> - {% if post.amazon_s3_video_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i> {% endif %}
+                </div>
+                <div class="presentation col-xs-6">
+                    <i class="icon-linkedin"></i> - {% if post.amazon_s3_presentation_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i>{% endif %}
+                </div>
+            </div>
+            <div class="resource-title col-xs-12 no-padding">
+                <h3>{{post.title}}</h3>
+                <a href="{{post.url}}">
+                    <div class="resource-button">
+                        <i class="glyphicon glyphicon-chevron-right"></i>
+                    </div>
+                </a>
+            </div>
+            {% endif %}
+
         </div>
     </div>
     {% endfor %}
