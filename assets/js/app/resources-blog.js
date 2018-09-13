@@ -1,7 +1,7 @@
 $(window).on("load", function () {
     // Youtube Lazy Load
     // Check to see if the using_json iframe exists
-    if ($("#youtube-iframe.using_json").length > 0) {
+    if ($("#video-holder.using_json").length > 0) {
 
         // Get the current Connect code from the event-code attribute
         var connectCode = $("#video-holder.using_json").attr("event-id");
@@ -21,6 +21,7 @@ $(window).on("load", function () {
                     var sessionId = $("#video-holder.using_json").attr("session-id");
                     if (obj.session_id.toString().toLowerCase() == sessionId.toString().toLowerCase() ){
                         // Grab the main presentation URL
+                        console.log(obj.session_id);
                         if (obj.youtube_video_url.toString().length > 1){
                             var video_url = obj.youtube_video_url.toString();
                         }
@@ -30,6 +31,7 @@ $(window).on("load", function () {
                         else{
                             var video_url = "";                           
                         }
+                        console.log("Video URL: " + video_url);
                         // Check to see if the main presentation URL does not equal "None"
                         if(video_url != "") {
                             $("#youtube-iframe").attr("src", video_url);
@@ -55,7 +57,7 @@ $(window).on("load", function () {
         });
     }
     // Use the default functionality for loading resources from the front matter.
-    else if ($("#youtube-iframe").length > 0) {
+    else if ($("#video-holder").length > 0) {
         // Get data-src attribute values - this is the youtube video link added from the page front matter in Jekyll
         var url = $("#youtube-iframe").attr("data-src");
         // Function to return the ID of a youtube video given the standard URL
