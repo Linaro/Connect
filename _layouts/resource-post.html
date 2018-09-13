@@ -3,10 +3,17 @@ layout: default
 js-package: resources-blog
 css-package: resources-blog
 ---
+{% assign using_json = "False" %}
+{% assign current_connect = page.categories[0] | upcase %}
+{% for connect in site.data.connects %}
+    {% if connect.id == current_connect and connect.using_json == "True" %}
+        {% assign using_json = "True" %}
+    {% endif %}
+{% endfor %}
 <div class="container-fluid" id="content-container">
     <div class="row">
         <div class="container">
-            <div class="col-md-9">
+            <div class="col-md-9 {{current_connect}}">
                 <article class="post-content">
                     <div class="post-info">
                         <h1>{{page.title }}</h1>
@@ -29,7 +36,18 @@ css-package: resources-blog
                     <div class="col-xs-12 no-padding">
                         <div class="col-sm-6 no-padding">
                             <div class="video">
-                                {% if page.youtube_video_url and page.youtube_video_url != "None" %}
+                                {% if using_json == "True" %}
+                                    <div id="video-holder" class="using_json" event-id="{{current_connect}}" session-id="{{page.session_id}}">
+                                        <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                            data-src="{% asset_path 'video_placeholder.png' %}" />
+                                        <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="video-embed">
+                                            <iframe class="hidden-iframe" data-src="" width="100%" height="500" frameborder="0" marginwidth="5"
+                                                marginheight="5" scrolling="auto" id="youtube-iframe"></iframe>
+                                                <!-- <embed src="" width="600" height="500" alt="pdf"
+                                                 pluginspage="http://www.adobe.com/products/acrobat/readstep2.html"> -->
+                                        </div>
+                                    </div>
+                                {% elsif page.youtube_video_url and page.youtube_video_url != "None" %}
                                     <div id="video-holder">
                                         <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{% asset_path 'video_placeholder.png' %}" />
                                         <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="video-embed">
@@ -43,7 +61,11 @@ css-package: resources-blog
                                    </div>
                                 {% endif %}
                             </div>
-                            {% if page.amazon_s3_video_url and page.amazon_s3_video_url != "None" and page.amazon_s3_video_url != "n/a" %}
+                            {% if using_json == "True" %}
+                                <div class="s3-link">
+                                    <a class="btn btn-primary greyed s3-download video using_json">Not Available</a>
+                                </div>
+                            {% elsif page.amazon_s3_video_url and page.amazon_s3_video_url != "None" and page.amazon_s3_video_url != "n/a" %}
                                 <div class="s3-link">
                                     <a href="{{page.amazon_s3_video_url}}" class="btn btn-primary s3-download">Download Video</a>
                                 </div>
@@ -55,7 +77,19 @@ css-package: resources-blog
                         </div>
                         <div class="col-sm-6 no-padding">
                             <div class="presentation">
-                                {% if page.slideshare_embed_url and page.slideshare_embed_url != "None" %}
+                                {% if using_json == "True" %}
+                                    <div id="presentation-holder" class="using_json" event-id="{{current_connect}}" session-id="{{page.session_id}}">
+                                        <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                            data-src="{% asset_path 'presentation-placeholder.svg' %}" />
+                                        <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="presentation-embed">
+                                            <!-- <iframe class="hidden-iframe" data-src="" width="100%" height="500" frameborder="0" marginwidth="5"
+                                                marginheight="5" scrolling="auto" id="presentation-iframe"></iframe> -->
+                                                <embed type="application/pdf" id="presentation-data-embed" class="hidden-iframe" data-src="" width="100%" height="500" alt="pdf"
+                                                 pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+
+                                        </div>
+                                    </div>
+                                {% elsif page.slideshare_embed_url and page.slideshare_embed_url != "None" %}
                                 <div id="presentation-holder">
                                     <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
                                     data-src="{% asset_path 'presentation-placeholder.svg' %}"
@@ -72,7 +106,11 @@ css-package: resources-blog
                                     </div>
                                 {% endif %}
                             </div>
-                            {% if page.amazon_s3_presentation_url and page.amazon_s3_presentation_url != "None" and page.amazon_s3_presentation_url != "n/a" %}
+                            {% if using_json == "True" %}
+                                <div class="s3-link">
+                                    <a class="btn btn-primary greyed s3-download presentation using_json">Not Available</a>
+                                </div>
+                            {% elsif page.amazon_s3_presentation_url and page.amazon_s3_presentation_url != "None" and page.amazon_s3_presentation_url != "n/a" %}
                                 <div class="s3-link">
                                     <a href="{{page.amazon_s3_presentation_url}}" class="btn btn-primary s3-download">Download Presentation</a>
                                 </div>
@@ -97,7 +135,7 @@ css-package: resources-blog
                 {% endcomment %}
             
                 {% include post-comments.html %}
-                
+
                 </div>
                 <div class="col-md-3 blog-sidebar no-padding">
                     {% assign cat = page.categories[0] %}

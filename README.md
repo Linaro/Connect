@@ -4,6 +4,12 @@ Welcome to the official content repository for Linaro Connect's static [Jekyll](
 
 We are open to you [submitting a PR](https://github.com/linaro/connect/pulls) / [Issue](https://github.com/Linaro/connect/issues/new) if there is anything you notice that is out of place or needs updating.
 
+*****
+
+## [How to add a blog post!](#adding-a-blog-post)
+
+*****
+
 __PR's related to the Dockerfile and build.sh will take considerably longer to review than Jekyll or content changes.__
 
 ## Guides
@@ -45,8 +51,8 @@ Each repository can have multiple branches with whatever name you choose. The Li
 
 In order to get your changes added to the Connect website you must make changes to a file/files on **your** `fork` of the Connect repository and then submit a __pull request__ (or a `PR` which is a way to get your changes added to the main `repository` and not just your copy of the Connect website.) 
 
-For example we will edit the https://connect.linaro.org/about/ page text and submit a PR.
 
+![Creating a pull request.](/assets/images/help/CreatingAPullRequest.gif)
 
 ![Making a change and creating a pull request.](/assets/images/help/CreatingAPullRequest.gif)
 
@@ -194,6 +200,9 @@ image:
 ```
 
 Make sure that the image you add in this section of front matter is placed in the [/assets/images/blog folder](https://github.com/Linaro/connect/tree/master/assets/images/blog).
+
+__Note:__ There is currently a bug with the version of `jekyll-assets` we are using which means the only acceptable image extensions are `.jpg` and `.png`. If you use `.jpeg` you image may not display as expected.
+
 
 #### Tags
 These should be modified based on the content of your post as they are used for Meta keywords so that people can find your post based on the [tags your provide](https://www.Linaro.org/blog/tag/).
