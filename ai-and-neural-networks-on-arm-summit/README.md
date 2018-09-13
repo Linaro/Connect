@@ -36,6 +36,8 @@ There will be sessions on the latest AI technologies available in edge and consu
 - AI/ML frameworks and NN formats
 - NN HAL plug-in frameworks
 
+{% include image.html name="schedule-ai-summit.png" alt="AI Summit Schedule YVR18"%}
+
 **For End Users:** Thought-leaders and managers attending the event will gain a deeper understanding of the issues and opportunities in AI/NN on Arm. Engineers will gain insight and learn how to collaborate in the open source community within their area of expertise, how to evaluate the performance and accelerate multiple NN frameworks without modifying for each new IP, whether targeting edge computing gateways, smart devices or simple microcontrollers
 
 **For Linaro Members and Partners:** This workshop is a call to action to join forces and collaborate around a common framework PI, an optimized inference engine and flexible plug-in architecture to integrate each NN solution and use members’ internal resources to focus on product competitive advantage.
