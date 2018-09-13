@@ -137,23 +137,15 @@ $(window).on("load", function () {
                     var sessionId = $("#presentation-holder.using_json").attr("session-id");
                     // console.log(obj.session_id.toString().toLowerCase() + " vs " + sessionId.toString().toLowerCase() );
                     if (obj.session_id.toString().toLowerCase() == sessionId.toString().toLowerCase()) {
-                        console.log(obj.session_id);
-
-                        console.log(obj.slideshare_url + " vs " + "");
-                        console.log(obj.s3_presentation_url + " vs " + "");
-
                         // Grab the main presentation URL
-                        if (obj.slideshare_url.toString().length > 1) {
-                            var presentation_url = obj.slideshare_url.toString();
-                        }
-                        else if (obj.s3_presentation_url.toString().length > 1) {
+                         if (obj.s3_presentation_url.toString().length > 1) {
                             var presentation_url = obj.s3_presentation_url.toString();
                         }
                         else {
                             var presentation_url = ""
                         }
                         // Check to see if the main presentation URL does not equal "None"
-                        if (presentation_url.toString().length > 1) {
+                        if (obj.s3_presentation_url.toString().length > 1) {
                             $("#presentation-data-embed").attr("src", presentation_url);
                             // Set the src to the data-src
                             $("#presentation-data-embed").ready( function () {
@@ -166,9 +158,9 @@ $(window).on("load", function () {
                         }
                         // Set the Download button href and Text
                         if ($("a.s3-download.presentation.using_json").length > 0) {
-                            if (obj.s3_presentation_urlobj.toString().length > 1){
+                            if (obj.s3_presentation_url.toString().length > 1){
                                 $("a.s3-download.presentation.using_json").html("S3 Download");
-                                $("a.s3-download.presentation.using_json").attr("href", obj.s3_presentation_url);
+                                $("a.s3-download.presentation.using_json").attr("href", presentation_url);
                             }
             
                         }
@@ -193,53 +185,4 @@ $(window).on("load", function () {
             $("#presentation-embed").addClass("visible-iframe");
         });
     }
-
-    // Check to see for the resources stats div
-    if ($(".resource-info.using_json")[0]){
-        // Get the current Connect code from the event-code attribute
-        var connectCode = $("#main-resources-content").attr("event-id");
-        // URL for the resources.json
-        var resources_json_url = "https://s3.amazonaws.com/connect.linaro.org/" + connectCode.toString().toLowerCase() + "/resources.json";
-        // Get the resources.json file
-        $.ajax({
-            url: resources_json_url,
-            dataType: 'json',
-            complete: function (jsonResponse) {
-                jsonData = JSON.parse(jsonResponse.responseText);
-                // Loop through each instance of the resource-info div and set the correct stats indicators
-                $.each(".resource-info.using_json", function(){
-                    // Find the corresponding key in the JSON data
-                    $.each(jsonData, function (idx, obj) {
-                        // Get the current Connect code
-                        var sessionId = $(this).attr("session-id");
-                        if (obj.session_id.toString().toLowerCase() == sessionId.toString().toLowerCase()) {
-                            // Set the video status
-                            if (obj.youtube_video_url.toString().length > 1){
-                                $(this).find(".video > i.glyphicon").removeClass("glyphicon-remove-sign");
-                                $(this).find(".video > i.glyphicon").addClass("glyphicon-ok-sign");
-                            }
-                            // Set presentation status
-                            if (obj.s3_presentation_url.toString().length > 1){
-                                $(this).find(".presentation > i.glyphicon").removeClass("glyphicon-remove-sign");
-                                $(this).find(".presentation > i.glyphicon").addClass("glyphicon-ok-sign");
-                            }
-
-                        }
-                    });
-                    
-                });
-
-                
-            }
-        });
-
-
-    }
-
-
-
-
-
-
-
 });
