@@ -34,7 +34,23 @@ $(window).on("load", function () {
                         console.log("Video URL: " + video_url);
                         // Check to see if the main presentation URL does not equal "None"
                         if(video_url != "") {
-                            $("#youtube-iframe").attr("src", video_url);
+                            // Funtion to extract the video id from the youtube url
+                            function getId(url) {
+                                var regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
+                                var match = url.match(regExp);
+
+                                if (match && match[2].length == 11) {
+                                    return match[2];
+                                } else {
+                                    return 'error';
+                                }
+                            }
+                            // Get the ID for the YouTube video.
+                            var youtubeId = getId(video_url);
+                            // Create the YouTube embed url
+                            var embedUrl = "//www.youtube.com/embed/" + youtubeId;
+                            // Set the src to the data-src
+                            $("#youtube-iframe").attr("src", embedUrl);
                             // Set the src to the data-src
                             $("#youtube-iframe").on("load", function () {
                                 $("#video-embed").removeClass("hidden-iframe");
@@ -46,9 +62,11 @@ $(window).on("load", function () {
                         }
                         
                         // Set the Download button href and Text
-                        if ($(".s3-download.video.using_json").length > 0 && video_url != ""){
-                            $(this).html("Download");
-                            $(this).attr("href", video_url);
+                        if ($("a.s3-download.video.using_json").length > 0){
+                            if (obj.s3_video_url.toString().length > 1){
+                                $("a.s3-download.video.using_json").html("S3 Download");
+                                $("a.s3-download.video.using_json").attr("href", obj.s3_video_url.toString());
+                            }
                         }
 
                     }
@@ -94,7 +112,7 @@ $(window).on("load", function () {
     // Check if using_json class is set
     // if it is then check the resources.json file for a presentation
     // If thiere is not presentation then leave the placeholder
-    if ($("#presentation-holder.using_json #presentation-iframe ").length > 0) {
+    if ($("#presentation-holder.using_json #presentation-embed ").length > 0) {
         // Get data-src url
         var url = $("#presentation-iframe").attr("data-src");
         // Get the current Connect code from the event-code attribute
@@ -143,14 +161,11 @@ $(window).on("load", function () {
                                 $("#presentation-data-embed").addClass("visible-iframe");
                             });
                         }
-
-
                         // Set the Download button href and Text
                         if ($(".s3-download.presentation.using_json").length > 0 && presentation_url != "") {
                             $(this).html("Download");
                             $(this).attr("href", presentation_url);
                         }
-
                     }
                 });
             }
