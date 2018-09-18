@@ -24,7 +24,7 @@ js-package: resources-blog
 
     defer(function () {
         // Check to see for the resources stats div
-        if ($(".resource-info.using_json")[0].length > 1) {
+        if ($(".resource-info.using_json").length > 1) {
             // Get the current Connect code from the event-code attribute
             var connectCode = $("#main-resources-content").attr("event-id");
             // URL for the resources.json
@@ -36,7 +36,7 @@ js-package: resources-blog
                 complete: function (jsonResponse) {
                     jsonData = JSON.parse(jsonResponse.responseText);
                     // Loop through each instance of the resource-info div and set the correct stats indicators
-                    $.each(".resource-info.using_json", function (jsonData) {
+                    $.each(".resource-info.using_json", function () {
                         // Find the corresponding key in the JSON data
                         $.each(jsonData, function (idx, obj) {
                             // Get the current Connect code
@@ -100,12 +100,6 @@ alt: "{{ post.title }}"
             </a>
             {% if using_json == "True" %}
             <div class="resource-info col-xs-12 no-padding using_json" session-id="{{post.session_id}}">
-                <div class="video col-xs-6">
-                    <i class="icon-youtube"></i> - <i class="glyphicon glyphicon-remove-sign"></i>
-                </div>
-                <div class="presentation col-xs-6">
-                    <i class="icon-linkedin"></i> - <i class="glyphicon glyphicon-remove-sign"></i>
-                </div>
             </div>
             <div class="resource-title col-xs-12 no-padding">
                 <h3>{{post.title}}</h3>
