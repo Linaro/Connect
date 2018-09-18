@@ -79,7 +79,15 @@
   image: ShinpeiKato.jpg
   url: /speaker/shinpei-kato/
   title: Autoware on Board
-
+- name: Jilayne Lovejoy	
+  title: An open source developer and a lawyer walk into a bar…	
+  day: Tuesday	
+  start_time: "09:15"	
+  end_time: "09:45"	
+  date: 2018-09-18 09:15:00	
+  job_title: Principal Open Source Counsel, Arm	
+  image: jlovejoy.png	
+  url: /speaker/jilayne-lovejoy/
 
 
 
