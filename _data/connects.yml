@@ -8,6 +8,8 @@
       city: Vancouver
       country: Canada
   using_json: "True"
+  flickr-albums: 
+      - https://www.flickr.com/photos/linaroorg/albums/72157695573962940
 - id: HKG18
   placeholder: hkg18.jpg
   long-name: Linaro Connect Hong Kong 2018
