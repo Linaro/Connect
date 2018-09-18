@@ -15,7 +15,8 @@ wordpress_id: 10047
 
 **Job Title**: Principal Open Source Counsel 
 
-**Bio**: Jilayne is principal open source counsel at Arm, where she advises legal, business, and engineering on open source related issues, provides training, and drives improved processes around the use of open source. She helped form and chairs the Arm Open Source Office. Jilayne participates in various open source industry groups, including co-leading the legal team for the Software Package Data Exchange® (SPDX), being one of the maintainers of the SPDX License List, and representing Arm on the governing board of OpenChain.  Prior to joining Arm, Jilayne was corporate counsel at OpenLogic, a provider of open source software support, scanning, and license compliance solutions. In her spare time, Jilayne can be found riding her bike(s) or occasionally co-hosting the geeky podcast, FOSS+beer.
+**Bio**: Jilayne is a lawyer specializing in open source. She co-leads the Software Package Data Exchange® (SPDX) legal team, maintains the SPDX License List, and was a founding member of the OpenChain project.  Jilayne is a frequent speaker at open source events and enjoys both sharing her knowledge and learning at the same time. Jilayne was previously principal open source counsel at Arm, where she advised on open source related issues, provided training, and drove improved processes related to open source, including forming and chairing the Arm Open Source Office.  In her spare time, Jilayne can be found riding her bike(s) or co-hosting the geeky podcast, FOSS+beer.
+
 
 **Keynote Title**:  “An open source developer and a lawyer walk into a bar…”
 
