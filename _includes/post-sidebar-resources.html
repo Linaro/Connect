@@ -10,6 +10,14 @@
 
 {% include_cached search-by-tracks.html %}
 
+{% assign using_json = "False" %}
+{% assign current_connect = include.event_code | upcase %}
+{% for connect in site.data.connects %}
+    {% if connect.id == current_connect and connect.using_json == "True" %}
+        {% assign using_json = "True" %}
+    {% endif %}
+{% endfor %}
+
 
 <div class="row">
     <div class="col-xs-12 resources-stats">
@@ -100,12 +108,23 @@
                                <div class="event col-xs-4">
                                    <span class="event-code-span">{{post.categories | first | upcase}}</span>
                                </div>
+                               {% if event_code_formatted == "yvr18" %}
                                <div class="video col-xs-4">
-                                   <i class="icon-youtube"></i> - {% if post.youtube_video_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i> {% endif%}
                                </div>
                                <div class="presentation col-xs-4">
-                                   <i class="icon-linkedin"></i> - {% if post.slideshare_presentation_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i>{% endif%}
                                </div>
+                               {% else %}
+                                <div class="video col-xs-4">
+                                    <i class="icon-youtube"></i> - {% if post.youtube_video_url != "None" %}
+                                    <i class="glyphicon glyphicon-ok-sign"></i>{% else %}
+                                    <i class="glyphicon glyphicon-remove-sign"></i> {% endif%}
+                                </div>
+                                <div class="presentation col-xs-4">
+                                    <i class="icon-linkedin"></i> - {% if post.slideshare_presentation_url != "None" %}
+                                    <i class="glyphicon glyphicon-ok-sign"></i>{% else %}
+                                    <i class="glyphicon glyphicon-remove-sign"></i>{% endif%}
+                                </div>
+                               {% endif %}
                            </div>
                         </div>
                     </a>
