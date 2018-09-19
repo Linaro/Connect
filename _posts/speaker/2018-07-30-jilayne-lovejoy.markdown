@@ -11,9 +11,7 @@ title: Jilayne Lovejoy
 wordpress_id: 10047
 ---
 
-**Company**: Arm
-
-**Job Title**: Principal Open Source Counsel 
+**Company**: SPDX
 
 **Bio**: Jilayne is a lawyer specializing in open source. She co-leads the Software Package Data Exchange® (SPDX) legal team, maintains the SPDX License List, and was a founding member of the OpenChain project.  Jilayne is a frequent speaker at open source events and enjoys both sharing her knowledge and learning at the same time. Jilayne was previously principal open source counsel at Arm, where she advised on open source related issues, provided training, and drove improved processes related to open source, including forming and chairing the Arm Open Source Office.  In her spare time, Jilayne can be found riding her bike(s) or co-hosting the geeky podcast, FOSS+beer.
 
