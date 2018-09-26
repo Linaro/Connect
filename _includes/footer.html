@@ -1,36 +1,5 @@
 {% unless page.url == "/sponsors/" %}
-<div class="container-fluid sponsors">
-    <div class="row" id="current-sponsors">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12  text-center">
-                    <h2>Thanks to our {{site.previous-connect-code}} Sponsors</h2>
-                </div>
-            </div>
-            <div class="row">
-                {% for sponsor in site.data.current-sponsors %} {% if sponsor.type == "lead" %}
-                <div class="col-xs-12 col-sm-3  text-center lead-sponsor">
-                    <div class="sponsor">
-                        <h3> Lead Sponsor </h3>
-                        <a href="{{sponsor.url}}" target="_blank">
-                            <div class="img-responsive lazyload" style="background-image: url({% asset_path '{{sponsor.image}}' %});"></div>
-                        </a>
-                    </div>
-                </div>
-                {% else %}
-                <div class="col-xs-12 col-sm-3 text-center connect-sponsor">
-                    <div class="sponsor">
-                        <h3> Sponsor </h3>
-                        <a href="{{sponsor.url}}" target="_blank">
-                            <div class="img-responsive lazyload" style="background-image: url({% asset_path '{{sponsor.image}}' %});"></div>
-                        </a>
-                    </div>
-                </div>
-                {% endif %} {% endfor %}
-            </div>
-        </div>
-    </div>
-</div>
+    {% include previous-sponsors.html %}
 {% endunless %}
 <div class="container-fluid footer">
     <div class="row">
@@ -53,7 +22,7 @@
                                 {% endfor %}
                             {% endif %}
                             {% if column.data == "connects" %}
-                                {% for item in site.data.connects %}
+                                {% for item in site.data.connects | limit: 5 %}
                                     <li>
                                         <a class="footer-element" href="/resources/{{item.id | downcase }}/">{{item.id}}</a>
                                     </li>
