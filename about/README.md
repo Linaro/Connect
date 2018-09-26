@@ -5,6 +5,22 @@ layout: container-breadcrumb
 js-package: about
 css-package: about
 ---
+<!-- 
+<div class="container-fluid" style="background-image: url('/assets/images/content/yvr18-group-photo.jpg');" id="about-connect-intro">
+    <div class="row">
+        <div class="container" style="padding-top: 30px;">
+            <p class="text-center">
+                Since 2010, Linaro Connect has been the event to attend if you are interested in open source software development for Linux,
+                tools and the various vertical segment ecosystems that use Arm processors. While the event continues to evolve, one thing
+                stays the same – it revolves around engineering and will consist of a mix of industry keynotes, engineering presentations
+                and discussions, and collaborative engineering hacking sessions
+                To view slides or videos from the keynotes and sessions from previous Connects, please go to our <a href="/resources/">Resources page</a>.
+            </p>
+        </div>
+    </div>
+</div> -->
+
+
 <div class="row">
 <div class="col-md-6" markdown="1">
 
@@ -15,39 +31,6 @@ and discussions, and collaborative engineering hacking sessions.
 
 To view slides or videos from the keynotes and sessions from previous Connects, please go to our
 [Resources page](/resources/).
-
-If you are a member attendee or plan to submit a paper to speak at Linaro Connect and need information about your registration
-discount code, please email [connect@linaro.org](mailto:connect@linaro.org).
-
-The next Linaro Connect will be held in Vancouver 17-21 September 2018. Register below!
-
-<script type="text/javascript">
-    function defer(method) {
-        if (window.jQuery) {
-            method();
-        } else {
-            setTimeout(function () { defer(method) }, 50);
-        }
-    }
-    defer(function () {
-        $(window).on("load", function () {
-            var url = "https://eventbrite.co.uk/tickets-external?eid=45251216607&amp;ref=etckt";
-            $("#eventbrite-iframe").attr("src", url);
-            $("#eventbrite-iframe").on("load", function () {
-                $(this).removeClass("hidden-iframe");
-                $("#placeholder-skeleton").hide();
-                $(this).addClass("visible-iframe");
-            });
-        });
-    });
-</script>
-
-<div id="eventbrite-skeleton">
-<img id="placeholder-skeleton" class="img-responsive lazyload" data-src="{% asset_path 'eventbrite-skeleton.png' %}" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-/>
-<iframe class="hidden-iframe" data-src="https://eventbrite.co.uk/tickets-external?eid=45251216607&amp;ref=etckt" width="100%"
-height="500" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto" id="eventbrite-iframe"></iframe>
-</div>
 
 </div>
 <div class="col-md-6">

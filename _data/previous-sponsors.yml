@@ -1,0 +1,20 @@
+- name: Arm
+  type: lead
+  image: arm.jpg
+  event: yvr18
+  url: https://www.linaro.org/company/arm/
+- name: Arrow
+  type: sponsor
+  image: arrow.jpg
+  event: yvr18
+  url: https://www.linaro.org/company/arrow/
+- name: Shiratech
+  type: sponsor
+  image: shiratech.png
+  event: yvr18
+  url: http://www.shiratech-solutions.com/
+- name: Xilinx and Avnet
+  type: sponsor
+  image: xilinx-avnet.jpg
+  event: yvr18
+  url: https://www.linaro.org/company/xilinx/
