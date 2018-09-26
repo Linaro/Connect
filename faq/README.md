@@ -15,7 +15,7 @@ How do I book meetings?
 </h4>
 </div>
 <div id="bookMeetingsCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="howToBookMeetings">
-<div class="panel-body" markdown="1">
+<div class="panel-body padded-20" markdown="1">
 To book a meeting, log into [Pathable](https://yvr18.pathable.com/), select "my schedule" and click on new meeting. You will see the capacities of the rooms in the room name and will be able to view up to six attendees’ calendars when booking a meeting.
 </div>
 </div>
@@ -31,7 +31,7 @@ How do I obtain a Business Invitation Letter?
 </h4>
 </div>
 <div id="obtainingBusinessLetterCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="obtainingBusinessLetter">
-<div class="panel-body" markdown="1">
+<div class="panel-body padded-20" markdown="1">
 To access your business invitation letter, please log on to [CascadeGo](https://www.cascadegocloud.co.uk/portal/), go to "My Details" then "Documents" and you will find your business invitation letter. Those who require a visa letter should already have one uploaded under the Documents tab. Please look over the details carefully and email any questions to [hr@linaro.org](mailto:hr@linaro.org).
 </div>
 </div>
@@ -47,7 +47,7 @@ How do I obtain a Visa Letter?
 </h4>
 </div>
 <div id="obtainingVisaLetterCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="obtainingVisaLetter">
-<div class="panel-body" markdown="1">
+<div class="panel-body padded-20" markdown="1">
 To access your business invitation letter, please log on to [CascadeGo](https://www.cascadegocloud.co.uk/portal/), go to "My Details" then "Documents" and you will find your business invitation letter. Those who require a visa letter should already have one uploaded under the Documents tab. Please look over the details carefully and email any questions to [hr@linaro.org](mailto:hr@linaro.org).
 </div>
 </div>
@@ -63,7 +63,7 @@ How do I request hardware for loan during Connect?
 </h4>
 </div>
 <div id="requestHardwareCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="requestHardware">
-<div class="panel-body" markdown="1">
+<div class="panel-body padded-20" markdown="1">
 
 If you need to borrow common hardware for use during Connect, please follow the instructions in this guide.
 
@@ -89,7 +89,7 @@ How will I find out whether my session has been accepted?
 </h4>
 </div>
 <div id="sessionAcceptedCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="sessionAccepted">
-<div class="panel-body" markdown="1">
+<div class="panel-body padded-20" markdown="1">
 
 You will be notified by **6 August 2018** as to whether your session has been accepted. Please see our [important dates page](/important-dates/) for more details.
 
@@ -107,7 +107,7 @@ What are the dates for the next Linaro Connect?
 </h4>
 </div>
 <div id="datesForNextConnectCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="datesForNextConnect">
-<div class="panel-body" markdown="1">
+<div class="panel-body padded-20" markdown="1">
 
 The next Connect, YVR18, will take place __17 September through 21 September 2018__ at the Hyatt Regency Vancouver. Please see our [important dates page](/important-dates/) for more details.
 
@@ -125,7 +125,7 @@ What is the deadline for Connect hardware requests?
 </h4>
 </div>
 <div id="dealineForHardwareCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="dealineForHardware">
-<div class="panel-body" markdown="1">
+<div class="panel-body padded-20" markdown="1">
 
 The deadline varies depending on the country that is hosting Connect as it will affect things like how long it takes to ship the equipment to that country, how long to allow for getting the equipment through Customs, etc.
 
@@ -155,7 +155,7 @@ What is the deadline for submitting sessions?
 </h4>
 </div>
 <div id="deadlineForSessionsCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="deadlineForSessions">
-<div class="panel-body" markdown="1">
+<div class="panel-body padded-20" markdown="1">
 
 The deadline for submitting sessions is __23 July 2018__. Please submit your session proposal [here](https://catalyst.omnipress.com/#collection/348/submission). Please see our [important dates page](/important-dates/) for more details.
 
@@ -173,7 +173,7 @@ What sort of hardware can I borrow during Connect?
 </h4>
 </div>
 <div id="whatKindOfHardwareCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="whatKindOfHardware">
-<div class="panel-body" markdown="1">
+<div class="panel-body padded-20" markdown="1">
 
 The general stock of Connect hardware consists of:
 
