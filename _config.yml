@@ -1,14 +1,15 @@
 # Website title - used in the <title> tag of the <head> section of the website.
-title: Linaro Connect Vancouver 2018 (YVR18)
+title: Linaro Connect Bangkok 2019 (BKK19)
 # Name of the site - used to identify the site for setting the active class in the universal nav
 name: Linaro Connect
 # Description of the website used in the Meta Description.
 description: > # this means to ignore newlines until "baseurl:"
-  Linaro Connect Vancouver 2018 (YVR18) will take place at the Hyatt Regency in Vancouver, 17-21 September 2018.
+  Linaro Connect Bangkok 2019 (BKK19) will take place on Monday 1 April to Friday 5 April 2019
 # Destination of the Jekyll site upon build of site.
 destination: _site
 # Code of current connect.
-connect-code: YVR18
+connect-code: BKK19
+previous-connect-code: YVR18
 # Include the Linaro Jekyll Theme
 theme: jumbo-jekyll-theme
 # Permalink for the blog posts of the Jekyll website.
@@ -31,15 +32,11 @@ search-label: Linaro
 # Disqus Comments settings.
 disqus: true
 disqus_shortname: 'linaroconnect'
-
 # This is the url that is used when your site is built for canonicals etc.
 url: "https://connect.linaro.org"
-# url: "https://www.site-test.linaro.org"
-
 # Make sure that Liquid errors stop the build
 liquid:
     error_mode: strict
-
 # Shema.org Setup -> used in the schema.html include.
 schema:
     organisation:
