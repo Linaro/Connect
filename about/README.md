@@ -5,7 +5,7 @@ layout: container-breadcrumb
 js-package: about
 css-package: about
 ---
-
+<!-- 
 <div class="container-fluid" style="background-image: url('/assets/images/content/yvr18-group-photo.jpg');" id="about-connect-intro">
     <div class="row">
         <div class="container" style="padding-top: 30px;">
@@ -18,7 +18,7 @@ css-package: about
             </p>
         </div>
     </div>
-</div>
+</div> -->
 
 
 <div class="row">
