@@ -22,7 +22,8 @@
                                 {% endfor %}
                             {% endif %}
                             {% if column.data == "connects" %}
-                                {% for item in site.data.connects | limit: 5 %}
+                                {% assign connect-list = site.data.connects | limit: 5 %}
+                                {% for item in connect-list %}
                                     <li>
                                         <a class="footer-element" href="/resources/{{item.id | downcase }}/">{{item.id}}</a>
                                     </li>
