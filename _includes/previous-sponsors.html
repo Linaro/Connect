@@ -1,0 +1,37 @@
+<div class="container-fluid sponsors">
+    <div class="row" id="current-sponsors">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12  text-center">
+                    <h2>Thanks to our {{site.previous-connect-code}} Sponsors</h2>
+                </div>
+            </div>
+            <div class="row">
+                {% for sponsor in site.data.previous-sponsors %} 
+                    {% assign prev-connect = site.previous-connect-code | downcase %}
+                    {% if sponsor.event == prev-connect %}
+                        {% if sponsor.type == "lead" %}
+                        <div class="col-xs-12 col-sm-3  text-center lead-sponsor">
+                            <div class="sponsor">
+                                <h3> Lead Sponsor </h3>
+                                <a href="{{sponsor.url}}" target="_blank">
+                                    <div class="img-responsive lazyload" style="background-image: url({% asset_path '{{sponsor.image}}' %});"></div>
+                                </a>
+                            </div>
+                        </div>
+                        {% else %}
+                        <div class="col-xs-12 col-sm-3 text-center connect-sponsor">
+                            <div class="sponsor">
+                                <h3> Sponsor </h3>
+                                <a href="{{sponsor.url}}" target="_blank">
+                                    <div class="img-responsive lazyload" style="background-image: url({% asset_path '{{sponsor.image}}' %});"></div>
+                                </a>
+                            </div>
+                        </div>
+                        {% endif %}
+                    {% endif %} 
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
