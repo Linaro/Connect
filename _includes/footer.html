@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12  text-center">
-                    <h2>{{site.connect-code}} Sponsors</h2>
+                    <h2>Thanks to our {{site.previous-connect-code}} Sponsors</h2>
                 </div>
             </div>
             <div class="row">
@@ -45,11 +45,20 @@
                                     <a class="footer-heading" href="{% if column.url %}{{column.url}}{% else %}#{% endif %}">{{column.title}}</a>
                                 </b>
                             </li>
-                            {% if column.items %} {% for item in column.items %}
-                            <li>
-                                <a class="footer-element" href="{{item.url}}">{{item.text}}</a>
-                            </li>
-                            {% endfor %} {% endif %}
+                            {% if column.items %}
+                                {% for item in column.items %}
+                                    <li>
+                                        <a class="footer-element" href="{{item.url}}">{{item.text}}</a>
+                                    </li>
+                                {% endfor %}
+                            {% endif %}
+                            {% if column.data == "connects" %}
+                                {% for item in site.data.connects %}
+                                    <li>
+                                        <a class="footer-element" href="/resources/{{item.id | downcase }}/">{{item.id}}</a>
+                                    </li>
+                                {% endfor %}
+                            {% endif %}
                         </ul>
                     </div>
                     {% endfor %} {% if site.data.footer.image %}
