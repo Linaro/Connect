@@ -632,9 +632,11 @@ span.line {
     display: inline-block;
 }
 
-#wrapper .faq .panel-body {
+.padded-20 {
     padding: 20px;
 }
+
+
 .hidden-iframe{
     position: absolute;
     visibility: hidden;
@@ -643,6 +645,7 @@ span.line {
     position: relative;
     visibility: visible;
 }
+
 .sponsors .sponsor .img-responsive {
     height: 100px;
     background-size: contain;
