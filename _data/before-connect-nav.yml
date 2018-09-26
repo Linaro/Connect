@@ -1,0 +1,49 @@
+# Search Config
+search:
+    enabled: true
+    label: Connect
+
+# Universal Nav Bar Toggle
+universal-nav: true    
+
+# Nav Brand Config
+brand:
+    text: Linaro
+    image: 
+        enabled: true
+        # name: connect-logo-main.png
+        name: YVR18-logo-horizontal.png
+    url: /
+pages:
+    - title: About
+      url: /about/
+    - title: Attend
+      options:
+          - text: Overview
+            url: /attend/
+          - text: AI and Neural Networks on Arm Summit at YVR18
+            url: /ai-neural-networks-arm-summit/
+          - text: Register
+            url: /register/
+          - text: Call for Proposals
+            url: /cfp/
+          - text: Call for Demos
+            url: /demo-friday/
+          - text: Accomodation
+            url: /accomodation/
+          - text: Important Dates
+            url: /important-dates/
+          - text: Visa/Business Invitation Letters
+            url: /business-invitation-letters/
+          - text: Schedule
+            url: /schedule/
+          - text: Code of Conduct
+            url: /code-of-conduct/
+          - text: FAQ
+            url: /faq/
+    - title: Sponsors
+      url: /sponsors/
+    - title: Resources
+      data: site.data.connects
+    - title: Blog
+      url: /blog/
