@@ -19,6 +19,22 @@
 {% endfor %}
 
 
+
+{% if post.attached_documents %}
+    <div class="row"> -->
+        <div class="col-xs-12 attached-documents">
+            <div class="list-group">
+                {% for document in post.attached_documents %}
+                    <a href="{{document.url}}" class="list-group-item">
+                        {{document.title}}
+                    </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+{% endif %}
+
+
 <div class="row">
     <div class="col-xs-12 resources-stats">
         <div class="resource-sidebar-block col-xs-4">
