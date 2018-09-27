@@ -1,12 +1,28 @@
+
+{% comment %}
+    Attached Resource documents
+{% endcomment %}
+
+{% if page.attached_documents %}
+<div class="row">
+    <div class="col-xs-12 attached-documents">
+        <div class="list-group">
+            <li class="list-group-item active"> Attached Documents </li>
+            {% for document in page.attached_documents %}
+                <a href="{{document.url}}" class="list-group-item">
+                    {{document.title}}
+                </a>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endif %}
+
 {% comment %}
     Generic Resources Info
 {% endcomment %}
+
 {% assign event_code_formatted = include.event_code | downcase %}
-<!-- <div class="row">
-    <div class="col-xs-12 resources-search">
-        <input type="text" class="col-xs-12" name="resourceSearch" id="resourceSearch" placeholder="Search {{include.event_code}} resources..."/>
-    </div>
-</div> -->
 
 {% include_cached search-by-tracks.html %}
 
@@ -17,7 +33,6 @@
         {% assign using_json = "True" %}
     {% endif %}
 {% endfor %}
-
 
 <div class="row">
     <div class="col-xs-12 resources-stats">
