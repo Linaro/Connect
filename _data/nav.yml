@@ -13,7 +13,11 @@ brand:
     url: /
 pages:
     - title: About
-      url: /about/
+      options:
+          - text: Overview
+            url: /about/
+          - text: Future Connect Events
+            url: /future-connects/
     - title: Attend
       options:
           - text: Code of Conduct
