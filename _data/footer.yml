@@ -41,10 +41,8 @@ columns:
            url : https://www.youtube.com/user/linaroorg
          - text: Twitter
            url : https://twitter.com/linaroorg
-         - text: News Hub
-           url : https://www.linaro.org/hub/
-         - text: OnAir
-           url : https://www.youtube.com/user/linaroOnAir
+         - text: Linaro Resources
+           url : https://www.linaro.org/resources/
 companylinks:
     - name: Careers
       url: /careers/
