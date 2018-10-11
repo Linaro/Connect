@@ -1,6 +1,21 @@
 {% comment %}
-    Attached Resource documents
+    Session speakers
 {% endcomment %}
+
+{% if page.speakers != "None" %}
+<div class="row">
+    <div class="col-xs-12 attached-documents">
+        <div class="list-group">
+            <li class="list-group-item active">Speakers</li>
+            {% for speaker in page.speakers %}
+            <li class="list-group-item">
+                {{speaker.name}}{% if speaker.company and speaker.job-title %} - {{speaker.job-title}} at {{speaker.company}} {% endif %}
+            </li>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endif %}
 
 {% if page.attached_documents %}
 <div class="row">
