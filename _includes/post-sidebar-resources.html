@@ -8,9 +8,15 @@
         <div class="list-group">
             <li class="list-group-item active">Speakers</li>
             {% for speaker in page.speakers %}
-            <li class="list-group-item">
-                {{speaker.name}}{% if speaker.company and speaker.job-title %} - {{speaker.job-title}} at {{speaker.company}} {% endif %}
-            </li>
+                {% if speaker.name %}
+                    <li class="list-group-item">
+                        {{speaker.name}}{% if speaker.company and speaker.job-title %} - {{speaker.job-title}} at {{speaker.company}} {% endif %}
+                    </li>
+                {% else %}
+                    <li class="list-group-item">
+                        {{speaker}}
+                    </li>
+                {% endif %}
             {% endfor %}
         </div>
     </div>
