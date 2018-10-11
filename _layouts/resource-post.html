@@ -5,11 +5,9 @@ css-package: resources-blog
 ---
 {% assign using_json = "False" %}
 {% assign current_connect = page.categories[0] | upcase %}
-{% for connect in site.data.connects %}
-    {% if connect.id == current_connect and connect.using_json == "True" %}
-        {% assign using_json = "True" %}
-    {% endif %}
-{% endfor %}
+{% if current_connect == "YVR18" %}
+    {% assign using_json = "True" %}
+{% endif %}
 <div class="container-fluid" id="content-container">
     <div class="row">
         <div class="container">
