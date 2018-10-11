@@ -1,23 +1,56 @@
 {% comment %}
+    Session speakers
+{% endcomment %}
+
+{% if page.speakers and page.speakers != "None" %}
+<div class="row">
+    <div class="col-xs-12 attached-documents">
+        <div class="list-group">
+            <li class="list-group-item active">Speakers</li>
+            {% for speaker in page.speakers %}
+                {% if speaker.name %}
+                    <li class="list-group-item">
+                        {{speaker.name}}{% if speaker.company and speaker.job-title %} - {{speaker.job-title}} at {{speaker.company}} {% endif %}
+                    </li>
+                {% else %}
+                    <li class="list-group-item">
+                        {{speaker}}
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endif %}
+
+{% if page.attached_documents %}
+<div class="row">
+    <div class="col-xs-12 attached-documents">
+        <div class="list-group">
+            <li class="list-group-item active"> Attached Documents </li>
+            {% for document in page.attached_documents %}
+                <a href="{{document.url}}" class="list-group-item">
+                    {{document.title}}
+                </a>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endif %}
+
+{% comment %}
     Generic Resources Info
 {% endcomment %}
+
 {% assign event_code_formatted = include.event_code | downcase %}
-<!-- <div class="row">
-    <div class="col-xs-12 resources-search">
-        <input type="text" class="col-xs-12" name="resourceSearch" id="resourceSearch" placeholder="Search {{include.event_code}} resources..."/>
-    </div>
-</div> -->
 
 {% include_cached search-by-tracks.html %}
 
 {% assign using_json = "False" %}
 {% assign current_connect = include.event_code | upcase %}
-{% for connect in site.data.connects %}
-    {% if connect.id == current_connect and connect.using_json == "True" %}
-        {% assign using_json = "True" %}
-    {% endif %}
-{% endfor %}
-
+{% if current_connect == "YVR18" %}
+    {% assign using_json = "True" %}
+{% endif %}
 
 <div class="row">
     <div class="col-xs-12 resources-stats">
@@ -35,13 +68,7 @@
             </div>
             <div class="col-xs-6">
                 <span class="resources-number">
-                    {% assign counter = 0 %}
-                    {% for resource in site.categories[event_code_formatted] %}
-                        {% if resource.youtube_video_url and resource.youtube_video_url != "None" %}
-                            {% assign counter = counter | plus:1 %}
-                        {% endif %}
-                    {% endfor %}
-                    {{counter}}
+                    {% include_cached resources-stats-counter-videos.html event_code=event_code_formatted %}
                 </span>
             </div>
         </div>
@@ -51,13 +78,7 @@
             </div>
             <div class="col-xs-6">
                 <span class="resources-number">
-                    {% assign counter = 0 %}
-                    {% for resource in site.categories[event_code_formatted] %}
-                        {% if resource.slideshare_presentation_url and resource.slideshare_presentation_url != "None" %}
-                            {% assign counter = counter | plus:1 %}
-                        {% endif %}
-                    {% endfor %}
-                    {{counter}}
+                    {% include_cached resources-stats-counter-presentations.html event_code=event_code_formatted %}
                 </span>
             </div>
         </div>

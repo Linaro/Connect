@@ -5,7 +5,7 @@ layout: empty
 css-package: ai-summit
 ---
 <div class="container-fluid">
-<div class="row banner-row" style="background-image: url('{% asset_path 'AINNBanner.png' %}');">
+<div class="row banner-row" style="background-image: url(/assets/images/content/AINNBanner.png);">
 <div class="container" id="summit-container">
 <h1>AI and Neural Networks on Arm Summit</h1>
 <p>
@@ -70,7 +70,7 @@ $(window).on("load",function(){
 });
 </script>
 <div id="eventbrite-skeleton">
-<img id="placeholder-skeleton" class="img-responsive lazyload" data-src="{% asset_path 'eventbrite-skeleton.png' %}" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<img id="placeholder-skeleton" class="img-responsive lazyload" data-src="/assets/images/content/eventbrite-skeleton.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 <iframe class="hidden-iframe" data-src="https://eventbrite.co.uk/tickets-external?eid=45251216607&amp;ref=etckt" width="100%" height="500" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto" id="eventbrite-iframe"></iframe>
 </div>
 </div>

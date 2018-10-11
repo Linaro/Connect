@@ -18,7 +18,7 @@ GEM
     execjs (2.7.0)
     extras (0.3.0)
       forwardable-extended (~> 2.5)
-    fastimage (2.1.3)
+    fastimage (2.1.4)
     ffi (1.9.25)
     forwardable-extended (2.6.0)
     hash-joiner (0.0.7)
@@ -51,11 +51,11 @@ GEM
       sprockets (~> 3.3, < 3.8)
     jekyll-data (1.0.0)
       jekyll (~> 3.3)
-    jekyll-feed (0.10.0)
+    jekyll-feed (0.11.0)
       jekyll (~> 3.3)
     jekyll-include-cache (0.1.0)
       jekyll (~> 3.3)
-    jekyll-paginate-v2 (1.9.4)
+    jekyll-paginate-v2 (2.0.0)
       jekyll (~> 3.0)
     jekyll-readme-index (0.2.0)
       jekyll (~> 3.0)
@@ -77,7 +77,7 @@ GEM
       htmlbeautifier
       htmlcompressor
       jekyll
-    jekyll-watch (2.0.0)
+    jekyll-watch (2.1.1)
       listen (~> 3.0)
     json (2.1.0)
     jumbo-jekyll-theme (2.1.3)
@@ -99,29 +99,27 @@ GEM
       sprockets (~> 3.7.2)
       uglifier (> 0)
     kramdown (1.17.0)
-    libv8 (3.16.14.19)
-    liquid (4.0.0)
+    liquid (4.0.1)
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
     mini_portile2 (2.3.0)
-    nokogiri (1.8.4)
+    nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
-    public_suffix (3.0.2)
+    public_suffix (3.0.3)
     rack (1.6.10)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
-    ref (2.0.0)
     rmagick (2.16.0)
-    rouge (3.1.1)
+    rouge (3.3.0)
     ruby_dep (1.5.0)
     safe_yaml (1.0.4)
-    sass (3.5.7)
+    sass (3.6.0)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -129,10 +127,7 @@ GEM
     sprockets (3.7.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
-    therubyracer (0.12.3)
-      libv8 (~> 3.16.14.15)
-      ref
-    uglifier (4.1.18)
+    uglifier (4.1.19)
       execjs (>= 0.3.0, < 3)
 
 PLATFORMS
@@ -144,7 +139,6 @@ DEPENDENCIES
   jekyll-responsive-image
   jumbo-jekyll-theme (= 2.1.3)
   nokogiri
-  therubyracer
 
 BUNDLED WITH
-   1.16.4
+   1.16.2
