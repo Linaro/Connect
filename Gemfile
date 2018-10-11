@@ -1,14 +1,13 @@
 source "https://rubygems.org"
 
 # Jumbo Jekyll Theme 
-gem 'jumbo-jekyll-theme', "2.1.3"
+gem 'jumbo-jekyll-theme', "2.2.4"
 # Jekyll Plugins
 group :jekyll_plugins do
    gem "jekyll-data"
    gem "nokogiri"
    #gem "therubyracer"
    gem "jekyll-responsive-image"
-   gem 'jekyll-include-cache'
 end
 
 
