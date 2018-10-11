@@ -37,35 +37,35 @@ To view slides or videos from the keynotes and sessions from previous Connects, 
 <div class="owl-carousel owl-theme">
 <div class="activity-block item">
 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-    data-src="{% asset_path 'about-carousel-image1.jpg' %}" class="owl-lazy img-responsive" alt="About Carousel Image 1" />
+    data-src="/assets/images/about-carousel/about-carousel-image1.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 1" />
 </div>
 <div class="activity-block item">
 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-    data-src="{% asset_path 'about-carousel-image2.jpg' %}" class="owl-lazy img-responsive" alt="About Carousel Image 2" />
+    data-src="/assets/images/about-carousel/about-carousel-image2.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 2" />
 </div>
 <div class="activity-block item">
 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-    data-src="{% asset_path 'about-carousel-image3.jpg' %}" class="owl-lazy img-responsive" alt="About Carousel Image 3" />
+    data-src="/assets/images/about-carousel/about-carousel-image3.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 3" />
 </div>
 <div class="activity-block item">
 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-    data-src="{% asset_path 'about-carousel-image4.jpg' %}" class="owl-lazy img-responsive" alt="About Carousel Image 4" />
+    data-src="/assets/images/about-carousel/about-carousel-image4.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 4" />
 </div>
 <div class="activity-block item">
 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-    data-src="{% asset_path 'about-carousel-image5.jpg' %}" class="owl-lazy img-responsive" alt="About Carousel Image 5" />
+    data-src="/assets/images/about-carousel/about-carousel-image5.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 5" />
 </div>
 <div class="activity-block item">
 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-    data-src="{% asset_path 'about-carousel-image6.jpg' %}" class="owl-lazy img-responsive" alt="About Carousel Image 6" />
+    data-src="/assets/images/about-carousel/about-carousel-image6.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 6" />
 </div>
 <div class="activity-block item">
 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-    data-src="{% asset_path 'about-carousel-image7.jpg' %}" class="owl-lazy img-responsive" alt="About Carousel Image 7" />
+    data-src="/assets/images/about-carousel/about-carousel-image7.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 7" />
 </div>
 <div class="activity-block item">
 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-    data-src="{% asset_path 'about-carousel-image8.jpg' %}" class="owl-lazy img-responsive" alt="About Carousel Image 8" />
+    data-src="/assets/images/about-carousel/about-carousel-image8.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 8" />
 </div>
 </div>
 </div>
@@ -76,7 +76,7 @@ To view slides or videos from the keynotes and sessions from previous Connects, 
 <div class="about-block text-center" style="background: linear-gradient(
 rgba(0, 0, 0, 0.7), 
 rgba(0, 0, 0, 0.7)
-), url({% asset_path 'collaborate-and-learn.jpg' %});  background-size: cover;" markdown="1">
+), url(/assets/images/content/collaborate-and-learn.jpg);  background-size: cover;" markdown="1">
 
 ### Collaborate & Learn
 
@@ -88,7 +88,7 @@ Collaborate with the engineers leading open source software development in the A
 <div class="about-block text-center" style="background: linear-gradient(
 rgba(0, 0, 0, 0.7), 
 rgba(0, 0, 0, 0.7)
-), url({% asset_path 'contribute.jpg' %});  background-size: cover;" markdown="1">
+), url(/assets/images/content/contribute.jpg);  background-size: cover;" markdown="1">
 
 ### Contribute
 Bring your knowledge and experience to influence and contribute to Linaro's development work. Linaro Connect is a unique opportunity to put your ideas forward face to face with other contributors and maintainers. If you have something relevant you'd like to show off, consider participating in Demo Friday.
@@ -99,7 +99,7 @@ Bring your knowledge and experience to influence and contribute to Linaro's deve
 <div class="about-block text-center" style="background: linear-gradient(
 rgba(0, 0, 0, 0.7), 
 rgba(0, 0, 0, 0.7)
-), url({% asset_path 'socialize.jpg' %});  background-size: cover;" markdown="1">
+), url(/assets/images/content/socialize.jpg);  background-size: cover;" markdown="1">
 
 ### Socialize
 
