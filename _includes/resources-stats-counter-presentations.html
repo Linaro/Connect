@@ -1,0 +1,7 @@
+{% assign counter = 0 %}
+{% for resource in site.categories[include.event_code] %}
+    {% if resource.slideshare_presentation_url and resource.slideshare_presentation_url != "None" %}
+        {% assign counter = counter | plus:1 %}
+    {% endif %}
+{% endfor %}
+{{counter}}

@@ -1,0 +1,7 @@
+{% assign counter = 0 %}
+{% for resource in site.categories[include.event_code] %}
+    {% if resource.youtube_video_url and resource.youtube_video_url != "None" %}
+        {% assign counter = counter | plus:1 %}
+    {% endif %}
+{% endfor %}
+{{counter}}
