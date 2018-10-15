@@ -32,7 +32,7 @@ The next Linaro Connect will take place at the Hyatt Regency in Vancouver, 17-21
     });
 </script>
 <div id="eventbrite-skeleton">
-    <img id="placeholder-skeleton" class="img-responsive lazyload" data-src="{% asset_path 'eventbrite-skeleton.png' %}" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+    <img id="placeholder-skeleton" class="img-responsive lazyload" data-src="/assets/images/content/eventbrite-skeleton.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
     <iframe class="hidden-iframe" data-src="https://eventbrite.co.uk/tickets-external?eid=45251216607&amp;ref=etckt" width="100%" height="500" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto" id="eventbrite-iframe"></iframe>
 </div>
 
