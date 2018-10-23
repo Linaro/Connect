@@ -1,7 +1,7 @@
 ---
-permalink: /assets/json/connect_resources.json
+permalink: /assets/json/yvr18/resources.json
 ---
-func([
+connectResources([
 {% for post in site.categories.yvr18 %}
     {
         "id": "{{ post.id }}",
@@ -10,7 +10,7 @@ func([
         "url": "{{ site.url }}{{ post.url }}",
         "summary": {{ post.excerpt | smartify | jsonify }},
         "date_published": "{{ post.date }}",
-        {% if post.speakers %}
+        {% if page.speakers and page.speakers != "None" %}
         "speakers": {% for speaker in post.speakers %}
         {
             "name": "{{speaker.name}}",
