@@ -10,7 +10,7 @@ connectResources([
         "url": "{{ site.url }}{{ post.url }}",
         "summary": {{ post.excerpt | smartify | jsonify }},
         "date_published": "{{ post.date }}",
-        {% if page.speakers and page.speakers != "None" %}
+        {% if post.speakers and post.speakers != "None" %}
         "speakers": {% for speaker in post.speakers %}
         {
             "name": "{{speaker.name}}",
