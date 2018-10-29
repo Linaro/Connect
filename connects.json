@@ -1,3 +1,4 @@
 ---
+permalink: /assets/json/connects.json
 ---
-{{ site.data.connects | jsonify }}
+connects({{ site.data.connects | jsonify }});

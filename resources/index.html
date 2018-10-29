@@ -90,8 +90,6 @@ css-package: resources
                 </div>
                 <div class="col-xs-12 no-padding text-center">
                     {% if connect.flickr-albums %}
-                        {% assign numberOfFlickrAlbums = connect.flickr-albums | size %} 
-                        {% if numberOfFlickrAlbums > 1 %}
                         <!-- Single button -->
                         <div class="btn-group">
                             <button type="button" class="flickr-albums btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -106,9 +104,6 @@ css-package: resources
                                 {% endfor %}
                             </ul>
                         </div>
-                        {% else %}
-                        <a class="flickr-albums btn btn-primary" href="{{connect.flickr-albums | first }}">Flickr Album</a>
-                        {% endif %}
                     {% endif %}
                     
                     {% if connect.location %}
