@@ -30,13 +30,17 @@ The following part removes dulpicated tags and invalid tags like blank tag.
 	{% endif %}
 {% endfor %}
 
-<div class="stats col-xs-12 no-padding {% if include.hidden %} visible-xs {% endif %}">
-    <div class="stats-inner">
-        <p>Search by Tracks:</p>
-        <select class="form-control" onChange="window.location.href=this.value">
-            {% for tag in tags %}
-            <option value="/resources/tracks/#{{ tag | slugify }}">{{ tag }}</option>
-            {% endfor %}
-        </select>
-    </div>
+<div class="row" id="search-by-track">
+	<div class="container">
+		<div class="stats col-xs-12 no-padding {% if include.hidden %} visible-xs {% endif %}">
+			<div class="stats-inner">
+				<p>Search by Tracks:</p>
+				<select class="form-control" onChange="window.location.href=this.value">
+					{% for tag in tags %}
+					<option value="/resources/tracks/#{{ tag | slugify }}">{{ tag }}</option>
+					{% endfor %}
+				</select>
+			</div>
+		</div>
+	</div>
 </div>
