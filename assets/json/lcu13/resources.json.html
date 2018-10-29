@@ -11,14 +11,14 @@ connectResources([
         "summary": {{ post.excerpt | smartify | jsonify }},
         "date_published": "{{ post.date }}",
         {% if post.speakers and post.speakers != "None" %}
-        "speakers": {% for speaker in post.speakers %}
+        "speakers": [{% for speaker in post.speakers %}
         {
             "name": "{{speaker.name}}",
             "job-title": "{{speaker.job-title}}",
             "company": "{{speaker.company}}"
         }
         {% unless forloop.last == true %},{% endunless %}
-        {% endfor %},
+        {% endfor %}],
         {% endif %}
         {% if post.slideshare_presentation_url != "None" %}
         "slideshare_presentation_url": "{{post.slideshare_presentation_url}}",
