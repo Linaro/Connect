@@ -1,15 +1,29 @@
 ---
 title: Resources
 permalink: /resources/
-layout: container-breadcrumb
+layout: empty
 js-package: resources
 css-package: resources
 ---
-
-{% include_cached stats.html %}
-
-{% include_cached search-by-tracks.html %}
-
+<div class="container-fluid" id="resources-header" style="background-image: url('/assets/images/content/membership-bg.jpg');">
+    <div class="row overlay padded-row">
+        <div class="container text-center">
+            <h1 class="fly center-block">Connect Resources</h1>
+            <p class="fly center-block">
+                Find resources from all of our previous Connect events here.
+            </p>
+        </div>
+    </div>
+</div>
+<div class="container-fluid" id="all-resources">
+<div class="row">
+    <div class="container">
+            {% include_cached stats.html %}
+            {% include_cached search-by-tracks.html %}
+    </div>
+</div>
+<div class="row padded-row">
+<div class="container">
 <div id="all-resources">
 {% assign connect_events = site.data.connects | sort: "start-date" | reverse %}
     {% for connect in connect_events %}
@@ -133,3 +147,6 @@ css-package: resources
         </div>  
     {% endfor %}
 </div>
+</div><!--Container END-->
+</div><!--Row END-->
+</div><!--Fluid Container END-->
