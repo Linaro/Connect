@@ -20,6 +20,23 @@ At <span class="linaro-green">Linaro Connect Vancouver 2018</span><br>
 <div class="container">
 <div class="col-xs-12" markdown="1">
 
+This AI and Neural Networks on Arm Summit has ended! Below is a table of resources from the event:
+
+|Speaker|Company|ID|Title|
+|-------|-------|--|-----|
+|Chris Benson|AI Strategist|[YVR18- 300K2](https://youtu.be/bYSwYkmQJVo?t=1s)|Keynote: Artificial Intelligence Strategy: Digital Transformation Through Deep Learning|
+|Jem Davies|Arm|[YVR18-300K1](https://youtu.be/bYSwYkmQJVo?t=31m15s)|Keynote: Enabling Machine Learning to Explode with Open Standards and Collaboration|
+|Robert Elliott|Arm|[YVR18-329](https://www.youtube.com/watch?v=te-rJ5BVrtw)|Arm NN intro|
+|Pete Warden|Google Tensorflow|[YVR18-338](https://www.youtube.com/watch?v=xYtw7fN2C88)|Tensorflow for Arm devices|
+|Mark Charlebois|Qualcomm|[YVR18-330](https://www.youtube.com/watch?v=MgyfmaYhtLU)|Qualcomm Snapdragon AI Software|
+|Thom Lane|Amazon AWS AI|[YVR18-331](https://www.youtube.com/watch?v=BDWlIew5pfo)|ONNX and Edge Deployments|
+|Jammy Zhou|Linaro|[YVR18-332](https://www.youtube.com/watch?v=daYr4tpncFo)|TVM compiler stack and ONNX support|
+|Luba Tang|Skymizer|[YVR18-333](https://www.youtube.com/watch?v=BDWlIew5pfo)|ONNC (Open Neural Network Compiler) for ARM Cortex-M|
+|Shouyong Liu|Thundersoft|[YVR18-334](https://www.youtube.com/watch?v=CoBhUS9SL4U)|AI Alive: On Device and In-App|
+|Ralph Wittig|Xilinx|[YVR18-335](https://www.youtube.com/watch?v=FimBHlcfhxA)|Xilinx: AI on FPGA and ACAP Roadmap|
+|Andrea Gallo and others|Linaro, Arm, Qualcomm, Skymizer, Xilinx|[YVR18-337](https://www.youtube.com/watch?v=igH_OMSeIPI)|BoF: JIT vs offline compilers vs deploying at the Edge|
+
+
 The options for neural network acceleration in Arm-based platforms provide an unprecedented opportunity for new intelligent devices. However, it also raises the risk of fragmentation and duplication of effort when varied frameworks and libraries will be required to support a multitude of accelerators.
 
 The growing amount of data captured by sensors and connected devices coupled with real time constraints and the cost to move large data sets from the edge to the cloud intensifies the need to manage and execute Big Data analytics and Machine Learning (ML) inference engines at the edge.
