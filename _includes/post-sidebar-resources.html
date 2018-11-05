@@ -1,7 +1,6 @@
 {% comment %}
     Session speakers
 {% endcomment %}
-
 {% if page.speakers and page.speakers != "None" %}
 <div class="row">
     <div class="col-xs-12 attached-documents">
@@ -22,7 +21,6 @@
     </div>
 </div>
 {% endif %}
-
 {% if page.attached_documents %}
 <div class="row">
     <div class="col-xs-12 attached-documents">
@@ -37,21 +35,17 @@
     </div>
 </div>
 {% endif %}
-
 {% comment %}
     Generic Resources Info
 {% endcomment %}
 
 {% assign event_code_formatted = include.event_code | downcase %}
-
 {% include_cached search-by-tracks.html %}
-
 {% assign using_json = "False" %}
 {% assign current_connect = include.event_code | upcase %}
 {% if current_connect == "YVR18" %}
     {% assign using_json = "True" %}
 {% endif %}
-
 <div class="row">
     <div class="col-xs-12 resources-stats">
         <div class="resource-sidebar-block col-xs-4">
