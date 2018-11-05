@@ -92,7 +92,28 @@ a.connect-map-location.btn.btn-primary:hover {
     margin-right: 5px;
     margin-bottom: 10px;
 }
+div#all-resources {
+    z-index: 2;
+    position: relative;
+    background-color: white;
+}
+.container-fluid.sponsors {
+    z-index: 2;
+    background-color: white;
+    position: relative;
+    margin-bottom: 0px;
+}
 
-@media(min-width: $screen-sm-min){
-
+// Added flex css to ensure that the content is centered vertically.
+.overlay {
+    height: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
 }

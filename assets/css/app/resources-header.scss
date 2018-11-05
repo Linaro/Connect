@@ -18,6 +18,8 @@
 .carousel-fade .carousel-inner .item {
     opacity: 0;
     transition-property: opacity;
+    background-size:cover;
+    background-position: center center;
 }
 .carousel-fade .carousel-inner .active {
     opacity: 1;
@@ -119,4 +121,8 @@ div#why-join-container {
 }
 #why-join-container .container.text-center {
     padding-bottom: 40px;
+}
+div#resources-header {
+    position: relative;
+    height: 400px;
 }
