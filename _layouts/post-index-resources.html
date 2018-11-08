@@ -11,9 +11,7 @@ js-package: resources-blog
         {% assign using_json = "True" %}
     {% endif %}
 {% endfor %}
-
 <script type="text/javascript">
-
     function defer(method) {
         if (window.jQuery) {
             method();
@@ -21,52 +19,49 @@ js-package: resources-blog
             setTimeout(function () { defer(method) }, 50);
         }
     }
-
     defer(function () {
         // Check to see for the resources stats div
-        if ($(".resource-info.using_json").length > 1) {
+        if ($(".resource-info.using_json").length > 1) 
+        {
             // Get the current Connect code from the event-code attribute
             var connectCode = $("#main-resources-content").attr("event-id");
             // URL for the resources.json
             var resources_json_url = "https://s3.amazonaws.com/connect.linaro.org/" + connectCode.toString().toLowerCase() + "/resources.json";
             // Get the resources.json file
-            $.ajax({
-                url: resources_json_url,
-                dataType: 'json',
-                complete: function (jsonResponse) {
-                    jsonData = JSON.parse(jsonResponse.responseText);
-                    // Loop through each instance of the resource-info div and set the correct stats indicators
-                    $.each(".resource-info.using_json", function () {
-                        // Find the corresponding key in the JSON data
-                        $.each(jsonData, function (idx, obj) {
-                            // Get the current Connect code
-                            var sessionId = $(this).attr("session-id");
-                            console.log("El Session ID: " + sessionId);
-                            if (obj.session_id.toString().toLowerCase() == sessionId.toString().toLowerCase()) {
-                                console.log(obj.session_id);
-                                // Set the video status
-                                if (obj.youtube_video_url.toString().length > 1) {
-                                    $(this).find(".video > i.glyphicon").removeClass("glyphicon-remove-sign");
-                                    $(this).find(".video > i.glyphicon").addClass("glyphicon-ok-sign");
+            $.ajax(
+                {
+                    url: resources_json_url,
+                    dataType: 'json',
+                    complete: function (jsonResponse) 
+                    {
+                        jsonData = JSON.parse(jsonResponse.responseText);
+                        // Loop through each instance of the resource-info div and set the correct stats indicators
+                        $.each(".resource-info.using_json", function () {
+                            // Find the corresponding key in the JSON data
+                            $.each(jsonData, function (idx, obj) {
+                                // Get the current Connect code
+                                var sessionId = $(this).attr("session-id");
+                                console.log("El Session ID: " + sessionId);
+                                if (obj.session_id.toString().toLowerCase() == sessionId.toString().toLowerCase()) {
+                                    console.log(obj.session_id);
+                                    // Set the video status
+                                    if (obj.youtube_video_url.toString().length > 1) {
+                                        $(this).find(".video > i.glyphicon").removeClass("glyphicon-remove-sign");
+                                        $(this).find(".video > i.glyphicon").addClass("glyphicon-ok-sign");
+                                    }
+                                    // Set presentation status
+                                    if (obj.s3_presentation_url.toString().length > 1) {
+                                        $(this).find(".presentation > i.glyphicon").removeClass("glyphicon-remove-sign");
+                                        $(this).find(".presentation > i.glyphicon").addClass("glyphicon-ok-sign");
+                                    }
                                 }
-                                // Set presentation status
-                                if (obj.s3_presentation_url.toString().length > 1) {
-                                    $(this).find(".presentation > i.glyphicon").removeClass("glyphicon-remove-sign");
-                                    $(this).find(".presentation > i.glyphicon").addClass("glyphicon-ok-sign");
-                                }
-
-                            }
+                            });
                         });
-
-                    });
-
-
-                }
-            });
+                    }
+                });
         }
     });
 </script>
-
 <div class="col-md-9 no-padding" id="main-resources-content" event-id="{{current_connect}}">
     <div class="row">
     {% for post in paginator.posts %}
