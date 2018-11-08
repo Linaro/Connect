@@ -1,26 +1,26 @@
- .owl-stage-outer {
-    height: auto;
+.owl-stage-outer {
+  height: auto;
 }
- .about-block.text-center {
-    padding: 40px;
-    border-radius: 5px;
-    color: white;
-    min-height: 350px;
-    -webkit-box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
-    box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
-    transition: all 1s ease;
+.about-block.text-center {
+  padding: 40px;
+  border-radius: 5px;
+  color: white;
+  min-height: 350px;
+  -webkit-box-shadow: 0px 0px 22px -4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 22px -4px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 22px -4px rgba(0, 0, 0, 0.75);
+  transition: all 1s ease;
 }
- .about-block.text-center:hover {
-    opacity: .8;
+.about-block.text-center:hover {
+  opacity: 0.8;
 }
- #about-block-row .about-block h3 {
-    color: white;
+#about-block-row .about-block h3 {
+  color: white;
 }
- #about-block-row p {
-    color: white;
+#about-block-row p {
+  color: white;
 }
- #about-block-row {
-    margin-top: 50px;
-    margin-bottom: 50px;
+#about-block-row {
+  margin-top: 50px;
+  margin-bottom: 50px;
 }

@@ -1,162 +1,162 @@
 // Adjust the margin-top of the home wrapper to account for the universal nav
 #wrapper.home {
-    margin-top: 31px;
+  margin-top: 31px;
 }
 
 #homepage-header p#buttons a {
-    background-color: $brand-primary;
-    color: #fff !important;
-    font-weight: normal;
-    margin-bottom: 50px;
-    border: 0;
-    border-radius: 0px;
+  background-color: $brand-primary;
+  color: #fff !important;
+  font-weight: normal;
+  margin-bottom: 50px;
+  border: 0;
+  border-radius: 0px;
 }
 
 #homepage-header p#buttons a:hover {
-    font-weight: normal;
-    margin-bottom: 50px;
+  font-weight: normal;
+  margin-bottom: 50px;
 }
 
 #homepage-header #home-page-text {
-    top: 20px;
-    font-size: 68px;
-    font-weight: bold;
-    position: relative;
-    text-shadow: #000 1px 1px 7px;
+  top: 20px;
+  font-size: 68px;
+  font-weight: bold;
+  position: relative;
+  text-shadow: #000 1px 1px 7px;
 }
 
-@media(max-width:$screen-sm-min) {
-    h1#home-page-title.white {
-        font-size: 28px;
-    }
-    #homepage-header #home-page-text {
-        top: 20px;
-        font-size: 42px;
-        position: relative;
-        line-height: 40px;
-    }
+@media (max-width: $screen-sm-min) {
+  h1#home-page-title.white {
+    font-size: 28px;
+  }
+  #homepage-header #home-page-text {
+    top: 20px;
+    font-size: 42px;
+    position: relative;
+    line-height: 40px;
+  }
 }
 
 div#featured-jumbotron {
-    margin-top: 20px !important;
-    margin-bottom: 20px !important;
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
 }
 
 p#buttons {
-    margin-top: 40px;
+  margin-top: 40px;
 }
 
 div#featured-jumbotron {
-    margin-bottom: $navbar-height + 20;
+  margin-bottom: $navbar-height + 20;
 }
 
 #featured-jumbotron h2,
 #featured-jumbotron h3 {
-    color: white;
+  color: white;
 }
 
 #featured-jumbotron h3 {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 #wrapper #homepage-header a.btn.btn-linaro-home:hover {
-    background-color: #000;
+  background-color: #000;
 }
 
 // Connect YVR18
 img.fade-in-one.img-responsive.center-block {
-    height: 200px;
+  height: 200px;
 }
 
 h3.connect-location {
-    font-weight: normal;
+  font-weight: normal;
 }
 
 div#intro-row {
-    padding-bottom: 100px;
-    padding-top: 20px;
+  padding-bottom: 100px;
+  padding-top: 20px;
 }
 
 //Speakers Section
 .img-responsive.speaker-image {
-    height: 200px;
-    width: 200px;
-    border-radius: 100px;
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    border: 1px solid #eaeaea;
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 1px solid #eaeaea;
 }
 
 .speaker-block {
-    text-align: center;
+  text-align: center;
 }
 
 #speakers-row {
-    margin-bottom: 80px;
-    background-color: #f5f5f5;
+  margin-bottom: 80px;
+  background-color: #f5f5f5;
 }
 
 #speakers-row h2 {
-    margin-bottom: 40px;
-    font-weight: normal;
+  margin-bottom: 40px;
+  font-weight: normal;
 }
 
 span.keynote_title {
-    display: block;
-    margin: 20px 0px;
-    font-size: 24px;
+  display: block;
+  margin: 20px 0px;
+  font-size: 24px;
 }
 
 .speaker-block {
-    min-height: 500px;
-    color: black;
+  min-height: 500px;
+  color: black;
 }
 
 span.keynote_title {
-    display: block;
-    margin: 20px 20px;
-    font-size: 16px;
-    height:auto;
+  display: block;
+  margin: 20px 20px;
+  font-size: 16px;
+  height: auto;
 }
 
 span.keynote_time {
-    padding: 5px;
-    background-color: #f5f5f5;
-    border: 1px solid #dadada;
-    margin-top: 23px;
-    display: block;
-    width: 194px;
-    margin-left: auto;
-    margin-right: auto;
+  padding: 5px;
+  background-color: #f5f5f5;
+  border: 1px solid #dadada;
+  margin-top: 23px;
+  display: block;
+  width: 194px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 //Home page owl carousel
 .owl-stage-outer {
-    height: 460px;
+  height: 460px;
 }
 
 .owl-nav {
-    text-align: center;
+  text-align: center;
 }
 
 div#schedule-row {
-    padding-top: 50px;
-    padding-bottom: 80px;
+  padding-top: 50px;
+  padding-bottom: 80px;
 }
 
 #schedule-row h1 {
-    font-weight: normal;
+  font-weight: normal;
 }
 
 #schedule-row a.btn {
-    background-color: #7ca72c;
-    color: white;
-    border-radius: 0px;
-    border: 0;
-    transition: all 1s ease;
+  background-color: #7ca72c;
+  color: white;
+  border-radius: 0px;
+  border: 0;
+  transition: all 1s ease;
 }
 
 #schedule-row a.btn:hover {
-    background-color: #000000;
+  background-color: #000000;
 }
