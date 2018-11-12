@@ -109,10 +109,6 @@ div#why-join-container {
   z-index: 99999;
   position: relative;
 }
-.item.active {
-  height: 500px;
-  margin-top: -40px;
-}
 @media (max-width: $screen-sm-min) {
   h1.fly.center-block {
     font-size: 25px;
@@ -124,4 +120,8 @@ div#why-join-container {
 div#resources-header {
   position: relative;
   height: 400px;
+}
+.item {
+    height: 500px;
+    margin-top: 82px;
 }
