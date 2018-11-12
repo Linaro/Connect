@@ -305,11 +305,22 @@ A modified build script is used for deployment onto AWS and is not currently pub
 
 This build script should probably be replaced by a make file.
 
+
 #### Building using the build script
 
 Run ```./build.sh``` in a Bash or ZSH shell.
 
 Browse to [http://127.0.0.1:4000/](http://127.0.0.1:4000/) to view the website.
+
+
+### Other Notes
+
+If you are trying to build this Jekyll site locally without using the Docker image then you may need to install the rmagick gem.
+
+```bash
+$ aptitude install build-essential imagemagick libmagickcore-dev libmagickwand-dev
+$ gem install rmagick
+```
 
 ### Contributing
 
