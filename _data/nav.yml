@@ -31,5 +31,3 @@ pages:
       url: /sponsors/
     - title: Resources
       data: site.data.connects
-    - title: Blog
-      url: /blog/
