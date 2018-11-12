@@ -9,3 +9,4 @@
 //= require app/resources
 //= require app/tables
 //= require app/custom
+//= require app/fly

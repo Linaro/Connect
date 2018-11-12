@@ -5,22 +5,6 @@ layout: container-breadcrumb
 js-package: about
 css-package: about
 ---
-<!-- 
-<div class="container-fluid" style="background-image: url('/assets/images/content/yvr18-group-photo.jpg');" id="about-connect-intro">
-    <div class="row">
-        <div class="container" style="padding-top: 30px;">
-            <p class="text-center">
-                Since 2010, Linaro Connect has been the event to attend if you are interested in open source software development for Linux,
-                tools and the various vertical segment ecosystems that use Arm processors. While the event continues to evolve, one thing
-                stays the same – it revolves around engineering and will consist of a mix of industry keynotes, engineering presentations
-                and discussions, and collaborative engineering hacking sessions
-                To view slides or videos from the keynotes and sessions from previous Connects, please go to our <a href="/resources/">Resources page</a>.
-            </p>
-        </div>
-    </div>
-</div> -->
-
-
 <div class="row">
 <div class="col-md-6" markdown="1">
 
@@ -34,6 +18,7 @@ To view slides or videos from the keynotes and sessions from previous Connects, 
 
 </div>
 <div class="col-md-6">
+
 <div class="owl-carousel owl-theme">
 <div class="activity-block item">
 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -68,6 +53,8 @@ To view slides or videos from the keynotes and sessions from previous Connects, 
     data-src="/assets/images/about-carousel/about-carousel-image8.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 8" />
 </div>
 </div>
+
+
 </div>
 </div>
 

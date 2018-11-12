@@ -1,69 +1,70 @@
- .owl-stage-outer {
-    height: 300px;
+.owl-stage-outer {
+  height: 300px;
 }
 
 #intro-row {
-    margin-bottom:50px;
+  margin-bottom: 50px;
 }
 
 #sponsor-types h3.panel-title {
-    color:white;
-    font-size: 24px;
+  color: white;
+  font-size: 24px;
 }
 
 span.sponsor-price {
-    font-size: 36px;
-    color: #dfdfdf;
+  font-size: 36px;
+  color: #dfdfdf;
 }
 
 #sponsor-types .panel-body .list-group-item:first-child {
-    border-top-right-radius: 0px;
-    border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
 }
 li.list-group-item.divider {
-    background-color: #f2f2f2;
-    color: black;
-    font-weight: bold;
+  background-color: #f2f2f2;
+  color: black;
+  font-weight: bold;
 }
 
 .panel.panel-primary.sponsor.text-center {
-    -webkit-box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
-    box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 0px 0px 22px -4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 22px -4px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 22px -4px rgba(0, 0, 0, 0.75);
 }
 
 .panel.panel-primary.sponsor ul.list-group {
-    margin-bottom: 0px;
-    border: 1px solid #a0a0a0;
+  margin-bottom: 0px;
+  border: 1px solid #a0a0a0;
 }
 
-#current-sponsors .lead-sponsor h3, #current-sponsors .connect-sponsor h3 {
-    font-weight: normal;
-    margin-top: 0px;
-    font-size: 16px;
-    top: 0px;
-    position: relative;
+#current-sponsors .lead-sponsor h3,
+#current-sponsors .connect-sponsor h3 {
+  font-weight: normal;
+  margin-top: 0px;
+  font-size: 16px;
+  top: 0px;
+  position: relative;
 }
 
 #current-sponsors .sponsors h2 {
-    margin-bottom: 40px;
-    font-size: 24px;
-    font-weight: normal;
+  margin-bottom: 40px;
+  font-size: 24px;
+  font-weight: normal;
 }
 
 #current-sponsors .sponsors .sponsor .img-responsive {
-    height: 100px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center center;
-    transition: all 200ms ease;
-    margin-bottom: 0px;
-    margin-top: 0px;
+  height: 100px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  transition: all 200ms ease;
+  margin-bottom: 0px;
+  margin-top: 0px;
 }
 
-@media(max-width: $screen-sm-min - 1){
-    .col-md-6 h3 {
-        text-align: center;
-        margin-bottom: 30px;
-    }
+@media (max-width: $screen-sm-min - 1) {
+  .col-md-6 h3 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
 }

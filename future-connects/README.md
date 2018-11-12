@@ -7,9 +7,9 @@ css-package: about
 ---
 <div class="col-xs-12" markdown="1">
 
-| Event | Date | Location |
-|-------|------|----------|
-| Linaro Connect Bangkok 2019 (BKK19) | 1 - 5  April 2019 | Centara Grand at CentralWorld Bangkok, Thailand |
-| Linaro Connect San Diego 2019 (SAN19) | 23 - 27 September 2019 | Paradise Point, San Diego, California |
+| Event | Date | Location | Add to Calendar |
+|-------|------|----------|-----------------|
+| Linaro Connect Bangkok 2019 (BKK19) | 1 - 5  April 2019 | Centara Grand at CentralWorld Bangkok, Thailand | [Add to Calendar](https://calendar.google.com/calendar/r/eventedit?dates=20190401T080000Z/20190405T150000Z&ctz=Asia/Bangkok&details&text=Linaro+Connect+Bangkok+2019+(BKK19)%09&location=Centara+Grand+at+CentralWorld+Bangkok,+Thailand&details=Linaro+Connect+BKK19+will+be+at+Centara+Grand+at+CentralWorld+Bangkok,+Thailand.&sf=true) |
+| Linaro Connect San Diego 2019 (SAN19) | 23 - 27 September 2019 | Paradise Point, San Diego, California | [Add to Calendar](http://www.google.com/calendar/event?action=TEMPLATE&dates=20190923T080000Z%2F20190927T150000Z&ctz=America/Los_Angeles&text=Linaro%20Connect%20San%20Diego%202019%20(SAN19)%09&location=Paradise%20Point%2C%20San%20Diego%2C%20California&details=Linaro%20Connect%20San%20Diego%202019%20(SAN19)%20will%20be%20at%20Paradise%20Point%2C%20San%20Diego%2C%20California) |
 
 </div>

@@ -18,13 +18,16 @@ pages:
             url: /about/
           - text: Future Connect Events
             url: /future-connects/
+
     - title: Attend
       options:
+          - text: Visa/Business Invitation Letters
+            url: /business-invitation-letters/
+          - text: Register
+            url: /register/
           - text: Code of Conduct
             url: /code-of-conduct/
     - title: Sponsors
       url: /sponsors/
     - title: Resources
       data: site.data.connects
-    - title: Blog
-      url: /blog/

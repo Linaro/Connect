@@ -2,23 +2,23 @@
 permalink: /assets/json/hkg18/data.json
 ---
 connectResources([
-{% for post in site.categories.yvr18 %}
+{% for post in site.categories.hkg18 %}
     {
         "id": "{{ post.id }}",
         {% if post.session_id %}"session_id": "{{ post.session_id }}",{% endif %}
         "title": {{ post.title | smartify | jsonify }},
         "url": "{{ site.url }}{{ post.url }}",
-        "summary": {{ post.excerpt | smartify | jsonify }},
+        "summary": {{ post.excerpt | strip_html | smartify | jsonify }},
         "date_published": "{{ post.date }}",
         {% if post.speakers and post.speakers != "None" %}
-        "speakers": {% for speaker in post.speakers %}
+        "speakers": [{% for speaker in post.speakers %}
         {
             "name": "{{speaker.name}}",
             "job-title": "{{speaker.job-title}}",
             "company": "{{speaker.company}}"
         }
         {% unless forloop.last == true %},{% endunless %}
-        {% endfor %},
+        {% endfor %}],
         {% endif %}
         {% if post.slideshare_presentation_url != "None" %}
         "slideshare_presentation_url": "{{post.slideshare_presentation_url}}",

@@ -43,7 +43,7 @@ home:
             # then change this setting to false.
             darken: true
             # This is the name of the background-image located in /assets/images/
-            name: bkk19-bg.jpg
+            name: bkk19-website-banner.png
 # Jekyll social media site settings. Github, LinkedIn, Google+, Facebook and Youtube
 github_username: Linaro
 linkedin_username: 1026961
@@ -87,7 +87,7 @@ blog:
                   url: url
 # Google Anayltics Setup
 google:
-    tag_manager: GTM-5DLPJQ
+    analytics: UA-16756069-6
 # Shema.org settings used in the schema.html include.
 schema:
     enabled: false
