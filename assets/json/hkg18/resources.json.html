@@ -2,7 +2,7 @@
 permalink: /assets/json/hkg18/data.json
 ---
 connectResources([
-{% for post in site.categories.yvr18 %}
+{% for post in site.categories.hkg18 %}
     {
         "id": "{{ post.id }}",
         {% if post.session_id %}"session_id": "{{ post.session_id }}",{% endif %}

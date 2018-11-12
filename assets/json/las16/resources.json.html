@@ -2,7 +2,7 @@
 permalink: /assets/json/las16/data.json
 ---
 connectResources([
-{% for post in site.categories.yvr18 %}
+{% for post in site.categories.las16 %}
     {
         "id": "{{ post.id }}",
         {% if post.session_id %}"session_id": "{{ post.session_id }}",{% endif %}
