@@ -86,6 +86,12 @@ twitter:
 
 defaults:
   - scope:
+        path: "_posts/yvr18/sessions"
+        type: "posts"
+    values:
+        permalink: /resources/:categories/sessions/:slug/ 
+        comments: true
+  - scope:
         path: ""
         type: "posts"
     values:
