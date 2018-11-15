@@ -1,5 +1,10 @@
 - id: YVR18
   placeholder: yvr18-group-photo.jpg
+  featured_images:
+    - /assets/images/content/yvr18-group-photo.jpg
+    - /assets/images/content/yvr18-banner.png
+    - /assets/images/content/yvr18-featured-image1.jpg
+    - /assets/images/content/yvr18-featured-image2.jpg
   long-name: Linaro Connect Vancouver 2018
   start-date: 2018-09-17 09:00:00
   end-date: 2018-09-21 09:00:00
