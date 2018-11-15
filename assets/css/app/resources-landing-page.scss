@@ -1,0 +1,14 @@
+.category-block {
+    background-color: #333333;
+    display: flex;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#wrapper .category-block h3 {
+    color: white;
+    max-width: 50%;
+    margin: 0;
+}
