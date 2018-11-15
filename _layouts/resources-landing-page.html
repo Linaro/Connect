@@ -5,17 +5,23 @@ css-package: resources-landing-page
 js-package: resources-landing-page
 ---
 <div class="col-sm-4 no-padding">
-    <div class="category-block">
-        <h3>Sessions</h3>
-    </div>
+    <a href="/resources/{{page.event_code | downcase}}/sessions/">
+        <div class="category-block">
+            <h3>Sessions</h3>
+        </div>
+    </a>
 </div>
 <div class="col-sm-4 no-padding">
-    <div class="category-block">
-        <h3>Demos</h3>
-    </div>
+    <a href="/resources/{{page.event_code | downcase}}/demos/">
+        <div class="category-block">
+            <h3>Demos</h3>
+        </div>
+    </a>
 </div>
 <div class="col-sm-4 no-padding">
-    <div class="category-block">
-        <h3>Interviews</h3>
-    </div>
+    <a href="/resources/{{page.event_code | downcase}}/interviews/">
+        <div class="category-block">
+            <h3>Interviews</h3>
+        </div>
+    </a>
 </div>
