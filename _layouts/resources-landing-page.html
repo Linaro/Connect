@@ -5,7 +5,7 @@ layout: empty
 css-package: resources-landing-page
 js-package: resources-landing-page
 ---
-{% assign connect_data = site.data.connects | where: "id", "{{page.event_code}}" %}
+{% assign connect_data = site.data.connects | where: "id", page.event_code | first %}
 
 <div class="carousel slide carousel-fade" data-ride="carousel">
     <!-- Wrapper for slides -->
@@ -17,7 +17,6 @@ js-package: resources-landing-page
         {% endfor %}
     </div>
 </div>
-
 <div class="container-fluid" id="resources-header">
     <div class="row overlay padded-row">
         <div class="container text-center">
@@ -28,7 +27,6 @@ js-package: resources-landing-page
         </div>
     </div>
 </div>
-
 <div class="container-fluid" id="content-container">
     <div class="col-sm-4 no-padding">
         <a href="/resources/{{page.event_code | downcase}}/sessions/">
