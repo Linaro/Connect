@@ -17,7 +17,6 @@ css-package: resources-blog
             <div class="col-md-9 no-padding {{current_connect}}">
                 <article class="post-content">
                     <div class="post-info">
-                        <h1>{{page.title }}</h1>
                         {% if page.date %}<small class="blog-date text-center"><em>Added to  <a href="/resources/{{page.categories[0]}}/">{{page.categories[0] | upcase }} Resources</a> on <b>{{page.date |  date: "%A, %B %-d, %Y"}}</b></em></small>{% endif %}
                         {% if page.session_track %}
                             <div class="tracks">
