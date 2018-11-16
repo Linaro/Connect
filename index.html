@@ -4,16 +4,19 @@ title: Linaro Connect Bangkok 2019 (BKK19)
 description: |-
     Linaro Connect Bangkok 2019 (BKK19) will take place on Monday 1 April to Friday 5 April 2019
 ---
-<div class="row" id="schedule-row">
-    <div class="container fly no-padding text-center" style="margin-top:20px;">
-        <h1>{{site.previous-connect-code}} Resources </h1>
-        <a href="/resources/{{site.previous-connect-code | downcase }}/" class="btn btn-primary schedule">View</a>
-    </div>
-</div>
-
-<div class="row" id="intro-row">
-    <div class="container fly no-padding" style="margin-top:20px;">
-        <div class="col-md-12">
+<div class="container-fluid" id="content-container">
+    <div class="row" id="intro-row">
+        <div class="col-xs-12 col-sm-4 no-padding connect-video">
+            <div id="video-holder">
+                <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                 data-src="/assets/images/content/video_placeholder.png" />
+                <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="video-embed">
+                    <iframe class="hidden-iframe" data-src="https://www.youtube.com/watch?v=06oC6Y76p2I" width="100%" height="500" frameborder="0" marginwidth="5"
+                        marginheight="5" scrolling="auto" id="youtube-iframe"></iframe>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-8 no-padding about-connect">
             <p>
                 Since 2010, Linaro Connect has been the event to attend if you are interested in open source software development for Linux,
                 tools and the various vertical segment ecosystems that use Arm processors. While the event continues to evolve, one thing
@@ -24,16 +27,21 @@ description: |-
                 Linaro Connect Vancouver has now ended. The next Linaro Connect will be in Bangkok, Thailand from April 1-5, 2019. Details
                 on registration will be available soon.
             </p>
-
             <p class="text-center">
                 <strong>The leading event for Open source software engineering on Arm</strong><br />
                 <br>
                 <a class="btn btn-primary" href="/sponsors/">Sponsor {{site.connect-code}}</a>
             </p>
-            
         </div>
     </div>
+    <div class="row" id="schedule-row">
+        <div class="container fly no-padding text-center" style="margin-top:20px;">
+            <h1>{{site.previous-connect-code}} Resources </h1>
+            <a href="/resources/{{site.previous-connect-code | downcase }}/" class="btn btn-primary schedule">View</a>
+        </div>
+    </div>
+    {% include sections/previous-connect-links.html %}
 </div>
-{% include sections/previous-connect-links.html %}
+
 
 
