@@ -54,17 +54,18 @@ h3.connect-title.text-center {
     font-size: 15px;
 }
 .resource-sidebar-block.col-xs-4 {
-  background-color: #d8d8d8;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  color: #363636;
-  border: 1px solid #cccccc;
+    background-color: #2f2f2f;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #ffffff;
+    border: 1px solid #000000;
 }
 #all-resources ul.dropdown-menu {
   margin-top: 0px;
 }
 #all-resources button.btn.btn-default.dropdown-toggle {
   color: white;
+  border: 1px solid black;
 }
 a.connect-map-location.btn.btn-primary {
   background-color: #333333;
