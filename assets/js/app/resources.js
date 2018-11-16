@@ -13,6 +13,6 @@ $(function() {
   });
 });
 
-$(".resource-block").each(function(index) {
-    $(this).delay(200*index).fadeIn(300);
-});
+// $(".resource-block").each(function(index) {
+//     $(this).delay(200*index).fadeIn(300);
+// });
