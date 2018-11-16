@@ -160,3 +160,16 @@ div#schedule-row {
 #schedule-row a.btn:hover {
   background-color: #000000;
 }
+// Promo video
+div#content-container {
+    padding-top: 0px;
+}
+div#intro-row {
+    padding-top: 0px;
+}
+#video-skeleton {
+    -webkit-filter: grayscale(0%);
+    /* Safari 6.0 - 9.0 */
+    filter: grayscale(0%);
+  }
+  
