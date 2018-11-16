@@ -8,7 +8,7 @@ image:
   featured: true
   name: yvr18-interview4.jpg
   path: /assets/images/featured-images/yvr18-interview4.jpg
-layout: resource-post-interview
+layout: resource-post-demo-interview
 session_track: Interview
 speakers:
 - company: Red Hat

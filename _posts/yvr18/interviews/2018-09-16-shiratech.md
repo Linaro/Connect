@@ -8,7 +8,7 @@ image:
   featured: true
   name: yvr18-interview14.jpg
   path: /assets/images/featured-images/yvr18-interview14.jpg
-layout: resource-post-interview
+layout: resource-post-demo-interview
 session_track: Interview
 title: Shiratech
 youtube_video_url: https://www.youtube.com/watch?v=BmM4PCMzDRo

@@ -8,7 +8,7 @@ image:
   featured: true
   name: yvr18-demo11.jpg
   path: /assets/images/featured-images/yvr18-demo11.jpg
-layout: resource-post-demo
+layout: resource-post-demo-interview
 session_track: Demo
 speakers:
 - company: Linaro

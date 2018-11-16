@@ -8,7 +8,7 @@ image:
   featured: true
   name: yvr18-demo8.jpg
   path: /assets/images/featured-images/yvr18-demo8.jpg
-layout: resource-post-demo
+layout: resource-post-demo-interview
 session_track: Demo
 title: OpenCV Color Segmentation and Tracking on DragonBoard 820c
 youtube_video_url: https://www.youtube.com/watch?v=4TlwJh7hLVY

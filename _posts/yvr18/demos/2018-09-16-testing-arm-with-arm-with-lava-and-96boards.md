@@ -8,7 +8,7 @@ image:
   featured: true
   name: yvr18-demo9.jpg
   path: /assets/images/featured-images/yvr18-demo9.jpg
-layout: resource-post-demo
+layout: resource-post-demo-interview
 session_track: Demo
 title: Testing Arm with Arm with LAVA and 96Boards
 youtube_video_url: https://www.youtube.com/watch?v=5Y2TNiJPc40

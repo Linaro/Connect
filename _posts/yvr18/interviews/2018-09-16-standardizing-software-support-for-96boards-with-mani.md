@@ -8,7 +8,7 @@ image:
   featured: true
   name: yvr18-interview5.jpg
   path: /assets/images/featured-images/yvr18-interview5.jpg
-layout: resource-post-interview
+layout: resource-post-demo-interview
 session_track: Interview
 speakers:
 - company: Linaro (96Boards)

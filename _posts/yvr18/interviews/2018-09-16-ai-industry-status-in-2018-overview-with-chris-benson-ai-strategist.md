@@ -8,7 +8,7 @@ image:
   featured: true
   name: yvr18-interview13.jpg
   path: /assets/images/featured-images/yvr18-interview13.jpg
-layout: resource-post-interview
+layout: resource-post-demo-interview
 session_track: Interview
 speakers:
 - name: Chris Benson

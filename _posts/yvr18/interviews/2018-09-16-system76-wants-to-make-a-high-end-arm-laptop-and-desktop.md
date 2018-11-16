@@ -8,7 +8,7 @@ image:
   featured: true
   name: yvr18-interview10.jpg
   path: /assets/images/featured-images/yvr18-interview10.jpg
-layout: resource-post-interview
+layout: resource-post-demo-interview
 session_track: Interview
 title: System76 wants to make a high-end ARM Laptop and Desktop
 youtube_video_url: https://www.youtube.com/watch?v=Fopa1Uoh87w

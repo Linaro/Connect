@@ -8,7 +8,7 @@ image:
   featured: true
   name: yvr18-demo12.jpg
   path: /assets/images/featured-images/yvr18-demo12.jpg
-layout: resource-post-demo
+layout: resource-post-demo-interview
 session_track: Demo
 title: Wi-Fi and Bluetooth single chip Unisoc in UCRobotics IVY5661 IoT Edition 96Boards development board
 youtube_video_url: https://www.youtube.com/watch?v=ZvA8Sc8686A
