@@ -21,7 +21,7 @@ Chris Benson is an AI & digital transformation strategist, solution architect, a
 
 He was a member of Accenture’s first dedicated AI Team, and went on to create and build Honeywell’s first dedicated AI Team.
 
-Chris is the co-host of the Practical AI podcast ([https://changelog.com/practicalai](https%3A%2F%2Fchangelog.com%2Fpracticalai)) – produced by Changelog Media – which makes artificial intelligence practical, productive, and accessible to everyone.
+Chris is the co-host of the Practical AI podcast ([https://changelog.com/practicalai](https://changelog.com/practicalai)) – produced by Changelog Media – which makes artificial intelligence practical, productive, and accessible to everyone.
 
 He is a frequent keynote speaker on artificial intelligence at conferences, broadcasts, and events around the world.
 

@@ -14,7 +14,7 @@ title: Linux microPlatform, secure IoT updates with Foundries.io and Toradex
 youtube_video_url: https://www.youtube.com/watch?v=EoHEiODdbGk
 tag: interview
 ---
-At Linaro Connect Vancouver 2018, [http://foundries.io](http%3A%2F%2Ffoundries.io) and Toradex discuss Linux microPlatform, what microPlatform is and how it helps Toradex to build their next generation Software Platform.
+At Linaro Connect Vancouver 2018, [http://foundries.io](http://foundries.io) and Toradex discuss Linux microPlatform, what microPlatform is and how it helps Toradex to build their next generation Software Platform.
 
 Linux microPlatform is an open source, minimal, secure, updatable Operating System based on OpenEmbedded / Yocto Project. Toradex ports the microPlatform to its Arm-based System on Modules and it uses it as the basis for its future Software Planform called Torizon.  
 
