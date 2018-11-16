@@ -196,6 +196,7 @@ span.track:hover {
     display: inline-block;
     font-size: 16px;
     margin-right: 10px;
+    margin-top: 10px;
 }
 .author-info small {
     display: inline-block;
@@ -210,7 +211,17 @@ span.track:hover {
 .author-info.col-xs-9 {
     background-color: #eeeeee;
     height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .col-xs-12.content-author {
     margin-bottom: 20px;
+}
+.author-info i {
+    font-size: 32px;
+    max-width: 50%;
+}
+.author-info a {
+    margin: 5px;
 }
