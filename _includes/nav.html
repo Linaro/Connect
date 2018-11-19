@@ -81,7 +81,7 @@
                     <li>
                         <a target="_self" href="/resources/" class="dropdown-item " title="All Connect Resources">All Resources</a>
                     </li>
-                    {% for connect in site.data.connects %}
+                    {% for connect in site.data.connects limit: 5 %}
                     <li>
                         <a target="_self" href="/resources/{{connect.id | downcase }}/" class="dropdown-item " title="{{connect.long-name}}">{{connect.id}}</a>
                     </li>
