@@ -187,7 +187,7 @@ div#intro-row {
         display: block;
     }
 }
-.flex-row .col-xs-*, .flex-row .col-sm-*, .flex-row .col-md-*, .flex-row .col-lg-* {
+.flex-row div[class^="col-xs-"], .flex-row div[class^="col-sm-"], .flex-row div[class^="col-md-"], .flex-row div[class^="col-lg-"] {
     display: flex;
     align-items: center;
     justify-content: center;
