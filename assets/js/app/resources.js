@@ -3,7 +3,7 @@ $(function() {
         var current = parseInt($this.html(), 10);
         $this.html(++current);
         if(current !== $this.data('count')){
-            setTimeout(function(){count($this)}, 1);
+            setTimeout(function(){count($this);}, 1);
         }
     }        
   $("span.count-to-number").each(function() {
@@ -79,21 +79,29 @@ function listResults(json_data) {
         interpolate : /\{\{(.+?)\}\}/g
     };  
     // Specify a new html _.template
-    var listItemTemplate = _.template('<tr class="fly"><td>{{resource_title}}</td><td>{{resource_summary}}</td><td>{{resource_tracks}}</td><td>{{resource_event}}</td><td>{{resource_speakers}}</td><td>{{resource_resources}}</td><td><a href="{{resource_url}}">View Resource</a></td></tr>');
+    // Title, Summary, Tracks, Speakers, Video, Presentation, Event ID, Date Published, View Resource 
+    var listItemTemplate = _.template('<tr class="fly">' + 
+    '<td data-toggle="tooltip" data-container="body" data-placement="top" title="{{resource_title_full}}">{{resource_title}}</td>' +
+    '<td data-toggle="tooltip" data-container="body" data-placement="top" title="{{resource_summary_full}}">{{resource_summary}}</td>' +
+    '<td>{{resource_tracks}}</td>' +
+    '<td>{{resource_video}}</td>' +
+    '<td>{{resource_presentation}}</td>' + 
+    '<td>{{resource_event}}</td>' +
+    '<td>{{date_published}}</td>' +
+    '<td><a href="{{resource_url}}">View Resource</a></td>' +
+    '</tr>');
     // Get the search query val which we are searching for.
     var search = $('#search-query').val();
     // Fuzzy search options
     var options = {
-        pre: "<b>"
-      , post: "</b>"
-
+        pre: "<b>", post: "</b>"
       // Each element in the data is an object, not a string. We can pass in a
       // function that is called on each element in the array to extract the
       // string to fuzzy search against. In this case, element.dir
       , extract: function(entry) {
             return entry.title + '::' + entry.summary;
         }
-    }
+    };
     // Filter!
     var filtered = fuzzy.filter(search, json_data, options);
     // Map the results to the html we want generated
@@ -109,33 +117,58 @@ function listResults(json_data) {
             session_id = result.original.session_id;
         }
         else{
-            sesssion_id = "N/A"
+            sesssion_id = "None";
         }
+
+        // Set the resource vars to None by default
+        var resource_video = "None";
+        var resource_presentation = "None";
+        // Get the presentation resource link if available
+        if(result.original.amazon_s3_presentation_url){
+            resource_presentation = result.original.amazon_s3_presentation_url;
+        }
+        else if(result.original.slideshare_presentation_url){
+            resource_presentation = result.original.slideshare_presentation_url;
+        }
+        // Get the video resource link if available
+        if(result.original.youtube_video_url){
+            resource_video = result.original.youtube_video_url;
+        }
+        else if(result.original.amazon_s3_video_url){
+            resource_video = result.original.amazon_s3_video_url;
+        }
+
         // Get the session tracks
         var session_tracks = "";
         if(result.original.tracks !== ""){
             session_tracks = result.original.tracks;
         }
         else{
-            session_tracks  = "N/A";
+            session_tracks  = "None";
         }
-        // Get the resource resources - ie video/presentation links
-        var resource_resources = "";
-        // if(result.)
-
         // Get the resource speakers
-        var resource_speakers = "";
-        for(i=0;i<result.original.speakers.length;i++){
-            resource_speakers = resource_speakers + result.original.speakers[i].name + " ";
+        var resource_speakers = "None";
+        // Check to see if the speakers property exists
+        if(result.original.speakers){
+            // Fetch all speakers
+            for(i=0;i<result.original.speakers.length;i++){
+                resource_speakers = resource_speakers + result.original.speakers[i].name + " ";
+            }
         }
-
+        var trimmed_title = items[0].substring(0, 30);
+        var trimmed_summary = items[1].substring(0, 40);
+        // Title, Summary, Tracks, Speakers, Video, Presentation, Event ID, Date Published, View Resource 
         return listItemTemplate({
          resource_url: result.original.url
-        , resource_title: items[0]
-        , resource_summary: items[1]
+        , resource_title: trimmed_title
+        , resource_summary: trimmed_summary
+        , resource_title_full: items[0]
+        , resource_summary_full: items[1]
         , resource_tracks: session_tracks
         , resource_speakers: resource_speakers
-        , resource_resources: resource_resources
+        , resource_presentation: resource_presentation
+        , resource_video: resource_video
+        , resource_event: result.original.event_id
         , resource_date_published: result.original.date_published
         , resource_session_id: session_id
         });
@@ -206,14 +239,10 @@ $(document).ready(function () {
         });
         // Enable Bootstrap tooltips for displaying details of resources
         $(function () {
-            $('[data-toggle="tooltip"]').tooltip({ container: 'body'})
+            $('[data-toggle="tooltip"]').tooltip({ container: 'body'});
         });
     }
     else{
         console.log("Not defined!");
     }    
 });
-
-// $(".resource-block").each(function(index) {
-//     $(this).delay(200*index).fadeIn(300);
-// });
