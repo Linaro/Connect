@@ -12,6 +12,7 @@
 // Linaro Jekyll Theme Includes
 
 @import "core";
+@import "core/fa";
 
 // Include the home sass partials
 
@@ -26,6 +27,5 @@
 @import "app/previous-links";
 @import "app/previous-sponsors";
 @import "core/jumbotron";
-@import "core/twitter-feed";
 @import "app/custom";
 @import "app/fly";
