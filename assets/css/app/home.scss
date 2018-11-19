@@ -273,6 +273,15 @@ div#intro-row {
     width: 100%;
     text-align: center;
 }
+.event-item:hover .event-details-block {
+    height:200px;
+    top:0px;
+    opacity: .9;
+    padding-top:50px;
+ }
+ .event-details-block {
+     transition: all 400ms ease;
+ }
 // Homepage SVG style
 svg {
     height: 200px;
