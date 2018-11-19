@@ -113,3 +113,10 @@ disqus:
     shortname: Linaro
 # Placeholder for Missing Images
 placeholder: linaro-logo.png
+
+featured_images:
+  - id: sponsorship
+    images:
+      - /assets/images/content/hkg18-sponsor1.jpg
+      - /assets/images/content/yvr18-sponsor1.jpg
+      - /assets/images/content/yvr18-sponsor2.jpg
