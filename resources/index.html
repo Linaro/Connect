@@ -38,9 +38,28 @@ css-package: resources
 <div class="row">
     <div class="container">
         {% include_cached stats.html %}
-        {% include_cached search-by-tracks.html %}
-        <div class="resoures-search">
-            
+        <input type="text" class="form-control" placeholder="Search..." id="search-query">
+        <!-- <form class="form-inline">
+            <button type="button" id="show-all-results" class="btn btn-sm btn-primary">Show All</button>
+            <select class="form-control" name="author-select" id="author-select"></select>
+            <div id="site-checkboxes"></div>
+        </form> -->
+        <!--Start Container-->
+        <div style="overflow-x:scroll;">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Title (<span id="result_size"></span> of <span id="size"></span>)</th>
+                        <th class="filter" data-toggle="desc" data-filter="author">Event<span class="caret"></span></th>
+                        <th class="filter" data-toggle="desc" data-filter="date">Speaker<span class="caret"></span></th>
+                        <th class="filter" data-toggle="desc" data-filter="site">Tracks<span class="caret"></span></th>
+                        <th>View Resource</th>
+                    </tr>
+                </thead>
+                <tbody id="results">
+                    <tr><td colspan="5" class="loader" style="text-align:center;"><img class="img-responsive" src="/assets/images/loading.gif"/></td></tr>
+                </tbody>
+            </table>
         </div>
     </div>
 
