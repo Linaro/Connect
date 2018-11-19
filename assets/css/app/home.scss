@@ -171,5 +171,24 @@ div#intro-row {
     -webkit-filter: grayscale(0%);
     /* Safari 6.0 - 9.0 */
     filter: grayscale(0%);
-  }
-  
+}
+.col-xs-12.col-sm-8.no-padding.about-connect {
+    padding: 20px;
+    // display: flex;
+    // align-items: center;
+    // justify-content: center;
+}
+
+.flex-row {
+    display: flex;
+}
+@media(max-width: $screen-sm-min - 1){
+    .flex-row {
+        display: block;
+    }
+}
+.flex-row .col-xs-*, .flex-row .col-sm-*, .flex-row .col-md-*, .flex-row .col-lg-* {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
