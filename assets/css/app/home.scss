@@ -73,7 +73,6 @@ h3.connect-location {
 }
 
 div#intro-row {
-  padding-bottom: 100px;
   padding-top: 20px;
 }
 
@@ -187,8 +186,29 @@ div#intro-row {
         display: block;
     }
 }
-.flex-row div[class^="col-xs-"], .flex-row div[class^="col-sm-"], .flex-row div[class^="col-md-"], .flex-row div[class^="col-lg-"] {
+.flex-row div[class^="col-xs-"].flex-col, .flex-row div[class^="col-sm-"].flex-col, .flex-row div[class^="col-md-"].flex-col, .flex-row div[class^="col-lg-"].flex-col {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column; 
+}
+p#buttons {
+    clear: both;
+    float: left;
+    text-align: left;
+    width: 100%;
+    margin-top: 0;
+}
+div#video-embed {
+    margin-bottom: 0;
+}
+#buttons > a.btn {
+    background-color: #828282;
+    color: white;
+    border: 1px solid grey;
+}
+#buttons > a.btn:hover {
+    background-color: #96c500;
+    color: white;
+    border: 1px solid grey;
 }
