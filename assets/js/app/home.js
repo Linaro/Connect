@@ -11,23 +11,47 @@ $(window).on("load",function(){
 });
 
 $(document).ready(function () {
-    $('.owl-carousel').owlCarousel({
-        loop: true,
-        margin: 10,
+    $('.sponsorship-carousel').owlCarousel({
+        loop:true,
+        margin:10,
+        nav:true,
+        dots: false,
+        lazyLoad: true,
+        autoplay:true,
+        autoplayHoverPause:true,
         responsiveClass: true,
+        navText : ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
         responsive: {
             0: {
                 items: 1,
-                nav: true
+                nav: true,
+                dots: false
+            }
+        }
+    });
+    $("#connect-event-slider").owlCarousel({
+        items: 4,
+        loop: true,
+        dots: false,
+        margin: 0,
+        autoplay: true,
+        autoplayTimeout: 4000,
+        autoplayHoverPause: true,
+        responsive: {
+            0: {
+                items: 1
             },
-            600: {
-                items: 2,
-                nav: false
+            560: {
+                items: 2
+            },
+            700: {
+                items: 3
             },
             1000: {
-                items: 4,
-                nav: true,
-                loop: false
+                items: 4
+            },
+            1200: {
+                items: 6
             }
         }
     });
