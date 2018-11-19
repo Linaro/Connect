@@ -87,7 +87,7 @@ function listResults(json_data) {
     '<td>{{resource_video}}</td>' +
     '<td>{{resource_presentation}}</td>' + 
     '<td>{{resource_event}}</td>' +
-    '<td>{{date_published}}</td>' +
+    '<td>{{resource_date_published}}</td>' +
     '<td><a href="{{resource_url}}">View Resource</a></td>' +
     '</tr>');
     // Get the search query val which we are searching for.
@@ -110,15 +110,6 @@ function listResults(json_data) {
         // Split the search items
         // These are the items that are used to match search queries against
         var items = result.string.split('::');
-
-        // Check to see if there is a session ID
-        var session_id = "";
-        if (result.original.session_id !== ""){
-            session_id = result.original.session_id;
-        }
-        else{
-            sesssion_id = "None";
-        }
 
         // Set the resource vars to None by default
         var resource_video = "None";
@@ -169,8 +160,7 @@ function listResults(json_data) {
         , resource_presentation: resource_presentation
         , resource_video: resource_video
         , resource_event: result.original.event_id
-        , resource_date_published: result.original.date_published
-        , resource_session_id: session_id
+        , resource_date_published: extractDateString(result.original.date_published)
         });
     });
     // Append results to the results html container
@@ -194,17 +184,51 @@ function addConnectResources(results_data, number_of_items){
         else{
             tableRow += '<tr class="fly">';
         }
-        
-        
         // Get trimmed versions of resource title/summary
         var trimmed_title = resource.title.substring(0, 30);
         var trimmed_summary = resource.summary.substring(0, 40);
-
-        tableRow += '<td>' + trimmed_title + '</td>';
+        // Set the resource vars to None by default
+        var resource_video = "None";
+        var resource_presentation = "None";
+        // Get the presentation resource link if available
+        if(resource.amazon_s3_presentation_url){
+            resource_presentation = resource.amazon_s3_presentation_url;
+        }
+        else if(resource.slideshare_presentation_url){
+            resource_presentation = resource.slideshare_presentation_url;
+        }
+        // Get the video resource link if available
+        if(resource.youtube_video_url){
+            resource_video = resource.youtube_video_url;
+        }
+        else if(resource.amazon_s3_video_url){
+            resource_video = resource.amazon_s3_video_url;
+        }
+        // Get the session tracks
+        var resource_tracks = "";
+        if(resource.tracks !== ""){
+            resource_tracks = resource.tracks;
+        }
+        else{
+            resource_tracks  = "None";
+        }
+        // Get the resource speakers
+        var resource_speakers = "None";
+        // Check to see if the speakers property exists
+        if(resource.speakers !== ""){
+            // Fetch all speakers
+            for(n=0;n<resource.speakers.length;n++){
+                resource_speakers = resource_speakers + resource.speakers[n].name + " ";
+            }
+        }
+        tableRow += '<td data-toggle="tooltip" data-container="body" data-placement="top" title="'+ resource.title +'">' + trimmed_title + '</td>';
         tableRow += '<td data-toggle="tooltip" data-container="body" data-placement="top" title="'+ resource.summary +'">' + trimmed_summary + '</td>';
+        tableRow += '<td>'+ resource_tracks +'</td>';
+        tableRow += '<td>'+ resource_video +'</td>';
+        tableRow += '<td>'+ resource_presentation +'</td>';
+        tableRow += '<td>'+ resource.event_id +'</td>';
         tableRow += '<td>' + extractDateString(resource.date_published) + '</td>';
         tableRow += '<td><a href="' + resource.url + '">View Resource</a></td>';
-        tableRow += '<td>'+ resource.title +'</td>';
         tableRow += '</tr>';
     }
     $("#results").html(tableRow);
