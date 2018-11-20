@@ -105,11 +105,6 @@ defaults:
         comments: true
   - scope:
         path: ""
-        type: "authors"
-    values:
-        layout: author
-  - scope:
-        path: ""
         type: "speakers"
     values:
         layout: speaker
