@@ -1,7 +1,7 @@
 {% comment %}
     Session speakers
 {% endcomment %}
-{% unless page.author == "connect" or page.pagination %}
+{% if page.author == "charbax" %}
 {% assign author = site.authors | where: "username", page.author | first %}
 <div class="row">
     <div class="col-xs-12 content-author">
@@ -21,7 +21,7 @@
         </div>
     </div>
 </div>
-{% endunless %}
+{% endif %}
 
 {% if page.speakers and page.speakers != "None" %}
 <div class="row">
