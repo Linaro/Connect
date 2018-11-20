@@ -80,9 +80,6 @@ li.list-group-item.divider {
 }
 .flex-row div[class^="col-xs-"].flex-col, .flex-row div[class^="col-sm-"].flex-col, .flex-row div[class^="col-md-"].flex-col, .flex-row div[class^="col-lg-"].flex-col {
     display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column; 
 }
 #sponsor-types .col-md-4.flex-col {
     display: -ms-flexbox;
