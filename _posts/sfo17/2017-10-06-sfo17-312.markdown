@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-312-%20Benchmarking%20at%20TCWG.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-312%20Benchmarking%20at%20TCWG.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

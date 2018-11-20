@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-509%20Deep%20Learning%20on%20ARM%20Platforms%20.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-509%20-%20Deep%20Learning%20on%20ARM%20Platforms.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

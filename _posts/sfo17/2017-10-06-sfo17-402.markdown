@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-402-%20SDIO%20power%20on%252Foff%20time%20impacts%20system%20suspend%252Fresume%20time%20.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-402%20SDIO%20power%20on%20%20off%20time%20impacts%20system%20suspend%20%20resume%20time%21.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

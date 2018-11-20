@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-406%20-%20Full%20IPsec%20Offload%20Support%20in%20OpenDataPlane.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-406%20IPsec%20Full%20Offload%20Support%20in%20ODP.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

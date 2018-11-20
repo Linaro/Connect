@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-320%20TSC%20BoF%20Accelerators%20Discussion%20.pdf
 amazon_s3_video_url: None
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

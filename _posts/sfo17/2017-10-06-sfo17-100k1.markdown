@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/Keynote%20George%20Grey%20%28Linaro%29%20%E2%80%93%20SFO17-100K1.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/Linaro%20Connect%20San%20Francisco%202017%20-%20Welcome%20Keynote%20by%20George%20Grey%20%257C%20%2523SFO17.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

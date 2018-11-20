@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-319%20SCMI_Linaro_Connect_SFO2017.pptx.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-319%20-%20SCMI%20Test%20Suite.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false
