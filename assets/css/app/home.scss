@@ -222,16 +222,16 @@ div#video-embed {
     background-size: cover;
     background-repeat: no-repeat;
 }
-#sponsorhip-row h3 {
+#sponsorship-row h3 {
     text-align: left;
     float: left;
     width: 100%;
 }
-div#sponsorhip-row {
+div#sponsorship-row {
     background-color: #eaeaea;
-    padding: 50px 0;
+    padding: 10px 0;
 }
-div#sponsorhip-row  .owl-stage-outer {
+div#sponsorship-row  .owl-stage-outer {
     height: 400px;
 }
 #connect-row .event-image {
@@ -282,6 +282,10 @@ div#intro-row {
  .event-details-block {
      transition: all 400ms ease;
  }
+ #sponsorship-row .owl-carousel {
+    background-color: white;
+}
+
 // Homepage SVG style
 svg {
     height: 200px;
@@ -289,4 +293,22 @@ svg {
 }
 path.cls-1 {
     fill: #94cb00;
+}
+.alert.alert-info.connect.alert-dismissible.fade.show {
+    opacity: 1;
+    margin-bottom: 0;
+    padding: 80px 40px;
+    background-color: #273350;
+    border: 0;
+    text-align: center;
+    color: white;
+    border-radius:0px
+}
+
+.alert-info.connect button.close {
+    color: white;
+    font-size: 30px;
+    top: -83px;
+    position: relative;
+    right: -30px;
 }
