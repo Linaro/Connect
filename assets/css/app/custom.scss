@@ -645,7 +645,7 @@ span.line {
   visibility: visible;
 }
 
-.sponsors .sponsor .img-responsive {
+#current-sponsors .sponsor .img-responsive {
   height: 100px;
   background-size: contain;
   background-repeat: no-repeat;
@@ -654,25 +654,28 @@ span.line {
   margin-bottom: 20px;
   margin-top: 20px;
 }
-.sponsors .sponsor {
+#current-sponsors .sponsor {
   text-align: center;
 }
-div.sponsors {
-  margin-bottom: 50px;
+div#current-sponsors {
+  padding-bottom: 50px;
 }
-.sponsors h2 {
+#current-sponsors h2 {
   margin-bottom: 40px;
   font-size: 20px;
   font-weight: normal;
 }
-.sponsors p {
+div#current-sponsors {
+    background-color: white;
+}
+#current-sponsors p {
   text-align: center;
   margin-bottom: 10px;
 }
-.sponsors .col-xs-12.text-center {
+#current-sponsors .col-xs-12.text-center {
   margin-bottom: 25px;
 }
-.sponsors .sponsor .img-responsive:hover {
+#current-sponsors .sponsor .img-responsive:hover {
   transform: scale(1.2);
 }
 .lead-sponsor h3,
