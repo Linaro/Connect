@@ -10,7 +10,7 @@
                 {% assign prev-connect = site.previous-connect-code | downcase %}
                 {% if sponsor.event == prev-connect %}
                     {% if sponsor.type == "lead" %}
-                    <div class="col-xs-12 col-sm-3  text-center lead-sponsor">
+                    <div class="col-xs-6 col-sm-3  text-center lead-sponsor">
                         <div class="sponsor fly">
                             <h3> Lead Sponsor </h3>
                             <a href="{{sponsor.url}}" target="_blank">
@@ -19,7 +19,7 @@
                         </div>
                     </div>
                     {% else %}
-                    <div class="col-xs-12 col-sm-3 text-center connect-sponsor">
+                    <div class="col-xs-6 col-sm-3 text-center connect-sponsor">
                         <div class="sponsor fly">
                             <h3> Sponsor </h3>
                             <a href="{{sponsor.url}}" target="_blank">
