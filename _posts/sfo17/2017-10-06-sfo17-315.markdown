@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-315-%20OpenDataPlane%20Testing%20in%20Travis.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-315%20-%20Complex%20testing%20in%20Travis%20CI.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

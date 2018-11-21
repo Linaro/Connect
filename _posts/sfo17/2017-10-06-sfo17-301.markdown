@@ -1,6 +1,6 @@
 ---
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-301%20A%20Practical%20Guide%20to%20Open%20Source%20Software%20Licensing.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

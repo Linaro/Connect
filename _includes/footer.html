@@ -1,6 +1,9 @@
-{% unless page.url == "/sponsors/" %}
-    {% include previous-sponsors.html %}
-{% endunless %}
+<div class="container-fluid">
+    {% unless page.url == "/sponsors/" %}
+        {% include previous-sponsors.html %}
+    {% endunless %}
+</div>
+{% include github-edit.html %}
 <div class="container-fluid footer">
     <div class="row">
         <footer id="footer">
@@ -22,8 +25,8 @@
                                 {% endfor %}
                             {% endif %}
                             {% if column.data == "connects" %}
-                                {% assign connect-list = site.data.connects | limit: 5 %}
-                                {% for item in connect-list %}
+                                {% assign connect-list = site.data.connects %}
+                                {% for item in connect-list limit: 5%}
                                     <li>
                                         <a class="footer-element" href="/resources/{{item.id | downcase }}/">{{item.id}}</a>
                                     </li>

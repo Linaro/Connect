@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: None
 amazon_s3_video_url: None
-author: celia.ilardi
+author: connect
 categories:
 - bud17
 comments: false

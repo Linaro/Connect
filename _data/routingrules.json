@@ -1,4 +1,5 @@
 [
+    "^/resources/yvr18/yvr18-(.*)$ /resources/yvr18/sessions/yvr18-$1 [R,L]",
     "^/hkg18/resources(/?|/index.html)$ /resources/hkg18/ [R,L,NC]",
     "^/demofriday(/?|/index.html)$ /demo-friday/ [R,L,NC]",
     "^/ecosystem-day(/?|/index.html)$ /resources/ [R,L,NC]",

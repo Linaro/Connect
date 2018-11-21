@@ -1,5 +1,5 @@
 ---
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

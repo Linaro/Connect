@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-317%20WrapDrive%20-%20A%20Common%20User%20Space%20Accelerator%20Framework%20-%20v0.7.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-317%20Progress%20and%20demonstration%20of%20WrapDrive%2C%20an%20accelerator%20framework.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

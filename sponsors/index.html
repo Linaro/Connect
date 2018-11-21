@@ -5,11 +5,34 @@ layout: empty
 js-package: sponsor
 css-package: sponsor
 ---
-{% include breadcrumb.html %}
+{% assign sponsorship = site.data.settings.featured_images | where: "id", "sponsorship" | first  %}
 
-{% include previous-sponsors.html %}
+<div class="carousel slide carousel-fade" data-ride="carousel">
+<!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+        {% for image in sponsorship.background_images %}
+            <div style="background: url({{image}}); background-size:cover; background-position:center center; background-repeat: no-repeat;"
+            class="lazyload item {% if forloop.index == 1%}active{% endif %}">
+            </div>
+        {% endfor %}
+    </div>
+</div>
+<div class="container-fluid" id="resources-header">
+    <div id="featured-jumbotron">
+        <div class="row overlay padded-row">
+            <div class="container text-center">
+                <h1 class="fly center-block">Sponsor</h1>
+                <p class="fly center-block">
+                    Sponsor the biggest Arm Open Source Collaboration event. 
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
 
-<div class="container-fluid">
+
+<div class="container-fluid" id="content-container">
+    {% include previous-sponsors.html %}
     <div class="row" id="intro-row">
         <div class="container" style="padding-top: 30px;">
             <div class="col-md-6 no-padding">
@@ -23,206 +46,331 @@ css-package: sponsor
             </div>
             <div class="col-md-6">
                 <div class="owl-carousel owl-theme">
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image1.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 1" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image2.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 2" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image3.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 3" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image4.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 4" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image5.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 5" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image6.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 6" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image7.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 7" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image8.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 8" />
-                    </div>
+                    {% for image in sponsorship.images %}
+                        <div class="activity-block item">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                             data-src="{{image}}" class="owl-lazy lazyload img-responsive" alt="Sponsor Image {{forloop.index}}" />
+                        </div>
+                    {% endfor %}
                 </div>
             </div>
 
         </div>
     </div>
-    
-    <div class="row" id="sponsor-types">
+    <div class="row" id="sponsor-table">
         <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="panel panel-primary sponsor text-center">
-                      <div class="panel-heading">
-                        <h3 class="panel-title">Lead Sponsor</h3>
-                        <span class="sponsor-price">$25,000</span>
-                      </div>
-                      <div class="panel-body">
-                          <ul class="list-group">
-                              <li class="list-group-item divider">Benefits</li>
-                              <li class="list-group-item">Logo on website</li>
-                              <li class="list-group-item">Logo on email communication</li>
-                              <li class="list-group-item">Social media promotion</li>
-                              <li class="list-group-item">One email blast to registered Linaro Connect attendees</li>
-                              <li class="list-group-item">One blog post on Linaro Connect website</li>
-                              <li class="list-group-item divider">Onsite Benefits</li>
-                              <li class="list-group-item">One exhibition table throughout the week and at Demo Friday</li>
-                              <li class="list-group-item">One 2 minute video – Opportunity to film a 2 minute video on a topic of your choice (subject to the Events team’s approval)</li>
-                              <li class="list-group-item">Early access to meeting rooms- With an average of 365 private meetings booked at every Linaro Connect, finding an available room can be a challenge. As a Lead Sponsor, you will get a one week head start so you can secure rooms for your key meetings.</li>
-                              <li class="list-group-item">Onsite recognition during opening keynotes, through keynote stage branding and signage in the venue</li>
-                              <li class="list-group-item">Continued recognition through Linaro Connect website and email communication</li>
-                          </ul>
-                      </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="panel panel-primary sponsor text-center">
-                      <div class="panel-heading">
-                        <h3 class="panel-title">Break Sponsor</h3>
-                        <span class="sponsor-price">$18,000</span>
-                      </div>
-                      <div class="panel-body">
-                          <ul class="list-group">
-                              <li class="list-group-item divider">Benefits</li>
-                              <li class="list-group-item">Logo on website</li>
-                              <li class="list-group-item">Logo on email communication</li>
-                              <li class="list-group-item">Social media promotion</li>
-                              <li class="list-group-item">One email blast to registered Linaro Connect attendees</li>
-                              <li class="list-group-item">One blog post on Linaro Connect website</li>
-                              <li class="list-group-item divider">Onsite Benefits</li>
-                              <li class="list-group-item">One exhibition table throughout the week and at Demo Friday</li>
-                              <li class="list-group-item">One 2 minute video – Opportunity to film a 2 minute video on a topic of your choice (subject to the Events Team’s approval)</li>
-                              <li class="list-group-item">Onsite recognition during morning presentation through keynote stage branding and signage in the venue</li>
-                              <li class="list-group-item">Continued recognition through Linaro Connect website and email communication</li>
-                          </ul>
-                      </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="panel panel-primary sponsor text-center">
-                      <div class="panel-heading">
-                        <h3 class="panel-title">Lunch Sponsor</h3>
-                        <span class="sponsor-price">$12,000</span>
-
-                      </div>
-                      <div class="panel-body">
-                          <ul class="list-group">
-                              <li class="list-group-item divider">Benefits</li>
-                              <li class="list-group-item">Logo on website</li>
-                              <li class="list-group-item">Logo on email communication</li>
-                              <li class="list-group-item">Social media promotion</li>
-                              <li class="list-group-item divider">Onsite Benefits</li>
-                              <li class="list-group-item">Onsite recognition during opening keynotes</li>
-                              <li class="list-group-item">Onsite recognition through signage on buffet and dining tables at lunch</li>
-                              <li class="list-group-item">Continued recognition through Linaro Connect website and email communication</li>
-                          </ul>
-                      </div>
-                    </div>
-                </div>
+            <div class="table-responsive"> 
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Level</th>
+                            <th> Cost </th>
+                            <th colspan="6">Benefits</th>
+                            <th colspan="6">Onsite Benefits</th>
+                        </tr>
+                        <tr>
+                            <th> - </th>
+                            <th> - </th>
+                            <th>Logo/Recognition on Linaro Websites</th>
+                            <th>Logo/Recognition on Email Communication</th>
+                            <th data-toggle="tooltip" data-container="body" data-placement="top"
+                            title="Your logo will be added to the Connect Resources on YouTube/Connect website">Logo/Recognition on Connect Resources</th>
+                            <th>Social Media Promotion</th>
+                            <th>One Email blast to Connect Attendees</th>
+                            <th>One Blog post on Linaro Website</th>
+                            <th>Sponsor Demo Friday or Board Games Night</th>
+                            <th data-toggle="tooltip" data-container="body" data-placement="top"
+                            title="Recognition through keynote stage branding and signage in the venue">Recognition during Opening Keynotes</th>
+                            <th data-toggle="tooltip" data-container="body" data-placement="top"
+                            title="Your company logo will be added to signage through the entire event venue.">Recognition through Event Signage</th>
+                            <th data-toggle="tooltip" data-container="body" data-placement="top"
+                            title="Opportunity to film a 2 minute video on a topic of your choice (subject to the Events team’s approval)">One 2 Minute Video</th>
+                            <th>One Exhibition Table throughout the week and at Demo Friday</th>
+                            <th data-toggle="tooltip" data-container="body" data-placement="top"
+                            title="With an average of 365 private meetings booked at every Linaro Connect,
+                            finding an available room can be a challenge. As a Lead Sponsor,
+                            you will get a one week head start so you can secure rooms
+                            for your key meetings.">Early access to meeting rooms</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Team Dinner Sponsor</td>
+                            <td data-value="cost"><span class="fa fa-dollar"></span> Cost of Meal</td>
+                            <td data-value="logo-website"><span class="fa fa-check"></span></td>
+                            <td data-value="logo-email"><span class="fa fa-check"></span></td>
+                            <td data-value="logo-connect-resource"><span class="fa fa-check"></span></td>
+                            <td data-value="social-media-promotion"><span class="fa fa-check"></span></td>
+                            <td data-value="email-blast"><span class="fa fa-times"></span></td>
+                            <td data-value="blog-post"><span class="fa fa-times"></span></td>
+                            <td data-value="demo-friday-games-night"><span class="fa fa-times"></span></td>
+                            <td data-value="opening-keynotes"><span class="fa fa-check"></span></td>
+                            <td data-value="event-signage"><span class="fa fa-check"></span></td>
+                            <td data-value="two-minute-video"><span class="fa fa-times"></span></td>
+                            <td data-value="exhibition-table"><span class="fa fa-times"></span></td>
+                            <td data-value="early-access-meeting-rooms"><span class="fa fa-times"></span></td>
+                        </tr>
+                        <tr>
+                            <td>Giveaway Sponsor</td>
+                            <td data-value="cost"><span class="fa fa-dollar"></span>5000 - <span class="fa fa-dollar"></span>10,000</td>
+                            <td data-value="logo-website"><span class="fa fa-check"></span></td>
+                            <td data-value="logo-email"><span class="fa fa-check"></span></td>
+                            <td data-value="logo-connect-resource"><span class="fa fa-check"></span></td>
+                            <td data-value="social-media-promotion"><span class="fa fa-check"></span></td>
+                            <td data-value="email-blast"><span class="fa fa-times"></span></td>
+                            <td data-value="blog-post"><span class="fa fa-times"></span></td>
+                            <td data-value="demo-friday-games-night"><span class="fa fa-times"></span></td>
+                            <td data-value="opening-keynotes"><span class="fa fa-check"></span></td>
+                            <td data-value="event-signage"><span class="fa fa-check"></span></td>
+                            <td data-value="two-minute-video"><span class="fa fa-times"></span></td>
+                            <td data-value="exhibition-table"><span class="fa fa-times"></span></td>
+                            <td data-value="early-access-meeting-rooms"><span class="fa fa-times"></span></td>
+                        </tr>
+                        <tr>
+                            <td>Social Sponsor</td>
+                            <td data-value="cost"><span class="fa fa-dollar"></span> 10,000</td>
+                            <td data-value="logo-website"><span class="fa fa-check"></span></td>
+                            <td data-value="logo-email"><span class="fa fa-check"></span></td>
+                            <td data-value="logo-connect-resource"><span class="fa fa-check"></span></td>
+                            <td data-value="social-media-promotion"><span class="fa fa-check"></span></td>
+                            <td data-value="email-blast"><span class="fa fa-times"></span></td>
+                            <td data-value="blog-post"><span class="fa fa-times"></span></td>
+                            <td data-value="demo-friday-games-night"><span class="fa fa-check"></span></td>
+                            <td data-value="opening-keynotes"><span class="fa fa-check"></span></td>
+                            <td data-value="event-signage"><span class="fa fa-check"></span></td>
+                            <td data-value="two-minute-video"><span class="fa fa-times"></span></td>
+                            <td data-value="exhibition-table"><span class="fa fa-times"></span></td>
+                            <td data-value="early-access-meeting-rooms"><span class="fa fa-times"></span></td>
+                        </tr>
+                        <tr>
+                            <td>T-Shirt Sponsor</td>
+                            <td data-value="cost"><span class="fa fa-dollar"></span> 10,000</td>
+                            <td data-value="logo-website"><span class="fa fa-check"></span></td>
+                            <td data-value="logo-email"><span class="fa fa-check"></span></td>
+                            <td data-value="logo-connect-resource"><span class="fa fa-check"></span></td>
+                            <td data-value="social-media-promotion"><span class="fa fa-check"></span></td>
+                            <td data-value="email-blast"><span class="fa fa-times"></span></td>
+                            <td data-value="blog-post"><span class="fa fa-times"></span></td>
+                            <td data-value="demo-friday-games-night"><span class="fa fa-times"></span></td>
+                            <td data-value="opening-keynotes"><span class="fa fa-check"></span></td>
+                            <td data-value="event-signage"><span class="fa fa-check"></span></td>
+                            <td data-value="two-minute-video"><span class="fa fa-times"></span></td>
+                            <td data-value="exhibition-table"><span class="fa fa-times"></span></td>
+                            <td data-value="early-access-meeting-rooms"><span class="fa fa-times"></span></td>
+                        </tr>
+                        <tr>
+                            <td>Lunch Sponsor</td>
+                            <td data-value="cost"><span class="fa fa-dollar"></span> 12,000</td>
+                            <td data-value="logo-website"><span class="fa fa-check"></span></td>
+                            <td data-value="logo-email"><span class="fa fa-check"></span></td>
+                            <td data-value="logo-connect-resource"><span class="fa fa-check"></span></td>
+                            <td data-value="social-media-promotion"><span class="fa fa-check"></span></td>
+                            <td data-value="email-blast"><span class="fa fa-times"></span></td>
+                            <td data-value="blog-post"><span class="fa fa-times"></span></td>
+                            <td data-value="demo-friday-games-night"><span class="fa fa-times"></span></td>
+                            <td data-value="opening-keynotes"><span class="fa fa-check"></span></td>
+                            <td data-value="event-signage"><span class="fa fa-check"></span></td>
+                            <td data-value="two-minute-video"><span class="fa fa-times"></span></td>
+                            <td data-value="exhibition-table"><span class="fa fa-times"></span></td>
+                            <td data-value="early-access-meeting-rooms"><span class="fa fa-times"></span></td>
+                        </tr>
+                        <tr>
+                            <td>Break Sponsor</td>
+                            <td data-value="cost"><span class="fa fa-dollar"></span> 18,000</td>
+                            <td data-value="logo-website"><span class="fa fa-check"></span></td>
+                            <td data-value="logo-email"><span class="fa fa-check"></span></td>
+                            <td data-value="logo-connect-resource"><span class="fa fa-check"></span></td>
+                            <td data-value="social-media-promotion"><span class="fa fa-check"></span></td>
+                            <td data-value="email-blast"><span class="fa fa-check"></span></td>
+                            <td data-value="blog-post"><span class="fa fa-check"></span></td>
+                            <td data-value="demo-friday-games-night"><span class="fa fa-times"></span></td>
+                            <td data-value="opening-keynotes"><span class="fa fa-check"></span></td>
+                            <td data-value="event-signage"><span class="fa fa-check"></span></td>
+                            <td data-value="two-minute-video"><span class="fa fa-check"></span></td>
+                            <td data-value="exhibition-table"><span class="fa fa-check"></span></td>
+                            <td data-value="early-access-meeting-rooms"><span class="fa fa-times"></span></td>
+                        </tr>
+                        <tr>
+                            <td>Lead Sponsor</td>
+                            <td data-value="cost"><span class="fa fa-dollar"></span> 25,000</td>
+                            <td data-value="logo-website"><span class="fa fa-check"></span></td>
+                            <td data-value="logo-email"><span class="fa fa-check"></span></td>
+                            <td data-value="logo-connect-resource"><span class="fa fa-check"></span></td>
+                            <td data-value="social-media-promotion"><span class="fa fa-check"></span></td>
+                            <td data-value="email-blast"><span class="fa fa-check"></span></td>
+                            <td data-value="blog-post"><span class="fa fa-check"></span></td>
+                            <td data-value="demo-friday-games-night"><span class="fa fa-times"></span></td>
+                            <td data-value="opening-keynotes"><span class="fa fa-check"></span></td>
+                            <td data-value="event-signage"><span class="fa fa-check"></span></td>
+                            <td data-value="two-minute-video"><span class="fa fa-check"></span></td>
+                            <td data-value="exhibition-table"><span class="fa fa-check"></span></td>
+                            <td data-value="early-access-meeting-rooms"><span class="fa fa-check"></span></td>
+                        </tr>                    
+                    </tbody>
+                </table>
             </div>
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="panel panel-primary sponsor text-center">
-                      <div class="panel-heading">
-                        <h3 class="panel-title">Giveaway Sponsor</h3>
-                        <span class="sponsor-price">$5,000 - $10,000</span>
-                      </div>
-                      <div class="panel-body">
-                          <ul class="list-group">
-                              <li class="list-group-item divider">Benefits</li>
-                              <li class="list-group-item">Logo on website</li>
-                              <li class="list-group-item">Logo on email communication</li>
-                              <li class="list-group-item">Social media promotion</li>
-                              <li class="list-group-item divider">Onsite Benefits</li>
-                              <li class="list-group-item">Onsite recognition during opening keynotes</li>
-                              <li class="list-group-item">Onsite recognition through signage</li>
-                              <li class="list-group-item">Continued recognition through Linaro Connect website and email communication</li>
-                              <li class="list-group-item divider">Post-Connect Benefits</li>
-                              <li class="list-group-item">Giveaway of your choice with your company brand being worn at events and offices across the world.</li>
-                          </ul>
-                      </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="panel panel-primary sponsor text-center">
-                      <div class="panel-heading">
-                        <h3 class="panel-title">Social Sponsor</h3>
-                        <span class="sponsor-price">$10,000</span>
-                      </div>
-                      <div class="panel-body">
-                          <ul class="list-group">
-                              <li class="list-group-item divider">Benefits</li>
-                              <li class="list-group-item">Opportunity to sponsor one of two social events: Board Games Night, or Demo Friday</li>
-                              <li class="list-group-item">Logo on website</li>
-                              <li class="list-group-item">Logo on email communication</li>
-                              <li class="list-group-item">Social media promotion</li>
-                              <li class="list-group-item divider">Onsite Benefits</li>
-                              <li class="list-group-item">Onsite recognition during opening keynotes</li>
-                              <li class="list-group-item">Onsite recognition through signage</li>
-                              <li class="list-group-item">Continued recognition through Linaro Connect website and email communication</li>
-                          </ul>
-                      </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="panel panel-primary sponsor text-center">
-                      <div class="panel-heading">
-                        <h3 class="panel-title">T-Shirt Sponsor</h3>
-                        <span class="sponsor-price">$10,000</span>
-                      </div>
-                      <div class="panel-body">
-                          <ul class="list-group">
-                              <li class="list-group-item divider">Benefits</li>
-                              <li class="list-group-item">Logo on website</li>
-                              <li class="list-group-item">Logo on email communication</li>
-                              <li class="list-group-item">Social media promotion</li>
-                              <li class="list-group-item divider">Onsite Benefits</li>
-                              <li class="list-group-item">Onsite recognition during opening keynotes</li>
-                              <li class="list-group-item">Onsite recognition through signage</li>
-                              <li class="list-group-item">Continued recognition through Linaro Connect website and email communication</li>
-                              <li class="list-group-item divider">Post-Connect Benefits</li>
-                              <li class="list-group-item">T-shirts with your company brand being worn at events and offices across the world</li>
-                          </ul>
-                      </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-4 col-md-offset-4">
-                <div class="panel panel-primary sponsor text-center">
-                  <div class="panel-heading">
-                    <h3 class="panel-title">Team Dinner Sponsor</h3>
-                    <span class="sponsor-price">$ Cost of Meal</span>
-                  </div>
-                  <div class="panel-body">
-                      <ul class="list-group">
-                          <li class="list-group-item divider">Benefits</li>
-                          <li class="list-group-item">Logo on website</li>
-                          <li class="list-group-item">Logo on email communication</li>
-                          <li class="list-group-item">Social media promotion</li>
-                          <li class="list-group-item divider">Onsite Benefits</li>
-                          <li class="list-group-item">Onsite recognition during opening keynotes</li>
-                          <li class="list-group-item">Onsite recognition through signage</li>
-                          <li class="list-group-item">Continued recognition through Linaro Connect website and email communication</li>
-                      </ul>
-                  </div>
-                </div>
-            </div>
-            </div>
+            <!-- <div class="table-responsive"> 
+                <table class="table hidden-lg">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th></th>
+                                <th>Team Dinner Sponsor</th>
+                                <th>Giveaway Sponsor</th>
+                                <th>Social Sponsor</th>
+                                <th>T-Shirt Sponsor</th>
+                                <th>Lunch Sponsor</th>
+                                <th>Break Sponsor</th>
+                                <th>Lead Sponsor</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Cost</td>
+                                <td></td>
+                                <td data-sponsor-type="Team Dinner Sponsor" data-value="cost"><span class="fa fa-dollar"></span>Cost of Meal</td>
+                                <td data-sponsor-type="Giveaway Sponsor" data-value="cost"><span class="fa fa-dollar"></span>5000 - <span class="fa fa-dollar"></span>10,000</td>
+                                <td data-sponsor-type="Social Sponsor" data-value="cost"><span class="fa fa-dollar"></span> 10,000</td>
+                                <td data-sponsor-type="T-Shirt Sponsor" data-value="cost"><span class="fa fa-dollar"></span> 10,000</td>
+                                <td data-sponsor-type="Lunch Sponsor" data-value="cost"><span class="fa fa-dollar"></span> 12,000</td>
+                                <td data-sponsor-type="Break Sponsor" data-value="cost"><span class="fa fa-dollar"></span> 18,000</td>
+                                <td data-sponsor-type="Lead Sponsor" data-value="cost"><span class="fa fa-dollar"></span> 25,000</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="7">Benefits</td>
+                                <td>Logo/Recognition on Linaro Websites</td>
+                                <td data-sponsor-type="Team Dinner Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Giveaway Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Social Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="T-Shirt Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Lunch Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Break Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Lead Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                            </tr>
+                            <tr>
+                                <td>Logo/Recognition on Email Communication</td>
+                                <td data-sponsor-type="Team Dinner Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Giveaway Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Social Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="T-Shirt Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Lunch Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Break Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Lead Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                            </tr>
+                            <tr>
+                                <td data-toggle="tooltip" data-container="body" data-placement="top"
+                                title="Your logo will be added to the Connect Resources on YouTube/Connect website">
+                                Logo/Recognition on Connect Resources</td>
+                                <td data-sponsor-type="Team Dinner Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Giveaway Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Social Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="T-Shirt Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Lunch Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Break Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Lead Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                            </tr>
+                            <tr>
+                                <td>Social Media Promotion</td>
+                                <td data-sponsor-type="Team Dinner Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Giveaway Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Social Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="T-Shirt Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Lunch Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Break Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Lead Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                            </tr>
+                            <tr>
+                                <td>One Email blast to Connect Attendees</td>
+                                <td data-sponsor-type="Team Dinner Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Giveaway Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Social Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="T-Shirt Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Lunch Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Break Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Lead Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                            </tr>
+                            <tr>
+                                <td>One Blog post on Linaro Website</td>
+                                <td data-sponsor-type="Team Dinner Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Giveaway Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Social Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="T-Shirt Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Lunch Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Break Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Lead Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                            </tr>
+                            <tr>
+                                <td>Opportunity to sponsor one of two social events: Board Games Night, or Demo Friday</td>
+                                <td data-sponsor-type="Team Dinner Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Giveaway Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Social Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="T-Shirt Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Lunch Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Break Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Lead Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="5">Onsite Benefits</td>
+                                <td data-toggle="tooltip" data-container="body" data-placement="top"
+                                title="Recognition through keynote stage branding and signage in the venue">Recognition during Opening Keynotes</td>
+                                <td data-sponsor-type="Team Dinner Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Giveaway Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Social Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="T-Shirt Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Lunch Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Break Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Lead Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                            </tr>
+                            <tr>
+                                <td data-toggle="tooltip" data-container="body" data-placement="top"
+                                title="Your company logo will be added to signage through the entire event venue.">Recognition through Event Signage</td>
+                                <td data-sponsor-type="Team Dinner Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Giveaway Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Social Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="T-Shirt Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Lunch Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Break Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Lead Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                            </tr>
+                            <tr>
+                                <td data-toggle="tooltip" data-container="body" data-placement="top"
+                                title="Opportunity to film a 2 minute video on a topic of your choice (subject to the Events team’s approval)">One 2 Minute Video</td>
+                                <td data-sponsor-type="Team Dinner Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Giveaway Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Social Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="T-Shirt Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Lunch Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Break Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Lead Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                            </tr>
+                            <tr>
+                                <td>One Exhibition Table throughout the week and at Demo Friday</td>
+                                <td data-sponsor-type="Team Dinner Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Giveaway Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Social Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="T-Shirt Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Lunch Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Break Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                                <td data-sponsor-type="Lead Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                            </tr>
+                            <tr>
+                                <td data-toggle="tooltip" data-container="body" data-placement="top"
+                                title="With an average of 365 private meetings booked at every Linaro Connect,
+                                finding an available room can be a challenge. As a Lead Sponsor,
+                                you will get a one week head start so you can secure rooms
+                                for your key meetings." >Early access to meeting rooms</td>
+                                <td data-sponsor-type="Team Dinner Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Giveaway Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Social Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="T-Shirt Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Lunch Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Break Sponsor" data-value="logo-website"><span class="fa fa-times"></span></td>
+                                <td data-sponsor-type="Lead Sponsor" data-value="logo-website"><span class="fa fa-check"></span></td>
+                            </tr>                  
+                        </tbody>
+                </table>
+            </div> -->
         </div>
-    </div>    
+    </div>   
 </div>
 

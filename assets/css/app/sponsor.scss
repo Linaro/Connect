@@ -46,13 +46,13 @@ li.list-group-item.divider {
   position: relative;
 }
 
-#current-sponsors .sponsors h2 {
+#current-sponsors h2 {
   margin-bottom: 40px;
   font-size: 24px;
   font-weight: normal;
 }
 
-#current-sponsors .sponsors .sponsor .img-responsive {
+#current-sponsors .sponsor .img-responsive {
   height: 100px;
   background-size: contain;
   background-repeat: no-repeat;
@@ -68,3 +68,166 @@ li.list-group-item.divider {
     margin-bottom: 30px;
   }
 }
+
+// Flex box panels
+.flex-row {
+    display: flex;
+}
+@media(max-width: $screen-sm-min - 1){
+    .flex-row {
+        display: block;
+    }
+}
+.flex-row div[class^="col-xs-"].flex-col, .flex-row div[class^="col-sm-"].flex-col, .flex-row div[class^="col-md-"].flex-col, .flex-row div[class^="col-lg-"].flex-col {
+    display: flex;
+}
+#sponsor-types .col-md-4.flex-col {
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+#sponsor-types .panel{
+    border:1px solid #909090;
+    background-color: #eaeaea;
+}
+table thead > tr:first-child th {
+    text-align: center !important;
+    background-color: #79ac00;
+    border-bottom: 5px solid #c1c3d1;
+}
+table thead > tr:nth-child(2) th {
+    text-align: center !important;
+    background-color: #ffffff;
+    color:#1d1d1d;
+    font-size: 12px;
+    border-bottom: 5px solid #c1c3d1;
+    border-left:1px solid #c1c3d1;
+    border-right:1px solid #c1c3d1
+}
+table thead > tr:nth-child(2) {
+    text-align: center !important;
+    background-color: #ffffff;
+    color:#1d1d1d;
+    font-size: 12px;
+    border-bottom: 5px solid black;
+    border-left:1px solid #c1c3d1;
+    border-right:1px solid #c1c3d1;
+}
+tbody {
+    border-left:1px solid #c1c3d1;
+    border-right:1px solid #c1c3d1;
+}
+tbody > tr > td {
+    text-align: center;
+    font-size: 16px;
+}
+tbody > tr > td span.fa.fa-check {
+    color:#000000;
+}
+tbody > tr > td span.fa.fa-times {
+    color:#000000;
+}
+
+table.table-responsive {
+    border-bottom: 1px solid #c1c3d1;
+}
+div#content-container {
+    z-index: 1;
+    position: relative;
+    margin-top:0px;
+}
+.overlay {
+    background-color: rgba(0,0,0,0.5);
+    position: relative;
+    z-index: 0;
+    height: 100%;
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div#featured-jumbotron {
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top:0px;
+    margin-bottom:0px;
+    height: 320px;
+    display: flex;
+    flex-direction: column;
+}
+div#resources-header {
+    position: relative;
+    height:auto;
+}
+// /*
+// 	Max width before this PARTICULAR table gets nasty. This query will take effect for any screen smaller than 760px and also iPads specifically.
+// 	*/
+// 	@media
+// 	  only screen 
+//     and (max-width: 760px), (min-device-width: 768px) 
+//     and (max-device-width: 1024px)  {
+
+// 		/* Force table to not be like tables anymore */
+// 		table, thead, tbody, th, td, tr {
+// 			display: block;
+// 		}
+
+// 		/* Hide table headers (but not display: none;, for accessibility) */
+// 		thead tr {
+// 			position: absolute;
+// 			top: -9999px;
+// 			left: -9999px;
+// 		}
+
+//     tr {
+//       margin: 0 0 1rem 0;
+//     }
+      
+//     tr:nth-child(odd) {
+//       background: #ccc;
+//     }
+    
+// 		td {
+// 			/* Behave  like a "row" */
+// 			border: none;
+// 			border-bottom: 1px solid #eee;
+// 			position: relative;
+// 			padding-left: 50%;
+// 			line-height:20px;
+// 			padding-top:10px;
+// 		}
+
+// 		td:before {
+// 			/* Now like a table header */
+// 			position: absolute;
+// 			/* Top/left values mimic padding */
+// 			top: 0;
+// 			left: 6px;
+// 			width: 45%;
+// 			padding-right: 10px;
+// 			padding-top: 10px;
+// 			white-space: nowrap;
+// 		}
+
+// 		/*
+// 		Label the data
+//     You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+// 		*/
+// 		td:nth-of-type(1):before { content: ""; }
+// 		td:nth-of-type(2):before { content: "Team Dinner Sponsor"; }
+// 		td:nth-of-type(3):before { content: "Giveaway Sponsor"; }
+// 		td:nth-of-type(4):before { content: "Social Sponsor"; }
+// 		td:nth-of-type(5):before { content: "T-Shirt Sponsor"; }
+// 		td:nth-of-type(6):before { content: "Lunch Sponsor"; }
+// 		td:nth-of-type(7):before { content: "Break Sponsor"; }
+// 		td:nth-of-type(8):before { content: "Lead Sponsor"; }
+// 	}
+
+// td {
+//     /* text-align: center; */
+// }
+
+// td[rowspan] {
+//     display: none;
+// }

@@ -6,11 +6,12 @@ connectResources([
     {
         "id": "{{ post.id }}",
         {% if post.session_id %}"session_id": "{{ post.session_id }}",{% endif %}
+        {% if post.categories %}"event_id": "{{ post.categories }}",{% endif %}
         "title": {{ post.title | smartify | jsonify }},
         "url": "{{ site.url }}{{ post.url }}",
         "summary": {{ post.excerpt | strip_html | smartify | jsonify }},
         "date_published": "{{ post.date }}",
-        {% if post.speakers[0].name and post.speakers[0].name != "None" %}
+        {% if post.speakers and post.speakers != "None" %}
         "speakers": [{% for speaker in post.speakers %}
         {
             "name": "{{speaker.name}}",
@@ -19,20 +20,21 @@ connectResources([
         }
         {% unless forloop.last == true %},{% endunless %}
         {% endfor %}],
-        {% elsif post.speakers and post.speakers != "None" %}
-        "speakers": {{post.speakers}}
         {% endif %}
         {% if post.slideshare_presentation_url != "None" %}
         "slideshare_presentation_url": "{{post.slideshare_presentation_url}}",
         {% endif %}
-        {% if post.youtube_video_url and post.youtube_video_url != "None" %}
+        {% if post.youtube_video_url != "None" %}
         "youtube_video_url": "{{post.youtube_video_url}}",
+        {% endif %}
+        {% if post.amazon_s3_presentation_url != "None" %}
+        "amazon_s3_presentation_url": "{{post.amazon_s3_presentation_url}}",
+        {% endif %}
+        {% if post.amazon_s3_video_url != "None" %}
+        "amazon_s3_video_url": "{{post.amazon_s3_video_url}}",
         {% endif %}
         {% if post.session_track %}
         "tracks": "{{post.session_track}}",
-        {% endif %}
-        {% if post.tags %}
-        "tags": "{{post.tags | smartify | jsonify}}",
         {% endif %}
         {% if post.image.path %}
         "thumbnail": "{{site.url}}{{post.image.path}}",

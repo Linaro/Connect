@@ -6,4 +6,5 @@ _site/
 node_modules
 .gemfiles/
 .bundle/
+.jekyll-metadata
 resources/yvr18/resources.json

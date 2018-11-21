@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-421%20The%20Linux%20kernel%20scheduler.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-421%20-%20The%20Linux%20Kernel%20Scheduler%20%2528For%20Beginners%2529.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

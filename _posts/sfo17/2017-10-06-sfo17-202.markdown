@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-202-%20Enable%20the%20runtime%20PM%20centric%20path%20for%20ACPI.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-202%20Enabling%20the%20runtime%20PM%20centric%20path%20for%20ACPI.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

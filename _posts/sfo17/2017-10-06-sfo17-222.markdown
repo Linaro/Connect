@@ -1,6 +1,6 @@
 ---
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-222%20Purism%20BoF.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

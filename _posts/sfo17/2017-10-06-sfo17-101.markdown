@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-101%20%20UHD%20%2B%20HDR.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-101%20UHD%20and%20HDR.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

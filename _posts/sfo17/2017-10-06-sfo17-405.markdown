@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-405%20Multithreaded%20Programming%20on%20ARM%20-%20A%20MP%252FMC%20Ring%20Buffer%20Case%20Study.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-405%20-%20Multi-threaded%20Programming%20on%20ARM%20-%20a%20MP-MC%20Ring%20Buffer%20Case%20Study.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

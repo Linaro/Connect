@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-109%20Containerized%20VNFs%20with%20Data%20Plane%20Acceleration%20on%20ARM%20platform.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-109%20-%20Containerized%20VNFs%20with%20Data%20Plane%20Acceleration%20on%20ARM-based%20NFV%20infrastructure.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

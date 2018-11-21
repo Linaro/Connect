@@ -73,7 +73,6 @@ h3.connect-location {
 }
 
 div#intro-row {
-  padding-bottom: 100px;
   padding-top: 20px;
 }
 
@@ -159,4 +158,156 @@ div#schedule-row {
 
 #schedule-row a.btn:hover {
   background-color: #000000;
+}
+// Promo video
+div#content-container {
+    padding-top: 0px;
+}
+div#intro-row {
+    padding-top: 0px;
+}
+#video-skeleton {
+    -webkit-filter: grayscale(0%);
+    /* Safari 6.0 - 9.0 */
+    filter: grayscale(0%);
+}
+.col-xs-12.col-sm-8.no-padding.about-connect {
+    padding: 20px;
+    background-color:#fff;
+    // display: flex;
+    // align-items: center;
+    // justify-content: center;
+}
+
+.flex-row {
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+@media(max-width: $screen-sm-min - 1){
+    .flex-row {
+        display: block;
+    }
+}
+.flex-row div[class^="col-xs-"].flex-col, .flex-row div[class^="col-sm-"].flex-col, .flex-row div[class^="col-md-"].flex-col, .flex-row div[class^="col-lg-"].flex-col {
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+}
+p#buttons {
+    clear: both;
+    float: left;
+    text-align: center;
+    width: 100%;
+    margin-top: 0;
+}
+div#video-embed {
+    margin-bottom: 0;
+}
+#buttons > a.btn {
+    background-color: #828282;
+    color: white;
+    border: 1px solid grey;
+}
+#buttons > a.btn:hover {
+    background-color: #96c500;
+    color: white;
+    border: 1px solid grey;
+}
+.sponsor-image {
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#sponsorship-row h3 {
+    text-align: left;
+    float: left;
+    width: 100%;
+}
+div#sponsorship-row {
+    background-color: #eaeaea;
+    padding: 10px 0;
+}
+div#sponsorship-row  .owl-stage-outer {
+    height: 400px;
+}
+#connect-row .event-image {
+    background-size: cover !important;
+    height: 200px;
+}
+#connect-row .owl-stage-outer{
+    height: 200px;
+}
+div#connect-row {
+    padding: 50px 0;
+}
+div#intro-row {
+    padding: 10px 0;
+}
+#connect-row h3 {
+    opacity: .8;
+    color: black;
+    font-size: 14px;
+    margin-top: 0;
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 0px;
+}
+.event-details-block {
+    background-color: #94cb00;
+    opacity: .8;
+    color: black;
+    font-size: 20px;
+    height: 100px;
+    text-align: center;
+    position: relative;
+    top: 79px;
+    overflow: hidden;
+}
+.event-details-block > span.date {
+    font-size: 10px;
+    width: 100%;
+    text-align: center;
+}
+.event-item:hover .event-details-block {
+    height:200px;
+    top:0px;
+    opacity: .9;
+    padding-top:50px;
+ }
+ .event-details-block {
+     transition: all 400ms ease;
+ }
+ #sponsorship-row .owl-carousel {
+    background-color: white;
+}
+
+// Homepage SVG style
+svg {
+    height: 200px;
+    fill: white;
+}
+path.cls-1 {
+    fill: #94cb00;
+}
+.alert.alert-info.connect.alert-dismissible.fade.show {
+    opacity: 1;
+    margin-bottom: 0;
+    padding: 80px 40px;
+    background-color: #273350;
+    border: 0;
+    text-align: center;
+    color: white;
+    border-radius:0px
+}
+
+.alert-info.connect button.close {
+    color: white;
+    font-size: 30px;
+    top: -83px;
+    position: relative;
+    right: -30px;
 }
