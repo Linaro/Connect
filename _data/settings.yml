@@ -116,6 +116,10 @@ placeholder: linaro-logo.png
 
 featured_images:
   - id: sponsorship
+    background_images:
+      - /assets/images/content/hkg18-sponsor1.jpg
+      - /assets/images/content/yvr18-sponsor1.jpg
+      - /assets/images/content/yvr18-sponsor2.jpg
     images:
       - /assets/images/content/hkg18-sponsor1.jpg
       - /assets/images/content/yvr18-sponsor1.jpg
