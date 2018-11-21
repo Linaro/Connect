@@ -90,3 +90,44 @@ li.list-group-item.divider {
     border:1px solid #909090;
     background-color: #eaeaea;
 }
+table thead > tr:first-child th {
+    text-align: center !important;
+    background-color: #79ac00;
+    border-bottom: 5px solid #c1c3d1;
+}
+table thead > tr:nth-child(2) th {
+    text-align: center !important;
+    background-color: #ffffff;
+    color:#1d1d1d;
+    font-size: 12px;
+    border-bottom: 5px solid #c1c3d1;
+    border-left:1px solid #c1c3d1;
+    border-right:1px solid #c1c3d1
+}
+table thead > tr:nth-child(2) {
+    text-align: center !important;
+    background-color: #ffffff;
+    color:#1d1d1d;
+    font-size: 12px;
+    border-bottom: 5px solid black;
+    border-left:1px solid #c1c3d1;
+    border-right:1px solid #c1c3d1;
+}
+tbody {
+    border-left:1px solid #c1c3d1;
+    border-right:1px solid #c1c3d1;
+}
+tbody > tr > td {
+    text-align: center;
+    font-size: 16px;
+}
+tbody > tr > td span.fa.fa-check {
+    color:#000000;
+}
+tbody > tr > td span.fa.fa-times {
+    color:#000000;
+}
+
+table.table-responsive {
+    border-bottom: 1px solid #c1c3d1;
+}
