@@ -1,4 +1,8 @@
 $(document).ready(function() {
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip({ container: 'body'})
+    });
+    
     $('.owl-carousel').owlCarousel({
         loop:true,
         margin:5,
