@@ -21,6 +21,7 @@ var counter = 0;
 var event_data_sources = [
     ""
 ];
+var allJSONData = [];
 // Stores the URLS for the JSON data file of each Connect
 var connectJSONSources = [];
 // Get the connects.json file then pa.titlerse and loop through each connect adding the jsonp script
@@ -43,23 +44,21 @@ function connects(connectsJSON){
 function connectResources(connectJSON){
     // Check to see if this is the last source to be loaded in.
     if(counter == (connectJSONSources.length - 1)){
+        console.log(counter);
         // Concat the final data source to the master JSON array
         allConnectResourcesData = allConnectResourcesData.concat(connectJSON);
         // Sort the data by the date
-        var sorted_data = allConnectResourcesData.sort(sort_by_date);
         // Add the resources to the HTML
-        console.log(allConnectResourcesData);
-        console.log(connectJSONSources);
-
-        listResults(sorted_data);
-        allJSONData = sorted_data;
+        listResults(allConnectResourcesData);
+        allJSONData = allConnectResourcesData;
         // Add the size of the results
-        $('#size').html(sorted_data.length);
+        $('#size').html(allJSONData.length);
         // Run function on each keyup event triggered by the search input
     }
     else{
         allConnectResourcesData = allConnectResourcesData.concat(connectJSON);
         counter += 1;
+        console.log(counter);
     }
 }
 function extractDateString(dateString) {
@@ -73,13 +72,14 @@ function sort_by_date(a, b) {
 }
 // Fuzzy search function - this takes the JSON data and then lists results based on the search query from #search-query input.
 function listResults(json_data) {
+    console.log("Data input:", json_data);
     // Define the underscore.js template settings.
     _.templateSettings = {
         interpolate : /\{\{(.+?)\}\}/g
     };  
     // Specify a new html _.template
     // Title, Summary, Tracks, Speakers, Video, Presentation, Event ID, Date Published, View Resource 
-    var listItemTemplate = _.template('<tr class="fly">' + 
+    var listItemTemplate = _.template('<tr>' + 
     '<td data-toggle="tooltip" data-container="body" data-placement="top" title="{{resource_title_full}}">{{resource_title}}</td>' +
     '<td data-toggle="tooltip" data-container="body" data-placement="top" title="{{resource_summary_full}}">{{resource_summary}}</td>' +
     '<td>{{resource_tracks}}</td>' +
@@ -102,7 +102,7 @@ function listResults(json_data) {
         }
     };
     // Filter!
-    var filtered = fuzzy.filter(search, json_data, options);
+    var filtered = fuzzy.filter(search, allConnectResourcesData, options);
     // Map the results to the html we want generated
     var results = filtered.map(function(result){
 
@@ -166,73 +166,6 @@ function listResults(json_data) {
     $('#result_size').html(filtered.length);
     $('#results').html(results.join(''));
 }
-// // Process all JSON, get the latest news and blog posts and add to the list.
-// function addConnectResources(results_data, number_of_items){
-//     $('#result_size').html(results_data.length);
-//     var tableRow  = '';
-//     for(var i=0;i<number_of_items;i++){
-//         resource = results_data[i];
-//         var author = resource.author;
-//         if(author === "undefined" || author == ""){
-//             author = resource.url.replace(/(^\w+:|^)\/\//, '');
-//         }
-//         // Show the first 10 items and let the rest appear on scroll.
-//         if(number_of_items > 10 && i < 10){
-//             tableRow += '<tr>';
-//         }
-//         else{
-//             tableRow += '<tr class="fly">';
-//         }
-//         // Get trimmed versions of resource title/summary
-//         var trimmed_title = resource.title.substring(0, 30);
-//         var trimmed_summary = resource.summary.substring(0, 40);
-//         // Set the resource vars to None by default
-//         var resource_video = "None";
-//         var resource_presentation = "None";
-//         // Get the presentation resource link if available
-//         if(resource.amazon_s3_presentation_url){
-//             resource_presentation = resource.amazon_s3_presentation_url;
-//         }
-//         else if(resource.slideshare_presentation_url){
-//             resource_presentation = resource.slideshare_presentation_url;
-//         }
-//         // Get the video resource link if available
-//         if(resource.youtube_video_url){
-//             resource_video = resource.youtube_video_url;
-//         }
-//         else if(resource.amazon_s3_video_url){
-//             resource_video = resource.amazon_s3_video_url;
-//         }
-//         // Get the session tracks
-//         var resource_tracks = "";
-//         if(resource.tracks !== ""){
-//             resource_tracks = resource.tracks;
-//         }
-//         else{
-//             resource_tracks  = "None";
-//         }
-//         // Get the resource speakers
-//         var resource_speakers = "None";
-//         // Check to see if the speakers property exists
-//         if(resource.speakers !== ""){
-//             // Fetch all speakers
-//             for(n=0;n<resource.speakers.length;n++){
-//                 resource_speakers = resource_speakers + resource.speakers[n].name + " ";
-//             }
-//         }
-//         tableRow += '<td data-toggle="tooltip" data-container="body" data-placement="top" title="'+ resource.title +'">' + trimmed_title + '</td>';
-//         tableRow += '<td data-toggle="tooltip" data-container="body" data-placement="top" title="'+ resource.summary +'">' + trimmed_summary + '</td>';
-//         tableRow += '<td>'+ resource_tracks +'</td>';
-//         tableRow += '<td>'+ resource_video +'</td>';
-//         tableRow += '<td>'+ resource_presentation +'</td>';
-//         tableRow += '<td>'+ resource.event_id +'</td>';
-//         tableRow += '<td>' + extractDateString(resource.date_published) + '</td>';
-//         tableRow += '<td><a href="' + resource.url + '">View Resource</a></td>';
-//         tableRow += '</tr>';
-//     }
-//     $("#results").html(tableRow);
-// }
-// Delay function - used to detect when the user has stopped typing.
 var delay = (function(){
     var timer = 0;
     return function(callback, ms){
