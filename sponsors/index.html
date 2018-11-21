@@ -8,14 +8,13 @@ css-package: sponsor
 {% assign sponsorship_images = site.data.featured_images.sponsorship.background_images %}
 
 <div class="carousel slide carousel-fade" data-ride="carousel">
-    <!-- Wrapper for slides -->
+<!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
         {% for image in sponsorship_images %}
             <div style="background: url({{image}}); background-size:cover; background-position:center center; background-repeat: no-repeat;"
             class="lazyload item {% if forloop.index == 1%}active{% endif %}">
-        </div>
+            </div>
         {% endfor %}
-        </div>
     </div>
 </div>
 
