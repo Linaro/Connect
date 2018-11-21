@@ -5,7 +5,19 @@ layout: empty
 js-package: sponsor
 css-package: sponsor
 ---
-{% include breadcrumb.html %}
+{% assign sponsorship_images = site.data.featured_images.sponsorship.background_images %}
+
+<div class="carousel slide carousel-fade" data-ride="carousel">
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+        {% for image in sponsorship_images %}
+            <div style="background: url({{image}}); background-size:cover; background-position:center center; background-repeat: no-repeat;"
+            class="lazyload item {% if forloop.index == 1%}active{% endif %}">
+        </div>
+        {% endfor %}
+        </div>
+    </div>
+</div>
 
 {% include previous-sponsors.html %}
 
@@ -60,7 +72,141 @@ css-package: sponsor
 
         </div>
     </div>
-    
+    <div class="row" id="sponsor-table">
+        <div class="container">
+            <table class="table-responsive">
+                <thead>
+                    <tr>
+                        <th>Level</th>
+                        <th colspan="5">Benefits</th>
+                        <th colspan="6">Onsite Benefits</th>
+                    </tr>
+                    <tr>
+                        <th> - </th>
+                        <th>Logo/Recognition on Linaro Websites</th>
+                        <th>Logo/Recognition on Email Communication</th>
+                        <th data-toggle="tooltip" data-container="body" data-placement="top"
+                        title="Your logo will be added to the Connect Resources on YouTube/Connect website">Logo/Recognition on Connect Resources</th>
+                        <th>One Email blast to Connect Attendees</th>
+                        <th>One Blog post on Linaro Website</th>
+                        <th>Sponsor Demo Friday or Board Games Night</th>
+                        <th data-toggle="tooltip" data-container="body" data-placement="top"
+                        title="Recognition through keynote stage branding and signage in the venue">Recognition during Opening Keynotes</th>
+                        <th data-toggle="tooltip" data-container="body" data-placement="top"
+                        title="Your company logo will be added to signage through the entire event venue.">Recognition through Event Signage</th>
+                        <th data-toggle="tooltip" data-container="body" data-placement="top"
+                        title="Opportunity to film a 2 minute video on a topic of your choice (subject to the Events team’s approval)">One 2 Minute Video</th>
+                        <th>One Exhibition Table throughout the week and at Demo Friday</th>
+                        <th data-toggle="tooltip" data-container="body" data-placement="top"
+                        title="With an average of 365 private meetings booked at every Linaro Connect,
+                        finding an available room can be a challenge. As a Lead Sponsor,
+                         you will get a one week head start so you can secure rooms
+                          for your key meetings.">Early access to meeting rooms</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Team Dinner Sponsor</td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Giveaway Sponsor</td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Social Sponsor</td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                    </tr>
+                    <tr>
+                        <td>T-Shirt Sponsor</td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Lunch Sponsor</td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Break Sponsor</td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Lead Sponsor</td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                    </tr>                    
+                </tbody>
+            </table>
+        </div>
+    </div>
     <div class="row" id="sponsor-types">
         <div class="container">
             <div class="row flex-row">
