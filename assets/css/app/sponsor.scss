@@ -46,13 +46,13 @@ li.list-group-item.divider {
   position: relative;
 }
 
-#current-sponsors .sponsors h2 {
+#current-sponsors h2 {
   margin-bottom: 40px;
   font-size: 24px;
   font-weight: normal;
 }
 
-#current-sponsors .sponsors .sponsor .img-responsive {
+#current-sponsors .sponsor .img-responsive {
   height: 100px;
   background-size: contain;
   background-repeat: no-repeat;
@@ -130,4 +130,33 @@ tbody > tr > td span.fa.fa-times {
 
 table.table-responsive {
     border-bottom: 1px solid #c1c3d1;
+}
+div#content-container {
+    z-index: 1;
+    position: relative;
+    margin-top:0px;
+}
+.overlay {
+    background-color: rgba(0,0,0,0.5);
+    position: relative;
+    z-index: 0;
+    height: 100%;
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div#featured-jumbotron {
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top:0px;
+    margin-bottom:0px;
+    height: 320px;
+    display: flex;
+    flex-direction: column;
+}
+div#resources-header {
+    position: relative;
+    height:auto;
 }
