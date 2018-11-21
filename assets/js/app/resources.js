@@ -12,7 +12,6 @@ $(function() {
       count($(this));
   });
 });
-
 // This global array stores the concatenated and sorted jsonp data
 var allConnectResourcesData = [];
 // The counter variable counts the number of times results are added to the allJSONData array
@@ -52,7 +51,7 @@ function connectResources(connectJSON){
         console.log(allConnectResourcesData);
         console.log(connectJSONSources);
 
-        addConnectResources(sorted_data, sorted_data.length);
+        listResults(sorted_data);
         allJSONData = sorted_data;
         // Add the size of the results
         $('#size').html(sorted_data.length);
@@ -167,72 +166,72 @@ function listResults(json_data) {
     $('#result_size').html(filtered.length);
     $('#results').html(results.join(''));
 }
-// Process all JSON, get the latest news and blog posts and add to the list.
-function addConnectResources(results_data, number_of_items){
-    $('#result_size').html(results_data.length);
-    var tableRow  = '';
-    for(var i=0;i<number_of_items;i++){
-        resource = results_data[i];
-        var author = resource.author;
-        if(author === "undefined" || author == ""){
-            author = resource.url.replace(/(^\w+:|^)\/\//, '');
-        }
-        // Show the first 10 items and let the rest appear on scroll.
-        if(number_of_items > 10 && i < 10){
-            tableRow += '<tr>';
-        }
-        else{
-            tableRow += '<tr class="fly">';
-        }
-        // Get trimmed versions of resource title/summary
-        var trimmed_title = resource.title.substring(0, 30);
-        var trimmed_summary = resource.summary.substring(0, 40);
-        // Set the resource vars to None by default
-        var resource_video = "None";
-        var resource_presentation = "None";
-        // Get the presentation resource link if available
-        if(resource.amazon_s3_presentation_url){
-            resource_presentation = resource.amazon_s3_presentation_url;
-        }
-        else if(resource.slideshare_presentation_url){
-            resource_presentation = resource.slideshare_presentation_url;
-        }
-        // Get the video resource link if available
-        if(resource.youtube_video_url){
-            resource_video = resource.youtube_video_url;
-        }
-        else if(resource.amazon_s3_video_url){
-            resource_video = resource.amazon_s3_video_url;
-        }
-        // Get the session tracks
-        var resource_tracks = "";
-        if(resource.tracks !== ""){
-            resource_tracks = resource.tracks;
-        }
-        else{
-            resource_tracks  = "None";
-        }
-        // Get the resource speakers
-        var resource_speakers = "None";
-        // Check to see if the speakers property exists
-        if(resource.speakers !== ""){
-            // Fetch all speakers
-            for(n=0;n<resource.speakers.length;n++){
-                resource_speakers = resource_speakers + resource.speakers[n].name + " ";
-            }
-        }
-        tableRow += '<td data-toggle="tooltip" data-container="body" data-placement="top" title="'+ resource.title +'">' + trimmed_title + '</td>';
-        tableRow += '<td data-toggle="tooltip" data-container="body" data-placement="top" title="'+ resource.summary +'">' + trimmed_summary + '</td>';
-        tableRow += '<td>'+ resource_tracks +'</td>';
-        tableRow += '<td>'+ resource_video +'</td>';
-        tableRow += '<td>'+ resource_presentation +'</td>';
-        tableRow += '<td>'+ resource.event_id +'</td>';
-        tableRow += '<td>' + extractDateString(resource.date_published) + '</td>';
-        tableRow += '<td><a href="' + resource.url + '">View Resource</a></td>';
-        tableRow += '</tr>';
-    }
-    $("#results").html(tableRow);
-}
+// // Process all JSON, get the latest news and blog posts and add to the list.
+// function addConnectResources(results_data, number_of_items){
+//     $('#result_size').html(results_data.length);
+//     var tableRow  = '';
+//     for(var i=0;i<number_of_items;i++){
+//         resource = results_data[i];
+//         var author = resource.author;
+//         if(author === "undefined" || author == ""){
+//             author = resource.url.replace(/(^\w+:|^)\/\//, '');
+//         }
+//         // Show the first 10 items and let the rest appear on scroll.
+//         if(number_of_items > 10 && i < 10){
+//             tableRow += '<tr>';
+//         }
+//         else{
+//             tableRow += '<tr class="fly">';
+//         }
+//         // Get trimmed versions of resource title/summary
+//         var trimmed_title = resource.title.substring(0, 30);
+//         var trimmed_summary = resource.summary.substring(0, 40);
+//         // Set the resource vars to None by default
+//         var resource_video = "None";
+//         var resource_presentation = "None";
+//         // Get the presentation resource link if available
+//         if(resource.amazon_s3_presentation_url){
+//             resource_presentation = resource.amazon_s3_presentation_url;
+//         }
+//         else if(resource.slideshare_presentation_url){
+//             resource_presentation = resource.slideshare_presentation_url;
+//         }
+//         // Get the video resource link if available
+//         if(resource.youtube_video_url){
+//             resource_video = resource.youtube_video_url;
+//         }
+//         else if(resource.amazon_s3_video_url){
+//             resource_video = resource.amazon_s3_video_url;
+//         }
+//         // Get the session tracks
+//         var resource_tracks = "";
+//         if(resource.tracks !== ""){
+//             resource_tracks = resource.tracks;
+//         }
+//         else{
+//             resource_tracks  = "None";
+//         }
+//         // Get the resource speakers
+//         var resource_speakers = "None";
+//         // Check to see if the speakers property exists
+//         if(resource.speakers !== ""){
+//             // Fetch all speakers
+//             for(n=0;n<resource.speakers.length;n++){
+//                 resource_speakers = resource_speakers + resource.speakers[n].name + " ";
+//             }
+//         }
+//         tableRow += '<td data-toggle="tooltip" data-container="body" data-placement="top" title="'+ resource.title +'">' + trimmed_title + '</td>';
+//         tableRow += '<td data-toggle="tooltip" data-container="body" data-placement="top" title="'+ resource.summary +'">' + trimmed_summary + '</td>';
+//         tableRow += '<td>'+ resource_tracks +'</td>';
+//         tableRow += '<td>'+ resource_video +'</td>';
+//         tableRow += '<td>'+ resource_presentation +'</td>';
+//         tableRow += '<td>'+ resource.event_id +'</td>';
+//         tableRow += '<td>' + extractDateString(resource.date_published) + '</td>';
+//         tableRow += '<td><a href="' + resource.url + '">View Resource</a></td>';
+//         tableRow += '</tr>';
+//     }
+//     $("#results").html(tableRow);
+// }
 // Delay function - used to detect when the user has stopped typing.
 var delay = (function(){
     var timer = 0;
