@@ -18,19 +18,21 @@ css-package: sponsor
     </div>
 </div>
 <div class="container-fluid" id="resources-header">
-    <div class="row overlay padded-row">
-        <div class="container text-center">
-            <h1 class="fly center-block">Sponsor</h1>
-            <p class="fly center-block">
-                Sponsor the biggest Arm Open Source Collaboration event. 
-            </p>
+    <div id="featured-jumbotron">
+        <div class="row overlay padded-row">
+            <div class="container text-center">
+                <h1 class="fly center-block">Sponsor</h1>
+                <p class="fly center-block">
+                    Sponsor the biggest Arm Open Source Collaboration event. 
+                </p>
+            </div>
         </div>
     </div>
 </div>
 
-{% include previous-sponsors.html %}
 
-<div class="container-fluid">
+<div class="container-fluid" id="content-container">
+    {% include previous-sponsors.html %}
     <div class="row" id="intro-row">
         <div class="container" style="padding-top: 30px;">
             <div class="col-md-6 no-padding">
@@ -44,38 +46,12 @@ css-package: sponsor
             </div>
             <div class="col-md-6">
                 <div class="owl-carousel owl-theme">
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image1.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 1" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image2.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 2" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image3.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 3" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image4.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 4" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image5.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 5" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image6.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 6" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image7.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 7" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image8.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 8" />
-                    </div>
+                    {% for image in sponsorship.images %}
+                        <div class="activity-block item">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                             data-src="{{image}}" class="owl-lazy lazyload img-responsive" alt="Sponsor Image {{forloop.index}}" />
+                        </div>
+                    {% endfor %}
                 </div>
             </div>
 
@@ -87,15 +63,18 @@ css-package: sponsor
                 <thead>
                     <tr>
                         <th>Level</th>
-                        <th colspan="5">Benefits</th>
+                        <th> Cost </th>
+                        <th colspan="6">Benefits</th>
                         <th colspan="6">Onsite Benefits</th>
                     </tr>
                     <tr>
+                        <th> - </th>
                         <th> - </th>
                         <th>Logo/Recognition on Linaro Websites</th>
                         <th>Logo/Recognition on Email Communication</th>
                         <th data-toggle="tooltip" data-container="body" data-placement="top"
                         title="Your logo will be added to the Connect Resources on YouTube/Connect website">Logo/Recognition on Connect Resources</th>
+                        <th>Social Media Promotion</th>
                         <th>One Email blast to Connect Attendees</th>
                         <th>One Blog post on Linaro Website</th>
                         <th>Sponsor Demo Friday or Board Games Night</th>
@@ -116,101 +95,115 @@ css-package: sponsor
                 <tbody>
                     <tr>
                         <td>Team Dinner Sponsor</td>
+                        <td data-value="cost"><span class="fa fa-dollar"></span> Cost of Meal</td>
                         <td data-value="logo-website"><span class="fa fa-check"></span></td>
                         <td data-value="logo-email"><span class="fa fa-check"></span></td>
                         <td data-value="logo-connect-resource"><span class="fa fa-check"></span></td>
-                        <td data-value="email-blast"><span class="fa fa-check"></span></td>
+                        <td data-value="social-media-promotion"><span class="fa fa-check"></span></td>
+                        <td data-value="email-blast"><span class="fa fa-times"></span></td>
+                        <td data-value="blog-post"><span class="fa fa-times"></span></td>
+                        <td data-value="demo-friday-games-night"><span class="fa fa-times"></span></td>
+                        <td data-value="opening-keynotes"><span class="fa fa-check"></span></td>
+                        <td data-value="event-signage"><span class="fa fa-check"></span></td>
+                        <td data-value="two-minute-video"><span class="fa fa-times"></span></td>
+                        <td data-value="exhibition-table"><span class="fa fa-times"></span></td>
+                        <td data-value="early-access-meeting-rooms"><span class="fa fa-times"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Giveaway Sponsor</td>
+                        <td data-value="cost"><span class="fa fa-dollar"></span>5000 - <span class="fa fa-dollar"></span>10,000</td>
+                        <td data-value="logo-website"><span class="fa fa-check"></span></td>
+                        <td data-value="logo-email"><span class="fa fa-check"></span></td>
+                        <td data-value="logo-connect-resource"><span class="fa fa-check"></span></td>
+                        <td data-value="social-media-promotion"><span class="fa fa-check"></span></td>
+                        <td data-value="email-blast"><span class="fa fa-times"></span></td>
+                        <td data-value="blog-post"><span class="fa fa-times"></span></td>
+                        <td data-value="demo-friday-games-night"><span class="fa fa-times"></span></td>
+                        <td data-value="opening-keynotes"><span class="fa fa-check"></span></td>
+                        <td data-value="event-signage"><span class="fa fa-check"></span></td>
+                        <td data-value="two-minute-video"><span class="fa fa-times"></span></td>
+                        <td data-value="exhibition-table"><span class="fa fa-times"></span></td>
+                        <td data-value="early-access-meeting-rooms"><span class="fa fa-times"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Social Sponsor</td>
+                        <td data-value="cost"><span class="fa fa-dollar"></span> 10,000</td>
+                        <td data-value="logo-website"><span class="fa fa-check"></span></td>
+                        <td data-value="logo-email"><span class="fa fa-check"></span></td>
+                        <td data-value="logo-connect-resource"><span class="fa fa-check"></span></td>
+                        <td data-value="social-media-promotion"><span class="fa fa-check"></span></td>
+                        <td data-value="email-blast"><span class="fa fa-times"></span></td>
+                        <td data-value="blog-post"><span class="fa fa-times"></span></td>
                         <td data-value="demo-friday-games-night"><span class="fa fa-check"></span></td>
+                        <td data-value="opening-keynotes"><span class="fa fa-check"></span></td>
+                        <td data-value="event-signage"><span class="fa fa-check"></span></td>
+                        <td data-value="two-minute-video"><span class="fa fa-times"></span></td>
+                        <td data-value="exhibition-table"><span class="fa fa-times"></span></td>
+                        <td data-value="early-access-meeting-rooms"><span class="fa fa-times"></span></td>
+                    </tr>
+                    <tr>
+                        <td>T-Shirt Sponsor</td>
+                        <td data-value="cost"><span class="fa fa-dollar"></span> 10,000</td>
+                        <td data-value="logo-website"><span class="fa fa-check"></span></td>
+                        <td data-value="logo-email"><span class="fa fa-check"></span></td>
+                        <td data-value="logo-connect-resource"><span class="fa fa-check"></span></td>
+                        <td data-value="social-media-promotion"><span class="fa fa-check"></span></td>
+                        <td data-value="email-blast"><span class="fa fa-times"></span></td>
+                        <td data-value="blog-post"><span class="fa fa-times"></span></td>
+                        <td data-value="demo-friday-games-night"><span class="fa fa-times"></span></td>
+                        <td data-value="opening-keynotes"><span class="fa fa-check"></span></td>
+                        <td data-value="event-signage"><span class="fa fa-check"></span></td>
+                        <td data-value="two-minute-video"><span class="fa fa-times"></span></td>
+                        <td data-value="exhibition-table"><span class="fa fa-times"></span></td>
+                        <td data-value="early-access-meeting-rooms"><span class="fa fa-times"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Lunch Sponsor</td>
+                        <td data-value="cost"><span class="fa fa-dollar"></span> 12,000</td>
+                        <td data-value="logo-website"><span class="fa fa-check"></span></td>
+                        <td data-value="logo-email"><span class="fa fa-check"></span></td>
+                        <td data-value="logo-connect-resource"><span class="fa fa-check"></span></td>
+                        <td data-value="social-media-promotion"><span class="fa fa-check"></span></td>
+                        <td data-value="email-blast"><span class="fa fa-times"></span></td>
+                        <td data-value="blog-post"><span class="fa fa-times"></span></td>
+                        <td data-value="demo-friday-games-night"><span class="fa fa-times"></span></td>
+                        <td data-value="opening-keynotes"><span class="fa fa-check"></span></td>
+                        <td data-value="event-signage"><span class="fa fa-check"></span></td>
+                        <td data-value="two-minute-video"><span class="fa fa-times"></span></td>
+                        <td data-value="exhibition-table"><span class="fa fa-times"></span></td>
+                        <td data-value="early-access-meeting-rooms"><span class="fa fa-times"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Break Sponsor</td>
+                        <td data-value="cost"><span class="fa fa-dollar"></span> 18,000</td>
+                        <td data-value="logo-website"><span class="fa fa-check"></span></td>
+                        <td data-value="logo-email"><span class="fa fa-check"></span></td>
+                        <td data-value="logo-connect-resource"><span class="fa fa-check"></span></td>
+                        <td data-value="social-media-promotion"><span class="fa fa-check"></span></td>
+                        <td data-value="email-blast"><span class="fa fa-check"></span></td>
+                        <td data-value="blog-post"><span class="fa fa-check"></span></td>
+                        <td data-value="demo-friday-games-night"><span class="fa fa-times"></span></td>
                         <td data-value="opening-keynotes"><span class="fa fa-check"></span></td>
                         <td data-value="event-signage"><span class="fa fa-check"></span></td>
                         <td data-value="two-minute-video"><span class="fa fa-check"></span></td>
                         <td data-value="exhibition-table"><span class="fa fa-check"></span></td>
-                        <td data-value="logo-website"><span class="fa fa-check"></span></td>
-                        <td data-value="logo-website"><span class="fa fa-check"></span></td>
-                    </tr>
-                    <tr>
-                        <td>Giveaway Sponsor</td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                    </tr>
-                    <tr>
-                        <td>Social Sponsor</td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                    </tr>
-                    <tr>
-                        <td>T-Shirt Sponsor</td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                    </tr>
-                    <tr>
-                        <td>Lunch Sponsor</td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                    </tr>
-                    <tr>
-                        <td>Break Sponsor</td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
+                        <td data-value="early-access-meeting-rooms"><span class="fa fa-times"></span></td>
                     </tr>
                     <tr>
                         <td>Lead Sponsor</td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
-                        <td><span class="fa fa-check"></span></td>
+                        <td data-value="cost"><span class="fa fa-dollar"></span> 25,000</td>
+                        <td data-value="logo-website"><span class="fa fa-check"></span></td>
+                        <td data-value="logo-email"><span class="fa fa-check"></span></td>
+                        <td data-value="logo-connect-resource"><span class="fa fa-check"></span></td>
+                        <td data-value="social-media-promotion"><span class="fa fa-check"></span></td>
+                        <td data-value="email-blast"><span class="fa fa-check"></span></td>
+                        <td data-value="blog-post"><span class="fa fa-check"></span></td>
+                        <td data-value="demo-friday-games-night"><span class="fa fa-times"></span></td>
+                        <td data-value="opening-keynotes"><span class="fa fa-check"></span></td>
+                        <td data-value="event-signage"><span class="fa fa-check"></span></td>
+                        <td data-value="two-minute-video"><span class="fa fa-check"></span></td>
+                        <td data-value="exhibition-table"><span class="fa fa-check"></span></td>
+                        <td data-value="early-access-meeting-rooms"><span class="fa fa-check"></span></td>
                     </tr>                    
                 </tbody>
             </table>
