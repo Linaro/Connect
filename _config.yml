@@ -203,7 +203,7 @@ collections:
         output: true
         permalink: /:collection/:path/
     authors:
-        output: false
+        output: true
         permalink: /author/:name/
 
 # Jeykyll Responsive Image Configuration
