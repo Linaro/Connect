@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-218-Auto-BoF.pdf
 amazon_s3_video_url: None
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

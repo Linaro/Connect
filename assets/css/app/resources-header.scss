@@ -74,10 +74,11 @@
   position: fixed;
   z-index: 99999;
   width: 100%;
+  top: 66px;
 }
 // CSS for content on top of carousel
 div#content-container {
-  z-index: 99999;
+  z-index: 1;
   position: relative;
   margin-top: -40px;
 }

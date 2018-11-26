@@ -1,0 +1,54 @@
+---
+title: Resources
+permalink: /resources/
+layout: empty
+css-package: resources-landing-page
+js-package: resources-landing-page
+---
+{% assign connect_data = site.data.connects | where: "id", page.event_code | first %}
+
+<div class="carousel slide carousel-fade" data-ride="carousel">
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+        {% for image in connect_data.featured_images %}
+            <div style="background: url({{image}}); background-size:cover; background-position:center center; background-repeat: no-repeat;"
+            class="lazyload item {% if forloop.index == 1%}active{% endif %}">
+        </div>
+        {% endfor %}
+    </div>
+</div>
+<div class="container-fluid" id="resources-header">
+    <div class="row overlay padded-row">
+        <div class="container text-center">
+            <h1 class="fly center-block">{{connect_data.long-name}}</h1>
+            <p class="fly center-block">
+                Find resources from {{connect_data.id}} here.
+            </p>
+        </div>
+    </div>
+</div>
+<div class="container-fluid" id="content-container">
+    <div class="container">
+        <div class="col-sm-4 no-padding">
+            <a href="/resources/{{page.event_code | downcase}}/sessions/">
+                <div class="category-block">
+                    <h3>Sessions</h3>
+                </div>
+            </a>
+        </div>
+        <div class="col-sm-4 no-padding">
+            <a href="/resources/{{page.event_code | downcase}}/demos/">
+                <div class="category-block">
+                    <h3>Demos</h3>
+                </div>
+            </a>
+        </div>
+        <div class="col-sm-4 no-padding">
+            <a href="/resources/{{page.event_code | downcase}}/interviews/">
+                <div class="category-block">
+                    <h3>Interviews</h3>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>

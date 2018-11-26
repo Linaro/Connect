@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-119%20-%20Performance%20Evaluation%20for%20Containerized%20NFV-I%20on%20Arm%20via%20OPNFV%20Yardstick.pptx.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-119%20-%20Performance%20Evaluation%20for%20Containerized%20NFV-I%20on%20Arm%20via%20OPNFV%20Yardstick.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

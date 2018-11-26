@@ -1,6 +1,6 @@
 ---
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-212%20Open%20Source%20Automotive%20%20How%20Shared%20Development%20will%20Drive%20the%20Industry%20Forward.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

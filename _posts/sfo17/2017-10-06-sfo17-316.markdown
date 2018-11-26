@@ -1,6 +1,6 @@
 ---
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-316%20ARM%20Binary%20Translator%20-%20Towards%20a%2064bit%20Only%20World.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

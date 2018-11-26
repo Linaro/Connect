@@ -173,3 +173,55 @@ span.track:hover {
   border: 1px solid #eee;
   padding: 20px;
 }
+.author-img.img-circle {
+    height: 50px;
+    width: 50px;
+    border: 1px solid #999;
+    background-attachment: scroll;
+    background-size: cover;
+    display: block;
+    background-position: center center;
+}
+.content-author  .image-col {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content-author .col-xs-3 {
+    background-color: #eeeeee;
+}
+.author-info h3 {
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.author-info small {
+    display: inline-block;
+    background-color: #e8e8e8;
+    margin-bottom: 10px;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #dedede;
+    word-break: break-all;
+}
+.author-info.col-xs-9 {
+    background-color: #eeeeee;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.col-xs-12.content-author {
+    margin-bottom: 20px;
+}
+.author-info i {
+    font-size: 32px;
+    max-width: 50%;
+}
+.author-info a {
+    margin: 5px;
+}

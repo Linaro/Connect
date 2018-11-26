@@ -12,9 +12,9 @@
         <button for="navbar-toggle-cbox" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"
             aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
+            <span class="top-bar icon-bar"></span>
+            <span class="middle-bar icon-bar"></span>
+            <span class="bottom-bar icon-bar"></span>
         </button>
         <!-- NAVBAR Brand-->
         <a class="navbar-brand " href="{{site.data.nav.brand.url}}">
@@ -81,7 +81,7 @@
                     <li>
                         <a target="_self" href="/resources/" class="dropdown-item " title="All Connect Resources">All Resources</a>
                     </li>
-                    {% for connect in site.data.connects %}
+                    {% for connect in site.data.connects limit: 5 %}
                     <li>
                         <a target="_self" href="/resources/{{connect.id | downcase }}/" class="dropdown-item " title="{{connect.long-name}}">{{connect.id}}</a>
                     </li>

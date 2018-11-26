@@ -68,3 +68,28 @@ li.list-group-item.divider {
     margin-bottom: 30px;
   }
 }
+
+// Flex box panels
+.flex-row {
+    display: flex;
+}
+@media(max-width: $screen-sm-min - 1){
+    .flex-row {
+        display: block;
+    }
+}
+.flex-row div[class^="col-xs-"].flex-col, .flex-row div[class^="col-sm-"].flex-col, .flex-row div[class^="col-md-"].flex-col, .flex-row div[class^="col-lg-"].flex-col {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+}
+#sponsor-types .col-md-4.flex-col {
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+#sponsor-types .panel{
+    border:1px solid #909090;
+    background-color: #eaeaea;
+}
