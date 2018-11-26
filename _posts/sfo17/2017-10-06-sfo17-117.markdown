@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-117-ArmServerReady.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-117%20SBSA%20%20SBBR%2C%20ServerReady%20and%20Server%20Management.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

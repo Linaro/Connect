@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-104%20Enabling%20Arm%20DynamIQ%20support%20v1.0.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-104%20Enabling%20ARM%20DynamIQ%20support.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

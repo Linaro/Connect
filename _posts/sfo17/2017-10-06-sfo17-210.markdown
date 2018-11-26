@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-210-%20A%20flexible%20GDB%20target%20description%20for%20processor%20diversity.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-210%20A%20flexible%20GDB%20%28GNU%20Debugger%29%20target%20description%20for%20processor%20diversity.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

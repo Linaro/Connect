@@ -2,7 +2,6 @@
 author: connect
 categories:
 - bud17
-- Resources
 comments: false
 date: 2017-02-28 12:05:53
 excerpt: Having been around for so long already, many who view keynotes and sessions

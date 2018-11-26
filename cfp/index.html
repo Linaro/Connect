@@ -5,43 +5,36 @@ layout: container-breadcrumb
 ---
 
 <div class="row" id="cfp">
-<div class="container no-padding">
-
-<div class="col-md-6" style="margin-top:30px;">
-
-<p>
-We have now closed the CFP for Linaro Connect YVR18.
-</p>
-
-<p>
-Linaro Connect is all about providing a platform to discuss and learn about the leading software topics, challenges and opportunities in the ARM Ecosystem today. What are the problems, innovations and hands-on knowledge that today’s ARM Developers are working on? From the smallest devices (IoT and embedded) to big data (enterprise), there is an ARM solution. We welcome proposals for (1) Technical Presentation (2) Technical Discussions and (3) Birds of a Feather (BoF). Want to share what you’ve been working on? Click on the button below to submit your proposal.
-</p>
-
-<h4> Timeline of submission process </h4>
-
-<ul class="list-group">
-    <li class="list-group-item">Deadline to submit proposals 23 July 2018</li>
-    <li class="list-group-item">Notifications of acceptance by 6 August 2018</li>
-    <li class="list-group-item">Full schedule announced 8 August 2018</li>
-</ul>
-
-<!-- <em>Please note</em>: We are using a new system to collect all proposals for YVR18 and you will be required to enter your email address and create a password in order to submit your proposal. You will then be able to login and modify your submission, add a collaborator to help you complete the submission (if necessary), check on the status, and receive updates and instructions. -->
-
-<br>
-    
-<!-- <a href="https://catalyst.omnipress.com/#collection/348/submission" class="btn btn-primary">Submit Proposal</a> -->
-
-</div>
-<div class="col-md-6" style="margin-top:30px;">
-
-<h4>Common Topic Areas</h4>
-
-<ul class="list-group">
-    {% for item in site.data.common-topic-areas %}
-        <li class="list-group-item">{{item}}</li>
-    {% endfor %}
-</ul>
-
-</div>
-</div>
+    <div class="container no-padding">
+        <div class="col-md-6" style="margin-top:30px;">
+            <p>
+                We have now closed the CFP for Linaro Connect YVR18.
+            </p>
+            <p>
+                Linaro Connect is all about providing a platform to discuss and learn about the leading software
+                topics, challenges and opportunities in the ARM Ecosystem today. What are the problems, innovations and
+                hands-on knowledge that today’s ARM Developers are working on? From the smallest devices (IoT and
+                embedded) to big data (enterprise), there is an ARM solution. We welcome proposals for (1) Technical
+                Presentation (2) Technical Discussions and (3) Birds of a Feather (BoF). Want to share what you’ve been
+                working on? Click on the button below to submit your proposal.
+            </p>
+            <h4> Timeline of submission process </h4>
+            <ul class="list-group">
+                <li class="list-group-item">Deadline to submit proposals 23 July 2018</li>
+                <li class="list-group-item">Notifications of acceptance by 6 August 2018</li>
+                <li class="list-group-item">Full schedule announced 8 August 2018</li>
+            </ul>
+            <!-- <em>Please note</em>: We are using a new system to collect all proposals for YVR18 and you will be required to enter your email address and create a password in order to submit your proposal. You will then be able to login and modify your submission, add a collaborator to help you complete the submission (if necessary), check on the status, and receive updates and instructions. -->
+            <br>
+            <!-- <a href="https://catalyst.omnipress.com/#collection/348/submission" class="btn btn-primary">Submit Proposal</a> -->
+        </div>
+        <div class="col-md-6" style="margin-top:30px;">
+            <h4>Common Topic Areas</h4>
+            <ul class="list-group">
+                {% for item in site.data.common-topic-areas %}
+                <li class="list-group-item">{{item}}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-112%20-%20Using%20SoC%20Vendor%20HALs%20in%20the%20Zephyr%20Project.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-112%20Using%20SoC%20Vendor%20HALs%20in%20the%20Zephyr%20Project.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

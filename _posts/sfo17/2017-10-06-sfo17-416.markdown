@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-416-L4RE.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-416%20-%20Preventing%20Linux%20in%20your%20car%20from%20killing%20you-%20The%20L4Re%20Open%20Source%20Microvisor%20System.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

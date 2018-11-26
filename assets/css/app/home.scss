@@ -1,162 +1,309 @@
 // Adjust the margin-top of the home wrapper to account for the universal nav
 #wrapper.home {
-    margin-top: 31px;
+  margin-top: 31px;
 }
 
 #homepage-header p#buttons a {
-    background-color: $brand-primary;
-    color: #fff !important;
-    font-weight: normal;
-    margin-bottom: 50px;
-    border: 0;
-    border-radius: 0px;
+  background-color: $brand-primary;
+  color: #fff !important;
+  font-weight: normal;
+  margin-bottom: 50px;
+  border: 0;
+  border-radius: 0px;
 }
 
 #homepage-header p#buttons a:hover {
-    font-weight: normal;
-    margin-bottom: 50px;
+  font-weight: normal;
+  margin-bottom: 50px;
 }
 
 #homepage-header #home-page-text {
-    top: 20px;
-    font-size: 68px;
-    font-weight: bold;
-    position: relative;
-    text-shadow: #000 1px 1px 7px;
+  top: 20px;
+  font-size: 68px;
+  font-weight: bold;
+  position: relative;
+  text-shadow: #000 1px 1px 7px;
 }
 
-@media(max-width:$screen-sm-min) {
-    h1#home-page-title.white {
-        font-size: 28px;
-    }
-    #homepage-header #home-page-text {
-        top: 20px;
-        font-size: 42px;
-        position: relative;
-        line-height: 40px;
-    }
+@media (max-width: $screen-sm-min) {
+  h1#home-page-title.white {
+    font-size: 28px;
+  }
+  #homepage-header #home-page-text {
+    top: 20px;
+    font-size: 42px;
+    position: relative;
+    line-height: 40px;
+  }
 }
 
 div#featured-jumbotron {
-    margin-top: 20px !important;
-    margin-bottom: 20px !important;
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
 }
 
 p#buttons {
-    margin-top: 40px;
+  margin-top: 40px;
 }
 
 div#featured-jumbotron {
-    margin-bottom: $navbar-height + 20;
+  margin-bottom: $navbar-height + 20;
 }
 
 #featured-jumbotron h2,
 #featured-jumbotron h3 {
-    color: white;
+  color: white;
 }
 
 #featured-jumbotron h3 {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 #wrapper #homepage-header a.btn.btn-linaro-home:hover {
-    background-color: #000;
+  background-color: #000;
 }
 
 // Connect YVR18
 img.fade-in-one.img-responsive.center-block {
-    height: 200px;
+  height: 200px;
 }
 
 h3.connect-location {
-    font-weight: normal;
+  font-weight: normal;
 }
 
 div#intro-row {
-    padding-bottom: 100px;
-    padding-top: 20px;
+  padding-top: 20px;
 }
 
 //Speakers Section
 .img-responsive.speaker-image {
-    height: 200px;
-    width: 200px;
-    border-radius: 100px;
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    border: 1px solid #eaeaea;
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 1px solid #eaeaea;
 }
 
 .speaker-block {
-    text-align: center;
+  text-align: center;
 }
 
 #speakers-row {
-    margin-bottom: 80px;
-    background-color: #f5f5f5;
+  margin-bottom: 80px;
+  background-color: #f5f5f5;
 }
 
 #speakers-row h2 {
-    margin-bottom: 40px;
-    font-weight: normal;
+  margin-bottom: 40px;
+  font-weight: normal;
 }
 
 span.keynote_title {
-    display: block;
-    margin: 20px 0px;
-    font-size: 24px;
+  display: block;
+  margin: 20px 0px;
+  font-size: 24px;
 }
 
 .speaker-block {
-    min-height: 500px;
-    color: black;
+  min-height: 500px;
+  color: black;
 }
 
 span.keynote_title {
-    display: block;
-    margin: 20px 20px;
-    font-size: 16px;
-    height:auto;
+  display: block;
+  margin: 20px 20px;
+  font-size: 16px;
+  height: auto;
 }
 
 span.keynote_time {
-    padding: 5px;
-    background-color: #f5f5f5;
-    border: 1px solid #dadada;
-    margin-top: 23px;
-    display: block;
-    width: 194px;
-    margin-left: auto;
-    margin-right: auto;
+  padding: 5px;
+  background-color: #f5f5f5;
+  border: 1px solid #dadada;
+  margin-top: 23px;
+  display: block;
+  width: 194px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 //Home page owl carousel
 .owl-stage-outer {
-    height: 460px;
+  height: 460px;
 }
 
 .owl-nav {
-    text-align: center;
+  text-align: center;
 }
 
 div#schedule-row {
-    padding-top: 50px;
-    padding-bottom: 80px;
+  padding-top: 50px;
+  padding-bottom: 80px;
 }
 
 #schedule-row h1 {
-    font-weight: normal;
+  font-weight: normal;
 }
 
 #schedule-row a.btn {
-    background-color: #7ca72c;
-    color: white;
-    border-radius: 0px;
-    border: 0;
-    transition: all 1s ease;
+  background-color: #7ca72c;
+  color: white;
+  border-radius: 0px;
+  border: 0;
+  transition: all 1s ease;
 }
 
 #schedule-row a.btn:hover {
-    background-color: #000000;
+  background-color: #000000;
+}
+// Promo video
+div#content-container {
+    padding-top: 0px;
+}
+div#intro-row {
+    padding-top: 0px;
+}
+#video-skeleton {
+    -webkit-filter: grayscale(0%);
+    /* Safari 6.0 - 9.0 */
+    filter: grayscale(0%);
+}
+.col-xs-12.col-sm-8.no-padding.about-connect {
+    padding: 20px;
+    background-color:#fff;
+    // display: flex;
+    // align-items: center;
+    // justify-content: center;
+}
+
+.flex-row {
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+@media(max-width: $screen-sm-min - 1){
+    .flex-row {
+        display: block;
+    }
+}
+.flex-row div[class^="col-xs-"].flex-col, .flex-row div[class^="col-sm-"].flex-col, .flex-row div[class^="col-md-"].flex-col, .flex-row div[class^="col-lg-"].flex-col {
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+}
+p#buttons {
+    clear: both;
+    float: left;
+    text-align: left;
+    width: 100%;
+    margin-top: 0;
+}
+div#video-embed {
+    margin-bottom: 0;
+}
+#buttons > a.btn {
+    background-color: #828282;
+    color: white;
+    border: 1px solid grey;
+}
+#buttons > a.btn:hover {
+    background-color: #96c500;
+    color: white;
+    border: 1px solid grey;
+}
+.sponsor-image {
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#sponsorship-row h3 {
+    text-align: left;
+    float: left;
+    width: 100%;
+}
+div#sponsorship-row {
+    background-color: #eaeaea;
+}
+div#sponsorship-row  .owl-stage-outer {
+    height: 400px;
+}
+#connect-row .event-image {
+    background-size: cover !important;
+    height: 200px;
+}
+#connect-row .owl-stage-outer{
+    height: 200px;
+}
+div#intro-row {
+    background-color: #97c600;
+}
+#connect-row h3 {
+    opacity: .8;
+    color: black;
+    font-size: 14px;
+    margin-top: 0;
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 0px;
+}
+.event-details-block {
+    background-color: #94cb00;
+    opacity: .8;
+    color: black;
+    font-size: 20px;
+    height: 100px;
+    text-align: center;
+    position: relative;
+    top: 79px;
+    overflow: hidden;
+}
+.event-details-block > span.date {
+    font-size: 10px;
+    width: 100%;
+    text-align: center;
+}
+.event-item:hover .event-details-block {
+    height:200px;
+    top:0px;
+    opacity: .9;
+    padding-top:50px;
+ }
+ .event-details-block {
+     transition: all 400ms ease;
+ }
+ #sponsorship-row .owl-carousel {
+    background-color: white;
+}
+
+// Homepage SVG style
+svg {
+    height: 200px;
+    fill: white;
+}
+path.cls-1 {
+    fill: #94cb00;
+}
+.alert.alert-info.connect.alert-dismissible.fade.show {
+    opacity: 1;
+    margin-bottom: 0;
+    padding: 80px 40px;
+    background-color: #273350;
+    border: 0;
+    text-align: center;
+    color: white;
+    border-radius:0px
+}
+
+.alert-info.connect button.close {
+    color: white;
+    font-size: 30px;
+    top: -83px;
+    position: relative;
+    right: -30px;
 }

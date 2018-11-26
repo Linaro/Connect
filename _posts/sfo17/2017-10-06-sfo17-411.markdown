@@ -1,5 +1,5 @@
 ---
-author: celia.ilardi
+author: connect
 comments: false
 date: 2017-10-06 16:55:58+00:00
 excerpt: A general, interactive, no set agenda get together for AOSP developers. Participants

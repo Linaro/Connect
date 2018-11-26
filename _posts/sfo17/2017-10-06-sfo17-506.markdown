@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-506%20AOSP%20Devboard%20Update%20%26%20Recent%252FFuture%20Pain%20Points.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-506%20-%20AOSP%20Devboard%20update%20and%20recent-future%20pain%20points.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

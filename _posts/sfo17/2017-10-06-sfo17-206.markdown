@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-206%20RDK%252FWPE%20Port%20on%20DragonBoard%20410c.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-206%20RDK%20%20WPE%20Port%20on%20DB410C.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

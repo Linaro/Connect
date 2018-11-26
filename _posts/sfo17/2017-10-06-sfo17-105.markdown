@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-105%20MINCS.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-105%20MINCS%20-%20The%20Container%20in%20The%20Shell%20Script.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false

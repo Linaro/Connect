@@ -1,57 +1,56 @@
 // Previous Connect Links
 #previous-links p {
-    text-align:  center;
-    color: white;
-    font-size: 21px;
-    margin-top: 20px;
-    position:  relative;
-    margin-bottom: 20px;
+  text-align: center;
+  color: white;
+  font-size: 21px;
+  margin-top: 20px;
+  position: relative;
+  margin-bottom: 20px;
 }
 
 #previous-links a.btn.btn-connect {
-    background-color: #78ac01;
-    color: white;
-    border-radius: 30px;
-    margin-bottom: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    display:  block;
-    width: 200px;
+  background-color: #78ac01;
+  color: white;
+  border-radius: 30px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 200px;
 
-    transition: all 200ms ease;
+  transition: all 200ms ease;
 }
 #previous-links a.btn.btn-connect:hover {
-    background-color: #3a3836;
-    color:white;
+  background-color: #3a3836;
+  color: white;
 }
 
 #previous-links .block {
-    min-height: 200px;
-    padding-bottom: 20px;
-    border-radius: 3px;
-    border: 1px solid #a3a3a3;
-    
-    transition: all 200ms ease;
+  min-height: 200px;
+  padding-bottom: 20px;
+  border-radius: 3px;
+  border: 1px solid #a3a3a3;
+
+  transition: all 200ms ease;
 }
 
 #previous-links .block:hover {
-    background-position-y: -100px;
+  background-position-y: -100px;
 }
 
-
 #previous-links h4 {
-    font-size: 20px;
-    text-align:  center;
-    margin-top: 20px;
-    color: white;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 20px;
+  color: white;
 }
 
 #previous-links h2 {
-    font-weight: normal;
-    margin-bottom: 40px;
+  font-weight: normal;
+  margin-bottom: 40px;
 }
 
 div#previous-links {
-    padding-bottom: 100px;
-    background-color: #f5f5f5;
+  padding-bottom: 100px;
+  background-color: #f5f5f5;
 }

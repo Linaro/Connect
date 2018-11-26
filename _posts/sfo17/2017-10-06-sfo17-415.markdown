@@ -1,7 +1,7 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-415%20Update%20Remotely%20with%20Hawkbit.pdf
 amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-415%20-%20Update%20Remotely%20IoT%20Devices%20using%20Eclipse%20Hawkbit%20and%20SWUpdate.mp4
-author: celia.ilardi
+author: connect
 categories:
 - sfo17
 comments: false
