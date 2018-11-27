@@ -43,7 +43,7 @@ home:
             # then change this setting to false.
             darken: true
             # This is the name of the background-image located in /assets/images/
-            name: bkk19-bg.jpg
+            name: bkk19-website-banner.jpg
 # Jekyll social media site settings. Github, LinkedIn, Google+, Facebook and Youtube
 github_username: Linaro
 linkedin_username: 1026961
