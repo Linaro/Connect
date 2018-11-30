@@ -1,7 +1,8 @@
 ---
 layout: home
+title: Linaro Connect Bangkok 2019 (BKK19)
 description: |-
-    Linaro Connect Vancouver 2018 (YVR18) will take place at the Hyatt Regency in Vancouver, 17-21 September 2018.
+    Linaro Connect Bangkok 2019 (BKK19) will take place on Monday 1 April to Friday 5 April 2019
 ---
 <div class="container-fluid" id="content-container">
     <div class="row flex-row" id="intro-row">
@@ -63,19 +64,31 @@ description: |-
         <div class="col-xs-12 col-sm-8 no-padding about-connect flex-col">
             <h3>Sponsor</h3>
             <p>
-                Linaro Connect Vancouver has now ended. The next Linaro Connect will be in Bangkok, Thailand from April 1-5, 2019. Details
-                on registration will be available soon.
+                Linaro Connect Bangkok 2019 will be the 25th Connect since Linaro started in June 2010.
+                Hundreds of the world’s best Linux on ARM developers come to Linaro Connect each time because
+                they know it is the leading place to meet with the global community and to learn about what is
+                going on in the industry.
+                
+                Sponsorship of the event puts your brand in front of all the event attendees – both the 400+
+                on-site and all those who participate remotely, as well as the thousands who view the website
+                and social media before, during and after the event.
             </p>
-
-            <p class="text-center">
-                <strong>The leading event for Open source software engineering on Arm</strong><br />
-                <br>
-                <a class="btn btn-primary" href="/sponsors/">Sponsor {{site.connect-code}}</a>
+            <p id="buttons" class="text-center">
+                <a href="/sponsors/" class="btn btn-linaro-home fly" >Sponsor</a>
             </p>
-            
         </div>
-    </div>
+        <div class="col-xs-12 col-sm-4 no-padding sponsor-media">
+            <div class="owl-carousel owl-theme sponsorship-carousel">
+                {% assign sponsorship_images = site.data.settings.featured_images | where: "id", "sponsorship" | first %}
+                {% for image in sponsorship_images.images %}
+                    <div class="activity-block item">
+                        <div class="sponsor-image" style="background-image: url({{image}})"></div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+        </div>
+    {% include sections/previous-connect-links.html %}
 </div>
-{% include sections/previous-connect-links.html %}
 
 
