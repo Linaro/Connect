@@ -113,6 +113,15 @@ table thead > tr:nth-child(2) {
     border-left:1px solid #c1c3d1;
     border-right:1px solid #c1c3d1;
 }
+#sponsor-table th {
+    font-size: 22px;
+}
+#sponsor-table td {
+    padding:20px;
+}
+#sponsor-table td  span{
+    font-size: 30px;
+}
 tbody {
     border-left:1px solid #c1c3d1;
     border-right:1px solid #c1c3d1;
@@ -171,13 +180,13 @@ div#resources-header {
     border-color:#eeeeee;
 }
 #wrapper .panel.panel-sponsor .panel-heading {
-    background-color:#9cbe45;
+    background-color:#91bc12;
     font-weight:bold;
     border:none;
     font-size:20px;
 }
 #wrapper .panel.panel-sponsor .panel-heading h3{
-    background-color:#9cbe45;
+    background-color:#91bc12;
     font-weight:bold;
     border:none;
     color:white;
