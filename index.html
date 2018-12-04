@@ -1,94 +1,101 @@
 ---
-layout: home
+layout: jumbotron
+css-package: home
+js-package: home
 title: Linaro Connect Bangkok 2019 (BKK19)
 description: |-
     Linaro Connect Bangkok 2019 (BKK19) will take place on Monday 1 April to Friday 5 April 2019
+featured-images:
+    - /assets/images/content/hkg18-sponsor-thumb-1.jpg
+    - /assets/images/content/yvr18-sponsor-thumb-1.jpg
+    - /assets/images/content/yvr18-sponsor-thumb-2.jpg
+jumbotron:
+    image: /assets/images/content/bkk19-vertical-white.png
+    title: Bringing the Arm ecosystem together
+    description: ""
+    background-image: /assets/images/content/bkk19-website-banner.jpg
+    buttons:
+        - title: Learn more
+          url: /about/
+    animation: fade
 ---
-<div class="container-fluid" id="content-container">
-    <div class="row flex-row" id="intro-row">
-        <div class="col-xs-12 col-sm-4 no-padding connect-video">
-            <div id="video-holder">
-                <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                 data-src="/assets/images/content/video_placeholder.png" />
-                <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="video-embed">
-                    <iframe class="hidden-iframe" data-src="https://www.youtube.com/watch?v=06oC6Y76p2I" width="100%" height="500" frameborder="0" marginwidth="5"
-                        marginheight="5" scrolling="auto" id="youtube-iframe"></iframe>
-                </div>
+<div class="row flex-row intro-row" id="content-container">
+    <div class="col-xs-12 col-sm-4 no-padding connect-video">
+        <div class="wrapper">
+            <div class="youtube" data-embed="06oC6Y76p2I">
+                <div class="play-button"></div>
             </div>
-        </div>
-        <div class="col-xs-12 col-sm-8 no-padding about-connect flex-col">
-            <p>
-                Since 2010, Linaro Connect has been the event to attend if you are interested in open source software development for Linux,
-                tools and the various vertical segment ecosystems that use Arm processors. While the event continues to evolve, one thing
-                stays the same – it revolves around engineering and will consist of a mix of industry keynotes, engineering presentations
-                and discussions, and collaborative engineering hacking sessions.
-            </p>
-            <p>
-                The next Linaro Connect will be in Bangkok, Thailand from April 1-5, 2019.
-           </p>
-           <p id="buttons">
-                <a href="/about/" class="btn btn-linaro-home fly" >Learn More</a>
-                <a href="/register/" class="btn btn-linaro-home fly" >Register</a>
-            </p>
-        </div>
+        </div>            
     </div>
-    <div class="row" id="connect-row">
-        <div class="owl-carousel owl-theme" id="connect-event-slider">
-            {% assign connect_events = site.data.connects %}
-            {% for event in connect_events %}
-            <a href="/resources/{{event.id | downcase }}" target="_blank">
-                <div class="item event-item fly">
-                    <div class="event-image lazyload" style="background: url('/assets/images/content/{{event.placeholder}}') no-repeat center center;
-                        background-size: contain; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain;">
-                        <div class="event-details-block">
-                            <h3>{{event.long-name}}</h3> 
-                            <span class="date start">
-                                {{event.start-date | date: "%A "}}{% assign d = event.start-date | date: "%-d" %} {% case d %} {% when '1' or '21' or
-                                '31' %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %}
-                                {{event.start-date | date: "%B, %Y"}}
-                            </span>
-                            -
-                            <span class="date end">
-                                {{event.end-date | date: "%A "}}{% assign d = event.end-date | date: "%-d" %} {% case d %} {% when '1' or '21' or '31'
-                                %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %} {{event.end-date
-                                | date: "%B , %Y"}}
-                            </span>   
-                        </div>
+    <div class="col-xs-12 col-sm-8 no-padding about-connect flex-col">
+        <p>
+            Every six months, leading hardware and software players in the Arm ecosystem come together at Linaro Connect to solve problems, identify issues and plan existing and future engineering collaboration. 
+
+            For a week, attendees enjoy a mix of industry keynotes, engineering discussions and collaborative hacking sessions. If you are interested in open source software development for Linux, tools and the various vertical segment ecosystems that use Arm processors, then this is the place to be.
+        </p>
+        <p>
+            The next Linaro Connect will be in Bangkok, Thailand from April 1-5, 2019.
+        </p>
+        <p id="buttons">
+            <a href="/about/" class="btn btn-linaro-home fly" >Learn More</a>
+            <a href="/register/" class="btn btn-linaro-home fly" >Register</a>
+        </p>
+    </div>
+</div>
+<div class="row" id="connect-row">
+    <div class="owl-carousel owl-theme" id="connect-event-slider">
+        {% assign connect_events = site.data.connects %}
+        {% for event in connect_events %}
+        <a href="/resources/{{event.id | downcase }}" target="_blank">
+            <div class="item event-item fly">
+                <div class="event-image lazyload" style="background: url('/assets/images/content/{{event.placeholder}}') no-repeat center center;
+                    background-size: contain; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain;">
+                    <div class="event-details-block">
+                        <h3>{{event.long-name}}</h3> 
+                        <span class="date start">
+                            {{event.start-date | date: "%A "}}{% assign d = event.start-date | date: "%-d" %} {% case d %} {% when '1' or '21' or
+                            '31' %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %}
+                            {{event.start-date | date: "%B, %Y"}}
+                        </span>
+                        -
+                        <span class="date end">
+                            {{event.end-date | date: "%A "}}{% assign d = event.end-date | date: "%-d" %} {% case d %} {% when '1' or '21' or '31'
+                            %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %} {{event.end-date
+                            | date: "%B , %Y"}}
+                        </span>   
                     </div>
                 </div>
-            </a>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+</div>
+<div class="row flex-row" id="sponsorship-row">
+    <div class="col-xs-12 col-sm-8 no-padding about-connect flex-col">
+        <h3>Sponsor</h3>
+        <p>
+            Linaro Connect Bangkok 2019 will be the 25th Connect since Linaro started in June 2010.
+            Hundreds of the world’s best Linux on ARM developers come to Linaro Connect each time because
+            they know it is the leading place to meet with the global community and to learn about what is
+            going on in the industry.
+            
+            Sponsorship of the event puts your brand in front of all the event attendees – both the 400+
+            on-site and all those who participate remotely, as well as the thousands who view the website
+            and social media before, during and after the event.
+        </p>
+        <p id="buttons" class="text-center">
+            <a href="/sponsors/" class="btn btn-linaro-home fly">Sponsor</a>
+        </p>
+    </div>
+    <div class="col-xs-12 col-sm-4 no-padding sponsor-media">
+        <div class="owl-carousel owl-theme sponsorship-carousel">
+            {% for image in page.featured-images %}
+                <div class="activity-block item">
+                    <div class="sponsor-image" style="background-image: url({{image}})"></div>
+                </div>
             {% endfor %}
         </div>
     </div>
-    <div class="row flex-row" id="sponsorship-row">
-        <div class="col-xs-12 col-sm-8 no-padding about-connect flex-col">
-            <h3>Sponsor</h3>
-            <p>
-                Linaro Connect Bangkok 2019 will be the 25th Connect since Linaro started in June 2010.
-                Hundreds of the world’s best Linux on ARM developers come to Linaro Connect each time because
-                they know it is the leading place to meet with the global community and to learn about what is
-                going on in the industry.
-                
-                Sponsorship of the event puts your brand in front of all the event attendees – both the 400+
-                on-site and all those who participate remotely, as well as the thousands who view the website
-                and social media before, during and after the event.
-            </p>
-            <p id="buttons" class="text-center">
-                <a href="/sponsors/" class="btn btn-linaro-home fly" >Sponsor</a>
-            </p>
-        </div>
-        <div class="col-xs-12 col-sm-4 no-padding sponsor-media">
-            <div class="owl-carousel owl-theme sponsorship-carousel">
-                {% assign sponsorship_images = site.data.settings.featured_images | where: "id", "sponsorship" | first %}
-                {% for image in sponsorship_images.images %}
-                    <div class="activity-block item">
-                        <div class="sponsor-image" style="background-image: url({{image}})"></div>
-                    </div>
-                {% endfor %}
-            </div>
-        </div>
-        </div>
-    {% include sections/previous-connect-links.html %}
-</div>
-
+    </div>
+{% include sections/previous-connect-links.html %}
 
