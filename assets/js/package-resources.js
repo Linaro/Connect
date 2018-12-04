@@ -6,6 +6,7 @@
 //= require vendor/underscore
 //= require vendor/fuzzy
 
+//= require app/search
 //= require app/main
 //= require app/blog
 //= require app/tables
