@@ -1,20 +1,21 @@
+- 96Boards
 - Android
-- Autonomous Vehicle
+- Arm on Arm 
+- Automotive
 - Big Data
+- Boot architecture
 - Data Center
-- High Performance Computing (HPC)
-- Infrastructure and Automation (LAVA)
-- IoT and AI
+- Multimedia
+- HPC
+- Industrial
 - IoT and Embedded
 - IoT Fog/Gateway/Edge Computing
 - Linux Kernel
 - Machine Learning/AI
-- Multimedia (Streaming Media, secure data path)
-- Networking (General)
-- Networking - Userland IO (ODP, net_mdev,DPDK, DMA_buf…)
-- Open Source Development (Licensing, tools, governance, Community Projects)
+- Networking
+- Open Source Development
 - Power Management
 - Security
+- Smart Home
 - Tools
-- Training
-- Other
+- Validation and CI
