@@ -1,41 +1,19 @@
 ---
 title: Resources
+description: >-
+    Find resources from all of our previous Connect events here.
 permalink: /resources/
-layout: empty
+layout: jumbotron
 js-package: resources
 css-package: resources
+jumbotron:
+    animation: fade
+    carousel-images:
+        - /assets/images/content/yvr18.jpg
+        - /assets/images/content/hkg18.jpg
+        - /assets/images/content/sfo17.jpg
 ---
-{% capture image1 %}/assets/images/content/{{site.data.connects[0].placeholder}}{% endcapture %}
-{% capture image2 %}/assets/images/content/{{site.data.connects[1].placeholder}}{% endcapture %}
-{% capture image3 %}/assets/images/content/{{site.data.connects[2].placeholder}}{% endcapture %}
-
-<div class="carousel slide carousel-fade" data-ride="carousel">
-    <!-- Wrapper for slides -->
-    <div class="carousel-inner" role="listbox">
-        <div style="background: url({{image1}}); background-size:cover; background-position:center center; background-repeat: no-repeat;"
-         class="lazyload item active">
-        </div>
-        <div style="background: url({{image2}}); background-size:cover; background-position:center center; background-repeat: no-repeat;" 
-        class="lazyload item">
-        </div>
-        <div style="background: url({{image3}}); background-size:cover; background-position:center center; background-repeat: no-repeat;" 
-        class="lazyload item">
-        </div>
-    </div>
-</div>
-
-<div class="container-fluid" id="resources-header">
-    <div class="row overlay padded-row">
-        <div class="container text-center">
-            <h1 class="fly center-block">Connect Resources</h1>
-            <p class="fly center-block">
-                Find resources from all of our previous Connect events here.
-            </p>
-        </div>
-    </div>
-</div>
-<div class="container-fluid" id="all-resources">
-<div class="row">
+<div class="row all-resources content-row" id="content-container">
     <div class="container">
         {% include_cached stats.html %}
         <!-- <input type="text" class="form-control" placeholder="Search..." id="search-query"> -->
@@ -66,133 +44,131 @@ css-package: resources
             </table>
         </div> -->
     </div>
-
 </div>
-<div class="row padded-row">
-<div class="container">
-<div id="all-resources">
-{% assign connect_events = site.data.connects | sort: "start-date" | reverse %}
-    {% for connect in connect_events %}
-        {% assign connect_id = connect.id | downcase %}
-        <!-- <h1>{{connect.long-name}}</h1> -->
-        <div class="col-md-4 col-sm-4 col-xs-12 no-padding fly">
-            <div class="col-xs-12 connect-title-holder">
-                <h3 class="connect-title text-center">{{connect.long-name}}</h3>
-            </div>
-            <div class="date-area text-center">
-                <span class="date start">
-                    {{connect.start-date | date: "%A "}}{% assign d = connect.start-date | date: "%-d" %} {% case d %} {% when '1' or '21' or
-                    '31' %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %}
-                    {{connect.start-date | date: "%B, %Y"}}
-                </span>
-                -
-                <span class="date end">
-                    {{connect.end-date | date: "%A "}}{% assign d = connect.end-date | date: "%-d" %} {% case d %} {% when '1' or '21' or '31'
-                    %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %} {{connect.end-date
-                    | date: "%B , %Y"}}
-                </span>
-            </div>
-            <div class="resource-block">
-                <a href="/resources/{{connect_id}}/">
-                    <div class="resource">
-                        {% if connect.placeholder %}
-                            {% capture image-name %}{{connect.placeholder}}{% endcapture %}
-                        {% else %}
-                            {% capture image-name %}connect-logo.png{% endcapture %}
-                        {% endif %}
-                        <div class="resource-image" style="background-image:url(/assets/images/content/{{image-name}})"></div>
+<div class="row padded-row content-row">
+    <div class="container">
+        <div id="all-resources">
+        {% assign connect_events = site.data.connects | sort: "start-date" | reverse %}
+            {% for connect in connect_events %}
+                {% assign connect_id = connect.id | downcase %}
+                <!-- <h1>{{connect.long-name}}</h1> -->
+                <div class="col-md-4 col-sm-4 col-xs-12 no-padding fly">
+                    <div class="col-xs-12 connect-title-holder">
+                        <h3 class="connect-title text-center">{{connect.long-name}}</h3>
                     </div>
-                </a>
-                <div class="col-xs-12 resources-stats no-padding">
-                    <div class="resource-sidebar-block col-xs-4 text-center">
-                        <div class="col-xs-12 col-sm-6 no-padding">
-                            <span class="glyphicon glyphicon-th"></span>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 no-padding">
-                            <span class="resources-number">{{site.categories[connect_id] | size}}</span>
-                        </div>
+                    <div class="date-area text-center">
+                        <span class="date start">
+                            {{connect.start-date | date: "%A "}}{% assign d = connect.start-date | date: "%-d" %} {% case d %} {% when '1' or '21' or
+                            '31' %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %}
+                            {{connect.start-date | date: "%B, %Y"}}
+                        </span>
+                        -
+                        <span class="date end">
+                            {{connect.end-date | date: "%A "}}{% assign d = connect.end-date | date: "%-d" %} {% case d %} {% when '1' or '21' or '31'
+                            %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %} {{connect.end-date
+                            | date: "%B , %Y"}}
+                        </span>
                     </div>
-                    <div class="resource-sidebar-block col-xs-4 text-center">
-                        <div class="col-xs-12 col-sm-6 no-padding">
-                            <span class="icon-youtube"></span>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 no-padding">
-                            <span class="resources-number">
-                                
-                                {% assign counter = 0 %}
-                                {% for resource in site.categories[connect_id] %}
-                                    {% if resource.youtube_video_url %}
-                                        {% assign counter = counter | plus:1 %}
-                                    {% endif %}
-                                {% endfor %}
-                                
-                                {{counter}}
-                            
-                            </span>
-                        </div>
-                    </div>
-                    <div class="resource-sidebar-block col-xs-4 text-center">
-                        <div class="col-xs-12 col-sm-6 no-padding">
-                            <span class="icon-linkedin"></span>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 no-padding">
-                            <span class="resources-number">
-                                {% assign counter = 0 %}
-                                {% for resource in site.categories[connect_id] %}
-                                    {% if resource.slideshare_presentation_url %}
-                                        {% assign counter = counter | plus:1 %}
-                                    {% endif %}
-                                {% endfor %}
-                                {{counter}}
-                            </span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xs-12 no-padding text-center">
-                    {% if connect.flickr-albums %}
-                        <!-- Single button -->
-                        <div class="btn-group">
-                            <button type="button" class="flickr-albums btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Flickr Albums
-                                <span class="caret"></span>
-                            </button>
-                            <ul class="dropdown-menu">
-                                {% for album in connect.flickr-albums %}
-                                <li>
-                                    <a href="{{album.url}}">{{album.title}}</a>
-                                </li>
-                                {% endfor %}
-                            </ul>
-                        </div>
-                    {% endif %}
-                    
-                    {% if connect.location %}
-                        {% capture full-location %}{% endcapture %}
-                        {% if connect.location.venue %}
-                            {% capture full-location %}{{full-location}}+{{connect.location.venue}}{% endcapture %}
-                        {% endif %}
-                        {% if connect.location.city %}
-                            {% capture full-location %}{{full-location}}+{{connect.location.city}}{% endcapture %}
-                        {% endif %}
-                        {% if connect.location.county %}
-                            {% capture full-location %}{{full-location}}+{{connect.location.county}}{% endcapture %}
-                        {% endif %}
-                        {% if connect.location.country %}
-                            {% capture full-location %}{{full-location}}+{{connect.location.country}}{% endcapture %}
-                        {% endif %}
-                        <a class="connect-map-location btn btn-primary" href="https://www.google.com/maps/search/{{full-location}}">
-                            <i class="glyphicon glyphicon-map-marker"></i>
-                            View on Map
+                    <div class="resource-block">
+                        <a href="/resources/{{connect_id}}/">
+                            <div class="resource">
+                                {% if connect.placeholder %}
+                                    {% capture image-name %}{{connect.placeholder}}{% endcapture %}
+                                {% else %}
+                                    {% capture image-name %}connect-logo.png{% endcapture %}
+                                {% endif %}
+                                <div class="resource-image" style="background-image:url(/assets/images/content/{{image-name}})"></div>
+                            </div>
                         </a>
-                    {% endif %}
-                </div>
-                <div class="col-xs-12 no-padding">
-                    <a href="/resources/{{connect_id}}/" class="btn btn-primary center-block">View {{connect.id}} Resources</a>
-                </div>
-            </div>
-        </div>  
-    {% endfor %}
-</div>
-</div><!--Container END-->
+                        <div class="col-xs-12 resources-stats no-padding">
+                            <div class="resource-sidebar-block col-xs-4 text-center">
+                                <div class="col-xs-12 col-sm-6 no-padding">
+                                    <span class="glyphicon glyphicon-th"></span>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 no-padding">
+                                    <span class="resources-number">{{site.categories[connect_id] | size}}</span>
+                                </div>
+                            </div>
+                            <div class="resource-sidebar-block col-xs-4 text-center">
+                                <div class="col-xs-12 col-sm-6 no-padding">
+                                    <span class="icon-youtube"></span>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 no-padding">
+                                    <span class="resources-number">
+                                        
+                                        {% assign counter = 0 %}
+                                        {% for resource in site.categories[connect_id] %}
+                                            {% if resource.youtube_video_url %}
+                                                {% assign counter = counter | plus:1 %}
+                                            {% endif %}
+                                        {% endfor %}
+                                        
+                                        {{counter}}
+                                    
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="resource-sidebar-block col-xs-4 text-center">
+                                <div class="col-xs-12 col-sm-6 no-padding">
+                                    <span class="icon-linkedin"></span>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 no-padding">
+                                    <span class="resources-number">
+                                        {% assign counter = 0 %}
+                                        {% for resource in site.categories[connect_id] %}
+                                            {% if resource.slideshare_presentation_url %}
+                                                {% assign counter = counter | plus:1 %}
+                                            {% endif %}
+                                        {% endfor %}
+                                        {{counter}}
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 no-padding text-center">
+                            {% if connect.flickr-albums %}
+                                <!-- Single button -->
+                                <div class="btn-group">
+                                    <button type="button" class="flickr-albums btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Flickr Albums
+                                        <span class="caret"></span>
+                                    </button>
+                                    <ul class="dropdown-menu">
+                                        {% for album in connect.flickr-albums %}
+                                        <li>
+                                            <a href="{{album.url}}">{{album.title}}</a>
+                                        </li>
+                                        {% endfor %}
+                                    </ul>
+                                </div>
+                            {% endif %}
+                            
+                            {% if connect.location %}
+                                {% capture full-location %}{% endcapture %}
+                                {% if connect.location.venue %}
+                                    {% capture full-location %}{{full-location}}+{{connect.location.venue}}{% endcapture %}
+                                {% endif %}
+                                {% if connect.location.city %}
+                                    {% capture full-location %}{{full-location}}+{{connect.location.city}}{% endcapture %}
+                                {% endif %}
+                                {% if connect.location.county %}
+                                    {% capture full-location %}{{full-location}}+{{connect.location.county}}{% endcapture %}
+                                {% endif %}
+                                {% if connect.location.country %}
+                                    {% capture full-location %}{{full-location}}+{{connect.location.country}}{% endcapture %}
+                                {% endif %}
+                                <a class="connect-map-location btn btn-primary" href="https://www.google.com/maps/search/{{full-location}}">
+                                    <i class="glyphicon glyphicon-map-marker"></i>
+                                    View on Map
+                                </a>
+                            {% endif %}
+                        </div>
+                        <div class="col-xs-12 no-padding">
+                            <a href="/resources/{{connect_id}}/" class="btn btn-primary center-block">View {{connect.id}} Resources</a>
+                        </div>
+                    </div>
+                </div>  
+            {% endfor %}
+        </div>
+    </div><!--Container END-->
 </div><!--Row END-->
-</div><!--Fluid Container END-->
