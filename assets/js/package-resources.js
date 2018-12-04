@@ -5,6 +5,7 @@
 //= require vendor/lazysizes
 //= require vendor/underscore
 //= require vendor/fuzzy
+//= require vendor/ls.unveilhooks
 
 //= require app/search
 //= require app/main
