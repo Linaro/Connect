@@ -7,5 +7,6 @@
 
 //= require app/main
 //= require app/home
+//= requrie app/search
 //= require app/tables
 //= require app/fly

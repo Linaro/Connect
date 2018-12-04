@@ -4,6 +4,8 @@
 //= require vendor/cookieconsent
 //= require vendor/lazysizes
 
+//= require app/fly
+//= require app/search
 //= require app/main
 //= require app/blog
 //= require app/tables

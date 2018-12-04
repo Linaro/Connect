@@ -3,19 +3,12 @@
 @charset "UTF-8";
 //Bootstrap Overrides
 @import "app/overrides";
-
 //Boostrap Includes
 @import 'bootstrap';
 @import 'bootstrap/variables';
-
 // Linaro Jekyll Theme Includes
 @import "core";
-@import "core/fa";
-@import "core/jumbotron";
-
-
 // App Includes
 @import "app/custom";
 @import "app/previous-sponsors";
-@import "app/resources-header";
 @import "app/sponsor";
