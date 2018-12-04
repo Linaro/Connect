@@ -234,8 +234,9 @@ div#sponsorship-row  .owl-stage-outer {
     height: 400px;
 }
 #connect-row .event-image {
-    background-size: cover !important;
     height: 200px;
+    object-fit: cover;
+    position: absolute;
 }
 #connect-row .owl-stage-outer{
     height: 200px;
