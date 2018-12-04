@@ -46,8 +46,8 @@ jumbotron:
         {% for event in connect_events %}
         <a href="/resources/{{event.id | downcase }}" target="_blank">
             <div class="item event-item fly">
-                <div class="event-image lazyload" style="background: url('/assets/images/content/{{event.placeholder}}') no-repeat center center;
-                    background-size: contain; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain;">
+                <div class="event-image lazyload" data-src="/assets/images/content/{{event.placeholder}}"
+                 style="background-size: contain; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain;">
                     <div class="event-details-block">
                         <h3>{{event.long-name}}</h3> 
                         <span class="date start">
