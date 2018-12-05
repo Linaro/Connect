@@ -71,9 +71,10 @@ img.fade-in-one.img-responsive.center-block {
 h3.connect-location {
   font-weight: normal;
 }
-
-.intro-row {
-  padding-top: 20px;
+.sponsor-col img.img-responsive {
+    height: 100px;
+    object-fit: contain;
+    margin: auto;
 }
 
 //Speakers Section
@@ -161,9 +162,6 @@ div#schedule-row {
 }
 // Promo video
 div#content-container {
-    padding-top: 0px;
-}
-.intro-row {
     padding-top: 0px;
 }
 #video-skeleton {
@@ -372,3 +370,24 @@ path.cls-1 {
 .row.flex-row.upcoming-connect .btn {
     margin:10px;
 }
+div#social-media {
+    background-color: #9dc438;
+}
+.social-media-block {
+    height: 100px;
+    background-color: #7fa222;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+}
+.social-media-block i {
+    color: white;
+    font-size: 34px;
+    display:block;
+}
+.social-media-block a {
+    color:white;
+}  
+.social-media-block a {
+    color:white;
+} 
