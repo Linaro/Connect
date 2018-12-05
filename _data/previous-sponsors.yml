@@ -1,3 +1,6 @@
+- name: Archermind
+  image: archermind.jpg
+  url: https://www.linaro.org/company/archermind/
 - name: Arm
   type: lead
   image: arm.jpg
@@ -8,13 +11,40 @@
   image: arrow.jpg
   event: yvr18
   url: https://www.linaro.org/company/arrow/
+- name: Avnet
+  type: sponsor 
+  image: avnet.jpg
+  event: yvr18
+  url: https://www.linaro.org/company/avnet/
+- name: Canonical
+  image: canonical.jpg
+  url: https://www.linaro.org/company/canonical/
+- name: Fujitsu
+  image: fujitsu.jpg
+  url: https://www.linaro.org/company/fujitsu/
+- name: Hoperun
+  image: hoperun.jpg
+  url: https://www.linaro.org/company/hoperun/
+- name: Mediatek
+  image: mediatek.jpg
+  url: https://www.linaro.org/company/mediatek/
+- name: Qualcomm
+  image: qualcomm.jpg
+  url: https://www.linaro.org/company/quic/
+- name: Redhat
+  image: redhat.jpg
+  url: https://www.linaro.org/company/redhat/
+- name: Tocoding
+  image: tocoding.jpg
+  url: https://www.linaro.org/company/tocoding/
 - name: Shiratech
   type: sponsor
   image: shiratech.png
   event: yvr18
   url: http://www.shiratech-solutions.com/
-- name: Xilinx and Avnet
+- name: Xilinx
   type: sponsor
-  image: xilinx-avnet.jpg
+  image: xilinx.jpg
   event: yvr18
   url: https://www.linaro.org/company/xilinx/
+
