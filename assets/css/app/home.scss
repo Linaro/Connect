@@ -222,11 +222,6 @@ div#video-embed {
     background-size: cover;
     background-repeat: no-repeat;
 }
-#sponsorship-row h3 {
-    text-align: left;
-    float: left;
-    width: 100%;
-}
 .about-connect p {
     width: 80%;
     text-align: center;
@@ -249,8 +244,8 @@ div#sponsorship-row  .owl-stage-outer {
 #connect-row .owl-stage-outer{
     height: 200px;
 }
-.intro-row {
-    background-color: #97c600;
+#wrapper .intro-row {
+    background-color: #2d2d2d;
 }
 #connect-row h3 {
     opacity: .8;
@@ -366,4 +361,14 @@ path.cls-1 {
 	width: 100%;
 	top: 0;
 	left: 0;
+}
+.row.flex-row.upcoming-connect {
+    background-color: #4d4d4d;
+    position: relative;
+    z-index: 1;
+    color: white;
+    text-align: center;
+}
+.row.flex-row.upcoming-connect .btn {
+    margin:10px;
 }
