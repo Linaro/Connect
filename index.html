@@ -40,12 +40,40 @@ jumbotron:
         </p>
     </div>
 </div>
+<div class="row flex-row padded-row-30" id="sponsorship-row">
+    <div class="col-xs-12 col-sm-8 no-padding about-connect flex-col">
+        <h3>Sponsor</h3>
+        <p>
+            Linaro Connect Bangkok 2019 will be the 25th Connect since Linaro started in June 2010.
+            Hundreds of the world’s best Linux on ARM developers come to Linaro Connect each time because
+            they know it is the leading place to meet with the global community and to learn about what is
+            going on in the industry.
+            
+            Sponsorship of the event puts your brand in front of all the event attendees – both the 400+
+            on-site and all those who participate remotely, as well as the thousands who view the website
+            and social media before, during and after the event.
+        </p>
+        <p id="buttons" class="text-center">
+            <a href="/sponsors/" class="btn btn-linaro-home fly">Sponsor</a>
+        </p>
+    </div>
+    <div class="col-xs-12 col-sm-4 no-padding sponsor-media">
+        <div class="owl-carousel owl-theme sponsorship-carousel">
+            {% for image in page.featured-images %}
+                <div class="activity-block item">
+                    <img class="sponsor-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                    data-src="{{image}}" alt="Featured sponsor image {{forloop.index}}"/>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
 <div class="row" id="connect-row">
     <div class="owl-carousel owl-theme" id="connect-event-slider">
         {% assign connect_events = site.data.connects %}
         {% for event in connect_events %}
         <a href="/resources/{{event.id | downcase }}" target="_blank">
-            <div class="item event-item fly">
+            <div class="item event-item">
                 <img class="event-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
                 data-src="/assets/images/content/{{event.placeholder}}" alt="{{event.long-name}} Image"/>
                 <div class="event-details-block">
@@ -67,32 +95,5 @@ jumbotron:
         {% endfor %}
     </div>
 </div>
-<div class="row flex-row" id="sponsorship-row">
-    <div class="col-xs-12 col-sm-8 no-padding about-connect flex-col">
-        <h3>Sponsor</h3>
-        <p>
-            Linaro Connect Bangkok 2019 will be the 25th Connect since Linaro started in June 2010.
-            Hundreds of the world’s best Linux on ARM developers come to Linaro Connect each time because
-            they know it is the leading place to meet with the global community and to learn about what is
-            going on in the industry.
-            
-            Sponsorship of the event puts your brand in front of all the event attendees – both the 400+
-            on-site and all those who participate remotely, as well as the thousands who view the website
-            and social media before, during and after the event.
-        </p>
-        <p id="buttons" class="text-center">
-            <a href="/sponsors/" class="btn btn-linaro-home fly">Sponsor</a>
-        </p>
-    </div>
-    <div class="col-xs-12 col-sm-4 no-padding sponsor-media">
-        <div class="owl-carousel owl-theme sponsorship-carousel">
-            {% for image in page.featured-images %}
-                <div class="activity-block item">
-                    <div class="sponsor-image" style="background-image: url({{image}})"></div>
-                </div>
-            {% endfor %}
-        </div>
-    </div>
-    </div>
 {% include sections/previous-connect-links.html %}
 
