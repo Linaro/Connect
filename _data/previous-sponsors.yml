@@ -13,11 +13,11 @@
   url: https://www.linaro.org/company/arrow/
 - name: Avnet
   type: sponsor 
-  image: avnet.jpg
+  image: avnet.png
   event: yvr18
   url: https://www.linaro.org/company/avnet/
 - name: Canonical
-  image: canonical.jpg
+  image: canonical.png
   url: https://www.linaro.org/company/canonical/
 - name: Fujitsu
   image: fujitsu.jpg
@@ -29,7 +29,7 @@
   image: mediatek.jpg
   url: https://www.linaro.org/company/mediatek/
 - name: Qualcomm
-  image: qualcomm.jpg
+  image: quic.jpg
   url: https://www.linaro.org/company/quic/
 - name: Redhat
   image: redhat.jpg
