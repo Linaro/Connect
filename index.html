@@ -168,32 +168,78 @@ jumbotron:
         </div>
     </div>
 </div>
-<div class="row content-row" id="connect-row">
-    <div class="owl-carousel owl-theme" id="connect-event-slider">
-        {% assign connect_events = site.data.connects %}
-        {% for event in connect_events %}
-        <a href="/resources/{{event.id | downcase }}" target="_blank">
-            <div class="item event-item">
-                <img class="event-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
-                data-src="/assets/images/content/{{event.placeholder}}" alt="{{event.long-name}} Image"/>
-                <div class="event-details-block">
-                    <h3>{{event.long-name}}</h3> 
-                    <span class="date start">
-                        {{event.start-date | date: "%A "}}{% assign d = event.start-date | date: "%-d" %} {% case d %} {% when '1' or '21' or
-                        '31' %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %}
-                        {{event.start-date | date: "%B, %Y"}}
-                    </span>
-                    -
-                    <span class="date end">
-                        {{event.end-date | date: "%A "}}{% assign d = event.end-date | date: "%-d" %} {% case d %} {% when '1' or '21' or '31'
-                        %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %} {{event.end-date
-                        | date: "%B , %Y"}}
-                    </span>   
+
+<div class="row content-row" id="previous-links">
+    <div class="container no-padding" style="margin-top:30px;">
+        <div class="row">
+            <div class="col-xs-12 text-center fly">
+                <h2>Connect Resources</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 fly">
+                <div class="block" style="background: linear-gradient(
+            rgba(0, 0, 0, 0.7), 
+            rgba(0, 0, 0, 0.7)
+        ), url(/assets/images/content/{{site.previous-connect-code | downcase }}-thumb.jpg);  background-size: cover; background-position-y: -100px;">
+                    <h4>{{site.previous-connect-code}} Photos</h4>
+                    <p>
+                        See our photos from Connect.
+                    </p>
+                    <a href="https://www.flickr.com/photos/linaroorg/sets/72157695573962940" class="btn btn-connect">View on Flickr</a>
                 </div>
             </div>
-        </a>
-        {% endfor %}
+            <div class="col-md-4 fly">
+                <div class="block" style="background: linear-gradient(
+            rgba(0, 0, 0, 0.7), 
+            rgba(0, 0, 0, 0.7)
+        ), url(/assets/images/content/{{site.previous-connect-code | downcase }}-thumb.jpg);  background-size: cover; background-position-y: -100px;">
+                    <h4>{{site.previous-connect-code}} Resources</h4>
+                    <p>
+                        View the {{site.previous-connect-code}} resources.
+                    </p>
+                    <a href="/resources/{{site.previous-connect-code | downcase }}/" class="btn btn-connect">View Resources</a>
+                </div>
+            </div>
+            <div class="col-md-4 fly">
+                <div class="block" style="background: linear-gradient(
+            rgba(0, 0, 0, 0.7), 
+            rgba(0, 0, 0, 0.7)
+        ), url(/assets/images/content/{{site.previous-connect-code | downcase }}-thumb.jpg);  background-size: cover; background-position-y: -100px;">
+                    <h4>{{site.previous-connect-code}} Opening Keynote</h4>
+                    <p>
+                        and announcments
+                    </p>
+                    <a href="/resources/{{site.previous-connect-code | downcase }}/sessions/{{site.previous-connect-code | downcase }}-100k/" class="btn btn-connect">Watch Keynote</a>
+                </div>
+            </div>
+        </div>
+        <div class="row" id="connect-row">
+            <div class="owl-carousel owl-theme" id="connect-event-slider">
+                {% assign connect_events = site.data.connects %}
+                {% for event in connect_events %}
+                <a href="/resources/{{event.id | downcase }}" target="_blank">
+                    <div class="item event-item">
+                        <img class="event-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                        data-src="/assets/images/content/{{event.placeholder}}" alt="{{event.long-name}} Image"/>
+                        <div class="event-details-block">
+                            <h3>{{event.long-name}}</h3> 
+                            <span class="date start">
+                                {{event.start-date | date: "%A "}}{% assign d = event.start-date | date: "%-d" %} {% case d %} {% when '1' or '21' or
+                                '31' %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %}
+                                {{event.start-date | date: "%B, %Y"}}
+                            </span>
+                            -
+                            <span class="date end">
+                                {{event.end-date | date: "%A "}}{% assign d = event.end-date | date: "%-d" %} {% case d %} {% when '1' or '21' or '31'
+                                %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %} {{event.end-date
+                                | date: "%B , %Y"}}
+                            </span>   
+                        </div>
+                    </div>
+                </a>
+                {% endfor %}
+            </div>
+        </div>
     </div>
 </div>
-{% include sections/previous-connect-links.html %}
-
