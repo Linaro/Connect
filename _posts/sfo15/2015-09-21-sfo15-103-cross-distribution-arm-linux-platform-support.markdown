@@ -9,14 +9,14 @@ categories:
 comments: false
 date: 2015-09-21 00:00:00
 excerpt: Regular session taking place at Connect for developers working on Linux Distributions
-  to share progress on ARM Linux platform support. Users are also welcome to share
-  their experiences using Linux distributions on ARM. The goal of the discussion is
+  to share progress on Arm Linux platform support. Users are also welcome to share
+  their experiences using Linux distributions on Arm. The goal of the discussion is
   to identify areas in which Linaro can help.
-featured_image_name: SFO15103CrossdistributionARMLinuxplatformsupport.jpg
+featured_image_name: SFO15103CrossdistributionArmLinuxplatformsupport.jpg
 image:
   featured: true
-  name: SFO15103CrossdistributionARMLinuxplatformsupport.jpg
-  path: /assets/images/featured-images/SFO15103CrossdistributionARMLinuxplatformsupport.jpg
+  name: SFO15103CrossdistributionArmLinuxplatformsupport.jpg
+  path: /assets/images/featured-images/SFO15103CrossdistributionArmLinuxplatformsupport.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-103-cross-distribution-arm-linux-platform-support/
 post_format:
@@ -30,19 +30,19 @@ speakers: Steve Mcintyre, Riku Voipio
 tags:
 - Community
 - Linux
-title: 'SFO15-103: Cross-distribution (ARM Linux platform support)'
+title: 'SFO15-103: Cross-distribution (Arm Linux platform support)'
 video_length: '41:01'
 video_thumbnail: None
 wordpress_id: 2790
 youtube_video_url: https://www.youtube.com/watch?v=YrwbxeGn-7o
 ---
 
-SFO15-103: Cross-distribution (ARM Linux platform support)
+SFO15-103: Cross-distribution (Arm Linux platform support)
 Speaker: Riku Voipio, Steve McIntyre
 Date: September 21, 2015
 
 ★ Session Description ★
-Regular session taking place at Connect for developers working on Linux Distributions to share progress on ARM Linux platform support. Users are also welcome to share their experiences using Linux distributions on ARM. The goal of the discussion is to identify areas in which Linaro can help.
+Regular session taking place at Connect for developers working on Linux Distributions to share progress on Arm Linux platform support. Users are also welcome to share their experiences using Linux distributions on Arm. The goal of the discussion is to identify areas in which Linaro can help.
 
 ★ Resources ★ 
 Video: https://www.youtube.com/watch?v=YrwbxeGn-7o

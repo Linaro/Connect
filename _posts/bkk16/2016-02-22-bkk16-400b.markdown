@@ -16,7 +16,7 @@ excerpt: 'The current Hadoop ecosystem is challenged and slowed by fragmented an
 
   The ODPi is a shared industry effort focused on build such standards and also promoting
   and advancing the state of Big Data technologies. Linaro is actively involved in
-  this effort and also to make sure ODPi is ARM compatible.
+  this effort and also to make sure ODPi is Arm compatible.
 
 
   This talk will go over some of specifications defined, Linaro''s contributions,
@@ -46,6 +46,6 @@ wordpress_id: 3362
 youtube_video_url: https://youtu.be/lS4MdCMVQkg
 ---
 
-The current Hadoop ecosystem is challenged and slowed by fragmented and duplicated efforts.  An industry standard is required that translates to immediate benefits that will increase stability, capabilities and compatibility among Hadoop distributions. Its also important to include an open data management core with emphasis on making it enterprise focused.  The ODPi is a shared industry effort focused on build such standards and also promoting and advancing the state of Big Data technologies. Linaro is actively involved in this effort and also to make sure ODPi is ARM compatible.  This talk will go over some of specifications defined, Linaro's contributions, Roadmap and a quick demo
+The current Hadoop ecosystem is challenged and slowed by fragmented and duplicated efforts.  An industry standard is required that translates to immediate benefits that will increase stability, capabilities and compatibility among Hadoop distributions. Its also important to include an open data management core with emphasis on making it enterprise focused.  The ODPi is a shared industry effort focused on build such standards and also promoting and advancing the state of Big Data technologies. Linaro is actively involved in this effort and also to make sure ODPi is Arm compatible.  This talk will go over some of specifications defined, Linaro's contributions, Roadmap and a quick demo
 
 Event Date: March 10, 2016

@@ -1,12 +1,12 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-17-Wednesday/LCU14-300.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-17-Wednesday/LCU14-300-+OpenStack+and+KVM+on+ARM+servers.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-17-Wednesday/LCU14-300-+OpenStack+and+KVM+on+Arm+servers.mp4
 author: connect
 categories:
 - lcu14
 comments: true
 date: 2015-06-30 17:08:31
-excerpt: Overview of Ubuntu for ARM Servers
+excerpt: Overview of Ubuntu for Arm Servers
 featured_image_name: LCU14-300.jpg
 image:
   featured: true
@@ -27,14 +27,14 @@ tags:
 - Enterprise Servers
 - lcu14
 - LCU14-300
-title: 'LCU14-300: OpenStack and KVM on ARM servers'
+title: 'LCU14-300: OpenStack and KVM on Arm servers'
 video_length: '26:20'
 video_thumbnail: None
 wordpress_id: 1537
 youtube_video_url: https://www.youtube.com/watch?v=WLtxQTsyWK8
 ---
 
-LCU14-300: OpenStack and KVM on ARM servers
+LCU14-300: OpenStack and KVM on Arm servers
 
 ---------------------------------------------------
 
@@ -44,7 +44,7 @@ Location: Grand Peninsula D, Hyatt Regency San Francisco Airport, Burlingame, CA
 ---------------------------------------------------
 
 ★ Session Summary ★
-Overview of Ubuntu for ARM Servers
+Overview of Ubuntu for Arm Servers
 ---------------------------------------------------
 
 ★ Resources ★

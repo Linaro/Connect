@@ -16,7 +16,7 @@ excerpt: "In areas such as automotive where faulty software could lead to a risk
   usage of it to be justified against a standard risk assessment schema, a process
   known as 'qualification'.\n \n In this presentation I will present:\n - Introduction
   to functional safety concepts\n - How these are applied to development tools\n -
-  ARM's experience in producing the ARM Compiler Qualification Kit and how we adapted
+  Arm's experience in producing the Arm Compiler Qualification Kit and how we adapted
   it to cover components derived from open source.\n \n The content assumes no prior
   knowledge of functional safety, the technical focus is on development process."
 featured_image_name: SFO17-204.jpg
@@ -55,7 +55,7 @@ In areas such as automotive where faulty software could lead to a risk to human 
  In this presentation I will present:
  - Introduction to functional safety concepts
  - How these are applied to development tools
- - ARM's experience in producing the ARM Compiler Qualification Kit and how we adapted it to cover components derived from open source.
+ - Arm's experience in producing the Arm Compiler Qualification Kit and how we adapted it to cover components derived from open source.
  
  The content assumes no prior knowledge of functional safety, the technical focus is on development process.
 ---------------------------------------------------

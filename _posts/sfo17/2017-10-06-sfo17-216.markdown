@@ -28,13 +28,13 @@ excerpt: 'Because all modern general-purpose CPUs support small-scale SIMD
 
   bytecode without committing to one of the target SIMD architectures
 
-  yet (currently ARM NEON (advanced SIMD), x86 SSE, and MIPS SIMD
+  yet (currently Arm NEON (advanced SIMD), x86 SSE, and MIPS SIMD
 
   Architecture). Furthermore the talk will present particular details of
 
-  deploying the vectorizing compiler on ARM platforms - its overall
+  deploying the vectorizing compiler on Arm platforms - its overall
 
-  impact on performance, some ARM specific considerations and
+  impact on performance, some Arm specific considerations and
 
   optimizations - and also will give an update on Linaro ART team''s
 
@@ -78,10 +78,10 @@ for the target Android device. This talk will discuss the general
 organization of the retargetable part of the vectorizer, which is
 capable of automatically finding and exploiting vector instructions in
 bytecode without committing to one of the target SIMD architectures
-yet (currently ARM NEON (advanced SIMD), x86 SSE, and MIPS SIMD
+yet (currently Arm NEON (advanced SIMD), x86 SSE, and MIPS SIMD
 Architecture). Furthermore the talk will present particular details of
-deploying the vectorizing compiler on ARM platforms - its overall
-impact on performance, some ARM specific considerations and
+deploying the vectorizing compiler on Arm platforms - its overall
+impact on performance, some Arm specific considerations and
 optimizations - and also will give an update on Linaro ART team's
 SIMD-related activities.
 ---------------------------------------------------

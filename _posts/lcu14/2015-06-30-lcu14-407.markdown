@@ -2,7 +2,7 @@
 author: connect
 comments: true
 date: 2015-06-30 17:07:52+00:00
-excerpt: 'All Linaro Android builds for ARMv8 AArch64 are going to be enabled for
+excerpt: 'All Linaro Android builds for Armv8 AArch64 are going to be enabled for
   SELinux from 14.08 on wards. This presentation is to share our knowledge and understanding
   on SELinux for Android, topics covered are : SELinux related kernel configs SELinux
   settings on init SE policy, how to read and create new policy Problems we met when
@@ -13,7 +13,7 @@ session_id: LCU14-407
 session_track: Android
 slug: lcu14-407
 speakers: YongQin Liu
-title: 'LCU14-407 : How to enable SELinux for Android on AOSP master for ARMv8'
+title: 'LCU14-407 : How to enable SELinux for Android on AOSP master for Armv8'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 1557

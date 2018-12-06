@@ -1,12 +1,12 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-17-Wednesday/LCU14-304.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-17-Wednesday/LCU14-304-+Red+Hat+Offering+for+ARM+servers.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-17-Wednesday/LCU14-304-+Red+Hat+Offering+for+Arm+servers.mp4
 author: connect
 categories:
 - lcu14
 comments: true
 date: 2015-06-30 17:09:15
-excerpt: Overview of Red Hat for ARM Servers
+excerpt: Overview of Red Hat for Arm Servers
 featured_image_name: LCU14-304.jpg
 image:
   featured: true
@@ -27,14 +27,14 @@ tags:
 - Jon Masters
 - lcu14
 - LCU14-304
-title: 'LCU14-304: Red Hat Offering for ARM servers'
+title: 'LCU14-304: Red Hat Offering for Arm servers'
 video_length: '13:11'
 video_thumbnail: None
 wordpress_id: 1541
 youtube_video_url: https://www.youtube.com/watch?v=8kvlg5GHqdw
 ---
 
-LCU14-304: Red Hat Offering for ARM servers
+LCU14-304: Red Hat Offering for Arm servers
 
 ---------------------------------------------------
 
@@ -44,7 +44,7 @@ Location: Grand Peninsula D, Hyatt Regency San Francisco Airport, Burlingame, CA
 ---------------------------------------------------
 
 ★ Session Summary ★
-Overview of Red Hat for ARM Servers
+Overview of Red Hat for Arm Servers
 ---------------------------------------------------
 
 ★ Resources ★

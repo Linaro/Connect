@@ -41,7 +41,7 @@ Speakers:  Yazen Ghannam, Steve Capper
 Date: September 22, 2015
 
 ★ Session Description ★
-LEG has been investigating and optimising the following enterprise storage software for 64-bit ARM: Ceph, HDFS, Swift, and the Linux kernel. This session will outline our findings and detail our
+LEG has been investigating and optimising the following enterprise storage software for 64-bit Arm: Ceph, HDFS, Swift, and the Linux kernel. This session will outline our findings and detail our
 optimisations to date.
 
 ★ Resources ★ 

@@ -28,6 +28,6 @@ wordpress_id: 2901
 youtube_video_url: https://www.youtube.com/watch?v=U3DVzL4Yrko
 ---
 
-16:30 – Linaro: OpenJDK on ARM, where we are today
+16:30 – Linaro: OpenJDK on Arm, where we are today
 Speaker: Ed Nevill, Senior Developer and Joseph Joyce, Intern Engineer
-Abstract: OpenJDK development on ARM
+Abstract: OpenJDK development on Arm

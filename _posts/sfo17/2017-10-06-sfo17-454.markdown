@@ -2,11 +2,11 @@
 author: connect
 comments: false
 date: 2017-10-06 16:56:11+00:00
-excerpt: Server chips based on the ARM v8A architecture deliver greater core density
+excerpt: Server chips based on the Arm v8A architecture deliver greater core density
   and lower power consumption for your datacenter. Azul’s Zulu build of OpenJDK is
   a widely-deployed open source Java platform that is freely available, fully conformant
-  to the Java SE specification, and supports the ARM v8 architecture. In this presentation
-  we’ll look at how using Zulu makes moving enterprise Java applications to the ARM-enabled
+  to the Java SE specification, and supports the Arm v8 architecture. In this presentation
+  we’ll look at how using Zulu makes moving enterprise Java applications to the Arm-enabled
   data center easy and cost efficient while delivering excellent performance.
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-454/
@@ -14,7 +14,7 @@ session_id: SFO17-454
 session_track: LEG
 slug: sfo17-454
 speakers: Simon Ritter
-title: 'ARM v8A and java 8: Shifting The Datacenter Balance - SFO17-454'
+title: 'Arm v8A and java 8: Shifting The Datacenter Balance - SFO17-454'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 6355
@@ -25,13 +25,13 @@ post_format:
 ---
 
 Session ID: SFO17-454
-Session Name: ARM v8A and java 8: Shifting The Datacenter Balance - SFO17-454
+Session Name: Arm v8A and java 8: Shifting The Datacenter Balance - SFO17-454
 Speaker: Simon Ritter
 Track: LEG
 
 
 ★ Session Summary ★
-Server chips based on the ARM v8A architecture deliver greater core density and lower power consumption for your datacenter. Azul’s Zulu build of OpenJDK is a widely-deployed open source Java platform that is freely available, fully conformant to the Java SE specification, and supports the ARM v8 architecture. In this presentation we’ll look at how using Zulu makes moving enterprise Java applications to the ARM-enabled data center easy and cost efficient while delivering excellent performance.
+Server chips based on the Arm v8A architecture deliver greater core density and lower power consumption for your datacenter. Azul’s Zulu build of OpenJDK is a widely-deployed open source Java platform that is freely available, fully conformant to the Java SE specification, and supports the Arm v8 architecture. In this presentation we’ll look at how using Zulu makes moving enterprise Java applications to the Arm-enabled data center easy and cost efficient while delivering excellent performance.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-454/

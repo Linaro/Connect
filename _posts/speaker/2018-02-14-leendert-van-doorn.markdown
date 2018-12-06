@@ -23,7 +23,7 @@ At scale everything changes. It is one thing to operate a datacenter of 10K node
 
 We are currently deploying our 6th generation platform designs and at each generation our insights improved and in some cases entirely changed leading to many specific requirements to silicon vendors, ODMs and system integrators. Over the years Microsoft effectively had to become its own OEM where we manage the entire system design from sheet metal, motherboards, firmware, hypervisors, operating systems, management stacks and corresponding higher-level services. We do this so we can control cost, quality, reduce complexity and drive our innovations.
 
-In this talk I will take you through some of the lessons learned when Microsoft Azure’s scale increased over the years. I will also present some of the rationale behind our ARM64 server plans and specifically the rational behind some of our ARM64 silicon requirements.
+In this talk I will take you through some of the lessons learned when Microsoft Azure’s scale increased over the years. I will also present some of the rationale behind our Arm64 server plans and specifically the rational behind some of our Arm64 silicon requirements.
 
 **Bio**
 

@@ -6,7 +6,7 @@ categories:
 - hkg15
 comments: true
 date: 2015-04-23 15:36:53
-excerpt: 'Power distribution automation and serial console controller on an ARM platform.
+excerpt: 'Power distribution automation and serial console controller on an Arm platform.
   OpenTAC is a community project using open hardware and free software. The hardware
   combines a PDU and serial console server in a single box and removes the forest
   of cables common to any developer desk or rack. Custom design PCB with full isolation
@@ -14,7 +14,7 @@ excerpt: 'Power distribution automation and serial console controller on an ARM 
   and per-device power consumption measurement. Implemented as a beaglebone-black
   cape and available in two variants, supporting 4 or 8 device channels respectively,
   to fit into a 1U case. Can be supplied with or without case. There is space inside
-  the 4 channel variant for a small ARM server (e.g. cubietruck) with a SATA drive,
+  the 4 channel variant for a small Arm server (e.g. cubietruck) with a SATA drive,
   making it ideal as a desktop or demonstrator unit. http://wiki.vero-apparatus.com/OpenTAC
 
 '
@@ -53,7 +53,7 @@ Speaker: Andy Simpkins, Neil Williams
 Date: February 10, 2015 
 --------------------------------------------------- 
 ★ Session Summary ★ 
-Power distribution automation and serial console controller on an ARM platform. OpenTAC is a community project using open hardware and free software. The hardware combines a PDU and serial console server in a single box and removes the forest of cables common to any developer desk or rack. Custom design PCB with full isolation of power and serial, support for 5V DC power, RS232 or UART serial, gigabit ethernet and per-device power consumption measurement. Implemented as a beaglebone-black cape and available in two variants, supporting 4 or 8 device channels respectively, to fit into a 1U case. Can be supplied with or without case. There is space inside the 4 channel variant for a small ARM server (e.g. cubietruck) with a SATA drive, making it ideal as a desktop or demonstrator unit. http://wiki.vero-apparatus.com/OpenTAC 
+Power distribution automation and serial console controller on an Arm platform. OpenTAC is a community project using open hardware and free software. The hardware combines a PDU and serial console server in a single box and removes the forest of cables common to any developer desk or rack. Custom design PCB with full isolation of power and serial, support for 5V DC power, RS232 or UART serial, gigabit ethernet and per-device power consumption measurement. Implemented as a beaglebone-black cape and available in two variants, supporting 4 or 8 device channels respectively, to fit into a 1U case. Can be supplied with or without case. There is space inside the 4 channel variant for a small Arm server (e.g. cubietruck) with a SATA drive, making it ideal as a desktop or demonstrator unit. http://wiki.vero-apparatus.com/OpenTAC 
 -------------------------------------------------- 
 ★ Resources ★ 
 Pathable: https://hkg15.pathable.com/meetings/250786 

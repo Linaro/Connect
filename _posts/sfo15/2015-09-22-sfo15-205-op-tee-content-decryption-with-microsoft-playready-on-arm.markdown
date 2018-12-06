@@ -1,8 +1,8 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-22-Tuesday/SFO15-205-  OP-TEE
-  Content Decryption with Microsoft PlayReady on ARM TrustZone.pdf
+  Content Decryption with Microsoft PlayReady on Arm TrustZone.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-22-Tuesday/SFO15-205
-  OP-TEE Content Decryption with Microsoft PlayReady on ARM.mp4
+  OP-TEE Content Decryption with Microsoft PlayReady on Arm.mp4
 author: connect
 categories:
 - sfo15
@@ -10,12 +10,12 @@ comments: false
 date: 2015-09-22 00:00:00
 excerpt: This presentation gives an overview of how various components of set-top
   software are integrated to provide a W3C EME solution employing a commercial DRM
-  integrated with an open source TEE running on ARM TrustZone.
-featured_image_name: SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonARM.jpg
+  integrated with an open source TEE running on Arm TrustZone.
+featured_image_name: SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonArm.jpg
 image:
   featured: true
-  name: SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonARM.jpg
-  path: /assets/images/featured-images/SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonARM.jpg
+  name: SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonArm.jpg
+  path: /assets/images/featured-images/SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonArm.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-205-op-tee-content-decryption-with-microsoft-playready-on-arm/
 post_format:
@@ -28,11 +28,11 @@ slug: sfo15-205-op-tee-content-decryption-with-microsoft-playready-on-arm
 speakers: Zoltan Kuscsik
 tags:
 - Security
-title: SFO15 205 OP TEE Content Decryption with Microsoft PlayReady on ARM
+title: SFO15 205 OP TEE Content Decryption with Microsoft PlayReady on Arm
 video_length: '34:07'
 video_thumbnail: None
 wordpress_id: 2818
 youtube_video_url: https://www.youtube.com/watch?v=defbtpsw6h8
 ---
 
-This presentation gives an overview of how various components of set-top software are integrated to provide a W3C EME solution employing a commercial DRM integrated with an open source TEE running on ARM TrustZone.
+This presentation gives an overview of how various components of set-top software are integrated to provide a W3C EME solution employing a commercial DRM integrated with an open source TEE running on Arm TrustZone.

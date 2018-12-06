@@ -68,4 +68,4 @@ Event Date:
 
 Speakers: Grant Likely
 
-Position: System Software and Open Source architect at ARM
+Position: System Software and Open Source architect at Arm

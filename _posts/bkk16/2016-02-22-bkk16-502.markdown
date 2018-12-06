@@ -6,7 +6,7 @@ comments: false
 date: 2016-02-22 17:20:55
 excerpt: 'Session will discuss the design and work done to get S2I working on the
   qualcomm 410c platform. In addition, session will provide the implementation details/requirements
-  to support suspend to idle on ARM platforms.
+  to support suspend to idle on Arm platforms.
 
   Show performance numbers for latency and power consumption for S2I vs S2R (if available).
   Highlight possible improvements to decrease latency for S2I.'
@@ -33,6 +33,6 @@ video_thumbnail: None
 wordpress_id: 3384
 ---
 
-Session will discuss the design and work done to get S2I working on the qualcomm 410c platform. In addition, session will provide the implementation details/requirements to support suspend to idle on ARM platforms. Show performance numbers for latency and power consumption for S2I vs S2R (if available). Highlight possible improvements to decrease latency for S2I.
+Session will discuss the design and work done to get S2I working on the qualcomm 410c platform. In addition, session will provide the implementation details/requirements to support suspend to idle on Arm platforms. Show performance numbers for latency and power consumption for S2I vs S2R (if available). Highlight possible improvements to decrease latency for S2I.
 
 Event Date: March 11, 2016

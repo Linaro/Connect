@@ -6,7 +6,7 @@ categories:
 - las16
 comments: false
 date: 2016-09-20 17:11:00
-excerpt: "Questions and conversation on ARM Mali GPU and associated drivers\n \n Note:
+excerpt: "Questions and conversation on Arm Mali GPU and associated drivers\n \n Note:
   this session will not be videotaped."
 featured_image_name: LAS16-414.png
 image:
@@ -22,19 +22,19 @@ session_track: None
 slideshare_presentation_url: None
 slug: las16-414
 speakers: Bill Fletcher, Guillaume Tucker
-title: 'LAS16-414: ARM Mali GPU Q&A Session'
+title: 'LAS16-414: Arm Mali GPU Q&A Session'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4029
 youtube_video_url: None
 ---
 
-LAS16-414: ARM Mali GPU Q&A Session
+LAS16-414: Arm Mali GPU Q&A Session
 Speakers: Bill Fletcher, Guillaume Tucker
 Date: September 29, 2016
 
 ★ Session Description ★
-Questions and conversation on ARM Mali GPU and associated drivers
+Questions and conversation on Arm Mali GPU and associated drivers
 
 Note: this session will not be videotaped.
 

@@ -6,7 +6,7 @@ categories:
 - sfo17
 comments: false
 date: 2017-10-06 16:55:31
-excerpt: "The ARM\u2019s System Control and Management Interface (SCMI) is a set of
+excerpt: "The Arm\u2019s System Control and Management Interface (SCMI) is a set of
   operating system-independent software interfaces that are used in system management
   to abstract power and other system management tasks from the APs. Consequent to
   the publication of this Platform Design Document (PDD), a suitable test suite is
@@ -14,7 +14,7 @@ excerpt: "The ARM\u2019s System Control and Management Interface (SCMI) is a set
   against this specification. In this session we provide an outline of the design
   considerations taken into account while developing this test suite and also explain
   the porting guidelines for any potential users of this test suite. Here we also
-  demonstrate the execution of this test suite run on Juno ARM Development Platform
+  demonstrate the execution of this test suite run on Juno Arm Development Platform
   (ADP) using LAVA."
 featured_image_name: SFO17-319.jpg
 image:
@@ -45,7 +45,7 @@ Speaker: Saul Romero
 Track: LMG
 
 ★ Session Summary ★
-The ARM’s System Control and Management Interface (SCMI) is a set of operating system-independent software interfaces that are used in system management to abstract power and other system management tasks from the APs. Consequent to the publication of this Platform Design Document (PDD), a suitable test suite is developed and made available for adopters to assure compliance of their implementation against this specification. In this session we provide an outline of the design considerations taken into account while developing this test suite and also explain the porting guidelines for any potential users of this test suite. Here we also demonstrate the execution of this test suite run on Juno ARM Development Platform (ADP) using LAVA.
+The Arm’s System Control and Management Interface (SCMI) is a set of operating system-independent software interfaces that are used in system management to abstract power and other system management tasks from the APs. Consequent to the publication of this Platform Design Document (PDD), a suitable test suite is developed and made available for adopters to assure compliance of their implementation against this specification. In this session we provide an outline of the design considerations taken into account while developing this test suite and also explain the porting guidelines for any potential users of this test suite. Here we also demonstrate the execution of this test suite run on Juno Arm Development Platform (ADP) using LAVA.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-319/
@@ -74,4 +74,4 @@ Event Date: 28 Sept 2017
 Speakers: Saul Romero
 
 Position: Senior Software Test Engineer at
-ARM
+Arm

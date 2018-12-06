@@ -18,7 +18,7 @@ session_id: None
 session_track: Keynote
 slug: sfo15-400k3-security-and-trust-in-a-mobile-world
 tags:
-- ARM
+- Arm
 - Linaro
 - Linux
 title: 'SFO15-400K3: Security and Trust in a Mobile World'

@@ -7,8 +7,8 @@ categories:
 comments: false
 date: 2017-10-06 16:56:32
 excerpt: This session provides an overview of the Embedded Base Boot Requirements
-  (EBBR) draft that ARM has created based on the community request. It is intended
-  for ARM embedded devices that want to take advantage of the UEFI technology to separate
+  (EBBR) draft that Arm has created based on the community request. It is intended
+  for Arm embedded devices that want to take advantage of the UEFI technology to separate
   the firmware and OS development while the underline implementation can use U-boot,
   coreboot, EDK2 or proprietary mechanisms.
 featured_image_name: SFO17-508.jpg
@@ -40,7 +40,7 @@ Speaker: Dong Wei
 Track: LITE
 
 ★ Session Summary ★
-This session provides an overview of the Embedded Base Boot Requirements (EBBR) draft that ARM has created based on the community request. It is intended for ARM embedded devices that want to take advantage of the UEFI technology to separate the firmware and OS development while the underline implementation can use U-boot, coreboot, EDK2 or proprietary mechanisms.
+This session provides an overview of the Embedded Base Boot Requirements (EBBR) draft that Arm has created based on the community request. It is intended for Arm embedded devices that want to take advantage of the UEFI technology to separate the firmware and OS development while the underline implementation can use U-boot, coreboot, EDK2 or proprietary mechanisms.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-508/

@@ -9,7 +9,7 @@ date: 2015-04-23 15:38:27
 excerpt: "CMEM is an API and kernel driver for managing one or more blocks of physically
   contiguous memory. It also provides address translation services (e.g. virtual to
   physical translation) and user-mode cache management APIs. \nSee : http://processors.wiki.ti.com/index.php/CMEM_Overview\nCMEM
-  allows TI to share buffers between user space (ARM) and the DSP (or other remote
+  allows TI to share buffers between user space (Arm) and the DSP (or other remote
   processors). For Keystone, we also need the ability to allocate large (> 2GB) buffers
   from CMA.\nIn addition to managing shared data buffers for media applications, CMEM
   is used by the networking stack to get physical addresses to program hardware registers

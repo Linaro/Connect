@@ -8,9 +8,9 @@ comments: false
 date: 2018-04-11 14:12:48
 excerpt: "In this talk, we will introduce the history and experience of processor
   customization and the evolution of Alibaba\u2019s infrastructure, including our
-  ARM64 processor evaluating technology, how ARM64 server brings the value to Alibaba
+  Arm64 processor evaluating technology, how Arm64 server brings the value to Alibaba
   based on the characteristics of applications. In the future, under the guidance
-  of the Alibaba Group's new retail strategy, ARM64 server will have a good opportunity
+  of the Alibaba Group's new retail strategy, Arm64 server will have a good opportunity
   at edge and cloud computing."
 featured_image_name: HKG18-305.png
 image:
@@ -25,7 +25,7 @@ session_id: HKG18-305
 session_track: Ecosystem Day
 slug: hkg18-305
 speakers: Not Available
-title: HKG18-305 - ARM64 Server Support for New Retail Strategy
+title: HKG18-305 - Arm64 Server Support for New Retail Strategy
 video_length: '31:06'
 video_thumbnail: None
 wordpress_id: 9168
@@ -33,13 +33,13 @@ youtube_video_url: https://www.youtube.com/watch?v=WQ9UNn5Orxg
 ---
 
 Session ID: HKG18-305
-Session Name: HKG18-305 - ARM64 Server Support for New Retail Strategy
+Session Name: HKG18-305 - Arm64 Server Support for New Retail Strategy
 Speaker: Not Available
 Track: Ecosystem Day
 
 
 ## Session Summary
-In this talk, we will introduce the history and experience of processor customization and the evolution of Alibaba’s infrastructure, including our ARM64 processor evaluating technology, how ARM64 server brings the value to Alibaba based on the characteristics of applications. In the future, under the guidance of the Alibaba Group's new retail strategy, ARM64 server will have a good opportunity at edge and cloud computing.
+In this talk, we will introduce the history and experience of processor customization and the evolution of Alibaba’s infrastructure, including our Arm64 processor evaluating technology, how Arm64 server brings the value to Alibaba based on the characteristics of applications. In the future, under the guidance of the Alibaba Group's new retail strategy, Arm64 server will have a good opportunity at edge and cloud computing.
 ---------------------------------------------------
 ## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-305/

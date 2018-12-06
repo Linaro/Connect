@@ -6,7 +6,7 @@ categories:
 - bud17
 comments: false
 date: 2017-02-28 12:05:56
-excerpt: A discussion on the needs of ARM based Automotive software
+excerpt: A discussion on the needs of Arm based Automotive software
 featured_image_name: BUD17-427.jpg
 image:
   featured: true
@@ -39,7 +39,7 @@ Track:
 
 
 ★ Session Summary ★
-A discussion on the needs of ARM based Automotive software
+A discussion on the needs of Arm based Automotive software
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-427/

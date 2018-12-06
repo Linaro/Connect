@@ -6,7 +6,7 @@ categories:
 - hkg18
 comments: false
 date: 2018-04-11 14:12:48
-excerpt: 'An overview of the trusted boot concept and firmware update on the ARMv8-M
+excerpt: 'An overview of the trusted boot concept and firmware update on the Armv8-M
   based platform and how MCUBoot acts as a BL2 bootloader for TF-M.
 
 
@@ -54,7 +54,7 @@ Track: LITE
 
 
 ## Session Summary
- An overview of the trusted boot concept and firmware update on the ARMv8-M based platform and how MCUBoot acts as a BL2 bootloader for TF-M.
+ An overview of the trusted boot concept and firmware update on the Armv8-M based platform and how MCUBoot acts as a BL2 bootloader for TF-M.
 
 Trusted Firmware M
 

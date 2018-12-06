@@ -23,19 +23,19 @@ tags:
 - hkg15
 - HKG15-400
 - Virtualization
-title: 'HKG15-400: Next steps in KVM enablement on ARM'
+title: 'HKG15-400: Next steps in KVM enablement on Arm'
 video_length: '50:36'
 video_thumbnail: None
 wordpress_id: 747
 youtube_video_url: https://www.youtube.com/watch?v=g8noeSpWVDY
 ---
 
-HKG15-400: Next steps in KVM enablement on ARM
+HKG15-400: Next steps in KVM enablement on Arm
 ---------------------------------------------------
 Date:  February 12, 2015
 ---------------------------------------------------
 ★ Session Summary ★
-Next steps in KVM enablement on ARM
+Next steps in KVM enablement on Arm
 --------------------------------------------------
 ★ Resources ★
 Pathable:  https://hkg15.pathable.com/meetings/250827 

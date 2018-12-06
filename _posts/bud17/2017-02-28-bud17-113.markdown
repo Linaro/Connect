@@ -17,8 +17,8 @@ excerpt: "\"Delivering a well working distribution is hard. There are a lot of d
   behavior is OpenQA. Using OpenQA we can automatically run tests that hard working
   QA people did manually in the old days. That way we have fast enough turnaround
   times to find and reject breaking changes\n \n This session shows how OpenQA works,
-  what pitfalls we had to make ARM work with OpenQA and what we're doing to improve
-  it for ARM specific use cases.\""
+  what pitfalls we had to make Arm work with OpenQA and what we're doing to improve
+  it for Arm specific use cases.\""
 featured_image_name: BUD17-113.jpg
 image:
   featured: true
@@ -38,6 +38,6 @@ video_thumbnail: None
 wordpress_id: 4626
 ---
 
-"Delivering a well working distribution is hard. There are a lot of different hardware platforms that need to be verified and the software stack is in a big flux during development phases. In rolling releases, this gets even worse, as nothing ever stands still.    The only sane answer to that problem are working Continuous Integration tests. The SUSE way to check whether any change breaks normal distribution behavior is OpenQA. Using OpenQA we can automatically run tests that hard working QA people did manually in the old days. That way we have fast enough turnaround times to find and reject breaking changes    This session shows how OpenQA works, what pitfalls we had to make ARM work with OpenQA and what we're doing to improve it for ARM specific use cases."
+"Delivering a well working distribution is hard. There are a lot of different hardware platforms that need to be verified and the software stack is in a big flux during development phases. In rolling releases, this gets even worse, as nothing ever stands still.    The only sane answer to that problem are working Continuous Integration tests. The SUSE way to check whether any change breaks normal distribution behavior is OpenQA. Using OpenQA we can automatically run tests that hard working QA people did manually in the old days. That way we have fast enough turnaround times to find and reject breaking changes    This session shows how OpenQA works, what pitfalls we had to make Arm work with OpenQA and what we're doing to improve it for Arm specific use cases."
 
 Event Date: March 7, 2017

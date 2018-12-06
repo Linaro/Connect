@@ -8,7 +8,7 @@ comments: false
 date: 2016-09-20 17:10:48
 excerpt: This presentation will give an overview of the suite of reference security
   solutions developed by LHG. The solutions all have OPTEE as the secure OS running
-  on ARM TrustZone integrated with DRMs such as Microsoft PlayReady and Google Widevine
+  on Arm TrustZone integrated with DRMs such as Microsoft PlayReady and Google Widevine
   on both Linux and Android platforms. The secure video path implementation strives
   to use common elements across Linux and Android based solutions.
 featured_image_name: LAS16-302.png
@@ -41,7 +41,7 @@ Speakers: Zoltan Kuscsik
 Date: September 28, 2016
 
 ★ Session Description ★
-This presentation will give an overview of the suite of reference security solutions developed by LHG. The solutions all have OPTEE as the secure OS running on ARM TrustZone integrated with DRMs such as Microsoft PlayReady and Google Widevine on both Linux and Android platforms. The secure video path implementation strives to use common elements across Linux and Android based solutions.
+This presentation will give an overview of the suite of reference security solutions developed by LHG. The solutions all have OPTEE as the secure OS running on Arm TrustZone integrated with DRMs such as Microsoft PlayReady and Google Widevine on both Linux and Android platforms. The secure video path implementation strives to use common elements across Linux and Android based solutions.
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-302

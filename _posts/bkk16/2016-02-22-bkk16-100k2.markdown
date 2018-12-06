@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-100K2.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Monday/BKK16-100K2%20Hennenhoefer%20ARM.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Monday/BKK16-100K2%20Hennenhoefer%20Arm.mp4
 author: connect
 categories: bkk16
 comments: false
@@ -20,7 +20,7 @@ slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59228134
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16100k2-arm-research-sensors-to-supercomputers
 slug: bkk16-100k2
 speakers: Eric Hennenhoefer
-title: 'BKK16-100K2 : Guest Keynote: Eric Hennenhoefer, VP ARM Research'
+title: 'BKK16-100K2 : Guest Keynote: Eric Hennenhoefer, VP Arm Research'
 video_length: '29:34'
 video_thumbnail: None
 wordpress_id: 3307

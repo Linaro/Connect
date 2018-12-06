@@ -22,11 +22,11 @@ tags:
 - hkg15
 - HKG15-200K2
 - Panel - discussion
-title: 'HKG15 : Hands-on lightning talk on ARM servers'
+title: 'HKG15 : Hands-on lightning talk on Arm servers'
 video_length: '10:16'
 video_thumbnail: None
 wordpress_id: 714
 youtube_video_url: https://www.youtube.com/watch?v=GCVcJWqoX2A
 ---
 
-Hands-on lightning talk on ARM servers
+Hands-on lightning talk on Arm servers

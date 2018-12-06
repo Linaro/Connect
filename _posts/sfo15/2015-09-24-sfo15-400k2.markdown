@@ -19,7 +19,7 @@ session_track: Keynote
 slug: sfo15-400k2
 speakers: Dneary
 tags:
-- ARM
+- Arm
 - Linaro
 - Linux
 title: 'SFO15-400K2 : Guest Keynote: Dave Neary, Redhat'

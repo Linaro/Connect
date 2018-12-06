@@ -13,7 +13,7 @@ session_track: Interview
 speakers:
 - company: Packet
   name: Ed Vielmetti
-title: Start using ARM Servers now with Ed Vielmetti of Packet
+title: Start using Arm Servers now with Ed Vielmetti of Packet
 youtube_video_url: https://www.youtube.com/watch?v=9STaDLfg_iA
 tag: interview
 ---

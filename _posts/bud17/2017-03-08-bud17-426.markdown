@@ -7,7 +7,7 @@ categories:
 comments: false
 date: 2017-03-08 15:48:33
 excerpt: This session will cover lessons learned in bringing up the Dragonboard and
-  other ARM devices.
+  other Arm devices.
 featured_image_name: BUD17-426.jpg
 image:
   featured: true
@@ -36,7 +36,7 @@ Track: 96Boards
 
 
 ★ Session Summary ★
-This session will cover lessons learned in bringing up the Dragonboard and other ARM devices.
+This session will cover lessons learned in bringing up the Dragonboard and other Arm devices.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-426/

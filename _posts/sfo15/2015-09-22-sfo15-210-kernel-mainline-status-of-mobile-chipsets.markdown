@@ -8,7 +8,7 @@ categories:
 - sfo15
 comments: false
 date: 2015-09-22 00:00:00
-excerpt: "In this session, Tim Bird will discuss the mainline status of several ARM
+excerpt: "In this session, Tim Bird will discuss the mainline status of several Arm
   SoCs used in mobile products. The average phone uses kernel software that is 3 years
   old, 20 versions behind mainline, and has 1 to 3 million lines of code out-of-tree.
   Tim will describe the \u201CDevice Mainlining\u201D project of the Linux Foundation
@@ -48,7 +48,7 @@ Speaker:  Tim Bird
 Date: September 22, 2015
 
 ★ Session Description ★
-In this session, Tim Bird will discuss the mainline status of several ARM SoCs used in mobile products. The average phone uses kernel software that is 3 years old, 20 versions behind mainline, and has 1 to 3 million lines of code out-of-tree. Tim will describe the “Device Mainlining” project of the Linux foundation CE Workgroup, which seeks to address this problem. Some of the activities of this project are: 
+In this session, Tim Bird will discuss the mainline status of several Arm SoCs used in mobile products. The average phone uses kernel software that is 3 years old, 20 versions behind mainline, and has 1 to 3 million lines of code out-of-tree. Tim will describe the “Device Mainlining” project of the Linux foundation CE Workgroup, which seeks to address this problem. Some of the activities of this project are: 
 * publishing tools for mainline analysis 
 * finding big areas where multiple vendors have code out of tree 
 * identifying institutional barriers to corporate developer mainlining, and addressing them through education, training, and collaboration 
