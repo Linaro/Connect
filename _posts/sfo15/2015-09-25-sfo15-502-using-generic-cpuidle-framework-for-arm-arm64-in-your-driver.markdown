@@ -10,11 +10,11 @@ comments: false
 date: 2015-09-25 00:00:00
 excerpt: With the new generic cpuidle framework for Arm/Arm64, it is much easier to
   write your platform-specific driver. Learn how in this tutorial.
-featured_image_name: SFO15502UsinggenericcpuidleframeworkforArmArm64inyourdriver.jpg
+featured_image_name: SFO15502UsinggenericcpuidleframeworkforARMARM64inyourdriver.jpg
 image:
   featured: true
-  name: SFO15502UsinggenericcpuidleframeworkforArmArm64inyourdriver.jpg
-  path: /assets/images/featured-images/SFO15502UsinggenericcpuidleframeworkforArmArm64inyourdriver.jpg
+  name: SFO15502UsinggenericcpuidleframeworkforARMARM64inyourdriver.jpg
+  path: /assets/images/featured-images/SFO15502UsinggenericcpuidleframeworkforARMARM64inyourdriver.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-502-using-generic-cpuidle-framework-for-arm-arm64-in-your-driver/
 post_format:

@@ -6,11 +6,11 @@ categories:
 - bud17
 comments: false
 date: 2017-04-19 13:09:53
-featured_image_name: BUD17DFSocionextSC2A11ArmServerSoC.jpg
+featured_image_name: BUD17DFSocionextSC2A11ARMServerSoC.jpg
 image:
   featured: true
-  name: BUD17DFSocionextSC2A11ArmServerSoC.jpg
-  path: /assets/images/featured-images/BUD17DFSocionextSC2A11ArmServerSoC.jpg
+  name: BUD17DFSocionextSC2A11ARMServerSoC.jpg
+  path: /assets/images/featured-images/BUD17DFSocionextSC2A11ARMServerSoC.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df-socionext-sc2a11-arm-server-soc/
 session_id: None

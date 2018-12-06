@@ -13,11 +13,11 @@ excerpt: Arm FDPIC toolset and kernel patches makes it possible to boot a mmu-le
   source change are needed to compiler the application (compared to the BFLAT model).
   The presentation will focus on the toolset structure and characteristics and give
   some insights on the FDPIC ABI.
-featured_image_name: SFO15406ArmFDPICtoolsetkernellibrariesforCortexMCortexRmmulesscores.jpg
+featured_image_name: SFO15406ARMFDPICtoolsetkernellibrariesforCortexMCortexRmmulesscores.jpg
 image:
   featured: true
-  name: SFO15406ArmFDPICtoolsetkernellibrariesforCortexMCortexRmmulesscores.jpg
-  path: /assets/images/featured-images/SFO15406ArmFDPICtoolsetkernellibrariesforCortexMCortexRmmulesscores.jpg
+  name: SFO15406ARMFDPICtoolsetkernellibrariesforCortexMCortexRmmulesscores.jpg
+  path: /assets/images/featured-images/SFO15406ARMFDPICtoolsetkernellibrariesforCortexMCortexRmmulesscores.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-406-arm-fdpic-toolset-kernel-libraries-for-cortex-m-cortex-r-mmuless-cores/
 post_format:

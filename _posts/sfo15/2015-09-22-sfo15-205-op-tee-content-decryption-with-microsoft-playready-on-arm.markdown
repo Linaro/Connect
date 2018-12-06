@@ -11,11 +11,11 @@ date: 2015-09-22 00:00:00
 excerpt: This presentation gives an overview of how various components of set-top
   software are integrated to provide a W3C EME solution employing a commercial DRM
   integrated with an open source TEE running on Arm TrustZone.
-featured_image_name: SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonArm.jpg
+featured_image_name: SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonARM.jpg
 image:
   featured: true
-  name: SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonArm.jpg
-  path: /assets/images/featured-images/SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonArm.jpg
+  name: SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonARM.jpg
+  path: /assets/images/featured-images/SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonARM.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-205-op-tee-content-decryption-with-microsoft-playready-on-arm/
 post_format:

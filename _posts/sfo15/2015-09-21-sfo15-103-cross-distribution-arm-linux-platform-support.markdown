@@ -12,11 +12,11 @@ excerpt: Regular session taking place at Connect for developers working on Linux
   to share progress on Arm Linux platform support. Users are also welcome to share
   their experiences using Linux distributions on Arm. The goal of the discussion is
   to identify areas in which Linaro can help.
-featured_image_name: SFO15103CrossdistributionArmLinuxplatformsupport.jpg
+featured_image_name: SFO15103CrossdistributionARMLinuxplatformsupport.jpg
 image:
   featured: true
-  name: SFO15103CrossdistributionArmLinuxplatformsupport.jpg
-  path: /assets/images/featured-images/SFO15103CrossdistributionArmLinuxplatformsupport.jpg
+  name: SFO15103CrossdistributionARMLinuxplatformsupport.jpg
+  path: /assets/images/featured-images/SFO15103CrossdistributionARMLinuxplatformsupport.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-103-cross-distribution-arm-linux-platform-support/
 post_format:
