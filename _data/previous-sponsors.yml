@@ -10,12 +10,12 @@
   type: sponsor
   image: arrow.jpg
   event: yvr18
-  class: p-t-20 p-b-20
   url: https://www.linaro.org/company/arrow/
 - name: Avnet
   type: sponsor 
   image: avnet.png
   event: yvr18
+  class: p-t-20 p-b-20
   url: https://www.linaro.org/company/avnet/
 - name: Canonical
   image: canonical.png
