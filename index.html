@@ -19,6 +19,29 @@ jumbotron:
         poster: /assets/images/content/bkk19-bg.jpg
     animation: fade
 ---
+<!-- Video Modal -->
+<div class="modal fade" id="connectPromoVideo" tabindex="-1" role="dialog" aria-labelledby="connectModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="connectModalLabel">Linaro Connect</h4>
+            </div>
+            <div class="modal-body">
+                <div class="col-xs-12 no-padding connect-video">
+                    <div class="wrapper">
+                        <div class="youtube" data-embed="06oC6Y76p2I">
+                            <div class="play-button"></div>
+                        </div>
+                    </div>            
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
 <div class="row flex-row upcoming-connect padded-row-30">
     <div class="container">
         <h3 class="home-text text-white">Join us in Bangkok, Thailand from April 1-5, 2019</h3> <a href="/register/" class="btn btn-linaro-home">Register</a>
@@ -51,7 +74,7 @@ jumbotron:
             {% for sponsor in site.data.previous-sponsors %}
                 <div class="col-xs-6 col-sm-3 sponsor-col">
                     <a href="{{sponsor.url}}">
-                        <img class="img-responsive lazyload" data-src="/assets/images/sponsors/{{sponsor.image}}"
+                        <img class="img-responsive lazyload {% if sponsor.class %}{{sponsor.class}}{% endif %}" data-src="/assets/images/sponsors/{{sponsor.image}}"
                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="{{sponsor.name}} logo"/>
                     </a>
                 </div>
@@ -91,6 +114,60 @@ jumbotron:
         </div>
     </div>
 </div>
+
+<div class="row content-row padded-row-30" id="social-media">
+    <div class="container text-center text-white">
+        <h3 class="text-white">Join us on social media using #bkk19</h3>
+        <div class="col-xs-6 col-sm-2">
+            <a href="https://www.linkedin.com/company/{{site.data.settings.linkedin_username}}">
+                <div class="social-media-block">
+                    <i class="fa fa-linkedin-square"></i>
+                    LinkedIn
+                </div>
+            </a>
+        </div>
+        <div class="col-xs-6 col-sm-2">
+            <a href="https://facebook.com/{{site.data.settings.facebook_username}}">
+                <div class="social-media-block">
+                    <i class="fa fa-facebook-square"></i>
+                    Facebook
+                </div>
+            </a>
+        </div>
+        <div class="col-xs-6 col-sm-2">
+            <a href="https://youtube.com/{{site.data.settings.youtube_username}}">  
+                <div class="social-media-block">
+                    <i class="fa fa-youtube-square"></i>
+                    YouTube
+                </div>
+            </a>
+        </div>
+        <div class="col-xs-6 col-sm-2">
+            <a href="https://twitter.com/{{site.data.settings.twitter_username}}">
+                <div class="social-media-block">
+                    <i class="fa fa-twitter-square"></i>
+                    Twitter
+                </div>
+            </a>
+        </div>
+        <div class="col-xs-6 col-sm-2">
+            <a href="https://instagram.com/{{site.data.settings.instagram_username}}">
+                <div class="social-media-block">
+                    <i class="fa fa-instagram"></i>
+                    Instagram
+                </div>
+            </a>
+        </div>
+        <div class="col-xs-6 col-sm-2">
+            <a href="https://www.linaro.org/blog/">
+                <div class="social-media-block">
+                    <i class="fa fa-edit"></i>
+                    Linaro Blog
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
 <div class="row content-row" id="connect-row">
     <div class="owl-carousel owl-theme" id="connect-event-slider">
         {% assign connect_events = site.data.connects %}
@@ -118,59 +195,5 @@ jumbotron:
         {% endfor %}
     </div>
 </div>
-<div class="row content-row padded-row-30" id="social-media">
-        <div class="container text-center text-white">
-            <h3 class="text-white">Join us on social media using #bkk19</h3>
-            <div class="col-xs-6 col-sm-2">
-                <a href="https://www.linkedin.com/company/{{site.data.settings.linkedin_username}}">
-                    <div class="social-media-block">
-                        <i class="fa fa-linkedin-square"></i>
-                        LinkedIn
-                    </div>
-                </a>
-            </div>
-            <div class="col-xs-6 col-sm-2">
-                <a href="https://facebook.com/{{site.data.settings.facebook_username}}">
-                    <div class="social-media-block">
-                        <i class="fa fa-facebook-square"></i>
-                        Facebook
-                    </div>
-                </a>
-            </div>
-            <div class="col-xs-6 col-sm-2">
-                <a href="https://youtube.com/{{site.data.settings.youtube_username}}">  
-                    <div class="social-media-block">
-                        <i class="fa fa-youtube-square"></i>
-                        YouTube
-                    </div>
-                </a>
-            </div>
-            <div class="col-xs-6 col-sm-2">
-                <a href="https://twitter.com/{{site.data.settings.twitter_username}}">
-                    <div class="social-media-block">
-                        <i class="fa fa-twitter-square"></i>
-                        Twitter
-                    </div>
-                </a>
-            </div>
-            <div class="col-xs-6 col-sm-2">
-                <a href="https://instagram.com/{{site.data.settings.instagram_username}}">
-                    <div class="social-media-block">
-                        <i class="fa fa-instagram"></i>
-                        Instagram
-                    </div>
-                </a>
-            </div>
-            <div class="col-xs-6 col-sm-2">
-                <a href="https://www.linaro.org/blog/">
-                    <div class="social-media-block">
-                        <i class="fa fa-edit"></i>
-                        Linaro Blog
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-
 {% include sections/previous-connect-links.html %}
 
