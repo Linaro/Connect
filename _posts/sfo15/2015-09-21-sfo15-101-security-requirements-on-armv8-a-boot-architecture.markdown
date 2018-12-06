@@ -14,11 +14,11 @@ excerpt: It's not easy, perhaps not possible, to establish a common boot archite
   and immediate security needs of the Armv8-A ecosystem. This is an opportunity for
   all interested attendees to meet and set the agenda for more specific discussions
   during the week.
-featured_image_name: SFO15101SecurityrequirementsonArmv8Abootarchitecture.jpg
+featured_image_name: SFO15101SecurityrequirementsonARMv8Abootarchitecture.jpg
 image:
   featured: true
-  name: SFO15101SecurityrequirementsonArmv8Abootarchitecture.jpg
-  path: /assets/images/featured-images/SFO15101SecurityrequirementsonArmv8Abootarchitecture.jpg
+  name: SFO15101SecurityrequirementsonARMv8Abootarchitecture.jpg
+  path: /assets/images/featured-images/SFO15101SecurityrequirementsonARMv8Abootarchitecture.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-101-security-requirements-on-armv8-a-boot-architecture/
 post_format:
