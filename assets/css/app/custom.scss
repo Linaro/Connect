@@ -644,15 +644,13 @@ span.line {
   position: relative;
   visibility: visible;
 }
-
 #current-sponsors .sponsor .img-responsive {
   height: 100px;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center center;
   transition: all 200ms ease;
   margin-bottom: 20px;
   margin-top: 20px;
+  object-fit: contain;
+  margin: auto;
 }
 #current-sponsors .sponsor {
   text-align: center;
