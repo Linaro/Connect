@@ -14,10 +14,8 @@ jumbotron:
     title: Bringing the Arm ecosystem together
     include: jumbotron-home.html
     description: ""
-    video: 
-        source: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromoVideo.mp4
-        poster: /assets/images/content/bkk19-bg.jpg
     animation: fade
+    background-image: /assets/content/bkk19-website-banner.jpg
 ---
 <!-- Video Modal -->
 <div class="modal fade" id="connectPromoVideo" tabindex="-1" role="dialog" aria-labelledby="connectModalLabel">
@@ -85,36 +83,6 @@ jumbotron:
         </p>
     </div>
 </div>
-<div class="row content-row" id="connect-row">
-    <div class="container">
-        <div class="owl-carousel owl-theme" id="connect-event-slider">
-            {% assign connect_events = site.data.connects %}
-            {% for event in connect_events %}
-            <a href="/resources/{{event.id | downcase }}" target="_blank">
-                <div class="item event-item">
-                    <img class="event-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
-                    data-src="/assets/images/content/{{event.placeholder}}" alt="{{event.long-name}} Image"/>
-                    <div class="event-details-block">
-                        <h3>{{event.long-name}}</h3> 
-                        <span class="date start">
-                            {{event.start-date | date: "%A "}}{% assign d = event.start-date | date: "%-d" %} {% case d %} {% when '1' or '21' or
-                            '31' %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %}
-                            {{event.start-date | date: "%B, %Y"}}
-                        </span>
-                        -
-                        <span class="date end">
-                            {{event.end-date | date: "%A "}}{% assign d = event.end-date | date: "%-d" %} {% case d %} {% when '1' or '21' or '31'
-                            %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %} {{event.end-date
-                            | date: "%B , %Y"}}
-                        </span>   
-                    </div>
-                </div>
-            </a>
-            {% endfor %}
-        </div>
-    </div>
-</div>
-
 <div class="row content-row padded-row-30" id="social-media">
     <div class="container text-center text-white">
         <h3 class="text-white">Join us on social media using #bkk19</h3>
