@@ -1,5 +1,5 @@
 ---
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lca14/videos/03-05-Wednesday/Wednesday+Keynote+-+%2527Profiling+server+workload+for+ARM64%2527+%2526+%2527Cole+Crawford+Keynote%2527.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lca14/videos/03-05-Wednesday/Wednesday+Keynote+-+%2527Profiling+server+workload+for+Arm64%2527+%2526+%2527Cole+Crawford+Keynote%2527.mp4
 author: connect
 categories:
 - lca14
@@ -21,9 +21,9 @@ slug: wednesday-keynote-profiling-server-workload-for-arm64-cole-crawford-keynot
 speakers: Xinwei Hu
 tags:
 - Keynote
-- 'LCA14-300K2: Profiling server workload for ARM64'
+- 'LCA14-300K2: Profiling server workload for Arm64'
 - Xinwei Hu
-title: Wednesday Keynote - 'Profiling server workload for ARM64' & 'Cole Crawford
+title: Wednesday Keynote - 'Profiling server workload for Arm64' & 'Cole Crawford
   Keynote'
 video_length: 01:07:02
 video_thumbnail: None

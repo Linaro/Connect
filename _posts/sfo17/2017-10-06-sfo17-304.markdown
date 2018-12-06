@@ -19,14 +19,14 @@ excerpt: "The current trend of IoT market segment is expected to enable and depl
   solution is the Root of Trust (RoT), which provides assurance of the integrity of
   the system software from: boot and runtime firmware, to OS loader, to the Kernel,
   to the user Applications. This poses a serious issue and challenges the one-size
-  fits all RoT solution model.\n \n ARM has taken on this challenge head on to come
+  fits all RoT solution model.\n \n Arm has taken on this challenge head on to come
   up with a microcontroller security architecture solution that caters to the various
-  IoT devices constraints, by offering ARM Cortex-M family of processors. ARM\u2019s
+  IoT devices constraints, by offering Arm Cortex-M family of processors. Arm\u2019s
   flexible and scalable architecture solution will allow an OEM or Silicon partner
   to adapt the base security architecture and to extend it in a seamless way. This
   caters to the requirements of different market segments through add-on hardware,
   firmware and software security enhancements. \n \n The session will present the
-  ARM\u2019s base security system and software architecture based on the upcoming
+  Arm\u2019s base security system and software architecture based on the upcoming
   Cortex V8M solution that will provide a hardware and firmware assisted Trust Zone
   based Security RoT aka TBSA-M for a range of markets, to include the highly constrained
   IoT devices. Furthermore, the session will discuss about how the base RoT capability
@@ -68,9 +68,9 @@ The current trend of IoT market segment is expected to enable and deploy about 5
 
 Problem Statement: Each use cases has its own IoT device constraints like: Cost, Power, Performance, memory footprint, security objectives, etc. The fundamental basis for any secure IoT and Embedded solution is the Root of Trust (RoT), which provides assurance of the integrity of the system software from: boot and runtime firmware, to OS loader, to the Kernel, to the user Applications. This poses a serious issue and challenges the one-size fits all RoT solution model.
 
-ARM has taken on this challenge head on to come up with a microcontroller security architecture solution that caters to the various IoT devices constraints, by offering ARM Cortex-M family of processors. ARM’s flexible and scalable architecture solution will allow an OEM or Silicon partner to adapt the base security architecture and to extend it in a seamless way. This caters to the requirements of different market segments through add-on hardware, firmware and software security enhancements.
+Arm has taken on this challenge head on to come up with a microcontroller security architecture solution that caters to the various IoT devices constraints, by offering Arm Cortex-M family of processors. Arm’s flexible and scalable architecture solution will allow an OEM or Silicon partner to adapt the base security architecture and to extend it in a seamless way. This caters to the requirements of different market segments through add-on hardware, firmware and software security enhancements.
 
-The session will present the ARM’s base security system and software architecture based on the upcoming Cortex V8M solution that will provide a hardware and firmware assisted Trust Zone based Security RoT aka TBSA-M for a range of markets, to include the highly constrained IoT devices. Furthermore, the session will discuss about how the base RoT capability can be extended in a seamless way with additional hardware assisted mechanisms to offer high levels of functionality and/or robustness for less constrained IoT devises with options like TBSA-M+, TBSA-HSM and platform level security software abstraction framework to decouple the chosen RoT capability for various OSes and the Cloud security frameworks.
+The session will present the Arm’s base security system and software architecture based on the upcoming Cortex V8M solution that will provide a hardware and firmware assisted Trust Zone based Security RoT aka TBSA-M for a range of markets, to include the highly constrained IoT devices. Furthermore, the session will discuss about how the base RoT capability can be extended in a seamless way with additional hardware assisted mechanisms to offer high levels of functionality and/or robustness for less constrained IoT devises with options like TBSA-M+, TBSA-HSM and platform level security software abstraction framework to decouple the chosen RoT capability for various OSes and the Cloud security frameworks.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-304/
@@ -98,4 +98,4 @@ Event Date: 27 Sept 2017
 
 Speakers: Suresh Marisetty
 
-Position: Emerging Segments Security & Systems Architecture at ARM Inc
+Position: Emerging Segments Security & Systems Architecture at Arm Inc

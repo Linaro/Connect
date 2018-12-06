@@ -1,14 +1,14 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-309%20-%20From%20Big%20Iron%20to%20IoT.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-309%20Server%20Ecosystem%20%20Xen%20on%20ARM%2C%20from%20Big%20Iron%20to%20IoT.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-309%20Server%20Ecosystem%20%20Xen%20on%20Arm%2C%20from%20Big%20Iron%20to%20IoT.mp4
 author: connect
 categories:
 - las16
 comments: false
 date: 2016-09-20 17:10:53
-excerpt: "Abstract Xen on ARM: The Xen port is exploiting this set of new hardware
-  capabilities to run guest VMs in the most efficient way possible while keeping ARM
-  specific changes to Xen and Linux to a minimum. ARM virtualization is set to be
+excerpt: "Abstract Xen on Arm: The Xen port is exploiting this set of new hardware
+  capabilities to run guest VMs in the most efficient way possible while keeping Arm
+  specific changes to Xen and Linux to a minimum. Arm virtualization is set to be
   increasingly relevant for the embedded industry in the coming years. \nWhilst Xen
   is best known as the technology powering the biggest clouds in the industry, it
   also a great fit for automotive deployments and mobile devices that can fit in your
@@ -16,10 +16,10 @@ excerpt: "Abstract Xen on ARM: The Xen port is exploiting this set of new hardwa
   platforms, not only by providing an excellent general purpose virtualization solution,
   but also by providing simple, yet effective ways to partition the platform into
   different security domains. \nThis presentation will include a brief overview of
-  the Xen on ARM architecture, covering the key design principles employed. The techniques
-  pioneered during the ARM port that allowed the Xen community to remove many legacy
-  components from the Xen code base, streamlining both the ARM and x86 implementations.
-  The talk will conclude explaining how to port Xen to any new ARM boards with the
+  the Xen on Arm architecture, covering the key design principles employed. The techniques
+  pioneered during the Arm port that allowed the Xen community to remove many legacy
+  components from the Xen code base, streamlining both the Arm and x86 implementations.
+  The talk will conclude explaining how to port Xen to any new Arm boards with the
   least amount of effort.\n\nAbstract LuaJIT: Lua is a scripting language commonly
   embedded by web\nfront-ends. Enabling Lua JIT compilation can reduce CPU usage when\nhandling
   huge amounts of network traffic. This year Linaro (and\nothers) started to work
@@ -44,7 +44,7 @@ slug: las16-309
 speakers: Ryan Arnold, Steve Capper, Julien Grall
 tags:
 - Enterprise
-title: 'LAS16-309: Server Ecosystem: Xen on ARM, from Big Iron to IoT & LuaJIT status
+title: 'LAS16-309: Server Ecosystem: Xen on Arm, from Big Iron to IoT & LuaJIT status
   on Aarch64'
 video_length: 00:00
 video_thumbnail: None
@@ -52,17 +52,17 @@ wordpress_id: 3833
 youtube_video_url: https://youtu.be/ZTtCHF4FoqM
 ---
 
-LAS16-309: Server Ecosystem: Xen on ARM, from Big Iron to IoT & LuaJIT status on Aarch64
+LAS16-309: Server Ecosystem: Xen on Arm, from Big Iron to IoT & LuaJIT status on Aarch64
 Speakers: Ryan Arnold, Steve Capper, Julien Grall, Zheng Xu
 Date: September 28, 2016
 
 Second presentation:  [http://www.slideshare.net/linaroorg/las16-309-lua-jit-arm64-port-status
-D](http://www.slideshare.net/linaroorg/las16-309-lua-jit-arm64-port-status)ownload second presentation; [ http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-309%20-%20LuaJIT%20ARM64%20Port%20-%20Status.pdf](http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-309%20-%20LuaJIT%20ARM64%20Port%20-%20Status.pdf)
+D](http://www.slideshare.net/linaroorg/las16-309-lua-jit-arm64-port-status)ownload second presentation; [ http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-309%20-%20LuaJIT%20Arm64%20Port%20-%20Status.pdf](http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-309%20-%20LuaJIT%20Arm64%20Port%20-%20Status.pdf)
 
 ★ Session Description ★
-Abstract Xen on ARM: The Xen port is exploiting this set of new hardware capabilities to run guest VMs in the most efficient way possible while keeping ARM specific changes to Xen and Linux to a minimum. ARM virtualization is set to be increasingly relevant for the embedded industry in the coming years.
+Abstract Xen on Arm: The Xen port is exploiting this set of new hardware capabilities to run guest VMs in the most efficient way possible while keeping Arm specific changes to Xen and Linux to a minimum. Arm virtualization is set to be increasingly relevant for the embedded industry in the coming years.
 Whilst Xen is best known as the technology powering the biggest clouds in the industry, it also a great fit for automotive deployments and mobile devices that can fit in your pocket. The talk will give concrete examples of the ways Xen can add value to your platforms, not only by providing an excellent general purpose virtualization solution, but also by providing simple, yet effective ways to partition the platform into different security domains.
-This presentation will include a brief overview of the Xen on ARM architecture, covering the key design principles employed. The techniques pioneered during the ARM port that allowed the Xen community to remove many legacy components from the Xen code base, streamlining both the ARM and x86 implementations. The talk will conclude explaining how to port Xen to any new ARM boards with the least amount of effort.
+This presentation will include a brief overview of the Xen on Arm architecture, covering the key design principles employed. The techniques pioneered during the Arm port that allowed the Xen community to remove many legacy components from the Xen code base, streamlining both the Arm and x86 implementations. The talk will conclude explaining how to port Xen to any new Arm boards with the least amount of effort.
 
 Abstract LuaJIT: Lua is a scripting language commonly embedded by web
 front-ends. Enabling Lua JIT compilation can reduce CPU usage when

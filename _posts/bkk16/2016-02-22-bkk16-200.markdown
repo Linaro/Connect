@@ -10,7 +10,7 @@ excerpt: "Trust and security are essential for the Internet of Things (IoT) to s
   and, as a consumer, you'll suffer with consequences if security is not baked into
   the system, at every level. With IoT, we now need to enable an appropriate level
   of security for sub $1 IoT designs done by people with little or no security expertise.
-  In this presentation, you will learn how ARM, Linaro and the ARM partnership are
+  In this presentation, you will learn how Arm, Linaro and the Arm partnership are
   securing these sub $1 IoT endpoints by providing device security, lifecycle security
   and communication security, without the need for in-depth security experts\u2026"
 featured_image_name: BKK16-200.jpg
@@ -23,7 +23,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-200/
 post_format:
 - Video
 session_id: BKK16-200
-session_track: ARM
+session_track: Arm
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59140785
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16200-designing-security-into-low-cost-io-t-systems
 slug: bkk16-200
@@ -40,6 +40,6 @@ wordpress_id: 3320
 youtube_video_url: https://www.youtube.com/watch?v=iEKlraP2XQs
 ---
 
-Trust and security are essential for the Internet of Things (IoT) to scale. As your product becomes successful, attraction will be high for it to be hacked and, as a consumer, you'll suffer with consequences if security is not baked into the system, at every level. With IoT, we now need to enable an appropriate level of security for sub $1 IoT designs done by people with little or no security expertise. In this presentation, you will learn how ARM, Linaro and the ARM partnership are securing these sub $1 IoT endpoints by providing device security, lifecycle security and communication security, without the need for in-depth security experts…
+Trust and security are essential for the Internet of Things (IoT) to scale. As your product becomes successful, attraction will be high for it to be hacked and, as a consumer, you'll suffer with consequences if security is not baked into the system, at every level. With IoT, we now need to enable an appropriate level of security for sub $1 IoT designs done by people with little or no security expertise. In this presentation, you will learn how Arm, Linaro and the Arm partnership are securing these sub $1 IoT endpoints by providing device security, lifecycle security and communication security, without the need for in-depth security experts…
 
 Event Date: March 8, 2016

@@ -7,7 +7,7 @@ categories:
 comments: false
 date: 2018-04-11 14:14:39
 excerpt: OpenHPC is slowly moving to Ansible, but with radically different deployments
-  (x86 vs ARM, different components, network topology/technology, etc), we need to
+  (x86 vs Arm, different components, network topology/technology, etc), we need to
   find the right balance between what stays in OpenHPC and what's private, as well
   as how to update our auto-generated documents from Ansible rules.
 featured_image_name: HKG18-419.png
@@ -39,7 +39,7 @@ Track: Enterprise
 
 
 ## Session Summary
-OpenHPC is slowly moving to Ansible, but with radically different deployments (x86 vs ARM, different components, network topology/technology, etc), we need to find the right balance between what stays in OpenHPC and what's private, as well as how to update our auto-generated documents from Ansible rules.
+OpenHPC is slowly moving to Ansible, but with radically different deployments (x86 vs Arm, different components, network topology/technology, etc), we need to find the right balance between what stays in OpenHPC and what's private, as well as how to update our auto-generated documents from Ansible rules.
 ---------------------------------------------------
 ## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-419/

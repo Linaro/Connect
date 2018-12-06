@@ -22,7 +22,7 @@ wordpress_id: 3714
 
 
 
-The TianoCore project hosts EDK II, an open source implementation of the Unified Extensible Firmware Interface (UEFI). EDK II has become the defacto UEFI implementation for ARM and Intel platforms, expanding standards based firmware across multiple architectures. This keynote will provide an update on the current status of the TianoCore project, plans for future improvements, and a discussion of why firmware is critical in today’s digital ecosystem.
+The TianoCore project hosts EDK II, an open source implementation of the Unified Extensible Firmware Interface (UEFI). EDK II has become the defacto UEFI implementation for Arm and Intel platforms, expanding standards based firmware across multiple architectures. This keynote will provide an update on the current status of the TianoCore project, plans for future improvements, and a discussion of why firmware is critical in today’s digital ecosystem.
 
 
 

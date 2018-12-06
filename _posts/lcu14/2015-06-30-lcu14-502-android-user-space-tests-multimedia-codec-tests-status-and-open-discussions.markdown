@@ -13,7 +13,7 @@ excerpt: 'Android provides CTS - Compatibility Test Suite, written in java and r
 
 
   In this discussion, Ashok will cover recent work on multimedia codec tests for AArch64
-  done by ARM and Linaro, provide a quick overview on current Android user space tests,
+  done by Arm and Linaro, provide a quick overview on current Android user space tests,
   being run as part of Linaro''s monthly release. This will be followed by an open
   discussio'
 featured_image_name: LCU14-502.jpg
@@ -54,7 +54,7 @@ Location: Grand Peninsula B, Hyatt Regency San Francisco Airport, Burlingame, CA
 ★ Session Summary ★
 Android provides CTS - Compatibility Test Suite, written in java and run to verify the Android system. However Android has limited low-level tests, typically needed to port, benchmark and optimize components, in isolation. There is a need to create, enhance, share and deploy such user-space tests.
 
-In this discussion, Ashok will cover recent work on multimedia codec tests for AArch64 done by ARM and Linaro, provide a quick overview on current Android user space tests, being run as part of Linaro's monthly release. This will be followed by an open discussio
+In this discussion, Ashok will cover recent work on multimedia codec tests for AArch64 done by Arm and Linaro, provide a quick overview on current Android user space tests, being run as part of Linaro's monthly release. This will be followed by an open discussio
 ---------------------------------------------------
 
 ★ Resources ★

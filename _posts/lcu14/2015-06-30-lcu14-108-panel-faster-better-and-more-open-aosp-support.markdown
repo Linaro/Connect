@@ -5,7 +5,7 @@ categories:
 - lcu14
 comments: true
 date: 2015-06-30 17:11:18
-excerpt: 'The ARM ecosystem is large and still growing, with Linaro a key focus for
+excerpt: 'The Arm ecosystem is large and still growing, with Linaro a key focus for
   open source collaboration and the Android Open Source Project one of the most important
   projects we all work with.
 
@@ -14,7 +14,7 @@ excerpt: 'The ARM ecosystem is large and still growing, with Linaro a key focus 
   right patches, of the right quality and at the right time to improve both Android
   and the products and applications that use it ?
 
-  The ARM ecosystem is large and still growing, with Linaro a key focus for open source
+  The Arm ecosystem is large and still growing, with Linaro a key focus for open source
   collaboration and the Android Open Source Project one of the most important projects
   we all work with.
 
@@ -23,7 +23,7 @@ excerpt: 'The ARM ecosystem is large and still growing, with Linaro a key focus 
   right patches, of the right quality and at the right time to improve both Android
   and the products and applications that use it ?
 
-  The ARM ecosystem is large and still growing, with Linaro a key focus for open source
+  The Arm ecosystem is large and still growing, with Linaro a key focus for open source
   collaboration and the Android Open Source Project one of the most important projects
   we all work with.
 
@@ -70,13 +70,13 @@ Location: Grand Peninsula D, Hyatt Regency San Francisco Airport, Burlingame, CA
 ---------------------------------------------------
 
 ★ Session Summary ★
-The ARM ecosystem is large and still growing, with Linaro a key focus for open source collaboration and the Android Open Source Project one of the most important projects we all work with.
+The Arm ecosystem is large and still growing, with Linaro a key focus for open source collaboration and the Android Open Source Project one of the most important projects we all work with.
 
 What practical steps can the members of the ecosystem take to produce more of the right patches, of the right quality and at the right time to improve both Android and the products and applications that use it ?
-The ARM ecosystem is large and still growing, with Linaro a key focus for open source collaboration and the Android Open Source Project one of the most important projects we all work with.
+The Arm ecosystem is large and still growing, with Linaro a key focus for open source collaboration and the Android Open Source Project one of the most important projects we all work with.
 
 What practical steps can the members of the ecosystem take to produce more of the right patches, of the right quality and at the right time to improve both Android and the products and applications that use it ?
-The ARM ecosystem is large and still growing, with Linaro a key focus for open source collaboration and the Android Open Source Project one of the most important projects we all work with.
+The Arm ecosystem is large and still growing, with Linaro a key focus for open source collaboration and the Android Open Source Project one of the most important projects we all work with.
 
 What practical steps can the members of the ecosystem take to produce more of the right patches, of the right quality and at the right time to improve both Android and the products and applications that use it ?
 

@@ -35,7 +35,7 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15200k3-john
 slug: sfo15-200k3-the-web-and-digital-rights-management
 speakers: John Simmons
 tags:
-- ARM
+- Arm
 - Keynote
 - Linaro
 - Linux

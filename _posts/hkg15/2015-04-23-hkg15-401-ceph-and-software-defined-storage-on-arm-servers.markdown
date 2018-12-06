@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-12-Thursday/HKG15-401.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-12-Thursday/HKG15-401+Ceph+and+Software+Defined+Storage+on+ARM+servers.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-12-Thursday/HKG15-401+Ceph+and+Software+Defined+Storage+on+Arm+servers.mp4
 author: connect
 categories:
 - hkg15
@@ -28,14 +28,14 @@ tags:
 - HKG15-401
 - Steve Capper
 - Yazen Ghannam
-title: HKG15-401 Ceph and Software Defined Storage on ARM servers
+title: HKG15-401 Ceph and Software Defined Storage on Arm servers
 video_length: '33:25'
 video_thumbnail: None
 wordpress_id: 748
 youtube_video_url: https://www.youtube.com/watch?v=RdZojLL7ttk
 ---
 
-HKG15-401: Ceph and Software Defined Storage on ARM servers 
+HKG15-401: Ceph and Software Defined Storage on Arm servers 
 --------------------------------------------------- 
 Speaker: Yazen Ghannam Steve Capper 
 Date: February 12, 2015 

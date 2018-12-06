@@ -67,7 +67,7 @@ rgba(0, 0, 0, 0.7)
 
 ### Collaborate & Learn
 
-Collaborate with the engineers leading open source software development in the ARM ecosystem, have in-depth technical conversations about real world issues and solutions, and attend how-to training sessions about the latest ARM software developments.
+Collaborate with the engineers leading open source software development in the Arm ecosystem, have in-depth technical conversations about real world issues and solutions, and attend how-to training sessions about the latest Arm software developments.
 
 </div>
 </div>

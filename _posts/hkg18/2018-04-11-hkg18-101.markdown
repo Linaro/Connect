@@ -23,14 +23,14 @@ session_id: HKG18-101
 session_track: Mobile
 slug: hkg18-101
 speakers: Dong Wei
-title: HKG18-101 - ARM EBBR (TSC sponsored BoF)
+title: HKG18-101 - Arm EBBR (TSC sponsored BoF)
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 8690
 ---
 
 Session ID: HKG18-101
-Session Name: HKG18-101 - ARM EBBR (TSC sponsored BoF)
+Session Name: HKG18-101 - Arm EBBR (TSC sponsored BoF)
 Speaker: Dong Wei
 Track: Mobile
 

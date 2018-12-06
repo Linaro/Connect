@@ -1,17 +1,17 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-215-%20OpenGPU.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-215%20-%20A%20Functional%20Open%20GPU%20Upon%20ARM.mp4
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-215%20-%20A%20Functional%20Open%20GPU%20Upon%20Arm.mp4
 author: connect
 categories:
 - sfo17
 comments: false
 date: 2017-10-06 16:54:39
 excerpt: 'GPGPUs (General Purpose Graphics Processing Unit) are becoming a relevant
-  functional block on SoCs, particularly on the ARM ecosystem. Extracting full performance
+  functional block on SoCs, particularly on the Arm ecosystem. Extracting full performance
   of a GPU is now becoming a combination of well integrated and optimized software
   and hardware. Motivated by that, there are many open GPU initiatives around the
   world using FPGAs, but most (if not all) of these are on Intel platforms. This project
-  aims to present an open GPU based on a FPGA using the ARM Instruction Set. The driver
+  aims to present an open GPU based on a FPGA using the Arm Instruction Set. The driver
   platform adopted was the well known MESA 3D (www.mesa3d.org). We will describe the
   co-design approach to designing the OpenGPU. A fully functional hardware and software
   implementation of the OpenGPU working on a range of OpenGL applications ported by
@@ -34,7 +34,7 @@ slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80525877
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/a-functional-open-gpu-upon-arm-sfo17215
 slug: sfo17-215
 speakers: Fabricio Toloczko
-title: A Functional Open GPU Upon ARM - SFO17-215
+title: A Functional Open GPU Upon Arm - SFO17-215
 video_length: '16:59'
 video_thumbnail: None
 wordpress_id: 5984
@@ -42,13 +42,13 @@ youtube_video_url: https://www.youtube.com/watch?v=OI7F_ra-H3E
 ---
 
 Session ID: SFO17-215
-Session Name: A Functional Open GPU Upon ARM - SFO17-215
+Session Name: A Functional Open GPU Upon Arm - SFO17-215
 Speaker: Fabricio Toloczko
 Track: LITE
 
 
 ★ Session Summary ★
-GPGPUs (General Purpose Graphics Processing Unit) are becoming a relevant functional block on SoCs, particularly on the ARM ecosystem. Extracting full performance of a GPU is now becoming a combination of well integrated and optimized software and hardware. Motivated by that, there are many open GPU initiatives around the world using FPGAs, but most (if not all) of these are on Intel platforms. This project aims to present an open GPU based on a FPGA using the ARM Instruction Set. The driver platform adopted was the well known MESA 3D (www.mesa3d.org). We will describe the co-design approach to designing the OpenGPU. A fully functional hardware and software implementation of the OpenGPU working on a range of OpenGL applications ported by Linaro will be shown. On the fly we will change drivers between: software model only, native software and hardware (OpenGPU) on FPGA, to see its performance impact. The engineers that implemented this system will be at the session to support detailed technical questions.
+GPGPUs (General Purpose Graphics Processing Unit) are becoming a relevant functional block on SoCs, particularly on the Arm ecosystem. Extracting full performance of a GPU is now becoming a combination of well integrated and optimized software and hardware. Motivated by that, there are many open GPU initiatives around the world using FPGAs, but most (if not all) of these are on Intel platforms. This project aims to present an open GPU based on a FPGA using the Arm Instruction Set. The driver platform adopted was the well known MESA 3D (www.mesa3d.org). We will describe the co-design approach to designing the OpenGPU. A fully functional hardware and software implementation of the OpenGPU working on a range of OpenGL applications ported by Linaro will be shown. On the fly we will change drivers between: software model only, native software and hardware (OpenGPU) on FPGA, to see its performance impact. The engineers that implemented this system will be at the session to support detailed technical questions.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-215/

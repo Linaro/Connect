@@ -4,7 +4,7 @@ author: connect
 categories: bkk16
 comments: false
 date: 2016-02-22 17:20:49
-excerpt: 'ARM server hardware will be shipping in 2016. An incredible amount of work
+excerpt: 'Arm server hardware will be shipping in 2016. An incredible amount of work
   has been done to get this far -- defining and implementing industry standards used
   by servers, development and testing of SoCs, and all sorts of Linux kernel work.
   So, how do we make sure we meet all these industry standards?
@@ -45,6 +45,6 @@ wordpress_id: 3361
 youtube_video_url: https://youtu.be/EYV6Rb11QBI
 ---
 
-ARM server hardware will be shipping in 2016. An incredible amount of work has been done to get this far -- defining and implementing industry standards used by servers, development and testing of SoCs, and all sorts of Linux kernel work. So, how do we make sure we meet all these industry standards?  To a great extent, we've relied on magical thinking so far. That works, but only for so long. LuvOS and FWTS were created in order to catch many of the problems users have found; in this presentation, we describe how we have started extending FWTS to check for standards compliance, specifically ACPI and the SBBR, and how we can use LuvOS to run FWTS and other test suites so that we can rely on hard data, and not just wishful thinking.
+Arm server hardware will be shipping in 2016. An incredible amount of work has been done to get this far -- defining and implementing industry standards used by servers, development and testing of SoCs, and all sorts of Linux kernel work. So, how do we make sure we meet all these industry standards?  To a great extent, we've relied on magical thinking so far. That works, but only for so long. LuvOS and FWTS were created in order to catch many of the problems users have found; in this presentation, we describe how we have started extending FWTS to check for standards compliance, specifically ACPI and the SBBR, and how we can use LuvOS to run FWTS and other test suites so that we can rely on hard data, and not just wishful thinking.
 
 Event Date: March 10, 2016

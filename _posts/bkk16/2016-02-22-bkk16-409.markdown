@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-409.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Thursday/BKK16-409%20VOSYSwitch%20port%20to%20ARMv8%20Platforms%20and%20ODP%20integration.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Thursday/BKK16-409%20VOSYSwitch%20port%20to%20Armv8%20Platforms%20and%20ODP%20integration.mp4
 author: connect
 categories: bkk16
 comments: false
@@ -8,7 +8,7 @@ date: 2016-02-22 17:20:54
 excerpt: Virtual Open Systems has developed VOSYSwitch, a high-performance user space
   networking virtual switch solution enabling NFV, based on the open source packet
   processing framework SnabbSwitch. In this talk, the experience of porting VOSYSwitch
-  from x86 to ARMv8 will be shared, along with the integration of ODP as a driver
+  from x86 to Armv8 will be shared, along with the integration of ODP as a driver
   layer for the available hardware resources. In addition to this presentation, a
   live demonstration will showcase chained VNFs connected through VOSYSwitch, where
   an OpenFastPath web server is implemented behind an ODP enabled packet filtering
@@ -37,6 +37,6 @@ wordpress_id: 3375
 youtube_video_url: https://youtu.be/m1FjILT4YWA
 ---
 
-Virtual Open Systems has developed VOSYSwitch, a high-performance user space networking virtual switch solution enabling NFV, based on the open source packet processing framework SnabbSwitch. In this talk, the experience of porting VOSYSwitch from x86 to ARMv8 will be shared, along with the integration of ODP as a driver layer for the available hardware resources. In addition to this presentation, a live demonstration will showcase chained VNFs connected through VOSYSwitch, where an OpenFastPath web server is implemented behind an ODP enabled packet filtering firewall. The targeted platforms are Freescale (NXP) LS2085A and Cavium's ThunderX.
+Virtual Open Systems has developed VOSYSwitch, a high-performance user space networking virtual switch solution enabling NFV, based on the open source packet processing framework SnabbSwitch. In this talk, the experience of porting VOSYSwitch from x86 to Armv8 will be shared, along with the integration of ODP as a driver layer for the available hardware resources. In addition to this presentation, a live demonstration will showcase chained VNFs connected through VOSYSwitch, where an OpenFastPath web server is implemented behind an ODP enabled packet filtering firewall. The targeted platforms are Freescale (NXP) LS2085A and Cavium's ThunderX.
 
 Event Date: March 10, 2016

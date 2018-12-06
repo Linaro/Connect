@@ -16,10 +16,10 @@ title: Jakob Blomer
 wordpress_id: 4481
 ---
 
-**Title: High Energy Physics and ARMv8 64-bit? Investigating The Future of Computing at CERN**
+**Title: High Energy Physics and Armv8 64-bit? Investigating The Future of Computing at CERN**
 **Date: Wednesday, March 8**
 **Time: 9.10 – 9.50**
-Around the year 2000, the convergence on Linux and commodity x86_64 processors provided a homogeneous scientific computing platform which enabled the construction of the Worldwide LHC Computing Grid (WLCG) for LHC data processing. This allowed the High Energy Physics (HEP) community to use a homogeneous software model utilizing the x86_64 architecture. LHC experiments at CERN, in particular ATLAS and CMS, started investigating ARMv8 64-bit (AArch64) architecture for HEP needs. A journey which started in 2013. The LHC community faces a great challenge regarding computing needs in 10 years and has started exploring public clouds, volunteer computing (e.g., LHC@home) and HPC facilities to increase peak computation capacity. This talk will contain information about future (a timeline of 10 years) computation needs for LHC experiments and the more recent progress done by ATLAS, CernVM and CMS teams on using ARMv8 64-bit/AArch64.
+Around the year 2000, the convergence on Linux and commodity x86_64 processors provided a homogeneous scientific computing platform which enabled the construction of the Worldwide LHC Computing Grid (WLCG) for LHC data processing. This allowed the High Energy Physics (HEP) community to use a homogeneous software model utilizing the x86_64 architecture. LHC experiments at CERN, in particular ATLAS and CMS, started investigating Armv8 64-bit (AArch64) architecture for HEP needs. A journey which started in 2013. The LHC community faces a great challenge regarding computing needs in 10 years and has started exploring public clouds, volunteer computing (e.g., LHC@home) and HPC facilities to increase peak computation capacity. This talk will contain information about future (a timeline of 10 years) computation needs for LHC experiments and the more recent progress done by ATLAS, CernVM and CMS teams on using Armv8 64-bit/AArch64.
 
 
 

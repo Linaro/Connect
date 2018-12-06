@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-310%20-%20Introducing%20LLDB%20for%20Linux%20on%20Arm%20and%20AArch64.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-310%20Introducing%20LLDB%20for%20Linux%20on%20ARM%20and%20AArch64.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-310%20Introducing%20LLDB%20for%20Linux%20on%20Arm%20and%20AArch64.mp4
 author: connect
 categories:
 - bud17
@@ -27,7 +27,7 @@ slug: bud17-310
 speakers: Omair Javaid
 tags:
 - AArch64
-- ARM
+- Arm
 - LLDB
 - Toolchain
 title: Introducing LLDB for linux on Arm and AArch64 - BUD17-310
@@ -60,7 +60,7 @@ Erzsébet krt. 43-49,
 1073 Hungary
 
 ---------------------------------------------------
-Keyword: toolchain, AArch64, LLDB, ARM
+Keyword: toolchain, AArch64, LLDB, Arm
 http://www.linaro.org
 http://connect.linaro.org
 ---------------------------------------------------

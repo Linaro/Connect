@@ -12,68 +12,54 @@ featured-images:
 jumbotron:
     image: /assets/images/content/bkk19-vertical-white.png
     title: Bringing the Arm ecosystem together
+    include: jumbotron-home.html
     description: ""
-    background-image: /assets/images/content/bkk19-website-banner.jpg
-    animation: fade
+    background-image: /assets/content/bkk19-website-banner.jpg
 ---
-<div class="row flex-row intro-row" id="content-container">
-    <div class="col-xs-12 col-sm-4 no-padding connect-video">
-        <div class="wrapper">
-            <div class="youtube" data-embed="06oC6Y76p2I">
-                <div class="play-button"></div>
+<!-- Video Modal -->
+<div class="modal fade" id="connectPromoVideo" tabindex="-1" role="dialog" aria-labelledby="connectModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="connectModalLabel">Linaro Connect</h4>
             </div>
-        </div>            
-    </div>
-    <div class="col-xs-12 col-sm-8 no-padding about-connect flex-col">
-        <p>
-            Every six months, leading hardware and software players in the Arm ecosystem come together at Linaro Connect to solve problems, identify issues and plan existing and future engineering collaboration. 
-        </p>
-        <p>
-            For a week, attendees enjoy a mix of industry keynotes, engineering discussions and collaborative hacking sessions. If you are interested in open source software development for Linux, tools and the various vertical segment ecosystems that use Arm processors, then this is the place to be.
-        </p>
-        <p>
-            The next Linaro Connect will be in Bangkok, Thailand from April 1-5, 2019.
-        </p>
-        <p id="buttons">
-            <a href="/about/" class="btn btn-linaro-home fly" >Learn More</a>
-            <a href="/register/" class="btn btn-linaro-home fly" >Register</a>
-        </p>
-    </div>
-</div>
-<div class="row" id="connect-row">
-    <div class="owl-carousel owl-theme" id="connect-event-slider">
-        {% assign connect_events = site.data.connects %}
-        {% for event in connect_events %}
-        <a href="/resources/{{event.id | downcase }}" target="_blank">
-            <div class="item event-item fly">
-                <div class="event-image lazyload" style="background: url('/assets/images/content/{{event.placeholder}}') no-repeat center center;
-                    background-size: contain; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain;">
-                    <div class="event-details-block">
-                        <h3>{{event.long-name}}</h3> 
-                        <span class="date start">
-                            {{event.start-date | date: "%A "}}{% assign d = event.start-date | date: "%-d" %} {% case d %} {% when '1' or '21' or
-                            '31' %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %}
-                            {{event.start-date | date: "%B, %Y"}}
-                        </span>
-                        -
-                        <span class="date end">
-                            {{event.end-date | date: "%A "}}{% assign d = event.end-date | date: "%-d" %} {% case d %} {% when '1' or '21' or '31'
-                            %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %} {{event.end-date
-                            | date: "%B , %Y"}}
-                        </span>   
-                    </div>
+            <div class="modal-body">
+                <div class="col-xs-12 no-padding connect-video">
+                    <div class="wrapper">
+                        <div class="youtube" data-embed="06oC6Y76p2I">
+                            <div class="play-button"></div>
+                        </div>
+                    </div>            
                 </div>
             </div>
-        </a>
-        {% endfor %}
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
     </div>
 </div>
-<div class="row flex-row" id="sponsorship-row">
-    <div class="col-xs-12 col-sm-8 no-padding about-connect flex-col">
-        <h3>Sponsor</h3>
-        <p>
+<div class="row flex-row upcoming-connect padded-row-30">
+    <div class="container">
+        <h3 class="home-text text-white">Join us in Bangkok, Thailand from April 1-5, 2019</h3> <a href="/register/" class="btn btn-linaro-home">Register</a>
+    </div>
+</div>
+<div class="row flex-row intro-row content-row padded-row-30">
+    <div class="container">
+        <p class="home-text text-white">
+            Every six months, leading hardware and software players in the Arm ecosystem come together at Linaro Connect to solve problems, identify issues and plan existing and future engineering collaboration. 
+        </p>
+        <p class="home-text text-white">
+            For a week, attendees enjoy a mix of industry keynotes, engineering discussions and collaborative hacking sessions. If you are interested in open source software development for Linux, tools and the various vertical segment ecosystems that use Arm processors, then this is the place to be.
+        </p>
+    </div>
+</div>
+<div class="row flex-row padded-row-30 content-row" id="sponsorship-row">
+    <div class="container text-center">
+        <h3>Sponsor Linaro Connect</h3>
+        <p class="home-text">
             Linaro Connect Bangkok 2019 will be the 25th Connect since Linaro started in June 2010.
-            Hundreds of the world’s best Linux on ARM developers come to Linaro Connect each time because
+            Hundreds of the world’s best Linux on Arm developers come to Linaro Connect each time because
             they know it is the leading place to meet with the global community and to learn about what is
             going on in the industry.
             
@@ -81,19 +67,146 @@ jumbotron:
             on-site and all those who participate remotely, as well as the thousands who view the website
             and social media before, during and after the event.
         </p>
-        <p id="buttons" class="text-center">
-            <a href="/sponsors/" class="btn btn-linaro-home fly">Sponsor</a>
-        </p>
-    </div>
-    <div class="col-xs-12 col-sm-4 no-padding sponsor-media">
-        <div class="owl-carousel owl-theme sponsorship-carousel">
-            {% for image in page.featured-images %}
-                <div class="activity-block item">
-                    <div class="sponsor-image" style="background-image: url({{image}})"></div>
+        <div class="sponsors">
+            {% for sponsor in site.data.previous-sponsors %}
+                <div class="col-xs-6 col-sm-3 sponsor-col">
+                    <a href="{{sponsor.url}}">
+                        <img class="img-responsive lazyload {% if sponsor.class %}{{sponsor.class}}{% endif %}" data-src="/assets/images/sponsors/{{sponsor.image}}"
+                        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="{{sponsor.name}} logo"/>
+                    </a>
                 </div>
             {% endfor %}
         </div>
+        <p id="buttons" class="text-center">
+            <a href="/sponsors/" class="btn btn-linaro-home">More details</a>
+        </p>
     </div>
+</div>
+<div class="row content-row padded-row-30" id="social-media">
+    <div class="container text-center text-white">
+        <h3 class="text-white">Join us on social media using #bkk19</h3>
+        <div class="col-xs-6 col-sm-2">
+            <a href="https://www.linkedin.com/company/{{site.data.settings.linkedin_username}}">
+                <div class="social-media-block">
+                    <i class="fa fa-linkedin-square"></i>
+                    LinkedIn
+                </div>
+            </a>
+        </div>
+        <div class="col-xs-6 col-sm-2">
+            <a href="https://facebook.com/{{site.data.settings.facebook_username}}">
+                <div class="social-media-block">
+                    <i class="fa fa-facebook-square"></i>
+                    Facebook
+                </div>
+            </a>
+        </div>
+        <div class="col-xs-6 col-sm-2">
+            <a href="https://youtube.com/{{site.data.settings.youtube_username}}">  
+                <div class="social-media-block">
+                    <i class="fa fa-youtube-square"></i>
+                    YouTube
+                </div>
+            </a>
+        </div>
+        <div class="col-xs-6 col-sm-2">
+            <a href="https://twitter.com/{{site.data.settings.twitter_username}}">
+                <div class="social-media-block">
+                    <i class="fa fa-twitter-square"></i>
+                    Twitter
+                </div>
+            </a>
+        </div>
+        <div class="col-xs-6 col-sm-2">
+            <a href="https://instagram.com/{{site.data.settings.instagram_username}}">
+                <div class="social-media-block">
+                    <i class="fa fa-instagram"></i>
+                    Instagram
+                </div>
+            </a>
+        </div>
+        <div class="col-xs-6 col-sm-2">
+            <a href="https://www.linaro.org/blog/">
+                <div class="social-media-block">
+                    <i class="fa fa-edit"></i>
+                    Linaro Blog
+                </div>
+            </a>
+        </div>
     </div>
-{% include sections/previous-connect-links.html %}
+</div>
 
+<div class="row content-row" id="previous-links">
+    <div class="container no-padding" style="margin-top:30px;">
+        <div class="row">
+            <div class="col-xs-12 text-center fly">
+                <h2>Connect Resources</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 fly">
+                <div class="block" style="background: linear-gradient(
+            rgba(0, 0, 0, 0.7), 
+            rgba(0, 0, 0, 0.7)
+        ), url(/assets/images/content/{{site.previous-connect-code | downcase }}-thumb.jpg);  background-size: cover; background-position-y: -100px;">
+                    <h4>{{site.previous-connect-code}} Photos</h4>
+                    <p>
+                        See our photos from Connect.
+                    </p>
+                    <a href="https://www.flickr.com/photos/linaroorg/sets/72157695573962940" class="btn btn-connect">View on Flickr</a>
+                </div>
+            </div>
+            <div class="col-md-4 fly">
+                <div class="block" style="background: linear-gradient(
+            rgba(0, 0, 0, 0.7), 
+            rgba(0, 0, 0, 0.7)
+        ), url(/assets/images/content/{{site.previous-connect-code | downcase }}-thumb.jpg);  background-size: cover; background-position-y: -100px;">
+                    <h4>{{site.previous-connect-code}} Resources</h4>
+                    <p>
+                        View the {{site.previous-connect-code}} resources.
+                    </p>
+                    <a href="/resources/{{site.previous-connect-code | downcase }}/" class="btn btn-connect">View Resources</a>
+                </div>
+            </div>
+            <div class="col-md-4 fly">
+                <div class="block" style="background: linear-gradient(
+            rgba(0, 0, 0, 0.7), 
+            rgba(0, 0, 0, 0.7)
+        ), url(/assets/images/content/{{site.previous-connect-code | downcase }}-thumb.jpg);  background-size: cover; background-position-y: -100px;">
+                    <h4>{{site.previous-connect-code}} Opening Keynote</h4>
+                    <p>
+                        and announcments
+                    </p>
+                    <a href="/resources/{{site.previous-connect-code | downcase }}/sessions/{{site.previous-connect-code | downcase }}-100k/" class="btn btn-connect">Watch Keynote</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row" id="connect-row">
+    <div class="owl-carousel owl-theme" id="connect-event-slider">
+        {% assign connect_events = site.data.connects %}
+        {% for event in connect_events %}
+        <a href="/resources/{{event.id | downcase }}" target="_blank">
+            <div class="item event-item">
+                <img class="event-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                data-src="/assets/images/content/{{event.placeholder}}" alt="{{event.long-name}} Image"/>
+                <div class="event-details-block">
+                    <h3>{{event.long-name}}</h3> 
+                    <span class="date start">
+                        {{event.start-date | date: "%A "}}{% assign d = event.start-date | date: "%-d" %} {% case d %} {% when '1' or '21' or
+                        '31' %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %}
+                        {{event.start-date | date: "%B, %Y"}}
+                    </span>
+                    -
+                    <span class="date end">
+                        {{event.end-date | date: "%A "}}{% assign d = event.end-date | date: "%-d" %} {% case d %} {% when '1' or '21' or '31'
+                        %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %} {{event.end-date
+                        | date: "%B , %Y"}}
+                    </span>   
+                </div>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+</div>

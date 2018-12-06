@@ -1,13 +1,13 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Thursday/LAS16-TR08%20-%20Hardware%20Assisted%20Tracing%20on%20ARM%20with%20CoreSight%20and%20OpenCSD%20%5BMandarin%5D.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Thursday/LAS16-TR08%20Hardware%20Assisted%20Tracing%20on%20ARM%20with%20CoreSight%20and%20OpenCSD%20%28Mandarin%29.mp4
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Thursday/LAS16-TR08%20-%20Hardware%20Assisted%20Tracing%20on%20Arm%20with%20CoreSight%20and%20OpenCSD%20%5BMandarin%5D.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Thursday/LAS16-TR08%20Hardware%20Assisted%20Tracing%20on%20Arm%20with%20CoreSight%20and%20OpenCSD%20%28Mandarin%29.mp4
 author: connect
 categories:
 - las16
 comments: false
 date: 2016-09-20 17:11:00
 excerpt: The CoreSight framework available in the Linux kernel has recently been integrated
-  with the standard Perf trace system, making HW assisted tracing on ARM systems accessible
+  with the standard Perf trace system, making HW assisted tracing on Arm systems accessible
   to developers working on a wide spectrum of products. This presentation will start
   by giving a brief overview of the CoreSight technology itself before presenting
   the current solution, from trace collection in kernel space to off system trace
@@ -35,19 +35,19 @@ speakers: Chunyan Zhang
 tags:
 - Kernel
 - Training
-title: 'LAS16-TR08: Hardware Assisted Tracing on ARM with CoreSight and OpenCSD [Mandarin]'
+title: 'LAS16-TR08: Hardware Assisted Tracing on Arm with CoreSight and OpenCSD [Mandarin]'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3854
 youtube_video_url: https://youtu.be/UwLh-XscFug
 ---
 
-LAS16-TR08: Hardware Assisted Tracing on ARM with CoreSight and OpenCSD [Mandarin]
+LAS16-TR08: Hardware Assisted Tracing on Arm with CoreSight and OpenCSD [Mandarin]
 Speakers: Chunyan Zhang
 Date: September 29, 2016
 
 ★ Session Description ★
-The CoreSight framework available in the Linux kernel has recently been integrated with the standard Perf trace system, making HW assisted tracing on ARM systems accessible to developers working on a wide spectrum of products. This presentation will start by giving a brief overview of the CoreSight technology itself before presenting the current solution, from trace collection in kernel space to off system trace decoding. To help with the latter part the Open CoreSight Decoding Library (openCSD) is introduced. OpenCSD is an open source library assisting with the decoding of collected trace data. We will see how it is used with the existing perf tools to provide an end-to-end solution for CoreSight trace decoding. The presentation will conclude with trace acquisition and decoding scenarios, along with tips on how to interpret trace information rendered by the perf tools.
+The CoreSight framework available in the Linux kernel has recently been integrated with the standard Perf trace system, making HW assisted tracing on Arm systems accessible to developers working on a wide spectrum of products. This presentation will start by giving a brief overview of the CoreSight technology itself before presenting the current solution, from trace collection in kernel space to off system trace decoding. To help with the latter part the Open CoreSight Decoding Library (openCSD) is introduced. OpenCSD is an open source library assisting with the decoding of collected trace data. We will see how it is used with the existing perf tools to provide an end-to-end solution for CoreSight trace decoding. The presentation will conclude with trace acquisition and decoding scenarios, along with tips on how to interpret trace information rendered by the perf tools.
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-tr08

@@ -3,7 +3,7 @@ author: connect
 categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:48
-excerpt: '-- Current state of ACPI on ARM
+excerpt: '-- Current state of ACPI on Arm
 
   -- Support/backing for a longer term organization (i.e., mailing
 
@@ -33,12 +33,12 @@ speakers: Al Stone
 tags:
 - ACPI
 - Firmware
-title: 'BKK16-316: ARMv8 Firmware Mini-Summit'
+title: 'BKK16-316: Armv8 Firmware Mini-Summit'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3359
 ---
 
--- Current state of ACPI on ARM -- Support/backing for a longer term organization (i.e., mailing lists, web sites, further meetings...) -- Use of _DSD device properties -- Follow-up on others items from the last meeting (mostly promised documents)  All of this sort of stuff is on fw-summit@lists.linaro.org, so folks can go sort thru the archive for more details, if they'd like.
+-- Current state of ACPI on Arm -- Support/backing for a longer term organization (i.e., mailing lists, web sites, further meetings...) -- Use of _DSD device properties -- Follow-up on others items from the last meeting (mostly promised documents)  All of this sort of stuff is on fw-summit@lists.linaro.org, so folks can go sort thru the archive for more details, if they'd like.
 
 Event Date: March 9, 2016

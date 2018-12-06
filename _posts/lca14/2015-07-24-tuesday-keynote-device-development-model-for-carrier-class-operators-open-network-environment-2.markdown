@@ -8,7 +8,7 @@ categories:
 comments: false
 date: 2015-07-24 14:05:25
 excerpt: "Radically revamping the device development model for Carrier class operators
-  with ARM and Linaro\n \n Comcast? Software? Isn't that an oxymorom? See how the
+  with Arm and Linaro\n \n Comcast? Software? Isn't that an oxymorom? See how the
   open source community and modern development models are re-shaping the feature velocity
   and security models for embedded devices like settop boxes, cable modems and gateways.
   Competing in the modern landscape means building products and experiences that compete

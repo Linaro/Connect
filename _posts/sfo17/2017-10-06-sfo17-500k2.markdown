@@ -21,7 +21,7 @@ slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80734068
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/panel-arm-in-open-source-david-rusling-sfo17500k2
 slug: sfo17-500k2
 speakers: David Rusling
-title: 'Panel: ARM in open source (David Rusling) - SFO17-500K2'
+title: 'Panel: Arm in open source (David Rusling) - SFO17-500K2'
 video_length: '55:52'
 video_thumbnail: None
 wordpress_id: 6075
@@ -29,7 +29,7 @@ youtube_video_url: https://www.youtube.com/watch?v=IwwAXoEYzmA
 ---
 
 Session ID: SFO17-500K2
-Session Name: Panel: ARM in open source (David Rusling) - SFO17-500K2
+Session Name: Panel: Arm in open source (David Rusling) - SFO17-500K2
 Speaker: David Rusling
 Track:
 

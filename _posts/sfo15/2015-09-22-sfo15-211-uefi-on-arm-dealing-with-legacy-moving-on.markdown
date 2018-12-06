@@ -1,15 +1,15 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-22-Tuesday/SFO15-211-
-  UEFI on ARM.pdf
+  UEFI on Arm.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-22-Tuesday/SFO15-211
-  UEFI on ARM.mp4
+  UEFI on Arm.mp4
 author: connect
 categories:
 - sfo15
 comments: false
 date: 2015-09-22 00:00:00
 excerpt: "This session will go through the problems caused by decisions made in the
-  early days of UEFI on ARM, how they are still hurting us - in expanding our validation
+  early days of UEFI on Arm, how they are still hurting us - in expanding our validation
   as well as by providing poor examples for porters to new platforms. But also about
   projects underway to resolve this legacy once and for all. We will also cover changes
   to Linaro\u2019s platform infrastructure, as well as our increasing involvement
@@ -32,19 +32,19 @@ speakers: Leif Lindholm
 tags:
 - Enterprise Server
 - Linux
-title: 'SFO15-211: UEFI on ARM - Dealing with legacy & moving on'
+title: 'SFO15-211: UEFI on Arm - Dealing with legacy & moving on'
 video_length: '49:15'
 video_thumbnail: None
 wordpress_id: 2830
 youtube_video_url: https://www.youtube.com/watch?v=nTN3dFxmUpc
 ---
 
-SFO15-211: UEFI on ARM - Dealing with legacy & moving on
+SFO15-211: UEFI on Arm - Dealing with legacy & moving on
 Speaker:  Leif Lindholm
 Date: September 22, 2015
 
 ★ Session Description ★
-This session will go through the problems caused by decisions made in the early days of UEFI on ARM, how they are still hurting us - in expanding our validation as well as by providing poor examples for porters to new platforms. But also about projects underway to resolve this legacy once and for all. We will also cover changes to Linaro’s platform infrastructure, as well as our increasing involvement with EDK2 maintainership.
+This session will go through the problems caused by decisions made in the early days of UEFI on Arm, how they are still hurting us - in expanding our validation as well as by providing poor examples for porters to new platforms. But also about projects underway to resolve this legacy once and for all. We will also cover changes to Linaro’s platform infrastructure, as well as our increasing involvement with EDK2 maintainership.
 
 ★ Resources ★ 
 Video: https://www.youtube.com/watch?v=nTN3dFxmUpc

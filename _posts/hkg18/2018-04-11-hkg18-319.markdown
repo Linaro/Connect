@@ -6,7 +6,7 @@ categories:
 - hkg18
 comments: false
 date: 2018-04-11 14:13:45
-excerpt: As the earliest industry alliance based on ARM64, GCC is working on promoting
+excerpt: As the earliest industry alliance based on Arm64, GCC is working on promoting
   the development of the green computing industry, conforming to the technological
   development trend of open source SW and open HW and bringing together the advanced
   global industrial chain resources. Linaro Hongkong Connect would be a good opportunity
@@ -42,7 +42,7 @@ Track: LEG;Ecosystem Day
 
 
 ## Session Summary
-As the earliest industry alliance based on ARM64, GCC is working on promoting the development of the green computing industry, conforming to the technological development trend of open source SW and open HW and bringing together the advanced global industrial chain resources. Linaro Hongkong Connect would be a good opportunity to introduce GCC to the industry, including establishment process, core work objectives and tasks, organizational structure and related business progress. We are looking forward to enhance the cooperation between GCC and Linaro in the future.
+As the earliest industry alliance based on Arm64, GCC is working on promoting the development of the green computing industry, conforming to the technological development trend of open source SW and open HW and bringing together the advanced global industrial chain resources. Linaro Hongkong Connect would be a good opportunity to introduce GCC to the industry, including establishment process, core work objectives and tasks, organizational structure and related business progress. We are looking forward to enhance the cooperation between GCC and Linaro in the future.
 ---------------------------------------------------
 ## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-319/

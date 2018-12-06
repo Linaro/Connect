@@ -7,13 +7,13 @@ categories:
 comments: false
 date: 2017-10-06 16:54:03
 excerpt: As we know, container technology are the most eminent virtualization technology
-  today. For ARM NFVI infrastructure, Kubernetes is used as the container orchestration
+  today. For Arm NFVI infrastructure, Kubernetes is used as the container orchestration
   engine with DPDK data plane acceleration for container networking. How to evaluate
   the performance metrics(throughput, latency, jitter) automatically with a built-in
   mechanism of the whole NFVI infrastructure is an important problem. On the other
   hand, for CI-CD purpose of our NFVI development work, how to efficiently measure,
   collect and analyze the performance data of the container networking environment
-  for ARM container based NFVI infrastructure is also an important issue to deal with.
+  for Arm container based NFVI infrastructure is also an important issue to deal with.
 featured_image_name: SFO17-119.jpg
 image:
   featured: true
@@ -43,7 +43,7 @@ Speaker: Herbert Guan
 Track: LNG
 
 ★ Session Summary ★
-As we know, container technology are the most eminent virtualization technology today. For ARM NFVI infrastructure, Kubernetes is used as the container orchestration engine with DPDK data plane acceleration for container networking. How to evaluate the performance metrics(throughput, latency, jitter) automatically with a built-in mechanism of the whole NFVI infrastructure is an important problem. On the other hand, for CI-CD purpose of our NFVI development work, how to efficiently measure, collect and analyze the performance data of the container networking environment for ARM container based NFVI infrastructure is also an important issue to deal with.
+As we know, container technology are the most eminent virtualization technology today. For Arm NFVI infrastructure, Kubernetes is used as the container orchestration engine with DPDK data plane acceleration for container networking. How to evaluate the performance metrics(throughput, latency, jitter) automatically with a built-in mechanism of the whole NFVI infrastructure is an important problem. On the other hand, for CI-CD purpose of our NFVI development work, how to efficiently measure, collect and analyze the performance data of the container networking environment for Arm container based NFVI infrastructure is also an important issue to deal with.
 
 ---------------------------------------------------
 ★ Resources ★

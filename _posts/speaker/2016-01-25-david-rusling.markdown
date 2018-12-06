@@ -16,6 +16,6 @@ title: David Rusling
 wordpress_id: 3201
 ---
 
-**Title:** Panel: ARM in open source
+**Title:** Panel: Arm in open source
 **Date: **Friday 29th September 2017
 **Time: **9:15 - 9:45

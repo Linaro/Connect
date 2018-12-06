@@ -7,7 +7,7 @@ categories:
 comments: true
 date: 2015-06-30 17:08:29
 excerpt: OP-TEE (Open Portable Trusted Execution Environment) is the source code for
-  the TEE in Linux using the ARM Trustzone technology. This component meets the Global
+  the TEE in Linux using the Arm Trustzone technology. This component meets the Global
   Platform TEE System Architecture specification. Most of the code is generic. However,
   a number of platform specific characteristics are addressed, such as memory layout
   or board specific hardware IP. In this session, you can learn the steps to follow
@@ -48,7 +48,7 @@ Location: Grand Peninsula B, Hyatt Regency San Francisco Airport, Burlingame, CA
 ---------------------------------------------------
 
 ★ Session Summary ★
-OP-TEE (Open Portable Trusted Execution Environment) is the source code for the TEE in Linux using the ARM Trustzone technology. This component meets the Global Platform TEE System Architecture specification. Most of the code is generic. However, a number of platform specific characteristics are addressed, such as memory layout or board specific hardware IP. In this session, you can learn the steps to follow to port OP-TEE for your armv7 platform, as the ones that have been defined when porting OP-TEE to A80 (SWG-77). OP-TEE to the Allwinner A80 platform
+OP-TEE (Open Portable Trusted Execution Environment) is the source code for the TEE in Linux using the Arm Trustzone technology. This component meets the Global Platform TEE System Architecture specification. Most of the code is generic. However, a number of platform specific characteristics are addressed, such as memory layout or board specific hardware IP. In this session, you can learn the steps to follow to port OP-TEE for your armv7 platform, as the ones that have been defined when porting OP-TEE to A80 (SWG-77). OP-TEE to the Allwinner A80 platform
 ---------------------------------------------------
 
 ★ Resources ★

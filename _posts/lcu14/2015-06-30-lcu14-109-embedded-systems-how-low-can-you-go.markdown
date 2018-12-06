@@ -6,12 +6,12 @@ categories:
 - lcu14
 comments: true
 date: 2015-06-30 17:11:17
-excerpt: 'ARM Linux has traditionally been the the operating system of choice for
+excerpt: 'Arm Linux has traditionally been the the operating system of choice for
   the very low end of embedded systems, with very low power consumption and tight
   constraints on memory size and CPU speed.
 
 
-  We still support machines based on ARM7TDMI and Cortex-M3 with as little as 2MB
+  We still support machines based on Arm7TDMI and Cortex-M3 with as little as 2MB
   of RAM, but there is a disconnect between the stagnating upstream contributions
   for systems like this and growing interest for using Linux in ultra-low power and
   low-cost scenarios like wearable
@@ -27,7 +27,7 @@ excerpt: 'ARM Linux has traditionally been the the operating system of choice fo
 
 
   In the discussion, I want to find out where people in the audience think we should
-  be heading in ARM Linux. Are we leaving the low-end market to MIPS, ARC, Blackfin
+  be heading in Arm Linux. Are we leaving the low-end market to MIPS, ARC, Blackfin
   and MSP430 by removing support for MMU-less systems and small-memory configurations,
   or should we
 
@@ -69,14 +69,14 @@ Location: Grand Peninsula A, Hyatt Regency San Francisco Airport, Burlingame, CA
 ---------------------------------------------------
 
 ★ Session Summary ★
-ARM Linux has traditionally been the the operating system of choice for the very low end of embedded systems, with very low power consumption and tight constraints on memory size and CPU speed.
+Arm Linux has traditionally been the the operating system of choice for the very low end of embedded systems, with very low power consumption and tight constraints on memory size and CPU speed.
 
-We still support machines based on ARM7TDMI and Cortex-M3 with as little as 2MB of RAM, but there is a disconnect between the stagnating upstream contributions for systems like this and growing interest for using Linux in ultra-low power and low-cost scenarios like wearable
+We still support machines based on Arm7TDMI and Cortex-M3 with as little as 2MB of RAM, but there is a disconnect between the stagnating upstream contributions for systems like this and growing interest for using Linux in ultra-low power and low-cost scenarios like wearable
 computing or the ""Internet of Things"".
 
 In my presentation, I will talk about some of the tricks that used to scale Linux to the absolute low-end, such as running without an MMU or executing the kernel from NOR flash, and areas that could use more work, such as upstream ports for Linaro member platforms (STM32, Kinetis, ...) and improving kernel support for low-memory scenarios.
 
-In the discussion, I want to find out where people in the audience think we should be heading in ARM Linux. Are we leaving the low-end market to MIPS, ARC, Blackfin and MSP430 by removing support for MMU-less systems and small-memory configurations, or should we
+In the discussion, I want to find out where people in the audience think we should be heading in Arm Linux. Are we leaving the low-end market to MIPS, ARC, Blackfin and MSP430 by removing support for MMU-less systems and small-memory configurations, or should we
 invest more time in these systems?'
 ---------------------------------------------------
 

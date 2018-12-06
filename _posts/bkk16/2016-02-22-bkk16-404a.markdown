@@ -4,7 +4,7 @@ author: connect
 categories: bkk16
 comments: false
 date: 2016-02-22 17:20:51
-excerpt: Developers only discussion on the implementation of PCI on ARM64
+excerpt: Developers only discussion on the implementation of PCI on Arm64
 featured_image_name: BKK16-404A.jpg
 image:
   featured: true
@@ -23,7 +23,7 @@ speakers: 'Hanjun Guo
 
   Tomasz Nowicki'
 tags:
-- ARM64
+- Arm64
 - PCI
 title: 'BKK16-404A: PCI Development Meeting'
 video_length: 00:00
@@ -32,6 +32,6 @@ wordpress_id: 3368
 youtube_video_url: https://youtu.be/DGZ0LJnNAdk
 ---
 
-Developers only discussion on the implementation of PCI on ARM64
+Developers only discussion on the implementation of PCI on Arm64
 
 Event Date: March 10, 2016

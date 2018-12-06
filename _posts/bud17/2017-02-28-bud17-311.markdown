@@ -7,8 +7,8 @@ categories:
 comments: false
 date: 2017-02-28 12:05:43
 excerpt: Regular session taking place at Connect for developers working on Linux distributions
-  to share progress on ARM Linux platform support. Users are also welcome to share
-  their experiences using Linux distributions on ARM. The goal of the discussion is
+  to share progress on Arm Linux platform support. Users are also welcome to share
+  their experiences using Linux distributions on Arm. The goal of the discussion is
   to identify areas in which Linaro can help.
 featured_image_name: BUD17-311.jpg
 image:
@@ -42,7 +42,7 @@ Track: LEG
 
 
 ★ Session Summary ★
-Regular session taking place at Connect for developers working on Linux distributions to share progress on ARM Linux platform support. Users are also welcome to share their experiences using Linux distributions on ARM. The goal of the discussion is to identify areas in which Linaro can help.
+Regular session taking place at Connect for developers working on Linux distributions to share progress on Arm Linux platform support. Users are also welcome to share their experiences using Linux distributions on Arm. The goal of the discussion is to identify areas in which Linaro can help.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-311/
