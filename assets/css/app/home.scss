@@ -378,16 +378,15 @@ div#social-media {
     background-color: #7fa222;
     color: white;
     padding: 20px;
-    font-size: 25px;
+    font-size: 16px;
+    margin-top:20px;
+    transition: all 400ms ease;
 }
 .social-media-block i {
     color: white;
     font-size: 34px;
     display:block;
 }
-.social-media-block a {
-    color:white;
-}  
-.social-media-block a {
-    color:white;
-} 
+.social-media-block:hover {
+    background-color:#0c0c0c;
+}
