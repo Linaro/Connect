@@ -218,32 +218,5 @@ home: true
                 </div>
             </div>
         </div>
-        <div class="row" id="connect-row">
-            <div class="owl-carousel owl-theme" id="connect-event-slider">
-                {% assign connect_events = site.data.connects %}
-                {% for event in connect_events %}
-                <a href="/resources/{{event.id | downcase }}" target="_blank">
-                    <div class="item event-item">
-                        <img class="event-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
-                        data-src="/assets/images/content/{{event.placeholder}}" alt="{{event.long-name}} Image"/>
-                        <div class="event-details-block">
-                            <h3>{{event.long-name}}</h3> 
-                            <span class="date start">
-                                {{event.start-date | date: "%A "}}{% assign d = event.start-date | date: "%-d" %} {% case d %} {% when '1' or '21' or
-                                '31' %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %}
-                                {{event.start-date | date: "%B, %Y"}}
-                            </span>
-                            -
-                            <span class="date end">
-                                {{event.end-date | date: "%A "}}{% assign d = event.end-date | date: "%-d" %} {% case d %} {% when '1' or '21' or '31'
-                                %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %} {{event.end-date
-                                | date: "%B , %Y"}}
-                            </span>   
-                        </div>
-                    </div>
-                </a>
-                {% endfor %}
-            </div>
-        </div>
     </div>
 </div>
