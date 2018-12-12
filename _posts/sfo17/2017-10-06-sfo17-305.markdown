@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-305-Moby-linukit-on-aarch64%20-%20v3.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-305%20-%20Moby%20and%20LinuxKit%20on%20ARM64%20Server.mp4
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-305%20-%20Moby%20and%20LinuxKit%20on%20Arm64%20Server.mp4
 author: connect
 categories:
 - sfo17
@@ -11,7 +11,7 @@ excerpt: The Moby and LinuxKit are the projects announced on April in DockerCon 
   the container ecosystem, while LinuxKit provides a toolkit for building secure,
   portable and custom Linux distribution for containers via the Moby. In this session,
   Dennis will demo how to build and run a custom Linux distribution assembled by Moby
-  on ARM64 platforms, plus some typical usage scenarios in data center with those
+  on Arm64 platforms, plus some typical usage scenarios in data center with those
   technologies.
 featured_image_name: SFO17-305.jpg
 image:
@@ -28,7 +28,7 @@ slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80700037
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/moby-and-linuxkit-on-arm64-server-sfo17305
 slug: sfo17-305
 speakers: Dennis Chen
-title: Moby and LinuxKit on ARM64 Server - SFO17-305
+title: Moby and LinuxKit on Arm64 Server - SFO17-305
 video_length: '29:50'
 video_thumbnail: None
 wordpress_id: 6012
@@ -36,14 +36,14 @@ youtube_video_url: https://www.youtube.com/watch?v=z-x8UTUMJ_4
 ---
 
 Session ID: SFO17-305
-Session Name: Moby and LinuxKit on ARM64 Server
+Session Name: Moby and LinuxKit on Arm64 Server
 - SFO17-305
 Speaker: Dennis Chen
 
 Track: LEG
 
 ★ Session Summary ★
-The Moby and LinuxKit are the projects announced on April in DockerCon 2017, AUSTIN, TX. Moby is an open framework to assemble container-based components for the container ecosystem, while LinuxKit provides a toolkit for building secure, portable and custom Linux distribution for containers via the Moby. In this session, Dennis will demo how to build and run a custom Linux distribution assembled by Moby on ARM64 platforms, plus some typical usage scenarios in data center with those technologies.
+The Moby and LinuxKit are the projects announced on April in DockerCon 2017, AUSTIN, TX. Moby is an open framework to assemble container-based components for the container ecosystem, while LinuxKit provides a toolkit for building secure, portable and custom Linux distribution for containers via the Moby. In this session, Dennis will demo how to build and run a custom Linux distribution assembled by Moby on Arm64 platforms, plus some typical usage scenarios in data center with those technologies.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-305/

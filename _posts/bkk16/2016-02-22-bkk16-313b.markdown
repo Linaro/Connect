@@ -3,7 +3,7 @@ author: connect
 categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:48
-excerpt: ARM in HPC /  This session will cover current ARM HPC software ecosystem
+excerpt: Arm in HPC /  This session will cover current Arm HPC software ecosystem
   and roadmap, as well as HPC market potential and how it intersects big data software
   stacks.
 featured_image_name: BKK16-313B.jpg
@@ -28,6 +28,6 @@ video_thumbnail: None
 wordpress_id: 3357
 ---
 
-ARM in HPC /  This session will cover current ARM HPC software ecosystem and roadmap, as well as HPC market potential and how it intersects big data software stacks.
+Arm in HPC /  This session will cover current Arm HPC software ecosystem and roadmap, as well as HPC market potential and how it intersects big data software stacks.
 
 Event Date: March 9, 2016

@@ -6,14 +6,14 @@ categories:
 - las16
 comments: false
 date: 2016-09-20 17:11:00
-excerpt: 'KVM/ARM has grown up. While the initial implementation of virtualization
-  support for ARM processors in Linux was a quality upstream software project, there
+excerpt: 'KVM/Arm has grown up. While the initial implementation of virtualization
+  support for Arm processors in Linux was a quality upstream software project, there
   were initial design decisions simply not suitable for a long-term maintained hypervisor
-  code base. For example, the way KVM/ARM utilized the hardware support for virtualization,
+  code base. For example, the way KVM/Arm utilized the hardware support for virtualization,
   was by running a ''switching'' layer of code in EL2, purely written in assembly.
   This was a reasonable design decision in the initial implementation, as the switching
   layer only had to do one thing: Switch between a VM and the host. But as we began
-  to optimize the implementation, add support for ARMv8.1 and VHE, and added features
+  to optimize the implementation, add support for Armv8.1 and VHE, and added features
   such as debugging support, we had to move to a more integrated approach, writing
   the switching logic in C code as well. As another example, the support for virtual
   interrupts, famously known as the VGIC, was designed with a focus on optimizing
@@ -53,7 +53,7 @@ Speakers: Marc Zyngier, Christoffer Dall
 Date: September 30, 2016
 
 ★ Session Description ★
-KVM/ARM has grown up. While the initial implementation of virtualization support for ARM processors in Linux was a quality upstream software project, there were initial design decisions simply not suitable for a long-term maintained hypervisor code base. For example, the way KVM/ARM utilized the hardware support for virtualization, was by running a ‘switching’ layer of code in EL2, purely written in assembly. This was a reasonable design decision in the initial implementation, as the switching layer only had to do one thing: Switch between a VM and the host. But as we began to optimize the implementation, add support for ARMv8.1 and VHE, and added features such as debugging support, we had to move to a more integrated approach, writing the switching logic in C code as well. As another example, the support for virtual interrupts, famously known as the VGIC, was designed with a focus on optimizing MMIO operations. As it turns out, MMIO operations is a less important and infrequent operation on the GIC, and the design had some serious negative consequences for supporting other state transitions for virtual interrupts and had negative performance implications. Therefore, we completely redesigned the VGIC support, and implemented the whole thing from scratch as a team effort, with a very promising result, upstream since Linux v4.7. In this talk we will cover the evolution of this software project and give an overview of the state of the project as it is today.
+KVM/Arm has grown up. While the initial implementation of virtualization support for Arm processors in Linux was a quality upstream software project, there were initial design decisions simply not suitable for a long-term maintained hypervisor code base. For example, the way KVM/Arm utilized the hardware support for virtualization, was by running a ‘switching’ layer of code in EL2, purely written in assembly. This was a reasonable design decision in the initial implementation, as the switching layer only had to do one thing: Switch between a VM and the host. But as we began to optimize the implementation, add support for Armv8.1 and VHE, and added features such as debugging support, we had to move to a more integrated approach, writing the switching logic in C code as well. As another example, the support for virtual interrupts, famously known as the VGIC, was designed with a focus on optimizing MMIO operations. As it turns out, MMIO operations is a less important and infrequent operation on the GIC, and the design had some serious negative consequences for supporting other state transitions for virtual interrupts and had negative performance implications. Therefore, we completely redesigned the VGIC support, and implemented the whole thing from scratch as a team effort, with a very promising result, upstream since Linux v4.7. In this talk we will cover the evolution of this software project and give an overview of the state of the project as it is today.
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-500

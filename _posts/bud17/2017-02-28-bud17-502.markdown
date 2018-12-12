@@ -7,11 +7,11 @@ categories:
 comments: false
 date: 2017-02-28 12:05:56
 excerpt: 'GPGPUs (General Purpose Graphics Processing Unit) are becoming a relevant
-  functional block on SoCs, particularly on the ARM ecosystem. Extracting full performance
+  functional block on SoCs, particularly on the Arm ecosystem. Extracting full performance
   of a GPU is now becoming a combination of well integrated and optimized software
   and hardware. Motivated by that, there are many Open GPU initiatives around the
   world using FPGAs, but most (if not all) of these are on Intel platforms. This project
-  aims to present an Open GPU based on an FPGA using the ARM Instruction Set. The
+  aims to present an Open GPU based on an FPGA using the Arm Instruction Set. The
   driver platform adopted was the well know MESA 3D (www.mesa3d.org). We will describe
   the co-design approach to designing the OpenGPU. A functional demonstration of the
   OpenGPU working on a range of OpenGl applications ported by Linaro will be shown.
@@ -32,13 +32,13 @@ session_track: LITE
 slideshare_presentation_url: None
 slug: bud17-502
 speakers: "Marcelo Kn\xF6rich Zuffo"
-title: A functional Open GPU Upon ARM - BUD17-502
+title: A functional Open GPU Upon Arm - BUD17-502
 video_length: 01:04:26
 video_thumbnail: None
 wordpress_id: 4722
 youtube_video_url: https://youtu.be/xYycIDxXxN4
 ---
 
-GPGPUs (General Purpose Graphics Processing Unit) are becoming a relevant functional block on SoCs, particularly on the ARM ecosystem. Extracting full performance of a GPU is now becoming a combination of well integrated and optimized software and hardware. Motivated by that, there are many Open GPU initiatives around the world using FPGAs, but most (if not all) of these are on Intel platforms. This project aims to present an Open GPU based on an FPGA using the ARM Instruction Set. The driver platform adopted was the well know MESA 3D (www.mesa3d.org). We will describe the co-design approach to designing the OpenGPU. A functional demonstration of the OpenGPU working on a range of OpenGl applications ported by Linaro will be shown. On the fly we will change drivers between: SW only, GPU on Asic, and OpenGPU to see its performance impact. The engineers that implemented this system will be at the session to support detailed technical questions.
+GPGPUs (General Purpose Graphics Processing Unit) are becoming a relevant functional block on SoCs, particularly on the Arm ecosystem. Extracting full performance of a GPU is now becoming a combination of well integrated and optimized software and hardware. Motivated by that, there are many Open GPU initiatives around the world using FPGAs, but most (if not all) of these are on Intel platforms. This project aims to present an Open GPU based on an FPGA using the Arm Instruction Set. The driver platform adopted was the well know MESA 3D (www.mesa3d.org). We will describe the co-design approach to designing the OpenGPU. A functional demonstration of the OpenGPU working on a range of OpenGl applications ported by Linaro will be shown. On the fly we will change drivers between: SW only, GPU on Asic, and OpenGPU to see its performance impact. The engineers that implemented this system will be at the session to support detailed technical questions.
 
 Event Date:

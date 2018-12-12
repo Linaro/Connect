@@ -27,4 +27,4 @@ wordpress_id: 744
 youtube_video_url: https://www.youtube.com/watch?v=eTtG6OM_Smg
 ---
 
-Continuing cross-distribution meeting series, aimed at sharing ideas and problems that people may have related to maintaining and improving Linux distributions on ARM. Let’s see how people are getting on and what’s new.
+Continuing cross-distribution meeting series, aimed at sharing ideas and problems that people may have related to maintaining and improving Linux distributions on Arm. Let’s see how people are getting on and what’s new.

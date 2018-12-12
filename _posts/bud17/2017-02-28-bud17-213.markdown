@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-213%20libvirt%20integration%20and%20testing%20for%20enterprise%20KVM%252FARM.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Tuesday/BUD17-213%20libvert%20integration%20and%20testing%20for%20enterprise%20KVM%20%20ARM.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-213%20libvirt%20integration%20and%20testing%20for%20enterprise%20KVM%252FArm.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Tuesday/BUD17-213%20libvert%20integration%20and%20testing%20for%20enterprise%20KVM%20%20Arm.mp4
 author: connect
 categories:
 - bud17
@@ -32,11 +32,11 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/libvirt-integr
 slug: bud17-213
 speakers: Drew Jones, Eric Auger
 tags:
-- ARM
+- Arm
 - KVM
 - LEG
 - Testing
-title: libvirt integration and testing for enterprise KVM/ARM - BUD17-213
+title: libvirt integration and testing for enterprise KVM/Arm - BUD17-213
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4651
@@ -44,7 +44,7 @@ youtube_video_url: https://youtu.be/HJA1h5hgPFU
 ---
 
 Session ID: BUD17-213
-Session Name: libvirt integration and testing for enterprise KVM/ARM - BUD17-213
+Session Name: libvirt integration and testing for enterprise KVM/Arm - BUD17-213
 Speaker: Drew Jones, Eric Auger
 Track: LEG
 
@@ -65,7 +65,7 @@ Erzsébet krt. 43-49,
 1073 Hungary
 
 ---------------------------------------------------
-Keyword: LEG, KVM, ARM, testing
+Keyword: LEG, KVM, Arm, testing
 http://www.linaro.org
 http://connect.linaro.org
 ---------------------------------------------------

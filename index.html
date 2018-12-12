@@ -14,6 +14,7 @@ jumbotron:
     title: Bringing the Arm ecosystem together
     include: jumbotron-home.html
     description: ""
+<<<<<<< HEAD
     video: 
         source:
             mp4: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromo.mp4
@@ -22,6 +23,9 @@ jumbotron:
         poster: /assets/images/content/bkk19-bg.jpg
     animation: fade
 home: true
+=======
+    background-image: /assets/images/content/bkk19-website-banner.jpg
+>>>>>>> 4a80bcd8b6eeab67e8989afc8ee779cbe09d91da
 ---
 <!-- Video Modal -->
 <div class="modal fade" id="connectPromoVideo" tabindex="-1" role="dialog" aria-labelledby="connectModalLabel">
@@ -66,7 +70,7 @@ home: true
         <h3>Sponsor Linaro Connect</h3>
         <p class="home-text">
             Linaro Connect Bangkok 2019 will be the 25th Connect since Linaro started in June 2010.
-            Hundreds of the world’s best Linux on ARM developers come to Linaro Connect each time because
+            Hundreds of the world’s best Linux on Arm developers come to Linaro Connect each time because
             they know it is the leading place to meet with the global community and to learn about what is
             going on in the industry.
             
@@ -89,36 +93,6 @@ home: true
         </p>
     </div>
 </div>
-<div class="row content-row" id="connect-row">
-    <div class="container">
-        <div class="owl-carousel owl-theme" id="connect-event-slider">
-            {% assign connect_events = site.data.connects %}
-            {% for event in connect_events %}
-            <a href="/resources/{{event.id | downcase }}" target="_blank">
-                <div class="item event-item">
-                    <img class="event-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
-                    data-src="/assets/images/content/{{event.placeholder}}" alt="{{event.long-name}} Image"/>
-                    <div class="event-details-block">
-                        <h3>{{event.long-name}}</h3> 
-                        <span class="date start">
-                            {{event.start-date | date: "%A "}}{% assign d = event.start-date | date: "%-d" %} {% case d %} {% when '1' or '21' or
-                            '31' %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %}
-                            {{event.start-date | date: "%B, %Y"}}
-                        </span>
-                        -
-                        <span class="date end">
-                            {{event.end-date | date: "%A "}}{% assign d = event.end-date | date: "%-d" %} {% case d %} {% when '1' or '21' or '31'
-                            %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %} {{event.end-date
-                            | date: "%B , %Y"}}
-                        </span>   
-                    </div>
-                </div>
-            </a>
-            {% endfor %}
-        </div>
-    </div>
-</div>
-
 <div class="row content-row padded-row-30" id="social-media">
     <div class="container text-center text-white">
         <h3 class="text-white">Join us on social media using #bkk19</h3>
@@ -218,5 +192,32 @@ home: true
                 </div>
             </div>
         </div>
+    </div>
+</div>
+<div class="row" id="connect-row">
+    <div class="owl-carousel owl-theme" id="connect-event-slider">
+        {% assign connect_events = site.data.connects %}
+        {% for event in connect_events %}
+        <a href="/resources/{{event.id | downcase }}" target="_blank">
+            <div class="item event-item">
+                <img class="event-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                data-src="/assets/images/content/{{event.placeholder}}" alt="{{event.long-name}} Image"/>
+                <div class="event-details-block">
+                    <h3>{{event.long-name}}</h3> 
+                    <span class="date start">
+                        {{event.start-date | date: "%A "}}{% assign d = event.start-date | date: "%-d" %} {% case d %} {% when '1' or '21' or
+                        '31' %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %}
+                        {{event.start-date | date: "%B, %Y"}}
+                    </span>
+                    -
+                    <span class="date end">
+                        {{event.end-date | date: "%A "}}{% assign d = event.end-date | date: "%-d" %} {% case d %} {% when '1' or '21' or '31'
+                        %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %} {{event.end-date
+                        | date: "%B , %Y"}}
+                    </span>   
+                </div>
+            </div>
+        </a>
+        {% endfor %}
     </div>
 </div>

@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-09-Monday/HKG15-107.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-09-Monday/HKG15-107+ACPI+Power+Management+on+ARM64+Servers.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-09-Monday/HKG15-107+ACPI+Power+Management+on+Arm64+Servers.mp4
 author: connect
 categories:
 - hkg15
@@ -28,14 +28,14 @@ tags:
 - hkg15
 - HKG15-107
 - Power Management
-title: 'HKG15-107: ACPI Power Management on ARM64 Servers'
+title: 'HKG15-107: ACPI Power Management on Arm64 Servers'
 video_length: '45:30'
 video_thumbnail: None
 wordpress_id: 708
 youtube_video_url: https://www.youtube.com/watch?v=eDDgYIkUHLI
 ---
 
-HKG15-107: ACPI Power Management on ARM64 Servers 
+HKG15-107: ACPI Power Management on Arm64 Servers 
 --------------------------------------------------- 
 Speaker: Ashwin Chaugule 
 Date: February 9, 2015 

@@ -1,15 +1,15 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-12-Thursday/HKG15-409.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-12-Thursday/HKG15-409+ARM+Hibernation+enablement+on+SoCs+-+a+case+study.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-12-Thursday/HKG15-409+Arm+Hibernation+enablement+on+SoCs+-+a+case+study.mp4
 author: connect
 categories:
 - hkg15
 comments: true
 date: 2015-04-23 15:36:38
-excerpt: Hibernation on ARM devices is a long-wanted feature, with multiple ways of
+excerpt: Hibernation on Arm devices is a long-wanted feature, with multiple ways of
   achieving it - in-kernel, fully userspace, or a combination. This presentation will
   give brief overview of these methods, and will discuss the effort required in enabling
-  in-kernel ARM hibernation to the TI platform. We will also share the pre-requisites
+  in-kernel Arm hibernation to the TI platform. We will also share the pre-requisites
   for enabling this on other SoCs.
 featured_image_name: HKG15-409.jpg
 image:
@@ -31,20 +31,20 @@ tags:
 - hkg15
 - HKG15-409
 - Mobile
-title: HKG15-409 ARM Hibernation enablement on SoCs a case study
+title: HKG15-409 Arm Hibernation enablement on SoCs a case study
 video_length: '43:28'
 video_thumbnail: None
 wordpress_id: 756
 youtube_video_url: https://www.youtube.com/watch?v=xNoLEXO3Dyk
 ---
 
-HKG15-409: ARM Hibernation enablement on SoCs - a case study 
+HKG15-409: Arm Hibernation enablement on SoCs - a case study 
 --------------------------------------------------- 
 Speaker: Grygorii Strashko 
 Date: February 12, 2015 
 --------------------------------------------------- 
 ★ Session Summary ★ 
-Hibernation on ARM devices is a long-wanted feature, with multiple ways of achieving it - in-kernel, fully userspace, or a combination. This presentation will give brief overview of these methods, and will discuss the effort required in enabling in-kernel ARM hibernation to the TI platform. We will also share the pre-requisites for enabling this on other SoCs. 
+Hibernation on Arm devices is a long-wanted feature, with multiple ways of achieving it - in-kernel, fully userspace, or a combination. This presentation will give brief overview of these methods, and will discuss the effort required in enabling in-kernel Arm hibernation to the TI platform. We will also share the pre-requisites for enabling this on other SoCs. 
 -------------------------------------------------- 
 ★ Resources ★ 
 Pathable: https://hkg15.pathable.com/meetings/250837 

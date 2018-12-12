@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Tuesday/BUD17-201%20ARM%20Server%20Standards%20%20The%20Next%20Generation.mp4
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Tuesday/BUD17-201%20Arm%20Server%20Standards%20%20The%20Next%20Generation.mp4
 author: connect
 categories:
 - bud17
@@ -28,10 +28,10 @@ slideshare_presentation_url: None
 slug: bud17-201
 speakers: Jon Masters
 tags:
-- ARM
+- Arm
 - Server
 - server-standards
-title: 'BUD17-201 - ARM Server Standards: The Next Generation - BUD17-201'
+title: 'BUD17-201 - Arm Server Standards: The Next Generation - BUD17-201'
 video_length: '26:49'
 video_thumbnail: None
 wordpress_id: 4640
@@ -39,7 +39,7 @@ youtube_video_url: https://youtu.be/c592IkfWp7w
 ---
 
 Session ID: BUD17-201
-Session Name: ARM Server Standards: The Next Generation - BUD17-201
+Session Name: Arm Server Standards: The Next Generation - BUD17-201
 Speaker: Jon Masters
 Track: LEG
 
@@ -60,7 +60,7 @@ Erzsébet krt. 43-49,
 1073 Hungary
 
 ---------------------------------------------------
-Keyword: ARM, server, server-standards
+Keyword: Arm, server, server-standards
 
 ---------------------------------------------------
 Follow us on Social Media

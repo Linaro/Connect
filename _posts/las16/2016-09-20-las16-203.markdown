@@ -6,7 +6,7 @@ categories:
 - las16
 comments: false
 date: 2016-09-20 17:10:45
-excerpt: Heads up on what ARM are doing with the new ARMv8-M architecture from a software
+excerpt: Heads up on what Arm are doing with the new Armv8-M architecture from a software
   perspective.
 featured_image_name: LAS16-203.png
 image:
@@ -38,7 +38,7 @@ Speakers: Mark Hambleton
 Date: September 27, 2016
 
 ★ Session Description ★
-Heads up on what ARM are doing with the new ARMv8-M architecture from a software perspective.
+Heads up on what Arm are doing with the new Armv8-M architecture from a software perspective.
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-203

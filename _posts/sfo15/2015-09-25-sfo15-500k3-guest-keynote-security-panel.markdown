@@ -20,7 +20,7 @@ session_track: Keynote
 slug: sfo15-500k3-guest-keynote-security-panel
 speakers: Grant Likely
 tags:
-- ARM
+- Arm
 - Linaro
 - Linux
 - Security

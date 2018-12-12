@@ -8,7 +8,7 @@ comments: false
 date: 2017-10-06 16:53:52
 excerpt: The Zephyr OS is a small, scalable RTOS that supports a wide variety of SoCs,
   many of which have existing HALs provided by the SoC vendors, especially in the
-  ARM Cortex-M world. These HALs provide peripheral register definitions and in many
+  Arm Cortex-M world. These HALs provide peripheral register definitions and in many
   cases, include bare metal peripheral drivers. Rather than reinventing the wheel,
   the Zephyr Project decided to proactively reuse these vendor HALs whenever possible.
   This session will cover how and why the Zephyr Project uses SoC vendor HALs, what
@@ -41,7 +41,7 @@ Speaker: Maureen Helm
 Track: LITE
 
 ★ Session Summary ★
-The Zephyr OS is a small, scalable RTOS that supports a wide variety of SoCs, many of which have existing HALs provided by the SoC vendors, especially in the ARM Cortex-M world. These HALs provide peripheral register definitions and in many cases, include bare metal peripheral drivers. Rather than reinventing the wheel, the Zephyr Project decided to proactively reuse these vendor HALs whenever possible. This session will cover how and why the Zephyr Project uses SoC vendor HALs, what are the common problems, and how to address them.
+The Zephyr OS is a small, scalable RTOS that supports a wide variety of SoCs, many of which have existing HALs provided by the SoC vendors, especially in the Arm Cortex-M world. These HALs provide peripheral register definitions and in many cases, include bare metal peripheral drivers. Rather than reinventing the wheel, the Zephyr Project decided to proactively reuse these vendor HALs whenever possible. This session will cover how and why the Zephyr Project uses SoC vendor HALs, what are the common problems, and how to address them.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-112/

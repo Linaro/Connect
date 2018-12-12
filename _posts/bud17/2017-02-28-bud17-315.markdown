@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/-BUD17-315%20-%20Drone%20Mapping-%20Hyperscaling%20a%20service%20with%20Kubernetes%20on%20ARM.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/BUD17-315%20Drone%20Mapping%20%20Hyperscaling%20a%20service%20with%20Kubernetes%20on%20ARM.mp4
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/-BUD17-315%20-%20Drone%20Mapping-%20Hyperscaling%20a%20service%20with%20Kubernetes%20on%20Arm.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/BUD17-315%20Drone%20Mapping%20%20Hyperscaling%20a%20service%20with%20Kubernetes%20on%20Arm.mp4
 author: connect
 categories:
 - bud17
@@ -8,7 +8,7 @@ comments: false
 date: 2017-02-28 12:05:43
 excerpt: Hyperscaling applications can be difficult, but Kubernetes removes much of
   the complexity. Learn how to take a simple web application, and create a highly
-  available, horizontally scalable service with Kubernetes running on an ARM cluster.
+  available, horizontally scalable service with Kubernetes running on an Arm cluster.
 featured_image_name: BUD17-315.jpg
 image:
   featured: true
@@ -25,11 +25,11 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17315-hyper
 slug: bud17-315
 speakers: Tyler Baker
 tags:
-- ARM
+- Arm
 - hyperscaling
 - kubernetes
 - LTD
-title: 'Drone Mapping: Hyperscaling a service with Kubernetes on ARM - BUD17-315'
+title: 'Drone Mapping: Hyperscaling a service with Kubernetes on Arm - BUD17-315'
 video_length: '52:04'
 video_thumbnail: None
 wordpress_id: 4680
@@ -37,13 +37,13 @@ youtube_video_url: https://youtu.be/xmKn-bf8aa8
 ---
 
 "Session ID: BUD17-315
-Session Name: Hyperscaling applications with Kubernetes on ARM - BUD17-315
+Session Name: Hyperscaling applications with Kubernetes on Arm - BUD17-315
 Speaker: Tyler Baker
 Track: LTD
 
 
 ★ Session Summary ★
-Hyperscaling applications can be difficult, but Kubernetes removes much of the complexity. Learn how to take a simple web application, and create a highly available, horizontally scalable service with Kubernetes running on an ARM cluster.
+Hyperscaling applications can be difficult, but Kubernetes removes much of the complexity. Learn how to take a simple web application, and create a highly available, horizontally scalable service with Kubernetes running on an Arm cluster.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-315/
@@ -59,7 +59,7 @@ Erzsébet krt. 43-49,
 1073 Hungary
 
 ---------------------------------------------------
-Keyword: LTD, hyperscaling, ARM, kubernetes
+Keyword: LTD, hyperscaling, Arm, kubernetes
 http://www.linaro.org
 http://connect.linaro.org
 ---------------------------------------------------

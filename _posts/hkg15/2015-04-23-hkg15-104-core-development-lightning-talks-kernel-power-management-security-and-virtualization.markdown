@@ -13,7 +13,7 @@ excerpt: "After an entire year of full time involvement of Linaro in the CoreSig
   upstreamed. From our original planning some activities were carried out as expected,
   some had to be curbed for various reasons and other were added out of necessity.
   \n\nThe second part will concentrate on the remaining work that needs to be done
-  and lay out a rough estimate of the order in which it will be addressed. ARMv8,
+  and lay out a rough estimate of the order in which it will be addressed. Armv8,
   power management, trace decoding and the integration of various CoreSight functionality
   with other kernel sub-systems are very high on our list of things to so. We hope
   to receive feedback from the audience on the soundness of our approach and definitely

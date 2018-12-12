@@ -7,8 +7,8 @@ categories:
 comments: true
 date: 2015-06-30 17:08:26
 excerpt: 'Task scheduling on big.Little targets is a known challenge in the community.
-  A commercial grade solution exists with ARM''s Global Task Scheduler and there is
-  a second solution being developed by ARM to solve this problem in a more generic,
+  A commercial grade solution exists with Arm''s Global Task Scheduler and there is
+  a second solution being developed by Arm to solve this problem in a more generic,
   upstream-friendly way. The HMP scheduler extensions developed at Qualcomm Innovation
   Center (QuIC) were created to achieve many of the same benefits being sought in
   the power-aware scheduler in current development upstream, along with perhaps some
@@ -16,7 +16,7 @@ excerpt: 'Task scheduling on big.Little targets is a known challenge in the comm
   QuIC''s HMP scheduler extensions.
 
 
-  Some areas of interest from ARM-Linaro perspective:
+  Some areas of interest from Arm-Linaro perspective:
 
   - Some intro to their target arch/platform.
 
@@ -61,9 +61,9 @@ Location: Grand Peninsula B, Hyatt Regency San Francisco Airport, Burlingame, CA
 ---------------------------------------------------
 
 ★ Session Summary ★
-Task scheduling on big.Little targets is a known challenge in the community. A commercial grade solution exists with ARM's Global Task Scheduler and there is a second solution being developed by ARM to solve this problem in a more generic, upstream-friendly way. The HMP scheduler extensions developed at Qualcomm Innovation Center (QuIC) were created to achieve many of the same benefits being sought in the power-aware scheduler in current development upstream, along with perhaps some additional ones. This presentation will cover the features, design and status of QuIC's HMP scheduler extensions.
+Task scheduling on big.Little targets is a known challenge in the community. A commercial grade solution exists with Arm's Global Task Scheduler and there is a second solution being developed by Arm to solve this problem in a more generic, upstream-friendly way. The HMP scheduler extensions developed at Qualcomm Innovation Center (QuIC) were created to achieve many of the same benefits being sought in the power-aware scheduler in current development upstream, along with perhaps some additional ones. This presentation will cover the features, design and status of QuIC's HMP scheduler extensions.
 
-Some areas of interest from ARM-Linaro perspective:
+Some areas of interest from Arm-Linaro perspective:
 - Some intro to their target arch/platform.
 - Architecture of their software solution (sched, load tracking algorithm, power- management from the scheduler, energy model description     and use, DT etc).
 - Pain points from an upstream integration PoV.

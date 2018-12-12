@@ -1,12 +1,12 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Thursday/LAS16-402%20-%20ARM-TF%20From%20Embedded%20To%20Enterprise%20v1.0%20%281%29.pdf
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Thursday/LAS16-402%20-%20Arm-TF%20From%20Embedded%20To%20Enterprise%20v1.0%20%281%29.pdf
 amazon_s3_video_url: None
 author: connect
 categories:
 - las16
 comments: false
 date: 2016-09-20 17:10:58
-excerpt: ARM Trusted Firmware has established itself as a key part of the ARMv8-A
+excerpt: Arm Trusted Firmware has established itself as a key part of the Armv8-A
   software stack. Broadening its applicability across all segments, from embedded
   to enterprise, is challenging. This session discusses the latest developments, including
   extension into the 32-bit space.
@@ -28,19 +28,19 @@ speakers: None
 tags:
 - Firmware
 - Security
-title: 'LAS16-402: ARM Trusted Firmware - from Enterprise to Embedded'
+title: 'LAS16-402: Arm Trusted Firmware - from Enterprise to Embedded'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3843
 youtube_video_url: None
 ---
 
-LAS16-402: ARM Trusted Firmware - from Enterprise to Embedded
+LAS16-402: Arm Trusted Firmware - from Enterprise to Embedded
 Speakers:
 Date: September 29, 2016
 
 ★ Session Description ★
-ARM Trusted Firmware has established itself as a key part of the ARMv8-A software stack. Broadening its applicability across all segments, from embedded to enterprise, is challenging. This session discusses the latest developments, including extension into the 32-bit space.
+Arm Trusted Firmware has established itself as a key part of the Armv8-A software stack. Broadening its applicability across all segments, from embedded to enterprise, is challenging. This session discusses the latest developments, including extension into the 32-bit space.
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-402

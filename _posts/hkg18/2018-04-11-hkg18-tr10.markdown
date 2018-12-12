@@ -7,7 +7,7 @@ categories:
 comments: false
 date: 2018-04-11 14:16:35
 excerpt: Experience with automation of test devices in Linaro extends over seven years,
-  millions of test jobs, using over one hundred different types of devices, ARM, x86
+  millions of test jobs, using over one hundred different types of devices, Arm, x86
   and emulated. Varied primary boot methods have been used alone or in combination,
   including U-Boot, UEFI, Fastboot, IoT, PXE. The Linaro lab itself has supported
   over 150 devices, covering more than 40 different device types. There are a range
@@ -48,7 +48,7 @@ Track: Tools
 
 
 ## Session Summary
-Experience with automation of test devices in Linaro extends over seven years, millions of test jobs, using over one hundred different types of devices, ARM, x86 and emulated. Varied primary boot methods have been used alone or in combination, including U-Boot, UEFI, Fastboot, IoT, PXE. The Linaro lab itself has supported over 150 devices, covering more than 40 different device types. There are a range of issues with automating new hardware and the experience of the LAVA lab and software teams has highlighted areas where decisions at the hardware design stage have delayed deployment of automation or made the task of triage of automation failures much harder than necessary. This session is a summary of our experience with background and examples. The aim is to provide background information about why common failures occur, and recommendations on how to design hardware and firmware to reduce problems in the future. We describe some device design features as hard requirements to enable successful automation, and some which are guaranteed to block automation.
+Experience with automation of test devices in Linaro extends over seven years, millions of test jobs, using over one hundred different types of devices, Arm, x86 and emulated. Varied primary boot methods have been used alone or in combination, including U-Boot, UEFI, Fastboot, IoT, PXE. The Linaro lab itself has supported over 150 devices, covering more than 40 different device types. There are a range of issues with automating new hardware and the experience of the LAVA lab and software teams has highlighted areas where decisions at the hardware design stage have delayed deployment of automation or made the task of triage of automation failures much harder than necessary. This session is a summary of our experience with background and examples. The aim is to provide background information about why common failures occur, and recommendations on how to design hardware and firmware to reduce problems in the future. We describe some device design features as hard requirements to enable successful automation, and some which are guaranteed to block automation.
 ---------------------------------------------------
 ## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-tr10/

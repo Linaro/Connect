@@ -7,7 +7,7 @@ categories:
 comments: true
 date: 2015-06-30 17:11:29
 excerpt: Coresight is the name given to a set of IP blocks providing hardware assisted
-  tracing for ARM based SoCs. This presentation will give an introduction to the technology,
+  tracing for Arm based SoCs. This presentation will give an introduction to the technology,
   how it works and offer a glimpse of the capabilities it offers. More specifically
   we will go over the components that are part of the architecture and how they are
   used. Next will be presented the framework Linaro is working on in an effort to
@@ -53,7 +53,7 @@ Location: Grand Peninsula A, Hyatt Regency San Francisco Airport, Burlingame, CA
 ---------------------------------------------------
 
 ★ Session Summary ★
-Coresight is the name given to a set of IP blocks providing hardware assisted tracing for ARM based SoCs. This presentation will give an introduction to the technology, how it works and offer a glimpse of the capabilities it offers. More specifically we will go over the components that are part of the architecture and how they are used. Next will be presented the framework Linaro is working on in an effort to provide consolidation and standardization of interfaces to the coresight subsystem. We will conclude with a status of our current upstreaming efforts and how we see the coming months unfolding.
+Coresight is the name given to a set of IP blocks providing hardware assisted tracing for Arm based SoCs. This presentation will give an introduction to the technology, how it works and offer a glimpse of the capabilities it offers. More specifically we will go over the components that are part of the architecture and how they are used. Next will be presented the framework Linaro is working on in an effort to provide consolidation and standardization of interfaces to the coresight subsystem. We will conclude with a status of our current upstreaming efforts and how we see the coming months unfolding.
 ---------------------------------------------------
 
 ★ Resources ★

@@ -13,7 +13,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-204/
 post_format:
 - Video
 session_id: BKK16-204
-session_track: ARM
+session_track: Arm
 slug: bkk16-204
 speakers: Robin Randhawa
 title: 'BKK16-204: Unified Performance Management'

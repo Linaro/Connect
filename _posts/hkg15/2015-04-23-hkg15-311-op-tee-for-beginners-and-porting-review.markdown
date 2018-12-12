@@ -9,7 +9,7 @@ date: 2015-04-23 15:36:46
 excerpt: Explains the building blocks involved in Security including TrustZone, OP-TEE,
   Trusted Firmware etc. Goes into detail on how Secure Boot Works.. and Why. Explains
   how a simple secure Trusted Application interacts with OP-TEE and works. Brief overview
-  on how to port OP-TEE to an ARM platform. Opens discussions for Potential Challenges
+  on how to port OP-TEE to an Arm platform. Opens discussions for Potential Challenges
   and Hardware limitations and how they can be overcome.
 featured_image_name: HKG15-311.jpg
 image:
@@ -45,7 +45,7 @@ Speaker: Victor Chong
 Date: February 11, 2015 
 --------------------------------------------------- 
 ★ Session Summary ★ 
-Explains the building blocks involved in Security including TrustZone, OP-TEE, Trusted Firmware etc. Goes into detail on how Secure Boot Works.. and Why. Explains how a simple secure Trusted Application interacts with OP-TEE and works. Brief overview on how to port OP-TEE to an ARM platform. Opens discussions for Potential Challenges and Hardware limitations and how they can be overcome. 
+Explains the building blocks involved in Security including TrustZone, OP-TEE, Trusted Firmware etc. Goes into detail on how Secure Boot Works.. and Why. Explains how a simple secure Trusted Application interacts with OP-TEE and works. Brief overview on how to port OP-TEE to an Arm platform. Opens discussions for Potential Challenges and Hardware limitations and how they can be overcome. 
 -------------------------------------------------- 
 ★ Resources ★ 
 Pathable: https://hkg15.pathable.com/meetings/250816 

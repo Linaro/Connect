@@ -9,7 +9,7 @@ categories:
 comments: false
 date: 2015-09-24 00:00:00
 excerpt: "An introductory session of a system-level overview at Power State Coordination
-  \n* Focus on ARMv8\n* Goes top-down from ACPI\n* A demo based on the current code
+  \n* Focus on Armv8\n* Goes top-down from ACPI\n* A demo based on the current code
   in qemu (and/or 96Boards)\n* The specifications are very dynamic - what\u2019s onging
   for ACPI and PSCI"
 featured_image_name: SFO15TR9PSCIACPIandUEFItoboot.jpg
@@ -29,7 +29,7 @@ slug: sfo15-tr9-psci-acpi-and-uefi-to-boot
 speakers: Bill Fletcher
 tags:
 - ACPI
-- ARMv8
+- Armv8
 title: 'SFO15-TR9: PSCI, ACPI (and UEFI to boot)'
 video_length: '32:31'
 video_thumbnail: None
@@ -43,7 +43,7 @@ Date: September 24, 2015
 
 ★ Session Description ★
 An introductory session of a system-level overview at Power State Coordination 
-- Focus on ARMv8
+- Focus on Armv8
 - Goes top-down from ACPI
 - A demo based on the current code in qemu
 - The specifications are very dynamic - what’s onging for ACPI and PSCI

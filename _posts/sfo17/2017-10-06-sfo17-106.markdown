@@ -7,9 +7,9 @@ categories:
 comments: false
 date: 2017-10-06 16:53:43
 excerpt: "One of the key features of QEMU is the ability to emulate foreign computer
-  architectures. This means, for example, that you can run your favorite ARM binaries
+  architectures. This means, for example, that you can run your favorite Arm binaries
   and system images on your x86 laptop or server. QEMU is used a key tool for engineers
-  and test infrastructure across both ARM and x86 ecosystems, and is also the basis
+  and test infrastructure across both Arm and x86 ecosystems, and is also the basis
   of the Android emulator. QEMU\u2019s emulation features is also used for system
   modeling in some scenarios. In this session we will present what QEMU currently
   does well as an emulator, and what the QEMU project has deliberately deemed as out-of-scope.
@@ -47,7 +47,7 @@ Speaker: Christoffer Dall
 Track: Virtualization
 
 ★ Session Summary ★
-One of the key features of QEMU is the ability to emulate foreign computer architectures. This means, for example, that you can run your favorite ARM binaries and system images on your x86 laptop or server. QEMU is used a key tool for engineers and test infrastructure across both ARM and x86 ecosystems, and is also the basis of the Android emulator. QEMU’s emulation features is also used for system modeling in some scenarios. In this session we will present what QEMU currently does well as an emulator, and what the QEMU project has deliberately deemed as out-of-scope. We will also discuss future avenues that could be pursued to further improve capabilities of QEMU emulation, such as adding support for new architecture features, and support writing device emulation in a higher level language than C. We encourage the audience to provide user stories of QEMU from Linaro member companies to help direct our efforts.
+One of the key features of QEMU is the ability to emulate foreign computer architectures. This means, for example, that you can run your favorite Arm binaries and system images on your x86 laptop or server. QEMU is used a key tool for engineers and test infrastructure across both Arm and x86 ecosystems, and is also the basis of the Android emulator. QEMU’s emulation features is also used for system modeling in some scenarios. In this session we will present what QEMU currently does well as an emulator, and what the QEMU project has deliberately deemed as out-of-scope. We will also discuss future avenues that could be pursued to further improve capabilities of QEMU emulation, such as adding support for new architecture features, and support writing device emulation in a higher level language than C. We encourage the audience to provide user stories of QEMU from Linaro member companies to help direct our efforts.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-106/

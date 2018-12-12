@@ -8,7 +8,7 @@ comments: false
 date: 2018-04-11 14:12:48
 excerpt: 'An overview of the Trusted Firmware M project with an in depth presentation
   of TF-M core and Secure Partition Manager for a Cortex-M33-based platform. This
-  talk also includes a brief section on TrustZone for ARMv8-M.
+  talk also includes a brief section on TrustZone for Armv8-M.
 
 
   _Trusted Firmware M
@@ -55,7 +55,7 @@ Track: LITE
 
 
 ## Session Summary
-An overview of the Trusted Firmware M project with an in depth presentation of TF-M core and Secure Partition Manager for a Cortex-M33-based platform. This talk also includes a brief section on TrustZone for ARMv8-M.
+An overview of the Trusted Firmware M project with an in depth presentation of TF-M core and Secure Partition Manager for a Cortex-M33-based platform. This talk also includes a brief section on TrustZone for Armv8-M.
 
 _Trusted Firmware M
 

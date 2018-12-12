@@ -31,7 +31,7 @@ This AI and Neural Networks on Arm Summit has ended! Below is a table of resourc
 |Mark Charlebois|Qualcomm|[YVR18-330](https://www.youtube.com/watch?v=MgyfmaYhtLU)|Qualcomm Snapdragon AI Software|
 |Thom Lane|Amazon AWS AI|[YVR18-331](https://www.youtube.com/watch?v=BDWlIew5pfo)|ONNX and Edge Deployments|
 |Jammy Zhou|Linaro|[YVR18-332](https://www.youtube.com/watch?v=daYr4tpncFo)|TVM compiler stack and ONNX support|
-|Luba Tang|Skymizer|[YVR18-333](https://www.youtube.com/watch?v=BDWlIew5pfo)|ONNC (Open Neural Network Compiler) for ARM Cortex-M|
+|Luba Tang|Skymizer|[YVR18-333](https://www.youtube.com/watch?v=BDWlIew5pfo)|ONNC (Open Neural Network Compiler) for Arm Cortex-M|
 |Shouyong Liu|Thundersoft|[YVR18-334](https://www.youtube.com/watch?v=CoBhUS9SL4U)|AI Alive: On Device and In-App|
 |Ralph Wittig|Xilinx|[YVR18-335](https://www.youtube.com/watch?v=FimBHlcfhxA)|Xilinx: AI on FPGA and ACAP Roadmap|
 |Andrea Gallo and others|Linaro, Arm, Qualcomm, Skymizer, Xilinx|[YVR18-337](https://www.youtube.com/watch?v=igH_OMSeIPI)|BoF: JIT vs offline compilers vs deploying at the Edge|

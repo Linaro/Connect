@@ -10,8 +10,8 @@ excerpt: "David always enjoyed mathematics, but America's space program together
   in 1982 with a degree in Computer Science. The future turns out to have less flashing
   lights than he expected. At Digital Equipment Corporation he got involved in the
   port of Linux\xC2\xAE to the Alpha processor. This gave him an abiding respect for
-  the power of open source in general and Linux in particular. He worked on StrongARM
-  before moving to ARM where he added tools experience. He's an ARM Fellow; which
+  the power of open source in general and Linux in particular. He worked on StrongArm
+  before moving to Arm where he added tools experience. He's an Arm Fellow; which
   he says, \"really means that I'm a techno-dweeb with a wide freedom to meddle.\""
 featured_image_name: LCA14-500K1.jpg
 image:
@@ -37,4 +37,4 @@ wordpress_id: 2137
 youtube_video_url: https://www.youtube.com/watch?v=AQRVNO4NEaM
 ---
 
-David always enjoyed mathematics, but America's space program together with 'Star Trek' made him think that computers were really interesting and so he graduated in 1982 with a degree in Computer Science. The future turns out to have less flashing lights than he expected. At Digital Equipment Corporation he got involved in the port of Linux® to the Alpha processor. This gave him an abiding respect for the power of open source in general and Linux in particular. He worked on StrongARM before moving to ARM where he added tools experience. He's an ARM Fellow; which he says, "really means that I'm a techno-dweeb with a wide freedom to meddle."
+David always enjoyed mathematics, but America's space program together with 'Star Trek' made him think that computers were really interesting and so he graduated in 1982 with a degree in Computer Science. The future turns out to have less flashing lights than he expected. At Digital Equipment Corporation he got involved in the port of Linux® to the Alpha processor. This gave him an abiding respect for the power of open source in general and Linux in particular. He worked on StrongArm before moving to Arm where he added tools experience. He's an Arm Fellow; which he says, "really means that I'm a techno-dweeb with a wide freedom to meddle."

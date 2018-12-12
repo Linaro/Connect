@@ -14,4 +14,4 @@ title: Android Treble on Texas Instruments Beagle-X15 at Linaro Connect
 youtube_video_url: https://www.youtube.com/watch?v=22keOnUE0W0
 tag: demo
 ---
-Android Treble implemented on TI Beagle-X15 development board which is ARM Cortex-A15, making the upgrade process easier. So there is no need to communicate with the vendor to upgrade a device.
+Android Treble implemented on TI Beagle-X15 development board which is Arm Cortex-A15, making the upgrade process easier. So there is no need to communicate with the vendor to upgrade a device.

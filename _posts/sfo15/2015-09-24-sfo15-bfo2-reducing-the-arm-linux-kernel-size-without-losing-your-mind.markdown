@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-24-Thursday/SFO15-BF02-ReducingARMLinuxKernelSize.pdf
+amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-24-Thursday/SFO15-BF02-ReducingArmLinuxKernelSize.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-23-Wednesday/SFO15
   BFO2 Reducing the arm linux kernel size without losing your mind.mp4
 author: connect
@@ -30,4 +30,4 @@ youtube_video_url: https://www.youtube.com/watch?v=tnKO0TKi3wo
 ---
 
 Automatically reducing the Linux kernel size may be achieved in
-different ways. Using LTO (Link Time Optimization) is one such way with many advantages, but it also has major issues. A simpler alternative is linker section garbage collection. However, it turns out that even “simpler” solutions have their share of unsuspected pitfalls, especially on ARM. Those pitfalls and proposed solutions are the subjects of this discussion.
+different ways. Using LTO (Link Time Optimization) is one such way with many advantages, but it also has major issues. A simpler alternative is linker section garbage collection. However, it turns out that even “simpler” solutions have their share of unsuspected pitfalls, especially on Arm. Those pitfalls and proposed solutions are the subjects of this discussion.

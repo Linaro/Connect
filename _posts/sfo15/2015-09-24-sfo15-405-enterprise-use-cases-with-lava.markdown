@@ -7,7 +7,7 @@ categories:
 comments: false
 date: 2015-09-24 00:00:00
 excerpt: UEFI boot testing with SCT and luvOS automation have stretched the original
-  design scope for LAVA, the session will describe the challenges and needs for ARM
+  design scope for LAVA, the session will describe the challenges and needs for Arm
   server boot test automation going forward in cooperation with the LAVA and CI teams.
 featured_image_name: SFO15405EnterpriseUseCaseswithLAVA.jpg
 image:
@@ -37,7 +37,7 @@ Speakers:  Neil Williams, Dave Pigott, Fathi Boudra, Naresh Bhat, Leif Lindholm
 Date: September 24, 2015
 
 ★ Session Description ★
-UEFI boot testing with SCT and luvOS automation have stretched the original design scope for LAVA, the session will describe the challenges and needs for ARM server boot test automation going forward in cooperation with the LAVA and CI teams.
+UEFI boot testing with SCT and luvOS automation have stretched the original design scope for LAVA, the session will describe the challenges and needs for Arm server boot test automation going forward in cooperation with the LAVA and CI teams.
 
 ★ Resources ★ 
 Presentation:

@@ -18,7 +18,7 @@ wordpress_id: 5888
 **Date:** Tuesday 26th September 2017
 **Time:** 9:15 – 9:45
 
-SynQuacer is an ARM® based CPU chip developed by Socionext. It contains 24 cores of
+SynQuacer is an Arm® based CPU chip developed by Socionext. It contains 24 cores of
 Cortex™-A53. The SynQuacer processor is an ideal foundation for low-cost, highly-integrated
 and power-efficient server systems deployed to handle edge computing, Internet of Things (IoT)
 data processing and cloud service applications.

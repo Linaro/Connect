@@ -6,7 +6,7 @@ categories:
 - sfo17
 comments: false
 date: 2017-10-06 16:53:39
-excerpt: 'ARM''s Scalable Vector Extensions present an innovative way of scaling silicon
+excerpt: 'Arm''s Scalable Vector Extensions present an innovative way of scaling silicon
   performance without needing to constantly re-write your code. However for a system
   emulator like QEMU it presents a number of challenges. There are fairly routine
   problems like implementing the
@@ -48,7 +48,7 @@ Speaker: Alex Bennée
 Track: Virtualization
 
 ★ Session Summary ★
-ARM's Scalable Vector Extensions present an innovative way of scaling silicon performance without needing to constantly re-write your code. However for a system emulator like QEMU it presents a number of challenges. There are fairly routine problems like implementing the
+Arm's Scalable Vector Extensions present an innovative way of scaling silicon performance without needing to constantly re-write your code. However for a system emulator like QEMU it presents a number of challenges. There are fairly routine problems like implementing the
 necessary architecture pre-requisites of half-precision and complex numbers. There are more complex interactions where our recent work on multi-threaded execution interacts with the need to support SVE's memory model and atomicity requirements. Also making increasing use of SIMD instructions also hits one of QEMUs performance bottle-necks as the implementation of multiple-vector operations are several times slower than "normal" scalar integer instructions. As we also take instruction verification seriously we need to look at improving our testing tools that currently have naive assumptions about results of an individual instruction across various implementations. As you will see implementing SVE is more than just adding a few extra instructions.
 ---------------------------------------------------
 ★ Resources ★

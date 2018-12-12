@@ -27,6 +27,6 @@ OPEN AI LAB, initiated by Arm China, Allwinner and Horizon, open to all partners
 **Bio:**
 
 Leading development of Open AID platform in OPEN AI LAB.
-Before joining in OPEN AI LAB, Mingfei worked in Broadcom, Netlogic, RMI and Harbour Network as a R&D/AE/FAE leader, experienced in AI, ARM/MIPS Processors, Networking, NFV, MDC, HPC, Security.
+Before joining in OPEN AI LAB, Mingfei worked in Broadcom, Netlogic, RMI and Harbour Network as a R&D/AE/FAE leader, experienced in AI, Arm/MIPS Processors, Networking, NFV, MDC, HPC, Security.
 
 Master, Computer Science & Engineering, Xidian University of China.

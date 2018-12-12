@@ -22,11 +22,11 @@ tags:
 - Greg Kroah-Hartman
 - hkg15
 - HKG15-300K2
-title: 'HKG15 : Guest Keynote - Bob Monkman, ARM'
+title: 'HKG15 : Guest Keynote - Bob Monkman, Arm'
 video_length: '40:26'
 video_thumbnail: None
 wordpress_id: 731
 youtube_video_url: https://www.youtube.com/watch?v=U5GQ_9jCOZ8
 ---
 
-Guest Keynote - Bob Monkman, ARM
+Guest Keynote - Bob Monkman, Arm

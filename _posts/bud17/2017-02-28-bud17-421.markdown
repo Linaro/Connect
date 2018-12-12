@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-421%20What%27s%20happening%20with%20ARM%20Mali%20drivers.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-421%20What%27s%20happening%20with%20Arm%20Mali%20drivers.mp4
 author: connect
 categories:
 - bud17
@@ -21,10 +21,10 @@ slideshare_presentation_url: None
 slug: bud17-421
 speakers: None
 tags:
-- ARM mali
+- Arm mali
 - drivers
 - Mali
-title: What's happening with ARM Mali drivers - BUD17-421
+title: What's happening with Arm Mali drivers - BUD17-421
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4709
@@ -32,14 +32,14 @@ youtube_video_url: https://youtu.be/dPjSm_98rgo
 ---
 
 "Session ID: BUD17-421
-Session Name: What's happening with ARM Mali drivers - BUD17-421
+Session Name: What's happening with Arm Mali drivers - BUD17-421
 Speaker: John Reitan, 
 Ketil Johnsen
 Track: 
 
 
 ★ Session Summary ★
-Ketil Johnsen and John Reitan from ARM will provide the latest update on ARM's Mali drivers and hold a Q&A; session.
+Ketil Johnsen and John Reitan from Arm will provide the latest update on Arm's Mali drivers and hold a Q&A; session.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-421/
@@ -55,7 +55,7 @@ Erzsébet krt. 43-49,
 1073 Hungary
 
 ---------------------------------------------------
-Keyword: Mali, ARM mali, drivers
+Keyword: Mali, Arm mali, drivers
 http://www.linaro.org
 http://connect.linaro.org
 ---------------------------------------------------

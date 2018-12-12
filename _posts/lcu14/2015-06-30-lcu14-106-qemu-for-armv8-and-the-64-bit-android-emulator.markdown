@@ -1,15 +1,15 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-15-Monday/LCU14-106.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-15-Monday/LCU14-106-+QEMU+for+ARMv8+and+the+64-bit+Android+Emulator.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-15-Monday/LCU14-106-+QEMU+for+Armv8+and+the+64-bit+Android+Emulator.mp4
 author: connect
 categories:
 - lcu14
 comments: true
 date: 2015-06-30 17:11:22
-excerpt: QEMU ARMv8-A system emulation was completed shortly after LCA14 and has been
+excerpt: QEMU Armv8-A system emulation was completed shortly after LCA14 and has been
   fully upstreamed in QEMU. During this session we will briefly cover the level of
   support and functionality, and we will introduce developers to using QEMU for running
-  64-bit ARM kernels and distributions using QEMU. We also developed a small set of
+  64-bit Arm kernels and distributions using QEMU. We also developed a small set of
   patches on top of upstream QEMU which allows us to run a 64-bit Android build. We
   will explain the status and efforts coordinated between Google and Linaro, demo
   the working system, and show how developers can start playing with this.
@@ -36,14 +36,14 @@ tags:
 - LCU14-106
 - Peter Maydell
 - Virtualization
-title: 'LCU14-106: QEMU for ARMv8 and the 64-bit Android Emulator'
+title: 'LCU14-106: QEMU for Armv8 and the 64-bit Android Emulator'
 video_length: '15:35'
 video_thumbnail: None
 wordpress_id: 1510
 youtube_video_url: https://www.youtube.com/watch?v=e6IjNpCKmT4
 ---
 
-LCU14-106: QEMU for ARMv8 and the 64-bit Android Emulator
+LCU14-106: QEMU for Armv8 and the 64-bit Android Emulator
 
 ---------------------------------------------------
 
@@ -53,7 +53,7 @@ Location: Grand Peninsula B, Hyatt Regency San Francisco Airport, Burlingame, CA
 ---------------------------------------------------
 
 ★ Session Summary ★
-QEMU ARMv8-A system emulation was completed shortly after LCA14 and has been fully upstreamed in QEMU.  During this session we will briefly cover the level of support and functionality, and we will introduce developers to using QEMU for running 64-bit ARM kernels and distributions using QEMU.  We also developed a small set of patches on top of upstream QEMU which allows us to run a 64-bit Android build.  We will explain the status and efforts coordinated between Google and Linaro, demo the working system, and show how developers can start playing with this.
+QEMU Armv8-A system emulation was completed shortly after LCA14 and has been fully upstreamed in QEMU.  During this session we will briefly cover the level of support and functionality, and we will introduce developers to using QEMU for running 64-bit Arm kernels and distributions using QEMU.  We also developed a small set of patches on top of upstream QEMU which allows us to run a 64-bit Android build.  We will explain the status and efforts coordinated between Google and Linaro, demo the working system, and show how developers can start playing with this.
 ---------------------------------------------------
 
 ★ Resources ★

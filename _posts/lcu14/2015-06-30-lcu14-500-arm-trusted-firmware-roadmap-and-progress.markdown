@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-19-Friday/LCU14-500.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-19-Friday/LCU14-500-+ARM+Trusted+Firmware+roadmap+and+progress.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-19-Friday/LCU14-500-+Arm+Trusted+Firmware+roadmap+and+progress.mp4
 author: connect
 categories:
 - lcu14
@@ -24,14 +24,14 @@ tags:
 - lcu14
 - LCU14-500
 - Security
-title: 'LCU14-500: ARM Trusted Firmware roadmap and progress'
+title: 'LCU14-500: Arm Trusted Firmware roadmap and progress'
 video_length: '35:32'
 video_thumbnail: None
 wordpress_id: 1561
 youtube_video_url: https://www.youtube.com/watch?v=je0_-yYgKdc
 ---
 
-LCU14-500: ARM Trusted Firmware roadmap and progress
+LCU14-500: Arm Trusted Firmware roadmap and progress
 
 ---------------------------------------------------
 

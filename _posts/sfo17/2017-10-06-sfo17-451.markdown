@@ -8,7 +8,7 @@ excerpt: 'The next flagship supercomputer in Japan, replacement of the K
 
   to be operated in early 2020s.  Its node architecture and interconnect
 
-  are respectively ARM V8 SVC and a 6-D mesh/torus network designed by
+  are respectively Arm V8 SVC and a 6-D mesh/torus network designed by
 
   Fujitsu.  The system software developed for the post-K supercomputer
 
@@ -45,7 +45,7 @@ Track: LEG
 The next flagship supercomputer in Japan, replacement of the K
 supercomputer and thus we call it post-K supercomputer, is being designed
 to be operated in early 2020s.  Its node architecture and interconnect
-are respectively ARM V8 SVC and a 6-D mesh/torus network designed by
+are respectively Arm V8 SVC and a 6-D mesh/torus network designed by
 Fujitsu.  The system software developed for the post-K supercomputer
 includes a novel operating system for general-purpose manycore
 architectures, low-level communication and MPI libraries, and file I/O
