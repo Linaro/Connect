@@ -78,7 +78,10 @@ $(document).ready(function () {
 
     // Check for modal close event
     $("#connectPromoVideo").on('hidden.bs.modal', function () {
-        $(".youtube iframe").attr('src', '');
+        $('iframe').each(function(index) {
+            $(this).attr('src', $(this).attr('src'));
+            return false;
+        });
         $(".youtube img").show();
         $(".youtube .play-button").show();
     });
