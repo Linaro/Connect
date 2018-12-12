@@ -6,7 +6,6 @@ date: 2015-09-09 16:13:38
 featured_image_name: Tiger Hu.jpg
 image:
   featured: true
-  name: Tiger Hu.jpg
   path: /assets/images/speakers/Tiger Hu.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/tiger-hu/

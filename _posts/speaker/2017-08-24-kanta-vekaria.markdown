@@ -6,7 +6,6 @@ date: 2017-08-24 14:00:39
 featured_image_name: Kanta Vekaria.jpg
 image:
   featured: true
-  name: Kanta Vekaria.jpg
   path: /assets/images/speakers/Kanta Vekaria.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/kanta-vekaria/

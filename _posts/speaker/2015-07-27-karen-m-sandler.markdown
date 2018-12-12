@@ -6,7 +6,6 @@ date: 2015-07-27 14:08:09
 featured_image_name: Karen M. Sandler.jpg
 image:
   featured: true
-  name: Karen M. Sandler.jpg
   path: /assets/images/speakers/Karen M. Sandler.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/karen-m-sandler/

@@ -6,7 +6,6 @@ date: 2015-03-24 11:52:33
 featured_image_name: George Grey.jpg
 image:
   featured: true
-  name: George Grey.jpg
   path: /assets/images/speakers/George Grey.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/george-grey/

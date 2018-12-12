@@ -6,7 +6,6 @@ date: 2018-02-14 12:15:29
 featured_image_name: Shane Coughlan.jpeg
 image:
   featured: true
-  name: Shane Coughlan.jpg
   path: /assets/images/speakers/Shane Coughlan.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/shane-coughlan/
