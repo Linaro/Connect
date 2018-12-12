@@ -5,7 +5,6 @@ comments: false
 date: 2018-08-14 08:40:50
 image:
   featured: true
-  name: ChrisBenson.jpg
   path: /assets/images/speakers/ChrisBenson.jpg
 layout: speaker-post
 permalink: /speaker/:title/

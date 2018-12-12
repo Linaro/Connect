@@ -6,7 +6,6 @@ date: 2016-01-25 11:49:05
 featured_image_name: Harald Welte.jpg
 image:
   featured: true
-  name: Harald Welte.jpg
   path: /assets/images/speakers/Harald Welte.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/harald/

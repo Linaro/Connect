@@ -6,7 +6,6 @@ date: 2015-03-24 11:56:25
 featured_image_name: Neil Trevett.jpg
 image:
   featured: true
-  name: Neil Trevett.jpg
   path: /assets/images/speakers/Neil Trevett.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/bob-monkman/

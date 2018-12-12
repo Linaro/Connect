@@ -3,16 +3,14 @@ author: linaro
 categories: speaker
 comments: false
 date: 2017-09-04 15:17:33
-featured_image_name: "\u897F\u53E3 \u6CF0\u592B Yasuo Nishiguchi.jpg"
 image:
   featured: true
-  name: "\u897F\u53E3 \u6CF0\u592B Yasuo Nishiguchi.jpg"
-  path: "/assets/images/speakers/\u897F\u53E3 \u6CF0\u592B Yasuo Nishiguchi.jpg"
+  path: "/assets/images/speakers/YasuoNishiguchi.jpg"
 layout: speaker-post
 link: http://connect.linaro.org/member/yasuo-nishiguchi/
 permalink: /speaker/:title/
 slug: yasuo-nishiguchi
-title: "\u897F\u53E3 \u6CF0\u592B Yasuo Nishiguchi"
+title: "Yasuo Nishiguchi"
 wordpress_id: 5888
 ---
 

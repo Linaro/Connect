@@ -6,7 +6,6 @@ date: 2017-09-13 13:38:33
 featured_image_name: Jan Rabaey.jpeg
 image:
   featured: true
-  name: Jan Rabaey.jpeg
   path: /assets/images/speakers/Jan Rabaey.jpeg
 layout: speaker-post
 link: http://connect.linaro.org/member/jan-rabaey/

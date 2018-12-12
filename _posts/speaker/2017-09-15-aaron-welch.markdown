@@ -6,7 +6,6 @@ date: 2017-09-15 08:23:56
 featured_image_name: Aaron Welch.jpg
 image:
   featured: true
-  name: Aaron Welch.jpg
   path: /assets/images/speakers/Aaron Welch.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/aaron-welch/

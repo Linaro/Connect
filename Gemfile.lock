@@ -78,7 +78,7 @@ GEM
       jekyll
     jekyll-watch (2.1.2)
       listen (~> 3.0)
-    jumbo-jekyll-theme (3.0.32)
+    jumbo-jekyll-theme (3.0.53)
       autoprefixer-rails (~> 9.0, >= 9.0.0)
       bootstrap-sass (~> 3.3.6)
       ffi (~> 1.9.24)
@@ -91,6 +91,7 @@ GEM
       jekyll-paginate-v2 (> 0)
       jekyll-readme-index (= 0.2)
       jekyll-redirect-from (~> 0.12)
+      jekyll-responsive-image
       jekyll-seo-tag (~> 2.2)
       jekyll-sitemap (~> 1.1)
       jekyll-theme-assets-updated (~> 1.1)
@@ -137,7 +138,7 @@ DEPENDENCIES
   jekyll-data
   jekyll-include-cache
   jekyll-responsive-image
-  jumbo-jekyll-theme (= 3.0.32)
+  jumbo-jekyll-theme (= 3.0.53)
   nokogiri
 
 BUNDLED WITH

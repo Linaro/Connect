@@ -2,6 +2,7 @@
 layout: jumbotron
 css-package: home
 js-package: home
+id: index
 title: Linaro Connect Bangkok 2019 (BKK19)
 description: |-
     Linaro Connect Bangkok 2019 (BKK19) will take place on Monday 1 April to Friday 5 April 2019
@@ -14,7 +15,14 @@ jumbotron:
     title: Bringing the Arm ecosystem together
     include: jumbotron-home.html
     description: ""
-    background-image: /assets/images/content/bkk19-website-banner.jpg
+    video: 
+        source:
+            mp4: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromo.mp4
+            ogv: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromo.ogv
+            webm: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromo.webm
+        poster: /assets/images/content/bkk19-bg.jpg
+    animation: fade
+home: true
 ---
 <!-- Video Modal -->
 <div class="modal fade" id="connectPromoVideo" tabindex="-1" role="dialog" aria-labelledby="connectModalLabel">

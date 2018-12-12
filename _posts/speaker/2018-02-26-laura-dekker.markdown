@@ -6,7 +6,6 @@ date: 2018-02-26 12:19:56
 featured_image_name: Laura Dekker.jpg
 image:
   featured: true
-  name: Laura Dekker.jpg
   path: /assets/images/speakers/Laura Dekker.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/laura-dekker/

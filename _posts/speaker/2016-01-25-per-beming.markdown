@@ -6,7 +6,6 @@ date: 2016-01-25 11:49:26
 featured_image_name: Per Beming.jpg
 image:
   featured: true
-  name: Per Beming.jpg
   path: /assets/images/speakers/Per Beming.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/per-beming/

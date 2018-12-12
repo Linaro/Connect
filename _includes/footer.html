@@ -1,4 +1,6 @@
-{% include previous-sponsors.html %}
+{% unless page.id == "index" %}
+    {% include previous-sponsors.html %}
+{% endunless %}
 {% include github-edit.html %}
 <div class="row footer">
     <footer id="footer">
@@ -43,7 +45,7 @@
                 <div class="container no-padding">
                     <div class="col-md-6 company-footer-bottom">
                         <a href="{{site.data.linaro.url}}">
-                            <img src="{% asset_path '{{site.data.settings.linaro-footer-image}}'  %}" class="linaro-logo"
+                            <img src="/assets/images/Linaro-Sprinkle.png" class="linaro-logo"
                                 alt="Linaro Icon" />
                         </a>
                         Copyright &copy; {{ 'now' | date: "%Y" }} Linaro Limited

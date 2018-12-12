@@ -5,7 +5,6 @@ comments: false
 date: 2018-08-14 08:40:50
 image:
   featured: true
-  name: ShinpeiKato.jpg
   path: /assets/images/speakers/ShinpeiKato.jpg
 layout: speaker-post
 permalink: /speaker/:title/

@@ -6,7 +6,6 @@ date: 2018-06-22 14:41:41
 featured_image_name: Shuah Khan.jpg
 image:
   featured: true
-  name: Shuah Khan.jpg
   path: /assets/images/speakers/Shuah Khan.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/shuah-khan/
