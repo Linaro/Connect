@@ -1,4 +1,6 @@
-{% include previous-sponsors.html %}
+{% unless page.id == "index" %}
+    {% include previous-sponsors.html %}
+{% endunless %}
 {% include github-edit.html %}
 <div class="row footer">
     <footer id="footer">
