@@ -66,21 +66,20 @@ $(document).ready(function () {
         }( i ) );
 
         youtube[i].addEventListener( "click", function() {
-
             var iframe = document.createElement( "iframe" );
-
-                    iframe.setAttribute( "frameborder", "0" );
-                    iframe.setAttribute( "allowfullscreen", "" );
-                    iframe.setAttribute( "src", "https://www.youtube.com/embed/"+ this.dataset.embed +"?rel=0&showinfo=0&autoplay=1" );
-
-                    $(".youtube img").hide();
-                    this.appendChild( iframe );
+            iframe.setAttribute( "frameborder", "0" );
+            iframe.setAttribute( "allowfullscreen", "" );
+            iframe.setAttribute( "src", "https://www.youtube.com/embed/"+ this.dataset.embed +"?rel=0&showinfo=0&autoplay=1" );
+            this.appendChild( iframe );
+            $(".youtube img").hide();
+            $(".youtube .play-button").hide();
         } );	
     }
 
-        // Check for modal close event
-        $("#connectPromoVideo").on('hidden.bs.modal', function () {
-            $(".youtube iframe").attr('src', '');
-            $(".youtube img").show();
-        });
+    // Check for modal close event
+    $("#connectPromoVideo").on('hidden.bs.modal', function () {
+        $(".youtube iframe").attr('src', '');
+        $(".youtube img").show();
+        $(".youtube .play-button").show();
+    });
 });
