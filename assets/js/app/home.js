@@ -68,6 +68,7 @@ $(document).ready(function () {
         youtube[i].addEventListener( "click", function() {
             var iframe = document.createElement( "iframe" );
             iframe.setAttribute( "frameborder", "0" );
+            iframe.setAttribute( "id", "promoVideo" );
             iframe.setAttribute( "allowfullscreen", "" );
             iframe.setAttribute( "src", "https://www.youtube.com/embed/"+ this.dataset.embed +"?rel=0&showinfo=0&autoplay=1" );
             this.appendChild( iframe );
@@ -77,12 +78,13 @@ $(document).ready(function () {
     }
 
     // Check for modal close event
-    $("#connectPromoVideo").on('hidden.bs.modal', function () {
-        $('iframe').each(function(index) {
-            $(this).attr('src', $(this).attr('src'));
-            return false;
-        });
-        $(".youtube img").show();
-        $(".youtube .play-button").show();
+    $(".closeVideo").on('click', function () {
+        // Reload Iframe
+        var iframe = document.getElementById("promoVideo");
+        iframe.src = iframe.src;
+        console.log($("#youtube-container").attr("data-embed"));
+        console.log("Closed and paused.");
     });
+
+
 });
