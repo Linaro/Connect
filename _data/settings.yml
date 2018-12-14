@@ -112,6 +112,6 @@ schema:
 # Disqus Comments
 disqus:
     enabled: true
-    shortname: Linaro
+    shortname: linaroconnect
 # Placeholder for Missing Images
 placeholder: /assets/images/content/linaro-logo.png
