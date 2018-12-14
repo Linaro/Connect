@@ -1,17 +1,17 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-104%20Enabling%20Arm%20DynamIQ%20support%20v1.0.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-104%20Enabling%20ARM%20DynamIQ%20support.mp4
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-104%20Enabling%20Arm%20DynamIQ%20support.mp4
 author: connect
 categories:
 - sfo17
 comments: false
 date: 2017-10-06 16:53:39
-excerpt: 'DynamIQ technology is the foundation for future ARM Cortex-A processors.
+excerpt: 'DynamIQ technology is the foundation for future Arm Cortex-A processors.
   This session discusses the software impact of DynamIQ and how to get the most out
-  of it, with particular reference to ARM Trusted Firmware and EAS.
+  of it, with particular reference to Arm Trusted Firmware and EAS.
 
 
-  Last March, ARM announced DynamiQ which gives a new level of flexibility in designing
+  Last March, Arm announced DynamiQ which gives a new level of flexibility in designing
   heterogeneous system. During this session, we will cover what are the impacts and
   how to enable its supports in the kernel.'
 featured_image_name: SFO17-104.jpg
@@ -43,9 +43,9 @@ Speakers: Dan Handley (Arm) -  Ionela Voinescu (Arm) - Vincent Guittot (Linaro)
 Track: Power Management
 
 ★ Session Summary ★
-DynamIQ technology is the foundation for future ARM Cortex-A processors. This session discusses the software impact of DynamIQ and how to get the most out of it, with particular reference to ARM Trusted Firmware and EAS.
+DynamIQ technology is the foundation for future Arm Cortex-A processors. This session discusses the software impact of DynamIQ and how to get the most out of it, with particular reference to Arm Trusted Firmware and EAS.
 
-Last March, ARM announced DynamiQ which gives a new level of flexibility in designing heterogeneous system. During this session, we will cover what are the impacts and how to enable its supports in the kernel.
+Last March, Arm announced DynamiQ which gives a new level of flexibility in designing heterogeneous system. During this session, we will cover what are the impacts and how to enable its supports in the kernel.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-104/

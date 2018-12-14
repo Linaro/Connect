@@ -1,12 +1,12 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-17-Wednesday/LCU14-308.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-17-Wednesday/LCU14-308-+Citrix+XEN+for+ARM+servers.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-17-Wednesday/LCU14-308-+Citrix+XEN+for+Arm+servers.mp4
 author: connect
 categories:
 - lcu14
 comments: true
 date: 2015-06-30 17:09:10
-excerpt: Overview of Xen for ARM Servers
+excerpt: Overview of Xen for Arm Servers
 featured_image_name: LCU14-308.jpg
 image:
   featured: true
@@ -27,14 +27,14 @@ tags:
 - lcu14
 - LCU14-308
 - Stefano Stabellini
-title: 'LCU14-308: Citrix XEN for ARM servers'
+title: 'LCU14-308: Citrix XEN for Arm servers'
 video_length: '20:31'
 video_thumbnail: None
 wordpress_id: 1545
 youtube_video_url: https://www.youtube.com/watch?v=Glabus8qpLY
 ---
 
-LCU14-308: Citrix XEN for ARM servers
+LCU14-308: Citrix XEN for Arm servers
 
 ---------------------------------------------------
 
@@ -44,7 +44,7 @@ Location: Grand Peninsula D, Hyatt Regency San Francisco Airport, Burlingame, CA
 ---------------------------------------------------
 
 ★ Session Summary ★
-Overview of Xen for ARM Servers
+Overview of Xen for Arm Servers
 ---------------------------------------------------
 
 ★ Resources ★

@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-301%20-%20KVM-ARM%20Nested%20Virtualization.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-301%20KVM%20%20ARM%20Nested%20Virtualization.mp4
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-301%20-%20KVM-Arm%20Nested%20Virtualization.pdf
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-301%20KVM%20%20Arm%20Nested%20Virtualization.mp4
 author: connect
 categories:
 - bud17
@@ -9,14 +9,14 @@ date: 2017-02-28 12:05:39
 excerpt: Nested virtualization, the ability to run a virtual machine inside another
   virtual machine, is increasingly important because of the need to deploy virtual
   machines running software stacks on top of virtualized cloud infrastructure, as
-  well as for prototyping and testing. As ARM servers make inroads in various deployment
-  scenarios, being able to support nested virtualization on ARM is a key requirement,
+  well as for prototyping and testing. As Arm servers make inroads in various deployment
+  scenarios, being able to support nested virtualization on Arm is a key requirement,
   which has been met recently with the introduction of nested virtualization support
-  in the latest ARMv8.3 revision of the architecture. I will present the initial effort
-  to introduce ARM nested virtualization support to KVM/ARM, which involves adding
-  significant logic to core KVM/ARM code, MMU support, timers, and the GIC emulation.
+  in the latest Armv8.3 revision of the architecture. I will present the initial effort
+  to introduce Arm nested virtualization support to KVM/Arm, which involves adding
+  significant logic to core KVM/Arm code, MMU support, timers, and the GIC emulation.
   I will also briefly discuss a paravirtualization approach we have used to prototype
-  and evaluate the implementation on current ARMv8 hardware without hardware support
+  and evaluate the implementation on current Armv8 hardware without hardware support
   for nested virtualization.
 featured_image_name: BUD17-301.jpg
 image:
@@ -34,10 +34,10 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17301-zenos
 slug: bud17-301
 speakers: Christoffer Dall
 tags:
-- ARM
+- Arm
 - KVM
 - Virtualization
-title: KVM/ARM Nested Virtualization - BUD17-301
+title: KVM/Arm Nested Virtualization - BUD17-301
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4667
@@ -45,13 +45,13 @@ youtube_video_url: https://youtu.be/Mqh9J83xFxo
 ---
 
 "Session ID: BUD17-301
-Session Name: KVM/ARM Nested Virtualization - BUD17-301
+Session Name: KVM/Arm Nested Virtualization - BUD17-301
 Speaker: Christoffer Dall
 Track: Virtualization
 
 
 ★ Session Summary ★
-Nested virtualization, the ability to run a virtual machine inside another virtual machine, is increasingly important because of the need to deploy virtual machines running software stacks on top of virtualized cloud infrastructure, as well as for prototyping and testing. As ARM servers make inroads in various deployment scenarios, being able to support nested virtualization on ARM is a key requirement, which has been met recently with the introduction of nested virtualization support in the latest ARMv8.3 revision of the architecture. I will present the initial effort to introduce ARM nested virtualization support to KVM/ARM, which involves adding significant logic to core KVM/ARM code, MMU support, timers, and the GIC emulation. I will also briefly discuss a paravirtualization approach we have used to prototype and evaluate the implementation on current ARMv8 hardware without hardware support for nested virtualization.
+Nested virtualization, the ability to run a virtual machine inside another virtual machine, is increasingly important because of the need to deploy virtual machines running software stacks on top of virtualized cloud infrastructure, as well as for prototyping and testing. As Arm servers make inroads in various deployment scenarios, being able to support nested virtualization on Arm is a key requirement, which has been met recently with the introduction of nested virtualization support in the latest Armv8.3 revision of the architecture. I will present the initial effort to introduce Arm nested virtualization support to KVM/Arm, which involves adding significant logic to core KVM/Arm code, MMU support, timers, and the GIC emulation. I will also briefly discuss a paravirtualization approach we have used to prototype and evaluate the implementation on current Armv8 hardware without hardware support for nested virtualization.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-301/
@@ -67,7 +67,7 @@ Erzsébet krt. 43-49,
 1073 Hungary
 
 ---------------------------------------------------
-Keyword: virtualization, KVM, ARM
+Keyword: virtualization, KVM, Arm
 http://www.linaro.org
 http://connect.linaro.org
 ---------------------------------------------------

@@ -1,11 +1,11 @@
 ---
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-17-Wednesday/LCU14-305-+Canonical+Ubuntu+for+ARM+servers.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-17-Wednesday/LCU14-305-+Canonical+Ubuntu+for+Arm+servers.mp4
 author: connect
 categories:
 - lcu14
 comments: true
 date: 2015-06-30 17:09:12
-excerpt: Overview of Ubuntu for ARM Servers
+excerpt: Overview of Ubuntu for Arm Servers
 featured_image_name: LCU14-305.jpg
 image:
   featured: true
@@ -25,14 +25,14 @@ tags:
 - lcu14
 - LCU14-305
 - Michael Hudson-Doyle
-title: 'LCU14-305: Canonical Ubuntu for ARM servers'
+title: 'LCU14-305: Canonical Ubuntu for Arm servers'
 video_length: '12:31'
 video_thumbnail: None
 wordpress_id: 1544
 youtube_video_url: https://www.youtube.com/watch?v=inHxcitgkxk
 ---
 
-LCU14-305: Canonical Ubuntu for ARM servers
+LCU14-305: Canonical Ubuntu for Arm servers
 
 ---------------------------------------------------
 
@@ -42,7 +42,7 @@ Location: Grand Peninsula A, Hyatt Regency San Francisco Airport, Burlingame, CA
 ---------------------------------------------------
 
 ★ Session Summary ★
-Overview of Ubuntu for ARM Servers
+Overview of Ubuntu for Arm Servers
 ---------------------------------------------------
 
 ★ Resources ★

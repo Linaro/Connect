@@ -1,14 +1,14 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-15-Monday/LCU14-107.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-15-Monday/LCU14-107-+OP-TEE+on+ARMv8.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-15-Monday/LCU14-107-+OP-TEE+on+Armv8.mp4
 author: connect
 categories:
 - lcu14
 comments: true
 date: 2015-06-30 17:11:20
-excerpt: SWG is porting OP-TEE to ARMv8 using Fixed Virtual Platform. Initially OP-TEE
+excerpt: SWG is porting OP-TEE to Armv8 using Fixed Virtual Platform. Initially OP-TEE
   is running secure world in aarch32 mode, but with the normal world code running
-  in aarch64 mode. Since ARMv8 uses ARM Trusted Firmware we have patched it with an
+  in aarch64 mode. Since Armv8 uses Arm Trusted Firmware we have patched it with an
   OP-TEE dispatcher to be able to communicate between secure and normal world.
 featured_image_name: LCU14-107.jpg
 image:
@@ -30,14 +30,14 @@ tags:
 - lcu14
 - LCU14-107
 - Security
-title: 'LCU14-107: OP-TEE on ARMv8'
+title: 'LCU14-107: OP-TEE on Armv8'
 video_length: '17:31'
 video_thumbnail: None
 wordpress_id: 1511
 youtube_video_url: https://www.youtube.com/watch?v=JViplz-ah9M
 ---
 
-LCU14-107: OP-TEE on ARMv8
+LCU14-107: OP-TEE on Armv8
 
 ---------------------------------------------------
 
@@ -47,7 +47,7 @@ Location: Grand Peninsula C, Hyatt Regency San Francisco Airport, Burlingame, CA
 ---------------------------------------------------
 
 ★ Session Summary ★
-SWG is porting OP-TEE to ARMv8 using Fixed Virtual Platform. Initially OP-TEE is running secure world in aarch32 mode, but with the normal world code running in aarch64 mode. Since ARMv8 uses ARM Trusted Firmware we have patched it with an OP-TEE dispatcher to be able to communicate between secure and normal world.
+SWG is porting OP-TEE to Armv8 using Fixed Virtual Platform. Initially OP-TEE is running secure world in aarch32 mode, but with the normal world code running in aarch64 mode. Since Armv8 uses Arm Trusted Firmware we have patched it with an OP-TEE dispatcher to be able to communicate between secure and normal world.
 
 ---------------------------------------------------
 

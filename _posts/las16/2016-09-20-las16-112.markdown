@@ -6,14 +6,14 @@ categories:
 - las16
 comments: false
 date: 2016-09-20 17:10:34
-excerpt: "ARM mbed OS is an open source embedded operating system designed\nspecifically
+excerpt: "Arm mbed OS is an open source embedded operating system designed\nspecifically
   for the \u201Cthings\u201D in the Internet of Things. It includes all the features
-  you need to develop a connected product based on very small memory footprint ARM
+  you need to develop a connected product based on very small memory footprint Arm
   Cortex-M microcontrollers, including security,connectivity, an RTOS, and drivers
   for sensors and I/O devices. You can start developing with mbed OS 5.1.0 today using
   a choice of 40 different development boards from 11 different providers and a wide
   choice of toolchains including a complete command line build management and configuration
-  tool mbed CLI, industry standard desktop IDEs or ARM\u2019s free online IDE."
+  tool mbed CLI, industry standard desktop IDEs or Arm\u2019s free online IDE."
 featured_image_name: LAS16-112.png
 image:
   featured: true
@@ -44,8 +44,8 @@ Speakers: Sam Grove
 Date: September 26, 2016
 
 ★ Session Description ★
-ARM mbed OS is an open source embedded operating system designed
-specifically for the “things” in the Internet of Things. It includes all the features you need to develop a connected product based on very small memory footprint ARM Cortex-M microcontrollers, including security,connectivity, an RTOS, and drivers for sensors and I/O devices. You can start developing with mbed OS 5.1.0 today using a choice of 40 different development boards from 11 different providers and a wide choice of toolchains including a complete command line build management and configuration tool mbed CLI, industry standard desktop IDEs or ARM’s free online IDE.
+Arm mbed OS is an open source embedded operating system designed
+specifically for the “things” in the Internet of Things. It includes all the features you need to develop a connected product based on very small memory footprint Arm Cortex-M microcontrollers, including security,connectivity, an RTOS, and drivers for sensors and I/O devices. You can start developing with mbed OS 5.1.0 today using a choice of 40 different development boards from 11 different providers and a wide choice of toolchains including a complete command line build management and configuration tool mbed CLI, industry standard desktop IDEs or Arm’s free online IDE.
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-112

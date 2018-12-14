@@ -13,7 +13,7 @@ session_track: Demo
 speakers:
 - company: Linaro
   name: Nicolas Pitre
-title: Internet of Tiny Linux, Google IoT on ARM Cortex-A5 memory constrained device
+title: Internet of Tiny Linux, Google IoT on Arm Cortex-A5 memory constrained device
 youtube_video_url: https://www.youtube.com/watch?v=xq5_XWmcUSQ
 tag: demo
 ---

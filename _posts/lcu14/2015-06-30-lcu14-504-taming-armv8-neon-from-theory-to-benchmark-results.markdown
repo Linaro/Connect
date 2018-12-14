@@ -1,12 +1,12 @@
 ---
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-19-Friday/LCU14-504-+Taming+ARMv8+NEON-+from+theory+to+benchmark+results.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-19-Friday/LCU14-504-+Taming+Armv8+NEON-+from+theory+to+benchmark+results.mp4
 author: connect
 categories:
 - lcu14
 comments: true
 date: 2015-06-30 17:07:34
 excerpt: Making NEON shine simply requires following a few tips. In this presentation,
-  I'll first introduce NEON and do a comparison between ARMv8 and ARMv7 NEON before
+  I'll first introduce NEON and do a comparison between Armv8 and Armv7 NEON before
   we explore the key factors to a successful use of NEON. I'll present work I've done
   on the Skia graphics library (used in Chromium, Firefox, Android) and share a number
   of tips.
@@ -26,14 +26,14 @@ tags:
 - Kevin Petit
 - lcu14
 - LCU14-504
-title: 'LCU14-504: Taming ARMv8 NEON: from theory to benchmark results'
+title: 'LCU14-504: Taming Armv8 NEON: from theory to benchmark results'
 video_length: '41:26'
 video_thumbnail: None
 wordpress_id: 1565
 youtube_video_url: https://www.youtube.com/watch?v=ixuDntaSnHI
 ---
 
-LCU14-504: Taming ARMv8 NEON: from theory to benchmark results
+LCU14-504: Taming Armv8 NEON: from theory to benchmark results
 
 ---------------------------------------------------
 
@@ -43,7 +43,7 @@ Location: Grand Peninsula D, Hyatt Regency San Francisco Airport, Burlingame, CA
 ---------------------------------------------------
 
 ★ Session Summary ★
-Making NEON shine simply requires following a few tips. In this presentation, I'll first introduce NEON and do a comparison between ARMv8 and ARMv7 NEON before we explore the key factors to a successful use of NEON. I'll present work I've done on the Skia graphics library (used in Chromium, Firefox, Android) and share a number of tips.
+Making NEON shine simply requires following a few tips. In this presentation, I'll first introduce NEON and do a comparison between Armv8 and Armv7 NEON before we explore the key factors to a successful use of NEON. I'll present work I've done on the Skia graphics library (used in Chromium, Firefox, Android) and share a number of tips.
 ---------------------------------------------------
 
 ★ Resources ★

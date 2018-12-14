@@ -6,7 +6,6 @@ date: 2018-07-24 08:35:17
 featured_image_name: Todd Kjos.jpg
 image:
   featured: true
-  name: Todd Kjos.jpg
   path: /assets/images/speakers/Todd Kjos.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/todd-kjos/

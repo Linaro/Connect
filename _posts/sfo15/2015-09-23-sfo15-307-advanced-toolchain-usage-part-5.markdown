@@ -11,9 +11,9 @@ date: 2015-09-23 00:00:00
 excerpt: "This session is a continuation of the Advanced Toolchain Usage series started
   at LCU14. These sessions will cover a variety of topics, such as: symbol-versioning
   how-to, what the compiler can\u2019t know, search paths (LD_LIBRARY_PATH, RPATH,
-  RUNPATH), versioning structures, ELF sections on ARM/Aarch64, addressing models
+  RUNPATH), versioning structures, ELF sections on Arm/Aarch64, addressing models
   and performance considerations (PIC, short branches, long branches, relative addressing,
-  trampolines, relaxation, etc), data alignment performance considerations on ARM/Aarch64,
+  trampolines, relaxation, etc), data alignment performance considerations on Arm/Aarch64,
   Timers, Timestamps and the VDSO, branch prediction extensions vs hardware auto branch
   prediction. Out-of-order execution vs in-order execution performance considerations,
   and others."
@@ -46,7 +46,7 @@ Speakers:  Ryan Arnold, Charles Baylis, Maxim Kuvyrkov, Adhemerval Zanella Netto
 Date: September 23, 2015
 
 ★ Session Description ★
-This session is a continuation of the Advanced Toolchain Usage series started at LCU14. These sessions will cover a variety of topics, such as: symbol-versioning how-to, what the compiler canäó»t know, search paths (LD_LIBRARY_PATH, RPATH, RUNPATH), versioning structures, ELF sections on ARM/Aarch64, addressing models and performance considerations (PIC, short branches, long branches, relative addressing, trampolines, relaxation, etc), data alignment performance considerations on ARM/Aarch64, Timers, Timestamps and the VDSO, branch prediction extensions vs hardware auto branch prediction. Out-of-order execution vs in-order execution performance considerations, and others.
+This session is a continuation of the Advanced Toolchain Usage series started at LCU14. These sessions will cover a variety of topics, such as: symbol-versioning how-to, what the compiler canäó»t know, search paths (LD_LIBRARY_PATH, RPATH, RUNPATH), versioning structures, ELF sections on Arm/Aarch64, addressing models and performance considerations (PIC, short branches, long branches, relative addressing, trampolines, relaxation, etc), data alignment performance considerations on Arm/Aarch64, Timers, Timestamps and the VDSO, branch prediction extensions vs hardware auto branch prediction. Out-of-order execution vs in-order execution performance considerations, and others.
 
 ★ Resources ★ 
 Video: https://www.youtube.com/watch?v=QpVwKQ2xkYI

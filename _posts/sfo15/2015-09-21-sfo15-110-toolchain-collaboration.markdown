@@ -41,7 +41,7 @@ Speaker:  Ryan Arnold
 Date: September 21, 2015
 
 ★ Session Description ★
-Linaro and its members discuss the work they are doing in the GNU & LLVM Toolchains for ARM processors. Work done in the previous six months will be discussed, and also discussions about the priorities each member is looking at for the next six months.
+Linaro and its members discuss the work they are doing in the GNU & LLVM Toolchains for Arm processors. Work done in the previous six months will be discussed, and also discussions about the priorities each member is looking at for the next six months.
 
 ★ Resources ★ 
 Video: https://www.youtube.com/watch?v=3BYl-1wGZg4

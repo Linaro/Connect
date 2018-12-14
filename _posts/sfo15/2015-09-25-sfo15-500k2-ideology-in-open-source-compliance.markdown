@@ -27,7 +27,7 @@ slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53893755
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15500k2-ideology-in-open-source-compliance
 slug: sfo15-500k2-ideology-in-open-source-compliance
 tags:
-- ARM
+- Arm
 - Linaro
 - Linux
 - Security

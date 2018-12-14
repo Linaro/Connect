@@ -6,7 +6,6 @@ date: 2018-02-02 16:35:33
 featured_image_name: Mingfei Huang.png
 image:
   featured: true
-  name: Mingfei Huang.png
   path: /assets/images/speakers/Mingfei Huang.png
 layout: speaker-post
 link: http://connect.linaro.org/member/mingfei-huang/
@@ -28,6 +27,6 @@ OPEN AI LAB, initiated by Arm China, Allwinner and Horizon, open to all partners
 **Bio:**
 
 Leading development of Open AID platform in OPEN AI LAB.
-Before joining in OPEN AI LAB, Mingfei worked in Broadcom, Netlogic, RMI and Harbour Network as a R&D/AE/FAE leader, experienced in AI, ARM/MIPS Processors, Networking, NFV, MDC, HPC, Security.
+Before joining in OPEN AI LAB, Mingfei worked in Broadcom, Netlogic, RMI and Harbour Network as a R&D/AE/FAE leader, experienced in AI, Arm/MIPS Processors, Networking, NFV, MDC, HPC, Security.
 
 Master, Computer Science & Engineering, Xidian University of China.

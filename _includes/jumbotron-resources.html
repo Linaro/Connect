@@ -1,0 +1,17 @@
+<div class="row {% if page.jumbotron.background-image %}background-image {% endif %}{% if site.data.settings.jumbotron.darken %}overlay{% endif %}" id="jumbotron" 
+{% if page.jumbotron.background-image %}
+    style="background-image: url('{{page.jumbotron.background-image}}');"
+{% else %}
+    class="jumbotron text-center featured-jumbotron"
+{% endif %}> <!--Row -->
+    <div id="jumbotron-content" class=" flex-container"> <!--Jumbotron div -->        
+        <div class="container flex-center" id="jumbotron-text"> <!--Container -->
+            <h1 class="{% if page.jumbotron.animation == "fade" %}fade-in-one{% endif %}" id="jumbotron-heading">
+                {{include.title}}
+            </h1>
+            <p class="center-block {% if page.jumbotron.animation == "fade" %}fade-in-two{% endif %}" id="jumbotron-sub-title">
+                {{include.description}}
+            </p>
+        </div><!-- End Jumbotron Container Div -->  
+    </div> <!--End Jumbotron div -->        
+</div> <!--row -->

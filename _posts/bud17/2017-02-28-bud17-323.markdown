@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-323%20-%20DynInst%20on%20arm64%20%E2%80%93%20Status.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/BUD17-323%20DynInst%20on%20ARM64%20-%20Status.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/BUD17-323%20DynInst%20on%20Arm64%20-%20Status.mp4
 author: connect
 categories:
 - bud17
@@ -29,7 +29,7 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/dyninst-on-arm
 slug: bud17-323
 speakers: Itaru Kitayama
 tags:
-- ARM64
+- Arm64
 - Dynlnst
 - LEG
 title: DynInst on arm64 - Status - BUD17-323
@@ -61,7 +61,7 @@ Erzsébet krt. 43-49,
 1073 Hungary
 
 ---------------------------------------------------
-Keyword: LEG, Dynlnst, ARM64
+Keyword: LEG, Dynlnst, Arm64
 http://www.linaro.org
 ---------------------------------------------------
 Follow us on Social Media

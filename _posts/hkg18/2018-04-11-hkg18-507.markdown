@@ -57,4 +57,4 @@ https://www.linkedin.com/company/1026961
 
 **Speakers**: Jon Masters
 
-**Speaker Positions**: Chief Arm Architect at Red Hat; Tech Lead for Red Hat Enterprise Linux for ARM
+**Speaker Positions**: Chief Arm Architect at Red Hat; Tech Lead for Red Hat Enterprise Linux for Arm

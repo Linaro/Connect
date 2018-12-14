@@ -7,7 +7,7 @@ excerpt: 'The size of big data even the data sets to be processed individually i
 
   Socionext offers high speed clustering solution “Socionext DDT”.
 
-  This is the technique building up hyper scale parallel computing system using ARM
+  This is the technique building up hyper scale parallel computing system using Arm
   CPU.'
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-453/
@@ -33,7 +33,7 @@ Track: LEG
 ★ Session Summary ★
 The size of big data even the data sets to be processed individually is now reaching to over petabyte.
 Socionext offers high speed clustering solution “Socionext DDT”.
-This is the technique building up hyper scale parallel computing system using ARM CPU.
+This is the technique building up hyper scale parallel computing system using Arm CPU.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-453/

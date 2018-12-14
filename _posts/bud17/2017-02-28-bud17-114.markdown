@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-114%20-%20Making%20ARM%20the%20Best%20Platform%20for%20Android.pdf
+amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-114%20-%20Making%20Arm%20the%20Best%20Platform%20for%20Android.pdf
 amazon_s3_video_url: None
 author: connect
 categories:
@@ -25,14 +25,14 @@ slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72785845
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17114-making-arm-the-best-platform-for-android
 slug: bud17-114
 speakers: Xueliang Zhong
-title: Making ARM the best platform for Android - BUD17-114
+title: Making Arm the best platform for Android - BUD17-114
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4627
 youtube_video_url: None
 ---
 
-"An update on the ART team's efforts in making ARM the best platform for Android.
+"An update on the ART team's efforts in making Arm the best platform for Android.
 
 
 
@@ -40,4 +40,4 @@ Topics covered will include instruction scheduling, integration of a new 32-bit 
 
 
 
-Linaro members are welcome to join the Linaro ART team and help make a better Android Runtime for everyone on ARM."
+Linaro members are welcome to join the Linaro ART team and help make a better Android Runtime for everyone on Arm."

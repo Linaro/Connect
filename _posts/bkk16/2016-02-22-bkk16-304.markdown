@@ -5,7 +5,7 @@ author: connect
 categories: bkk16
 comments: false
 date: 2016-02-22 17:20:45
-excerpt: 'AArch64 and ARM GDB ports were added some years ago, but some useful features
+excerpt: 'AArch64 and Arm GDB ports were added some years ago, but some useful features
   are still missing.  We started to add these features to GDB in 2015 and most of
   them are already accepted by the GDB mainline.
 
@@ -43,6 +43,6 @@ wordpress_id: 3345
 youtube_video_url: https://youtu.be/sHI_JsQJWbg
 ---
 
-AArch64 and ARM GDB ports were added some years ago, but some useful features are still missing.  We started to add these features to GDB in 2015 and most of them are already accepted by the GDB mainline.  This presentation will discuss these new added features, such as reverse debugging, tracepoint, and multi-arch debugging, together with some explanations on how does GDB support them in general.  This presentation will also introduce some basic GDB or debugger internal knowledges and also some GDB in-progress projects in which we plan to do and are interested in.
+AArch64 and Arm GDB ports were added some years ago, but some useful features are still missing.  We started to add these features to GDB in 2015 and most of them are already accepted by the GDB mainline.  This presentation will discuss these new added features, such as reverse debugging, tracepoint, and multi-arch debugging, together with some explanations on how does GDB support them in general.  This presentation will also introduce some basic GDB or debugger internal knowledges and also some GDB in-progress projects in which we plan to do and are interested in.
 
 Event Date: March 9, 2016

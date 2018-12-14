@@ -1,19 +1,19 @@
 ---
 amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Monday/LAS16-111%20-%20Raspberry%20Pi3%2C%20OP-TEE%20and%20JTAG%20debugging.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Monday/LAS16-111%20Easing%20Access%20to%20ARM%20TrustZone%20-%20OP-TEE%20and%20Raspberry%20Pi%203.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Monday/LAS16-111%20Easing%20Access%20to%20Arm%20TrustZone%20-%20OP-TEE%20and%20Raspberry%20Pi%203.mp4
 author: connect
 categories:
 - las16
 comments: false
 date: 2016-09-20 17:10:34
-excerpt: "ARM TrustZone is a critical technology for securing IoT devices and systems.
+excerpt: "Arm TrustZone is a critical technology for securing IoT devices and systems.
   But awareness of TrustZone and its benefits lags within the maker community as well
   as among enterprises. The first step to solving this problem is lowering the cost
   of access. Sequitur Labs and Linaro have joined forces to address this problem by
   making a port of OP-TEE available on the Raspberry Pi 3. The presentation covers
   the value of TrustZone for securing IoT and how customers can learn more through
   this joint effort.\n \n Embedded systems security remains a challenge for many developers.
-  Awareness of mature, proven technologies such as ARM TrustZone is very low among
+  Awareness of mature, proven technologies such as Arm TrustZone is very low among
   the Maker community as well as among enterprises. As a result this foundational
   technology is largely being ignored as a security solution. Sequitur Labs and Linaro
   have taken an innovative approach combining an Open Source solution \u2013 OP-TEE
@@ -22,7 +22,7 @@ excerpt: "ARM TrustZone is a critical technology for securing IoT devices and sy
   embedded systems development is proven.\n  \n Sequitur Labs have also enabled bare
   metal debugging via JTag on the Pi 3 enhancing the value of the Pi 3 as an educational
   tool for embedded systems development.\n  \n The presentation will focus on\n  \n
-  * ARM v8a architecture and instruction set\n * ARM Trusted Firmware\n * TrustZone
+  * Arm v8a architecture and instruction set\n * Arm Trusted Firmware\n * TrustZone
   and OP-TEE basics\n * JTAG and bare metal debugging the Raspberry Pi 3"
 featured_image_name: LAS16-111.png
 image:
@@ -54,9 +54,9 @@ Speakers:
 Date: September 26, 2016
 
 ★ Session Description ★
-ARM TrustZone is a critical technology for securing IoT devices and systems. But awareness of TrustZone and its benefits lags within the maker community as well as among enterprises. The first step to solving this problem is lowering the cost of access. Sequitur Labs and Linaro have joined forces to address this problem by making a port of OP-TEE available on the Raspberry Pi 3. The presentation covers the value of TrustZone for securing IoT and how customers can learn more through this joint effort.
+Arm TrustZone is a critical technology for securing IoT devices and systems. But awareness of TrustZone and its benefits lags within the maker community as well as among enterprises. The first step to solving this problem is lowering the cost of access. Sequitur Labs and Linaro have joined forces to address this problem by making a port of OP-TEE available on the Raspberry Pi 3. The presentation covers the value of TrustZone for securing IoT and how customers can learn more through this joint effort.
 
-Embedded systems security remains a challenge for many developers. Awareness of mature, proven technologies such as ARM TrustZone is very low among the Maker community as well as among enterprises. As a result this foundational technology is largely being ignored as a security solution. Sequitur Labs and Linaro have taken an innovative approach combining an Open Source solution – OP-TEE with Raspberry Pi 3. The Raspberry Pi 3 is one of the world’s most popular platforms among device makers. Its value as an educational tool for learning about embedded systems development is proven.
+Embedded systems security remains a challenge for many developers. Awareness of mature, proven technologies such as Arm TrustZone is very low among the Maker community as well as among enterprises. As a result this foundational technology is largely being ignored as a security solution. Sequitur Labs and Linaro have taken an innovative approach combining an Open Source solution – OP-TEE with Raspberry Pi 3. The Raspberry Pi 3 is one of the world’s most popular platforms among device makers. Its value as an educational tool for learning about embedded systems development is proven.
 
 Sequitur Labs have also enabled bare metal debugging via JTag on the Pi 3 enhancing the value of the Pi 3 as an educational tool for embedded systems development.
 
@@ -65,10 +65,10 @@ The presentation will focus on
 
 
  	
-  * ARM v8a architecture and instruction set
+  * Arm v8a architecture and instruction set
 
  	
-  * ARM Trusted Firmware
+  * Arm Trusted Firmware
 
  	
   * TrustZone and OP-TEE basics

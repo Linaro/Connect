@@ -4,15 +4,15 @@ author: connect
 categories: bkk16
 comments: false
 date: 2016-02-22 17:20:46
-excerpt: 'The concept of Enterprise Firmware is a fairly new one for ARM, and pretty
-  much started in LEG, while ARM Ltd. was still focusing on mobile platforms. Also,
+excerpt: 'The concept of Enterprise Firmware is a fairly new one for Arm, and pretty
+  much started in LEG, while Arm Ltd. was still focusing on mobile platforms. Also,
   in parallel, several partners did their own work internally without sharing, resulting
   in multiple implementations of what should be a standard platform. To make our partners
   successful, we need to help them - by leading through example - to get more done.
 
 
   This talk covers both the commercial importance of aligning the ecosystem and some
-  of the technical challenges to overcome, and what ARM and Linaro are planning to
+  of the technical challenges to overcome, and what Arm and Linaro are planning to
   do about it.'
 featured_image_name: BKK16-309B.jpg
 image:
@@ -41,6 +41,6 @@ wordpress_id: 3352
 youtube_video_url: https://youtu.be/_T7slkjE5vg
 ---
 
-The concept of Enterprise Firmware is a fairly new one for ARM, and pretty much started in LEG, while ARM Ltd. was still focusing on mobile platforms. Also, in parallel, several partners did their own work internally without sharing, resulting in multiple implementations of what should be a standard platform. To make our partners successful, we need to help them - by leading through example - to get more done.  This talk covers both the commercial importance of aligning the ecosystem and some of the technical challenges to overcome, and what ARM and Linaro are planning to do about it.
+The concept of Enterprise Firmware is a fairly new one for Arm, and pretty much started in LEG, while Arm Ltd. was still focusing on mobile platforms. Also, in parallel, several partners did their own work internally without sharing, resulting in multiple implementations of what should be a standard platform. To make our partners successful, we need to help them - by leading through example - to get more done.  This talk covers both the commercial importance of aligning the ecosystem and some of the technical challenges to overcome, and what Arm and Linaro are planning to do about it.
 
 Event Date: March 9, 2016

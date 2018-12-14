@@ -6,7 +6,6 @@ date: 2017-08-24 14:01:51
 featured_image_name: Heather Meeker.jpg
 image:
   featured: true
-  name: Heather Meeker.jpg
   path: /assets/images/speakers/Heather Meeker.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/heather-meeker/

@@ -1,228 +1,270 @@
 ---
 title: Sponsor Connect
 permalink: /sponsors/
-layout: empty
+layout: jumbotron
 js-package: sponsor
 css-package: sponsor
+description: >-
+    Sponsor the biggest Arm Open Source Collaboration event. 
+jumbotron:
+    animation: fade
+    carousel-images:
+        - /assets/images/content/hkg18-sponsor-bg-1.jpg
+        - /assets/images/content/yvr18-sponsor-bg-1.jpg
+        - /assets/images/content/yvr18-sponsor-bg-2.jpg
+featured-images:
+    - /assets/images/content/hkg18-sponsor-thumb-1.jpg
+    - /assets/images/content/yvr18-sponsor-thumb-1.jpg
+    - /assets/images/content/yvr18-sponsor-thumb-2.jpg
 ---
-{% include breadcrumb.html %}
-
-{% include previous-sponsors.html %}
-
-<div class="container-fluid">
-    <div class="row" id="intro-row">
-        <div class="container" style="padding-top: 30px;">
-            <div class="col-md-6 no-padding">
-            <h3>Why sponsor Linaro Connect?</h3>
-            <p>
-                Linaro Connect Vancouver 2018 will be the 24th Connect since Linaro started in June 2010. Hundreds of the world’s best Linux on ARM developers come to Linaro Connect each time because they know it is the leading place to meet with the global community and to learn about what is going on in the industry. Sponsorship of the event puts your brand in front of all the event attendees – both the 400+ on-site and all those who participate remotely, as well as the thousands who view the website and social media before, during and after the event.
-            </p>
-            <p>
-                We offer bespoke packages to suit every budget. If you’d like to sponsor and have something specific in mind or would like to work with our team to create a sponsorship package specially designed to your company then <a href="mailto:connect@linaro.org">get in touch!</a>
-            </p>
-            </div>
-            <div class="col-md-6">
-                <div class="owl-carousel owl-theme">
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image1.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 1" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image2.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 2" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image3.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 3" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image4.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 4" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image5.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 5" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image6.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 6" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image7.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 7" />
-                    </div>
-                    <div class="activity-block item">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="/assets/images/about-carousel/about-carousel-image8.jpg" class="owl-lazy img-responsive" alt="About Carousel Image 8" />
-                    </div>
-                </div>
-            </div>
-
+<div class="row intro-row content-row" id="content-container">
+    <div class="container" style="padding-top: 30px;">
+        <div class="col-md-6 no-padding">
+        <h3>Why sponsor Linaro Connect?</h3>
+        <p>
+            Linaro Connect Vancouver 2018 will be the 24th Connect since Linaro started in June 2010. Hundreds of the world’s best Linux on Arm developers come to Linaro Connect each time because they know it is the leading place to meet with the global community and to learn about what is going on in the industry. Sponsorship of the event puts your brand in front of all the event attendees – both the 400+ on-site and all those who participate remotely, as well as the thousands who view the website and social media before, during and after the event.
+        </p>
+        <p>
+            We offer bespoke packages to suit every budget. If you’d like to sponsor and have something specific in mind or would like to work with our team to create a sponsorship package specially designed to your company then <a href="mailto:connect@linaro.org">get in touch!</a>
+        </p>
         </div>
+        <div class="col-md-6">
+            <div class="owl-carousel owl-theme">
+                {% for image in page.featured-images %}
+                    <div class="activity-block item">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                            data-src="{{image}}" class="owl-lazy lazyload img-responsive" alt="Sponsor Image {{forloop.index}}" />
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+
     </div>
-    
-    <div class="row" id="sponsor-types">
-        <div class="container">
-            <div class="row flex-row">
-                <div class="col-md-4 flex-col">
-                    <div class="panel panel-primary sponsor text-center">
-                      <div class="panel-heading">
-                        <h3 class="panel-title">Lead Sponsor</h3>
-                        <span class="sponsor-price">$25,000</span>
-                      </div>
-                      <div class="panel-body">
-                          <ul class="list-group">
-                              <li class="list-group-item divider">Benefits</li>
-                              <li class="list-group-item">Logo on website</li>
-                              <li class="list-group-item">Logo on email communication</li>
-                              <li class="list-group-item">Social media promotion</li>
-                              <li class="list-group-item">One email blast to registered Linaro Connect attendees</li>
-                              <li class="list-group-item">One blog post on Linaro Connect website</li>
-                              <li class="list-group-item divider">Onsite Benefits</li>
-                              <li class="list-group-item">One exhibition table throughout the week and at Demo Friday</li>
-                              <li class="list-group-item">One 2 minute video – Opportunity to film a 2 minute video on a topic of your choice (subject to the Events team’s approval)</li>
-                              <li class="list-group-item">Early access to meeting rooms- With an average of 365 private meetings booked at every Linaro Connect, finding an available room can be a challenge. As a Lead Sponsor, you will get a one week head start so you can secure rooms for your key meetings.</li>
-                              <li class="list-group-item">Onsite recognition during opening keynotes, through keynote stage branding and signage in the venue</li>
-                              <li class="list-group-item">Continued recognition through Linaro Connect website and email communication</li>
-                          </ul>
-                      </div>
-                    </div>
+</div>
+<div class="row content-row" id="sponsor-table">
+    <div class="container">
+            <table class="table hidden-xs">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>Lead</th>
+                        <th>Break</th>
+                        <th>Lunch</th>
+                        <th>Social</th>
+                        <th>T-Shirt</th>
+                        <th>Giveaway</th>
+                        <th>Exhibition</th>
+                        <th>Team Dinner</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Early Access to meeting rooms</td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Video Opportunity</td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Onsite recognition during morning presentation</td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Recognition on event website and email marketing</td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Recognition on event signage</td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Exhibition Table</td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>2 Complimentary Passes</td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td><span class="fa fa-check"></span></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Cost</td>
+                        <td>$26,000</td>
+                        <td>$16,000</td>
+                        <td>$13,000</td>
+                        <td>$11,000</td>
+                        <td>$11,000</td>
+                        <td>$5,000 - $10,000</td>
+                        <td>$7,000</td>
+                        <td>Cost of Meal</td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="panel panel-sponsor visible-xs-block">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Lead Sponsor</h3>
                 </div>
-                <div class="col-md-4 flex-col">
-                    <div class="panel panel-primary sponsor text-center">
-                      <div class="panel-heading">
-                        <h3 class="panel-title">Break Sponsor</h3>
-                        <span class="sponsor-price">$18,000</span>
-                      </div>
-                      <div class="panel-body">
-                          <ul class="list-group">
-                              <li class="list-group-item divider">Benefits</li>
-                              <li class="list-group-item">Logo on website</li>
-                              <li class="list-group-item">Logo on email communication</li>
-                              <li class="list-group-item">Social media promotion</li>
-                              <li class="list-group-item">One email blast to registered Linaro Connect attendees</li>
-                              <li class="list-group-item">One blog post on Linaro Connect website</li>
-                              <li class="list-group-item divider">Onsite Benefits</li>
-                              <li class="list-group-item">One exhibition table throughout the week and at Demo Friday</li>
-                              <li class="list-group-item">One 2 minute video – Opportunity to film a 2 minute video on a topic of your choice (subject to the Events Team’s approval)</li>
-                              <li class="list-group-item">Onsite recognition during morning presentation through keynote stage branding and signage in the venue</li>
-                              <li class="list-group-item">Continued recognition through Linaro Connect website and email communication</li>
-                          </ul>
-                      </div>
-                    </div>
+                <div class="panel-body">
+                    <ul class="list-group">
+                        <li class="list-group-item">Early access to meeting rooms</li>
+                        <li class="list-group-item">Video Opportunity</li>
+                        <li class="list-group-item">Onsite recognition during morning presentation</li>
+                        <li class="list-group-item">Recognition on event website and email marketing</li>
+                        <li class="list-group-item">Recognition on event signage</li>
+                        <li class="list-group-item">Exhibition table</li>
+                        <li class="list-group-item">2 Complimentary Passes</li>
+                    </ul>
                 </div>
-                <div class="col-md-4 flex-col">
-                    <div class="panel panel-primary sponsor text-center">
-                      <div class="panel-heading">
-                        <h3 class="panel-title">Lunch Sponsor</h3>
-                        <span class="sponsor-price">$12,000</span>
-
-                      </div>
-                      <div class="panel-body">
-                          <ul class="list-group">
-                              <li class="list-group-item divider">Benefits</li>
-                              <li class="list-group-item">Logo on website</li>
-                              <li class="list-group-item">Logo on email communication</li>
-                              <li class="list-group-item">Social media promotion</li>
-                              <li class="list-group-item divider">Onsite Benefits</li>
-                              <li class="list-group-item">Onsite recognition during opening keynotes</li>
-                              <li class="list-group-item">Onsite recognition through signage on buffet and dining tables at lunch</li>
-                              <li class="list-group-item">Continued recognition through Linaro Connect website and email communication</li>
-                          </ul>
-                      </div>
-                    </div>
-                </div>
+                <div class="panel-footer">$26,000</div>
             </div>
-            <div class="row flex-row">
-                <div class="col-md-4 flex-col">
-                    <div class="panel panel-primary sponsor text-center">
-                      <div class="panel-heading">
-                        <h3 class="panel-title">Giveaway Sponsor</h3>
-                        <span class="sponsor-price">$5,000 - $10,000</span>
-                      </div>
-                      <div class="panel-body">
-                          <ul class="list-group">
-                              <li class="list-group-item divider">Benefits</li>
-                              <li class="list-group-item">Logo on website</li>
-                              <li class="list-group-item">Logo on email communication</li>
-                              <li class="list-group-item">Social media promotion</li>
-                              <li class="list-group-item divider">Onsite Benefits</li>
-                              <li class="list-group-item">Onsite recognition during opening keynotes</li>
-                              <li class="list-group-item">Onsite recognition through signage</li>
-                              <li class="list-group-item">Continued recognition through Linaro Connect website and email communication</li>
-                              <li class="list-group-item divider">Post-Connect Benefits</li>
-                              <li class="list-group-item">Giveaway of your choice with your company brand being worn at events and offices across the world.</li>
-                          </ul>
-                      </div>
-                    </div>
+            <div class="panel panel-sponsor visible-xs-block">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Break Sponsor</h3>
                 </div>
-                <div class="col-md-4 flex-col">
-                    <div class="panel panel-primary sponsor text-center">
-                      <div class="panel-heading">
-                        <h3 class="panel-title">Social Sponsor</h3>
-                        <span class="sponsor-price">$10,000</span>
-                      </div>
-                      <div class="panel-body">
-                          <ul class="list-group">
-                              <li class="list-group-item divider">Benefits</li>
-                              <li class="list-group-item">Opportunity to sponsor one of two social events: Board Games Night, or Demo Friday</li>
-                              <li class="list-group-item">Logo on website</li>
-                              <li class="list-group-item">Logo on email communication</li>
-                              <li class="list-group-item">Social media promotion</li>
-                              <li class="list-group-item divider">Onsite Benefits</li>
-                              <li class="list-group-item">Onsite recognition during opening keynotes</li>
-                              <li class="list-group-item">Onsite recognition through signage</li>
-                              <li class="list-group-item">Continued recognition through Linaro Connect website and email communication</li>
-                          </ul>
-                      </div>
-                    </div>
+                <div class="panel-body">
+                    <ul class="list-group">
+                        <li class="list-group-item">Video Opportunity</li>
+                        <li class="list-group-item">Onsite recognition during morning presentation</li>
+                        <li class="list-group-item">Recognition on event website and email marketing</li>
+                        <li class="list-group-item">Recognition on event signage</li>
+                        <li class="list-group-item">Exhibition table</li>
+                        <li class="list-group-item">2 Complimentary Passes</li>
+                    </ul>
                 </div>
-                <div class="col-md-4 flex-col">
-                    <div class="panel panel-primary sponsor text-center">
-                      <div class="panel-heading">
-                        <h3 class="panel-title">T-Shirt Sponsor</h3>
-                        <span class="sponsor-price">$10,000</span>
-                      </div>
-                      <div class="panel-body">
-                          <ul class="list-group">
-                              <li class="list-group-item divider">Benefits</li>
-                              <li class="list-group-item">Logo on website</li>
-                              <li class="list-group-item">Logo on email communication</li>
-                              <li class="list-group-item">Social media promotion</li>
-                              <li class="list-group-item divider">Onsite Benefits</li>
-                              <li class="list-group-item">Onsite recognition during opening keynotes</li>
-                              <li class="list-group-item">Onsite recognition through signage</li>
-                              <li class="list-group-item">Continued recognition through Linaro Connect website and email communication</li>
-                              <li class="list-group-item divider">Post-Connect Benefits</li>
-                              <li class="list-group-item">T-shirts with your company brand being worn at events and offices across the world</li>
-                          </ul>
-                      </div>
-                    </div>
-                </div>
+                <div class="panel-footer">$16,000</div>
             </div>
-            <div class="row flex-row">
-                <div class="col-md-4 flex-col col-md-offset-4">
-                <div class="panel panel-primary sponsor text-center">
-                  <div class="panel-heading">
+            <div class="panel panel-sponsor visible-xs-block">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Lunch Sponsor</h3>
+                </div>
+                <div class="panel-body">
+                    <ul class="list-group">
+                        <li class="list-group-item">Onsite recognition during morning presentation</li>
+                        <li class="list-group-item">Recognition on event website and email marketing</li>
+                        <li class="list-group-item">Recognition on event signage</li>
+                        <li class="list-group-item">2 Complimentary Passes</li>
+                    </ul>
+                </div>
+                <div class="panel-footer">$13,000</div>
+            </div>
+            <div class="panel panel-sponsor visible-xs-block">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Social Sponsor</h3>
+                </div>
+                <div class="panel-body">
+                    <ul class="list-group">
+                        <li class="list-group-item">Onsite recognition during morning presentation</li>
+                        <li class="list-group-item">Recognition on event website and email marketing</li>
+                        <li class="list-group-item">Recognition on event signage</li>
+                        <li class="list-group-item">2 Complimentary Passes</li>
+                    </ul>
+                </div>
+                <div class="panel-footer">$11,000</div>
+            </div>
+            <div class="panel panel-sponsor visible-xs-block">
+                <div class="panel-heading">
+                    <h3 class="panel-title">T-shirt Sponsor</h3>
+                </div>
+                <div class="panel-body">
+                    <ul class="list-group">
+                        <li class="list-group-item">Onsite recognition during morning presentation</li>
+                        <li class="list-group-item">Recognition on event website and email marketing</li>
+                        <li class="list-group-item">Recognition on event signage</li>
+                        <li class="list-group-item">2 Complimentary Passes</li>
+                    </ul>
+                </div>
+                <div class="panel-footer">$11,000</div>
+            </div>
+            <div class="panel panel-sponsor visible-xs-block">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Giveaway Sponsor</h3>
+                </div>
+                <div class="panel-body">
+                    <ul class="list-group">
+                        <li class="list-group-item">Onsite recognition during morning presentation</li>
+                        <li class="list-group-item">Recognition on event website and email marketing</li>
+                        <li class="list-group-item">Recognition on event signage</li>
+                        <li class="list-group-item">2 Complimentary Passes</li>
+                    </ul>
+                </div>
+                <div class="panel-footer">$5,000 - $10,000</div>
+            </div>
+            <div class="panel panel-sponsor visible-xs-block">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Exhition Sponsor</h3>
+                </div>
+                <div class="panel-body">
+                    <ul class="list-group">
+                        <li class="list-group-item">Onsite recognition during morning presentation</li>
+                        <li class="list-group-item">Recognition on event website and email marketing</li>
+                        <li class="list-group-item">Recognition on event signage</li>
+                        <li class="list-group-item">Exhibition table</li>
+                        <li class="list-group-item">2 Complimentary Passes</li>
+                    </ul>
+                </div>
+                <div class="panel-footer">$7,000</div>
+            </div>
+            <div class="panel panel-sponsor visible-xs-block">
+                <div class="panel-heading">
                     <h3 class="panel-title">Team Dinner Sponsor</h3>
-                    <span class="sponsor-price">$ Cost of Meal</span>
-                  </div>
-                  <div class="panel-body">
-                      <ul class="list-group">
-                          <li class="list-group-item divider">Benefits</li>
-                          <li class="list-group-item">Logo on website</li>
-                          <li class="list-group-item">Logo on email communication</li>
-                          <li class="list-group-item">Social media promotion</li>
-                          <li class="list-group-item divider">Onsite Benefits</li>
-                          <li class="list-group-item">Onsite recognition during opening keynotes</li>
-                          <li class="list-group-item">Onsite recognition through signage</li>
-                          <li class="list-group-item">Continued recognition through Linaro Connect website and email communication</li>
-                      </ul>
-                  </div>
                 </div>
-            </div>
+                <div class="panel-body">
+                    <ul class="list-group">
+                        <li class="list-group-item">Onsite recognition during morning presentation</li>
+                        <li class="list-group-item">Recognition on event website and email marketing</li>
+                        <li class="list-group-item">Recognition on event signage</li>
+                    </ul>
+                </div>
+                <div class="panel-footer">Cost of Meal</div>
             </div>
         </div>
-    </div>    
-</div>
+</div>   
 

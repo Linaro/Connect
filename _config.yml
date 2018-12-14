@@ -18,6 +18,7 @@ permalink: /resources/:categories/:slug/
 highlighter: rouge
 # Markdown version
 markdown: kramdown
+blog_images_dir: assets/images/content/
 # production status for robots.txt and files alike.
 production: false
 kramdown:
@@ -103,11 +104,6 @@ defaults:
     values:
         layout: resource-post
         comments: true
-  - scope:
-        path: ""
-        type: "authors"
-    values:
-        layout: author
   - scope:
         path: ""
         type: "speakers"

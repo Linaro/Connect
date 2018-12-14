@@ -34,4 +34,4 @@ wordpress_id: 2839
 youtube_video_url: https://www.youtube.com/watch?v=i4GVrG_gkYg
 ---
 
-ARM and Linaro are jointly developing “Energy Aware Scheduling”, a technique that improves power management on Linux by making it more central and easier to tune. Since the original discussions started on the Linux Kernel Mailing List back in 2013, there has been significant progress during 2015 with the posting of a full-functionality implementation. This talk will cover details of the components and how to get involved.
+Arm and Linaro are jointly developing “Energy Aware Scheduling”, a technique that improves power management on Linux by making it more central and easier to tune. Since the original discussions started on the Linux Kernel Mailing List back in 2013, there has been significant progress during 2015 with the posting of a full-functionality implementation. This talk will cover details of the components and how to get involved.

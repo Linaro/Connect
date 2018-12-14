@@ -6,13 +6,13 @@ categories:
 - las16
 comments: false
 date: 2016-09-20 17:10:53
-excerpt: "How Linaro and the ARM Partners can drive contributions to the OCP Ecosystem
+excerpt: "How Linaro and the Arm Partners can drive contributions to the OCP Ecosystem
   and more.\n \n In this session, Amber Graner, Operations Director for the Open Compute
-  Project Foundation will discuss how Linaro Member can influence and drive ARM consumption,
+  Project Foundation will discuss how Linaro Member can influence and drive Arm consumption,
   collaboration and contribution in, near and around the data center ecosystem through
-  the OCP community. Learn how to participate, contribute to and influence ARM contributions
-  with the OCP ecosystem. How can you, the Linaro community and ARM partners drive
-  ARM contributions within the OCP rack formats. See what OCP currently has contributed,
+  the OCP community. Learn how to participate, contribute to and influence Arm contributions
+  with the OCP ecosystem. How can you, the Linaro community and Arm partners drive
+  Arm contributions within the OCP rack formats. See what OCP currently has contributed,
   upcoming contributions and what is still needed.\n \n Amber welcomes your questions
   ahead of time and hopes to cover the above and more at Linaro Connect."
 featured_image_name: LAS16-312.png
@@ -44,9 +44,9 @@ Speakers: Amber Graner
 Date: September 28, 2016
 
 ★ Session Description ★
-How Linaro and the ARM Partners can drive contributions to the OCP Ecosystem and more.
+How Linaro and the Arm Partners can drive contributions to the OCP Ecosystem and more.
 
-In this session, Amber Graner, Operations Director for the Open Compute Project Foundation will discuss how Linaro Member can influence and drive ARM consumption, collaboration and contribution in, near and around the data center ecosystem through the OCP community. Learn how to participate, contribute to and influence ARM contributions with the OCP ecosystem. How can you, the Linaro community and ARM partners drive ARM contributions within the OCP rack formats. See what OCP currently has contributed, upcoming contributions and what is still needed.
+In this session, Amber Graner, Operations Director for the Open Compute Project Foundation will discuss how Linaro Member can influence and drive Arm consumption, collaboration and contribution in, near and around the data center ecosystem through the OCP community. Learn how to participate, contribute to and influence Arm contributions with the OCP ecosystem. How can you, the Linaro community and Arm partners drive Arm contributions within the OCP rack formats. See what OCP currently has contributed, upcoming contributions and what is still needed.
 
 Amber welcomes your questions ahead of time and hopes to cover the above and more at Linaro Connect.
 

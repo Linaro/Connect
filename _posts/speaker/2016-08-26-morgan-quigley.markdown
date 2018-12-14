@@ -6,7 +6,6 @@ date: 2016-08-26 13:00:41
 featured_image_name: Morgan Quigley.jpg
 image:
   featured: true
-  name: Morgan Quigley.jpg
   path: /assets/images/speakers/Morgan Quigley.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/morgan-quigley/

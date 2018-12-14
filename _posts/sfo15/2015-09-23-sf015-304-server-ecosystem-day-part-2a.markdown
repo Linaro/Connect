@@ -28,6 +28,6 @@ wordpress_id: 2843
 youtube_video_url: https://www.youtube.com/watch?v=_e905XgFwsM
 ---
 
-11:15 – CERN: ARM64/AArch64 for Scientific Computing at the CERN CMS Particle Detector
+11:15 – CERN: Arm64/AArch64 for Scientific Computing at the CERN CMS Particle Detector
 Speaker: David Abdurachmanov Software Engineer/Consultant at CERN
-Abstract: The purpose of this talk is to provide an overview of efforts at CERN (the European Laboratory for Particle Physics, in Geneva, Switzerland) to introduce ARMv8 64-bit (aka AArch64) for large scale scientific computing. The objective is to crunch data from the 14 000 ton CMS particle physics detector located 100 meters underground on a 27 kilometer long circular particle accelerator (the Large Hadron Collider, LHC) running under the Switzerland-France border. The CMS and ATLAS experiments at CERN announced the discovery of Higgs boson in 2012, leading to the awarding of the 2013 Nobel Prize in Physics.
+Abstract: The purpose of this talk is to provide an overview of efforts at CERN (the European Laboratory for Particle Physics, in Geneva, Switzerland) to introduce Armv8 64-bit (aka AArch64) for large scale scientific computing. The objective is to crunch data from the 14 000 ton CMS particle physics detector located 100 meters underground on a 27 kilometer long circular particle accelerator (the Large Hadron Collider, LHC) running under the Switzerland-France border. The CMS and ATLAS experiments at CERN announced the discovery of Higgs boson in 2012, leading to the awarding of the 2013 Nobel Prize in Physics.

@@ -6,7 +6,7 @@ categories:
 - bud17
 comments: false
 date: 2017-02-28 12:05:32
-excerpt: This session will provide updates to the ARM Server Base System Architecture
+excerpt: This session will provide updates to the Arm Server Base System Architecture
   and Boot Requirements (SBSA/SBBR) as well as their validation programs.
 featured_image_name: BUD17-205.jpg
 image:
@@ -24,7 +24,7 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17205-updat
 slug: bud17-205
 speakers: Dong Wei
 tags:
-- ARM
+- Arm
 - Boot-requirements
 - LEG
 - Server
@@ -42,7 +42,7 @@ Track: LEG
 
 
 ★ Session Summary ★
-This session will provide updates to the ARM Server Base System Architecture and Boot Requirements (SBSA/SBBR) as well as their validation programs.
+This session will provide updates to the Arm Server Base System Architecture and Boot Requirements (SBSA/SBBR) as well as their validation programs.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-205/
@@ -58,7 +58,7 @@ Erzsébet krt. 43-49,
 1073 Hungary
 
 ---------------------------------------------------
-Keyword: Boot-requirements, Server, ARM, LEG
+Keyword: Boot-requirements, Server, Arm, LEG
 http://www.linaro.org
 http://connect.linaro.org
 ---------------------------------------------------

@@ -2,7 +2,7 @@
 author: connect
 comments: true
 date: 2015-06-30 17:09:22+00:00
-excerpt: Several engineers from ARM and Linaro attended the EAS workshop at Kernel
+excerpt: Several engineers from Arm and Linaro attended the EAS workshop at Kernel
   Summit. The goal of the session is to update everyone else on the key outcomes of
   the workshop and outline the plan going forward.
 layout: resource-post

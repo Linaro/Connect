@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-23-Wednesday/SFO15-300
-  Big Data on ARM.pdf
+  Big Data on Arm.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-23-Wednesday/SF015-300
   Server Ecosystem Day (Part 1).mp4
 author: connect
@@ -38,10 +38,10 @@ Date: September 23, 2015
 
 ★ Session Description ★
 10:10 - 
-Linaro: Big Data on ARM
+Linaro: Big Data on Arm
 Speaker: Dr Steve Capper, Senior Engineer, Linaro Enterprise Group
-Abstract: Overview of the Open Data Project and Hadoop as the founding technology that enables big data analytics, the session will demonstrate the open source Apache Hadoop running on ARM 
-10:30 - Mirantis:  OpenStack on ARM: Mirantis OpenStack
+Abstract: Overview of the Open Data Project and Hadoop as the founding technology that enables big data analytics, the session will demonstrate the open source Apache Hadoop running on Arm 
+10:30 - Mirantis:  OpenStack on Arm: Mirantis OpenStack
 Speaker:  Kyle MacDonald, Advisor at Mirantis
 Abstract: Pending
 ★ Resources ★ 

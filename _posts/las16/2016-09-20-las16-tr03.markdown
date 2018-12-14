@@ -8,10 +8,10 @@ comments: false
 date: 2016-09-20 17:10:46
 excerpt: This session is an advanced course on Linux kernel upstreaming fundamentals.
   The course covers how the arm-soc kernel tree is maintained and why that is important
-  to ARM Linux kernel developers. The focus of the course is the explanation of the
+  to Arm Linux kernel developers. The focus of the course is the explanation of the
   detailed mechanics of creating and posting patch series to upstream mailing lists
   for several common cases. Annotated session content is made up of previously upstreamed
-  ARM support captured from emails to the kernel mailing lists. The target audience
+  Arm support captured from emails to the kernel mailing lists. The target audience
   is both software engineers and engineering managers preparing to upstream software
   into the kernel. The topic requires a solid background in software configuration
   management terminology and the git SCM tool as well as a good technical understanding
@@ -45,7 +45,7 @@ Speakers: Shawn Guo, Daniel Thompson
 Date: September 27, 2016
 
 ★ Session Description ★
-This session is an advanced course on Linux kernel upstreaming fundamentals. The course covers how the arm-soc kernel tree is maintained and why that is important to ARM Linux kernel developers. The focus of the course is the explanation of the detailed mechanics of creating and posting patch series to upstream mailing lists for several common cases. Annotated session content is made up of previously upstreamed ARM support captured from emails to the kernel mailing lists. The target audience is both software engineers and engineering managers preparing to upstream software into the kernel. The topic requires a solid background in software configuration management terminology and the git SCM tool as well as a good technical understanding of the Linux kernel itself.
+This session is an advanced course on Linux kernel upstreaming fundamentals. The course covers how the arm-soc kernel tree is maintained and why that is important to Arm Linux kernel developers. The focus of the course is the explanation of the detailed mechanics of creating and posting patch series to upstream mailing lists for several common cases. Annotated session content is made up of previously upstreamed Arm support captured from emails to the kernel mailing lists. The target audience is both software engineers and engineering managers preparing to upstream software into the kernel. The topic requires a solid background in software configuration management terminology and the git SCM tool as well as a good technical understanding of the Linux kernel itself.
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-tr03

@@ -1,12 +1,12 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-17-Wednesday/LCU14-301.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-17-Wednesday/LCU14-301-+Hadoop+and+OpenJDK+on+ARM+servers.mp4
+amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-17-Wednesday/LCU14-301-+Hadoop+and+OpenJDK+on+Arm+servers.mp4
 author: connect
 categories:
 - lcu14
 comments: true
 date: 2015-06-30 17:08:43
-excerpt: Technical details of Hadoop and OpenJDK on ARM servers
+excerpt: Technical details of Hadoop and OpenJDK on Arm servers
 featured_image_name: LCU14-301.jpg
 image:
   featured: true
@@ -27,14 +27,14 @@ tags:
 - Enterprise Servers
 - lcu14
 - LCU14-301
-title: 'LCU14-301: Hadoop and OpenJDK on ARM servers'
+title: 'LCU14-301: Hadoop and OpenJDK on Arm servers'
 video_length: '12:22'
 video_thumbnail: None
 wordpress_id: 1540
 youtube_video_url: https://www.youtube.com/watch?v=GD6AZLfSz-A
 ---
 
-LCU14-301: Hadoop and OpenJDK on ARM servers 
+LCU14-301: Hadoop and OpenJDK on Arm servers 
 
 ---------------------------------------------------
 
@@ -44,7 +44,7 @@ Location: Grand Peninsula A, Hyatt Regency San Francisco Airport, Burlingame, CA
 ---------------------------------------------------
 
 ★ Session Summary ★
-Technical details of Hadoop and OpenJDK on ARM servers 
+Technical details of Hadoop and OpenJDK on Arm servers 
 ---------------------------------------------------
 
 ★ Resources ★

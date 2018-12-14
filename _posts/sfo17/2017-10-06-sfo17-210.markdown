@@ -7,8 +7,8 @@ categories:
 comments: false
 date: 2017-10-06 16:54:27
 excerpt: GDB target description is of XML format to describe the registers and types
-  on a given architecture.  As processor architectures exploit diversity, like ARM
-  SVE and ARMv8.3 popinter authentication, the inflexibility in GDB target description
+  on a given architecture.  As processor architectures exploit diversity, like Arm
+  SVE and Armv8.3 popinter authentication, the inflexibility in GDB target description
   emerges. I'll present the work to address the inflexibility in GDB target  description
   to better support various architectures, and their variants and extensions.
 featured_image_name: SFO17-210.jpg
@@ -41,7 +41,7 @@ Track: Toolchain
 
 
 ★ Session Summary ★
-GDB target description is of XML format to describe the registers and types on a given architecture.  As processor architectures exploit diversity, like ARM SVE and ARMv8.3 popinter authentication, the inflexibility in GDB target description emerges. I'll present the work to address the inflexibility in GDB target  description to better support various architectures, and their variants and extensions.
+GDB target description is of XML format to describe the registers and types on a given architecture.  As processor architectures exploit diversity, like Arm SVE and Armv8.3 popinter authentication, the inflexibility in GDB target description emerges. I'll present the work to address the inflexibility in GDB target  description to better support various architectures, and their variants and extensions.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-210/
@@ -69,4 +69,4 @@ Event Date: 26 Sept 2017
 
 Speakers: Yao Qi
 
-Position: Staff Software Engineer at ARM
+Position: Staff Software Engineer at Arm

@@ -11,7 +11,7 @@ excerpt: Nowadays people connect into Internet by multiple kinds of devices. To 
   service provider. Password is no longer the must-have way. Biometric authentications
   like fingerprint are much easier and enough secure. IFAA (Internet Finance Authentication
   Alliance ) is an alliance funded by Alibaba, Ant Financial, CAICT, Huawei, SAMSUNG,
-  and ZTE. Now it has more than 150 members including ARM, Qualcomm, MTK, Vivo, Oppo,
+  and ZTE. Now it has more than 150 members including Arm, Qualcomm, MTK, Vivo, Oppo,
   Spreadtrum, Xiaomi and so on. The IFAA standard based fingerprint authentication
   has been widely supported in all kinds of devices sold in China market. Take Alipay
   as an example, more than 170M users are using fingerprint to pay their orders, almost
@@ -45,7 +45,7 @@ Track: Ecosystem Day
 
 
 ## Session Summary
-Nowadays people connect into Internet by multiple kinds of devices. To identify and authenticate users correctly and easily is the fundamental capability of Internet service provider. Password is no longer the must-have way. Biometric authentications like fingerprint are much easier and enough secure. IFAA (Internet Finance Authentication Alliance ) is an alliance funded by Alibaba, Ant Financial, CAICT, Huawei, SAMSUNG, and ZTE. Now it has more than 150 members including ARM, Qualcomm, MTK, Vivo, Oppo, Spreadtrum, Xiaomi and so on. The IFAA standard based fingerprint authentication has been widely supported in all kinds of devices sold in China market. Take Alipay as an example, more than 170M users are using fingerprint to pay their orders, almost 35% of Alipay trades are now supported by IFAA standard.
+Nowadays people connect into Internet by multiple kinds of devices. To identify and authenticate users correctly and easily is the fundamental capability of Internet service provider. Password is no longer the must-have way. Biometric authentications like fingerprint are much easier and enough secure. IFAA (Internet Finance Authentication Alliance ) is an alliance funded by Alibaba, Ant Financial, CAICT, Huawei, SAMSUNG, and ZTE. Now it has more than 150 members including Arm, Qualcomm, MTK, Vivo, Oppo, Spreadtrum, Xiaomi and so on. The IFAA standard based fingerprint authentication has been widely supported in all kinds of devices sold in China market. Take Alipay as an example, more than 170M users are using fingerprint to pay their orders, almost 35% of Alipay trades are now supported by IFAA standard.
 ---------------------------------------------------
 ## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-320/

@@ -6,7 +6,6 @@ date: 2015-09-02 16:26:21
 featured_image_name: Dave Neary.jpg
 image:
   featured: true
-  name: Dave Neary.jpg
   path: /assets/images/speakers/Dave Neary.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/dave-neary/

@@ -6,7 +6,6 @@ date: 2017-01-05 11:02:59
 featured_image_name: "Bj\xF6rn Ekelund.jpg"
 image:
   featured: true
-  name: "Bj\xF6rn Ekelund.jpg"
   path: "/assets/images/speakers/Bj\xF6rn Ekelund.jpg"
 layout: speaker-post
 link: http://connect.linaro.org/member/bjorn-ekelund/

@@ -7,7 +7,7 @@ categories:
 comments: true
 date: 2015-06-30 17:08:42
 excerpt: 'This session will be working through the planned open source contributions
-  from Linaro, ARM, and other members who want to share their open source contribution
+  from Linaro, Arm, and other members who want to share their open source contribution
   plans for the next year. Projects to be included are: gcc, llvm, glibc, gold, gdb,
   binutils.'
 featured_image_name: LCU14-303.jpg
@@ -48,7 +48,7 @@ Location: Grand Peninsula C, Hyatt Regency San Francisco Airport, Burlingame, CA
 ---------------------------------------------------
 
 ★ Session Summary ★
-This session will be working through the planned open source contributions from Linaro, ARM, and other members who want to share their open source contribution plans for the next year.  Projects to be included are:  gcc, llvm, glibc, gold, gdb, binutils. 
+This session will be working through the planned open source contributions from Linaro, Arm, and other members who want to share their open source contribution plans for the next year.  Projects to be included are:  gcc, llvm, glibc, gold, gdb, binutils. 
 ---------------------------------------------------
 
 ★ Resources ★

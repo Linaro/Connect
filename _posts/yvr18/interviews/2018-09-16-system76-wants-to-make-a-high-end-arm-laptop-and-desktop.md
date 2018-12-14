@@ -10,8 +10,8 @@ image:
   path: /assets/images/featured-images/yvr18-interview10.jpg
 layout: resource-post-demo-interview
 session_track: Interview
-title: System76 wants to make a high-end ARM Laptop and Desktop
+title: System76 wants to make a high-end Arm Laptop and Desktop
 youtube_video_url: https://www.youtube.com/watch?v=Fopa1Uoh87w
 tag: interview
 ---
-System76 is a computer manufacturer based in Denver Colorado specializing in laptops, desktops and servers running Linux. System76 talks about their upcoming efforts to move manufacturing in-house, and what that may mean for the future of the ARM Powered Linux Laptop and Desktop.
+System76 is a computer manufacturer based in Denver Colorado specializing in laptops, desktops and servers running Linux. System76 talks about their upcoming efforts to move manufacturing in-house, and what that may mean for the future of the Arm Powered Linux Laptop and Desktop.

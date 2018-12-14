@@ -7,7 +7,7 @@ categories:
 comments: false
 date: 2016-09-20 17:10:51
 excerpt: Interconnected systems require trust between devices and service providers.
-  To deal with this problem, several companies (ARM, Solacia, Symantec, Intercede)
+  To deal with this problem, several companies (Arm, Solacia, Symantec, Intercede)
   collaborated on the Open Trust Protocol (OTrP), which combines a secure architecture
   with trusted code management, using technologies proven in large scale banking and
   sensitive data applications on mass-market devices such as smartphones and tablets.
@@ -41,7 +41,7 @@ Speakers: Marc Canel
 Date: September 28, 2016
 
 ★ Session Description ★
-Interconnected systems require trust between devices and service providers. To deal with this problem, several companies (ARM, Solacia, Symantec, Intercede) collaborated on the Open Trust Protocol (OTrP), which combines a secure architecture with trusted code management, using technologies proven in large scale banking and sensitive data applications on mass-market devices such as smartphones and tablets.
+Interconnected systems require trust between devices and service providers. To deal with this problem, several companies (Arm, Solacia, Symantec, Intercede) collaborated on the Open Trust Protocol (OTrP), which combines a secure architecture with trusted code management, using technologies proven in large scale banking and sensitive data applications on mass-market devices such as smartphones and tablets.
 
 ★ Resources ★
 Etherpad: pad.linaro.org/p/las16-306

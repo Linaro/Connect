@@ -12,6 +12,7 @@ mailchimp:
 # Footer Newsletter toggle.
 newsletter:
     enabled: true
+    url: https://linaro.us3.list-manage.com/subscribe/post?u=14baaae786342d0d405ee59c2&amp;id=7cf0551a9b
 tags_enabled: true
 # Footer Image default is linaro sprinkle
 linaro-footer-image: Linaro-Sprinkle.png
@@ -52,6 +53,7 @@ facebook_username: LinaroOrg
 youtube_username: linaroorg
 twitter_username: linaroorg
 slideshare_username: linaroorg
+instagram_username: linaroorg
 # Blog setup
 blog:
     # Show Thumbnails in the post index
@@ -112,11 +114,4 @@ disqus:
     enabled: true
     shortname: linaroconnect
 # Placeholder for Missing Images
-placeholder: linaro-logo.png
-
-featured_images:
-  - id: sponsorship
-    images:
-      - /assets/images/content/hkg18-sponsor1.jpg
-      - /assets/images/content/yvr18-sponsor1.jpg
-      - /assets/images/content/yvr18-sponsor2.jpg
+placeholder: /assets/images/content/linaro-logo.png

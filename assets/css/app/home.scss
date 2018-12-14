@@ -24,7 +24,28 @@
   position: relative;
   text-shadow: #000 1px 1px 7px;
 }
+.row.flex-row.pricing-row.content-row.padded-row-30 {
+    background-color: #4e4e4e;
+}
+.pricing-row h2 {
+    color: white;
+    font-size: 44px;
+}
 
+.pricing-row h3.pricing {
+    color: white;
+    font-size: 66px;
+    font-weight: normal;
+}
+
+.pricing-row small {
+    font-size: 22px;
+    color: white;
+}
+.pricing-row p {
+    color: #c1c1c1;
+    margin-top: 28px;
+}
 @media (max-width: $screen-sm-min) {
   h1#home-page-title.white {
     font-size: 28px;
@@ -36,7 +57,13 @@
     line-height: 40px;
   }
 }
+div#current-sponsors {
+    display: none;
+}
 
+.modal-dialog {
+    top: 120px;
+}
 div#featured-jumbotron {
   margin-top: 20px !important;
   margin-bottom: 20px !important;
@@ -71,9 +98,10 @@ img.fade-in-one.img-responsive.center-block {
 h3.connect-location {
   font-weight: normal;
 }
-
-div#intro-row {
-  padding-top: 20px;
+.sponsor-col img.img-responsive {
+    height: 100px;
+    object-fit: contain;
+    margin: auto;
 }
 
 //Speakers Section
@@ -163,9 +191,6 @@ div#schedule-row {
 div#content-container {
     padding-top: 0px;
 }
-div#intro-row {
-    padding-top: 0px;
-}
 #video-skeleton {
     -webkit-filter: grayscale(0%);
     /* Safari 6.0 - 9.0 */
@@ -200,7 +225,7 @@ div#intro-row {
 p#buttons {
     clear: both;
     float: left;
-    text-align: left;
+    text-align: center;
     width: 100%;
     margin-top: 0;
 }
@@ -222,26 +247,30 @@ div#video-embed {
     background-size: cover;
     background-repeat: no-repeat;
 }
-#sponsorship-row h3 {
-    text-align: left;
-    float: left;
+.about-connect p {
+    width: 80%;
+    text-align: center;
+}
+#wrapper .about-connect h3 {
+    text-align: center;
     width: 100%;
 }
 div#sponsorship-row {
-    background-color: #eaeaea;
+    background-color: #fff;
 }
 div#sponsorship-row  .owl-stage-outer {
     height: 400px;
 }
 #connect-row .event-image {
-    background-size: cover !important;
     height: 200px;
+    object-fit: cover;
+    position: absolute;
 }
 #connect-row .owl-stage-outer{
     height: 200px;
 }
-div#intro-row {
-    background-color: #97c600;
+#wrapper .intro-row {
+    background-color: #2d2d2d;
 }
 #connect-row h3 {
     opacity: .8;
@@ -306,4 +335,88 @@ path.cls-1 {
     top: -83px;
     position: relative;
     right: -30px;
+}
+.youtube {
+	background-color: #000;
+	margin-bottom: 30px;
+	position: relative;
+	padding-top: 56.25%;
+	overflow: hidden;
+	cursor: pointer;
+}
+.youtube img {
+	width: 100%;
+	top: -16.82%;
+	left: 0;
+	opacity: 0.7;
+}
+.youtube .play-button {
+	width: 90px;
+	height: 60px;
+	background-color: #333;
+	box-shadow: 0 0 30px rgba( 0,0,0,0.6 );
+	z-index: 1;
+	opacity: 0.8;
+	border-radius: 6px;
+}
+.youtube .play-button:before {
+	content: "";
+	border-style: solid;
+	border-width: 15px 0 15px 26.0px;
+	border-color: transparent transparent transparent #fff;
+}
+.youtube img,
+.youtube .play-button {
+	cursor: pointer;
+}
+.youtube img,
+.youtube iframe,
+.youtube .play-button,
+.youtube .play-button:before {
+	position: absolute;
+}
+.youtube .play-button,
+.youtube .play-button:before {
+	top: 50%;
+	left: 50%;
+	transform: translate3d( -50%, -50%, 0 );
+}
+.youtube iframe {
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+}
+.row.flex-row.upcoming-connect {
+    background-color: #4d4d4d;
+    position: relative;
+    z-index: 1;
+    color: white;
+    text-align: center;
+}
+.row.flex-row.upcoming-connect .btn {
+    margin:10px;
+}
+div#social-media {
+    background-color: #9dc438;
+}
+.social-media-block {
+    height: 100px;
+    background-color: #7fa222;
+    color: white;
+    padding: 20px;
+    font-size: 16px;
+    margin-top:20px;
+    transition: all 400ms ease;
+}
+.social-media-block i {
+    color: white;
+    font-size: 34px;
+    display:block;
+}
+.social-media-block:hover {
+    background-color:#0c0c0c;
+}
+#jumbotron img.img-responsive.center-block {
+    height: 150px;
 }

@@ -6,7 +6,7 @@ categories:
 - bud17
 comments: false
 date: 2017-03-22 11:25:32
-excerpt: ARMv8-M secure debug demo
+excerpt: Armv8-M secure debug demo
 featured_image_name: BUD17-DF13.jpg
 image:
   featured: true
@@ -17,21 +17,21 @@ link: http://connect.linaro.org/resource/bud17/demo/bud17-df13/
 post_format:
 - Video
 session_id: BUD17-DF13
-session_track: ARMv8-M secure debug demo
+session_track: Armv8-M secure debug demo
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73368785
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/armv8m-secure-debug-demo
 slug: bud17-df13
 speakers: LITE
-title: ARMv8-M secure debug demo- BUD17-DF13
+title: Armv8-M secure debug demo- BUD17-DF13
 video_length: 08:10
 video_thumbnail: None
 wordpress_id: 5677
 youtube_video_url: https://www.youtube.com/watch?v=9HgMuRMf0IU
 ---
 
-"The new generation for ARM Cortex-M23 and Cortex-M33, the first in the new 
-family of ARMv8-M architecture, introduce optimized TrustZone security features 
-into small devices. The CoreLink SSE-200 subsystem combines all of the latest ARM IP to provide a foundation for building a secure IoT node. Those new processors and subsystems make it easier for developers to create secure and energy efficient IoT solutions for the interconnected IoT world.
+"The new generation for Arm Cortex-M23 and Cortex-M33, the first in the new 
+family of Armv8-M architecture, introduce optimized TrustZone security features 
+into small devices. The CoreLink SSE-200 subsystem combines all of the latest Arm IP to provide a foundation for building a secure IoT node. Those new processors and subsystems make it easier for developers to create secure and energy efficient IoT solutions for the interconnected IoT world.
 This demo shows a secret code, changing randomly every 10 seconds, via a 
 secure LCD peripheral. A switch, configured as a secure peripheral, allows
 to change debug authentication permissions to grant or deny access to the secure space via the debugger. 

@@ -1,15 +1,15 @@
 ---
 amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-23-Wednesday/SFO15-303-
-  LKP on ARM.pdf
+  LKP on Arm.pdf
 amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-23-Wednesday/SFO15-303
-  Linux Kernel Performance (LKP) Project on ARM.mp4
+  Linux Kernel Performance (LKP) Project on Arm.mp4
 author: connect
 categories:
 - sfo15
 comments: false
 date: 2015-09-23 00:00:00
 excerpt: "There has been recent work upstream to enable the LKP tests to build and
-  execute on ARM platforms. The QA team has been involved with the integration of
+  execute on Arm platforms. The QA team has been involved with the integration of
   these tests into Linaro\xE4\xF3\xBBs Automated Validation Architecture, and this
   presentation will provide a brief overview of the LKP results that have been obtained.
   It will also demonstrate useful way to compare the data."
@@ -31,19 +31,19 @@ speakers: Chase Qi
 tags:
 - Linux
 - Validation
-title: 'SFO15-303: Linux Kernel Performance (LKP) Project on ARM'
+title: 'SFO15-303: Linux Kernel Performance (LKP) Project on Arm'
 video_length: '26:25'
 video_thumbnail: None
 wordpress_id: 2841
 youtube_video_url: https://www.youtube.com/watch?v=obF6c3IWqaA
 ---
 
-SFO15-303: Linux Kernel Performance (LKP) Project on ARM
+SFO15-303: Linux Kernel Performance (LKP) Project on Arm
 Speaker:  Chase Qi
 Date: September 23, 2015
 
 ★ Session Description ★
-There has been recent work upstream to enable the LKP tests to build and execute on ARM platforms. The QA team has been involved with the integration of these tests into Linaro’s Automated Validation Architecture, and this presentation will provide a brief overview of the LKP results that have been obtained. It will also demonstrate useful way to compare the data.
+There has been recent work upstream to enable the LKP tests to build and execute on Arm platforms. The QA team has been involved with the integration of these tests into Linaro’s Automated Validation Architecture, and this presentation will provide a brief overview of the LKP results that have been obtained. It will also demonstrate useful way to compare the data.
 
 ★ Resources ★ 
 Video: 
