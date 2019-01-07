@@ -2,6 +2,7 @@
 layout: jumbotron
 css-package: home
 js-package: home
+id: index
 title: Linaro Connect Bangkok 2019 (BKK19)
 description: |-
     Linaro Connect Bangkok 2019 (BKK19) will take place on Monday 1 April to Friday 5 April 2019
@@ -10,31 +11,38 @@ featured-images:
     - /assets/images/content/yvr18-sponsor-thumb-1.jpg
     - /assets/images/content/yvr18-sponsor-thumb-2.jpg
 jumbotron:
-    image: /assets/images/content/bkk19-vertical-white.png
+    image: /assets/images/content/bkk19-vertical-white-sm.png
     title: Bringing the Arm ecosystem together
     include: jumbotron-home.html
     description: ""
-    background-image: /assets/images/content/bkk19-website-banner.jpg
+    video: 
+        source:
+            mp4: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromo.mp4
+            ogv: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromo.ogv
+            webm: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromo.webm
+        poster: /assets/images/content/bkk19-bg.jpg
+    animation: fade
+home: true
 ---
 <!-- Video Modal -->
 <div class="modal fade" id="connectPromoVideo" tabindex="-1" role="dialog" aria-labelledby="connectModalLabel">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title" id="connectModalLabel">Linaro Connect</h4>
+                <button type="button" class="close closeVideo" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title text-center" id="connectModalLabel">Linaro Connect</h4>
             </div>
             <div class="modal-body">
                 <div class="col-xs-12 no-padding connect-video">
                     <div class="wrapper">
-                        <div class="youtube" data-embed="06oC6Y76p2I">
+                        <div class="youtube" id="youtube-container" data-embed="06oC6Y76p2I">
                             <div class="play-button"></div>
                         </div>
                     </div>            
                 </div>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-default closeVideo" data-dismiss="modal">Close</button>
             </div>
         </div>
     </div>
@@ -52,6 +60,27 @@ jumbotron:
         <p class="home-text text-white">
             For a week, attendees enjoy a mix of industry keynotes, engineering discussions and collaborative hacking sessions. If you are interested in open source software development for Linux, tools and the various vertical segment ecosystems that use Arm processors, then this is the place to be.
         </p>
+    </div>
+</div>
+<div class="row flex-row pricing-row content-row padded-row-30">
+    <div class="container">
+        <div class="col-sm-6 text-center">
+            <div class="normal-pricing">
+                <h2>Week Pass</h2>
+                <h3 class="pricing">$2,500 / $900 </h3>
+                <small>Guests / <a href="https://www.linaro.org/membership/">Linaro Members</a> </small>
+            </div>
+        </div>
+        <div class="col-sm-6 text-center">
+            <div class="member-pricing">
+                <h2>Day Pass</h2>
+                <h3 class="pricing">$750 / $300 </h3>
+                <small>Guests / <a href="https://www.linaro.org/membership/">Linaro Members</a> </small>
+            </div>
+        </div>
+        <div class="col-xs-12 text-center">
+            <p>If your company is a member of Linaro and you're looking for a <em>discount code</em> please email <a href="mailto:connect@linaro.org">connect@linaro.org</a></p>
+        </div>
     </div>
 </div>
 <div class="row flex-row padded-row-30 content-row" id="sponsorship-row">
@@ -84,7 +113,7 @@ jumbotron:
 </div>
 <div class="row content-row padded-row-30" id="social-media">
     <div class="container text-center text-white">
-        <h3 class="text-white">Join us on social media using #bkk19</h3>
+        <h3 class="text-white">Follow us on social media</h3>
         <div class="col-xs-6 col-sm-2">
             <a href="https://www.linkedin.com/company/{{site.data.settings.linkedin_username}}">
                 <div class="social-media-block">

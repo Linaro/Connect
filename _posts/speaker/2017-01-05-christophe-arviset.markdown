@@ -6,7 +6,6 @@ date: 2017-01-05 11:04:46
 featured_image_name: Christophe Arviset.jpg
 image:
   featured: true
-  name: Christophe Arviset.jpg
   path: /assets/images/speakers/Christophe Arviset.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/christophe-arviset/

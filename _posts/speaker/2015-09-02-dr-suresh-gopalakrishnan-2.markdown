@@ -6,7 +6,6 @@ date: 2015-09-02 15:29:25
 featured_image_name: Dr. Suresh Gopalakrishnan.jpg
 image:
   featured: true
-  name: Dr. Suresh Gopalakrishnan.jpg
   path: /assets/images/speakers/Dr. Suresh Gopalakrishnan.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/dr-suresh-gopalakrishnan-2/

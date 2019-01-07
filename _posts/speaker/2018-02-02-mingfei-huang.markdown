@@ -6,7 +6,6 @@ date: 2018-02-02 16:35:33
 featured_image_name: Mingfei Huang.png
 image:
   featured: true
-  name: Mingfei Huang.png
   path: /assets/images/speakers/Mingfei Huang.png
 layout: speaker-post
 link: http://connect.linaro.org/member/mingfei-huang/

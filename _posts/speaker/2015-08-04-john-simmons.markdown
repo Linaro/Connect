@@ -6,7 +6,6 @@ date: 2015-08-04 16:44:52
 featured_image_name: John Simmons.jpg
 image:
   featured: true
-  name: John Simmons.jpg
   path: /assets/images/speakers/John Simmons.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/john-simmons/

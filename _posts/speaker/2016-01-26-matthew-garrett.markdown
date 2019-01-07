@@ -6,7 +6,6 @@ date: 2016-01-26 09:52:50
 featured_image_name: Matthew Garrett.jpg
 image:
   featured: true
-  name: Matthew Garrett.jpg
   path: /assets/images/speakers/Matthew Garrett.jpg
 layout: speaker-post
 link: http://connect.linaro.org/member/matthew-garrett/

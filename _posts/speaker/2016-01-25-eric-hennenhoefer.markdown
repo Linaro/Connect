@@ -6,7 +6,6 @@ date: 2016-01-25 11:48:35
 featured_image_name: Eric Hennenhoefer.png
 image:
   featured: true
-  name: Eric Hennenhoefer.png
   path: /assets/images/speakers/Eric Hennenhoefer.png
 layout: speaker-post
 link: http://connect.linaro.org/member/eric-hennenhoefer/

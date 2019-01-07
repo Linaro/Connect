@@ -24,7 +24,28 @@
   position: relative;
   text-shadow: #000 1px 1px 7px;
 }
+.row.flex-row.pricing-row.content-row.padded-row-30 {
+    background-color: #4e4e4e;
+}
+.pricing-row h2 {
+    color: white;
+    font-size: 44px;
+}
 
+.pricing-row h3.pricing {
+    color: white;
+    font-size: 66px;
+    font-weight: normal;
+}
+
+.pricing-row small {
+    font-size: 22px;
+    color: white;
+}
+.pricing-row p {
+    color: #c1c1c1;
+    margin-top: 28px;
+}
 @media (max-width: $screen-sm-min) {
   h1#home-page-title.white {
     font-size: 28px;
@@ -36,7 +57,13 @@
     line-height: 40px;
   }
 }
+div#current-sponsors {
+    display: none;
+}
 
+.modal-dialog {
+    top: 120px;
+}
 div#featured-jumbotron {
   margin-top: 20px !important;
   margin-bottom: 20px !important;
