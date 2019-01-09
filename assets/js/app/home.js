@@ -86,5 +86,17 @@ $(document).ready(function () {
         console.log("Closed and paused.");
     });
 
+    $(window).click(function () {
+        // Reload Iframe
+        var iframe = document.getElementById("promoVideo");
+        iframe.src = iframe.src;
+        console.log($("#youtube-container").attr("data-embed"));
+        console.log("Closed and paused.");
+    });
+
+    $('.modal-dialog').click(function (event) {
+        event.stopPropagation();
+    });
+
 
 });
