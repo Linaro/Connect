@@ -1,6 +1,8 @@
 ---
 title: Accomodation
 permalink: /accomodation/
+description: >-
+    Here we will summarise the accomodation options available for the upcoming Linaro Connect event.
 layout: jumbotron-container
 ---
 Please book using Linaro's link to receive our negotiated conference attendee rates:
@@ -109,9 +111,10 @@ page](https://collaborate.linaro.org/display/CNCT/Employee+Specific+Information+
         </tr>
     </tbody>
 </table>
-
+<br>
 <table class="m_-9205977082252505863gmail-confluenceTable" style="border-collapse:collapse;margin:0px;overflow-x:auto"><colgroup><col><col></colgroup><tbody><tr><td colspan="2" class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px"><p style="margin:0px;padding:0px"><strong>Cancellation Policy</strong></p></td></tr><tr><td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px"><p style="margin:0px;padding:0px">*</p></td><td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px"><p style="margin:0px;padding:0px">If you cancel hotel reservation after March 18, 2019, hotel will apply one night penalty fee.</p></td></tr><tr><td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px"><p style="margin:0px;padding:0px">*</p></td><td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px">For late cancellation or shorten stay notified less than 72 hours working day prior to check in date, the hotel reserves the right to charge your credit card with a cancellation fee for entire stays</td></tr><tr><td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px"><p style="margin:0px;padding:0px">*</p></td><td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px"><p class="m_-9205977082252505863gmail-style12" style="margin:0px;padding:0px">No show policy: If you fail to attend (no show), the hotel reserves the right to charge your credit card for entire stays</p></td></tr></tbody></table>
 
+<br>
 
 - Check-in is at 15:00 and check-out is at 12:00 on the day of departure
 - Negotiated rates are valid for attendees 5 days pre and post Connect
