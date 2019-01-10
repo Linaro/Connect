@@ -79,6 +79,7 @@ $(document).ready(function () {
 
     // Check for modal close event
     $(".closeVideo").on('click', function () {
+        e.stopPropagation();
         // Reload Iframe
         var iframe = document.getElementById("promoVideo");
         iframe.src = iframe.src;
