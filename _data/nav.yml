@@ -23,6 +23,10 @@ pages:
       options:
           - text: Register
             url: /register/
+          - text: Schedule
+            url: /schedule/
+          - text: Accomodation
+            url: /accomodation/
           - text: Call for proposals
             url: /cfp/
           - text: Visa/Business Invitation Letters
