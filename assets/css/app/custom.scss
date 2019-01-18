@@ -692,3 +692,10 @@ div#current-sponsors {
 div#schedule .list-group-item {
     overflow: auto;
 }
+@media (min-width: $screen-sm-min) {
+  .collapse.dont-collapse-sm {
+    display: block;
+    height: auto !important;
+    visibility: visible;
+  }
+}
