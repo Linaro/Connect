@@ -12,6 +12,8 @@ $sub-footer-color: #e4e4e4;
 $navbar-text-color: #000;
 $navbar-height: 66px;
 $navbar-inverse-bg: #fff;
+$navbar-hover-text-color: #fff !default;
+$navbar-hover-background-color: $brand-primary !default;
 $navbar-inverse-color: #000;
 @font-face {
   font-family: "Lato";
