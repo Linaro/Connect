@@ -1,0 +1,71 @@
+- day_number: 1
+  date: Monday, April 1
+  slots:
+    - title: Registration Opens
+      time: 07:30 - 8:30
+    - title: Sessions
+      time: 08:30 - 09:55
+    - title: Keynotes
+      time: 10:00 - 11:00
+    - title: Team Planning sessions
+      time: 11:00 - 13:00
+    - title: Lunch
+      time: 12:00 - 14:00
+    - title: Sessions
+      time: 14:00 - 17:30
+- day_number: 2
+  date: Tuesday, April 2
+  slots:
+    - title: Sessions
+      time: 08:30 - 09:55
+    - title: Keynotes
+      time: 10:00 - 11:00
+    - title: Sessions
+      time: 11:00 - 13:00
+    - title: Lunch
+      time: 12:00 - 14:00
+    - title: Training & Hacking Sessions
+      time: 14:00 - 17:30
+    - title: Committee Member Dinner
+      time: 19:00 - 22:00
+- day_number: 3
+  date: Wednesday, April 3
+  slots:
+    - title: Sessions
+      time: 08:30 - 09:55
+    - title: Keynotes
+      time: 10:00 - 11:00
+    - title: Sessions
+      time: 11:00 - 13:00
+    - title: Lunch
+      time: 12:00 - 14:00
+    - title: Training & Hacking Sessions
+      time: 14:00 - 17:30
+    - title: Social Event for all attendees
+      time: 19:00 - 22:00
+- day_number: 4
+  date: Thursday, April 4
+  slots:
+    - title: Sessions
+      time: 08:30 - 09:55
+    - title: Keynotes
+      time: 10:00 - 11:00
+    - title: Sessions
+      time: 11:00 - 13:00
+    - title: Lunch
+      time: 12:00 - 14:00
+    - title: Training & Hacking Sessions
+      time: 14:00 - 17:30
+    - title: Member Services Dinner 
+      time: 18:30 - 01:00
+- day_number: 5
+  date: Friday, April 5
+  slots:
+    - title: Sessions
+      time: 08:30 - 09:55
+    - title: Keynotes
+      time: 10:00 - 11:00
+    - title: Sessions
+      time: 11:00 - 12:00
+    - title: Lunch & Demo Friday / End of Connect
+      time: 12:00 - 14:00

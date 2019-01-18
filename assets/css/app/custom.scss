@@ -689,3 +689,13 @@ div#current-sponsors {
     position: relative;
     z-index: 5;
 }
+div#schedule .list-group-item {
+    overflow: auto;
+}
+@media (min-width: $screen-sm-min) {
+  .collapse.dont-collapse-sm {
+    display: block;
+    height: auto !important;
+    visibility: visible;
+  }
+}
