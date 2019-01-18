@@ -18,7 +18,7 @@ jumbotron:
                     <li class="list-group-item active day">
                         Day {{day.day_number}}: {{day.date}}
                     </li>
-                    {% for slot in slots %}
+                    {% for slot in day.slots %}
                         <li class="list-group-item">
                             {{slot.title}}
                             <span class="badge">{{slot.time}}</span>
