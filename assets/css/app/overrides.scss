@@ -12,6 +12,8 @@ $sub-footer-color: #e4e4e4;
 $navbar-text-color: #000;
 $navbar-height: 66px;
 $navbar-inverse-bg: #fff;
+$navbar-hover-text-color: #fff !default;
+$navbar-hover-background-color: $brand-primary !default;
 $navbar-inverse-color: #000;
 @font-face {
   font-family: "Lato";
@@ -41,3 +43,7 @@ $jumbotron-heading-color: #fff !default;
 $jumbotron-sub-title-font-size-xs: 16px;
 $jumbotron-sub-title-font-size: 18px;
 $jumbotron-sub-title-color: #fff !default;
+// Tabbed Navbar
+$tabbed-nav-bg-color: #f5f5f5 !default;
+$tabbed-nav-text-color: #262626 !default;
+$tabbed-nav-hover-color: $brand-primary !default;
