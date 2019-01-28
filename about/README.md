@@ -1,11 +1,28 @@
 ---
 title: About
 permalink: /about/
-layout: container-breadcrumb
+layout: jumbotron
 js-package: about
 css-package: about
+jumbotron:
+    triangle-divider: true
+    title: About
+    description: >
+        Since 2010, Linaro Connect has been the event to attend if you are interested in open source software development for Linux,
+        tools and the various vertical segment ecosystems that use Arm processors.
+    carousel-images:
+        - /assets/images/content/yvr18.jpg
+        - /assets/images/content/lcu14.jpg
+        - /assets/images/content/lcu13.jpg
+        - /assets/images/content/lce13.jpg
+        - /assets/images/content/lca14.jpg
+        - /assets/images/content/lca13.jpg
+        - /assets/images/content/las16.jpg
+        - /assets/images/content/hkg15.jpg
+        - /assets/images/content/bud17.jpg
+        - /assets/images/content/bkk16.jpg
 ---
-<div class="row">
+<div class="row content" id="content-container">
 <div class="col-md-6" markdown="1">
 
 Since 2010, Linaro Connect has been the event to attend if you are interested in open source software development for Linux,
@@ -58,7 +75,7 @@ To view slides or videos from the keynotes and sessions from previous Connects, 
 </div>
 </div>
 
-<div class="row" id="about-block-row">
+<div class="row content" id="about-block-row">
 <div class="col-md-4">
 <div class="about-block text-center" style="background: linear-gradient(
 rgba(0, 0, 0, 0.7), 
