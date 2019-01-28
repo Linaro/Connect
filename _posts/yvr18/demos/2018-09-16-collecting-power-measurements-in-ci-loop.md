@@ -12,9 +12,9 @@ layout: resource-post-demo-interview
 session_track: Demo
 speakers:
 - company: Linaro
-  name: Lisa Wen
+  name: Lisa Nguyen
 title: Collecting power measurements in CI Loop
 youtube_video_url: https://www.youtube.com/watch?v=4TlwJh7hLVY
 tag: demo
 ---
-At the Linaro Connect Vancouver 2018, Lisa Wen of the Power Management working group shows the work that they are doing to optimize power management.
+At the Linaro Connect Vancouver 2018, Lisa Nguyen of the Power Management working group shows the work that they are doing to optimize power management.
