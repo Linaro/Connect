@@ -420,3 +420,7 @@ div#social-media {
 #jumbotron img.img-responsive.center-block {
     height: 150px;
 }
+// Big Triangle css for the homepage
+.big-triangle::after, .big-triangle::before {
+    border-bottom-color:#4d4d4d;
+}
