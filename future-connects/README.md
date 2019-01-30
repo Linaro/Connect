@@ -1,9 +1,16 @@
 ---
 title: Future Connect Events
 permalink: /future-connects/
-layout: container-breadcrumb
+description: >
+    Here you can find details on upcoming Linaro Connect events.
+layout: jumbotron-container
 js-package: about
 css-package: about
+jumbotron:
+    title: Future Connect Events
+    description: >
+        Looking to attend Linaro Connect? Here you can find details on upcoming Linaro Connect events.
+    background-image: /assets/images/content/yvr18.jpg
 ---
 <div class="col-xs-12" markdown="1">
 

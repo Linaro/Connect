@@ -29,6 +29,8 @@ pages:
             url: /accomodation/
           - text: Call for proposals
             url: /cfp/
+          - text: Call for Demos
+            url: /demo-friday/
           - text: Visa/Business Invitation Letters
             url: /business-invitation-letters/
           - text: Code of Conduct
