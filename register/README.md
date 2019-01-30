@@ -1,11 +1,12 @@
 ---
 title: Register for BKK19
 permalink: /register/
-layout: container-breadcrumb
+layout: jumbotron-container
 css-package: blog
+jumbotron:
+    background-image: /assets/images/content/connect-registration.jpg
+    triangle-divider: true
 ---
-<div class="row" id="register">
-<div class="container no-padding">
 <div class="col-md-12" style="margin-top:30px;" markdown="1">
 If you are a member attendee and need information about your discount promotional code, please email [connect@linaro.org](mailto:connect@linaro.org).
 
@@ -13,5 +14,4 @@ If you are a member attendee and need information about your discount promotiona
 
 
 </div>
-</div>
-</div>
+
