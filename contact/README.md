@@ -59,7 +59,7 @@ Website Legal page can be found [here](https://www.linaro.org/legal/). For [medi
 </ul>
 
 </div>
-<div class="col-sm-8">
+<div class="col-sm-8 p-t-20">
 
 {% include linaro-contact-form.html %}
 
