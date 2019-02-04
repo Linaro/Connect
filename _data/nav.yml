@@ -38,4 +38,15 @@ pages:
     - title: Sponsors
       url: /sponsors/
     - title: Resources
-      data: site.data.connects
+      options:
+          - text: All Resources
+            url: /resources/
+          - text: Vancouver 2018
+            url: /resources/yvr18/
+          - text: Hong Kong 2018
+            url: /resources/hkg18/
+          - text: San Francisco 2017
+            url: /resources/sfo17/
+          - text: Budapest 2017
+            url: /resources/bud17/
+
