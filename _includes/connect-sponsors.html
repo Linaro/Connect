@@ -1,14 +1,18 @@
-<div class="row content-row" id="current-sponsors">
+<div class="row content-row footer-sponsors" id="current-sponsors">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 text-center fly">
-                <h2>Thanks to our {{site.previous-connect-code}} Sponsors</h2>
+                {% if site.connect-status == "pre" %}
+                    <h2>{{site.connect-text}} Sponsors</h2>
+                {% else %}
+                    <h2>Thanks to our {{site.connect-code}} Sponsors</h2>
+                {% endif %}
             </div>
         </div>
         <div class="row">
-            {% for sponsor in site.data.previous-sponsors %} 
-                {% assign prev-connect = site.previous-connect-code | downcase %}
-                {% if sponsor.event == prev-connect %}
+            {% for sponsor in site.data.sponsors %}
+                {% assign connect-code = site.connect-code | downcase %}
+                {% if sponsor.events contains connect-code %}
                     {% if sponsor.type == "lead" %}
                     <div class="col-xs-6 col-sm-3  text-center lead-sponsor">
                         <div class="sponsor fly">
@@ -32,7 +36,7 @@
                         </div>
                     </div>
                     {% endif %}
-                {% endif %} 
+                {% endif %}
             {% endfor %}
         </div>
     </div>
