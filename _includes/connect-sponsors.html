@@ -1,0 +1,43 @@
+<div class="row content-row footer-sponsors" id="current-sponsors">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 text-center fly">
+                {% if site.connect-status == "pre" %}
+                    <h2>{{site.connect-text}} Sponsors</h2>
+                {% else %}
+                    <h2>Thanks to our {{site.connect-code}} Sponsors</h2>
+                {% endif %}
+            </div>
+        </div>
+        <div class="row">
+            {% for sponsor in site.data.sponsors %}
+                {% assign connect-code = site.connect-code | downcase %}
+                {% if sponsor.events contains connect-code %}
+                    {% if sponsor.type == "lead" %}
+                    <div class="col-xs-6 col-sm-3  text-center lead-sponsor">
+                        <div class="sponsor fly">
+                            <h3> Lead Sponsor </h3>
+                            <a href="{{sponsor.url}}" target="_blank">
+                                <img class="{% if sponsor.class %}{{sponsor.class}}{% endif %}img-responsive lazyload"
+                                 src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                 data-src="/assets/images/sponsors/{{sponsor.image}}"/>
+                            </a>
+                        </div>
+                    </div>
+                    {% else %}
+                    <div class="col-xs-6 col-sm-3 text-center connect-sponsor">
+                        <div class="sponsor fly">
+                            <h3> Sponsor </h3>
+                            <a href="{{sponsor.url}}" target="_blank">
+                                <img class="{% if sponsor.class %}{{sponsor.class}}{% endif %} img-responsive lazyload"
+                                 src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                data-src="/assets/images/sponsors/{{sponsor.image}}"/>
+                            </a>
+                        </div>
+                    </div>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
