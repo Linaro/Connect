@@ -2,7 +2,6 @@
 layout: jumbotron
 css-package: home
 js-package: home
-id: index
 title: Linaro Connect Bangkok 2019 (BKK19)
 description: |-
     Linaro Connect Bangkok 2019 (BKK19) will take place on Monday 1 April to Friday 5 April 2019
@@ -47,6 +46,38 @@ home: true
         <h3 class="home-text text-white">Join us in Bangkok, Thailand from April 1-5, 2019</h3>
         <a href="/register/" class="btn btn-linaro-home">Register</a>
         <a data-toggle="modal" href="/schedule/" class="btn btn-linaro-home">Schedule</a>
+    </div>
+</div>
+<div class="row content-row" id="current-sponsors">
+    <div class="container">
+        <div class="row">
+            {% for sponsor in site.data.sponsors %}
+            {% assign connect-code = site.connect-code | downcase %}
+            {% if sponsor.events contains connect-code %}
+            {% if sponsor.type == "lead" %}
+            <div class="col-xs-6 col-sm-3  text-center lead-sponsor">
+                <div class="sponsor fly">
+                    <h3> Lead Sponsor </h3>
+                    <a href="{{sponsor.url}}" target="_blank">
+                        <img class="{% if sponsor.class %}{{sponsor.class}}{% endif %}img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                            data-src="/assets/images/sponsors/{{sponsor.image}}" />
+                    </a>
+                </div>
+            </div>
+            {% else %}
+            <div class="col-xs-6 col-sm-3 text-center connect-sponsor">
+                <div class="sponsor fly">
+                    <h3> Sponsor </h3>
+                    <a href="{{sponsor.url}}" target="_blank">
+                        <img class="{% if sponsor.class %}{{sponsor.class}}{% endif %} img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                            data-src="/assets/images/sponsors/{{sponsor.image}}" />
+                    </a>
+                </div>
+            </div>
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+        </div>
     </div>
 </div>
 <div class="row flex-row intro-row content-row padded-row-30">
@@ -94,13 +125,15 @@ home: true
             and social media before, during and after the event.
         </p>
         <div class="sponsors">
-            {% for sponsor in site.data.previous-sponsors %}
+            {% for sponsor in site.data.sponsors %}
+                {% if sponsor.events contains site.connect-code %}
                 <div class="col-xs-6 col-sm-3 sponsor-col">
                     <a href="{{sponsor.url}}">
                         <img class="img-responsive lazyload {% if sponsor.class %}{{sponsor.class}}{% endif %}" data-src="/assets/images/sponsors/{{sponsor.image}}"
                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="{{sponsor.name}} logo"/>
                     </a>
                 </div>
+                {% endif %}
             {% endfor %}
         </div>
         <p id="buttons" class="text-center">
