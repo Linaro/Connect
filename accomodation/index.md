@@ -5,8 +5,10 @@ description: >-
     Here we will summarise the accomodation options available for the upcoming Linaro Connect event.
 layout: jumbotron-container
 ---
-Please book using Linaro's link to receive our negotiated conference attendee rates:
 
+The next Linaro Connect will be held at the Centara Grand at CentralWorld 999/99 Rama 1 Road, Pathumwan, Bangkok 10330, Thailand
+
+Please book using Linaro’s link to receive our negotiated conference attendee rates:
 
 <a href="https://cgcweventsrsvn.chr.co.th/lcit2019/" class="btn btn-primary">Book Accomodation</a>
 
