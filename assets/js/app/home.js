@@ -54,6 +54,29 @@ $(document).ready(function () {
             }
         }
     });
+    $("#keynote-slider").owlCarousel({
+        items: 4,
+        loop: false,
+        dots: false,
+        lazyLoad: true,
+        autoplay: true,
+        autoplayTimeout: 4000,
+        autoplayHoverPause: true,
+        responsive: {
+            0: {
+                items: 1
+            },
+            560: {
+                items: 2
+            },
+            700: {
+                items: 3
+            },
+            1000: {
+                items: 4
+            }
+        }
+    });
 
 });
 
