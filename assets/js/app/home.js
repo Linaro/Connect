@@ -59,6 +59,7 @@ $(document).ready(function () {
         loop: false,
         dots: false,
         lazyLoad: true,
+        rewind: true,
         autoplay: true,
         autoplayTimeout: 4000,
         autoplayHoverPause: true,
@@ -69,10 +70,10 @@ $(document).ready(function () {
             560: {
                 items: 2
             },
-            700: {
+            945: {
                 items: 3
             },
-            1000: {
+            1200: {
                 items: 4
             }
         }
