@@ -23,6 +23,9 @@ jumbotron:
         poster: /assets/images/content/bkk19-bg.jpg
     animation: fade
 home: true
+redirect_from:
+- /keynotes/bkk19/
+- /keynotes/
 ---
 <!-- Modal -->
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -48,6 +51,54 @@ home: true
         <a data-toggle="modal" href="/schedule/" class="btn btn-linaro-home">Schedule</a>
     </div>
 </div>
+{% assign keynotes = site.keynotes | where: 'event', site.connect-code %}
+{% for keynote in keynotes %}
+    <div class="modal fade" id="{{keynote.event}}-{{forloop.index}}">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h3 class="modal-title">{{keynote.title}} - {{keynote.speaker.name}}</h3>
+                </div>
+                <div class="modal-body">
+                    {% if keynote.speaker.bio %}
+                    <h3>Bio</h3>
+                    <p>
+                        {{keynote.speaker.bio}}
+                    </p>
+                    {% endif %}
+                    {% if keynote.description %}
+                    <h3>Abstract</h3>
+                    <p>
+                        {{keynote.description}}
+                    </p>
+                    {% endif %}
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
+<div class="row content-row keynote-speakers padded-row-30" id="keynotes">
+    <div class="container">
+        <h3 class="home-text text-center text-white m-b-50">Featured Keynote Speakers</h3>
+        <div class="owl-carousel owl-theme" id="keynote-slider">
+            {% for keynote in keynotes %}
+                <div class="item event-item keynote text-center">
+                    <img class="img-circle img-responsive center-block lazyload" data-src="{{keynote.image.path}}"
+                    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="  
+                    alt="{{keynote.speaker.name}} image"/>
+                    <h2>{{keynote.title}}</h2>
+                    <h3>{{keynote.speaker.name}} {% if keynote.speaker.job-title %}/ {{keynote.speaker.job-title}}{% endif %}</h3>
+                    <a class="btn btn-primary more-info" data-toggle="modal" href='#{{keynote.event}}-{{forloop.index}}'>View Bio/Abstract</a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
 <div class="row content-row" id="current-sponsors">
     <div class="container">
         <div class="row">

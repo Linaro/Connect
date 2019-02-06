@@ -54,6 +54,30 @@ $(document).ready(function () {
             }
         }
     });
+    $("#keynote-slider").owlCarousel({
+        items: 4,
+        loop: false,
+        dots: false,
+        lazyLoad: true,
+        rewind: true,
+        autoplay: true,
+        autoplayTimeout: 4000,
+        autoplayHoverPause: true,
+        responsive: {
+            0: {
+                items: 1
+            },
+            560: {
+                items: 2
+            },
+            945: {
+                items: 3
+            },
+            1200: {
+                items: 4
+            }
+        }
+    });
 
 });
 
