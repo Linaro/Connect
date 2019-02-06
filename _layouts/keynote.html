@@ -4,17 +4,17 @@ layout: jumbotron-container
 <div class="col-sm-9" markdown="1">
 {% if page.speaker.bio %}
 
-### About {{page.speaker.name}}
+<h3>About {{page.speaker.name}}</h3>
 
-{{page.speaker.bio}}
+{{page.speaker.bio | markdownify }}
 
 {% endif %}
 
-{% if page.abstract %}
+{% if page.description %}
 
-### Keynote Abstract 
+<h3>Keynote Abstract</h3>
 
-{{page.abstract}}
+{{page.description | markdownify }}
 
 {% endif %}
 
