@@ -48,6 +48,41 @@ home: true
         <a data-toggle="modal" href="/schedule/" class="btn btn-linaro-home">Schedule</a>
     </div>
 </div>
+<div class="row content-row keynote-speakers padded-row-30" id="keynotes">
+    <div class="container">
+        <h3 class="home-text text-center text-white">Featured Keynote Speakers</h3>
+        {% assign keynotes = site.keynotes | where: 'event', site.connect-code %}
+        {% for keynote in keynotes %}
+            <div class="col-xs-12 col-sm-3 keynote">
+                <img class="img-circle img-responsive center-block lazyload" data-src="{{keynote.image.path}}"
+                src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="  
+                alt="{{keynote.speaker.name}} image"/>
+                <h3>{{keynote.speaker.name}} / {{keynote.speaker.job-title}}</h3>
+                <span class="slot">{{keynote.slot.day}}</span>
+                <a class="btn btn-primary more-info" data-toggle="modal" href='#{{keynote.event}}-{{forloop.index}}'>View Bio</a>
+                <div class="modal fade" id="{{keynote.event}}-{{forloop.index}}">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                <h4 class="modal-title">{{keynote.title}} - {{keynote.speaker.name}}</h4>
+                            </div>
+                            <div class="modal-body">
+                                <p>
+                                    {{keynote.speaker.bio}}
+                                </p>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+
 <div class="row content-row" id="current-sponsors">
     <div class="container">
         <div class="row">
