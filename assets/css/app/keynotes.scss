@@ -27,7 +27,13 @@ div#keynotes {
 #keynotes img {
     border:1px solid #3a3a3a;
     transition: all 200ms ease;
+    height: 250px;
+    width: 250px;
 }
 #keynotes img:hover {
    transform: scale(1.1);
+}
+#keynotes h2 {
+    color: white;
+    font-size: 24px;
 }
