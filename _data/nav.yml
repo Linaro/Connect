@@ -18,7 +18,6 @@ pages:
             url: /about/
           - text: Future Connect Events
             url: /future-connects/
-
     - title: Attend
       options:
           - text: Register
@@ -38,6 +37,8 @@ pages:
     - title: Sponsors
       url: /sponsors/
     - title: Resources
+      active_paths:
+          - /resources/
       options:
           - text: All Resources
             url: /resources/
