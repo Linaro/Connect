@@ -702,3 +702,9 @@ div#schedule .list-group-item {
 #schedule ul.list-group {
     margin-bottom: 0px;
 }
+
+
+// Add to theme
+.shadowed-row {
+    box-shadow: inset 0px 13px 20px -10px #000, inset 0px -13px 20px -10px #000;
+}
