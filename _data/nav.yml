@@ -9,7 +9,7 @@ brand:
     text: Linaro
     image: 
         enabled: true
-        name: /assets/images/content/bkk19-horizontal-dark.png
+        path: /assets/images/content/bkk19-horizontal-dark.png
     url: /
 pages:
     - title: About
