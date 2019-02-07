@@ -106,7 +106,7 @@ redirect_from:
             {% if sponsor.events contains connect-code %}
             {% if sponsor.type == "lead" %}
             <div class="col-xs-6 col-sm-3  text-center lead-sponsor">
-                <div class="sponsor fly">
+                <div class="sponsor">
                     <h3> Lead Sponsor </h3>
                     <a href="{{sponsor.url}}" target="_blank">
                         <img class="{% if sponsor.class %}{{sponsor.class}}{% endif %}img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -116,7 +116,7 @@ redirect_from:
             </div>
             {% else %}
             <div class="col-xs-6 col-sm-3 text-center connect-sponsor">
-                <div class="sponsor fly">
+                <div class="sponsor">
                     <h3> Sponsor </h3>
                     <a href="{{sponsor.url}}" target="_blank">
                         <img class="{% if sponsor.class %}{{sponsor.class}}{% endif %} img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
