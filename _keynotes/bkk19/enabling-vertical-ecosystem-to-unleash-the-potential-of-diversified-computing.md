@@ -2,7 +2,7 @@
 title: Enabling vertical ecosystem to unleash the potential of diversified computing
 speaker:
     name: Wu Zhan
-    job-title: Vice President of Huawei IT Product Line
+    job-title: Vice President at Huawei IT Product Line
     bio: >
         Available soon...
 image:

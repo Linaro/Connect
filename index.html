@@ -106,7 +106,7 @@ redirect_from:
             {% if sponsor.events contains connect-code %}
             {% if sponsor.type == "lead" %}
             <div class="col-xs-6 col-sm-3  text-center lead-sponsor">
-                <div class="sponsor fly">
+                <div class="sponsor">
                     <h3> Lead Sponsor </h3>
                     <a href="{{sponsor.url}}" target="_blank">
                         <img class="{% if sponsor.class %}{{sponsor.class}}{% endif %}img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -116,7 +116,7 @@ redirect_from:
             </div>
             {% else %}
             <div class="col-xs-6 col-sm-3 text-center connect-sponsor">
-                <div class="sponsor fly">
+                <div class="sponsor">
                     <h3> Sponsor </h3>
                     <a href="{{sponsor.url}}" target="_blank">
                         <img class="{% if sponsor.class %}{{sponsor.class}}{% endif %} img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -248,12 +248,12 @@ redirect_from:
 <div class="row content-row" id="previous-links">
     <div class="container no-padding" style="margin-top:30px;">
         <div class="row">
-            <div class="col-xs-12 text-center fly">
+            <div class="col-xs-12 text-center text-center">
                 <h2>Connect Resources</h2>
             </div>
         </div>
         <div class="row">
-            <div class="col-md-4 fly">
+            <div class="col-md-4 text-center">
                 <div class="block" style="background: linear-gradient(
             rgba(0, 0, 0, 0.7), 
             rgba(0, 0, 0, 0.7)
@@ -262,10 +262,10 @@ redirect_from:
                     <p>
                         See our photos from Connect.
                     </p>
-                    <a href="https://www.flickr.com/photos/linaroorg/sets/72157695573962940" class="btn btn-connect">View on Flickr</a>
+                    <a href="https://www.flickr.com/photos/linaroorg/sets/72157695573962940" class="btn btn-primary">View on Flickr</a>
                 </div>
             </div>
-            <div class="col-md-4 fly">
+            <div class="col-md-4 text-center">
                 <div class="block" style="background: linear-gradient(
             rgba(0, 0, 0, 0.7), 
             rgba(0, 0, 0, 0.7)
@@ -274,10 +274,10 @@ redirect_from:
                     <p>
                         View the {{site.previous-connect-code}} resources.
                     </p>
-                    <a href="/resources/{{site.previous-connect-code | downcase }}/" class="btn btn-connect">View Resources</a>
+                    <a href="/resources/{{site.previous-connect-code | downcase }}/" class="btn btn-primary">View Resources</a>
                 </div>
             </div>
-            <div class="col-md-4 fly">
+            <div class="col-md-4 text-center">
                 <div class="block" style="background: linear-gradient(
             rgba(0, 0, 0, 0.7), 
             rgba(0, 0, 0, 0.7)
@@ -286,7 +286,7 @@ redirect_from:
                     <p>
                         and announcments
                     </p>
-                    <a href="/resources/{{site.previous-connect-code | downcase }}/sessions/{{site.previous-connect-code | downcase }}-100k/" class="btn btn-connect">Watch Keynote</a>
+                    <a href="/resources/{{site.previous-connect-code | downcase }}/sessions/{{site.previous-connect-code | downcase }}-100k/" class="btn btn-primary">Watch Keynote</a>
                 </div>
             </div>
         </div>

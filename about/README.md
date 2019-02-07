@@ -11,7 +11,6 @@ jumbotron:
         Since 2010, Linaro Connect has been the event to attend if you are interested in open source software development for Linux,
         tools and the various vertical segment ecosystems that use Arm processors.
     carousel-images:
-        - /assets/images/content/yvr18.jpg
         - /assets/images/content/lcu14.jpg
         - /assets/images/content/lcu13.jpg
         - /assets/images/content/lce13.jpg

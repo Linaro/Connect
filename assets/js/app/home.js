@@ -59,6 +59,7 @@ $(document).ready(function () {
         loop: false,
         dots: false,
         lazyLoad: true,
+        margin: 20,
         rewind: true,
         autoplay: true,
         autoplayTimeout: 4000,
