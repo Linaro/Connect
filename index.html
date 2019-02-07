@@ -81,7 +81,7 @@ redirect_from:
         </div>
     </div>
 {% endfor %}
-<div class="row content-row keynote-speakers padded-row-30" id="keynotes">
+<div class="row content-row keynote-speakers padded-row-30 shadowed-row" id="keynotes">
     <div class="container">
         <h3 class="home-text text-center text-white m-b-50">Featured Keynote Speakers</h3>
         <div class="owl-carousel owl-theme" id="keynote-slider">
@@ -90,7 +90,6 @@ redirect_from:
                     <img class="img-circle img-responsive center-block lazyload" data-src="{{keynote.image.path}}"
                     src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="  
                     alt="{{keynote.speaker.name}} image"/>
-                    <h2>{{keynote.title}}</h2>
                     <h3>{{keynote.speaker.name}} {% if keynote.speaker.job-title %}/ {{keynote.speaker.job-title}}{% endif %}</h3>
                     <a class="btn btn-primary more-info" data-toggle="modal" href='#{{keynote.event}}-{{forloop.index}}'>View Bio/Abstract</a>
                 </div>
@@ -131,7 +130,7 @@ redirect_from:
         </div>
     </div>
 </div>
-<div class="row flex-row intro-row content-row padded-row-30">
+<div class="row flex-row intro-row content-row padded-row-30 shadowed-row">
     <div class="container">
         <p class="home-text text-white">
             Every six months, leading hardware and software players in the Arm ecosystem come together at Linaro Connect to solve problems, identify issues and plan existing and future engineering collaboration. 
