@@ -1,0 +1,44 @@
+---
+categories:
+- bkk19
+description: It can be a rather complicated task to deploy optimized power management
+  (PM) support in a driver in Linux. There are several PM frameworks and corresponding
+  function callbacks available per device, which the driver developer needs detailed
+  knowledge about. Particularly, when the goal is to reach the best energy efficient
+  behavior.<br /> <br /> Additionally, ARM SoCs in general, have quite sophisticated
+  and fine grained methods to put parts of a silicon into a low power state, as to
+  avoid wasting power when there are no active users of these parts. In Linux these
+  parts are typically modeled as so called, PM domains.<br /> <br /> During the session,
+  we dive into some of the relevant PM frameworks for dealing with idle and explains
+  the concepts behind them. We look into how to deploy support for system wide low
+  power states, such as suspend to ram, suspend to idle and suspend to disk. We look
+  at it, both from the PM domain and the driver point of view.<br /> <br /> Moreover,
+  to deploy fine grained PM support, the session gives some best practices of how
+  to use runtime PM and the generic PM domain frameworks, as well as looks into how
+  to implement support for called wakeup interrupts.
+future_image:
+  featured: 'true'
+  path: /assets/images/featured-images/bkk19/BKK19-115.png
+session_active: Y
+session_attendee_num: '1'
+session_id: BKK19-115
+session_room: Session Room 3 (Lotus 10)
+session_slot:
+  end_time: '2019-04-01 16:55:00'
+  start_time: '2019-04-01 16:00:00'
+session_speakers:
+- speaker_company: Linaro
+  speaker_image: /assets/images/speakers/bkk19/UlfHansson.jpg
+  speaker_location: ''
+  speaker_name: Ulf Hansson
+  speaker_position: Senior Kernel Engineer
+  speaker_username: ulf.hansson@linaro.org
+session_track: Power Management
+tag: session
+tags:
+- Power Management
+- Linux Kernel
+title: Device power management and idle
+---
+
+content

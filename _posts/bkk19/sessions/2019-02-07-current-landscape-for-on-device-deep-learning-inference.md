@@ -1,0 +1,38 @@
+---
+categories:
+- bkk19
+description: Although training a Deep Learning network requires significant computing
+  resources that is typically done on servers, using a trained network to perform
+  inference on edge devices (mobile and IOT) is an effective way to distribute the
+  computing burden to reduce latency, and enhance privacy. The rapid growth of inference
+  on the edge has led to multiple solutions and significant fragmentation in the ecosystem.
+  This talk will provide some background of the workflow when using edge inferencing,
+  describe some of the major solutions, and discuss the trade-offs among them.
+future_image:
+  featured: 'true'
+  path: /assets/images/featured-images/bkk19/BKK19-207.png
+session_active: Y
+session_attendee_num: '1'
+session_id: BKK19-207
+session_room: 'Keynote Room (World Ballroom BC) '
+session_slot:
+  end_time: '2019-04-02 09:25:00'
+  start_time: '2019-04-02 09:00:00'
+session_speakers:
+- speaker_company: ''
+  speaker_image: /assets/images/speakers/bkk19/WilliamBell.jpg
+  speaker_location: ''
+  speaker_name: William Bell
+  speaker_position: Principal Engineer, Qualcomm Inc.
+  speaker_username: william.bell1
+session_track: Machine Learning/AI
+tag: session
+tags:
+- Android
+- Open Source Development
+- Multimedia
+- Linux Kernel
+title: Current Landscape for On-Device Deep Learning Inference
+---
+
+content
