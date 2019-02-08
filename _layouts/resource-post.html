@@ -121,6 +121,13 @@ css-package: resources-blog
                     </div>
                     <div class="col-xs-12">
                         {{ content }}
+
+                        {% if page.description %}
+                        <h3>Abstract</h3>
+                        <p>
+                            {{page.description}}
+                        </p>
+                        {% endif %}
                     </div>
                 </article>
 
