@@ -1,5 +1,5 @@
 ---
-title: Intro to Linaro
+title: Opening Keynote
 speaker:
     name: Li Gong
     job-title: CEO at Linaro
