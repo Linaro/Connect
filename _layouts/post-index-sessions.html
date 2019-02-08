@@ -19,11 +19,16 @@ js-package: resources-blog
             <a href="{{post.url}}">
                 <div class="resource">
                     {% if post.image.name %}
+                    {% if post.session_id != "None" %}
+                        {% assign image_title = post.session_id %}
+                    {% else %}
+                        {% assign image_title = post.title %}
+                    {% endif %}
 {% capture image_path %}assets/images/featured-images/{{post.image.name}}{% endcapture %}
 {% responsive_image_block %}
 path: "{{ image_path }}"
-title: "{{ post.title }}"
-alt: "{{ post.title }}"
+title: "{{ image_title }}"
+alt: "{{ image_title }}"
 {% endresponsive_image_block %}
                     {% else %}
                     {% capture image_path %}assets/images/content/connect-logo.png{% endcapture %}
@@ -34,10 +39,15 @@ alt: "{{ post.title }}"
                             {% endif %}
                         {% endif %}
                     {% endfor %}
+                    {% if post.session_id != "None" %}
+                        {% assign image_title = post.session_id %}
+                    {% else %}
+                        {% assign image_title = post.title %}
+                    {% endif %}
 {% responsive_image_block %}
 path: "{{ image_path }}"
-title: "{{ post.title }}"
-alt: "{{ post.title }}"
+title: "{{ image_title }}"
+alt: "{{ image_title }}"
 {% endresponsive_image_block %}
                     {% endif %}
                 </div>

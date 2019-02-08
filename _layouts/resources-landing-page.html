@@ -43,28 +43,28 @@ js-package: resources-landing-page
                 <div class="resource-block">
                     <a href="{{resource.url}}">
                         <div class="resource">
-                            {% if resource.image.name %}
-                            {% capture image_path %}assets/images/featured-images/{{resource.image.name}}{% endcapture %}
-                            {% responsive_image_block %}
-                            path: "{{ image_path }}"
-                            title: "{{ resource.title }}"
-                            alt: "{{ resource.title }}"
-                            {% endresponsive_image_block %}
-                            {% else %}
-                            {% capture image_path %}assets/images/content/connect-logo.png{% endcapture %}
-                            {% for each in site.data.connects %}
-                            {% if each.id == page.event_code %}
-                            {% if each.placeholder %}
-                            {% capture image_path %}assets/images/content/{{each.placeholder}}{% endcapture %}
-                            {% endif %}
-                            {% endif %}
-                            {% endfor %}
-                            {% responsive_image_block %}
-                            path: "{{ image_path }}"
-                            title: "{{ resource.title }}"
-                            alt: "{{ resource.title }}"
-                            {% endresponsive_image_block %}
-                            {% endif %}
+{% if resource.image.name %}
+{% capture image_path %}assets/images/featured-images/{{resource.image.name}}{% endcapture %}
+{% responsive_image_block %}
+path: "{{ image_path }}"
+title: "{{ resource.title }}"
+alt: "{{ resource.title }}"
+{% endresponsive_image_block %}
+{% else %}
+{% capture image_path %}assets/images/content/connect-logo.png{% endcapture %}
+{% for each in site.data.connects %}
+{% if each.id == page.event_code %}
+{% if each.placeholder %}
+{% capture image_path %}assets/images/content/{{each.placeholder}}{% endcapture %}
+{% endif %}
+{% endif %}
+{% endfor %}
+{% responsive_image_block %}
+path: "{{ image_path }}"
+title: "{{ resource.title }}"
+alt: "{{ resource.title }}"
+{% endresponsive_image_block %}
+{% endif %}
                         </div>
                     </a>
                     {% if using_json == "True" %}
