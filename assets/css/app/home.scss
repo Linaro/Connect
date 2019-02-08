@@ -430,3 +430,6 @@ div#social-media {
 .sponsor-col img:hover {
     transform: scale(1.2);
 }
+.sponsor-col img{
+    transition: all 100ms ease;
+}
