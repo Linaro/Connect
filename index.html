@@ -176,7 +176,8 @@ redirect_from:
         </p>
         <div class="sponsors">
             {% for sponsor in site.data.sponsors %}
-                {% if sponsor.events contains site.connect-code %}
+                {% assign connect-code = site.connect-code | downcase %}
+                {% if sponsor.events contains connect-code %}
                 <div class="col-xs-6 col-sm-3 sponsor-col">
                     <a href="{{sponsor.url}}">
                         <img class="img-responsive lazyload {% if sponsor.class %}{{sponsor.class}}{% endif %}" data-src="/assets/images/sponsors/{{sponsor.image}}"
