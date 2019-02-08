@@ -15,16 +15,17 @@
     max-width: 50%;
     margin: 0;
 }
-#wrapper .row.all-resources span {
-    color:white;
-}
 #wrapper .row.all-resources {
-    background-color: #0c0c0c;
+    background-color: #252525;
     padding-bottom: 30px;
 }
-.big-triangle::after, .big-triangle::before {
-    border-bottom-color:#0c0c0c;
+#wrapper .row.all-resources span{
+    color:#ededed;
 }
-#wrapper span.stats-title {
-    color: #676767 !important;
+.big-triangle::after, .big-triangle::before {
+    border-bottom-color: #262626;
+}
+
+#wrapper .row.all-resources span.stats-title {
+    color:#5c5c5c;
 }
