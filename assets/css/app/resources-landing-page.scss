@@ -15,3 +15,16 @@
     max-width: 50%;
     margin: 0;
 }
+#wrapper .row.all-resources span {
+    color:white;
+}
+#wrapper .row.all-resources {
+    background-color: #0c0c0c;
+    padding-bottom: 30px;
+}
+.big-triangle::after, .big-triangle::before {
+    border-bottom-color:#0c0c0c;
+}
+#wrapper span.stats-title {
+    color: #676767 !important;
+}
