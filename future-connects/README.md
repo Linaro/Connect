@@ -7,6 +7,7 @@ layout: jumbotron-container
 js-package: about
 css-package: about
 jumbotron:
+    triangle-divider: true
     title: Future Connect Events
     description: >
         Looking to attend Linaro Connect? Here you can find details on upcoming Linaro Connect events.
