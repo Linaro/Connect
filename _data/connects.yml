@@ -10,7 +10,7 @@
       city: Bangkok
       country: Thailand
   using_json: "True"
-  flickr-albums: 
+  flickr-albums:
       - title: Connect Album
         url: https://www.flickr.com/photos/linaroorg/albums/72157703164282862
 - id: YVR18
@@ -28,7 +28,7 @@
       city: Vancouver
       country: Canada
   using_json: "True"
-  flickr-albums: 
+  flickr-albums:
       - title: Connect Album
         url: https://www.flickr.com/photos/linaroorg/albums/72157695573962940
 - id: HKG18
