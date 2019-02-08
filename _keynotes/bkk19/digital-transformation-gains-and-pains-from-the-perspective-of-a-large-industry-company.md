@@ -14,7 +14,7 @@ speaker:
         IoT strategy of Bosch. He holds an MBA from IMD Lausanne as well as a Diploma Degree in
         Computer Science from TU Berlin.
 image:
-    path: /assets/images/speakers/keynotes/bkk19/dirk-slama.jpg
+    path: /assets/images/speakers/bkk19/keynotes/dirk-slama.jpg
     featured: true
 event: BKK19
 # slot:

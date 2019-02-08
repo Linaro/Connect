@@ -8,7 +8,7 @@ speaker:
 
         Tim's overall goal is to improve Linux for use in consumer electronics products, by improving Linux system testing, directing technical initiatives of the Linux Foundation, and encouraging companies to participate in the open source community. Tim has been working with Linux for over 20 years.
 image:
-    path: /assets/images/speakers/keynotes/bkk19/tim-bird.jpg
+    path: /assets/images/speakers/bkk19/keynotes/tim-bird.jpg
     featured: true
 event: BKK19
 # slot:

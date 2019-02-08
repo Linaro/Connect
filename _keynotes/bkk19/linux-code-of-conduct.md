@@ -30,7 +30,7 @@ speaker:
         member of the Aspen Global Leadership Network.In 2017, she won a Digital
         Women Award in the “Social Impact” category for her work with SFLC.in.
 image:
-    path: /assets/images/speakers/keynotes/bkk19/mishi-choudhary.jpg
+    path: /assets/images/speakers/bkk19/keynotes/mishi-choudhary.jpg
     featured: true
 event: BKK19
 # slot:
