@@ -47,11 +47,6 @@ alt: "{{ post.title }}"
             </div>
             <div class="resource-title col-xs-12 no-padding">
                 <h3>{{post.title}}</h3>
-                <a href="{{post.url}}">
-                    <div class="resource-button">
-                        <i class="glyphicon glyphicon-chevron-right"></i>
-                    </div>
-                </a>
             </div>
             {% else %}
             <div class="resource-info col-xs-12 no-padding {% if using_json == "True" %}using_json{% endif %}"  {% if using_json == "True" %}session-id="{{post.session_id}}"{% endif %}>
@@ -64,11 +59,6 @@ alt: "{{ post.title }}"
             </div>
             <div class="resource-title col-xs-12 no-padding">
                 <h3>{{post.title}}</h3>
-                <a href="{{post.url}}">
-                    <div class="resource-button">
-                        <i class="glyphicon glyphicon-chevron-right"></i>
-                    </div>
-                </a>
             </div>
             {% endif %}
 
