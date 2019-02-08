@@ -13,13 +13,13 @@ session_slot:
   end_time: '2019-04-05 09:25:00'
   start_time: '2019-04-05 08:30:00'
 session_speakers:
-- speaker_bio: Over a decade working on Linux kernel, focusing on various areas around
-    Power management and early SoC bringup. Currently working on the latest ARMv8
-    based Snapdragon processors from Qualcomm. Previously At TI worked on all 6 generations
-    of OMAP SoCs, starting with the arm9 based OMAP1 to the first big.LITTLE based
-    design of OMAP6.
+- speaker_bio: '> Over a decade working on Linux kernel, focusing on various areas
+    around Power management and early SoC bringup. Currently working on the latest
+    ARMv8 based Snapdragon processors from Qualcomm. Previously At TI worked on all
+    6 generations of OMAP SoCs, starting with the arm9 based OMAP1 to the first big.LITTLE
+    based design of OMAP6.'
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/RajendraNayak.jpg
+  speaker_image: /assets/images/speakers/bkk19/rajendra-nayak.jpg
   speaker_location: ''
   speaker_name: Rajendra Nayak
   speaker_position: Senior Staff Enginner

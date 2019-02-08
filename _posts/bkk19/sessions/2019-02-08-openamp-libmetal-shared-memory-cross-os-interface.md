@@ -13,9 +13,9 @@ session_slot:
   end_time: '2019-04-01 15:25:00'
   start_time: '2019-04-01 15:00:00'
 session_speakers:
-- speaker_bio: OpenAMP, Linux kernel, Embedded system
+- speaker_bio: '> OpenAMP, Linux kernel, Embedded system'
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/WendyLiang.jpg
+  speaker_image: /assets/images/speakers/bkk19/wendy-liang.jpg
   speaker_location: ''
   speaker_name: Wendy Liang
   speaker_position: Xilinx, Senior Staff Engineer

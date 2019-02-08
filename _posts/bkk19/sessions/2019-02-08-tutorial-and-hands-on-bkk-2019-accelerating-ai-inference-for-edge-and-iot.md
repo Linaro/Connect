@@ -39,16 +39,16 @@ description: '> Tutorial and Hands-on Accelerating AI Inference For Edge and IoT
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-408.png
-session_attendee_num: '3'
+session_attendee_num: '4'
 session_id: BKK19-408
 session_room: Session Room 1 (Lotus 1-2)
 session_slot:
   end_time: '2019-04-04 11:55:00'
   start_time: '2019-04-04 11:00:00'
 session_speakers:
-- speaker_bio: Gaurav works in ML SIG as Tech Lead.
+- speaker_bio: '> Gaurav works in ML SIG as Tech Lead.'
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/GauravKaul.jpg
+  speaker_image: /assets/images/speakers/bkk19/gaurav-kaul.jpg
   speaker_location: ''
   speaker_name: Gaurav Kaul
   speaker_position: Tech Lead (AI/ML)

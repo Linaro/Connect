@@ -14,16 +14,16 @@ session_slot:
   end_time: '2019-04-01 15:55:00'
   start_time: '2019-04-01 15:30:00'
 session_speakers:
-- speaker_bio: Enterprise Linux developer with industry/server experience in Linux
+- speaker_bio: '> Enterprise Linux developer with industry/server experience in Linux
     kernel, driver ,BSP, system porting development, LAVA(Linaro Automation and Validation
     Architecture) and testing with LMP. Also expert in Firmware (U-boot/arm-trusted-firmware/UEFI/ACPI)
     and Linux kernel development.<br /> Currently studying Linux kernel and drive
     mechanism, Fedora/RHEL on ARM64, GRUB, UEFI, ACPI and continuously enriching my
     knowledge of Linux on Server, especially RAS(Reliability, Availability, Serviceability)/APEI.<br
-    /> I'm also interested in IoT, RISC-V, drone, Bluetooth/BLE, WiFi, Security/Encryption
-    and OSS projects.
+    /> Im also interested in IoT, RISC-V, drone, Bluetooth/BLE, WiFi, Security/Encryption
+    and OSS projects.'
   speaker_company: Red Hat Software (Beijing) Co.,Ltd.
-  speaker_image: /assets/images/speakers/bkk19/WeiFu.jpg
+  speaker_image: /assets/images/speakers/bkk19/wei-fu.jpg
   speaker_location: China
   speaker_name: Wei Fu
   speaker_position: Senior Software Engineer

@@ -14,9 +14,9 @@ session_slot:
   end_time: '2019-04-02 09:25:00'
   start_time: '2019-04-02 09:00:00'
 session_speakers:
-- speaker_bio: To be filled in
+- speaker_bio: '> To be filled in'
   speaker_company: Linaro Inc
-  speaker_image: /assets/images/speakers/bkk19/BillFischofer.jpg
+  speaker_image: /assets/images/speakers/bkk19/bill-fischofer.jpg
   speaker_location: ''
   speaker_name: Bill Fischofer
   speaker_position: Tech Lead

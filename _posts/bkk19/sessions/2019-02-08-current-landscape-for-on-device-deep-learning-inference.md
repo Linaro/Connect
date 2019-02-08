@@ -11,17 +11,17 @@ description: '> Although training a Deep Learning network requires significant c
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-207.png
-session_attendee_num: '4'
+session_attendee_num: '5'
 session_id: BKK19-207
 session_room: 'Keynote Room (World Ballroom BC) '
 session_slot:
   end_time: '2019-04-02 09:25:00'
   start_time: '2019-04-02 09:00:00'
 session_speakers:
-- speaker_bio: William Bell is a Principal Engineer at Qualcomm, as a member of the
-    team commercializing on-device Machine Learning solutions.<br>(Other Bio TBD)
+- speaker_bio: '> William Bell is a Principal Engineer at Qualcomm, as a member of
+    the team commercializing on-device Machine Learning solutions.<br>(Other Bio TBD)'
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/WilliamBell.jpg
+  speaker_image: /assets/images/speakers/bkk19/william-bell.jpg
   speaker_location: ''
   speaker_name: William Bell
   speaker_position: Principal Engineer, Qualcomm Inc.

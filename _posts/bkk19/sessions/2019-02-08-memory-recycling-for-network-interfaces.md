@@ -17,9 +17,9 @@ session_slot:
   end_time: '2019-04-05 09:25:00'
   start_time: '2019-04-05 09:00:00'
 session_speakers:
-- speaker_bio: Linux kernel developer with a taste for networking and performance
+- speaker_bio: '> Linux kernel developer with a taste for networking and performance'
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/IliasApalodimas.jpg
+  speaker_image: /assets/images/speakers/bkk19/ilias-apalodimas.jpg
   speaker_location: ''
   speaker_name: Ilias Apalodimas
   speaker_position: Tech Lead

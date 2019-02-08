@@ -13,10 +13,10 @@ session_slot:
   end_time: '2019-04-03 08:25:00'
   start_time: '2019-04-03 08:00:00'
 session_speakers:
-- speaker_bio: Embedded Linux Kernel Engineer working from last 12 years in Linux
-    Kernel, Device Drivers, Boot Loaders, Board Bringup, Kernel Developement
+- speaker_bio: '> Embedded Linux Kernel Engineer working from last 12 years in Linux
+    Kernel, Device Drivers, Boot Loaders, Board Bringup, Kernel Developement'
   speaker_company: Cavium Networks Pvt Ltd
-  speaker_image: /assets/images/speakers/bkk19/SatishKumar.jpg
+  speaker_image: /assets/images/speakers/bkk19/satish-kumar.jpg
   speaker_location: Bengaluru Area, India
   speaker_name: Satish Kumar
   speaker_position: Techcinal Lead in Cavium Networks

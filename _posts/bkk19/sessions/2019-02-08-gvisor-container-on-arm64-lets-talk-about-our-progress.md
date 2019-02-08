@@ -22,17 +22,17 @@ session_slot:
   end_time: '2019-04-01 14:30:00'
   start_time: '2019-04-01 14:30:00'
 session_speakers:
-- speaker_bio: Software Engineer in Arm Open Source Software team. Mainly focus on
-    Virtualization, Containers and Security.
+- speaker_bio: '> Software Engineer in Arm Open Source Software team. Mainly focus
+    on Virtualization, Containers and Security.'
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/HaiboXu.jpg
+  speaker_image: /assets/images/speakers/bkk19/haibo-xu.jpg
   speaker_location: ''
   speaker_name: Haibo Xu
   speaker_position: Software Engineer at ARM
   speaker_username: haibo.xu
-- speaker_bio: ''
+- speaker_bio: '> '
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/BinLu.jpg
+  speaker_image: /assets/images/speakers/bkk19/bin-lu.jpg
   speaker_location: ''
   speaker_name: Bin Lu
   speaker_position: ''

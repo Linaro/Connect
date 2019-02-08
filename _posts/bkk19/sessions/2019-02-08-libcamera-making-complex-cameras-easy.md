@@ -26,14 +26,14 @@ session_slot:
   end_time: '2019-04-05 09:25:00'
   start_time: '2019-04-05 09:00:00'
 session_speakers:
-- speaker_bio: Kieran Bingham is an embedded software engineer working with Ideas
+- speaker_bio: '> Kieran Bingham is an embedded software engineer working with Ideas
     on Board and specialising in Linux kernel developments with a focus on media related
     subsystems.<br><br>Kieran has worked with embedded Linux systems for over 12 years
     through professional service companies and silicon vendors and now focuses on
     upstream-first projects.<br><br>He has previously presented at the Embedded Linux
-    Conference (North America) and Automotive Linux Summit (Japan).
+    Conference (North America) and Automotive Linux Summit (Japan).'
   speaker_company: Ideas on Board
-  speaker_image: /assets/images/speakers/bkk19/KieranBingham.jpg
+  speaker_image: /assets/images/speakers/bkk19/kieran-bingham.jpg
   speaker_location: ''
   speaker_name: Kieran Bingham
   speaker_position: Linux Embedded Software Engineer

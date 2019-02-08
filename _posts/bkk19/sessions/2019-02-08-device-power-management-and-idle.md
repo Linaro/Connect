@@ -26,15 +26,15 @@ session_slot:
   end_time: '2019-04-01 16:55:00'
   start_time: '2019-04-01 16:00:00'
 session_speakers:
-- speaker_bio: Ulf has a very long experience of using Linux and has been contributing
+- speaker_bio: '> Ulf has a very long experience of using Linux and has been contributing
     the Linux kernel development for many years by now. He maintains the MMC subsystem
     and the generic PM domain in the Linux kernel, but also spends lots of time reviewing
     various changes related to power management and to their corresponding frameworks.<br><br>Moreover,
     Ulf has a background in real-time and embedded systems. He also has an in-depth
     knowledge about flash memory technologies, such as NAND and NOR.<br><br>Ulf is
-    working for Linaro and specializing in power management.
+    working for Linaro and specializing in power management.'
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/UlfHansson.jpg
+  speaker_image: /assets/images/speakers/bkk19/ulf-hansson.jpg
   speaker_location: ''
   speaker_name: Ulf Hansson
   speaker_position: Senior Kernel Engineer

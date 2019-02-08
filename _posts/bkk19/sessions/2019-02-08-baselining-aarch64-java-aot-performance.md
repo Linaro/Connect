@@ -14,14 +14,14 @@ session_slot:
   end_time: '2019-04-05 11:50:00'
   start_time: '2019-04-05 11:00:00'
 session_speakers:
-- speaker_bio: Computer Software and Hardware Engineer since 1983, working for IBM,
-    Data General, Dell, Tandem, Motorola, Freescale, NXP, and Arm, Gary Morrison has
-    worked in Graphics, Telephony, PCs, Fault-Tolerant and Resilient Systems, HW Emulation,
-    High-Performance SW Simulation of CPUs, CPU Microarchitectural Verification, and
-    Java JVM Internals. Non-career interests include Microtonal Music, Chinese Language,
-    and Rowing.
+- speaker_bio: '> Computer Software and Hardware Engineer since 1983, working for
+    IBM, Data General, Dell, Tandem, Motorola, Freescale, NXP, and Arm, Gary Morrison
+    has worked in Graphics, Telephony, PCs, Fault-Tolerant and Resilient Systems,
+    HW Emulation, High-Performance SW Simulation of CPUs, CPU Microarchitectural Verification,
+    and Java JVM Internals. Non-career interests include Microtonal Music, Chinese
+    Language, and Rowing.'
   speaker_company: Arm, Inc. (USA)
-  speaker_image: /assets/images/speakers/bkk19/GaryMorrison.jpg
+  speaker_image: /assets/images/speakers/bkk19/gary-morrison.jpg
   speaker_location: ''
   speaker_name: Gary Morrison
   speaker_position: Principal Engineer

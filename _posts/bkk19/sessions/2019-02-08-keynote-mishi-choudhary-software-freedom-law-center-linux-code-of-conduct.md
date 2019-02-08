@@ -10,23 +10,23 @@ description: '> A fundamental change is happening in the way software is made in
   or in person, therefore, putting a premium on the way their<br>internal intermediated
   communication is &nbsp;conducted. This talk will<br>examine why Code of Conduct
   in this new world are on the rise and are a<br>positive sign for mature FOSS projects
-  that govern themselves and don''t<br>like suits. It will explore ways of &nbsp;managing
+  that govern themselves and dont<br>like suits. It will explore ways of &nbsp;managing
   legal risk by drafting<br>codes of conduct addressing bias, creating a frictionless
   reporting<br>mechanism for legal incident response, and making the project a fun,<br>inclusive
   productive place.'
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-K500.png
-session_attendee_num: '13'
+session_attendee_num: '14'
 session_id: BKK19-K500
 session_room: 'Keynote Room (World Ballroom BC) '
 session_slot:
   end_time: '2019-04-05 10:30:00'
   start_time: '2019-04-05 10:00:00'
 session_speakers:
-- speaker_bio: Legal Director, Software Freedom Law Center
+- speaker_bio: '> Legal Director, Software Freedom Law Center'
   speaker_company: Software Freedom Law Center (SFLC)
-  speaker_image: /assets/images/speakers/bkk19/MishiChoudhary.jpg
+  speaker_image: /assets/images/speakers/bkk19/mishi-choudhary.jpg
   speaker_location: New York City/ New Delhi
   speaker_name: Mishi Choudhary
   speaker_position: Legal Director

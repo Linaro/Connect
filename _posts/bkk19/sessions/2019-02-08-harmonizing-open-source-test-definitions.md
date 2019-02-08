@@ -20,17 +20,17 @@ session_slot:
   end_time: '2019-04-02 11:25:00'
   start_time: '2019-04-02 11:00:00'
 session_speakers:
-- speaker_bio: Tim Bird is a Senior Software Engineer for Sony Corporation, where
+- speaker_bio: '> Tim Bird is a Senior Software Engineer for Sony Corporation, where
     he helps Sony use Linux and other open source software in their products. Tim
     is the maintainer of the Fuego test framework, and is involved in various groups
     in the Linux Foundation, including the LF Technical Advisory Board. Tim created
-    and continues to run the Embedded Linux Conference.<br><br>Tim's overall goal
-    is to improve Linux for use in consumer electronics products, by improving Linux
+    and continues to run the Embedded Linux Conference.<br><br>Tims overall goal is
+    to improve Linux for use in consumer electronics products, by improving Linux
     system testing, directing technical initiatives of the Linux Foundation, and encouraging
     companies to participate in the open source community. Tim has been working with
-    Linux for over 20 years.
+    Linux for over 20 years.'
   speaker_company: Sony Electronics
-  speaker_image: /assets/images/speakers/bkk19/TimBird(Sony).jpg
+  speaker_image: /assets/images/speakers/bkk19/tim-bird-sony.jpg
   speaker_location: ''
   speaker_name: Tim Bird (Sony)
   speaker_position: Sr Staff Software Engineer

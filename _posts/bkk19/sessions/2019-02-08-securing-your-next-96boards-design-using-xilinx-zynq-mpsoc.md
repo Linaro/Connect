@@ -15,10 +15,10 @@ session_slot:
   end_time: '2019-04-03 09:25:00'
   start_time: '2019-04-03 09:00:00'
 session_speakers:
-- speaker_bio: Kevin has been working with computers from an early age and specializes
-    in software running in conjunction with FPGAs and Programmable Logic.
+- speaker_bio: '> Kevin has been working with computers from an early age and specializes
+    in software running in conjunction with FPGAs and Programmable Logic.'
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/KevinKeryk.jpg
+  speaker_image: /assets/images/speakers/bkk19/kevin-keryk.jpg
   speaker_location: ''
   speaker_name: Kevin Keryk
   speaker_position: Avnet, Technical Marketing Manager for Engineering and Technology

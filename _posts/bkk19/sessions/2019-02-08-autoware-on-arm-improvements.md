@@ -20,21 +20,21 @@ session_slot:
   end_time: '2019-04-05 08:55:00'
   start_time: '2019-04-05 08:30:00'
 session_speakers:
-- speaker_bio: 'Autonomous systems engineer with experience working in different domains:
-    air, underwater and ground based platforms. Past experience involves working at
-    Ixion Industry &amp; Aerospace, a highly innovative SME in Spain, Airbus Defence
-    and Space, in Stevenage, and most recently at Transport Systems Catapult, based
-    in Milton Keynes.'
+- speaker_bio: '> Autonomous systems engineer with experience working in different
+    domains: air, underwater and ground based platforms. Past experience involves
+    working at Ixion Industry &amp; Aerospace, a highly innovative SME in Spain, Airbus
+    Defence and Space, in Stevenage, and most recently at Transport Systems Catapult,
+    based in Milton Keynes.'
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/ServandoGermanSerrano.jpg
+  speaker_image: /assets/images/speakers/bkk19/servando-german-serrano.jpg
   speaker_location: ''
   speaker_name: Servando German Serrano
   speaker_position: Software Engineer
   speaker_username: servando.german.serrano
-- speaker_bio: 96Boards Software Engineer for Linaro. Recent Graduate of Kings College
-    London, with a passion for machine learning and autonomous vehicles.
+- speaker_bio: '> 96Boards Software Engineer for Linaro. Recent Graduate of Kings
+    College London, with a passion for machine learning and autonomous vehicles.'
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/TheodoreGrey.jpg
+  speaker_image: /assets/images/speakers/bkk19/theodore-grey.jpg
   speaker_location: ''
   speaker_name: Theodore Grey
   speaker_position: Software Engineer

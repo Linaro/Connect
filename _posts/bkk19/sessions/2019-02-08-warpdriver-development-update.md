@@ -15,10 +15,10 @@ session_slot:
   end_time: '2019-04-04 08:55:00'
   start_time: '2019-04-04 08:30:00'
 session_speakers:
-- speaker_bio: Linaro Hisiilicon landing team engineer, working in Linaro for over
-    6 years
+- speaker_bio: '> Linaro Hisiilicon landing team engineer, working in Linaro for over
+    6 years'
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/ZhangfeiGao.jpg
+  speaker_image: /assets/images/speakers/bkk19/zhangfei-gao.jpg
   speaker_location: ''
   speaker_name: Zhangfei Gao
   speaker_position: Hisilicon landing team engineer

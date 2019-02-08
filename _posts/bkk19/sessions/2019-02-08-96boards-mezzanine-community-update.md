@@ -17,10 +17,10 @@ session_slot:
   end_time: '2019-04-03 11:25:00'
   start_time: '2019-04-03 11:00:00'
 session_speakers:
-- speaker_bio: Open source software and hardware enthusiast. Currently working at
-    96Boards, Linaro as a full-time Maker.
+- speaker_bio: '> Open source software and hardware enthusiast. Currently working
+    at 96Boards, Linaro as a full-time Maker.'
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/SahajSarup.jpg
+  speaker_image: /assets/images/speakers/bkk19/sahaj-sarup.jpg
   speaker_location: India
   speaker_name: Sahaj Sarup
   speaker_position: Applications Engineer, 96Boards

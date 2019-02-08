@@ -14,9 +14,9 @@ session_slot:
   end_time: '2019-04-01 15:25:00'
   start_time: '2019-04-01 15:00:00'
 session_speakers:
-- speaker_bio: Mani is the Applications Engineer of Linaro-96Boards team.
+- speaker_bio: '> Mani is the Applications Engineer of Linaro-96Boards team.'
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/ManivannanSadhasivam.jpg
+  speaker_image: /assets/images/speakers/bkk19/manivannan-sadhasivam.jpg
   speaker_location: Erode, India
   speaker_name: Manivannan Sadhasivam
   speaker_position: Applications Engineer, 96Boards

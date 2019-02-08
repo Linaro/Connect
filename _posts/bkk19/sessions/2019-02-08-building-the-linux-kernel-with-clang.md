@@ -17,22 +17,22 @@ session_slot:
   end_time: '2019-04-01 15:25:00'
   start_time: '2019-04-01 15:00:00'
 session_speakers:
-- speaker_bio: Nick Desaulniers is a software engineer at Google working on compiling
+- speaker_bio: '> Nick Desaulniers is a software engineer at Google working on compiling
     the Linux Kernel with Clang (and LLVM).<br><br>Nick has previously worked on TensorFlow’s
     Accelerated Linear Algebra (XLA) JIT compiler for Tensor Processing Units (TPUs),
     and the Linux kernel for the Nexus and Pixel phones while at Google.<br><br>Nick
     also hacked on open source projects like Firefox, Firefox OS, Emscripten, and
     Rust at Mozilla.<br><br>Contributing to Open Source software and an accessible
-    Internet for all are some of the things that Nick is most passionate about.
+    Internet for all are some of the things that Nick is most passionate about.'
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/NickDesaulniers.jpg
+  speaker_image: /assets/images/speakers/bkk19/nick-desaulniers.jpg
   speaker_location: ''
   speaker_name: Nick Desaulniers
   speaker_position: Google Software Engineer
   speaker_username: ndesaulniers
-- speaker_bio: ''
+- speaker_bio: '> '
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/placeholder.png
+  speaker_image: /assets/images/speakers/placeholder.png
   speaker_location: ''
   speaker_name: Tri Vo
   speaker_position: ''

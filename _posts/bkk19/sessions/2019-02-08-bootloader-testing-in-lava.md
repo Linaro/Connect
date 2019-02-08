@@ -20,19 +20,19 @@ session_slot:
   end_time: '2019-04-04 11:25:00'
   start_time: '2019-04-04 11:00:00'
 session_speakers:
-- speaker_bio: Software engineer member of the Linaro support and solutions team.
+- speaker_bio: '> Software engineer member of the Linaro support and solutions team.'
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/LoicPoulain.jpg
+  speaker_image: /assets/images/speakers/bkk19/loic-poulain.jpg
   speaker_location: ''
   speaker_name: Loic Poulain
   speaker_position: Developer Support Engineer
   speaker_username: loic.poulain
-- speaker_bio: I'm a senior software engineer, working for Linaro. I've been contributed
+- speaker_bio: '> Im a senior software engineer, working for Linaro. Ive been contributed
     to OSS since 2007 when I started working on VLC Media player at university.<br
-    />I'm now core developer and maintainer of LAVA, a widely adopted framework to
-    test software (bootloader, kernel, user space) on real boards.
+    />Im now core developer and maintainer of LAVA, a widely adopted framework to
+    test software (bootloader, kernel, user space) on real boards.'
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/RémiDuraffort.jpg
+  speaker_image: /assets/images/speakers/bkk19/remi-duraffort.jpg
   speaker_location: ''
   speaker_name: Rémi Duraffort
   speaker_position: Senior Software Engineer

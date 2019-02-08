@@ -1,7 +1,7 @@
 ---
 categories:
 - bkk19
-description: '> Arm launched the ServerReady program at TechCon''18. In addition to
+description: '> Arm launched the ServerReady program at TechCon18. In addition to
   the SBSA and SBBR that constitute the ServerReady specifications, Arm Server Advisory
   Committee is also working on the SBMG document that addresses the server manageability.
   This presentation focuses on the updates in this area. It is also a call for action
@@ -18,24 +18,24 @@ session_slot:
   end_time: '2019-04-01 15:25:00'
   start_time: '2019-04-01 15:00:00'
 session_speakers:
-- speaker_bio: Dong Wei is a senior director and lead architect, distinguished engineer
-    at Arm. He is responsible for the ServerReady certification program and the related
-    SBSA, SBBR, EBBR and SBMG standards. He is the Vice President (Chief Executive)
-    of the UEFI Forum, co-chair its ACPI Spec Working Group and chair its UEFI Test
-    Working Group. He chairs the PCI Firmware Working Group at the PCI SIG. He is
-    also the vice-chair of the Software Working Group at the CCIX Consortium. He represents
-    Arm at DMTF and OCP. Before joining Arm in 2016, he was a VP and Fellow at HP
-    responsible for the system architecture definitions for PA-RISC, Itanium, x86,
-    and RISC-V systems, and cofounded the UEFI technology with Intel.
+- speaker_bio: '> Dong Wei is a senior director and lead architect, distinguished
+    engineer at Arm. He is responsible for the ServerReady certification program and
+    the related SBSA, SBBR, EBBR and SBMG standards. He is the Vice President (Chief
+    Executive) of the UEFI Forum, co-chair its ACPI Spec Working Group and chair its
+    UEFI Test Working Group. He chairs the PCI Firmware Working Group at the PCI SIG.
+    He is also the vice-chair of the Software Working Group at the CCIX Consortium.
+    He represents Arm at DMTF and OCP. Before joining Arm in 2016, he was a VP and
+    Fellow at HP responsible for the system architecture definitions for PA-RISC,
+    Itanium, x86, and RISC-V systems, and cofounded the UEFI technology with Intel.'
   speaker_company: Arm
-  speaker_image: /assets/images/speakers/bkk19/DongWei.jpg
+  speaker_image: /assets/images/speakers/bkk19/dong-wei.jpg
   speaker_location: ''
   speaker_name: Dong Wei
   speaker_position: Sr Director
   speaker_username: dong.wei1
-- speaker_bio: ''
+- speaker_bio: '> '
   speaker_company: Arm
-  speaker_image: /assets/images/speakers/bkk19/placeholder.png
+  speaker_image: /assets/images/speakers/placeholder.png
   speaker_location: ''
   speaker_name: Dong Wei
   speaker_position: Sr Director-Lead Architect, DE

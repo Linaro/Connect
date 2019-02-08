@@ -17,12 +17,12 @@ session_slot:
   end_time: '2019-04-02 11:25:00'
   start_time: '2019-04-02 11:00:00'
 session_speakers:
-- speaker_bio: Miklos is a software engineer at Arm focusing on<br /> IoT security.
+- speaker_bio: '> Miklos is a software engineer at Arm focusing on<br /> IoT security.
     He has been working with embedded<br /> software for over 10 years in environments
     ranging<br /> from telecom core network nodes to server blades<br /> and IoT devices.
-    He is a maintainer of Trusted<br /> Firmware M open source project.
+    He is a maintainer of Trusted<br /> Firmware M open source project.'
   speaker_company: Arm
-  speaker_image: /assets/images/speakers/bkk19/MiklosBalint.jpg
+  speaker_image: /assets/images/speakers/bkk19/miklos-balint.jpg
   speaker_location: ''
   speaker_name: Miklos Balint
   speaker_position: Staff Software Engineer

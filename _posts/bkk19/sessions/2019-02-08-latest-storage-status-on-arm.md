@@ -18,10 +18,10 @@ session_slot:
   end_time: '2019-04-01 14:25:00'
   start_time: '2019-04-01 14:00:00'
 session_speakers:
-- speaker_bio: Staff Software Engineer in Arm, mainly focus on storage related open
-    source project on arm64
+- speaker_bio: '> Staff Software Engineer in Arm, mainly focus on storage related
+    open source project on arm64'
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/ToneZhang.jpg
+  speaker_image: /assets/images/speakers/bkk19/tone-zhang.jpg
   speaker_location: ''
   speaker_name: Tone Zhang
   speaker_position: Staff Software Engineer in Arm

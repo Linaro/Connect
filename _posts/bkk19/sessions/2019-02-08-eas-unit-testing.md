@@ -14,11 +14,11 @@ session_slot:
   end_time: '2019-04-01 15:55:00'
   start_time: '2019-04-01 15:30:00'
 session_speakers:
-- speaker_bio: Steve Muckle works on Android kernel compliance testing and energy
+- speaker_bio: '> Steve Muckle works on Android kernel compliance testing and energy
     aware scheduling at Google. He formerly worked on energy aware scheduling at Linaro
-    and Qualcomm.
+    and Qualcomm.'
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/SteveMuckle.jpg
+  speaker_image: /assets/images/speakers/bkk19/steve-muckle.jpg
   speaker_location: ''
   speaker_name: Steve Muckle
   speaker_position: Software Engineer, Google

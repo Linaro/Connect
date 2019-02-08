@@ -18,16 +18,16 @@ session_slot:
   end_time: '2019-04-05 11:25:00'
   start_time: '2019-04-05 11:00:00'
 session_speakers:
-- speaker_bio: Assignee, Security Working Group
+- speaker_bio: '> Assignee, Security Working Group'
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/IgorOpaniuk.jpg
+  speaker_image: /assets/images/speakers/bkk19/igor-opaniuk.jpg
   speaker_location: ''
   speaker_name: Igor Opaniuk
   speaker_position: Software Engineer
   speaker_username: igor.opaniuk
-- speaker_bio: ''
+- speaker_bio: '> '
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/placeholder.png
+  speaker_image: /assets/images/speakers/placeholder.png
   speaker_location: ''
   speaker_name: Victor Chong
   speaker_position: Software Engineer

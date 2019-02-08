@@ -5,11 +5,11 @@ description: '> Modern CI/CD systems receive a wide variety of workloads, everyt
   from quick jobs with simple dependencies that take less than a minute all the way
   up to full operating system rebuilds that can take hours or days. The needs of the
   software developer for quick turnaround of routine jobs are balanced against the
-  system architect''s expectation that expensive systems should not see undue amounts
+  system architects expectation that expensive systems should not see undue amounts
   of idle time.<br /> <br /> This analysis looks at the challenges faced by a CI/CD
   system that incorporates a variety of machines of varying capacities, hosted by
   different organizations, where the individual systems themselves have varying degrees
-  of parallel compute capabilities. We identify several real-world systems - NixOS''s
+  of parallel compute capabilities. We identify several real-world systems - NixOSs
   "nixpkgs", the FreeBSD build system, the LLVM build farm, and others - to pick out
   some important considerations.'
 future_image:
@@ -22,17 +22,17 @@ session_slot:
   end_time: '2019-04-04 11:55:00'
   start_time: '2019-04-04 11:30:00'
 session_speakers:
-- speaker_bio: Ed is an Internet veteran with over 30 years experience.<br /><br />He
-    has extensive experience with networks at all levels - physical, logical, technical,
-    social, political, and financial. He is a graduate of the University of Michigan,
-    and an alumnus of Cisco Systems and Arbor Networks.<br /><br />At Packet, Ed leads
-    outreach to a wide variety of software ecosystems, from open source to the Enterprise.
-    His main project is WorksOnARM, which helps to bring cloud native and data center
-    software to ARMv8 servers.<br /><br />When he's not opening issues on Github,
-    Ed can be found on the amateur radio bands as W8EMV, tinkering with a pile of
-    Raspberry Pis, or coworking at Ann Arbor's Workantile.
+- speaker_bio: '> Ed is an Internet veteran with over 30 years experience.<br /><br
+    />He has extensive experience with networks at all levels - physical, logical,
+    technical, social, political, and financial. He is a graduate of the University
+    of Michigan, and an alumnus of Cisco Systems and Arbor Networks.<br /><br />At
+    Packet, Ed leads outreach to a wide variety of software ecosystems, from open
+    source to the Enterprise. His main project is WorksOnARM, which helps to bring
+    cloud native and data center software to ARMv8 servers.<br /><br />When hes not
+    opening issues on Github, Ed can be found on the amateur radio bands as W8EMV,
+    tinkering with a pile of Raspberry Pis, or coworking at Ann Arbors Workantile.'
   speaker_company: Packet
-  speaker_image: /assets/images/speakers/bkk19/EdVielmetti.jpg
+  speaker_image: /assets/images/speakers/bkk19/ed-vielmetti.jpg
   speaker_location: Ann Arbor, MI
   speaker_name: Ed Vielmetti
   speaker_position: Special Projects Director

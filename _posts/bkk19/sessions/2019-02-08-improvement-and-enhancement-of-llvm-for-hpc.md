@@ -17,11 +17,11 @@ session_slot:
   end_time: '2019-04-02 12:25:00'
   start_time: '2019-04-02 12:00:00'
 session_speakers:
-- speaker_bio: In 1992, He joined Fujitsu Laboratories Ltd. His research interests
+- speaker_bio: '> In 1992, He joined Fujitsu Laboratories Ltd. His research interests
     are in the area of compiler optimizations and computer architectures. He joined
-    Linaro as member engineer in 2017.
+    Linaro as member engineer in 2017.'
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/MasakiArai.jpg
+  speaker_image: /assets/images/speakers/bkk19/masaki-arai.jpg
   speaker_location: ''
   speaker_name: Masaki Arai
   speaker_position: Senior Researcher

@@ -26,14 +26,14 @@ session_slot:
   end_time: '2019-04-04 12:25:00'
   start_time: '2019-04-04 12:00:00'
 session_speakers:
-- speaker_bio: Zijin Tao is a Ph.D in Computer Networking, who has worked in this
+- speaker_bio: '> Zijin Tao is a Ph.D in Computer Networking, who has worked in this
     area for more than 15 years. He has worked as a network engineer in research institute
     of university for more than 10 years. Then he worked in IBM for almost 5 years
     for SDN and Cloud Networking. <br /> Now he is working in Arm as an Staff Software
     Engineer, mainly on networking infrastructure open source projects.<br /> Zijin
-    Tao has filed more than 10 patents and papers in Computer Networking.
+    Tao has filed more than 10 patents and papers in Computer Networking.'
   speaker_company: arm
-  speaker_image: /assets/images/speakers/bkk19/TrevorTao.jpg
+  speaker_image: /assets/images/speakers/bkk19/trevor-tao.jpg
   speaker_location: Shanghai, China
   speaker_name: Trevor Tao
   speaker_position: Staff Software Engineer

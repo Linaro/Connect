@@ -20,11 +20,11 @@ session_slot:
   end_time: '2019-04-02 12:55:00'
   start_time: '2019-04-02 12:30:00'
 session_speakers:
-- speaker_bio: Software Engineer at Linaro, having several years in web world in Java,
-    Python and PHP. Involved in open source development since 2014. Worked at NIST
-    as software security researcher, specifically in static code analysis
+- speaker_bio: '> Software Engineer at Linaro, having several years in web world in
+    Java, Python and PHP. Involved in open source development since 2014. Worked at
+    NIST as software security researcher, specifically in static code analysis'
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/CharlesDanielDeOliveira.jpg
+  speaker_image: /assets/images/speakers/bkk19/charles-daniel-de-oliveira.jpg
   speaker_location: ''
   speaker_name: Charles Daniel De Oliveira
   speaker_position: Software Engineer

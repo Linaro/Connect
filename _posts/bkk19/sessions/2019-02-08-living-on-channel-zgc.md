@@ -2,8 +2,8 @@
 categories:
 - bkk19
 description: '> There is a new experimental garbage collector to OpenJDK on AArch64.
-  Here I''ll describe the ZGC algorithm, how it is different, along with how it is
-  different on AArch64.'
+  Here Ill describe the ZGC algorithm, how it is different, along with how it is different
+  on AArch64.'
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-404.png
@@ -14,10 +14,10 @@ session_slot:
   end_time: '2019-04-04 09:25:00'
   start_time: '2019-04-04 09:00:00'
 session_speakers:
-- speaker_bio: Stuart works in Linaro on OpenJDK, previously having worked on Android
-    ART.
+- speaker_bio: '> Stuart works in Linaro on OpenJDK, previously having worked on Android
+    ART.'
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/StuartMonteith.jpg
+  speaker_image: /assets/images/speakers/bkk19/stuart-monteith.jpg
   speaker_location: ''
   speaker_name: Stuart Monteith
   speaker_position: Software Engineer

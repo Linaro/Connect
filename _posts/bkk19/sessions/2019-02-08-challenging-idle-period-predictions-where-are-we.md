@@ -17,9 +17,9 @@ session_slot:
   end_time: '2019-04-02 11:55:00'
   start_time: '2019-04-02 11:00:00'
 session_speakers:
-- speaker_bio: ''
+- speaker_bio: '> '
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/DanielLezcano.jpg
+  speaker_image: /assets/images/speakers/bkk19/daniel-lezcano.jpg
   speaker_location: ''
   speaker_name: Daniel Lezcano
   speaker_position: ''

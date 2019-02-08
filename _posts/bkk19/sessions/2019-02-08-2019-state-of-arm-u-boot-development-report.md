@@ -24,16 +24,16 @@ session_slot:
   end_time: '2019-04-04 12:55:00'
   start_time: '2019-04-04 12:00:00'
 session_speakers:
-- speaker_bio: Jagan Teki is a Free Software Engineer and currently working for Amarula
-    Solutions, for handling opensource related projects. His most of the work involves
-    in Linux Kernel, U-Boot, Buildroot and Yocto for code contribution along with
-    key subsystems maintenance.<br><br>He is Upstream Maintainer for Allwinner sunXi
-    SoC, SPI, SPI-NOR subsystems in U-Boot. Apart from this he got nearly 10 years
-    of experience in embedded linux, device driver and linux kernel.<br><br>He presented
-    various talk in Embedded Linux, U-boot in ELCE 2013, Opensource India 2013, Opensource
-    Firmware Conference 2018, Linuxlab 2018.
+- speaker_bio: '> Jagan Teki is a Free Software Engineer and currently working for
+    Amarula Solutions, for handling opensource related projects. His most of the work
+    involves in Linux Kernel, U-Boot, Buildroot and Yocto for code contribution along
+    with key subsystems maintenance.<br><br>He is Upstream Maintainer for Allwinner
+    sunXi SoC, SPI, SPI-NOR subsystems in U-Boot. Apart from this he got nearly 10
+    years of experience in embedded linux, device driver and linux kernel.<br><br>He
+    presented various talk in Embedded Linux, U-boot in ELCE 2013, Opensource India
+    2013, Opensource Firmware Conference 2018, Linuxlab 2018.'
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/JaganTeki.jpg
+  speaker_image: /assets/images/speakers/bkk19/jagan-teki.jpg
   speaker_location: ''
   speaker_name: Jagan Teki
   speaker_position: U-Boot Maintainer

@@ -14,27 +14,27 @@ session_slot:
   end_time: '2019-04-01 16:25:00'
   start_time: '2019-04-01 16:00:00'
 session_speakers:
-- speaker_bio: Senior Software Engineer in Linaro Security Working Group
+- speaker_bio: '> Senior Software Engineer in Linaro Security Working Group'
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/JensWiklander.jpg
+  speaker_image: /assets/images/speakers/bkk19/jens-wiklander.jpg
   speaker_location: ''
   speaker_name: Jens Wiklander
   speaker_position: Senior Software Engineer
   speaker_username: jens.wiklander
-- speaker_bio: .
+- speaker_bio: '> .'
   speaker_company: Huawei/Hisilicon
-  speaker_image: /assets/images/speakers/bkk19/JeromeForissier.jpg
+  speaker_image: /assets/images/speakers/bkk19/jerome-forissier.jpg
   speaker_location: ''
   speaker_name: Jerome Forissier
   speaker_position: Open source software architect (security)
   speaker_username: jerome.forissier
-- speaker_bio: Joakim has been a Linux user for about 15 years where he spent most
+- speaker_bio: '> Joakim has been a Linux user for about 15 years where he spent most
     of the time in his professional career working with security for embedded devices.
     The last five years he has been heading Security Working Group in Linaro who are
     working with various upstream projects related to Security where OP-TEE is one
-    of the key projects for that group.
+    of the key projects for that group.'
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/JoakimBech.jpg
+  speaker_image: /assets/images/speakers/bkk19/joakim-bech.jpg
   speaker_location: ''
   speaker_name: Joakim Bech
   speaker_position: Principal Engineer

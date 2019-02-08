@@ -15,9 +15,9 @@ session_slot:
   end_time: '2019-04-04 12:25:00'
   start_time: '2019-04-04 12:00:00'
 session_speakers:
-- speaker_bio: Senior Software Engineer in Linaro Security Working Group
+- speaker_bio: '> Senior Software Engineer in Linaro Security Working Group'
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/JensWiklander.jpg
+  speaker_image: /assets/images/speakers/bkk19/jens-wiklander.jpg
   speaker_location: ''
   speaker_name: Jens Wiklander
   speaker_position: Senior Software Engineer

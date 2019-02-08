@@ -14,11 +14,11 @@ session_slot:
   end_time: '2019-04-04 09:25:00'
   start_time: '2019-04-04 09:00:00'
 session_speakers:
-- speaker_bio: Rob is a technical architect in the Linaro's Office of the CTO. He
+- speaker_bio: '> Rob is a technical architect in the Linaros Office of the CTO. He
     is one of the Devicetree maintainers and a contributor to the Linux kernel, u-boot,
-    mesa, and AOSP projects.
+    mesa, and AOSP projects.'
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/RobHerring.jpg
+  speaker_image: /assets/images/speakers/bkk19/rob-herring.jpg
   speaker_location: ''
   speaker_name: Rob Herring
   speaker_position: Technical Architect

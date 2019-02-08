@@ -24,7 +24,7 @@ session_slot:
   end_time: '2019-04-02 12:55:00'
   start_time: '2019-04-02 12:30:00'
 session_speakers:
-- speaker_bio: Andrew Younge is a Computer Scientist at Sandia National Laboratories
+- speaker_bio: '> Andrew Younge is a Computer Scientist at Sandia National Laboratories
     with the Scalable System Software group. His research interests include High Performance
     Computing, Virtualization, Distributed Systems, and energy efficient computing.
     The central focal point of Andrew’s work is to improve the usability and efficiency
@@ -34,16 +34,16 @@ session_speakers:
     held visiting positions at the MITRE Corporation, the University of Southern California
     / Information Sciences Institute, and the University of Maryland, College Park.
     He received his Bachelors and Masters of Science from the Computer Science Department
-    at Rochester Institute of Technology (RIT) in 2008 and 2010, respectively.
+    at Rochester Institute of Technology (RIT) in 2008 and 2010, respectively.'
   speaker_company: Sandia National Laboratories
-  speaker_image: /assets/images/speakers/bkk19/AndrewYounge.jpg
+  speaker_image: /assets/images/speakers/bkk19/andrew-younge.jpg
   speaker_location: ''
   speaker_name: Andrew Younge
   speaker_position: Computer Scientist
   speaker_username: ajyoung1
-- speaker_bio: ''
+- speaker_bio: '> '
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/placeholder.png
+  speaker_image: /assets/images/speakers/placeholder.png
   speaker_location: ''
   speaker_name: Kevin Pedretti
   speaker_position: ''

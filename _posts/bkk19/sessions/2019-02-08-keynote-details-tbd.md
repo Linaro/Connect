@@ -5,7 +5,7 @@ description: '> Coming soon...'
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-K501.png
-session_attendee_num: '10'
+session_attendee_num: '11'
 session_id: BKK19-K501
 session_room: 'Keynote Room (World Ballroom BC) '
 session_slot:

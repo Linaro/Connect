@@ -26,9 +26,9 @@ session_slot:
   end_time: '2019-04-01 14:25:00'
   start_time: '2019-04-01 14:00:00'
 session_speakers:
-- speaker_bio: Work on Golang for enabling arm port, performance optimization etc.
+- speaker_bio: '> Work on Golang for enabling arm port, performance optimization etc.'
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/FangmingFang(ArmTechnologyChina).jpg
+  speaker_image: /assets/images/speakers/bkk19/fangming-fang-arm-technology-china.jpg
   speaker_location: ''
   speaker_name: Fangming Fang (Arm Technology China)
   speaker_position: arm,  senior engineer

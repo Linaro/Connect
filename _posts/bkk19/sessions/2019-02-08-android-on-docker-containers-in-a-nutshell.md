@@ -18,10 +18,10 @@ session_slot:
   end_time: '2019-04-04 11:25:00'
   start_time: '2019-04-04 11:00:00'
 session_speakers:
-- speaker_bio: Senior Software Engineer, Developer services, Linaro. Passionate about
-    building and booting Android on ARM based SOCs for mobile and ARM servers.
+- speaker_bio: '> Senior Software Engineer, Developer services, Linaro. Passionate
+    about building and booting Android on ARM based SOCs for mobile and ARM servers.'
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/KhasimSyedMohammed.jpg
+  speaker_image: /assets/images/speakers/bkk19/khasim-syed-mohammed.jpg
   speaker_location: India
   speaker_name: Khasim Syed Mohammed
   speaker_position: Senior Software Engineer - Android and Chromium

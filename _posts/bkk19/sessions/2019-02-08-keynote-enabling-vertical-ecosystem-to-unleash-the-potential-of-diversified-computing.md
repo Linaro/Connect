@@ -17,16 +17,16 @@ description: '> The future is an intelligent digital world, where everything is 
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-K200.png
-session_attendee_num: '14'
+session_attendee_num: '15'
 session_id: BKK19-K200
 session_room: 'Keynote Room (World Ballroom BC) '
 session_slot:
   end_time: '2019-04-02 10:25:00'
   start_time: '2019-04-02 10:00:00'
 session_speakers:
-- speaker_bio: Vice President of Huawei IT Product Line
+- speaker_bio: '> Vice President of Huawei IT Product Line'
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/WuZhan(Huawei).jpg
+  speaker_image: /assets/images/speakers/bkk19/wu-zhan-huawei.jpg
   speaker_location: ''
   speaker_name: Wu Zhan (Huawei)
   speaker_position: Wu Zhan, Vice President of Huawei IT Product Line

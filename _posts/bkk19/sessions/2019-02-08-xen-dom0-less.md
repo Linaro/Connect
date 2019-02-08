@@ -28,9 +28,9 @@ session_slot:
   end_time: '2019-04-05 23:55:00'
   start_time: '2019-04-05 23:30:00'
 session_speakers:
-- speaker_bio: ''
+- speaker_bio: '> '
   speaker_company: Xilinx
-  speaker_image: /assets/images/speakers/bkk19/placeholder.png
+  speaker_image: /assets/images/speakers/placeholder.png
   speaker_location: ''
   speaker_name: Stefano Stabellini
   speaker_position: Principle Engineer

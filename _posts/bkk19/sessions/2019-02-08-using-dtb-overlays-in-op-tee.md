@@ -15,9 +15,9 @@ session_slot:
   end_time: '2019-04-04 08:55:00'
   start_time: '2019-04-04 08:30:00'
 session_speakers:
-- speaker_bio: Embedded developer, Linux, u-boot, zephyr, ATF, OP-TEE.
+- speaker_bio: '> Embedded developer, Linux, u-boot, zephyr, ATF, OP-TEE.'
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/BryanO'Donoghue.jpg
+  speaker_image: /assets/images/speakers/bkk19/bryan-o-donoghue.jpg
   speaker_location: ''
   speaker_name: Bryan O'Donoghue
   speaker_position: Linaro, Arm MBL

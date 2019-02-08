@@ -7,7 +7,7 @@ description: '> DescriptionThis presentation is a report on the last improvement
   set of changes concerns throughput. In the most complex scenarios for guaranteeing
   I/O bandwidths, BFQ delivers up to five-time higher throughput than existing solutions.
   But the same mechanisms that gained BFQ this primacy become a hindrance with some
-  ''deceptive'' workloads. These workloads trick BFQ mechanisms into wrongly believing
+  deceptive workloads. These workloads trick BFQ mechanisms into wrongly believing
   that some I/O flows need to be privileged with respect to other flows, even at the
   expense of losing throughput dramatically. In contrast, total throughout is the
   only performance parameter that matters. We took countermeasures to offset this
@@ -18,7 +18,7 @@ description: '> DescriptionThis presentation is a report on the last improvement
   with a Chromebook.<br><br>The last contributions shown in this presentation are
   about<br>efficiency. In fact, even the execution overhead of an I/O scheduler may
   limit maximum throughput with very fast drives. So, to reduce BFQ overhead, we tried
-  to turn some properties of these drives into BFQ''s advantage: we looked for costly
+  to turn some properties of these drives into BFQs advantage: we looked for costly
   optimizations that are no longer necessary with these drives. We found some, and
   added controls that automatically turn them off when not needed.'
 future_image:
@@ -31,7 +31,7 @@ session_slot:
   end_time: '2019-04-05 11:55:00'
   start_time: '2019-04-05 11:30:00'
 session_speakers:
-- speaker_bio: Paolo Valente is an Assistant Professor of Computer Science at the
+- speaker_bio: '> Paolo Valente is an Assistant Professor of Computer Science at the
     University of Modena and Reggio Emilia, Italy. Some of his activities focus on
     scheduling algorithms for transmission links, storage devices, and CPUs. As for
     transmission links, Paolo is one of the authors of the QFQ packet scheduler, which
@@ -42,16 +42,16 @@ session_speakers:
     defined and implemented other algorithms, part of which are now in FreeBSD, and
     has provided new theoretic results concerning multiprocessor scheduling. Paolo
     has given about thirty talks, as an invited speaker or to present his scientific
-    papers.
+    papers.'
   speaker_company: University of Modena and Reggio Emilia, Italy
-  speaker_image: /assets/images/speakers/bkk19/PaoloValente.jpg
+  speaker_image: /assets/images/speakers/bkk19/paolo-valente.jpg
   speaker_location: Modena - Italy
   speaker_name: Paolo Valente
   speaker_position: Assistant Professor of CS
   speaker_username: paolo.valente
-- speaker_bio: Paolo Valente is an Assistant Professor of Computer Science at the<br
+- speaker_bio: '> Paolo Valente is an Assistant Professor of Computer Science at the<br
     /> University of Modena and Reggio Emilia, Italy, and a collaborator of<br />
-    the Linaro engineering organization. Paolo's main activities focus on<br /> scheduling
+    the Linaro engineering organization. Paolos main activities focus on<br /> scheduling
     algorithms for storage devices, transmission links and<br /> CPUs. In this respect,
     Paolo is the author of the last version of the<br /> BFQ I/O scheduler. BFQ entered
     the Linux kernel from 4.12, providing<br /> unprecedented low-latency and fairness
@@ -61,9 +61,9 @@ session_speakers:
     by Paolo<br /> himself. Finally, Paolo has also defined and implemented other<br
     /> algorithms, part of which are now in FreeBSD, and has provided new<br /> theoretic
     results on multiprocessor scheduling.<br /> <br /> Paolo has given about forty
-    talks, as an invited speaker or to present<br /> his scientific papers.
+    talks, as an invited speaker or to present<br /> his scientific papers.'
   speaker_company: Linaro
-  speaker_image: /assets/images/speakers/bkk19/PaoloValente.jpg
+  speaker_image: /assets/images/speakers/bkk19/paolo-valente.jpg
   speaker_location: ''
   speaker_name: Paolo Valente
   speaker_position: Linaro, Collaborator, Assistant professor

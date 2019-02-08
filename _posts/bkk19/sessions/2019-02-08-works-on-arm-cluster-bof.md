@@ -20,17 +20,17 @@ session_slot:
   end_time: '2019-04-03 09:25:00'
   start_time: '2019-04-03 09:00:00'
 session_speakers:
-- speaker_bio: Ed is an Internet veteran with over 30 years experience.<br /><br />He
-    has extensive experience with networks at all levels - physical, logical, technical,
-    social, political, and financial. He is a graduate of the University of Michigan,
-    and an alumnus of Cisco Systems and Arbor Networks.<br /><br />At Packet, Ed leads
-    outreach to a wide variety of software ecosystems, from open source to the Enterprise.
-    His main project is WorksOnARM, which helps to bring cloud native and data center
-    software to ARMv8 servers.<br /><br />When he's not opening issues on Github,
-    Ed can be found on the amateur radio bands as W8EMV, tinkering with a pile of
-    Raspberry Pis, or coworking at Ann Arbor's Workantile.
+- speaker_bio: '> Ed is an Internet veteran with over 30 years experience.<br /><br
+    />He has extensive experience with networks at all levels - physical, logical,
+    technical, social, political, and financial. He is a graduate of the University
+    of Michigan, and an alumnus of Cisco Systems and Arbor Networks.<br /><br />At
+    Packet, Ed leads outreach to a wide variety of software ecosystems, from open
+    source to the Enterprise. His main project is WorksOnARM, which helps to bring
+    cloud native and data center software to ARMv8 servers.<br /><br />When hes not
+    opening issues on Github, Ed can be found on the amateur radio bands as W8EMV,
+    tinkering with a pile of Raspberry Pis, or coworking at Ann Arbors Workantile.'
   speaker_company: Packet
-  speaker_image: /assets/images/speakers/bkk19/EdVielmetti.jpg
+  speaker_image: /assets/images/speakers/bkk19/ed-vielmetti.jpg
   speaker_location: Ann Arbor, MI
   speaker_name: Ed Vielmetti
   speaker_position: Special Projects Director

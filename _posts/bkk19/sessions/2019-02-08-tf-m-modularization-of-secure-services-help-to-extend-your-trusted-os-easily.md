@@ -23,10 +23,10 @@ session_slot:
   end_time: '2019-04-02 11:55:00'
   start_time: '2019-04-02 11:30:00'
 session_speakers:
-- speaker_bio: Senior Software Engineer of arm, working as Linaro assignee for LITE.
-    Mainly focus on embedded and IoT, v8-m of TF-M.
+- speaker_bio: '> Senior Software Engineer of arm, working as Linaro assignee for
+    LITE. Mainly focus on embedded and IoT, v8-m of TF-M.'
   speaker_company: arm
-  speaker_image: /assets/images/speakers/bkk19/ShuangluoZhang.jpg
+  speaker_image: /assets/images/speakers/bkk19/shuangluo-zhang.jpg
   speaker_location: ''
   speaker_name: Shuangluo Zhang
   speaker_position: Sr. Software Engineer
