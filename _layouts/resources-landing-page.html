@@ -44,25 +44,35 @@ js-package: resources-landing-page
                     <a href="{{resource.url}}">
                         <div class="resource">
 {% if resource.image.name %}
+        {% if resource.session_id != "None" %}
+            {% assign image_title = resource.session_id %}
+        {% else %}
+            {% assign image_title = resource.title %}
+        {% endif %}
 {% capture image_path %}assets/images/featured-images/{{resource.image.name}}{% endcapture %}
 {% responsive_image_block %}
 path: "{{ image_path }}"
-title: "{{ resource.title }}"
-alt: "{{ resource.title }}"
+title: "{{ image_title }}"
+alt: "{{ image_title }}"
 {% endresponsive_image_block %}
 {% else %}
-{% capture image_path %}assets/images/content/connect-logo.png{% endcapture %}
-{% for each in site.data.connects %}
-{% if each.id == page.event_code %}
-{% if each.placeholder %}
-{% capture image_path %}assets/images/content/{{each.placeholder}}{% endcapture %}
-{% endif %}
-{% endif %}
-{% endfor %}
+    {% if resource.session_id != "None" %}
+        {% assign image_title = resource.session_id %}
+    {% else %}
+        {% assign image_title = resource.title %}
+    {% endif %}
+    {% capture image_path %}assets/images/content/connect-logo.png{% endcapture %}
+    {% for each in site.data.connects %}
+        {% if each.id == page.event_code %}
+            {% if each.placeholder %}
+                {% capture image_path %}assets/images/content/{{each.placeholder}}{% endcapture %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
 {% responsive_image_block %}
 path: "{{ image_path }}"
-title: "{{ resource.title }}"
-alt: "{{ resource.title }}"
+title: "{{ image_title }}"
+alt: "{{ image_title }}"
 {% endresponsive_image_block %}
 {% endif %}
                         </div>
