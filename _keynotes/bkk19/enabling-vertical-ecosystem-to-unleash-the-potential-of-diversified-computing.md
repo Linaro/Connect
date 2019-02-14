@@ -6,7 +6,7 @@ speaker:
     bio: >
         Available soon...
 image:
-    path: /assets/images/speakers/keynotes/bkk19/wu-zhan.jpg
+    path: /assets/images/speakers/bkk19/keynotes/wu-zhan.jpg
     featured: true
 event: BKK19
 # slot:

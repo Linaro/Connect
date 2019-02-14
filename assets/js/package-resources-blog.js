@@ -10,3 +10,4 @@
 //= require app/tables
 //= require app/custom
 //= require app/resources-blog
+//= require app/resources-custom

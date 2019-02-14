@@ -14,7 +14,6 @@ span.stats-title {
   margin: 30px 0;
 }
 .resource-image {
-  height: 200px;
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -36,6 +35,7 @@ h3.connect-title.text-center {
 
 #all-resources a.btn.btn-primary.center-block {
   background-color: #333;
+  margin-bottom: 0px;
   color: white;
   transition: all 500ms ease;
 }
@@ -55,14 +55,16 @@ h3.connect-title.text-center {
     padding-top: 10px;
     padding-bottom: 10px;
     color: #ffffff;
-    border: 1px solid #000000;
 }
 #all-resources ul.dropdown-menu {
-  margin-top: 0px;
+    margin-top: -10px;
+    z-index: 99999 !important;
+    position: absolute;
+    background-color: #333333;
 }
 #all-resources button.btn.btn-default.dropdown-toggle {
   color: white;
-  border: 1px solid black;
+  border-radius:0px;
 }
 a.connect-map-location.btn.btn-primary {
   background-color: #333333;
@@ -79,8 +81,7 @@ a.connect-map-location.btn.btn-primary:hover {
   margin-bottom: 10px;
 }
 .resource-block {
-  padding: 20px;
-  overflow: hidden !important;
+  overflow: visible !important;
   background-color: #252525;
   overflow: auto;
   margin-left: 5px;
@@ -98,4 +99,55 @@ div#all-resources {
   background-color: white;
   position: relative;
   margin-bottom: 0px;
+}
+.resource-title.col-xs-12.no-padding {
+    border: 1px solid #eee;
+    margin-bottom: 18px;
+}
+
+.resource-block{
+    transition: all 100ms ease;
+}
+.resource-block img {
+    filter: grayscale(1);
+}
+.resource-block:hover img {
+    filter:unset !important;
+}
+span.session_id {
+    padding: 5px;
+    background-color: #79ac00;
+    color: white;
+}
+span.speaker {
+    background-color: #282828;
+    padding: 5px;
+    color: white;
+    display:inline-block;
+    border: 1px solid #181818;
+}
+.resource-details span {
+    padding: 5px;
+    display: block;
+    color: #7d7d7d;
+}
+.resource-title.col-xs-12.no-padding {
+    height: 85px;
+}
+div#main-resources-content .col-md-4.col-sm-4.col-xs-12.no-padding {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.resource-block {
+    height: 100%;
+}
+.col-md-9 .row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.speaker-col img.img-circle.img-repsonsive {
+    max-width: 150px;
+    max-height: 150px;
+    object-fit: cover;
 }

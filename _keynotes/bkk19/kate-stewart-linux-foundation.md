@@ -8,7 +8,7 @@ speaker:
 
         With almost 30 years of experience in the software industry, she has held a variety of roles and worked as a developer in Canada, Australia, and the US and for the last 20 years has managed software development teams in the US, Canada, UK, India, and China. She received her Master’s in computer science from the University of Waterloo and Bachelor’s of computer science (co-op program) from the University of Manitoba.
 image:
-    path: /assets/images/speakers/keynotes/bkk19/kate-stewart.jpg
+    path: /assets/images/speakers/bkk19/keynotes/kate-stewart.jpg
     featured: true
 event: BKK19
 # slot:

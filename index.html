@@ -133,10 +133,9 @@ redirect_from:
 <div class="row flex-row intro-row content-row padded-row-30 shadowed-row">
     <div class="container">
         <p class="home-text text-white">
-            Every six months, leading hardware and software players in the Arm ecosystem come together at Linaro Connect to solve problems, identify issues and plan existing and future engineering collaboration. 
-        </p>
-        <p class="home-text text-white">
-            For a week, attendees enjoy a mix of industry keynotes, engineering discussions and collaborative hacking sessions. If you are interested in open source software development for Linux, tools and the various vertical segment ecosystems that use Arm processors, then this is the place to be.
+            Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of
+            engineering sessions and hacking at Linaro Connect. The next one will be held at the Grand Centara Hotel in Thailand,
+            Bangkok from Monday 1 April to Friday 5 April 2019.
         </p>
     </div>
 </div>
@@ -176,14 +175,12 @@ redirect_from:
         </p>
         <div class="sponsors">
             {% for sponsor in site.data.sponsors %}
-                {% if sponsor.events contains site.connect-code %}
                 <div class="col-xs-6 col-sm-3 sponsor-col">
                     <a href="{{sponsor.url}}">
                         <img class="img-responsive lazyload {% if sponsor.class %}{{sponsor.class}}{% endif %}" data-src="/assets/images/sponsors/{{sponsor.image}}"
                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="{{sponsor.name}} logo"/>
                     </a>
                 </div>
-                {% endif %}
             {% endfor %}
         </div>
         <p id="buttons" class="text-center">
