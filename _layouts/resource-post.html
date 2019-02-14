@@ -128,6 +128,26 @@ css-package: resources-blog
                             {{page.description}}
                         </p>
                         {% endif %}
+                        {% if page.session_speakers %}
+                        <div class="row">
+                            {% for speaker in post.session_speakers %}
+                            <div class="col-xs-12 col-sm-4 speaker-col">
+                                <img class="lazyload img-cirlce" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                                data-src="{{speaker.speaker_image}}" alt="{{speaker.speaker_name}} profile image"/>
+                                <h3>{{speaker.speaker_name}}
+                                    {% if speaker.speaker_company != "" %}
+                                    / {% if speaker.speaker_position %}{{speaker.speaker_position}}{% endif %} {{speaker.speaker_company}}
+                                    {% endif %}
+                                </h3>
+                                <div class="speaker-bio">
+                                    <p>
+                                        {{speaker.speaker_bio}}
+                                    </p>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                        {% endif %}
                     </div>
                 </article>
 

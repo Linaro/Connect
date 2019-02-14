@@ -64,7 +64,7 @@ alt: "{{ image_title }}"
             {% if post.session_speakers %}
             <div class="resource-speakers col-xs-12 no-padding">
                 {% for speaker in post.session_speakers %}
-                    <span class="speaker" data-toggle="tooltip" data-placement="left" title="{{speaker.speaker_bio}}"
+                    <span class="speaker" data-toggle="tooltip" data-placement="top" title="{{speaker.speaker_bio}}"
                     data-speaker="{{speaker.speaker_name}}">{{speaker.speaker_name}}</span>
                 {% endfor %}
             </div>
@@ -90,7 +90,7 @@ alt: "{{ image_title }}"
                 {% endif %}
                 {% if post.session_speakers %}
                     {% for speaker in post.session_speakers %}
-                        <span class="speaker" data-toggle="tooltip" data-placement="left" title="{{speaker.speaker_bio}}"
+                        <span class="speaker" data-toggle="tooltip" data-placement="top" title="{{speaker.speaker_bio}}"
                         data-speaker="{{speaker.speaker_name}}">{{speaker.speaker_name}}</span>
                     {% endfor %}
                 {% endif %}
