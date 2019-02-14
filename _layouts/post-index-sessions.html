@@ -51,12 +51,28 @@ alt: "{{ image_title }}"
 {% endresponsive_image_block %}
                     {% endif %}
                 </div>
-            </a>
             {% if using_json == "True" %}
-            <div class="resource-info col-xs-12 no-padding using_json" session-id="{{post.session_id}}">
-            </div>
+            <!-- <div class="resource-info col-xs-12 no-padding using_json" session-id="{{post.session_id}}">
+               
+            </div> -->
+            {% if post.session_id %}
+                <span data-session-id="{{post.session_id}}" class="session_id">{{post.session_id}}</span>
+            {% endif %}
             <div class="resource-title col-xs-12 no-padding">
                 <h3>{{post.title}}</h3>
+            </div>
+            {% if post.session_speakers %}
+            <div class="resource-speakers col-xs-12 no-padding">
+                {% for speaker in post.session_speakers %}
+                    <span class="speaker" data-toggle="tooltip" data-placement="left" title="{{speaker.speaker_bio}}"
+                    data-speaker="{{speaker.speaker_name}}">{{speaker.speaker_name}}</span>
+                {% endfor %}
+            </div>
+            {% endif %}
+            <div class="resource-details col-xs-12 no-padding">
+                {% if post.session_room %}
+                    <span>{{post.session_room}}</span>
+                {% endif %}
             </div>
             {% else %}
             <div class="resource-info col-xs-12 no-padding {% if using_json == "True" %}using_json{% endif %}"  {% if using_json == "True" %}session-id="{{post.session_id}}"{% endif %}>
@@ -69,10 +85,20 @@ alt: "{{ image_title }}"
             </div>
             <div class="resource-title col-xs-12 no-padding">
                 <h3>{{post.title}}</h3>
+                {% if post.session_id %}
+                    <span data-session-id="{{post.session_id}}" class="session_id">{{post.session_id}}</span>
+                {% endif %}
+                {% if post.session_speakers %}
+                    {% for speaker in post.session_speakers %}
+                        <span class="speaker" data-toggle="tooltip" data-placement="left" title="{{speaker.speaker_bio}}"
+                        data-speaker="{{speaker.speaker_name}}">{{speaker.speaker_name}}</span>
+                    {% endfor %}
+                {% endif %}
             </div>
             {% endif %}
 
-        </div>
+        </a>    
+    </div>
     </div>
     {% endfor %}
     </div>
