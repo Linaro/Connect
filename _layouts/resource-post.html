@@ -12,7 +12,7 @@ css-package: resources-blog
 <div class="container-fluid" id="content-container">
     <div class="row">
         <div class="container">
-            <div class="col-md-9 {{current_connect}}">
+            <div class="col-md-9 no-padding {{current_connect}}">
                 <article class="post-content">
                     <div class="post-info">
                         {% if page.date %}<small class="blog-date text-center"><em>Added to  <a href="/resources/{{page.categories[0]}}/">{{page.categories[0] | upcase }} Resources</a> on <b>{{page.date |  date: "%A, %B %-d, %Y"}}</b></em></small>{% endif %}
@@ -32,6 +32,7 @@ css-package: resources-blog
                         {% endif %}
                     </div>
                     <div class="col-xs-12 no-padding">
+                        <h3>Session Resources</h3>
                         <div class="col-sm-6 no-padding">
                             <div class="video">
                                 {% if using_json == "True" %}
@@ -119,7 +120,7 @@ css-package: resources-blog
                             {% endif %}
                         </div>
                     </div>
-                    <div class="col-xs-12">
+                    <div class="col-xs-12 no-padding">
                         {{ content }}
 
                         {% if page.description %}
@@ -130,9 +131,9 @@ css-package: resources-blog
                         {% endif %}
                         {% if page.session_speakers %}
                         <div class="row">
-                            {% for speaker in post.session_speakers %}
+                            {% for speaker in page.session_speakers %}
                             <div class="col-xs-12 col-sm-4 speaker-col">
-                                <img class="lazyload img-cirlce" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                                <img class="img-circle img-repsonsive center-block lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
                                 data-src="{{speaker.speaker_image}}" alt="{{speaker.speaker_name}} profile image"/>
                                 <h3>{{speaker.speaker_name}}
                                     {% if speaker.speaker_company != "" %}
