@@ -29,3 +29,17 @@
 #wrapper .row.all-resources span.stats-title {
     color:#5c5c5c;
 }
+.resource-block img {
+    filter: grayscale(1);
+}
+.resource-block:hover {
+    transform: scale(1) !important;
+    position: relative;
+    z-index:999999;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+.resource-block:hover img {
+    filter:unset !important;
+}
