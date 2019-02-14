@@ -1,0 +1,29 @@
+---
+categories:
+- bkk19
+description: This session is describes about SMP Development on ARM boards, locates
+  code from Boot code to Kernel code and back to Platform code specifies the SMP Initialization.
+future_image:
+  featured: 'true'
+  path: /assets/images/featured-images/bkk19/BKK19-301.png
+session_attendee_num: '6'
+session_id: BKK19-301
+session_room: Session Room 3 (Lotus 10)
+session_slot:
+  end_time: '2019-04-03 08:25:00'
+  start_time: '2019-04-03 08:00:00'
+session_speakers:
+- speaker_bio: Embedded Linux Kernel Engineer working from last 12 years in Linux
+    Kernel, Device Drivers, Boot Loaders, Board Bringup, Kernel Developement
+  speaker_company: Cavium Networks Pvt Ltd
+  speaker_image: /assets/images/speakers/bkk19/satish-kumar.jpg
+  speaker_location: Bengaluru Area, India
+  speaker_name: Satish Kumar
+  speaker_position: Techcinal Lead in Cavium Networks
+  speaker_username: gsatish.ldd
+session_track: Arm on Arm
+tag: session
+tags:
+- Arm on Arm
+title: SMP Development on ARM Board
+---

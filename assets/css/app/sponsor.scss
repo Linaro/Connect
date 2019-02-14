@@ -202,3 +202,9 @@ div#resources-header {
     border-radius:0px;
     border-color:#eeeeee;
 }
+// Grey out sponsors that are no longer available
+[data-sponsor-type="t-shirt"], [data-sponsor-type="lead"], [data-sponsor-type="giveaway"] {
+    opacity: .3;
+    cursor: not-allowed;
+    filter: grayscale(1);
+}

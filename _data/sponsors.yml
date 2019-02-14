@@ -6,6 +6,11 @@
   image: arm.jpg
   events: yvr18, bkk19
   url: https://www.linaro.org/company/arm/
+- name: Arrow and Shiratech
+  type: lead
+  events: bkk19
+  image: arrow-shiratech.jpg
+  url: https://www.linaro.org/company/arrow/
 - name: Arrow
   type: sponsor
   image: arrow.jpg
@@ -54,8 +59,3 @@
   image: xilinx-avnet.jpg
   events: bkk19
   url: https://www.linaro.org/company/xilinx/
-- name: Arrow and Shiratech
-  type: sponsor
-  events: bkk19
-  image: arrow-shiratech.jpg
-  url: https://www.linaro.org/company/arrow/

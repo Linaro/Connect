@@ -8,10 +8,8 @@ jumbotron:
     triangle-divider: true
     title: About
     description: >
-        Since 2010, Linaro Connect has been the event to attend if you are interested in open source software development for Linux,
-        tools and the various vertical segment ecosystems that use Arm processors.
+        If you work on open source software for Arm platforms, Linaro Connect is the place to be to understand the latest developments and work directly with the most active engineers and maintainers in the ecosystem.
     carousel-images:
-        - /assets/images/content/yvr18.jpg
         - /assets/images/content/lcu14.jpg
         - /assets/images/content/lcu13.jpg
         - /assets/images/content/lce13.jpg
@@ -25,10 +23,7 @@ jumbotron:
 <div class="row content" id="content-container">
 <div class="col-md-6" markdown="1">
 
-Since 2010, Linaro Connect has been the event to attend if you are interested in open source software development for Linux,
-tools and the various vertical segment ecosystems that use Arm processors. While the event continues to evolve, one thing
-stays the same – it revolves around engineering and will consist of a mix of industry keynotes, engineering presentations
-and discussions, and collaborative engineering hacking sessions.
+Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. The next one will be held at the Grand Centara Hotel in Thailand, Bangkok from Monday 1 April to Friday 5 April 2019. Register [here](/register/).
 
 To view slides or videos from the keynotes and sessions from previous Connects, please go to our
 [Resources page](/resources/).
