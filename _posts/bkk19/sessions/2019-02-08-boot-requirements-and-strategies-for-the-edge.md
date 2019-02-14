@@ -1,9 +1,9 @@
 ---
 categories:
 - bkk19
-description: '> Edge computing has some unique requirements and challenges in the
-  boot area. We provide an overview of these, and the strategies available to meet
-  those requirements.'
+description: Edge computing has some unique requirements and challenges in the boot
+  area. We provide an overview of these, and the strategies available to meet those
+  requirements.
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-411.png
@@ -14,7 +14,7 @@ session_slot:
   end_time: '2019-04-04 11:55:00'
   start_time: '2019-04-04 11:30:00'
 session_speakers:
-- speaker_bio: '> To be filled in'
+- speaker_bio: To be filled in
   speaker_company: Linaro Inc
   speaker_image: /assets/images/speakers/bkk19/bill-fischofer.jpg
   speaker_location: ''

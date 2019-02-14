@@ -1,12 +1,12 @@
 ---
 categories:
 - bkk19
-description: '> Trusted Firmware M is an open source implementation of Platform Security
+description: Trusted Firmware M is an open source implementation of Platform Security
   Architecture (PSA) for Arm M profile processors. It was publicly launched in Linaro
   Connect HKG18.<br /> This talk discusses some of the challenges being tackled in
   TF-M to enable wider adoption. Two flavours of core design, concurrent context management,
   secure interrupt handling, multi-core support are just some of the hot issues on
-  the plate.'
+  the plate.
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-208.png
@@ -17,10 +17,10 @@ session_slot:
   end_time: '2019-04-02 11:25:00'
   start_time: '2019-04-02 11:00:00'
 session_speakers:
-- speaker_bio: '> Miklos is a software engineer at Arm focusing on<br /> IoT security.
+- speaker_bio: Miklos is a software engineer at Arm focusing on<br /> IoT security.
     He has been working with embedded<br /> software for over 10 years in environments
     ranging<br /> from telecom core network nodes to server blades<br /> and IoT devices.
-    He is a maintainer of Trusted<br /> Firmware M open source project.'
+    He is a maintainer of Trusted<br /> Firmware M open source project.
   speaker_company: Arm
   speaker_image: /assets/images/speakers/bkk19/miklos-balint.jpg
   speaker_location: ''

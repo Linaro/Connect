@@ -1,15 +1,15 @@
 ---
 categories:
 - bkk19
-description: '> Testing a bootloader in LAVA is more difficult than running tests
-  on a typical Linux-based operating system such as Debian or Android. Robustly provisioning
+description: Testing a bootloader in LAVA is more difficult than running tests on
+  a typical Linux-based operating system such as Debian or Android. Robustly provisioning
   a new bootloader requires boards to be better designed for automation and to be
   deeply integrated into LAVA. For bootloaders, we often have to drive the tests externally
   since, with an OS or POSIX shell we cannot simply launch scripts to manage execution
   of the test suite.<br /> <br /> During this presentation, we will discuss these
   challenges in greater detail and look at what solutions LAVA offers to achieve bootloader
   automate testing. We’ll close out the session with an example test description that
-  allows a bootloader test suite to be fully automated using LAVA.<br /> <br />'
+  allows a bootloader test suite to be fully automated using LAVA.<br /> <br />
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-409.png
@@ -20,17 +20,17 @@ session_slot:
   end_time: '2019-04-04 11:25:00'
   start_time: '2019-04-04 11:00:00'
 session_speakers:
-- speaker_bio: '> Software engineer member of the Linaro support and solutions team.'
+- speaker_bio: Software engineer member of the Linaro support and solutions team.
   speaker_company: Linaro
   speaker_image: /assets/images/speakers/bkk19/loic-poulain.jpg
   speaker_location: ''
   speaker_name: Loic Poulain
   speaker_position: Developer Support Engineer
   speaker_username: loic.poulain
-- speaker_bio: '> Im a senior software engineer, working for Linaro. Ive been contributed
+- speaker_bio: Im a senior software engineer, working for Linaro. Ive been contributed
     to OSS since 2007 when I started working on VLC Media player at university.<br
     />Im now core developer and maintainer of LAVA, a widely adopted framework to
-    test software (bootloader, kernel, user space) on real boards.'
+    test software (bootloader, kernel, user space) on real boards.
   speaker_company: Linaro
   speaker_image: /assets/images/speakers/bkk19/remi-duraffort.jpg
   speaker_location: ''

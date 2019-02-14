@@ -1,13 +1,13 @@
 ---
 categories:
 - bkk19
-description: '> Introduce the latest status of storage related open source projects
-  on aarch64 platform. <br /> Supports Ceph enabling SPDK on aarch64 with 4KB and
-  64KB kernel page size, patches are accepted on Ceph, SPDK and DPDK upstream. <br
-  /> Extends ISA-L library to supports aarch64 platform and offer the unique common
-  library for storage related projects and boost the performance in aarch64 ecosystem.
-  It includes the optimization on compression, hash, crypto, data integrity, data
-  protection and so on.'
+description: Introduce the latest status of storage related open source projects on
+  aarch64 platform. <br /> Supports Ceph enabling SPDK on aarch64 with 4KB and 64KB
+  kernel page size, patches are accepted on Ceph, SPDK and DPDK upstream. <br /> Extends
+  ISA-L library to supports aarch64 platform and offer the unique common library for
+  storage related projects and boost the performance in aarch64 ecosystem. It includes
+  the optimization on compression, hash, crypto, data integrity, data protection and
+  so on.
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-104.png
@@ -18,8 +18,8 @@ session_slot:
   end_time: '2019-04-01 14:25:00'
   start_time: '2019-04-01 14:00:00'
 session_speakers:
-- speaker_bio: '> Staff Software Engineer in Arm, mainly focus on storage related
-    open source project on arm64'
+- speaker_bio: Staff Software Engineer in Arm, mainly focus on storage related open
+    source project on arm64
   speaker_company: ''
   speaker_image: /assets/images/speakers/bkk19/tone-zhang.jpg
   speaker_location: ''

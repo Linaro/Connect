@@ -1,7 +1,7 @@
 ---
 categories:
 - bkk19
-description: '> When developing embedded systems, it is common to have mixed-criticality
+description: 'When developing embedded systems, it is common to have mixed-criticality
   requirements: one application is critical, and often comes with real-time requirements,
   while the other application is far less critical and it is typically based on Linux.
   Static partitioning is the best way to meet these requirements.<br><br>This talk
@@ -21,14 +21,14 @@ description: '> When developing embedded systems, it is common to have mixed-cri
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-512.png
-session_attendee_num: '2'
+session_attendee_num: '3'
 session_id: BKK19-512
 session_room: Session Room 2 (Lotus 3-4)
 session_slot:
   end_time: '2019-04-05 23:55:00'
   start_time: '2019-04-05 23:30:00'
 session_speakers:
-- speaker_bio: '> '
+- speaker_bio: ''
   speaker_company: Xilinx
   speaker_image: /assets/images/speakers/placeholder.png
   speaker_location: ''

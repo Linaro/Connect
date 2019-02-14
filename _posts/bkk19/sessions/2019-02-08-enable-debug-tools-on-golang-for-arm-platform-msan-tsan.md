@@ -1,7 +1,7 @@
 ---
 categories:
 - bkk19
-description: '> Uninitialized memory can cause unpredict behavior and be hard to reproduce.
+description: Uninitialized memory can cause unpredict behavior and be hard to reproduce.
   Also Race conditions are among the most insidious and elusive programming errors.
   They typically cause erratic and mysterious failures, often long after the code
   has been deployed to production. Developers need to pay a lot of effort on testing
@@ -15,7 +15,7 @@ description: '> Uninitialized memory can cause unpredict behavior and be hard to
   and is a part of compiler-rt in LLVM.<br /> <br /> In this presentation I will share<br
   /> 1, What are MemorySanitizer and ThreadSanitizer<br /> 2, The algorithms of the
   two detectors<br /> 3, The relationship between them and LLVM<br /> 4, How to port
-  them into Golang on arm64<br /> 5, The example used in Golang'
+  them into Golang on arm64<br /> 5, The example used in Golang
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-102.png
@@ -26,7 +26,7 @@ session_slot:
   end_time: '2019-04-01 14:25:00'
   start_time: '2019-04-01 14:00:00'
 session_speakers:
-- speaker_bio: '> Work on Golang for enabling arm port, performance optimization etc.'
+- speaker_bio: Work on Golang for enabling arm port, performance optimization etc.
   speaker_company: ''
   speaker_image: /assets/images/speakers/bkk19/fangming-fang-arm-technology-china.jpg
   speaker_location: ''

@@ -1,7 +1,7 @@
 ---
 categories:
 - bkk19
-description: '> The Vanguard program looks to expand the potential technology choices
+description: The Vanguard program looks to expand the potential technology choices
   for leadership class High Performance Computing (HPC) platforms, not only for the
   National Nuclear Security Administration (NNSA) and the Department of Energy (DOE),
   but also for the wider HPC community. Specifically, there is a need to expand the
@@ -13,18 +13,18 @@ description: '> The Vanguard program looks to expand the potential technology ch
   of Astra, as well as the Advanced Tri-Lab Software Environment (ATSE) and significant
   investments being made towards the ARM software ecosystem. Furthermore, we will
   share initial performance results, first experiences, and outlay several planned
-  research activities.'
+  research activities.
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-218.png
-session_attendee_num: '4'
+session_attendee_num: '5'
 session_id: BKK19-218
 session_room: Session Room 1 (Lotus 1-2)
 session_slot:
   end_time: '2019-04-02 12:55:00'
   start_time: '2019-04-02 12:30:00'
 session_speakers:
-- speaker_bio: '> Andrew Younge is a Computer Scientist at Sandia National Laboratories
+- speaker_bio: Andrew Younge is a Computer Scientist at Sandia National Laboratories
     with the Scalable System Software group. His research interests include High Performance
     Computing, Virtualization, Distributed Systems, and energy efficient computing.
     The central focal point of Andrew’s work is to improve the usability and efficiency
@@ -34,14 +34,14 @@ session_speakers:
     held visiting positions at the MITRE Corporation, the University of Southern California
     / Information Sciences Institute, and the University of Maryland, College Park.
     He received his Bachelors and Masters of Science from the Computer Science Department
-    at Rochester Institute of Technology (RIT) in 2008 and 2010, respectively.'
+    at Rochester Institute of Technology (RIT) in 2008 and 2010, respectively.
   speaker_company: Sandia National Laboratories
   speaker_image: /assets/images/speakers/bkk19/andrew-younge.jpg
   speaker_location: ''
   speaker_name: Andrew Younge
   speaker_position: Computer Scientist
   speaker_username: ajyoung1
-- speaker_bio: '> '
+- speaker_bio: ''
   speaker_company: ''
   speaker_image: /assets/images/speakers/placeholder.png
   speaker_location: ''

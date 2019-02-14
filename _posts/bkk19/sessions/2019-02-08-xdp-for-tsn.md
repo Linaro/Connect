@@ -1,12 +1,12 @@
 ---
 categories:
 - bkk19
-description: '> ne of the challenging tasks of TSN (Time-Sensitive Networking) is
-  it’s low latency and bounded jitter strict requirements. Although XDP (eXpress Data
-  Path) does not offer any jitter guarantees it offers significantly lower latency,
-  by offloading traffic off the kernel and directly into user-space sockets (AF_XDP),
-  compared to the linux kernel network stack. This talk is about a brief XDP introduction
-  and the latency numbers we got on our initial tests.'
+description: ne of the challenging tasks of TSN (Time-Sensitive Networking) is it’s
+  low latency and bounded jitter strict requirements. Although XDP (eXpress Data Path)
+  does not offer any jitter guarantees it offers significantly lower latency, by offloading
+  traffic off the kernel and directly into user-space sockets (AF_XDP), compared to
+  the linux kernel network stack. This talk is about a brief XDP introduction and
+  the latency numbers we got on our initial tests.
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-119.png
@@ -17,7 +17,7 @@ session_slot:
   end_time: '2019-04-01 16:55:00'
   start_time: '2019-04-01 16:30:00'
 session_speakers:
-- speaker_bio: '> Linux kernel developer with a taste for networking and performance'
+- speaker_bio: Linux kernel developer with a taste for networking and performance
   speaker_company: Linaro
   speaker_image: /assets/images/speakers/bkk19/ilias-apalodimas.jpg
   speaker_location: ''

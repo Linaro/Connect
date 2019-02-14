@@ -8,7 +8,7 @@ description: From hardware to the application layer and everything in between. F
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-302.png
-session_attendee_num: '5'
+session_attendee_num: '8'
 session_id: BKK19-302
 session_room: 'Keynote Room (World Ballroom BC) '
 session_slot:

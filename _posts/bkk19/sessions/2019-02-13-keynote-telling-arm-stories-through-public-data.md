@@ -11,7 +11,7 @@ description: Theres a lot of data relevant to the ARM world living in public dat
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-K300.png
-session_attendee_num: '9'
+session_attendee_num: '12'
 session_id: BKK19-K300
 session_room: 'Keynote Room (World Ballroom BC) '
 session_slot:

@@ -1,7 +1,7 @@
 ---
 categories:
 - bkk19
-description: '> Cameras are complex devices that need heavy hardware image processing
+description: Cameras are complex devices that need heavy hardware image processing
   operations. Control of the processing is based on advanced algorithms that must
   run on a programmable processor. This has traditionally been implemented in a dedicated
   MCU in the camera, but in embedded devices algorithms have been moved to the main
@@ -15,7 +15,7 @@ description: '> Cameras are complex devices that need heavy hardware image proce
   libcamera architecture, and how it applies to embedded ARM devices. We will look
   at how vendors and developers can use the stack to their advantage, the areas they
   can contribute to, the benefits the stack will bring to them, and how they can influence
-  the design.'
+  the design.
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-504.png
@@ -26,12 +26,12 @@ session_slot:
   end_time: '2019-04-05 09:25:00'
   start_time: '2019-04-05 09:00:00'
 session_speakers:
-- speaker_bio: '> Kieran Bingham is an embedded software engineer working with Ideas
+- speaker_bio: Kieran Bingham is an embedded software engineer working with Ideas
     on Board and specialising in Linux kernel developments with a focus on media related
     subsystems.<br><br>Kieran has worked with embedded Linux systems for over 12 years
     through professional service companies and silicon vendors and now focuses on
     upstream-first projects.<br><br>He has previously presented at the Embedded Linux
-    Conference (North America) and Automotive Linux Summit (Japan).'
+    Conference (North America) and Automotive Linux Summit (Japan).
   speaker_company: Ideas on Board
   speaker_image: /assets/images/speakers/bkk19/kieran-bingham.jpg
   speaker_location: ''

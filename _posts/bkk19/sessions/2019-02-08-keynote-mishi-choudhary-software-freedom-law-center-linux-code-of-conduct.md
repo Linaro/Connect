@@ -1,7 +1,7 @@
 ---
 categories:
 - bkk19
-description: '> A fundamental change is happening in the way software is made in the<br>FOSS
+description: A fundamental change is happening in the way software is made in the<br>FOSS
   communities in the 21st century. These communities are now mature<br>and the people
   who work there understand their work place differently.<br>Over a decade and a half
   as more and more companies employ developers to<br>contribute to FOSS and the communities
@@ -13,7 +13,7 @@ description: '> A fundamental change is happening in the way software is made in
   that govern themselves and dont<br>like suits. It will explore ways of &nbsp;managing
   legal risk by drafting<br>codes of conduct addressing bias, creating a frictionless
   reporting<br>mechanism for legal incident response, and making the project a fun,<br>inclusive
-  productive place.'
+  productive place.
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-K500.png
@@ -24,7 +24,7 @@ session_slot:
   end_time: '2019-04-05 10:30:00'
   start_time: '2019-04-05 10:00:00'
 session_speakers:
-- speaker_bio: '> Legal Director, Software Freedom Law Center'
+- speaker_bio: Legal Director, Software Freedom Law Center
   speaker_company: Software Freedom Law Center (SFLC)
   speaker_image: /assets/images/speakers/bkk19/mishi-choudhary.jpg
   speaker_location: New York City/ New Delhi

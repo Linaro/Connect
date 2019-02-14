@@ -1,7 +1,7 @@
 ---
 categories:
 - bkk19
-description: '> It can be a rather complicated task to deploy optimized power management
+description: It can be a rather complicated task to deploy optimized power management
   (PM) support in a driver in Linux. There are several PM frameworks and corresponding
   function callbacks available per device, which the driver developer needs detailed
   knowledge about. Particularly, when the goal is to reach the best energy efficient
@@ -15,7 +15,7 @@ description: '> It can be a rather complicated task to deploy optimized power ma
   at it, both from the PM domain and the driver point of view.<br /> <br /> Moreover,
   to deploy fine grained PM support, the session gives some best practices of how
   to use runtime PM and the generic PM domain frameworks, as well as looks into how
-  to implement support for called wakeup interrupts.'
+  to implement support for called wakeup interrupts.
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-115.png
@@ -26,13 +26,13 @@ session_slot:
   end_time: '2019-04-01 16:55:00'
   start_time: '2019-04-01 16:00:00'
 session_speakers:
-- speaker_bio: '> Ulf has a very long experience of using Linux and has been contributing
+- speaker_bio: Ulf has a very long experience of using Linux and has been contributing
     the Linux kernel development for many years by now. He maintains the MMC subsystem
     and the generic PM domain in the Linux kernel, but also spends lots of time reviewing
     various changes related to power management and to their corresponding frameworks.<br><br>Moreover,
     Ulf has a background in real-time and embedded systems. He also has an in-depth
     knowledge about flash memory technologies, such as NAND and NOR.<br><br>Ulf is
-    working for Linaro and specializing in power management.'
+    working for Linaro and specializing in power management.
   speaker_company: Linaro
   speaker_image: /assets/images/speakers/bkk19/ulf-hansson.jpg
   speaker_location: ''

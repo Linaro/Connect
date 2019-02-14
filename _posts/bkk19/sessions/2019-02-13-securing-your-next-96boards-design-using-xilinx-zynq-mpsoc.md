@@ -8,7 +8,7 @@ description: Learn how to take advantage of the built-in security features of th
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-305.png
-session_attendee_num: '6'
+session_attendee_num: '8'
 session_id: BKK19-305
 session_room: 'Keynote Room (World Ballroom BC) '
 session_slot:

@@ -1,8 +1,8 @@
 ---
 categories:
 - bkk19
-description: '> This session will describe the OpenAMP libmetal shared memory API.
-  The talk will include the interface default backend implementation in Linux system'
+description: This session will describe the OpenAMP libmetal shared memory API. The
+  talk will include the interface default backend implementation in Linux system
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-111.png
@@ -13,7 +13,7 @@ session_slot:
   end_time: '2019-04-01 15:25:00'
   start_time: '2019-04-01 15:00:00'
 session_speakers:
-- speaker_bio: '> OpenAMP, Linux kernel, Embedded system'
+- speaker_bio: OpenAMP, Linux kernel, Embedded system
   speaker_company: ''
   speaker_image: /assets/images/speakers/bkk19/wendy-liang.jpg
   speaker_location: ''

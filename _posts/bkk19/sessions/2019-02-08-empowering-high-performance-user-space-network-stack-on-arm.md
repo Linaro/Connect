@@ -1,7 +1,7 @@
 ---
 categories:
 - bkk19
-description: '> DPDK has lower layer high performance packet processing functionalities
+description: DPDK has lower layer high performance packet processing functionalities
   which surpasses the kernel. Kernel bypass can avoid performance bottlenecks caused
   by kernel packet copy, thread scheduling, system calls and interrupt. The user space
   TCP/IP stack provides much higher networking performance, flexible socket configuration,
@@ -17,7 +17,7 @@ description: '> DPDK has lower layer high performance packet processing function
   /> 4. Detailed comparisons between most currently available TCP/IP stacks on arm;<br
   /> 5. The technical mechanism to enable F-Stack working as an independant user space
   network library to enable fast application integration;<br /> 6. Future work on
-  use space TCP/IP stack for arm'
+  use space TCP/IP stack for arm
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-418.png
@@ -28,12 +28,12 @@ session_slot:
   end_time: '2019-04-04 12:55:00'
   start_time: '2019-04-04 12:30:00'
 session_speakers:
-- speaker_bio: '> Zijin Tao is a Ph.D in Computer Networking, who has worked in this
+- speaker_bio: Zijin Tao is a Ph.D in Computer Networking, who has worked in this
     area for more than 15 years. He has worked as a network engineer in research institute
     of university for more than 10 years. Then he worked in IBM for almost 5 years
     for SDN and Cloud Networking. <br /> Now he is working in Arm as an Staff Software
     Engineer, mainly on networking infrastructure open source projects.<br /> Zijin
-    Tao has filed more than 10 patents and papers in Computer Networking.'
+    Tao has filed more than 10 patents and papers in Computer Networking.
   speaker_company: arm
   speaker_image: /assets/images/speakers/bkk19/trevor-tao.jpg
   speaker_location: Shanghai, China

@@ -24,7 +24,7 @@ description: 'DescriptionThis presentation is a report on the last improvements 
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-509.png
-session_attendee_num: '3'
+session_attendee_num: '7'
 session_id: BKK19-509
 session_room: Session Room 3 (Lotus 10)
 session_slot:
@@ -71,6 +71,9 @@ session_speakers:
 session_track: Linux Kernel
 tag: session
 tags:
-- Power Management
+- Boot Architecture
+- Security
+- Networking
+- Industrial
 title: 'BFQ I/O scheduler: more throughput, control and efficiency'
 ---

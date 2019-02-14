@@ -1,9 +1,9 @@
 ---
 categories:
 - bkk19
-description: '> Edge computing poses some unique security challenges, from preventive
+description: Edge computing poses some unique security challenges, from preventive
   measures to how to detect and recover from compromised nodes. This talk explores
-  these challenges as well as emerging strategies for addressing them.'
+  these challenges as well as emerging strategies for addressing them.
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-205.png
@@ -14,7 +14,7 @@ session_slot:
   end_time: '2019-04-02 09:25:00'
   start_time: '2019-04-02 09:00:00'
 session_speakers:
-- speaker_bio: '> To be filled in'
+- speaker_bio: To be filled in
   speaker_company: Linaro Inc
   speaker_image: /assets/images/speakers/bkk19/bill-fischofer.jpg
   speaker_location: ''

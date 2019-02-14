@@ -1,9 +1,9 @@
 ---
 categories:
 - bkk19
-description: '> KernelCI recently switched to dockerized builds, find out what abilities
+description: KernelCI recently switched to dockerized builds, find out what abilities
   this brings to kernelci and how you can repeat these builds easily on your development
-  madchine'
+  madchine
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-508.png
@@ -14,7 +14,7 @@ session_slot:
   end_time: '2019-04-05 11:25:00'
   start_time: '2019-04-05 11:00:00'
 session_speakers:
-- speaker_bio: '> '
+- speaker_bio: ''
   speaker_company: ''
   speaker_image: /assets/images/speakers/placeholder.png
   speaker_location: ''

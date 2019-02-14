@@ -1,7 +1,7 @@
 ---
 categories:
 - bkk19
-description: '> Tutorial and Hands-on Accelerating AI Inference For Edge and IoT <br
+description: Tutorial and Hands-on Accelerating AI Inference For Edge and IoT <br
   /> <br /> Applications involving voluminous data but needing low-latency computation
   and local feedback require that the computing be performed as close to the data
   source as possible --- often at the interface to the physical world. Communication
@@ -35,7 +35,7 @@ description: '> Tutorial and Hands-on Accelerating AI Inference For Edge and IoT
   Glow and TVM<br /> <br /> Hardware for Edge-computing and Machine Learning<br />
   CPU<br /> NPU<br /> DSP<br /> Compilation approaches for Deep Learning<br /> <br
   /> Project on building YOLO3 Object Detection<br /> <br /> Computer Vision at the
-  Edge using ConvNet (MobileNet)<br />'
+  Edge using ConvNet (MobileNet)<br />
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-408.png
@@ -46,7 +46,7 @@ session_slot:
   end_time: '2019-04-04 11:55:00'
   start_time: '2019-04-04 11:00:00'
 session_speakers:
-- speaker_bio: '> Gaurav works in ML SIG as Tech Lead.'
+- speaker_bio: Gaurav works in ML SIG as Tech Lead.
   speaker_company: ''
   speaker_image: /assets/images/speakers/bkk19/gaurav-kaul.jpg
   speaker_location: ''

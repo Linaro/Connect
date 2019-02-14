@@ -1,8 +1,8 @@
 ---
 categories:
 - bkk19
-description: '> The future is an intelligent digital world, where everything is to
-  be sensible, connected to the cloud and AI enabled. That brings huge amount of information,
+description: The future is an intelligent digital world, where everything is to be
+  sensible, connected to the cloud and AI enabled. That brings huge amount of information,
   and the relative calculation power<br>requirements. However the scenarios for computing
   applications are varied. The diversity of applications and the resulting data are
   also diverse. Diverse applications produce diverse data,<br>including text, images,
@@ -13,18 +13,18 @@ description: '> The future is an intelligent digital world, where everything is 
   be greatly improved, ARM architecture is moving toward edge computing and data centers
   from the end, however an open ecosystem is critical for this leap.<br>In this presentation
   Huawei will share their opinion and plans on how to build an open, competitive and
-  win-win ARM data center ecosystem with industry partners.'
+  win-win ARM data center ecosystem with industry partners.
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-K200.png
-session_attendee_num: '15'
+session_attendee_num: '16'
 session_id: BKK19-K200
 session_room: 'Keynote Room (World Ballroom BC) '
 session_slot:
   end_time: '2019-04-02 10:25:00'
   start_time: '2019-04-02 10:00:00'
 session_speakers:
-- speaker_bio: '> Vice President of Huawei IT Product Line'
+- speaker_bio: Vice President of Huawei IT Product Line
   speaker_company: ''
   speaker_image: /assets/images/speakers/bkk19/wu-zhan-huawei.jpg
   speaker_location: ''

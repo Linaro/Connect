@@ -1,7 +1,7 @@
 ---
 categories:
 - bkk19
-description: '> KernelCI generates daily an average of two thousand Linux Kernel builds,
+description: KernelCI generates daily an average of two thousand Linux Kernel builds,
   submitted to several labs across planet to mainly check if system booting works
   correctly. Therefore tons of data are created and displayed on a frontend interface
   for further use. Current KernelCI requires significant technical effort changing
@@ -9,7 +9,7 @@ description: '> KernelCI generates daily an average of two thousand Linux Kernel
   seeks to apply state-of-the-art data collection and data visualization tools as
   an alternative frontend to KernelCI. Our focus is on an instance of ElasticSearch,
   Logstash, and Kibana collecting and displaying live KernelCI data. All the tooling
-  used to this project will be available.'
+  used to this project will be available.
 future_image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-219.png
@@ -20,9 +20,9 @@ session_slot:
   end_time: '2019-04-02 12:55:00'
   start_time: '2019-04-02 12:30:00'
 session_speakers:
-- speaker_bio: '> Software Engineer at Linaro, having several years in web world in
-    Java, Python and PHP. Involved in open source development since 2014. Worked at
-    NIST as software security researcher, specifically in static code analysis'
+- speaker_bio: Software Engineer at Linaro, having several years in web world in Java,
+    Python and PHP. Involved in open source development since 2014. Worked at NIST
+    as software security researcher, specifically in static code analysis
   speaker_company: Linaro
   speaker_image: /assets/images/speakers/bkk19/charles-daniel-de-oliveira.jpg
   speaker_location: ''
