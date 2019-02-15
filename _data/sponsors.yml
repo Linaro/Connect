@@ -4,17 +4,22 @@
 - name: Arm
   type: lead
   image: arm.jpg
-  event: yvr18
+  events: yvr18, bkk19
   url: https://www.linaro.org/company/arm/
+- name: Arrow and Shiratech
+  type: lead
+  events: bkk19
+  image: arrow-shiratech.jpg
+  url: https://www.linaro.org/company/arrow/
 - name: Arrow
   type: sponsor
   image: arrow.jpg
-  event: yvr18
+  events: yvr18
   url: https://www.linaro.org/company/arrow/
 - name: Avnet
   type: sponsor 
   image: avnet.png
-  event: yvr18
+  events: yvr18
   class: p-t-20 p-b-20
   url: https://www.linaro.org/company/avnet/
 - name: Canonical
@@ -35,17 +40,22 @@
 - name: Redhat
   image: redhat.jpg
   url: https://www.redhat.com/en
+  events: bkk19
 - name: Tocoding
   image: tocoding.jpg
   url: https://www.linaro.org/company/tocoding/
 - name: Shiratech
   type: sponsor
   image: shiratech.png
-  event: yvr18
+  events: yvr18
   url: http://www.shiratech-solutions.com/
 - name: Xilinx
   type: sponsor
   image: xilinx.jpg
-  event: yvr18
+  events: yvr18
   url: https://www.linaro.org/company/xilinx/
-
+- name: Xilinx and Avnet
+  type: sponsor
+  image: xilinx-avnet.jpg
+  events: bkk19
+  url: https://www.linaro.org/company/xilinx/

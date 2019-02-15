@@ -3,13 +3,19 @@ title: Schedule for Linaro Connect Bangkok 2019
 description: >
     Here you can find an overview of what's happening during the week at Connect.
 permalink: /schedule/
-layout: container-breadcrumb
+layout: jumbotron
 jumbotron:
     triangle-divider: true
     animation: fade
     background-image: /assets/images/content/bkk19-bg.jpg
 ---
 <div class="row" id="schedule">
+    <div class="container no-padding">
+        <a id="sched-embed" href="//bkk19.sched.com/">View the Linaro Connect Bangkok schedule &amp; directory.</a>
+        <script type="text/javascript" src="//bkk19.sched.com/js/embed.js"></script>
+    </div>
+</div>
+<div class="row shadowed-row padded-row" id="overview-schedule">
     <div class="container no-padding">
         <h3 class="text-center">Overview Schedule</h3>
         <div class="row">
@@ -19,13 +25,15 @@ jumbotron:
                     <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="heading{{day.day_number}}">
                             <h4 class="panel-title text-center">
-                                <a role="button" data-toggle="collapse" data-parent="#accordion{{day.day_number}}" href="#accordion-collapse{{day.day_number}}"
-                                    aria-expanded="true" aria-controls="accordion-collapse{{day.day_number}}">
+                                <a role="button" data-toggle="collapse" data-parent="#accordion{{day.day_number}}"
+                                    href="#accordion-collapse{{day.day_number}}" aria-expanded="true"
+                                    aria-controls="accordion-collapse{{day.day_number}}">
                                     Day {{day.day_number}}: {{day.date}}
                                 </a>
                             </h4>
                         </div>
-                        <div id="accordion-collapse{{day.day_number}}" class="panel-collapse collapse dont-collapse-sm" role="tabpanel" aria-labelledby="heading{{day.day_number}}">
+                        <div id="accordion-collapse{{day.day_number}}" class="panel-collapse collapse dont-collapse-sm"
+                            role="tabpanel" aria-labelledby="heading{{day.day_number}}">
                             <div class="panel-body">
                                 <ul class="list-group">
                                     {% for slot in day.slots %}
@@ -42,6 +50,10 @@ jumbotron:
             </div>
             {% endfor %}
         </div>
+    </div>
+</div>
+<div class="row" id="tsc-schedule">
+    <div class="container no-padding">
         <h3 class="text-center">The Linaro Technical Steering Committee Meetings Schedule</h3>
         <iframe width="100%" height="700px" 
         data-src="https://calendar.google.com/calendar/embed?src=so80ggb57tspjgucpqn1gort0s%40group.calendar.google.com&mode=AGENDA&ctz=Asia/Bangkok&dates=20190401%2F20190405"

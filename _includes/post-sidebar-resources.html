@@ -23,7 +23,23 @@
 </div>
 {% endif %}
 
-{% if page.speakers and page.speakers != "None" %}
+
+{% if page.session_speakers %}
+    {% for speaker in page.session_speakers %}
+        {% if speaker.speaker_position != "" and speaker.speaker_company != "" %}
+            {% capture speaker_tooltip %}
+                {{speaker.speaker_name}} - {{speaker.speaker_position}} at {{speaker.speaker_company}}
+            {% endcapture %}
+        {% else %}
+            {% assign speaker_tooltip = speaker.speaker_name %}
+        {% endif %}
+        <div class="col-xs-4 session-speaker"  data-toggle="tooltip" data-placement="top" title="{{speaker_tooltip}}">
+            <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+            data-src="{{speaker.speaker_image}}"
+            alt="{{speaker.speaker_name}} profile image"/>
+        </div>
+    {% endfor %}
+{% elsif page.speakers and page.speakers != "None" %}
 <div class="row">
     <div class="col-xs-12 attached-documents">
         <div class="list-group">
@@ -43,6 +59,8 @@
     </div>
 </div>
 {% endif %}
+
+
 {% if page.attached_documents %}
 <div class="row">
     <div class="col-xs-12 attached-documents">

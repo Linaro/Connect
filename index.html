@@ -2,7 +2,6 @@
 layout: jumbotron
 css-package: home
 js-package: home
-id: index
 title: Linaro Connect Bangkok 2019 (BKK19)
 description: |-
     Linaro Connect Bangkok 2019 (BKK19) will take place on Monday 1 April to Friday 5 April 2019
@@ -24,6 +23,9 @@ jumbotron:
         poster: /assets/images/content/bkk19-bg.jpg
     animation: fade
 home: true
+redirect_from:
+- /keynotes/bkk19/
+- /keynotes/
 ---
 <!-- Modal -->
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -49,13 +51,91 @@ home: true
         <a data-toggle="modal" href="/schedule/" class="btn btn-linaro-home">Schedule</a>
     </div>
 </div>
-<div class="row flex-row intro-row content-row padded-row-30">
+{% assign keynotes = site.keynotes | where: 'event', site.connect-code %}
+{% for keynote in keynotes %}
+    <div class="modal fade" id="{{keynote.event}}-{{forloop.index}}">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h3 class="modal-title">{{keynote.title}} - {{keynote.speaker.name}}</h3>
+                </div>
+                <div class="modal-body">
+                    {% if keynote.speaker.bio %}
+                    <h3>Bio</h3>
+                    <p>
+                        {{keynote.speaker.bio}}
+                    </p>
+                    {% endif %}
+                    {% if keynote.description %}
+                    <h3>Abstract</h3>
+                    <p>
+                        {{keynote.description}}
+                    </p>
+                    {% endif %}
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
+<div class="row content-row keynote-speakers padded-row-30 shadowed-row" id="keynotes">
+    <div class="container">
+        <h3 class="home-text text-center text-white m-b-50">Featured Keynote Speakers</h3>
+        <div class="owl-carousel owl-theme" id="keynote-slider">
+            {% for keynote in keynotes %}
+                <div class="item event-item keynote text-center">
+                    <img class="img-circle img-responsive center-block lazyload" data-src="{{keynote.image.path}}"
+                    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="  
+                    alt="{{keynote.speaker.name}} image"/>
+                    <h3>{{keynote.speaker.name}} {% if keynote.speaker.job-title %}/ {{keynote.speaker.job-title}}{% endif %}</h3>
+                    <a class="btn btn-primary more-info" data-toggle="modal" href='#{{keynote.event}}-{{forloop.index}}'>View Bio/Abstract</a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+<div class="row content-row" id="current-sponsors">
+    <div class="container">
+        <div class="row">
+            {% for sponsor in site.data.sponsors %}
+            {% assign connect-code = site.connect-code | downcase %}
+            {% if sponsor.events contains connect-code %}
+            {% if sponsor.type == "lead" %}
+            <div class="col-xs-6 col-sm-3  text-center lead-sponsor">
+                <div class="sponsor">
+                    <h3> Lead Sponsor </h3>
+                    <a href="{{sponsor.url}}" target="_blank">
+                        <img class="{% if sponsor.class %}{{sponsor.class}}{% endif %}img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                            data-src="/assets/images/sponsors/{{sponsor.image}}" />
+                    </a>
+                </div>
+            </div>
+            {% else %}
+            <div class="col-xs-6 col-sm-3 text-center connect-sponsor">
+                <div class="sponsor">
+                    <h3> Sponsor </h3>
+                    <a href="{{sponsor.url}}" target="_blank">
+                        <img class="{% if sponsor.class %}{{sponsor.class}}{% endif %} img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                            data-src="/assets/images/sponsors/{{sponsor.image}}" />
+                    </a>
+                </div>
+            </div>
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
+<div class="row flex-row intro-row content-row padded-row-30 shadowed-row">
     <div class="container">
         <p class="home-text text-white">
-            Every six months, leading hardware and software players in the Arm ecosystem come together at Linaro Connect to solve problems, identify issues and plan existing and future engineering collaboration. 
-        </p>
-        <p class="home-text text-white">
-            For a week, attendees enjoy a mix of industry keynotes, engineering discussions and collaborative hacking sessions. If you are interested in open source software development for Linux, tools and the various vertical segment ecosystems that use Arm processors, then this is the place to be.
+            Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of
+            engineering sessions and hacking at Linaro Connect. The next one will be held at the Grand Centara Hotel in Thailand,
+            Bangkok from Monday 1 April to Friday 5 April 2019.
         </p>
     </div>
 </div>
@@ -94,7 +174,7 @@ home: true
             and social media before, during and after the event.
         </p>
         <div class="sponsors">
-            {% for sponsor in site.data.previous-sponsors %}
+            {% for sponsor in site.data.sponsors %}
                 <div class="col-xs-6 col-sm-3 sponsor-col">
                     <a href="{{sponsor.url}}">
                         <img class="img-responsive lazyload {% if sponsor.class %}{{sponsor.class}}{% endif %}" data-src="/assets/images/sponsors/{{sponsor.image}}"
@@ -165,12 +245,12 @@ home: true
 <div class="row content-row" id="previous-links">
     <div class="container no-padding" style="margin-top:30px;">
         <div class="row">
-            <div class="col-xs-12 text-center fly">
+            <div class="col-xs-12 text-center text-center">
                 <h2>Connect Resources</h2>
             </div>
         </div>
         <div class="row">
-            <div class="col-md-4 fly">
+            <div class="col-md-4 text-center">
                 <div class="block" style="background: linear-gradient(
             rgba(0, 0, 0, 0.7), 
             rgba(0, 0, 0, 0.7)
@@ -179,10 +259,10 @@ home: true
                     <p>
                         See our photos from Connect.
                     </p>
-                    <a href="https://www.flickr.com/photos/linaroorg/sets/72157695573962940" class="btn btn-connect">View on Flickr</a>
+                    <a href="https://www.flickr.com/photos/linaroorg/sets/72157695573962940" class="btn btn-primary">View on Flickr</a>
                 </div>
             </div>
-            <div class="col-md-4 fly">
+            <div class="col-md-4 text-center">
                 <div class="block" style="background: linear-gradient(
             rgba(0, 0, 0, 0.7), 
             rgba(0, 0, 0, 0.7)
@@ -191,10 +271,10 @@ home: true
                     <p>
                         View the {{site.previous-connect-code}} resources.
                     </p>
-                    <a href="/resources/{{site.previous-connect-code | downcase }}/" class="btn btn-connect">View Resources</a>
+                    <a href="/resources/{{site.previous-connect-code | downcase }}/" class="btn btn-primary">View Resources</a>
                 </div>
             </div>
-            <div class="col-md-4 fly">
+            <div class="col-md-4 text-center">
                 <div class="block" style="background: linear-gradient(
             rgba(0, 0, 0, 0.7), 
             rgba(0, 0, 0, 0.7)
@@ -203,7 +283,7 @@ home: true
                     <p>
                         and announcments
                     </p>
-                    <a href="/resources/{{site.previous-connect-code | downcase }}/sessions/{{site.previous-connect-code | downcase }}-100k/" class="btn btn-connect">Watch Keynote</a>
+                    <a href="/resources/{{site.previous-connect-code | downcase }}/sessions/{{site.previous-connect-code | downcase }}-100k/" class="btn btn-primary">Watch Keynote</a>
                 </div>
             </div>
         </div>
