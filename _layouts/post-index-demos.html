@@ -13,7 +13,7 @@ js-package: resources-blog
 {% endfor %}
 <div class="col-md-9 no-padding" id="main-resources-content" event-id="{{current_connect}}">
     <div class="row">
-    {% if paginator.posts.length > 0 %}
+    {% if paginator.total_posts > 0 %}
         {% for post in paginator.posts %}
             <div class="col-md-4 col-sm-4 col-xs-12 no-padding">
                 <div class="resource-block">
