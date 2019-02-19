@@ -3,7 +3,7 @@ categories:
 - bkk19
 description: BoF to discuss current state of opensource GPU drivers on ARM and plans
   for the future.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-410.png
 session_attendee_num: '12'

@@ -5,7 +5,7 @@ description: Zephyr 1.14 is long-expected LTS (Long-Term Support) release for Ze
   RTOS project. A lot of effort went both into extending networking support for it
   and making it stable. This session discusses both things which fit and didnt into
   the LTS release.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-113.png
 session_attendee_num: '7'

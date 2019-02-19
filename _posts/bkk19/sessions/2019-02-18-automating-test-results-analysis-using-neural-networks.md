@@ -7,7 +7,7 @@ description: Test results triage is the most time-consuming step currently in Te
   multiple points of failure. <br /> This work uses a neural network to classify test
   results automatically and to detect real regressions. It helps scaling TIs validation
   cycle by automating the most time-consuming step.<br />
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-416.png
 session_attendee_num: '8'
@@ -24,7 +24,7 @@ session_speakers:
   speaker_image: /assets/images/speakers/bkk19/carlos-hernandez.jpg
   speaker_location: ''
   speaker_name: Carlos Hernandez
-  speaker_position: Integration & Validation mgr at Texas Instruments
+  speaker_position: Integration & Validation mgr
   speaker_username: ceh2
 - speaker_bio: ''
   speaker_company: ''

@@ -16,7 +16,7 @@ description: Cloud Native is an approach to building and running applications th
   Mesh(NSM) enhancement for cloud native applications based on Contiv/VPP;<br /> 4.
   Cloud native applications fast deployment and service management;<br /> 5. Other
   cloud native networking solutions available on arm.<br />
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-414.png
 session_attendee_num: '4'

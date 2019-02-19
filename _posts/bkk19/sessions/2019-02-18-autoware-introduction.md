@@ -10,10 +10,10 @@ description: Autoware.AI was originally started in 2015 by Shinpei Kato at Nagoy
   in order to provide access to autonomous driving technology for everyone.<br />
   <br /> This talk will provide an introduction to the Autoware.AI software stack,
   as well as an in depth look into its modules.<br />
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-103.png
-session_attendee_num: '20'
+session_attendee_num: '21'
 session_id: BKK19-103
 session_room: Session Room 3 (Lotus 10)
 session_slot:

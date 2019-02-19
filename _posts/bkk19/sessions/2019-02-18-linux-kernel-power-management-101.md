@@ -6,7 +6,7 @@ description: A beginner overview of Linux Kernel Power and Thermal Management fe
   almost all major power management frameworks available today in Linux kernel. Additionally,
   this session also will aim to provide a brief introduction into Linux Kernel Thermal
   Management features.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-TR02.png
 session_attendee_num: '12'

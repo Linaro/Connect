@@ -10,10 +10,10 @@ description: The HPC segment is in the process of transforming from grid archite
   how providing a common foundation across all major computing architectures minimizes
   the impact of hardware decisions on user workloads and applications, and helps customers
   run with maximum performance in critical HPC environments.<br><br>
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-206.png
-session_attendee_num: '1'
+session_attendee_num: '2'
 session_id: BKK19-206
 session_room: 'Keynote Room (World Ballroom BC) '
 session_slot:

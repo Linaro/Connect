@@ -2,10 +2,10 @@
 categories:
 - bkk19
 description: Linaro Connect Bangkok opening keynote by Linaro CEO; Li Gong.<br><br><br>
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-100K.png
-session_attendee_num: '40'
+session_attendee_num: '41'
 session_id: BKK19-100K
 session_room: 'Keynote Room (World Ballroom BC) '
 session_slot:

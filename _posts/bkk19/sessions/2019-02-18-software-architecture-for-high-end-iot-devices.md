@@ -9,7 +9,7 @@ description: Arms Corstone-700 foundation IP offers a flexible compute architect
   components<br /> - TinyLinux for memory constrained devices<br /> - Inter processor
   communication frameworks<br /> - Secure boot flow and run time services<br /> -
   Yocto recipes for managing software configuration
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-509.png
 session_attendee_num: '11'

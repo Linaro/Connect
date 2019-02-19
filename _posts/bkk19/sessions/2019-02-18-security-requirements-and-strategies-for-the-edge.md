@@ -4,10 +4,10 @@ categories:
 description: Edge computing poses some unique security challenges, from preventive
   measures to how to detect and recover from compromised nodes. This talk explores
   these challenges as well as emerging strategies for addressing them.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-205.png
-session_attendee_num: '11'
+session_attendee_num: '12'
 session_id: BKK19-205
 session_room: Session Room 2 (Lotus 3-4)
 session_slot:

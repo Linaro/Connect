@@ -3,10 +3,10 @@ categories:
 - bkk19
 description: introduce the RAS architecture on AArch64, based on the ARMv8 RAS extensions,
   SDEI, MM Secure Patition and APEI, Sharing the latest update of the development.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-116.png
-session_attendee_num: '8'
+session_attendee_num: '9'
 session_id: BKK19-116
 session_room: 'Keynote Room (World Ballroom BC) '
 session_slot:

@@ -5,7 +5,7 @@ description: WarpDrive is a general accelerator framework for the user applicati
   to access the hardware without going through the kernel in data path.<br /> Huawei
   and Linaro are co-working together to develop warpdriver framework, which will be
   used in Hisilicon server chip Kunpeng 920.<br /> Will update latest status.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-401.png
 session_attendee_num: '0'

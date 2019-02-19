@@ -20,7 +20,7 @@ description: With special focus on new changes for arm64.<br><br>Debugging crash
   as kernel load address) will get randomized (due to KASLR).<br><br>This session
   will also talk about the new KEXEC_FILE_LOAD support which is available since kernel
   v5.0-rc1.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-106.png
 session_attendee_num: '12'

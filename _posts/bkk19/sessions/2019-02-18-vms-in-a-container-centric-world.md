@@ -14,7 +14,7 @@ description: While Virtual Machines have been around for many decades containers
   run times into specialised virtual machines. We will also discuss what else needs
   to be done to enable the ARM eco-system to take advantage of these two complimentary
   technologies.<br />
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-503.png
 session_attendee_num: '8'

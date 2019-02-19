@@ -17,7 +17,7 @@ description: This is a presentation on Dynamic Configuration and the associated 
   in AArch64 version of TF-A. It will also cover some limitations of the implemented
   `dynamic relocation fixup` code and some code patterns in the firmware which had
   to be changed to simplify the fixup code implementation.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-513.png
 session_attendee_num: '2'

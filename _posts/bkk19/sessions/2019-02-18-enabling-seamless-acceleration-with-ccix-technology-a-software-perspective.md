@@ -24,7 +24,7 @@ description: Machine Learning and Big Data applications are fundamentally changi
   up with a broad overview of ongoing efforts to enable CCIX in the existing ecosystems,
   and challenges thereof. We then solicit the audience’s suggestions on how these
   can be overcome in order to bring CCIX to full fruition in the Arm ecosystem.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-TR07.png
 session_attendee_num: '6'

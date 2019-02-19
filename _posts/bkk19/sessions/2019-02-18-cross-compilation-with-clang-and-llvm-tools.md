@@ -11,7 +11,7 @@ description: Clang and the LLVM tools promise to be a drop in replacement for gc
   as possible.<br /> - How to use clang when cross compiling with cmake.<br /> - How
   some existing open source projects use clang tools targeting Arm<br /> and AArch64.<br
   /> - Common problems encountered when using clang as a substitute for gcc.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-210.png
 session_attendee_num: '6'

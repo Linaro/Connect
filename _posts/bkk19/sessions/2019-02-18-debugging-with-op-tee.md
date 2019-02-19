@@ -9,7 +9,7 @@ description: Debugging trusted applications (and OP-TEE itself) can be difficult
   debug techniques used to debug secure applications. We will also look at how it
   is possible to implement function tracing to help solve problems, especially on
   platforms where JTAG debug is unavailable.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-419.png
 session_attendee_num: '8'

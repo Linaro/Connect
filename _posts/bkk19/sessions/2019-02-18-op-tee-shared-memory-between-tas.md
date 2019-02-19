@@ -5,7 +5,7 @@ description: This session will cover how the recently added feature with Trusted
   shared memory works.<br /> <br /> With this TAs can share of read-only code pages
   allowing efficient memory usage with several instances of the same TA or a common
   shared library.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-415.png
 session_attendee_num: '9'

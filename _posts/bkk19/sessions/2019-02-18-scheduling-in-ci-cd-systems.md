@@ -12,7 +12,7 @@ description: Modern CI/CD systems receive a wide variety of workloads, everythin
   of parallel compute capabilities. We identify several real-world systems - NixOSs
   "nixpkgs", the FreeBSD build system, the LLVM build farm, and others - to pick out
   some important considerations.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-412.png
 session_attendee_num: '12'

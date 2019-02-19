@@ -7,7 +7,7 @@ description: Trusted Firmware M is an open source implementation of Platform Sec
   TF-M to enable wider adoption. Two flavours of core design, concurrent context management,
   secure interrupt handling, multi-core support are just some of the hot issues on
   the plate.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-208.png
 session_attendee_num: '6'

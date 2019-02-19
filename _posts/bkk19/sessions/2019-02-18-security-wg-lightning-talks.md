@@ -4,7 +4,7 @@ categories:
 description: This is a general talk covering various topics and features that Security
   Working Group has been working with since the previous Connect. I.e., expect to
   hear more about the current status and what the future plan is for various topics.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-117.png
 session_attendee_num: '10'

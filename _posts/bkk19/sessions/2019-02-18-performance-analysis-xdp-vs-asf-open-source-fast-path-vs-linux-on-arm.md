@@ -5,7 +5,7 @@ description: This session will discuss about the performance and feature compari
   amongst the different data path implementations which includes native Linux data
   path vs the XDP vs a decade old open source data path implementation. All these
   performance comparison would be done on NXPs ARM core.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-405.png
 session_attendee_num: '2'

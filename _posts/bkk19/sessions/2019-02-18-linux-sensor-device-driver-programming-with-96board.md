@@ -5,7 +5,7 @@ description: o 5 min, ROHM, the company introduction<br>o 5 min, Basic for Senso
   UPM driver<br>o 5 min, Basic for Sensor Input driver and Android HAL driver<br>o
   5 min, Basic for Sensor IIO driver<br>o 10 min, Demo, Sensor UPM driver build and
   flash to 96Boards (Give away Sensor boards for 96Boards)<br><br>
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-318.png
 session_attendee_num: '2'

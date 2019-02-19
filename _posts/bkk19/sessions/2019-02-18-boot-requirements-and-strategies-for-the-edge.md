@@ -4,7 +4,7 @@ categories:
 description: Edge computing has some unique requirements and challenges in the boot
   area. We provide an overview of these, and the strategies available to meet those
   requirements.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-411.png
 session_attendee_num: '12'

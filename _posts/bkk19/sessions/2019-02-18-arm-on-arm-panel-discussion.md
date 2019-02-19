@@ -2,7 +2,7 @@
 categories:
 - bkk19
 description: To Be Provided
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-312.png
 session_attendee_num: '1'

@@ -16,7 +16,7 @@ description: Cameras are complex devices that need heavy hardware image processi
   at how vendors and developers can use the stack to their advantage, the areas they
   can contribute to, the benefits the stack will bring to them, and how they can influence
   the design.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-506.png
 session_attendee_num: '6'

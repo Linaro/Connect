@@ -5,7 +5,7 @@ description: From hardware to the application layer and everything in between. F
   IoT will package the Mozilla IoT "Things Gateway" framework and showcase it all
   being deployed on a variety of 96Boards! Find out more about this collaboration
   and how to get involved by attending this session.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-314.png
 session_attendee_num: '9'
@@ -44,7 +44,7 @@ session_speakers:
   speaker_image: /assets/images/speakers/bkk19/sahaj-sarup.jpg
   speaker_location: India
   speaker_name: Sahaj Sarup
-  speaker_position: Applications Engineer, 96Boards
+  speaker_position: Application Engineer
   speaker_username: sahaj.sarup
 session_track: 96Boards
 tag: session

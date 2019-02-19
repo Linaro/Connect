@@ -2,7 +2,7 @@
 categories:
 - bkk19
 description: PMWG Hacking Topic TBD
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-PM03.png
 session_attendee_num: '5'

@@ -15,7 +15,7 @@ description: IOT CUBE BOX – Shiratech First Indoor/Outdoor out of the Box IOT 
   Applications<br>• &nbsp; &nbsp;Gass Monitoring applications&nbsp;<br>• &nbsp; &nbsp;Home
   appliance – IOT devices<br>• &nbsp; &nbsp;Baby sense<br>• &nbsp; &nbsp;IOT Sensing
   applications<br>• &nbsp; &nbsp;Safe City /Smart City<br>• Home security
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-319.png
 session_attendee_num: '2'

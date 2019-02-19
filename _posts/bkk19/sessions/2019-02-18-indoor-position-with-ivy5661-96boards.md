@@ -6,7 +6,7 @@ description: IVY5661 is an IoT develop board manufactured uCRobotics. IVY5661 fo
   can be used in intelligent household, IP camera, repeater Wi-Fi amplifier, indoor
   positioning, etc. In this session, Id like to share something about indoor positioning
   feature on IVY5661.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-322.png
 session_attendee_num: '3'

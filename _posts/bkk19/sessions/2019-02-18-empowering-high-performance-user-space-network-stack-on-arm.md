@@ -18,7 +18,7 @@ description: DPDK has lower layer high performance packet processing functionali
   /> 5. The technical mechanism to enable F-Stack working as an independant user space
   network library to enable fast application integration;<br /> 6. Future work on
   use space TCP/IP stack for arm
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-418.png
 session_attendee_num: '5'

@@ -21,7 +21,7 @@ description: 'DescriptionThis presentation is a report on the last improvements 
   to turn some properties of these drives into BFQs advantage: we looked for costly
   optimizations that are no longer necessary with these drives. We found some, and
   added controls that automatically turn them off when not needed.'
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-510.png
 session_attendee_num: '8'

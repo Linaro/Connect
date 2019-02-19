@@ -7,7 +7,7 @@ description: 'The 96Boards team hosts a community-driven Open-Source mezzanine i
   about the community, including but not limited to:<br>1: Our partnership with GroupGets
   as a crowdfunding platform.<br>2: New boards released and/or published.<br>3: Future
   plans and goals.'
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-317.png
 session_attendee_num: '6'
@@ -23,7 +23,7 @@ session_speakers:
   speaker_image: /assets/images/speakers/bkk19/sahaj-sarup.jpg
   speaker_location: India
   speaker_name: Sahaj Sarup
-  speaker_position: Applications Engineer, 96Boards
+  speaker_position: Application Engineer
   speaker_username: sahaj.sarup
 session_track: 96Boards
 tag: session

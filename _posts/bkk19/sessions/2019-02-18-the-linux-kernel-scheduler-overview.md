@@ -3,7 +3,7 @@ categories:
 - bkk19
 description: This session will cover the basics of the Linux kernel scheduler. It
   has already been presented twice at previous connects.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-TR03.png
 session_attendee_num: '12'

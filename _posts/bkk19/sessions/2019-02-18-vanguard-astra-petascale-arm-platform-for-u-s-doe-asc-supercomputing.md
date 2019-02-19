@@ -14,7 +14,7 @@ description: The Vanguard program looks to expand the potential technology choic
   investments being made towards the ARM software ecosystem. Furthermore, we will
   share initial performance results, first experiences, and outlay several planned
   research activities.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-218.png
 session_attendee_num: '8'

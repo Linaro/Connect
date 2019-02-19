@@ -7,7 +7,7 @@ description: Are you a software engineer and have always wanted to do any of the
   peripheral set you need for your end application&nbsp;<br><br>This course offer
   a survey of the free-to-download resources available to help you get started down
   the path toward creating your own custom hardware on an Ultra96 board.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-325.png
 session_attendee_num: '6'

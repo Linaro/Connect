@@ -9,7 +9,7 @@ description: '"I could talk to you all day kernel debugging. Really! In fact I, 
   just the basic tools available in even tiny busybox distribution before expanding
   our toolkit very slightly by copying a couple of extra binaries onto the system
   under debug.'
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-TR04.png
 session_attendee_num: '16'

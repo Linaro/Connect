@@ -17,7 +17,7 @@ description: This session goes thru collaboration between TI, Linaro, Google and
   no regression thru triage support for expected project duration. --&gt; Future plan/
   Have plan for pastry,kernel migrations and collaborate across board on common feature
   development.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-413.png
 session_attendee_num: '4'

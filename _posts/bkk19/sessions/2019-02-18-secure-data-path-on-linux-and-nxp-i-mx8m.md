@@ -7,10 +7,10 @@ description: 'This session will present the various aspects of providing a Secur
   memory protections,<br /> - secure ION heaps for VPU and display,<br /> - ION integration
   in OP-TEE and in DRM implementations.<br /> On Linux, the implementation involves
   ION integration in OpenCDM and GStreamer.<br />'
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-201.png
-session_attendee_num: '6'
+session_attendee_num: '7'
 session_id: BKK19-201
 session_room: Session Room 2 (Lotus 3-4)
 session_slot:

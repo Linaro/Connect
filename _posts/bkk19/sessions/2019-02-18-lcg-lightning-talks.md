@@ -3,7 +3,7 @@ categories:
 - bkk19
 description: A medley of short talks about stuff that LCG has worked on since the
   past Connect.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-118.png
 session_attendee_num: '8'

@@ -10,7 +10,7 @@ description: Fuego is yet another automated test framework for Linux. But it is 
   testing.<br /> <br /> Tim will also share some of his vision for the future of open
   source testing, and what features of Fuego are being prototyped now to move towards
   that vision. (That is, Tim will share his Fuego roadmap.)<br />
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-407.png
 session_attendee_num: '11'

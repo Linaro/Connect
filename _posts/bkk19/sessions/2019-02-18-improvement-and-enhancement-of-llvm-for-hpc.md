@@ -7,7 +7,7 @@ description: LLVM has reached a sufficient level as a compiler for system progra
   we report our activities on register allocation,<br /> vectorization, and software
   pipelining for AArch 64.<br /> Also, we talk about some optimizations required to
   further<br /> improve the performance of HPC applications.<br />
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-214.png
 session_attendee_num: '3'

@@ -7,10 +7,10 @@ description: Linaro has been building on KernelCI to handle continuous integrati
   This helps ensure that Android and ChromeOS can reliably ship LTS branches of the
   kernel built with Clang. Come learn more about building Linux kernels with Clang,
   and how Linaro is helping enable this work via KernelCI.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-112.png
-session_attendee_num: '12'
+session_attendee_num: '13'
 session_id: BKK19-112
 session_room: Session Room 1 (Lotus 1-2)
 session_slot:

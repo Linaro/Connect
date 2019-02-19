@@ -14,11 +14,11 @@ description: The future is an intelligent digital world, where everything is to 
   from the end, however an open ecosystem is critical for this leap.<br>In this presentation
   Huawei will share their opinion and plans on how to build an open, competitive and
   win-win ARM data center ecosystem with industry partners.
-future_image:
+image:
   featured: 'true'
-  path: /assets/images/featured-images/bkk19/BKK19-200K.png
-session_attendee_num: '23'
-session_id: BKK19-200K
+  path: /assets/images/featured-images/bkk19/BKK19-200K1.png
+session_attendee_num: '24'
+session_id: BKK19-200K1
 session_room: 'Keynote Room (World Ballroom BC) '
 session_slot:
   end_time: '2019-04-02 10:25:00'

@@ -16,7 +16,7 @@ description: It can be a rather complicated task to deploy optimized power manag
   to deploy fine grained PM support, the session gives some best practices of how
   to use runtime PM and the generic PM domain frameworks, as well as looks into how
   to implement support for called wakeup interrupts.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-119.png
 session_attendee_num: '5'

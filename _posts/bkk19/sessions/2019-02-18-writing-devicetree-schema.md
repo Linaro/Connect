@@ -4,7 +4,7 @@ categories:
 description: Devicetree bindings are in the process of moving to a new structured
   schema format using json-schema. This session will give a brief status update and
   focus on how to write Devicetree bindings using json-schema.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-406.png
 session_attendee_num: '8'

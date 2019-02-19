@@ -8,10 +8,10 @@ description: Arm launched the ServerReady program at TechCon18. In addition to t
   to the Linaro community to participate in the development of the SBMG and enhance
   the OpenBMC project as its reference implementation. SBMG is one of the main focus
   areas of development in the ServerReady program for 2019.<br />
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-109.png
-session_attendee_num: '8'
+session_attendee_num: '9'
 session_id: BKK19-109
 session_room: 'Keynote Room (World Ballroom BC) '
 session_slot:

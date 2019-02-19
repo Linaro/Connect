@@ -4,7 +4,7 @@ categories:
 description: KernelCI recently switched to dockerized builds, find out what abilities
   this brings to kernelci and how you can repeat these builds easily on your development
   madchine
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-508.png
 session_attendee_num: '8'

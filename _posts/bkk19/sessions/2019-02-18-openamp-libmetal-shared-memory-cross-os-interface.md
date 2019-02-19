@@ -3,10 +3,10 @@ categories:
 - bkk19
 description: This session will describe the OpenAMP libmetal shared memory API. The
   talk will include the interface default backend implementation in Linux system
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-111.png
-session_attendee_num: '6'
+session_attendee_num: '7'
 session_id: BKK19-111
 session_room: Session Room 3 (Lotus 10)
 session_slot:

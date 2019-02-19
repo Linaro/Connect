@@ -8,7 +8,7 @@ description: LAVA is at the same time supporting a wide range of devices and mai
   tests are spread across multiple labs, owned by the community members, with a variety
   of community hardware.<br /> <br /> The goal of this presentation is to help community
   members to jump in and participate to this common effort.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-212.png
 session_attendee_num: '8'

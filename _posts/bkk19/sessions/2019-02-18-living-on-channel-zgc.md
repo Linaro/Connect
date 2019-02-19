@@ -4,7 +4,7 @@ categories:
 description: There is a new experimental garbage collector to OpenJDK on AArch64.
   Here Ill describe the ZGC algorithm, how it is different, along with how it is different
   on AArch64.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-404.png
 session_attendee_num: '3'

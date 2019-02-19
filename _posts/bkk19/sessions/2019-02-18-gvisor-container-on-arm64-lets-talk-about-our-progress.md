@@ -11,10 +11,10 @@ description: Google has released gVisor in 9 months ago, a new kind of sandbox t
   making it simple to run sandboxed container.<br /> <br /> Now, we have enabled gVisor
   ptrace platform on Arm64 platform. In this presentation, we will introduce and show
   our progress. <br /> Also we will show a demo of gVisor on Arm64 platform.<br />
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-105.png
-session_attendee_num: '7'
+session_attendee_num: '8'
 session_id: BKK19-105
 session_room: 'Keynote Room (World Ballroom BC) '
 session_slot:

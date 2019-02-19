@@ -8,7 +8,7 @@ description: Evaluating Android applications with out downloading them on the de
   This talk is to share the fundamentals of building Android to boot on Docker containers
   by leveraging open source projects, the unaddressed gaps in the current offering
   and how to go about addressing these gaps with limited knowledge of Docker containers.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-115.png
 session_attendee_num: '5'

@@ -7,7 +7,7 @@ description: The interrupt prediction is an alternate approach to choose the idl
   we have to use a fast algorithm to find out the best idle state to use.<br /> The
   presentation will describe the algorithm to extract the pattern repetitions of an
   interrupt, the mix with the other events and the challenges to measure the timings.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-209.png
 session_attendee_num: '7'

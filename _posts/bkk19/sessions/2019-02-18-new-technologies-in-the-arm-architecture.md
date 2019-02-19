@@ -11,10 +11,10 @@ description: The Arm Architecture is continually evolving as new features and en
   taking place, and the future development needs for the wider ecosystem, to ensure
   that software is in place and ready to support these features when the devices become
   available.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-202.png
-session_attendee_num: '18'
+session_attendee_num: '19'
 session_id: BKK19-202
 session_room: Session Room 3 (Lotus 10)
 session_slot:

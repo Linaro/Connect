@@ -7,7 +7,7 @@ description: 'This session describes about SMP Development on ARM boards <br />B
   with ARM &amp; Platform dependent&nbsp; and passing through all kernel facilities
   &amp; identifying code relates to platform dependent for SMP intilization and trace
   the complete code for all SMP Cores Intilization.<br /><br />&nbsp;<br />'
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-301.png
 session_attendee_num: '6'

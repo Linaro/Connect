@@ -16,7 +16,7 @@ description: Uninitialized memory can cause unpredict behavior and be hard to re
   /> 1, What are MemorySanitizer and ThreadSanitizer<br /> 2, The algorithms of the
   two detectors<br /> 3, The relationship between them and LLVM<br /> 4, How to port
   them into Golang on arm64<br /> 5, The example used in Golang
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-102.png
 session_attendee_num: '6'

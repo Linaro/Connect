@@ -10,7 +10,7 @@ description: As deep learning (DL) expands is application into ever more areas, 
   it will highlight the recent trends in this area from runtimes and compilers, to
   model formats, and explore the challenges, and scalability needs of collaborative
   solutions.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-402.png
 session_attendee_num: '8'

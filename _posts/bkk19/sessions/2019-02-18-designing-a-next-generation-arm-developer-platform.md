@@ -10,7 +10,7 @@ description: 'There has been a lot of discussion in the ARM community on twitter
   available, and a finished product. Join us to hear what we have found, and provide
   your feedback for what you would want to see in such a product. We wont solve everyones
   problems, but were hoping to get something that can be an excellent first step.'
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-302.png
 session_attendee_num: '15'
@@ -56,7 +56,7 @@ session_speakers:
   speaker_image: /assets/images/speakers/bkk19/sahaj-sarup.jpg
   speaker_location: India
   speaker_name: Sahaj Sarup
-  speaker_position: Applications Engineer, 96Boards
+  speaker_position: Application Engineer
   speaker_username: sahaj.sarup
 session_track: Arm on Arm
 tag: session

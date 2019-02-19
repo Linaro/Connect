@@ -7,11 +7,11 @@ description: Everybody wants to be digital. But getting there can be an interest
   source play together in such an environment?<br>And how are industry alliances and
   communities fitting in with this? Some tales from the coal face will be shared to
   illustrate this.
-future_image:
+image:
   featured: 'true'
-  path: /assets/images/featured-images/bkk19/BKK19-300K.png
+  path: /assets/images/featured-images/bkk19/BKK19-400K1.png
 session_attendee_num: '23'
-session_id: BKK19-300K
+session_id: BKK19-400K1
 session_room: 'Keynote Room (World Ballroom BC) '
 session_slot:
   end_time: '2019-04-04 10:30:00'

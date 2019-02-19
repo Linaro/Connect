@@ -2,7 +2,7 @@
 categories:
 - bkk19
 description: Details TBD
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-300K2.png
 session_attendee_num: '17'

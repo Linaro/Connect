@@ -4,7 +4,7 @@ categories:
 description: Hosted by the Board chairs for the Trusted Firmware community project,
   this will be an update of development progress for Trusted Firmware M and Trusted
   Firmware A
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-216.png
 session_attendee_num: '8'

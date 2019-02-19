@@ -5,7 +5,7 @@ description: Recently up-streamed changes to OP-TEE allow a board-port to provid
   a DTB overlay in-memory to be merged into a main DTB by a later boot phase.<br />
   This would be a brief description of how that works and why you might want to consider
   it for your project.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-403.png
 session_attendee_num: '6'

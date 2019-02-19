@@ -14,11 +14,11 @@ description: A fundamental change is happening in the way software is made in th
   legal risk by drafting<br>codes of conduct addressing bias, creating a frictionless
   reporting<br>mechanism for legal incident response, and making the project a fun,<br>inclusive
   productive place.
-future_image:
+image:
   featured: 'true'
-  path: /assets/images/featured-images/bkk19/BKK19-500K.png
+  path: /assets/images/featured-images/bkk19/BKK19-500K1.png
 session_attendee_num: '23'
-session_id: BKK19-500K
+session_id: BKK19-500K1
 session_room: 'Keynote Room (World Ballroom BC) '
 session_slot:
   end_time: '2019-04-05 10:30:00'

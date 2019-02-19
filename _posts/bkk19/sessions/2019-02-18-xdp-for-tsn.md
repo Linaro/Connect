@@ -7,7 +7,7 @@ description: ne of the challenging tasks of TSN (Time-Sensitive Networking) is i
   traffic off the kernel and directly into user-space sockets (AF_XDP), compared to
   the linux kernel network stack. This talk is about a brief XDP introduction and
   the latency numbers we got on our initial tests.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-121.png
 session_attendee_num: '6'

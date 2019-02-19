@@ -5,7 +5,7 @@ description: Introduction to Sophon Edge ai chip solution with int8 TPU accelera
   which can enable high performance deep learning on edge devices in low power, real-time
   basis. We also will introduce our 96boards platform with comprehensive tool chain
   and some use cases in computer vision domain.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-323.png
 session_attendee_num: '1'

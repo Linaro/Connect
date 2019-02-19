@@ -4,7 +4,7 @@ categories:
 description: Covers running BigData/HiBench benchmark on Arm Servers. Topics include:<br
   /> - Results brief<br /> - Parameters tuning for hadoop, spark and flink<br /> -
   Lessons learned<br />
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-TR04.png
 session_attendee_num: '7'

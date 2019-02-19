@@ -8,7 +8,7 @@ description: OPC Unified Architecture (OPC UA) is a machine to machine communica
   path. This talk is about experimental way to use eXpress Data Path (XDP) sockets
   merged to the latest mainline kernel with zero copy packets to userspace with LWIP
   network stack in application instead of linux kernel network stack.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-504.png
 session_attendee_num: '4'

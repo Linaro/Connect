@@ -5,7 +5,7 @@ description: Learn how to take advantage of the built-in security features of th
   Xilinx Zynq MPSoC to prevent your IP from being compromised. Extend your platform
   using industry standard techniques to provide attestation of all firmware components
   running on your system.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-315.png
 session_attendee_num: '8'

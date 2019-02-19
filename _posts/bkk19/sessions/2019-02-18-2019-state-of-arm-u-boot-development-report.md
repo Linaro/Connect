@@ -14,7 +14,7 @@ description: The U-Boot bootloader has been evolved for nearly 2 decades and is 
   will also talk about steps to port U-Boot to new ARM hardware. Finally, he will
   address and review ongoing development work, issues and future development on U-Boot
   with respect to ARM platform.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-420.png
 session_attendee_num: '9'

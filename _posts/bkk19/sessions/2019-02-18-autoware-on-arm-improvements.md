@@ -9,7 +9,7 @@ description: As members of the Autoware foundation it is Linaro’s hope to make
   applications. We will also mention Linaro’s efforts to make improvements to Autoware’s
   code and provide unit tests for the various Autoware modules. Finally we will talk
   about our efforts of getting Autoware running efficiently on ARM platforms.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-502.png
 session_attendee_num: '10'

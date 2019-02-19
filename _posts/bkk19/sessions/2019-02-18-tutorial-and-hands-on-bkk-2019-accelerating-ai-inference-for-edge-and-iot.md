@@ -36,7 +36,7 @@ description: Tutorial and Hands-on Accelerating AI Inference For Edge and IoT <b
   CPU<br /> NPU<br /> DSP<br /> Compilation approaches for Deep Learning<br /> <br
   /> Project on building YOLO3 Object Detection<br /> <br /> Computer Vision at the
   Edge using ConvNet (MobileNet)<br />
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-408.png
 session_attendee_num: '6'
@@ -47,12 +47,19 @@ session_slot:
   start_time: '2019-04-04 11:00:00'
 session_speakers:
 - speaker_bio: Gaurav works in ML SIG as Tech Lead.
-  speaker_company: ''
+  speaker_company: Linaro (Arm)
   speaker_image: /assets/images/speakers/bkk19/gaurav-kaul.jpg
   speaker_location: ''
   speaker_name: Gaurav Kaul
-  speaker_position: Tech Lead (AI/ML)
+  speaker_position: Tech Lead
   speaker_username: gaurav.kaul
+- speaker_bio: ''
+  speaker_company: ''
+  speaker_image: /assets/images/speakers/bkk19/gaurav-kaul
+  speaker_location: ''
+  speaker_name: Gaurav Kaul
+  speaker_position: ''
+  speaker_username: gauravkaul
 session_track: Machine Learning/AI
 tag: session
 tags:

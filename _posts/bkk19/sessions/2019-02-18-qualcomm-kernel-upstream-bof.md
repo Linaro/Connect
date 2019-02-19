@@ -3,7 +3,7 @@ categories:
 - bkk19
 description: Continuation of discussion from YVR18. Qualcomm kernel upstream status,
   issues, roadblocks, planning.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-501.png
 session_attendee_num: '5'

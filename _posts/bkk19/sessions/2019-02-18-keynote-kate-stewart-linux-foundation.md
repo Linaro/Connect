@@ -2,7 +2,7 @@
 categories:
 - bkk19
 description: Coming soon...
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-400K2.png
 session_attendee_num: '26'

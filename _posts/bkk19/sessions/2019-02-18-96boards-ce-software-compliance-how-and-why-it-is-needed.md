@@ -4,7 +4,7 @@ categories:
 description: This talk will introduce the new Software Compliance Guidelines for 96Boards
   Consumer Edition (CE) boards, why it is needed? and guides through the process of
   getting your board 96Boards Software Compliant.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-110.png
 session_attendee_num: '10'

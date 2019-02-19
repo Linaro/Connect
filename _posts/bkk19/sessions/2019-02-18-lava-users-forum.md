@@ -2,7 +2,7 @@
 categories:
 - bkk19
 description: Continuing our regular Users Forum, for all your questions about LAVA.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-120.png
 session_attendee_num: '8'

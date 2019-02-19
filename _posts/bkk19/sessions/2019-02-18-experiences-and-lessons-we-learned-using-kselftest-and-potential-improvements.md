@@ -5,7 +5,7 @@ description: Over the past years, we ran the kernel selftests as part of the LTS
   testing. During that time, we learned things, fixed things and created a wish list
   of work we want to tackle. This session is about what we learned and where we are
   heading.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-217.png
 session_attendee_num: '10'

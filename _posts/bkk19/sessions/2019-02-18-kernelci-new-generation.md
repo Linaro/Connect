@@ -10,7 +10,7 @@ description: KernelCI generates daily an average of two thousand Linux Kernel bu
   an alternative frontend to KernelCI. Our focus is on an instance of ElasticSearch,
   Logstash, and Kibana collecting and displaying live KernelCI data. All the tooling
   used to this project will be available.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-219.png
 session_attendee_num: '12'

@@ -5,7 +5,7 @@ description: GPUs are often used to accelerate machine learning inference as the
   offer improvements in performance over standard processors. FPGAs, however, have
   unique capabilities that offer performance advantages over both CPUs and GPUs. This
   session will introduce those capabilities and explore some metrics.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-321.png
 session_attendee_num: '1'

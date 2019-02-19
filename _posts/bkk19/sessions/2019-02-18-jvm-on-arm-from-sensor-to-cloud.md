@@ -8,10 +8,10 @@ description: A variety of Java virtual machines on ARM have been around for a lo
   data processing in the cloud as BigData and then visualization for end user using
   JavaFX. We will discuss additional features such as deployment and provisioning
   and also how the new release model of the Java platform is connected to security.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-203.png
-session_attendee_num: '3'
+session_attendee_num: '4'
 session_id: BKK19-203
 session_room: Session Room 1 (Lotus 1-2)
 session_slot:

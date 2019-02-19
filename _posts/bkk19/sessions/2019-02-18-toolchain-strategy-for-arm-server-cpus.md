@@ -8,7 +8,7 @@ description: Toolchain software forms the base of any development platform rangi
   gcc, glibc and binutils) work, how they interact with server distributions and how
   all of that is quite different from how other components, especially the Linux kernel,
   work.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-108.png
 session_attendee_num: '1'

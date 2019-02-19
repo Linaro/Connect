@@ -18,7 +18,7 @@ description: 'When developing embedded systems, it is common to have mixed-criti
   will learn how to use Dom0-less to partition the system. Uboot and device tree configuration
   details will be explained to enable the audience to get the most out of this feature.
   The presentation will also include a live demo of the technology.'
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-512.png
 session_attendee_num: '6'

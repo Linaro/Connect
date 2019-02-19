@@ -8,10 +8,10 @@ description: Introduce the latest status of storage related open source projects
   storage related projects and boost the performance in aarch64 ecosystem. It includes
   the optimization on compression, hash, crypto, data integrity, data protection and
   so on.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-104.png
-session_attendee_num: '6'
+session_attendee_num: '7'
 session_id: BKK19-104
 session_room: 'Keynote Room (World Ballroom BC) '
 session_slot:

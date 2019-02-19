@@ -8,7 +8,7 @@ description: Theres a lot of data relevant to the ARM world living in public dat
   data to support your stories and use cases, come to this session to discover how
   to get plenty of it.<br><br><br>Featuring:<br><br>GitHub<br>Stack Overflow<br>Hacker
   News<br>Wikipedia<br>Pypi installs<br>[Meetup.com, Reddit]<br><br>
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-300K1.png
 session_attendee_num: '14'

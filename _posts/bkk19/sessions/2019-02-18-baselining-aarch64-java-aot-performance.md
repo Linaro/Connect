@@ -4,7 +4,7 @@ categories:
 description: Based upon targeted microbenchmarks and SpecJVM, AArch64 Java AOT performance
   is compared against Xeon. Sweeping conclusions prove difficult to draw, but tantalizing
   hints about performance differences emerge.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-507.png
 session_attendee_num: '1'

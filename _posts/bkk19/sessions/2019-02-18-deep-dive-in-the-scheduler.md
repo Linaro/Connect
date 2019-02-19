@@ -4,7 +4,7 @@ categories:
 description: This training will present the details of some parts of the scheduler
   like the task placement during wake up path, the cgroup in the scheduler or how
   CPU compute capacity is used to balance tasks on the system.
-future_image:
+image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-TR06.png
 session_attendee_num: '10'
