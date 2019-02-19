@@ -10,6 +10,7 @@
   padding: 40px;
   border-radius: 5px;
   color: white;
+  filter:grayscale(0);
   min-height: 350px;
   -webkit-box-shadow: 0px 0px 22px -4px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 0px 22px -4px rgba(0, 0, 0, 0.75);
@@ -17,11 +18,15 @@
   transition: all 1s ease;
 }
 .about-block.text-center:hover {
-  opacity: 0.8;
+  filter: grayscale(1) !important;
 }
 #about-block-row .about-block h3 {
   color: white;
 }
 #about-block-row p {
   color: white;
+}
+
+div#image-row {
+    background-color: #1c1c1c;
 }
