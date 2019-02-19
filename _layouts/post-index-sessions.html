@@ -30,6 +30,18 @@ path: "{{ image_path }}"
 title: "{{ image_title }}"
 alt: "{{ image_title }}"
 {% endresponsive_image_block %}
+                    {% elsif post.image.path %}
+                        {% if post.session_id != "None" %}
+                            {% assign image_title = post.session_id %}
+                        {% else %}
+                            {% assign image_title = post.title %}
+                        {% endif %}
+                    {% capture image_path %}{{ post.image.path | slice: 1, post.image.path.size }}{% endcapture %}
+                    {% responsive_image_block %}
+                    path: "{{ image_path }}"
+                    title: "{{ image_title }}"
+                    alt: "{{ image_title }}"
+                    {% endresponsive_image_block %}
                     {% else %}
                     {% capture image_path %}assets/images/content/connect-logo.png{% endcapture %}
                     {% for each in site.data.connects %}
