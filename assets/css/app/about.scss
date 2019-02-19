@@ -1,15 +1,11 @@
-.owl-stage-outer {
-    height: auto;
-}
 .owl-stage {
-    height: 400px;
     overflow: hidden;
 }
-@media(max-width: $screen-xs-max){
-    .owl-stage {
-        height: 200px;
-    }
-}
+// @media(max-width: $screen-xs-max){
+//     .owl-stage {
+//         height: 200px;
+//     }
+// }
 .about-block.text-center {
   padding: 40px;
   border-radius: 5px;
