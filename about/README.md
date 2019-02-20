@@ -30,7 +30,7 @@ page_carousel:
     - /assets/images/about-carousel/about-carousel-image7.jpg
     - /assets/images/about-carousel/about-carousel-image8.jpg
 ---
-<div class="row content" id="content-container">
+<div class="row content p-t-40 p-b-40 text-center" id="content-container">
     <div class="container">
         <div class="col-xs-12">
         <p>
@@ -99,7 +99,7 @@ page_carousel:
     </div>  
 </div>
 
-<div class="row content" id="code-of-conduct">
+<div class="row content p-t-40 p-b-40 text-center" id="code-of-conduct">
     <div class="container">
         <div class="col-xs-12 text-center">
             <h3>Code of Conduct</h3>
