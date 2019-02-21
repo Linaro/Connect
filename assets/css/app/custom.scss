@@ -726,3 +726,8 @@ div#overview-schedule ul{
 div#overview-schedule .panel-heading {
     border-color:transparent;
 }
+// Resources search page
+div#connect-resources-table {
+    height: 1000px;
+    overflow: scroll !important;
+}
