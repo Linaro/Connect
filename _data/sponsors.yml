@@ -63,4 +63,5 @@
   type: sponsor
   image: packet.png
   events: bkk19
+  padded: true
   url: https://www.packet.com/
