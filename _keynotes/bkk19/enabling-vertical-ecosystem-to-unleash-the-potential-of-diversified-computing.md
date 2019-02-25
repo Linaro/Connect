@@ -21,4 +21,5 @@ description: >
     Because of the diversity of data, the appreciated computing architectures are also diverse. The Arm architecture has proved its value in the consumer-grade terminal industry. With the
     continuous innovation of Arm architecture, the performance of enterprise-grade Arm CPU will be greatly improved, Arm architecture is moving toward edge computing and data centers from the end, however an open ecosystem is critical for this leap.
     In this presentation Huawei will share their opinion and plans on how to build an open, competitive and win-win Arm data center ecosystem with industry partners.
+sched_url: https://sched.co/L2HB
 ---

@@ -17,4 +17,5 @@ description: >
     Over the last 20 years, Open Source software has made incredible inroads and become the de-facto standard for system software in many market categories. The same is not true of Open Source Quality Assurance. Despite the availability of many QA resources that are Open Source, the testing landscape is very fragmented, and there are lots of areas where in-house and ad-hoc testing hardware, code and methods are used.
 
     In this keynote, Tim will describe barriers to sharing existing tests and test infrastructure. Tim will give his insights about what will it take to get Quality Assurance to the same level of ubiquity, quality, community, ease of deployment, and low cost, as Open Source coding.
+sched_url: https://sched.co/L2H8
 ---

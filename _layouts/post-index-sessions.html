@@ -11,10 +11,10 @@ js-package: resources-blog
         {% assign using_json = "True" %}
     {% endif %}
 {% endfor %}
-<div class="col-md-9 no-padding" id="main-resources-content" event-id="{{current_connect}}">
+<div class="col-md-9" id="main-resources-content" event-id="{{current_connect}}">
     <div class="row">
     {% for post in paginator.posts %}
-        <div class="col-md-4 col-sm-4 col-xs-12 no-padding">
+        <div class="col-md-4 col-sm-4 col-xs-12">
             <div class="resource-block">
             <a href="{{post.url}}">
                 <div class="resource">
@@ -30,6 +30,18 @@ path: "{{ image_path }}"
 title: "{{ image_title }}"
 alt: "{{ image_title }}"
 {% endresponsive_image_block %}
+                    {% elsif post.image.path %}
+                        {% if post.session_id != "None" %}
+                            {% assign image_title = post.session_id %}
+                        {% else %}
+                            {% assign image_title = post.title %}
+                        {% endif %}
+                    {% capture image_path %}{{ post.image.path | slice: 1, post.image.path.size }}{% endcapture %}
+                    {% responsive_image_block %}
+                    path: "{{ image_path }}"
+                    title: "{{ image_title }}"
+                    alt: "{{ image_title }}"
+                    {% endresponsive_image_block %}
                     {% else %}
                     {% capture image_path %}assets/images/content/connect-logo.png{% endcapture %}
                     {% for each in site.data.connects %}

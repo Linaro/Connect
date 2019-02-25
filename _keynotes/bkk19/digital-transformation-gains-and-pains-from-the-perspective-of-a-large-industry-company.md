@@ -25,4 +25,5 @@ description: >
     How do cultural change, business model innovation, new (and old) technologies and open source play together in such an environment?
 
     And how are industry alliances and communities fitting in with this? Some tales from the coal face will be shared to illustrate this.
+sched_url: https://sched.co/L2Ov
 ---

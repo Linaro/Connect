@@ -4,6 +4,8 @@
 //= require vendor/owl.carousel
 //= require vendor/lazysizes
 //= require vendor/ls.unveilhooks
+//= require vendor/featherlight
+
 
 //= require app/fly
 //= require app/search

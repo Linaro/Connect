@@ -11,4 +11,5 @@ image:
 event: BKK19
 description: >
     Linaro's new CEO Li Gong will kick off the week at Connect with his keynote. Li Gong is a globally experienced technologist and executive, with deep background in computer science, research and product development, and open source technologies.
+sched_url: https://sched.co/L2Mh
 ---
