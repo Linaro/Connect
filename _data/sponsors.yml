@@ -59,3 +59,9 @@
   image: xilinx-avnet.jpg
   events: bkk19
   url: https://www.linaro.org/company/xilinx/
+- name: Packet
+  type: sponsor
+  image: packet.png
+  events: bkk19
+  padded: true
+  url: https://www.packet.com/
