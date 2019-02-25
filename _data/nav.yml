@@ -42,6 +42,8 @@ pages:
       options:
           - text: All Resources
             url: /resources/
+          - text: Bangkok 2019
+            url: /resources/bkk19/
           - text: Vancouver 2018
             url: /resources/yvr18/
           - text: Hong Kong 2018

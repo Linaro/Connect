@@ -1,0 +1,76 @@
+---
+categories:
+- bkk19
+description: 'DescriptionThis presentation is a report on the last improvements on
+  the BFQ I/O scheduler. These improvements benefit virtually any system, from embedded
+  devices, to personal systems, to nodes in a data center.<br><br>This first set of
+  changes concerns throughput. In the most complex scenarios for guaranteeing I/O
+  bandwidths, BFQ delivers up to five-time higher throughput than existing solutions.
+  But the same mechanisms that gained BFQ this primacy become a hindrance with some
+  deceptive workloads. These workloads trick BFQ mechanisms into wrongly believing
+  that some I/O flows need to be privileged with respect to other flows, even at the
+  expense of losing throughput dramatically. In contrast, total throughout is the
+  only performance parameter that matters. We took countermeasures to offset this
+  loss of throughput, countermeasures that fully succeed with some&nbsp;<br>unfriendly
+  workloads.<br><br>Then, as for I/O control, the combination of several new improvements
+  and fixes let the worst-case start-up time of applications drop by an additional
+  35%. We show these results not only through graphs, but also through a new demo
+  with a Chromebook.<br><br>The last contributions shown in this presentation are
+  about<br>efficiency. In fact, even the execution overhead of an I/O scheduler may
+  limit maximum throughput with very fast drives. So, to reduce BFQ overhead, we tried
+  to turn some properties of these drives into BFQs advantage: we looked for costly
+  optimizations that are no longer necessary with these drives. We found some, and
+  added controls that automatically turn them off when not needed.'
+future_image:
+  featured: 'true'
+  path: /assets/images/featured-images/bkk19/BKK19-509.png
+session_attendee_num: '3'
+session_id: BKK19-509
+session_room: Session Room 3 (Lotus 10)
+session_slot:
+  end_time: '2019-04-05 11:55:00'
+  start_time: '2019-04-05 11:30:00'
+session_speakers:
+- speaker_bio: Paolo Valente is an Assistant Professor of Computer Science at the
+    University of Modena and Reggio Emilia, Italy. Some of his activities focus on
+    scheduling algorithms for transmission links, storage devices, and CPUs. As for
+    transmission links, Paolo is one of the authors of the QFQ packet scheduler, which
+    has been in the Linux kernel until 3.7, after that it has been replaced by QFQ+,
+    a faster variant defined and implemented by Paolo himself. Paolo is also the author
+    of the last version of the BFQ I/O scheduler, which seems to be on the right track
+    to replace the current default I/O scheduler in Linux. Finally, Paolo has also
+    defined and implemented other algorithms, part of which are now in FreeBSD, and
+    has provided new theoretic results concerning multiprocessor scheduling. Paolo
+    has given about thirty talks, as an invited speaker or to present his scientific
+    papers.
+  speaker_company: University of Modena and Reggio Emilia, Italy
+  speaker_image: /assets/images/speakers/bkk19/paolo-valente.jpg
+  speaker_location: Modena - Italy
+  speaker_name: Paolo Valente
+  speaker_position: Assistant Professor of CS
+  speaker_username: paolo.valente
+- speaker_bio: Paolo Valente is an Assistant Professor of Computer Science at the<br
+    /> University of Modena and Reggio Emilia, Italy, and a collaborator of<br />
+    the Linaro engineering organization. Paolos main activities focus on<br /> scheduling
+    algorithms for storage devices, transmission links and<br /> CPUs. In this respect,
+    Paolo is the author of the last version of the<br /> BFQ I/O scheduler. BFQ entered
+    the Linux kernel from 4.12, providing<br /> unprecedented low-latency and fairness
+    guarantees. As for transmission<br /> links, Paolo is one of the authors of the
+    QFQ packet scheduler, which<br /> has been in the Linux kernel until 3.7, after
+    that it has been<br /> replaced by QFQ+, a faster variant defined and implemented
+    by Paolo<br /> himself. Finally, Paolo has also defined and implemented other<br
+    /> algorithms, part of which are now in FreeBSD, and has provided new<br /> theoretic
+    results on multiprocessor scheduling.<br /> <br /> Paolo has given about forty
+    talks, as an invited speaker or to present<br /> his scientific papers.
+  speaker_company: Linaro
+  speaker_image: /assets/images/speakers/bkk19/paolo-valente.jpg
+  speaker_location: ''
+  speaker_name: Paolo Valente
+  speaker_position: Linaro, Collaborator, Assistant professor
+  speaker_username: paolo_valente.1xog4ur7
+session_track: Linux Kernel
+tag: session
+tags:
+- Power Management
+title: 'BFQ I/O scheduler: more throughput, control and efficiency'
+---

@@ -708,3 +708,21 @@ div#schedule .list-group-item {
 .shadowed-row {
     box-shadow: inset 0px 13px 20px -10px #000, inset 0px -13px 20px -10px #000;
 }
+
+// Schedule page
+div#overview-schedule {
+    background-color: #323232;
+}
+div#overview-schedule h3{
+    color:white;
+    margin:40px 0;
+}
+div#overview-schedule li.list-group-item {
+    overflow: auto;
+}
+div#overview-schedule ul{
+    margin-bottom:0px;
+}
+div#overview-schedule .panel-heading {
+    border-color:transparent;
+}

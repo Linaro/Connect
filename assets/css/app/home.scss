@@ -61,8 +61,11 @@ div.footer-sponsors {
     display: none;
 }
 
-.modal-dialog {
+#myModal .modal-dialog {
     top: 120px;
+}
+.modal-dialog {
+    top: 60px;
 }
 div#featured-jumbotron {
   margin-top: 20px !important;
@@ -423,4 +426,10 @@ div#social-media {
 // Big Triangle css for the homepage
 .big-triangle::after, .big-triangle::before {
     border-bottom-color:#4d4d4d;
+}
+.sponsor-col img:hover {
+    transform: scale(1.2);
+}
+.sponsor-col img{
+    transition: all 100ms ease;
 }

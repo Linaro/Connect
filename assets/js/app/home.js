@@ -29,8 +29,9 @@ $(document).ready(function () {
     });
     $("#connect-event-slider").owlCarousel({
         items: 4,
-        loop: true,
+        loop: false,
         dots: false,
+        rewind: true,
         lazyLoad: true,
         margin: 0,
         autoplay: true,
@@ -59,6 +60,7 @@ $(document).ready(function () {
         loop: false,
         dots: false,
         lazyLoad: true,
+        margin: 20,
         rewind: true,
         autoplay: true,
         autoplayTimeout: 4000,
