@@ -1,9 +1,7 @@
 ---
 permalink: /assets/json/las16/data.json
 ---
-connectResources([
-{% for post in site.categories.las16 %}
-    {
+[{% for post in site.categories.las16 %}{
         "id": "{{ post.id }}",
         {% if post.session_id %}"session_id": "{{ post.session_id }}",{% endif %}
         {% if post.categories %}"event_id": "{{ post.categories }}",{% endif %}
@@ -42,6 +40,4 @@ connectResources([
         {% if post.image.path %}
         "thumbnail": "{{site.url}}{{post.image.path}}",
         {% endif %}
-    }{% unless forloop.last == true %},{% endunless %}
-{% endfor %}
-]);
+    }{% unless forloop.last == true %},{% endunless %}{% endfor %}]

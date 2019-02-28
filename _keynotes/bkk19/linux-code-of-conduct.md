@@ -51,4 +51,5 @@ description: >
     codes of conduct addressing bias, creating a frictionless reporting
     mechanism for legal incident response, and making the project a fun,
     inclusive productive place.
+sched_url: https://sched.co/L2Qx
 ---

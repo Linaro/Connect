@@ -5,9 +5,17 @@ css-package: resources-blog
 ---
 {% assign using_json = "False" %}
 {% assign current_connect = page.categories[0] | upcase %}
-{% if current_connect == "YVR18" %}
-    {% assign using_json = "True" %}
-{% endif %}
+{% assign connects = site.data.connects %}
+{% for connect in connects %}
+    {% if connect.id == current_connect %}
+        {% if connect.using_json == "True" %}
+            {% assign using_json = "True" %}
+        {% else %}
+            {% assign using_json = "False" %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+
 {% include breadcrumb.html %}
 <div class="container-fluid" id="content-container">
     <div class="row">

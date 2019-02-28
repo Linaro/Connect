@@ -8,11 +8,11 @@ jumbotron:
     triangle-divider: true
     title: Accomodation
     carousel-images:
-        - /assets/images/content/accomodation-yvr18-banner.jpg
         - /assets/images/content/accomodation-hkg18-banner.jpg
-        - /assets/images/content/accomodation-sfo17-banner.jpg
         - /assets/images/content/accomodation-bud17-banner.jpg
+        - /assets/images/content/accomodation-sfo17-banner.jpg
         - /assets/images/content/accomodation-las16-banner.jpg
+        - /assets/images/content/accomodation-yvr18-banner.jpg
     animation: fade
 ---
 The next Linaro Connect will be held at the Centara Grand at CentralWorld 999/99 Rama 1 Road, Pathumwan, Bangkok 10330, Thailand
