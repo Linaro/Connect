@@ -1,4 +1,4 @@
 ---
 permalink: /assets/json/connects.json
 ---
-connects({{ site.data.connects | jsonify }});
+{{ site.data.connects | jsonify }}
