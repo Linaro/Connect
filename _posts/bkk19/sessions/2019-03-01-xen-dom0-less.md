@@ -1,0 +1,58 @@
+---
+categories:
+- bkk19
+description: 'When developing embedded systems, it is common to have mixed-criticality
+  requirements: one application is critical, and often comes with real-time requirements,
+  while the other application is far less critical and it is typically based on Linux.
+  Static partitioning is the best way to meet these requirements.<br><br>This talk
+  will introduce Dom0-less: a brand new way of using Xen to build mixed-criticality
+  solutions. Dom0-less is a Xen feature that adds a novel approach to static partitioning
+  based on virtualization. It allows multiple domains to start at boot time directly
+  from the Xen hypervisor, decreasing boot times dramatically. Dom0-less makes booting
+  a critical application in less than a second an achievable goal. Xen userspace tools,
+  such as xl and libvirt, become only optional. Even Dom0, the cardinal point of every
+  Xen deployment since its inception, becomes inessential.<br><br>Dom0-less extends
+  the existing device tree based Xen boot protocol to cover information required by
+  additional domains. Binaries, such as kernels and ramdisks, are loaded by the bootloader
+  (u-boot) and advertised to Xen via new device tree bindings.<br><br>The audience
+  will learn how to use Dom0-less to partition the system. Uboot and device tree configuration
+  details will be explained to enable the audience to get the most out of this feature.
+  The presentation will also include a live demo of the technology.'
+image:
+  featured: 'true'
+  path: /assets/images/featured-images/bkk19/BKK19-512.png
+session_attendee_num: '9'
+session_id: BKK19-512
+session_room: Session Room 2 (Lotus 3-4)
+session_slot:
+  end_time: '2019-04-05 11:55:00'
+  start_time: '2019-04-05 11:30:00'
+session_speakers:
+- speaker_bio: ''
+  speaker_company: Xilinx
+  speaker_image: /assets/images/speakers/placeholder.jpg
+  speaker_location: ''
+  speaker_name: Stefano Stabellini
+  speaker_position: Principle Engineer
+  speaker_username: s.stabellini
+- speaker_bio: Stefano Stabellini serves as system software architect and virtualization
+    lead at Xilinx, the worlds largest supplier of FPGA solutions. Previously, at
+    Aporeto, he created a virtualization-based security solution for containers and
+    authored several security articles. As Senior Principal Software Engineer in Citrix,
+    he led a small group of passionate engineers working on Open Source projects.
+    Stefano has been involved in Xen development since 2007. He created libxenlight
+    in November 2009 and started the Xen port to ARM with virtualization extensions
+    in 2011. Today he is a Xen Project committer, and he maintains Xen on ARM and
+    Xen support in Linux and QEMU.
+  speaker_company: Xilinx
+  speaker_image: /assets/images/speakers/placeholder.jpg
+  speaker_location: ''
+  speaker_name: Stefano Stabellini
+  speaker_position: Principal Engineer
+  speaker_username: stefano.stabellini
+session_track: IoT and Embedded
+tag: session
+tags:
+- Automotive
+title: Xen Dom0-less
+---

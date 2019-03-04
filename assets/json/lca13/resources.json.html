@@ -5,7 +5,6 @@ permalink: /assets/json/lca13/data.json
         "id": "{{ post.id }}",
         {% if post.session_id %}"session_id": "{{ post.session_id }}",{% endif %}
         {% if post.categories %}"event_id": "{{ post.categories }}",{% endif %}
-        "title": {{ post.title | smartify | jsonify }},
         "url": "{{ site.url }}{{ post.url }}",
         "summary": {{ post.excerpt | strip_html | smartify | jsonify }},
         "date_published": "{{ post.date }}",
@@ -37,7 +36,5 @@ permalink: /assets/json/lca13/data.json
         {% if post.image.path %}
         "thumbnail": "{{site.url}}{{post.image.path}}",
         {% endif %}
-        {% if post.image.path %}
-        "thumbnail": "{{site.url}}{{post.image.path}}",
-        {% endif %}
+        "title": {{ post.title | smartify | jsonify }}
     }{% unless forloop.last == true %},{% endunless %}{% endfor %}]
