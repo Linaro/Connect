@@ -65,3 +65,9 @@
   events: bkk19
   padded: true
   url: https://www.packet.com/
+- name: Qualcomm
+  type: sponsor
+  image: qualcomm.jpg
+  events: bkk19
+  padded: true
+  url: https://www.qualcomm.com/
