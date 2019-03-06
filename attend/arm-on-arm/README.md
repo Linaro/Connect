@@ -33,5 +33,8 @@ The native development and deployment of software targeting Arm platforms using 
 
 We have got a fantastic line up of speakers from a wide range of companies, including Arm, Linaro, Marvell, Gyrfalcon, Packet.io, Socionext and SUSE. The final schedule will be published shortly but in the meantime, please see the outline agenda below:
 
+<a id="sched-embed" href="//bkk19.sched.com/overview/type/Arm+on+Arm">View the Linaro Connect Bangkok schedule &amp; directory.</a>
+        <script type="text/javascript" src="//bkk19.sched.com/js/embed.js"></script>
+
 
 {% include featured-sessions.html track="Arm on Arm" %}
