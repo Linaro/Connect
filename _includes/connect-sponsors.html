@@ -14,7 +14,7 @@
                 {% assign connect-code = site.connect-code | downcase %}
                 {% if sponsor.events contains connect-code %}
                     {% if sponsor.type == "lead" %}
-                    <div class="col-xs-6 col-sm-5ths  text-center lead-sponsor ">
+                    <div class="col-xs-6 col-sm-2  text-center lead-sponsor ">
                         <div class="sponsor {% if sponsor.padded %}padded{% endif %}">
                             <h3> Lead Sponsor </h3>
                             <a href="{{sponsor.url}}" target="_blank">
@@ -25,7 +25,7 @@
                         </div>
                     </div>
                     {% else %}
-                    <div class="col-xs-6 col-sm-5ths text-center connect-sponsor">
+                    <div class="col-xs-6 col-sm-2 text-center connect-sponsor">
                         <div class="sponsor {% if sponsor.padded %}padded{% endif %}">
                             <h3> Sponsor </h3>
                             <a href="{{sponsor.url}}" target="_blank">

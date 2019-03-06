@@ -26,7 +26,7 @@ slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79884067
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/mincs-the-container-in-the-shell-script-sfo17105
 slug: sfo17-105
 speakers: Masami Hiramatsu
-title: "MINCS - The Container in The Shell Script\n - SFO17-105"
+title: "MINCS - The Container in The Shell Script - SFO17-105"
 video_length: '24:25'
 video_thumbnail: None
 wordpress_id: 5924

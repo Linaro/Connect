@@ -20,7 +20,7 @@ post_format:
 session_id: BUD17-423
 slug: bud17-423
 speakers: Robert Wolff, Mike Levine
-title: "Intro to Linaro and 96Boards for Engineers\n - BUD17-423"
+title: "Intro to Linaro and 96Boards for Engineers - BUD17-423"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4711

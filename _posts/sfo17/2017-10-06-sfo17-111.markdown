@@ -24,7 +24,7 @@ slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79884071
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/secure96-sfo17111
 slug: sfo17-111
 speakers: Joakim Bech
-title: "Secure96\n - SFO17-111"
+title: "Secure96 - SFO17-111"
 video_length: '22:36'
 video_thumbnail: None
 wordpress_id: 5936
