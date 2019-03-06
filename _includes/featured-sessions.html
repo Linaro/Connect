@@ -2,10 +2,7 @@
 {% assign currentConnect = site.connect-code | downcase %}
 {% assign featuredSessions = site.categories[currentConnect] | where: "session_track", featured-track %}
 
-{% for session in featuredSessions %}
-    {{session.title}}
-{% endfor %}
-
+<h2 class="text-center">{{featured-track}} Sessions</h2>
 <div class="owl-carousel owl-theme" id="featured-sessions-slider">
     {% for session in featuredSessions %}
     <a href="{{session.url}}" target="_blank">
