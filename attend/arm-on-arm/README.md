@@ -13,9 +13,8 @@ jumbotron:
     animation: fade
     title: Arm on Arm Summit
     description: >
-        Wednesday 3 April 2019, 08:30 - 18:00
-        Keynote Room, Centara Grand, Bangkok Thailand
-    
+        Wednesday 3 April 2019, 08:30 - 18:00 - Keynote Room, Centara Grand, Bangkok Thailand
+    background-image: /assets/images/content/arm-on-arm-bg-yvr18.jpg
 
 ---
 Linaro is pleased to host the Arm on Arm Summit together with Arm and Marvell at Linaro Connect Bangkok 2019.
