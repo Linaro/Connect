@@ -32,9 +32,9 @@ description: <br /> Most SoC designs today implement a central entity that orche
   Entities, or via Virtualization.<br />
 image:
   featured: 'true'
-  path: /assets/images/featured-images/bkk19/BKK19-313.png
-session_attendee_num: '18'
-session_id: BKK19-313
+  path: /assets/images/featured-images/bkk19/BKK19-PM05.png
+session_attendee_num: '20'
+session_id: BKK19-PM05
 session_room: Session Room 2 (Lotus 3-4)
 session_slot:
   end_time: '2019-04-03 12:55:00'

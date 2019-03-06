@@ -2,8 +2,10 @@
 categories:
 - bkk19
 description: Edge computing has some unique requirements and challenges in the boot
-  area. We provide an overview of these, and the strategies available to meet those
-  requirements.
+  area. LEDGE team and guests are digging in the details during a sprint at Connect.
+  This BoF session&nbsp; will summarize the findings and strategies to meet those
+  requirements.&nbsp;Any presentation material will be made available after the sprint
+  happens.
 image:
   featured: 'true'
   path: /assets/images/featured-images/bkk19/BKK19-411.png

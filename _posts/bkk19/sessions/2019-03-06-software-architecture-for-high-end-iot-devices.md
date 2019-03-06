@@ -27,11 +27,11 @@ session_speakers:
   speaker_position: ARM, Principal Engineer, TechLead
   speaker_username: sudipto.paul2010
 - speaker_bio: ''
-  speaker_company: ''
+  speaker_company: arm
   speaker_image: /assets/images/speakers/placeholder.jpg
   speaker_location: ''
-  speaker_name: Tushar Khandelwal
-  speaker_position: ''
+  speaker_name: tushar khandelwal
+  speaker_position: Staff software engineer
   speaker_username: tushar.khandelwal
 session_track: IoT Fog/Gateway/Edge Computing
 tag: session

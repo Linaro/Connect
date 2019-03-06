@@ -24,12 +24,19 @@ session_slot:
   end_time: '2019-04-02 10:25:00'
   start_time: '2019-04-02 10:00:00'
 session_speakers:
-- speaker_bio: Vice President of Huawei IT Product Line
+- speaker_bio: Zane Wei is a Senior Director of Strategic Business Development Department
+    under Intelligent Computing BU,responsible for creating an open ecosystem and
+    joint solutions for all Huawei servers.He had served several senior roles in Huawei
+    since joining Huawei in 1999,with over 20 years of experience in the IT industry,he
+    has filed some PCT patents and strived for development of heterogeneous computing
+    architecture.He earned MBA degree in Hongkong University of Science and Technology(HKUST)
+    and received bachelor degree from University of Science and Technology of China(UESTC)
+    in 1998.
   speaker_company: ''
-  speaker_image: /assets/images/speakers/bkk19/wu-zhan-huawei.jpg
+  speaker_image: /assets/images/speakers/placeholder.jpg
   speaker_location: ''
-  speaker_name: Wu Zhan (Huawei)
-  speaker_position: Wu Zhan, Vice President of Huawei IT Product Line
+  speaker_name: Zane Wei  (Huawei)
+  speaker_position: Zane Wei, Senior Director at Huawei Intelligent Computing BU
   speaker_username: wu_zhan.1z6gcj0n
 session_track: Keynote
 tag: session

@@ -1,16 +1,16 @@
 ---
 categories:
 - bkk19
-description: PMWG Hacking Topic TBD
+description: Scheduler load balance rework
 image:
   featured: 'true'
-  path: /assets/images/featured-images/bkk19/BKK19-PM06.png
-session_attendee_num: '6'
-session_id: BKK19-PM06
+  path: /assets/images/featured-images/bkk19/BKK19-PM08.png
+session_attendee_num: '0'
+session_id: BKK19-PM08
 session_room: Session Room 2 (Lotus 3-4)
 session_slot:
-  end_time: '2019-04-03 11:55:00'
-  start_time: '2019-04-03 11:30:00'
+  end_time: '2019-04-03 16:55:00'
+  start_time: '2019-04-03 16:00:00'
 session_speakers:
 - speaker_bio: Vincent has worked on developing drivers for various peripherals and
     coprocessors in mobile phones during 12 years. In 2005, he began to focus on mobile
@@ -27,6 +27,6 @@ session_speakers:
 session_track: Power Management
 tag: session
 tags:
-- Power Management
-title: 'PMWG Hacking Topic #6'
+- Linux Kernel
+title: Scheduler load balance rework
 ---
