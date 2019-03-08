@@ -110,9 +110,8 @@ redirect_from:
             {% if sponsor.events contains connect-code %}
             {% if sponsor.type == "lead" %}
             <div class="col-xs-6 col-sm-2  text-center lead-sponsor">
-                <div class="sponsor">
-                    <h3> Lead Sponsor </h3>
-                    <a href="{{sponsor.url}}" target="_blank">
+                <div class="sponsor" data-toggle="tooltip" data-container="body" data-placement="top" title="Lead Sponsor">
+                    <a href="{{sponsor.url}}" target="_blank" data-toggle="tooltip" data-po>
                         <img class="{% if sponsor.class %}{{sponsor.class}}{% endif %}img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                             data-src="/assets/images/sponsors/{{sponsor.image}}" />
                     </a>
@@ -120,8 +119,7 @@ redirect_from:
             </div>
             {% else %}
             <div class="col-xs-6 col-sm-2 text-center connect-sponsor">
-                <div class="sponsor {% if sponsor.padded %}padded{% endif %}">
-                    <h3> Sponsor </h3>
+                <div class="sponsor {% if sponsor.padded %}padded{% endif %}" data-toggle="tooltip" data-container="body" data-placement="top" title="Sponsor">
                     <a href="{{sponsor.url}}" target="_blank">
                         <img class="{% if sponsor.class %}{{sponsor.class}}{% endif %} img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                             data-src="/assets/images/sponsors/{{sponsor.image}}" />
