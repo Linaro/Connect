@@ -58,7 +58,7 @@ $(document).ready(function () {
     $("#keynote-slider").owlCarousel({
         items: 4,
         loop: false,
-        dots: false,
+        dots: true,
         lazyLoad: true,
         margin: 20,
         rewind: true,
