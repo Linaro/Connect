@@ -21,10 +21,10 @@
   image: avnet.png
   events: yvr18
   class: p-t-20 p-b-20
-  url: https://www.linaro.org/company/avnet/
+  url: https://www.avnet.com/
 - name: Canonical
   image: canonical.png
-  url: https://www.linaro.org/company/canonical/
+  url: https://www.canonical.com/
 - name: Fujitsu
   image: fujitsu.jpg
   url: https://www.linaro.org/company/fujitsu/
@@ -33,7 +33,7 @@
   url: https://www.linaro.org/company/hoperun/
 - name: Mediatek
   image: mediatek.jpg
-  url: https://www.linaro.org/company/mediatek/
+  url: https://www.mediatek.com/
 - name: Qualcomm
   image: quic.jpg
   url: https://www.linaro.org/company/quic/
