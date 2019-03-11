@@ -109,19 +109,17 @@ redirect_from:
             {% assign connect-code = site.connect-code | downcase %}
             {% if sponsor.events contains connect-code %}
             {% if sponsor.type == "lead" %}
-            <div class="col-xs-6 col-sm-5ths  text-center lead-sponsor">
-                <div class="sponsor">
-                    <h3> Lead Sponsor </h3>
-                    <a href="{{sponsor.url}}" target="_blank">
+            <div class="col-xs-6 col-sm-2  text-center lead-sponsor">
+                <div class="sponsor" data-toggle="tooltip" data-container="body" data-placement="top" title="Lead Sponsor">
+                    <a href="{{sponsor.url}}" target="_blank" data-toggle="tooltip" data-po>
                         <img class="{% if sponsor.class %}{{sponsor.class}}{% endif %}img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                             data-src="/assets/images/sponsors/{{sponsor.image}}" />
                     </a>
                 </div>
             </div>
             {% else %}
-            <div class="col-xs-6 col-sm-5ths text-center connect-sponsor">
-                <div class="sponsor {% if sponsor.padded %}padded{% endif %}">
-                    <h3> Sponsor </h3>
+            <div class="col-xs-6 col-sm-2 text-center connect-sponsor">
+                <div class="sponsor {% if sponsor.padded %}padded{% endif %}" data-toggle="tooltip" data-container="body" data-placement="top" title="Sponsor">
                     <a href="{{sponsor.url}}" target="_blank">
                         <img class="{% if sponsor.class %}{{sponsor.class}}{% endif %} img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                             data-src="/assets/images/sponsors/{{sponsor.image}}" />
@@ -138,7 +136,7 @@ redirect_from:
     <div class="container">
         <p class="home-text text-white">
             Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of
-            engineering sessions and hacking at Linaro Connect. The next one will be held at the Grand Centara Hotel in Thailand,
+            engineering sessions and hacking at Linaro Connect. The next one will be held at the Centara Grand at CentralWorld in Thailand,
             Bangkok from Monday 1 April to Friday 5 April 2019.
         </p>
     </div>

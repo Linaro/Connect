@@ -21,7 +21,7 @@ session_id: SFO17-308
 session_track: LEG,LHG
 slug: sfo17-308
 speakers: Chris Tyler
-title: "AArch64 Vector Optimizations for Glibc\n - SFO17-308"
+title: "AArch64 Vector Optimizations for Glibc - SFO17-308"
 video_length: '29:57'
 video_thumbnail: None
 wordpress_id: 6018

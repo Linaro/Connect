@@ -1,0 +1,19 @@
+{% assign featured-track = include.track %}
+{% assign currentConnect = site.connect-code | downcase %}
+{% assign featuredSessions = site.categories[currentConnect] | where: "session_track", featured-track %}
+
+<h2 class="text-center">{{featured-track}} Sessions</h2>
+<div class="owl-carousel owl-theme" id="featured-sessions-slider">
+    {% for session in featuredSessions %}
+    <a href="{{session.url}}" target="_blank">
+        <div class="item event-item">
+            <img class="event-image lazyload"
+                src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                data-src="{{session.image.path}}" alt="{{session.title}} Image" />
+            <div class="event-details-block">
+                <h3>{{session.title}}</h3>
+            </div>
+        </div>
+    </a>
+    {% endfor %}
+</div>

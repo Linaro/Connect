@@ -1,0 +1,44 @@
+---
+categories:
+- bkk19
+description: Fuego is yet another automated test framework for Linux. But it is different
+  from other systems in a few key ways. This session will introduce Fuego and describe
+  a few of its features that are different (to Tims knowledge) from other test systems
+  like LAVA, Buildbot, or LTP.<br /> <br /> Some of the features are Fuegos focus
+  on individual board testing (rather than test labs), results analysis separated
+  from the test itself, and on building a suite of tests readily available to begin
+  testing.<br /> <br /> Tim will also share some of his vision for the future of open
+  source testing, and what features of Fuego are being prototyped now to move towards
+  that vision. (That is, Tim will share his Fuego roadmap.)<br />
+image:
+  featured: 'true'
+  path: /assets/images/featured-images/bkk19/BKK19-407.png
+session_attendee_num: '16'
+session_id: BKK19-407
+session_room: Session Room 3 (Lotus 10)
+session_slot:
+  end_time: '2019-04-04 08:55:00'
+  start_time: '2019-04-04 08:30:00'
+session_speakers:
+- speaker_bio: Tim Bird is a Senior Software Engineer for Sony Corporation, where
+    he helps Sony use Linux and other open source software in their products. Tim
+    is the maintainer of the Fuego test framework, and is involved in various groups
+    in the Linux Foundation, including the LF Technical Advisory Board. Tim created
+    and continues to run the Embedded Linux Conference.<br><br>Tims overall goal is
+    to improve Linux for use in consumer electronics products, by improving Linux
+    system testing, directing technical initiatives of the Linux Foundation, and encouraging
+    companies to participate in the open source community. Tim has been working with
+    Linux for over 20 years.
+  speaker_company: Sony Electronics
+  speaker_image: /assets/images/speakers/bkk19/tim-bird-sony.jpg
+  speaker_location: ''
+  speaker_name: Tim Bird (Sony)
+  speaker_position: Sr Staff Software Engineer
+  speaker_username: tim.bird2
+session_track: Validation and CI
+tag: session
+tags:
+- Validation and CI
+- Testing
+title: What is this Fuego thing and where is it going?
+---
