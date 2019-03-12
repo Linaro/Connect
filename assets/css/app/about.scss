@@ -33,3 +33,8 @@ div#image-row {
 div#about-block-row {
     background-color: #e1e1e1;
 }
+#wrapper .carousel-header .big-triangle {
+    z-index: -1;
+    position: relative;
+    bottom: 0px;
+}

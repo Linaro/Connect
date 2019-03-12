@@ -1,11 +1,12 @@
 ---
 title: Register for BKK19
+description: >
+    Register for Linaro Connect today and join 100's of the world's leading Arm Open Source engineerings.
 permalink: /register/
 layout: jumbotron-container
 css-package: blog
 jumbotron:
     background-image: /assets/images/content/connect-registration.jpg
-    triangle-divider: true
 ---
 <div class="col-md-12" style="margin-top:30px;" markdown="1">
 
