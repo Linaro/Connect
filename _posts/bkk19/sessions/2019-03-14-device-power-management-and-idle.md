@@ -1,0 +1,48 @@
+---
+categories:
+- bkk19
+description: It can be a rather complicated task to deploy optimized power management
+  (PM) support in a driver in Linux. There are several PM frameworks and corresponding
+  function callbacks available per device, which the driver developer needs detailed
+  knowledge about. Particularly, when the goal is to reach the best energy efficient
+  behavior.<br /> <br /> Additionally, ARM SoCs in general, have quite sophisticated
+  and fine grained methods to put parts of a silicon into a low power state, as to
+  avoid wasting power when there are no active users of these parts. In Linux these
+  parts are typically modeled as so called, PM domains.<br /> <br /> During the session,
+  we dive into some of the relevant PM frameworks for dealing with idle and explains
+  the concepts behind them. We look into how to deploy support for system wide low
+  power states, such as suspend to ram, suspend to idle and suspend to disk. We look
+  at it, both from the PM domain and the driver point of view.<br /> <br /> Moreover,
+  to deploy fine grained PM support, the session gives some best practices of how
+  to use runtime PM and the generic PM domain frameworks, as well as looks into how
+  to implement support for called wakeup interrupts.
+image:
+  featured: 'true'
+  path: /assets/images/featured-images/bkk19/BKK19-119.png
+session_attendee_num: '12'
+session_id: BKK19-119
+session_room: Session Room 3 (Lotus 10)
+session_slot:
+  end_time: '2019-04-01 16:55:00'
+  start_time: '2019-04-01 16:00:00'
+session_speakers:
+- speaker_bio: Ulf has a very long experience of using Linux and has been contributing
+    the Linux kernel development for many years by now. He maintains the MMC subsystem
+    and the generic PM domain in the Linux kernel, but also spends lots of time reviewing
+    various changes related to power management and to their corresponding frameworks.<br><br>Moreover,
+    Ulf has a background in real-time and embedded systems. He also has an in-depth
+    knowledge about flash memory technologies, such as NAND and NOR.<br><br>Ulf is
+    working for Linaro and specializing in power management.
+  speaker_company: Linaro
+  speaker_image: /assets/images/speakers/bkk19/ulf-hansson.jpg
+  speaker_location: ''
+  speaker_name: Ulf Hansson
+  speaker_position: Senior Kernel Engineer
+  speaker_username: ulf.hansson@linaro.org
+session_track: Power Management
+tag: session
+tags:
+- Power Management
+- Linux Kernel
+title: Device power management and idle
+---
