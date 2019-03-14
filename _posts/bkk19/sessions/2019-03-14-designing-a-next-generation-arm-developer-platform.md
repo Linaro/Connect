@@ -1,0 +1,82 @@
+---
+categories:
+- bkk19
+description: 'There has been a lot of discussion in the ARM community on twitter for
+  a NUC like platform for ARM. A group of us have been collecting requirements and
+  want to have a discussion with the community at large on what we want ideally see
+  in a new platform, ADUC: The Arm Developer Unit of Computing. Were gathering resources
+  and working with industry partners to try and build something to show the world
+  that we need something between a Raspberry Pi and a Server that is somewhat easily
+  available, and a finished product. Join us to hear what we have found, and provide
+  your feedback for what you would want to see in such a product. We wont solve everyones
+  problems, but were hoping to get something that can be an excellent first step.'
+image:
+  featured: 'true'
+  path: /assets/images/featured-images/bkk19/BKK19-302.png
+session_attendee_num: '31'
+session_id: BKK19-302
+session_room: 'Keynote Room (World Ballroom BC) '
+session_slot:
+  end_time: '2019-04-03 09:25:00'
+  start_time: '2019-04-03 09:00:00'
+session_speakers:
+- speaker_bio: All things Arm Servers, Arm Single Board Computers, and Arm at the
+    Edge!
+  speaker_company: miniNodes.com
+  speaker_image: /assets/images/speakers/bkk19/david-tischler.jpg
+  speaker_location: ''
+  speaker_name: David Tischler
+  speaker_position: Founder
+  speaker_username: davidtischler
+- speaker_bio: TBD
+  speaker_company: ''
+  speaker_image: /assets/images/speakers/placeholder.jpg
+  speaker_location: ''
+  speaker_name: David Tischler
+  speaker_position: TBD
+  speaker_username: david_tischler.1z6gch1s
+- speaker_bio: Carl has been a veteran of the hosting industry for many years and
+    an avid supporter of alternative architectures to x86
+  speaker_company: Packet Host
+  speaker_image: /assets/images/speakers/bkk19/carl-perry.jpg
+  speaker_location: Austin, Texas Area
+  speaker_name: Carl Perry
+  speaker_position: Ecosystem Engineer
+  speaker_username: carl148
+- speaker_bio: Ed is an Internet veteran with over 30 years experience.<br /><br />He
+    has extensive experience with networks at all levels - physical, logical, technical,
+    social, political, and financial. He is a graduate of the University of Michigan,
+    and an alumnus of Cisco Systems and Arbor Networks.<br /><br />At Packet, Ed leads
+    outreach to a wide variety of software ecosystems, from open source to the Enterprise.
+    His main project is WorksOnARM, which helps to bring cloud native and data center
+    software to ARMv8 servers.<br /><br />When hes not opening issues on Github, Ed
+    can be found on the amateur radio bands as W8EMV, tinkering with a pile of Raspberry
+    Pis, or coworking at Ann Arbors Workantile.
+  speaker_company: Packet
+  speaker_image: /assets/images/speakers/bkk19/ed-vielmetti.jpg
+  speaker_location: Ann Arbor, MI
+  speaker_name: Ed Vielmetti
+  speaker_position: Special Projects Director
+  speaker_username: ed309
+- speaker_bio: Open source software and hardware enthusiast. Currently working at
+    96Boards, Linaro as a full-time Maker.
+  speaker_company: Linaro
+  speaker_image: /assets/images/speakers/bkk19/sahaj-sarup.jpg
+  speaker_location: India
+  speaker_name: Sahaj Sarup
+  speaker_position: Application Engineer
+  speaker_username: sahaj.sarup
+session_track: Arm on Arm
+tag: session
+tags:
+- Boot Architecture
+- 96Boards
+- Tools
+- Networking
+- Linux Kernel
+- IoT Fog/Gateway/Edge Computing
+- Testing
+- Open Source Development
+- Multimedia
+title: Designing a next generation ARM Developer Platform
+---
