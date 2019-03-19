@@ -1,12 +1,12 @@
 ---
-title: Accomodation
-permalink: /accomodation/
+title: Accommodation
+permalink: /accommodation/
 description: >-
     Here you can find a summary of the accomodation options available for the upcoming Linaro Connect event.
 layout: jumbotron-container
 jumbotron:
     triangle-divider: true
-    title: Accomodation
+    title: Accommodation
     carousel-images:
         - /assets/images/content/accomodation-hkg18-banner.jpg
         - /assets/images/content/accomodation-bud17-banner.jpg
@@ -19,7 +19,7 @@ The next Linaro Connect will be held at the Centara Grand at CentralWorld 999/99
 
 Please book using Linaro’s link to receive our negotiated conference attendee rates:
 
-<a href="https://cgcweventsrsvn.chr.co.th/lcit2019/" class="btn btn-primary">Book Accomodation</a>
+<a href="https://cgcweventsrsvn.chr.co.th/lcit2019/" class="btn btn-primary">Book Accommodation</a>
 
 *Linaro employees: please book via our internal form which can be found on the [employee
 page](https://collaborate.linaro.org/display/CNCT/Employee+Specific+Information+for+BKK19))
