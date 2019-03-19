@@ -1,26 +1,54 @@
-# Linaro Connect Event Website
+# Linaro Connect Event Website - connect.linaro.org
 
-Welcome to the official content repository for Linaro Connect's static [Jekyll](https://jekyllrb.com/) website. Connect resources are added to this website through Jekyll posts. These resources are updated during and after Connect.
+Welcome to the official content repository for Linaro Connect's static [Jekyll](https://jekyllrb.com/) website. Connect resources are added to this website through Jekyll posts. These resources are updated during and after Connect. We have a few python scripts that we can use to make the addition of resources to the Connect website easier and more efficient; these scripts create/update and delete Jekyll posts. 
 
 We are open to you [submitting a PR](https://github.com/linaro/connect/pulls) / [Issue](https://github.com/Linaro/connect/issues/new) if there is anything you notice that is out of place or needs updating.
 
 *****
 
-__PR's related to the Dockerfile and build.sh will take considerably longer to review than Jekyll or content changes.__
-
 ## Guides
 
 Below are a few guides that will help when adding content/making changes to the Linaro Connect website.
 
-- [Editing on GitHub](#editing-on-gitHub)
-- [Adding Keynotes to the Homepage Carousel](#add-keynotes-to-the-homepage-carousel)
-- [Add a new resources section to /resources/ ](#add-a-new-resources-section-to-resources)
-- [Adding Connect Keynote Speakers](#adding-connect-keynote-speakers)
-- [Updating the Home page Banner](#updating-the-homepage-banner)
-- [Building and Contributing](#building-and-contributing)
+- [Generic Website Guides](#generic-website-guides)
+    - [Adding a Page](#adding-a-blog-post)
+    - [Adding a Blog Post](#adding-a-blog-post)
+    - [Adding Redirects to the Static Site](#adding-redirects-to-the-static-site)
+    - [Building the Static Site](#building-the-static-site)
+- [Connect.linaro.org Specific Guides](connect.linaro.org-specific-guides)
+    - [Editing on GitHub](#editing-on-gitHub)
+    - [Adding Keynotes to the Homepage Carousel](#add-keynotes-to-the-homepage-carousel)
+    - [Add a new resources section to /resources/ ](#add-a-new-resources-section-to-resources)
+    - [Adding Connect Keynote Speakers](#adding-connect-keynote-speakers)
+    - [Updating the Home page Banner](#updating-the-homepage-banner)
+    - [Building and Contributing](#building-and-contributing)
 
 *****
+# Generic Website Guides
 
+- [Adding a Page](#adding-a-blog-post)
+- [Adding a Blog Post](#adding-a-blog-post)
+- [Adding Redirects to the Static Site](#adding-redirects-to-the-static-site)
+- [Building the Static Site](#building-the-static-site)
+
+## Addding a Page
+
+Please view the theme documentation on adding pages [here](https://github.com/linaro-marketing/jumbo-jekyll-theme#adding-pages).
+
+## Adding a Blog Post
+
+Please view the theme documentation on adding blog posts [here](https://github.com/linaro-marketing/jumbo-jekyll-theme#adding-posts).
+
+## Adding Redirects to the Static Site
+
+Please view the theme documentation on adding redirects [here](https://github.com/linaro-marketing/jumbo-jekyll-theme#adding-redirects).
+
+## Building the Static Site
+
+Please view the theme documentation on building the static website [here](https://github.com/linaro-marketing/jumbo-jekyll-theme#building-the-static-site).
+
+******* 
+# Connect.linaro.org Specific Guides
 ## Editing on GitHub
 
 If you are editing the website on GitHub you will need to make a fork of the Linaro/Connect repo, make changes there and then create a pull request to merge your changes in the main code repository for the Connect website.
