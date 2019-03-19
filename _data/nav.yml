@@ -26,8 +26,8 @@ pages:
             url: /schedule/
           - text: Arm on Arm Summit
             url: /attend/arm-on-arm-summit/
-          - text: Accomodation
-            url: /accomodation/
+          - text: Accommodation
+            url: /accommodation/
           - text: Call for proposals
             url: /cfp/
           - text: Call for Demos
