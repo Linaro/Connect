@@ -12,7 +12,7 @@ connect-code: SAN19
 connect-text: Linaro Connect San Diego 2019 
 previous-connect-code: BKK19
 # Status of current Connect
-connect-status: pre
+connect-status: post
 # Include the Linaro Jekyll Theme
 theme: jumbo-jekyll-theme
 # Permalink for the blog posts of the Jekyll website.
