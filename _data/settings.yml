@@ -2,6 +2,8 @@
 favicon: favicon.png
 # Site name
 name: Linaro Connect
+# Hide Last Modified Date
+hide_last_modified: true
 # Site Slogan
 slogan: The leading event for Open source software engineering on Arm
 # Mailchimp settings

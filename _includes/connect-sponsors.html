@@ -14,9 +14,8 @@
                 {% assign connect-code = site.connect-code | downcase %}
                 {% if sponsor.events contains connect-code %}
                     {% if sponsor.type == "lead" %}
-                    <div class="col-xs-6 col-sm-5ths  text-center lead-sponsor ">
-                        <div class="sponsor {% if sponsor.padded %}padded{% endif %}">
-                            <h3> Lead Sponsor </h3>
+                    <div class="col-xs-6 col-sm-2  text-center lead-sponsor ">
+                        <div class="sponsor {% if sponsor.padded %}padded{% endif %}" data-toggle="tooltip" data-container="body" data-placement="top" title="Lead Sponsor">
                             <a href="{{sponsor.url}}" target="_blank">
                                 <img class="{% if sponsor.class %}{{sponsor.class}}{% endif %}img-responsive lazyload"
                                  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -25,9 +24,8 @@
                         </div>
                     </div>
                     {% else %}
-                    <div class="col-xs-6 col-sm-5ths text-center connect-sponsor">
-                        <div class="sponsor {% if sponsor.padded %}padded{% endif %}">
-                            <h3> Sponsor </h3>
+                    <div class="col-xs-6 col-sm-2 text-center connect-sponsor">
+                        <div class="sponsor {% if sponsor.padded %}padded{% endif %}" data-toggle="tooltip" data-container="body" data-placement="top" title="Sponsor">
                             <a href="{{sponsor.url}}" target="_blank">
                                 <img class="{% if sponsor.class %}{{sponsor.class}}{% endif %} img-responsive lazyload"
                                  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
