@@ -4,13 +4,13 @@ title: Linaro Connect
 name: Linaro Connect
 # Description of the website used in the Meta Description.
 description: > # this means to ignore newlines until "baseurl:"
-  Linaro Connect Bangkok 2019 (BKK19) will take place on Monday 1 April to Friday 5 April 2019
+  Linaro Connect San Diego 2019 (BKK19) will take place in San Diego California September 23-27, 2019
 # Destination of the Jekyll site upon build of site.
 destination: _site
 # Code of current connect.
-connect-code: BKK19
-connect-text: Linaro Connect Bangkok 2019 
-previous-connect-code: YVR18
+connect-code: SAN19
+connect-text: Linaro Connect San Diego 2019 
+previous-connect-code: BKK19
 # Status of current Connect
 connect-status: pre
 # Include the Linaro Jekyll Theme
