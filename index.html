@@ -2,9 +2,9 @@
 layout: jumbotron
 css-package: home
 js-package: home
-title: Linaro Connect Bangkok 2019 (BKK19)
+title: Linaro Connect San Diego 2019 (SAN19)
 description: |-
-    Linaro Connect Bangkok 2019 (BKK19) will take place on Monday 1 April to Friday 5 April 2019
+    The next Connect will be held in San Diego California September 23-27, 2019. Registration will be announced in May 2019
 featured-images:
     - /assets/images/content/hkg18-sponsor-thumb-1.jpg
     - /assets/images/content/yvr18-sponsor-thumb-1.jpg
@@ -58,8 +58,12 @@ redirect_from:
             </div>
         </div>
         <div class="row">
+            {% if site.connect-status == "pre" %}
+                {% assign connect-code = site.connect-code | downcase %}
+            {% else %}
+                {% assign connect-code = site.previous-connect-code | downcase %}
+            {% endif %}
             {% for sponsor in site.data.sponsors %}
-            {% assign connect-code = site.connect-code | downcase %}
             {% if sponsor.events contains connect-code %}
             {% if sponsor.type == "lead" %}
             <div class="col-xs-6 col-sm-2  text-center lead-sponsor">
