@@ -17,12 +17,10 @@ jumbotron:
 ---
 The next Linaro Connect will be held at the Centara Grand at CentralWorld 999/99 Rama 1 Road, Pathumwan, Bangkok 10330, Thailand
 
-Please book using Linaro’s link to receive our negotiated conference attendee rates:
+Accommodation booking through Linaro's discounted rate ended on 18 March 2019. Please check availability and rates on the Centara Grand at CentralWorld website [here](https://www.centarahotelsresorts.com/centaragrand/cgcw/?utm_source=adwords&utm_medium=ppc&utm_campaign=brand-search-cgcw?Hotelnames=ascentral&d=30d-xppc&partner=FB-PACK-PPC-15&campaignId=221306206%7C4787521126%7Ckwd-kwd-24171909005&gclid=Cj0KCQjwj9LkBRDnARIsAGQ-hUdnZw-1J2GA1jESlEGXtVdRLHtAkB3GzruQwh8VJz9EGdKbxZGAUcUaApGhEALw_wcB)
 
-<a href="https://cgcweventsrsvn.chr.co.th/lcit2019/" class="btn btn-primary">Book Accommodation</a>
 
-*Linaro employees: please book via our internal form which can be found on the [employee
-page](https://collaborate.linaro.org/display/CNCT/Employee+Specific+Information+for+BKK19))
+For those who booked through Linaro's discounted rate before the deadline details can be found below:
 
 <table class="m_-9205977082252505863gmail-confluenceTable" style="border-collapse:collapse;margin:0px;overflow-x:auto">
     <colgroup>
@@ -47,10 +45,10 @@ page](https://collaborate.linaro.org/display/CNCT/Employee+Specific+Information+
             <td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px">Superior
                 / Deluxe World</td>
             <td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px">
-                <p class="m_-9205977082252505863gmail-style4" style="margin:0px;padding:0px">THB 4,350++ (5,119.95 net)</p>
+                <p class="m_-9205977082252505863gmail-style4" style="margin:0px;padding:0px"></p>
             </td>
             <td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px">
-                <p class="m_-9205977082252505863gmail-style4" style="margin:0px;padding:0px">THB 4,750++ (5,590.75 net)</p>
+                <p class="m_-9205977082252505863gmail-style4" style="margin:0px;padding:0px"></p>
             </td>
         </tr>
         <tr>
@@ -69,20 +67,18 @@ page](https://collaborate.linaro.org/display/CNCT/Employee+Specific+Information+
             <td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px">World
                 Club Executive/Deluxe</td>
             <td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px">
-                <p class="m_-9205977082252505863gmail-style4" style="margin:0px;padding:0px">THB 6,400++ (7,532.80 net)</p>
+                <p class="m_-9205977082252505863gmail-style4" style="margin:0px;padding:0px"></p>
             </td>
             <td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px">
-                <p class="m_-9205977082252505863gmail-style4" style="margin:0px;padding:0px">THB 6,900++ (8,121.30 net)</p>
+                <p class="m_-9205977082252505863gmail-style4" style="margin:0px;padding:0px"></p>
             </td>
         </tr>
         <tr>
             <td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px">&nbsp;</td>
             <td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px">Executive
                 Suite Room</td>
-            <td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px">THB
-                10,500++(12,358.50 net)</td>
-            <td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px">THB
-                11,000++ (12,947.00 net)</td>
+            <td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px"></td>
+            <td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px"></td>
         </tr>
         <tr>
             <td class="m_-9205977082252505863gmail-confluenceTd" style="border:1px solid rgb(193,199,208);padding:7px 10px;vertical-align:top;min-width:8px">&nbsp;</td>
