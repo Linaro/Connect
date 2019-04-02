@@ -1,0 +1,68 @@
+---
+categories:
+- bkk19
+description: Arm on Arm means different things to different people, companies and
+  markets. &nbsp; Experts from Arm, Linaro, and Marvell will discuss what Arm on Arm
+  means to them, what has been achieved and what is left to do.<br><br><br>
+image:
+  featured: 'true'
+  path: /assets/images/featured-images/bkk19/BKK19-312.png
+session_attendee_num: '78'
+session_id: BKK19-312
+session_room: 'Keynote Room (World Ballroom BC) '
+session_slot:
+  end_time: '2019-04-03 16:45:00'
+  start_time: '2019-04-03 16:00:00'
+session_speakers:
+- speaker_bio: Anything technical, open source, beer and dogs
+  speaker_company: Linaro
+  speaker_image: /assets/images/speakers/bkk19/david-rusling.jpg
+  speaker_location: Cambridge, UK
+  speaker_name: David Rusling
+  speaker_position: CTO
+  speaker_username: david.rusling
+- speaker_bio: ''
+  speaker_company: Arm
+  speaker_image: /assets/images/speakers/bkk19/grant-likely.jpg
+  speaker_location: ''
+  speaker_name: Grant Likely
+  speaker_position: Senior Technical Director
+  speaker_username: grant.likely1
+- speaker_bio: ''
+  speaker_company: Marvell
+  speaker_image: /assets/images/speakers/placeholder.jpg
+  speaker_location: ''
+  speaker_name: Larry Wikelius
+  speaker_position: ''
+  speaker_username: larry_wikelius.1z7uk9az
+- speaker_bio: ''
+  speaker_company: Marvell
+  speaker_image: /assets/images/speakers/bkk19/larry-wikelius.jpg
+  speaker_location: ''
+  speaker_name: Larry Wikelius
+  speaker_position: VP - Ecosystem and Partner Enabling
+  speaker_username: lwikelius
+- speaker_bio: Jacob Smith is the Chief Marketing Officer and a co-founder at Packet,
+    a NYC-based startup that specializes in automating fundamental infrastructure.
+    <br /><br />The company - which is backed by SoftBank, Dell Technologies, Samsung,
+    Battery Ventures, and Third Point Capital - provides x86 and Arm bare metal compute
+    to developers, SaaS companies and Fortune 50s through its Public Cloud, Enterprise
+    (On-Premises) and Edge solutions.<br /><br />At Packet, Jacob directs revenue
+    marketing, ecosystem outreach, and strategic alliances.  In 2017, he worked with
+    Arm to create the WorksOnArm ecosystem enablement program.<br /><br />A classical
+    bassoonist by training, Jacob performed as a professional opera musician and ran
+    a digital marketing firm before starting Packet with his twin brother Zac in 2014.
+    He lives in Vermont with his wife and two sons.<br /><br />
+  speaker_company: Packet
+  speaker_image: /assets/images/speakers/bkk19/jacob-smith.jpg
+  speaker_location: Vermont, USA
+  speaker_name: Jacob Smith
+  speaker_position: CMO / Co-founder
+  speaker_username: jacob352
+session_track: Arm on Arm
+tag: session
+tags:
+- Open Source Development
+title: 'Panel Discussion: Arm on Arm - Native Development on Arm for Deployment on
+  Arm'
+---
