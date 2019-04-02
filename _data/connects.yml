@@ -1,5 +1,5 @@
 - id: BKK19
-  placeholder: /assets/images/content/bkk19-group-photo.jpg
+  placeholder: bkk19-group-photo.jpg
   featured_images:
     - /assets/images/content/bkk19-group-photo.jpg
   long-name: Linaro Connect Bangkok 2019
