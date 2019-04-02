@@ -1,0 +1,50 @@
+---
+categories:
+- bkk19
+description: This session goes thru collaboration between TI, Linaro, Google and open
+  source community in upstreaming and development of AOSP with TI Beagleboard X15
+  platform .<br><br>We cover the various development phases including hardware and
+  software requirements for a platform to be AOSP dev platform and review pros and
+  challenges of X15 .&nbsp;<br>Will also review the status of features upstreamed
+  and on going development towards future bootloader , kernel , pastry and associated
+  external opensource projects.<br>Notes and commentsAOSP Development Boards are intended
+  for both Android userspace and kernel development, as well and upstreaming patches<br><br>This
+  proposal goes thru the path of exploring TI X15 as a AOSP reference platform and
+  why the platform stands out from a plethora of available dev boards --&gt;Pre development
+  of baseline thru LCR/LKFT on stable tags --&gt; Review SW/HW requirements and anticipate
+  tactical/strategical challenges --&gt; Submit to AOSP gerrit and address review
+  comments --&gt; Platform/manifest ready ? with expected functionality? --&gt; Ensure
+  no regression thru triage support for expected project duration. --&gt; Future plan/
+  Have plan for pastry,kernel migrations and collaborate across board on common feature
+  development.
+image:
+  featured: 'true'
+  path: /assets/images/featured-images/bkk19/BKK19-413.png
+session_attendee_num: '25'
+session_id: BKK19-413
+session_room: Session Room 3 (Lotus 10)
+session_slot:
+  end_time: '2019-04-04 11:25:00'
+  start_time: '2019-04-04 11:00:00'
+session_speakers:
+- speaker_bio: Automotive Infotainment, System Software, OMAP Platform Android Kernel
+    Maintainer.
+  speaker_company: TI
+  speaker_image: /assets/images/speakers/bkk19/praneeth-bajjuri.jpg
+  speaker_location: Dallas, Texas
+  speaker_name: Praneeth Bajjuri
+  speaker_position: Android Software Developer
+  speaker_username: praneeth.bajjuri
+- speaker_bio: ''
+  speaker_company: Texas Instruments
+  speaker_image: /assets/images/speakers/bkk19/mykhailo-sopiha.jpg
+  speaker_location: ''
+  speaker_name: Mykhailo Sopiha
+  speaker_position: Android OS Engineer
+  speaker_username: mykhailo.sopiha
+session_track: Android
+tag: session
+tags:
+- Open Source Development
+title: AOSP Device Upstreaming and Development with X15
+---
