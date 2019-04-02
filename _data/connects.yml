@@ -1,12 +1,12 @@
 - id: BKK19
-  placeholder: bkk19-website-banner.png
+  placeholder: /assets/images/content/bkk19-group-photo.jpg
   featured_images:
-    - /assets/images/content/bkk19-website-banner.png
+    - /assets/images/content/bkk19-group-photo.jpg
   long-name: Linaro Connect Bangkok 2019
   start-date: 2019-04-01 09:00:00
   end-date: 2019-04-05 09:00:00
   location:
-      venue: Centara Grand Hotel
+      venue: Centara Grand at CentralWorld
       city: Bangkok
       country: Thailand
   using_json: "True"
