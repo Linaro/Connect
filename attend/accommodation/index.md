@@ -19,6 +19,10 @@ The next Linaro Connect will be held at the Centara Grand at CentralWorld 999/99
 
 Accommodation booking through Linaro's discounted rate ended on 18 March 2019. Please check availability and rates on the Centara Grand at CentralWorld website [here](https://www.centarahotelsresorts.com/centaragrand/cgcw/?utm_source=adwords&utm_medium=ppc&utm_campaign=brand-search-cgcw?Hotelnames=ascentral&d=30d-xppc&partner=FB-PACK-PPC-15&campaignId=221306206%7C4787521126%7Ckwd-kwd-24171909005&gclid=Cj0KCQjwj9LkBRDnARIsAGQ-hUdnZw-1J2GA1jESlEGXtVdRLHtAkB3GzruQwh8VJz9EGdKbxZGAUcUaApGhEALw_wcB)
 
+<<<<<<< HEAD:attend/accommodation/index.md
+=======
+<a href="https://cgcweventsrsvn.chr.co.th/lcit2019/" class="btn btn-primary">Book Accommodation</a>
+>>>>>>> upstream/develop:attend/accommodation/index.md
 
 For those who booked through Linaro's discounted rate before the deadline details can be found below:
 
