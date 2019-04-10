@@ -1,0 +1,43 @@
+---
+categories:
+- bkk19
+description: Different test frameworks have very different approaches to tests, including
+  when they run, how they are run, what data formats are used, and what the various
+  fields are that control test operation and results analysis. Recently, Tim has conducted
+  a survey of different "test definitions", in an attempt to cull best practices and
+  search for commonality that will lead to enhanced interoperability between test
+  systems. In this session, Tim will present the results of his survey, and make suggestions
+  for areas where tests could be harmonized, and used in common between Fuego and
+  Lava - two test systems with very different approaches.<br /> <br />
+image:
+  featured: 'true'
+  path: /assets/images/featured-images/bkk19/BKK19-211.png
+session_attendee_num: '47'
+session_id: BKK19-211
+session_room: 'Keynote Room (World Ballroom BC) '
+session_slot:
+  end_time: '2019-04-02 12:25:00'
+  start_time: '2019-04-02 12:00:00'
+session_speakers:
+- speaker_bio: Tim Bird is a Senior Software Engineer for Sony Corporation, where
+    he helps Sony use Linux and other open source software in their products. Tim
+    is the maintainer of the Fuego test framework, and is involved in various groups
+    in the Linux Foundation, including the LF Technical Advisory Board. Tim created
+    and continues to run the Embedded Linux Conference.<br><br>Tims overall goal is
+    to improve Linux for use in consumer electronics products, by improving Linux
+    system testing, directing technical initiatives of the Linux Foundation, and encouraging
+    companies to participate in the open source community. Tim has been working with
+    Linux for over 20 years.
+  speaker_company: Sony Electronics
+  speaker_image: /assets/images/speakers/bkk19/tim-bird-sony.jpg
+  speaker_location: ''
+  speaker_name: Tim Bird (Sony)
+  speaker_position: Sr Staff Software Engineer
+  speaker_username: tim.bird2
+session_track: Validation and CI
+tag: session
+tags:
+- Testing
+- Validation and CI
+title: Harmonizing open source test definitions
+---
