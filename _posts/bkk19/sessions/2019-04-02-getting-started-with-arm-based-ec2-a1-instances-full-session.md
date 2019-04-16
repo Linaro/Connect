@@ -1,0 +1,37 @@
+---
+categories:
+- bkk19
+description: '[Full Session] Please review the preparation notes below.<br>Amazon
+  EC2 A1 instances are the first EC2 instances powered by Arm-based AWS Graviton processors.
+  They deliver significant cost savings for scale-out and Arm-based applications,
+  such as web servers, containerized microservices, caching fleets, and distributed
+  data stores that are supported by the extensive Arm product platform. In this workshop,
+  you learn about EC2 A1 instances and experience how easy it can be to migrate and
+  run your workloads on EC2 A1.<br><br><strong>**** Please note that this is a working
+  tutorial. To prepare, you need: ****</strong><br><br>• Laptop or laptop-like device<br><em>&nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Need a keyboard and terminal/shell
+  access)</em><br>• A Modern Browser with Third-Party Cookies Enabled<br><em>&nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Chrome or Firefox recommended;
+  IE will NOT work)</em><br>• &nbsp; &nbsp; &nbsp; Established AWS Account with Admin
+  Access privileges – new accounts can be created by signing up for a free EC2 account
+  here:<a data-saferedirecturl="https://www.google.com/url?q=https://aws.amazon.com/ec2/&source=gmail&ust=1553686282470000&usg=AFQjCNEclrXDnsa4vHjYmaRWscjfHblwJQ"
+  href="https://aws.amazon.com/ec2/" target="_blank">https://aws.amazon.com/ec2/</a>
+  and credits will be provided to cover the workshop utilization<br><em>&nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Need fairly widespread permissions: create
+  IAM roles, VPCs, Subnets, Routes, EC2, Secrets, etc.)</em>'
+image:
+  featured: 'true'
+  path: /assets/images/featured-images/bkk19/BKK19-TR07.png
+session_attendee_num: '8'
+session_id: BKK19-TR07
+session_room: Session Room 2 (Lotus 3-4)
+session_slot:
+  end_time: '2019-04-04 15:55:00'
+  start_time: '2019-04-04 15:00:00'
+session_speakers: []
+session_track: Data Center
+tag: session
+tags:
+- Arm on Arm
+title: Getting Started with Arm-Based EC2 A1 Instances (Full Session)
+---

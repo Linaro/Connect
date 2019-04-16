@@ -1,13 +1,10 @@
 ---
 permalink: /assets/json/hkg18/data.json
 ---
-connectResources([
-{% for post in site.categories.hkg18 %}
-    {
+[{% for post in site.categories.hkg18 %}{
         "id": "{{ post.id }}",
         {% if post.session_id %}"session_id": "{{ post.session_id }}",{% endif %}
         {% if post.categories %}"event_id": "{{ post.categories }}",{% endif %}
-        "title": {{ post.title | smartify | jsonify }},
         "url": "{{ site.url }}{{ post.url }}",
         "summary": {{ post.excerpt | strip_html | smartify | jsonify }},
         "date_published": "{{ post.date }}",
@@ -39,9 +36,5 @@ connectResources([
         {% if post.image.path %}
         "thumbnail": "{{site.url}}{{post.image.path}}",
         {% endif %}
-        {% if post.image.path %}
-        "thumbnail": "{{site.url}}{{post.image.path}}",
-        {% endif %}
-    }{% unless forloop.last == true %},{% endunless %}
-{% endfor %}
-]);
+        "title": {{ post.title | smartify | jsonify }}
+    }{% unless forloop.last == true %},{% endunless %}{% endfor %}]

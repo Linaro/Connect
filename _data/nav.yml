@@ -9,7 +9,7 @@ brand:
     text: Linaro
     image: 
         enabled: true
-        name: /assets/images/content/bkk19-horizontal-dark.png
+        path: /assets/images/content/bkk19-horizontal-dark.png
     url: /
 pages:
     - title: About
@@ -18,15 +18,16 @@ pages:
             url: /about/
           - text: Future Connect Events
             url: /future-connects/
-
     - title: Attend
       options:
           - text: Register
             url: /register/
           - text: Schedule
             url: /schedule/
-          - text: Accomodation
-            url: /accomodation/
+          - text: Arm on Arm Summit
+            url: /attend/arm-on-arm-summit/
+          - text: Accommodation
+            url: /accommodation/
           - text: Call for proposals
             url: /cfp/
           - text: Call for Demos
@@ -38,4 +39,19 @@ pages:
     - title: Sponsors
       url: /sponsors/
     - title: Resources
-      data: site.data.connects
+      active_paths:
+          - /resources/
+      options:
+          - text: All Resources
+            url: /resources/
+          - text: Bangkok 2019
+            url: /resources/bkk19/
+          - text: Vancouver 2018
+            url: /resources/yvr18/
+          - text: Hong Kong 2018
+            url: /resources/hkg18/
+          - text: San Francisco 2017
+            url: /resources/sfo17/
+          - text: Budapest 2017
+            url: /resources/bud17/
+

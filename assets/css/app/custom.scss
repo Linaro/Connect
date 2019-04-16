@@ -655,7 +655,7 @@ span.line {
 #current-sponsors .sponsor {
   text-align: center;
 }
-div#current-sponsors {
+div.footer-sponsors {
   padding-bottom: 50px;
 }
 #current-sponsors h2 {
@@ -672,9 +672,6 @@ div#current-sponsors {
 }
 #current-sponsors .col-xs-12.text-center {
   margin-bottom: 25px;
-}
-#current-sponsors .sponsor .img-responsive:hover {
-  transform: scale(1.2);
 }
 .lead-sponsor h3,
 .connect-sponsor h3 {
@@ -701,4 +698,40 @@ div#schedule .list-group-item {
 }
 #schedule ul.list-group {
     margin-bottom: 0px;
+}
+
+
+// Add to theme
+.shadowed-row {
+    box-shadow: inset 0px 13px 20px -10px #000, inset 0px -13px 20px -10px #000;
+}
+
+// Schedule page
+div#overview-schedule {
+    background-color: #323232;
+}
+div#overview-schedule h3{
+    color:white;
+    margin:40px 0;
+}
+div#overview-schedule li.list-group-item {
+    overflow: auto;
+}
+div#overview-schedule ul{
+    margin-bottom:0px;
+}
+div#overview-schedule .panel-heading {
+    border-color:transparent;
+}
+// Resources search page
+div#connect-resources-table {
+    height: 1000px;
+    overflow: scroll !important;
+}
+.padded img {
+    padding: 20px;
+}
+// Featured Sessions Slider
+#featured-sessions-slider h3 {
+    font-size: 16px;
 }

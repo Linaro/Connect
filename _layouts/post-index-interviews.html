@@ -11,70 +11,71 @@ js-package: resources-blog
         {% assign using_json = "True" %}
     {% endif %}
 {% endfor %}
-<div class="col-md-9 no-padding" id="main-resources-content" event-id="{{current_connect}}">
+<div class="col-md-9" id="main-resources-content" event-id="{{current_connect}}">
     <div class="row">
-    {% for post in paginator.posts %}
-        <div class="col-md-4 col-sm-4 col-xs-12 no-padding">
-            <div class="resource-block">
-            <a href="{{post.url}}">
-                <div class="resource">
-                    {% if post.image.name %}
-{% capture image_path %}assets/images/featured-images/{{post.image.name}}{% endcapture %}
-{% responsive_image_block %}
-path: "{{ image_path }}"
-title: "{{ post.title }}"
-alt: "{{ post.title }}"
-{% endresponsive_image_block %}
-                    {% else %}
-                    {% capture image_path %}assets/images/content/connect-logo.png{% endcapture %}
-                    {% for each in site.data.connects %}
-                        {% if each.id == page.event_code %}
-                            {% if each.placeholder %}
-                                {% capture image_path %}assets/images/content/{{each.placeholder}}{% endcapture %}
+    {% if paginator.total_posts > 0 %}
+        {% for post in paginator.posts %}
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="resource-block">
+                <a href="{{post.url}}">
+                    <div class="resource">
+                        {% if post.image.name %}
+    {% capture image_path %}assets/images/featured-images/{{post.image.name}}{% endcapture %}
+    {% responsive_image_block %}
+    path: "{{ image_path }}"
+    title: "{{ post.title }}"
+    alt: "{{ post.title }}"
+    {% endresponsive_image_block %}
+                        {% else %}
+                        {% capture image_path %}assets/images/content/connect-logo.png{% endcapture %}
+                        {% for each in site.data.connects %}
+                            {% if each.id == page.event_code %}
+                                {% if each.placeholder %}
+                                    {% capture image_path %}assets/images/content/{{each.placeholder}}{% endcapture %}
+                                {% endif %}
                             {% endif %}
+                        {% endfor %}
+    {% responsive_image_block %}
+    path: "{{ image_path }}"
+    title: "{{ post.title }}"
+    alt: "{{ post.title }}"
+    {% endresponsive_image_block %}
                         {% endif %}
-                    {% endfor %}
-{% responsive_image_block %}
-path: "{{ image_path }}"
-title: "{{ post.title }}"
-alt: "{{ post.title }}"
-{% endresponsive_image_block %}
-                    {% endif %}
-                </div>
-            </a>
-            {% if using_json == "True" %}
-            <div class="resource-info col-xs-12 no-padding using_json" session-id="{{post.session_id}}">
-            </div>
-            <div class="resource-title col-xs-12 no-padding">
-                <h3>{{post.title}}</h3>
-                <a href="{{post.url}}">
-                    <div class="resource-button">
-                        <i class="glyphicon glyphicon-chevron-right"></i>
                     </div>
                 </a>
-            </div>
-            {% else %}
-            <div class="resource-info col-xs-12 no-padding {% if using_json == "True" %}using_json{% endif %}"  {% if using_json == "True" %}session-id="{{post.session_id}}"{% endif %}>
-                <div class="video col-xs-6">
-                    <i class="icon-youtube"></i> - {% if post.amazon_s3_video_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i> {% endif %}
+                {% if using_json == "True" %}
+                <div class="resource-info col-xs-12 no-padding using_json" session-id="{{post.session_id}}">
                 </div>
-                <div class="presentation col-xs-6">
-                    <i class="icon-linkedin"></i> - {% if post.amazon_s3_presentation_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i>{% endif %}
+                <div class="resource-title col-xs-12 no-padding">
+                    <h3>{{post.title}}</h3>
                 </div>
-            </div>
-            <div class="resource-title col-xs-12 no-padding">
-                <h3>{{post.title}}</h3>
-                <a href="{{post.url}}">
-                    <div class="resource-button">
-                        <i class="glyphicon glyphicon-chevron-right"></i>
+                {% else %}
+                <div class="resource-info col-xs-12 no-padding {% if using_json == "True" %}using_json{% endif %}"  {% if using_json == "True" %}session-id="{{post.session_id}}"{% endif %}>
+                    <div class="video col-xs-6">
+                        <i class="icon-youtube"></i> - {% if post.amazon_s3_video_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i> {% endif %}
                     </div>
-                </a>
-            </div>
-            {% endif %}
+                    <div class="presentation col-xs-6">
+                        <i class="icon-linkedin"></i> - {% if post.amazon_s3_presentation_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i>{% endif %}
+                    </div>
+                </div>
+                <div class="resource-title col-xs-12 no-padding">
+                    <h3>{{post.title}}</h3>
+                </div>
+                {% endif %}
 
+            </div>
         </div>
-    </div>
-    {% endfor %}
+        {% endfor %}
+    {% else %}
+        <div class="col-xs-12">
+            <p>
+                There are no interviews currently available/scheduled. Please check back after Connect has ended (April 5th 2019)
+                for more resources; or subscribe to our <a href="https://www.youtube.com/user/LinaroOrg/videos">YouTube Channel</a>
+                to receive updates
+                when we release the Connect resources.
+            </p>
+        </div>
+    {% endif %}
     </div>
     {% include pagination/pagination-resources.html event_code=page.event_code end_path="/interviews/" %}
 </div>

@@ -19,8 +19,8 @@
         <!-- NAVBAR Brand-->
         <a class="navbar-brand " href="{{site.data.nav.brand.url}}">
             {% if site.data.nav.brand.image.enabled %} {% if site.data.nav.brand.image.svg %} {% include {{site.data.nav.brand.image.name}}
-            %} {% elsif site.data.nav.brand.image.name %}
-            <img src="{{ site.data.nav.brand.image.name }}" alt="{{site.title}} Logo." id="brand-image" /> {% else %} {% include linaro-svg.html %} {% endif %} {% else %} {{site.title}} {% endif %}
+            %} {% elsif site.data.nav.brand.image.path %}
+            <img src="{{ site.data.nav.brand.image.path }}" alt="{{site.title}} Logo." id="brand-image" /> {% else %} {% include linaro-svg.html %} {% endif %} {% else %} {{site.title}} {% endif %}
         </a>
     </div>
 

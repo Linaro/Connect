@@ -28,7 +28,7 @@ slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79884073
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/an-update-on-mcuboot-the-iot-bootloader-sfo17118
 slug: sfo17-118
 speakers: David Brown - Aditi Hilbert
-title: "An update on MCUBoot (The IoT Bootloader)\n - SFO17-118"
+title: "An update on MCUBoot (The IoT Bootloader) - SFO17-118"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5949

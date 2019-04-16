@@ -11,20 +11,42 @@ js-package: resources-blog
         {% assign using_json = "True" %}
     {% endif %}
 {% endfor %}
-<div class="col-md-9 no-padding" id="main-resources-content" event-id="{{current_connect}}">
+<div class="col-md-9" id="main-resources-content" event-id="{{current_connect}}">
+    <div class="row">
+        <div class="col-xs-12">
+            {% include pagination/pagination-resources.html event_code=page.event_code end_path="/sessions/" %}
+        </div>
+    </div>
     <div class="row">
     {% for post in paginator.posts %}
-        <div class="col-md-4 col-sm-4 col-xs-12 no-padding">
+        <div class="col-md-4 col-sm-4 col-xs-12">
             <div class="resource-block">
             <a href="{{post.url}}">
                 <div class="resource">
                     {% if post.image.name %}
+                    {% if post.session_id != "None" %}
+                        {% assign image_title = post.session_id %}
+                    {% else %}
+                        {% assign image_title = post.title %}
+                    {% endif %}
 {% capture image_path %}assets/images/featured-images/{{post.image.name}}{% endcapture %}
 {% responsive_image_block %}
 path: "{{ image_path }}"
-title: "{{ post.title }}"
-alt: "{{ post.title }}"
+title: "{{ image_title }}"
+alt: "{{ image_title }}"
 {% endresponsive_image_block %}
+                    {% elsif post.image.path %}
+                        {% if post.session_id != "None" %}
+                            {% assign image_title = post.session_id %}
+                        {% else %}
+                            {% assign image_title = post.title %}
+                        {% endif %}
+                    {% capture image_path %}{{ post.image.path | slice: 1, post.image.path.size }}{% endcapture %}
+                    {% responsive_image_block %}
+                    path: "{{ image_path }}"
+                    title: "{{ image_title }}"
+                    alt: "{{ image_title }}"
+                    {% endresponsive_image_block %}
                     {% else %}
                     {% capture image_path %}assets/images/content/connect-logo.png{% endcapture %}
                     {% for each in site.data.connects %}
@@ -34,24 +56,40 @@ alt: "{{ post.title }}"
                             {% endif %}
                         {% endif %}
                     {% endfor %}
+                    {% if post.session_id != "None" %}
+                        {% assign image_title = post.session_id %}
+                    {% else %}
+                        {% assign image_title = post.title %}
+                    {% endif %}
 {% responsive_image_block %}
 path: "{{ image_path }}"
-title: "{{ post.title }}"
-alt: "{{ post.title }}"
+title: "{{ image_title }}"
+alt: "{{ image_title }}"
 {% endresponsive_image_block %}
                     {% endif %}
                 </div>
-            </a>
             {% if using_json == "True" %}
-            <div class="resource-info col-xs-12 no-padding using_json" session-id="{{post.session_id}}">
-            </div>
+            <!-- <div class="resource-info col-xs-12 no-padding using_json" session-id="{{post.session_id}}">
+               
+            </div> -->
+            {% if post.session_id %}
+                <span data-session-id="{{post.session_id}}" class="session_id">{{post.session_id}}</span>
+            {% endif %}
             <div class="resource-title col-xs-12 no-padding">
                 <h3>{{post.title}}</h3>
-                <a href="{{post.url}}">
-                    <div class="resource-button">
-                        <i class="glyphicon glyphicon-chevron-right"></i>
-                    </div>
-                </a>
+            </div>
+            {% if post.session_speakers %}
+            <div class="resource-speakers col-xs-12 no-padding">
+                {% for speaker in post.session_speakers %}
+                    <span class="speaker" data-toggle="tooltip" data-placement="top" title="{{speaker.speaker_bio}}"
+                    data-speaker="{{speaker.speaker_name}}">{{speaker.speaker_name}}</span>
+                {% endfor %}
+            </div>
+            {% endif %}
+            <div class="resource-details col-xs-12 no-padding">
+                {% if post.session_room %}
+                    <span>{{post.session_room}}</span>
+                {% endif %}
             </div>
             {% else %}
             <div class="resource-info col-xs-12 no-padding {% if using_json == "True" %}using_json{% endif %}"  {% if using_json == "True" %}session-id="{{post.session_id}}"{% endif %}>
@@ -64,15 +102,20 @@ alt: "{{ post.title }}"
             </div>
             <div class="resource-title col-xs-12 no-padding">
                 <h3>{{post.title}}</h3>
-                <a href="{{post.url}}">
-                    <div class="resource-button">
-                        <i class="glyphicon glyphicon-chevron-right"></i>
-                    </div>
-                </a>
+                {% if post.session_id %}
+                    <span data-session-id="{{post.session_id}}" class="session_id">{{post.session_id}}</span>
+                {% endif %}
+                {% if post.session_speakers %}
+                    {% for speaker in post.session_speakers %}
+                        <span class="speaker" data-toggle="tooltip" data-placement="top" title="{{speaker.speaker_bio}}"
+                        data-speaker="{{speaker.speaker_name}}">{{speaker.speaker_name}}</span>
+                    {% endfor %}
+                {% endif %}
             </div>
             {% endif %}
 
-        </div>
+        </a>    
+    </div>
     </div>
     {% endfor %}
     </div>

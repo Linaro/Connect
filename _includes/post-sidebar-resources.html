@@ -23,7 +23,23 @@
 </div>
 {% endif %}
 
-{% if page.speakers and page.speakers != "None" %}
+
+{% if page.session_speakers %}
+    {% for speaker in page.session_speakers %}
+        {% if speaker.speaker_position != "" and speaker.speaker_company != "" %}
+            {% capture speaker_tooltip %}
+                {{speaker.speaker_name}} - {{speaker.speaker_position}} at {{speaker.speaker_company}}
+            {% endcapture %}
+        {% else %}
+            {% assign speaker_tooltip = speaker.speaker_name %}
+        {% endif %}
+        <div class="col-xs-4 session-speaker"  data-toggle="tooltip" data-placement="top" title="{{speaker_tooltip}}">
+            <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+            data-src="{{speaker.speaker_image}}"
+            alt="{{speaker.speaker_name}} profile image"/>
+        </div>
+    {% endfor %}
+{% elsif page.speakers and page.speakers != "None" %}
 <div class="row">
     <div class="col-xs-12 attached-documents">
         <div class="list-group">
@@ -43,6 +59,8 @@
     </div>
 </div>
 {% endif %}
+
+
 {% if page.attached_documents %}
 <div class="row">
     <div class="col-xs-12 attached-documents">
@@ -128,6 +146,19 @@
                                     alt: {{ post.title | slugify: "ascii"}}
                                     {% endif %}
                                     {% endresponsive_image_block %}
+                                {% elsif post.image.path %}
+                                    {% capture image_path %}{{post.image.path | slice: 1,post.image.path.size}}{% endcapture %}
+                                    {% capture full_path %}{{post.image.path}}{% endcapture %}
+                                    {% responsive_image_block %}
+                                    template: _includes/thumb.html
+                                    path: {{ image_path }}
+                                    fullpath: {{ full_path }}
+                                    class: featured-product-image
+                                    {% if post.title %}
+                                    title: {{ post.title | slugify: "ascii"}}
+                                    alt: {{ post.title | slugify: "ascii"}}
+                                    {% endif %}
+                                    {% endresponsive_image_block %}
                                 {% elsif post.image.name %}
                                     {% capture image_path %}assets/images/featured-images/{{ post.image.name }}{% endcapture %}
                                     {% capture full_path %}/assets/images/featured-images/{{ post.image.name }}{% endcapture %}
@@ -140,7 +171,7 @@
                                     title: {{ post.title | slugify: "ascii"}}
                                     alt: {{ post.title | slugify: "ascii"}}
                                     {% endif %}
-                                {% endresponsive_image_block %}
+                                    {% endresponsive_image_block %}
                                 {% else %}
                                     <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                       data-src="{{site.data.settings.placeholder}}"
