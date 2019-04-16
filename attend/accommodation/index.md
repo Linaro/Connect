@@ -15,6 +15,7 @@ jumbotron:
         - /assets/images/content/accomodation-yvr18-banner.jpg
     animation: fade
 ---
+<<<<<<< HEAD
 The next Linaro Connect will be held at the Centara Grand at CentralWorld 999/99 Rama 1 Road, Pathumwan, Bangkok 10330, Thailand
 
 Accommodation booking through Linaro's discounted rate ended on 18 March 2019. Please check availability and rates on the Centara Grand at CentralWorld website [here](https://www.centarahotelsresorts.com/centaragrand/cgcw/?utm_source=adwords&utm_medium=ppc&utm_campaign=brand-search-cgcw?Hotelnames=ascentral&d=30d-xppc&partner=FB-PACK-PPC-15&campaignId=221306206%7C4787521126%7Ckwd-kwd-24171909005&gclid=Cj0KCQjwj9LkBRDnARIsAGQ-hUdnZw-1J2GA1jESlEGXtVdRLHtAkB3GzruQwh8VJz9EGdKbxZGAUcUaApGhEALw_wcB)
@@ -125,3 +126,6 @@ For those who booked through Linaro's discounted rate before the deadline detail
 
 - Check-in is at 15:00 and check-out is at 12:00 on the day of departure
 - Negotiated rates are valid for attendees 5 days pre and post Connect
+=======
+Accommodation details will be available shortly for Linaro Connect San Diego 2019.
+>>>>>>> upstream/master
