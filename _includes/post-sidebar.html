@@ -14,7 +14,7 @@
                          <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          {% if post.image.featured %}
                               {% if post.image.thumb %}
-                                       data-src="{% asset_path '{{post.image.thumb}}'%}"
+                                       data-src="{% asset '{{post.image.thumb}}' @path %}"
                                {% endif %}
                          {% endif %}
                         alt="{{post.title}}" class="img-responsive lazyload"/>
@@ -32,7 +32,7 @@
                             {% endresponsive_image_block %}
                         {% else %}
                             <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                              data-src="{% asset_path '{{site.data.settings.placeholder}}'%}"
+                              data-src="{% asset '{{site.data.settings.placeholder}}' @path %}"
                            alt="{{post.title}}" class="img-responsive lazyload"/>
                         {% endif %}
                     </div>
@@ -62,7 +62,7 @@
                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                    {% if post.image.featured %}
                         {% if post.image.thumb %}
-                                 data-src="{% asset_path '{{post.image.thumb}}'%}"
+                                 data-src="{% asset '{{post.image.thumb}}' @path %}"
                          {% endif %}
                    {% endif %}
                   alt="{{post.title}}" class="img-responsive lazyload"/>
@@ -80,7 +80,7 @@
                       {% endresponsive_image_block %}
                   {% else %}
                       <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                        data-src="{% asset_path '{{site.data.settings.placeholder}}'%}"
+                        data-src="{% asset '{{site.data.settings.placeholder}}' @path %}"
                      alt="{{post.title}}" class="img-responsive lazyload"/>
                   {% endif %}
                 </div>

@@ -1,4 +1,4 @@
-//= require vendor/jquery
+//= require vendor/jquery.js
 //= require vendor/bootstrap
 //= require vendor/cookieconsent
 //= require vendor/lazysizes
