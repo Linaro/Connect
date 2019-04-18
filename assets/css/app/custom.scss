@@ -731,3 +731,13 @@ div#connect-resources-table {
 #featured-sessions-slider h3 {
     font-size: 16px;
 }
+div#jumbotron {
+    margin-bottom: 0px;
+}
+.big-triangle {
+    top: -30px;
+    @media(min-width: $screen-sm-min)
+    {
+         top: -48px;
+    }
+}
