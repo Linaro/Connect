@@ -6,7 +6,7 @@ date: '2019-04-18 09:00:00+00:00'
 image:
   featured: true
   name: socionext-hoperun-demo-cover-image.png
-  path: /assets/images/content/socionext-hoperun-demo-cover-image.png
+  path: /assets/images/featured-images/socionext-hoperun-demo-cover-image.png
 layout: resource-post-demo-interview
 session_track: Demo
 title: Socionext HopeRun HiHope AKEBi96 96Boards TV Board | Demo Friday BKK19
