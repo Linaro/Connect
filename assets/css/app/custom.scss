@@ -741,3 +741,8 @@ div#jumbotron {
          top: -48px;
     }
 }
+// Resources search page
+#resources-overview-table {
+    height: 1000px;
+    overflow: scroll !important;
+}
