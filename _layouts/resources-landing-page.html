@@ -36,77 +36,58 @@ js-package: resources-landing-page
         </div>
     </div>
 </div>
-<div class="row" id="resources-highlights">
+<div class="row" id="resources-table">
     <div class="container">
-        {% assign connectResources = site.categories[page.event_code] | sample: 20 %}
-        {% for resource in connectResources %}
-            <div class="col-md-4 col-sm-4 col-xs-12 no-padding">
-                <div class="resource-block">
-                    <a href="{{resource.url}}">
-                        <div class="resource">
-{% if resource.image.name %}
-        {% if resource.session_id != "None" %}
-            {% assign image_title = resource.session_id %}
-        {% else %}
-            {% assign image_title = resource.title %}
-        {% endif %}
-{% capture image_path %}assets/images/featured-images/{{resource.image.name}}{% endcapture %}
-{% responsive_image_block %}
-path: "{{ image_path }}"
-title: "{{ image_title }}"
-alt: "{{ image_title }}"
-{% endresponsive_image_block %}
-{% else %}
-    {% if resource.session_id != "None" %}
-        {% assign image_title = resource.session_id %}
-    {% else %}
-        {% assign image_title = resource.title %}
-    {% endif %}
-    {% capture image_path %}assets/images/content/connect-logo.png{% endcapture %}
-    {% for each in site.data.connects %}
-        {% if each.id == page.event_code %}
-            {% if each.placeholder %}
-                {% capture image_path %}assets/images/content/{{each.placeholder}}{% endcapture %}
-            {% endif %}
-        {% endif %}
-    {% endfor %}
-{% responsive_image_block %}
-path: "{{ image_path }}"
-title: "{{ image_title }}"
-alt: "{{ image_title }}"
-{% endresponsive_image_block %}
-{% endif %}
-                        </div>
-                    </a>
-                    {% if using_json == "True" %}
-                    <div class="resource-info col-xs-12 no-padding using_json" session-id="{{resource.session_id}}">
-                    </div>
-                    <div class="resource-title col-xs-12 no-padding">
-                        <h3>{{resource.title}}</h3>
-                        <a href="{{resource.url}}">
-                            <div class="resource-button">
-                                <i class="glyphicon glyphicon-chevron-right"></i>
-                            </div>
-                        </a>
-                    </div>
-                    {% else %}
-                    <div class="resource-info col-xs-12 no-padding {% if using_json == " True" %}using_json{% endif %}" {% if
-                        using_json=="True" %}session-id="{{resource.session_id}}" {% endif %}>
-                        <div class="video col-xs-6">
-                            <i class="icon-youtube"></i> - {% if resource.amazon_s3_video_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{%
-                            else %}<i class="glyphicon glyphicon-remove-sign"></i> {% endif %}
-                        </div>
-                        <div class="presentation col-xs-6">
-                            <i class="icon-linkedin"></i> - {% if resource.amazon_s3_presentation_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{%
-                            else %}<i class="glyphicon glyphicon-remove-sign"></i>{% endif %}
-                        </div>
-                    </div>
-                    <div class="resource-title col-xs-12 no-padding">
-                        <h3>{{resource.title}}</h3>
-                    </div>
-                    {% endif %}
-                </div>
-            </div>
-        {% endfor %}
+        <div id="resources-overview-table" class="double-scroll">
+            <table>
+                <thead>
+                    <th>Session ID</th>
+                    <th>Session Title</th>
+                    <th>Track</th>
+                    <th>Day</th>
+                    <th>Speakers</th>
+                    <th>Presentation (S3)</th>
+                    <th>Video (S3)</th>
+                    <th>Resources Page</th>
+                </thead>
+                <tbody>
+                    {% assign event_code_lower = page.event_code | downcase %}
+                    {% assign sessions = site.categories[event_code_lower] | where: 'tag', 'session' | sort: 'session_id' %}
+                    {% for session in sessions %}
+                    <tr data-track="{{session.session_track}}" data-session-id="{{session.session_id}}" data-day="">
+                        <td>{{session.session_id}}</td>
+                        <td>
+                            <a href="{{session.url}}">
+                                {{session.title}}
+                            </a>
+                        </td>
+                        <td>{{session.session_track}}</td>
+                        <td>{{session.session_slot.end_time | date: "%A"}}</td>
+                        <td>
+                            <ul>
+                                {% for speaker in session.session_speakers %}
+                                <li>{{speaker.speaker_name}} {% if speaker.speaker_company != "" %} /
+                                    {{speaker.speaker_company}}{% endif %}</li>
+                                {% endfor %}
+                            </ul>
+                        </td>
+                        <td class="presentation-link" data-session-id="{{session.session_id}}">
+                            <a
+                                href="https://s3.amazonaws.com/connect.linaro.org/{{event_code_lower}}/presentations/{{session.session_id | downcase }}.pdf">Presentation</a>
+                        </td>
+                        <td class="video-link" data-session-id="{{session.session_id}}">
+                            <a
+                                href="https://s3.amazonaws.com/connect.linaro.org/{{event_code_lower}}/videos/{{session.session_id | downcase }}.mp4">Video</a>
+                        </td>
+                        <td>
+                            <a href="{{session.url}}">
+                                View Resources Page
+                            </a>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
     </div>
 </div>
