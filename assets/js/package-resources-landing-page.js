@@ -2,6 +2,8 @@
 //= require vendor/bootstrap
 //= require vendor/cookieconsent
 //= require vendor/lazysizes
+//= require vendor/jquery.doubleScroll
+
 
 //= require app/fly
 //= require app/search
