@@ -37,7 +37,7 @@ page_carousel:
       alt: Google's keynote at Linaro Connect Bangkok 2019
     - path: /assets/images/content/bkk19-demo-friday.jpg
       alt: Demo Friday hacking at Linaro Connect Bangkok 2019
-    - path: /assets/images/content/bkk19-chris-royston-arm-developer-talk.jpg#
+    - path: /assets/images/content/bkk19-chris-royston-arm-developer-talk.jpg
       alt: Chris Royston from Arm talking about the new revision of developer.arm.com at Linaro Connect Bangkok 2019
     - path: /assets/images/content/bkk19-bosch-keynote-2.jpg
       alt: Dirk Slama from Bosch presenting his keynote at Linaro Connect Bangkok 2019
@@ -65,7 +65,7 @@ page_carousel:
     <div class="owl-carousel owl-theme">
         {% for image in page.page_carousel %}
             <div class="activity-block item">
-                <a href="#" data-featherlight="{{image}}">
+                <a href="#" data-featherlight="{{image.path}}">
                     {% capture image_path %}{{image.path | remove_first: '/'}}{% endcapture %}
                     {% capture full_path %}{{image.path }}{% endcapture %}
                     {% responsive_image_block %}
@@ -73,9 +73,7 @@ page_carousel:
                     path: {{ image_path }}
                     fullpath: {{ full_path }}
                     alt: {{ image.alt }}
-                    {% endif %}
                     {% endresponsive_image_block %}
-
                 </a>
             </div>
         {% endfor %}
