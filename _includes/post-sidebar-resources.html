@@ -1,7 +1,8 @@
 {% assign event_code = page.categories[0] | upcase %}
+
 {% assign connect_details = site.data.connects | where: 'id', event_code %}
 
-{% if connect_details.flickr_albums %}
+{% if connect_details.flickr-albums %}
     <h3 class="text-center">{{event_code}} on</h3>
     <img class="lazyload img-responsive" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
      data-src="/assets/images/content/flickr-logo.png" alt="Flickr Logo"/>
