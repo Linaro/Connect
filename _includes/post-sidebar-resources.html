@@ -1,3 +1,20 @@
+{% assign event_code = page.categories[0] | upcase %}
+{% assign connect_details = site.data.connects | where: 'id', event_code %}
+
+{% if connect_details.flickr_albums %}
+    <h3 class="text-center">{{event_code}} on</h3>
+    <img class="lazyload img-responsive" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+     data-src="/assets/images/content/flickr-logo.png" alt="Flickr Logo"/>
+    <ul class="list-group">
+        {% for album in connect_details.flickr_albumbs %}
+            <a href="{{album.url}}">
+                <li class="list-group-item">{{album.title}}</li>
+            </a>
+        {% endfor %}
+    </ul>
+{% endif %}
+ 
+
 {% comment %}
     Session speakers
 {% endcomment %}
