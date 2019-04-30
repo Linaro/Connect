@@ -51,7 +51,7 @@
   url: http://www.shiratech-solutions.com/
 - name: Xilinx
   type: sponsor
-  image: xilinx.jpg
+  image: xilinx.png
   events: yvr18
   url: https://www.linaro.org/company/xilinx/
 - name: Xilinx and Avnet
