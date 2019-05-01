@@ -38,6 +38,10 @@
 </div>
 {% endif %}
 {% if page.session_speakers %}
+    <div id="speakers">
+        <div class="col-xs-12 text-center">
+            <h3>Speakers</h3>
+        </div>
     {% for speaker in page.session_speakers %} 
         {% if speaker.speaker_position != "" and speaker.speaker_company != "" %}
             {% capture speaker_tooltip %}
@@ -90,6 +94,7 @@
             </div>
         </div>
     {% endfor %}
+    </div>
 {% elsif page.speakers and page.speakers != "None" %}
 <div class="row">
     <div class="col-xs-12 attached-documents">
