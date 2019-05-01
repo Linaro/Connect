@@ -166,6 +166,7 @@ article.post-content {
 }
 div#speakers {
     margin-bottom: 40px;
+    margin-top: 40px;
     height: auto;
     overflow: auto;
     img.img-circle.img-responsive {
@@ -176,7 +177,6 @@ div#flickr-section img {
     padding: 15px;
     display: inline;
     top: -6px;
-    width: 100px;
     position: relative;
     padding-left: 0px;
 }
@@ -186,4 +186,14 @@ div#flickr-section img {
 #flickr-section h3.text-center {
     display: inline-block;
     width: auto;
+}
+
+img#presentation-skeleton {
+    height: 286px;
+    object-fit: cover;
+}
+
+img#video-skeleton {
+    height: 285px;
+    object-fit: cover;
 }
