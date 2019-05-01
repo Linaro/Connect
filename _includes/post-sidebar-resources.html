@@ -52,7 +52,7 @@
         {% endif %}
         <div class="col-xs-4 session-speaker"  data-toggle="tooltip" data-placement="top" title="{{speaker_tooltip}}">
             <a data-toggle="modal" href='#speakerModal{{forloop.index}}'>
-                <img class="img-circle img-responsive lazyload"
+                <img class="center-block img-circle img-responsive lazyload"
                     src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                     data-src="{{speaker.speaker_image}}" alt="{{speaker.speaker_name}} profile image" />
             </a>
@@ -140,114 +140,33 @@
     Related Event Posts
 {% endcomment %}
 {% assign event_code_formatted = include.event_code | downcase %}
-<div class="row">
-    <div class="col-xs-12 col-sm-6 col-md-12">
-        <div class="panel panel-primary" class="blog-sidebar">
-            <div class="panel-heading">
-              <h3 class="panel-title">Other {{include.event_code | upcase}} Resources</h3>
-            </div>
-            <div class="panel-body">
-                {% assign related_posts = site.categories[event_code_formatted] %}
-                {% for post in related_posts limit: 4 %}
-                    <a href="{{post.url}}">
-                        <div class="row featured_blog_post">
-                            <div class="col-md-3 col-sm-3 col-xs-3 no-padding">
-                                {% if post.image.thumb %}
-                                    {% capture image_path %}assets/images/featured-images/{{ post.image.thumb }}{% endcapture %}
-                                    {% capture full_path %}/assets/images/featured-images/{{ post.image.thumb }}{% endcapture %}
-                                    {% responsive_image_block %}
-                                    template: _includes/thumb.html
-                                    path: {{ image_path }}
-                                    fullpath: {{ full_path }}
-                                    class: featured-product-image
-                                    {% if post.title %}
-                                    title: {{ post.title | slugify: "ascii"}}
-                                    alt: {{ post.title | slugify: "ascii"}}
-                                    {% endif %}
-                                    {% endresponsive_image_block %}
-                                {% elsif post.image.path %}
-                                    {% capture image_path %}{{post.image.path | slice: 1,post.image.path.size}}{% endcapture %}
-                                    {% capture full_path %}{{post.image.path}}{% endcapture %}
-                                    {% responsive_image_block %}
-                                    template: _includes/thumb.html
-                                    path: {{ image_path }}
-                                    fullpath: {{ full_path }}
-                                    class: featured-product-image
-                                    {% if post.title %}
-                                    title: {{ post.title | slugify: "ascii"}}
-                                    alt: {{ post.title | slugify: "ascii"}}
-                                    {% endif %}
-                                    {% endresponsive_image_block %}
-                                {% elsif post.image.name %}
-                                    {% capture image_path %}assets/images/featured-images/{{ post.image.name }}{% endcapture %}
-                                    {% capture full_path %}/assets/images/featured-images/{{ post.image.name }}{% endcapture %}
-                                    {% responsive_image_block %}
-                                    template: _includes/thumb.html
-                                    path: {{ image_path }}
-                                    fullpath: {{ full_path }}
-                                    class: featured-product-image
-                                    {% if post.title %}
-                                    title: {{ post.title | slugify: "ascii"}}
-                                    alt: {{ post.title | slugify: "ascii"}}
-                                    {% endif %}
-                                    {% endresponsive_image_block %}
-                                {% else %}
-                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                                      data-src="{{site.data.settings.placeholder}}"
-                                   alt="{{post.title}}" class="img-responsive lazyload"/>
-                                {% endif %}
-                            </div>
-                            <div class="col-md-9 col-sm-9 col-xs-9 ">
-                               {{post.title | truncate: 40}}
-                               <br /><small><em>{{post.date | date: "%A, %B %-d, %Y" }}</em></small>
-                           </div>
-                           <div class="resource-info col-xs-12 no-padding">
-                               <div class="event col-xs-4">
-                                   <span class="event-code-span">{{post.categories | first | upcase}}</span>
-                               </div>
-                               {% if event_code_formatted == "yvr18" %}
-                               <div class="video col-xs-4">
-                               </div>
-                               <div class="presentation col-xs-4">
-                               </div>
-                               {% else %}
-                                <div class="video col-xs-4">
-                                    <i class="icon-youtube"></i> - {% if post.youtube_video_url != "None" %}
-                                    <i class="glyphicon glyphicon-ok-sign"></i>{% else %}
-                                    <i class="glyphicon glyphicon-remove-sign"></i> {% endif%}
-                                </div>
-                                <div class="presentation col-xs-4">
-                                    <i class="icon-linkedin"></i> - {% if post.slideshare_presentation_url != "None" %}
-                                    <i class="glyphicon glyphicon-ok-sign"></i>{% else %}
-                                    <i class="glyphicon glyphicon-remove-sign"></i>{% endif%}
-                                </div>
-                               {% endif %}
-                           </div>
-                        </div>
-                    </a>
-                {% endfor %}
-            </div>
+<div class="col-xs-12 col-sm-6 col-md-12">
+    <div class="panel panel-primary" class="blog-sidebar">
+        <div class="panel-heading">
+            <h3 class="panel-title">Other {{include.event_code | upcase}} Resources</h3>
         </div>
-    </div>  
-</div>
-{% comment %}
-    Other Posts
-{% endcomment %}
-<div class="row">
-    <div class="col-xs-12 col-sm-6 col-md-12">
-        <div class="panel panel-primary" class="blog-sidebar">
-            <div class="panel-heading">
-              <h3 class="panel-title">More Resources</h3>
-            </div>
-            <div class="panel-body">
-                {% assign posts = site.posts | sample:5 %}
-                {% for post in posts %}
+        <div class="panel-body">
+            {% assign related_posts = site.categories[event_code_formatted] %}
+            {% for post in related_posts limit: 4 %}
                 <a href="{{post.url}}">
                     <div class="row featured_blog_post">
                         <div class="col-md-3 col-sm-3 col-xs-3 no-padding">
                             {% if post.image.thumb %}
                                 {% capture image_path %}assets/images/featured-images/{{ post.image.thumb }}{% endcapture %}
                                 {% capture full_path %}/assets/images/featured-images/{{ post.image.thumb }}{% endcapture %}
+                                {% responsive_image_block %}
+                                template: _includes/thumb.html
+                                path: {{ image_path }}
+                                fullpath: {{ full_path }}
+                                class: featured-product-image
+                                {% if post.title %}
+                                title: {{ post.title | slugify: "ascii"}}
+                                alt: {{ post.title | slugify: "ascii"}}
+                                {% endif %}
+                                {% endresponsive_image_block %}
+                            {% elsif post.image.path %}
+                                {% capture image_path %}{{post.image.path | slice: 1,post.image.path.size}}{% endcapture %}
+                                {% capture full_path %}{{post.image.path}}{% endcapture %}
                                 {% responsive_image_block %}
                                 template: _includes/thumb.html
                                 path: {{ image_path }}
@@ -270,33 +189,110 @@
                                 title: {{ post.title | slugify: "ascii"}}
                                 alt: {{ post.title | slugify: "ascii"}}
                                 {% endif %}
-                            {% endresponsive_image_block %}
+                                {% endresponsive_image_block %}
                             {% else %}
                                 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                                  data-src="{{site.data.settings.placeholder}}"
-                               alt="{{post.title}}" class="img-responsive lazyload"/>
+                                    data-src="{{site.data.settings.placeholder}}"
+                                alt="{{post.title}}" class="img-responsive lazyload"/>
                             {% endif %}
                         </div>
                         <div class="col-md-9 col-sm-9 col-xs-9 ">
-                           {{post.title | truncate: 40}}
-                           <br /><small><em>{{post.date | date: "%A, %B %-d, %Y" }}</em></small>
-                       </div>
-                       <div class="resource-info col-xs-12 no-padding">
-                           <div class="event col-xs-4">
-                               <span class="event-code-span">{{post.categories | first | upcase}}</span>
-                           </div>
-                           <div class="video col-xs-4">
-                               <i class="icon-youtube"></i> - {% if post.youtube_video_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i> {% endif%}
-                           </div>
-                           <div class="presentation col-xs-4">
-                               <i class="icon-linkedin"></i> - {% if post.slideshare_presentation_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i>{% endif%}
-                           </div>
-                       </div>
+                            {{post.title | truncate: 40}}
+                            <br /><small><em>{{post.date | date: "%A, %B %-d, %Y" }}</em></small>
+                        </div>
+                        <div class="resource-info col-xs-12 no-padding">
+                            <div class="event col-xs-4">
+                                <span class="event-code-span">{{post.categories | first | upcase}}</span>
+                            </div>
+                            {% if event_code_formatted == "yvr18" %}
+                            <div class="video col-xs-4">
+                            </div>
+                            <div class="presentation col-xs-4">
+                            </div>
+                            {% else %}
+                            <div class="video col-xs-4">
+                                <i class="icon-youtube"></i> - {% if post.youtube_video_url != "None" %}
+                                <i class="glyphicon glyphicon-ok-sign"></i>{% else %}
+                                <i class="glyphicon glyphicon-remove-sign"></i> {% endif%}
+                            </div>
+                            <div class="presentation col-xs-4">
+                                <i class="icon-linkedin"></i> - {% if post.slideshare_presentation_url != "None" %}
+                                <i class="glyphicon glyphicon-ok-sign"></i>{% else %}
+                                <i class="glyphicon glyphicon-remove-sign"></i>{% endif%}
+                            </div>
+                            {% endif %}
+                        </div>
                     </div>
-                    </a>
-                {% endfor %}
-            </div>    
+                </a>
+            {% endfor %}
         </div>
+    </div>
+</div>  
+{% comment %}
+    Other Posts
+{% endcomment %}
+<div class="col-xs-12 col-sm-6 col-md-12">
+    <div class="panel panel-primary" class="blog-sidebar">
+        <div class="panel-heading">
+            <h3 class="panel-title">More Resources</h3>
+        </div>
+        <div class="panel-body">
+            {% assign posts = site.posts | sample:5 %}
+            {% for post in posts %}
+            <a href="{{post.url}}">
+                <div class="row featured_blog_post">
+                    <div class="col-md-3 col-sm-3 col-xs-3 no-padding">
+                        {% if post.image.thumb %}
+                            {% capture image_path %}assets/images/featured-images/{{ post.image.thumb }}{% endcapture %}
+                            {% capture full_path %}/assets/images/featured-images/{{ post.image.thumb }}{% endcapture %}
+                            {% responsive_image_block %}
+                            template: _includes/thumb.html
+                            path: {{ image_path }}
+                            fullpath: {{ full_path }}
+                            class: featured-product-image
+                            {% if post.title %}
+                            title: {{ post.title | slugify: "ascii"}}
+                            alt: {{ post.title | slugify: "ascii"}}
+                            {% endif %}
+                            {% endresponsive_image_block %}
+                        {% elsif post.image.name %}
+                            {% capture image_path %}assets/images/featured-images/{{ post.image.name }}{% endcapture %}
+                            {% capture full_path %}/assets/images/featured-images/{{ post.image.name }}{% endcapture %}
+                            {% responsive_image_block %}
+                            template: _includes/thumb.html
+                            path: {{ image_path }}
+                            fullpath: {{ full_path }}
+                            class: featured-product-image
+                            {% if post.title %}
+                            title: {{ post.title | slugify: "ascii"}}
+                            alt: {{ post.title | slugify: "ascii"}}
+                            {% endif %}
+                        {% endresponsive_image_block %}
+                        {% else %}
+                            <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                data-src="{{site.data.settings.placeholder}}"
+                            alt="{{post.title}}" class="img-responsive lazyload"/>
+                        {% endif %}
+                    </div>
+                    <div class="col-md-9 col-sm-9 col-xs-9 ">
+                        {{post.title | truncate: 40}}
+                        <br /><small><em>{{post.date | date: "%A, %B %-d, %Y" }}</em></small>
+                    </div>
+                    <div class="resource-info col-xs-12 no-padding">
+                        <div class="event col-xs-4">
+                            <span class="event-code-span">{{post.categories | first | upcase}}</span>
+                        </div>
+                        <div class="video col-xs-4">
+                            <i class="icon-youtube"></i> - {% if post.youtube_video_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i> {% endif%}
+                        </div>
+                        <div class="presentation col-xs-4">
+                            <i class="icon-linkedin"></i> - {% if post.slideshare_presentation_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i>{% endif%}
+                        </div>
+                    </div>
+                </div>
+                </a>
+            {% endfor %}
+        </div>    
     </div>
 </div>
 {% if site.data.settings.blog.sidebar.custom-include %}
