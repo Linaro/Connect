@@ -161,7 +161,11 @@ section.disqus {
         padding-right: 0px;
     }
 }
-
 article.post-content {
     margin-top: 0px;
+}
+div#speakers {
+    margin-bottom: 40px;
+    height: auto;
+    overflow: auto;
 }
