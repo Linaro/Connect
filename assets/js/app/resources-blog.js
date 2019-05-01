@@ -1,8 +1,30 @@
 $(window).on("load", function () {
+    if($("#attached_documents").length > 0){
+        var sessionId = $(this).data("session-id");
+        var connectCode = $(this).data("connect-code");
+        // URL for the resources.json
+        var resources_json_url = "https://s3.amazonaws.com/connect.linaro.org/" + connectCode.toString().toLowerCase() + "/resources.json";
+        // GET the JSON response
+        $.ajax({
+            url: resources_json_url,
+            dataType: 'json',
+            complete: function (jsonResponse) {
+                jsonData = JSON.parse(jsonResponse.responseText);
+                // Find the corresponding key in the JSON data 
+                $.each(jsonData, function (idx, obj) {
+                    // Get the current Connect code
+                    if (obj.session_id.toString().toLowerCase() == sessionId.toString().toLowerCase()) {
+                        console.log(obj.other_files);
+                    }
+                });
+            }
+        });
+    }
     // Check to see if we are using the resources.json for fetching resources
     if ($("#video-holder.using_json").length > 0) {
         // Get the current Connect code from the event-code attribute
         var connectCode = $("#video-holder.using_json").attr("event-id");
+        var sessionId = $("#video-holder.using_json").attr("session-id");
         // URL for the resources.json
         var resources_json_url = "https://s3.amazonaws.com/connect.linaro.org/" + connectCode.toString().toLowerCase() + "/resources.json";
         // GET the JSON response
@@ -14,7 +36,6 @@ $(window).on("load", function () {
                 // Find the corresponding key in the JSON data 
                 $.each(jsonData, function (idx, obj) {
                     // Get the current Connect code
-                    var sessionId = $("#video-holder.using_json").attr("session-id");
                     if (obj.session_id.toString().toLowerCase() == sessionId.toString().toLowerCase() ){
                         // Grab the main video URL
                         if (obj.youtube_video_url.toString().length > 1){
@@ -120,11 +141,11 @@ $(window).on("load", function () {
         var url = $("#presentation-iframe").attr("data-src");
         // Get the current Connect code from the event-code attribute
         var connectCode = $("#presentation-holder.using_json").attr("event-id");
+        var sessionId = $("#presentation-holder.using_json").attr("session-id");
         // URL for the resources.json
         var resources_json_url = "https://s3.amazonaws.com/connect.linaro.org/" + connectCode.toString().toLowerCase() + "/resources.json";
         // var resources_json_url = "http://localhost:4002/resources.json";
         console.log(resources_json_url);
-
         // GET the JSON response
         $.ajax({
             url: resources_json_url,
@@ -134,7 +155,6 @@ $(window).on("load", function () {
                 // Find the corresponding key in the JSON data 
                 $.each(jsonData, function (idx, obj) {
                     // Get the current Connect code
-                    var sessionId = $("#presentation-holder.using_json").attr("session-id");
                     // console.log(obj.session_id.toString().toLowerCase() + " vs " + sessionId.toString().toLowerCase() );
                     if (obj.session_id.toString().toLowerCase() == sessionId.toString().toLowerCase()) {
                         // Grab the main presentation URL
