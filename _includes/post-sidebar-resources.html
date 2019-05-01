@@ -1,20 +1,17 @@
 {% assign event_code = page.categories[0] | upcase %}
-
 {% assign connect_details = site.data.connects | where: 'id', event_code %}
-
 {% if connect_details.flickr-albums %}
     <h3 class="text-center">{{event_code}} on</h3>
     <img class="lazyload img-responsive" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
      data-src="/assets/images/content/flickr-logo.png" alt="Flickr Logo"/>
     <ul class="list-group">
-        {% for album in connect_details.flickr_albumbs %}
+        {% for album in connect_details.flickr-albums %}
             <a href="{{album.url}}">
                 <li class="list-group-item">{{album.title}}</li>
             </a>
         {% endfor %}
     </ul>
 {% endif %}
- 
 
 {% comment %}
     Session speakers
@@ -40,10 +37,8 @@
     </div>
 </div>
 {% endif %}
-
-
 {% if page.session_speakers %}
-    {% for speaker in page.session_speakers %}
+    {% for speaker in page.session_speakers %} 
         {% if speaker.speaker_position != "" and speaker.speaker_company != "" %}
             {% capture speaker_tooltip %}
                 {{speaker.speaker_name}} - {{speaker.speaker_position}} at {{speaker.speaker_company}}
@@ -52,9 +47,47 @@
             {% assign speaker_tooltip = speaker.speaker_name %}
         {% endif %}
         <div class="col-xs-4 session-speaker"  data-toggle="tooltip" data-placement="top" title="{{speaker_tooltip}}">
-            <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
-            data-src="{{speaker.speaker_image}}"
-            alt="{{speaker.speaker_name}} profile image"/>
+            <a data-toggle="modal" href='#speakerModal{{forloop.index}}'>
+                <img class="img-circle img-responsive lazyload"
+                    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    data-src="{{speaker.speaker_image}}" alt="{{speaker.speaker_name}} profile image" />
+            </a>
+        </div>
+        <div class="modal fade" id="speakerModal{{forloop.index}}">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title">{{speaker.speaker_name}}</h4>
+                    </div>
+                    <div class="modal-body">
+                        {% if speaker.speaker_position != "" %}
+                            <strong>Job Title</strong>
+                            <p>
+                                {{speaker.speaker_position}}
+                            </p>
+                        {% endif %}
+                        {% if speaker.speaker_company != "" %}
+                            <strong>Company</strong>
+                            <p>
+                                {{speaker.speaker_company}}
+                            </p>
+                        {% endif %}
+                        {% if speaker.speaker_location != "" %}
+                        Location: {{speaker.speaker_location}} (<a href="https://www.google.com/maps/place/{{speaker.speaker_location | replace: ' ', '+'}}">Open in Google Maps</a>)
+                        {% endif %}
+                        {% if speaker.speaker_bio != "" %}
+                        <h3>Bio</h3>
+                        <p>
+                            {{speaker.speaker_bio}}
+                        </p>
+                        {% endif %}
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
         </div>
     {% endfor %}
 {% elsif page.speakers and page.speakers != "None" %}
@@ -79,6 +112,10 @@
 {% endif %}
 
 
+{% if connect_details.using_json == "True" %}
+    <ul id="attached_documents" data-connect-code="{{event_code}}" data-session-id="{{page.session_id}}" class="hidden"></ul>
+{% endif %}
+
 {% if page.attached_documents %}
 <div class="row">
     <div class="col-xs-12 attached-documents">
@@ -93,49 +130,7 @@
     </div>
 </div>
 {% endif %}
-{% comment %}
-    Generic Resources Info
-{% endcomment %}
 
-{% assign event_code_formatted = include.event_code | downcase %}
-{% include_cached search-by-tracks.html %}
-{% assign using_json = "False" %}
-{% assign current_connect = include.event_code | upcase %}
-{% if current_connect == "YVR18" %}
-    {% assign using_json = "True" %}
-{% endif %}
-<div class="row">
-    <div class="col-xs-12 resources-stats">
-        <div class="resource-sidebar-block col-xs-4">
-            <div class="col-xs-6">
-                <span class="glyphicon glyphicon-th"></span>
-            </div>
-            <div class="col-xs-6">
-                <span class="resources-number">{{site.categories[event_code_formatted] | size}}</span>
-            </div>
-        </div>
-        <div class="resource-sidebar-block col-xs-4">
-            <div class="col-xs-6">
-                <span class="icon-youtube"></span>
-            </div>
-            <div class="col-xs-6">
-                <span class="resources-number">
-                    {% include_cached resources-stats-counter-videos.html event_code=event_code_formatted %}
-                </span>
-            </div>
-        </div>
-        <div class="resource-sidebar-block col-xs-4">
-            <div class="col-xs-6">
-                <span class="icon-linkedin"></span>
-            </div>
-            <div class="col-xs-6">
-                <span class="resources-number">
-                    {% include_cached resources-stats-counter-presentations.html event_code=event_code_formatted %}
-                </span>
-            </div>
-        </div>
-    </div>
-</div>
 {% comment %}
     Related Event Posts
 {% endcomment %}
@@ -236,7 +231,7 @@
     <div class="col-xs-12">
         <div class="panel panel-primary" class="blog-sidebar">
             <div class="panel-heading">
-              <h3 class="panel-title">Other Posts</h3>
+              <h3 class="panel-title">More Resources</h3>
             </div>
             <div class="panel-body">
                 {% assign posts = site.posts | sample:5 %}
