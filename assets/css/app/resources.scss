@@ -168,4 +168,7 @@ div#speakers {
     margin-bottom: 40px;
     height: auto;
     overflow: auto;
+    img.img-circle.img-responsive {
+        max-height: 150px;
+    }
 }
