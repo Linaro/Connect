@@ -174,7 +174,16 @@ div#speakers {
 }
 div#flickr-section img {
     padding: 15px;
+    display: inline;
+    top: -6px;
+    width: 100px;
+    position: relative;
+    padding-left: 0px;
 }
 #flickr-section{
     text-align:center;
+}
+#flickr-section h3.text-center {
+    display: inline-block;
+    width: auto;
 }
