@@ -1,25 +1,25 @@
 $(window).on("load", function () {
-    if($("#attached_documents").length > 0){
-        var sessionId = $(this).data("session-id");
-        var connectCode = $(this).data("connect-code");
-        // URL for the resources.json
-        var resources_json_url = "https://s3.amazonaws.com/connect.linaro.org/" + connectCode.toString().toLowerCase() + "/resources.json";
-        // GET the JSON response
-        $.ajax({
-            url: resources_json_url,
-            dataType: 'json',
-            complete: function (jsonResponse) {
-                jsonData = JSON.parse(jsonResponse.responseText);
-                // Find the corresponding key in the JSON data 
-                $.each(jsonData, function (idx, obj) {
-                    // Get the current Connect code
-                    if (obj.session_id.toString().toLowerCase() == sessionId.toString().toLowerCase()) {
-                        console.log(obj.other_files);
-                    }
-                });
-            }
-        });
-    }
+    // if($("#attached_documents").length > 0){
+    //     var sessionId = $("#attached_documents").data("session-id");
+    //     var connectCode = $("#attached_documents").data("connect-code");
+    //     // URL for the resources.json
+    //     var resources_json_url = "https://s3.amazonaws.com/connect.linaro.org/" + connectCode.toString().toLowerCase() + "/resources.json";
+    //     // GET the JSON response
+    //     $.ajax({
+    //         url: resources_json_url,
+    //         dataType: 'json',
+    //         complete: function (jsonResponse) {
+    //             jsonData = JSON.parse(jsonResponse.responseText);
+    //             // Find the corresponding key in the JSON data 
+    //             $.each(jsonData, function (idx, obj) {
+    //                 // Get the current Connect code
+    //                 if (obj.session_id.toString().toLowerCase() == sessionId.toString().toLowerCase()) {
+    //                     console.log(obj.other_files);
+    //                 }
+    //             });
+    //         }
+    //     });
+    // }
     // Check to see if we are using the resources.json for fetching resources
     if ($("#video-holder.using_json").length > 0) {
         // Get the current Connect code from the event-code attribute

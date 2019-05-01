@@ -128,12 +128,7 @@
     </div>
 </div>
 {% endif %}
-
-
-{% if connect_details.using_json == "True" %}
-    <ul id="attached_documents" data-connect-code="{{event_code}}" data-session-id="{{page.session_id}}" class="hidden"></ul>
-{% endif %}
-
+<!-- <ul id="attached_documents" data-connect-code="{{event_code}}" data-session-id="{{page.session_id}}" class="hidden"></ul> -->
 {% if page.attached_documents %}
 <div class="row">
     <div class="col-xs-12 attached-documents">
@@ -313,7 +308,7 @@
     <ul class="list-group">
         {% for album in connect_details.flickr-albums %}
         <a href="{{album.url}}">
-            <li class="list-group-item">{{album.title}}<i class="fa fa-external-link"></i></li>
+            <li class="list-group-item">{{album.title}} <i class="fa fa-external-link"></i></li>
         </a>
         {% endfor %}
     </ul>
