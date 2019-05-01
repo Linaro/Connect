@@ -1,17 +1,30 @@
-{% assign event_code = page.categories[0] | upcase %}
-{% assign connect_details = site.data.connects | where: 'id', event_code %}
-{% if connect_details.flickr-albums %}
-    <h3 class="text-center">{{event_code}} on</h3>
-    <img class="lazyload img-responsive" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-     data-src="/assets/images/content/flickr-logo.png" alt="Flickr Logo"/>
-    <ul class="list-group">
-        {% for album in connect_details.flickr-albums %}
-            <a href="{{album.url}}">
-                <li class="list-group-item">{{album.title}}</li>
-            </a>
-        {% endfor %}
-    </ul>
+
+{% if page.event_code %}
+    {% assign event_code = page.event_code | upcase %}
+{% else %}
+    {% assign event_code = page.categories[0] | upcase %}
 {% endif %}
+{% assign connect_details = site.data.connects | where: 'id', event_code | first %}
+
+<div class="col-xs-12 connect-title-holder">
+    <h3 class="connect-title text-center">{{connect_details.long-name}}</h3>
+</div>
+<div class="date-area text-center">
+    <span class="date start">
+        {{connect_details.start-date | date: "%A "}}{% assign d = connect_details.start-date | date: "%-d" %}
+        {% case d %} {% when '1' or '21' or
+                            '31' %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd
+        {% else %}{{ d }}th {% endcase %}
+        {{connect_details.start-date | date: "%B, %Y"}}
+    </span>
+    -
+    <span class="date end">
+        {{connect_details.end-date | date: "%A "}}{% assign d = connect_details.end-date | date: "%-d" %} {% case d %} {% when '1' or '21' or '31'
+                            %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd
+        {% else %}{{ d }}th {% endcase %} {{connect_details.end-date
+                            | date: "%B , %Y"}}
+    </span>
+</div>
 
 {% comment %}
     Session speakers
@@ -23,7 +36,7 @@
         <div class="list-group">
             <li class="list-group-item active">Author</li>
             <div class="author-details">
-                <div class="image-col col-xs-3 ">
+                <div class="image-col col-xs-3 ">   
                     <div class="author-img img-circle" style="background-image:url('{{author.image.path}}')"></div>
                 </div>
                 <div class="author-info col-xs-9">
@@ -200,16 +213,12 @@
                             {{post.title | truncate: 40}}
                             <br /><small><em>{{post.date | date: "%A, %B %-d, %Y" }}</em></small>
                         </div>
+                        {% if connect_details.using_json == "True" %}
+                        {% else %}
                         <div class="resource-info col-xs-12 no-padding">
                             <div class="event col-xs-4">
                                 <span class="event-code-span">{{post.categories | first | upcase}}</span>
                             </div>
-                            {% if event_code_formatted == "yvr18" %}
-                            <div class="video col-xs-4">
-                            </div>
-                            <div class="presentation col-xs-4">
-                            </div>
-                            {% else %}
                             <div class="video col-xs-4">
                                 <i class="icon-youtube"></i> - {% if post.youtube_video_url != "None" %}
                                 <i class="glyphicon glyphicon-ok-sign"></i>{% else %}
@@ -220,8 +229,8 @@
                                 <i class="glyphicon glyphicon-ok-sign"></i>{% else %}
                                 <i class="glyphicon glyphicon-remove-sign"></i>{% endif%}
                             </div>
-                            {% endif %}
                         </div>
+                        {% endif %}
                     </div>
                 </a>
             {% endfor %}
@@ -295,6 +304,23 @@
         </div>    
     </div>
 </div>
+{% if connect_details.flickr-albums %}
+<div id="flickr-section">
+    <h3 class="text-center">{{event_code}} on</h3>
+    <img class="lazyload img-responsive center-block"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        data-src="/assets/images/content/flickr-logo.png" alt="Flickr Logo" />
+    <ul class="list-group">
+        {% for album in connect_details.flickr-albums %}
+        <a href="{{album.url}}">
+            <li class="list-group-item">{{album.title}}<i class="fa fa-external-link"></i></li>
+        </a>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
+
+
 {% if site.data.settings.blog.sidebar.custom-include %}
     {% include {{site.data.settings.blog.sidebar.custom-include}} %}
 {% endif %}
