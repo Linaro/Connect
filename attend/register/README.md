@@ -6,7 +6,7 @@ permalink: /register/
 layout: jumbotron-container
 css-package: blog
 jumbotron:
-    background-image: /assets/images/content/connect-registration.jpg
+    background-image: /assets/images/content/bkk19-theme-banner.jpg
 ---
 <div class="col-md-12" style="margin-top:30px;" markdown="1">
 
