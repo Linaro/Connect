@@ -6,10 +6,11 @@ search:
 universal-nav: true    
 # Nav Brand Config
 brand:
-    text: Linaro
+    text: Linaro Connect
     image: 
         enabled: true
-        path: /assets/images/content/connect-logo.png
+        name: connect-logo-horizontal.html
+        svg: true
     url: /
 pages:
     - title: About
@@ -22,6 +23,12 @@ pages:
       options:
           - text: Register
             url: /register/
+          - text: Call for Papers
+            url: /cfp/
+          - text: Accommodation
+            url: /accommodation/
+          - text: Invitation Letters & Visa's
+            url: /business-invitation-letters/
           - text: Code of Conduct
             url: /code-of-conduct/
     - title: Sponsors
