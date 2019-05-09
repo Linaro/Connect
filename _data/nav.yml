@@ -6,10 +6,11 @@ search:
 universal-nav: true    
 # Nav Brand Config
 brand:
-    text: Linaro
+    text: Linaro Connect
     image: 
         enabled: true
-        path: /assets/images/content/connect-logo.png
+        name: connect-logo-horizontal.html
+        svg: true
     url: /
 pages:
     - title: About
