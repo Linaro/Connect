@@ -22,14 +22,14 @@ If you are a member attendee and need information about your discount promotiona
 <noscript></a>Buy Tickets on Eventbrite</noscript>
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
 <script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '61310925629',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-61310925629',
-        onOrderComplete: exampleCallback
-    });
+   var exampleCallback = function() {
+       console.log('Order complete!');
+   };
+   window.EBWidgets.createWidget({
+       widgetType: 'checkout',
+       eventId: '61310925629',
+       modal: true,
+       modalTriggerElementId: 'eventbrite-widget-modal-trigger-61310925629',
+       onOrderComplete: exampleCallback
+   });
 </script>
