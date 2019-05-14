@@ -77,12 +77,17 @@ css-package: resources-blog
 
                                         </div>
                                     </div>
-                                {% elsif page.slideshare_embed_url and page.slideshare_embed_url != "None" %}
+                                {% elsif page.slideshare_embed_url != "None" or page.amazon_s3_presentation_url != "None" %}
+                                    {% if page.slideshare_embed_url != "None" %}
+                                        {% assign presentation_url = page.slideshare_embed_url %}
+                                    {% elsif page.amazon_s3_presentation_url != "None" %}
+                                        {% assign presentation_url = page.amazon_s3_presentation_url %}
+                                    {% endif %}
                                 <div id="presentation-holder">
                                     <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
-                                    data-src="/assets/images/content/presentation-placeholder.svg"/>
+                                    data-src="/assets/images/content/presentation-placeholder.svg" />
                                     <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="presentation-embed">
-                                        <iframe class="hidden-iframe" data-src="{{page.slideshare_embed_url}}" width="100%" height="500" frameborder="0" marginwidth="5"
+                                        <iframe class="hidden-iframe" data-src="{{presentation_url}}" width="100%" height="500" frameborder="0" marginwidth="5"
                                             marginheight="5" scrolling="auto" id="presentation-iframe"></iframe>
                                     </div>
                                 </div>
