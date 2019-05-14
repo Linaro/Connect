@@ -17,7 +17,7 @@ jumbotron:
 ---
 [Paradise Point](https://paradisepoint.com/resort/), a resort near San Diego, is on a private 44-acre island tucked away in gentle Mission Bay, minutes from the heart of downtown San Diego. 
 
-To book accommodation for Linaro Connect at the negotiated event rate please book here:  [ADD BUTTON] 
+To book accommodation for Linaro Connect at the negotiated event rate please book here:
 
 <a href="https://book.passkey.com/gt/217451296?gtid=e4aa28e739b465482d77131f44112320" class="btn btn-primary">Book Accommodation</a>	
 
