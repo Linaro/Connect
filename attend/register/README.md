@@ -4,7 +4,7 @@ description: >
     Register for Linaro Connect and join 100's of the world's leading Arm Open Source engineerings.
 permalink: /register/
 layout: jumbotron-container
-css-package: blog
+css-package: about
 jumbotron:
     background-image: /assets/images/content/bkk19-theme-banner.jpg
 ---
