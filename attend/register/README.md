@@ -1,7 +1,7 @@
 ---
 title: Register for Linaro Connect San Diego 2019
 description: >
-    Register for Linaro Connect and join 100's of the world's leading Arm Open Source engineerings.
+    Register for Linaro Connect and join 100's of the world's leading Arm Open Source engineers.
 permalink: /register/
 layout: jumbotron-container
 css-package: about
@@ -15,4 +15,6 @@ The next Connect will be held in San Diego, California 23-27 September 2019 at P
 If you are a member attendee and need information about your discount promotional code, please email [connect@linaro.org](mailto:connect@linaro.org).
 
 </div>
-<iframe src="https://www.eventbrite.co.uk/tickets-external?eid=61310925629&amp;ref=etckt" width="100%" height="500" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto"></iframe>
+<p class="text-center">
+    <a href="https://www.eventbrite.co.uk/e/linaro-connect-san-diego-2019-san19-registration-61310925629" class="btn btn-primary">Register</a>
+</p>
