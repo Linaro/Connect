@@ -15,19 +15,4 @@ The next Connect will be held in San Diego, California 23-27 September 2019 at P
 If you are a member attendee and need information about your discount promotional code, please email [connect@linaro.org](mailto:connect@linaro.org).
 
 </div>
-<div id="eventbrite-widget-container-61310925629"></div>
-<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '61310925629',
-        iframeContainerId: 'eventbrite-widget-container-61310925629',
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
+<iframe src="https://www.eventbrite.co.uk/tickets-external?eid=61310925629&amp;ref=etckt" width="100%" height="500" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto"></iframe>
