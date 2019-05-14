@@ -1,7 +1,7 @@
 ---
 title: Register for Linaro Connect San Diego 2019
 description: >
-    Register for Linaro Connect and join 100's of the world's leading Arm Open Source engineerings.
+    Register for Linaro Connect and join 100's of the world's leading Arm Open Source engineers.
 permalink: /register/
 layout: jumbotron-container
 css-package: about
