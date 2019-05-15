@@ -23,7 +23,7 @@ pages:
       options:
           - text: Register
             url: /register/
-          - text: Call for Papers
+          - text: Call for Proposals
             url: /cfp/
           - text: Accommodation
             url: /accommodation/
