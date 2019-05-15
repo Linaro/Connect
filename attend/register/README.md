@@ -16,18 +16,18 @@ If you are a member attendee and need information about your discount promotiona
 
 </div>
 <div class="col-xs-12">
-<!-- Noscript content for added SEO -->
-<noscript><a href="https://www.eventbrite.co.uk/e/linaro-connect-san-diego-2019-san19-registration-61310925629" rel="noopener noreferrer" target="_blank"></noscript>
-<!-- You can customize this button any way you like -->
-<noscript></a>Buy Tickets on Eventbrite</noscript>
-<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
-<div id="eventbrite-widget-container-61310925629"></div>
-<script type="text/javascript">
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '61310925629',
-        iframeContainerId: 'eventbrite-widget-container-61310925629',
-        iframeContainerHeight: 425,
-    });
-</script>
+    <!-- Noscript content for added SEO -->
+    <noscript><a href="https://www.eventbrite.co.uk/e/linaro-connect-san-diego-2019-san19-registration-61310925629" rel="noopener noreferrer" target="_blank"></noscript>
+    <!-- You can customize this button any way you like -->
+    <noscript></a>Buy Tickets on Eventbrite</noscript>
+    <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
+    <div id="eventbrite-widget-container-61310925629"></div>
+    <script type="text/javascript">
+        window.EBWidgets.createWidget({
+            widgetType: 'checkout',
+            eventId: '61310925629',
+            iframeContainerId: 'eventbrite-widget-container-61310925629',
+            iframeContainerHeight: 425,
+        });
+    </script>
 </div>
