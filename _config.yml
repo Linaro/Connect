@@ -109,11 +109,6 @@ defaults:
         comments: true
   - scope:
         path: ""
-        type: "speakers"
-    values:
-        layout: speaker
-  - scope:
-        path: ""
         type: "keynotes"
     values:
         layout: keynote
@@ -198,11 +193,8 @@ collections:
     keynotes:
         output: true
         permalink: /:collection/:path/
-    speakers:
-        output: true
-        permalink: /:collection/:path/
     authors:
-        output: true
+        output: false
         permalink: /author/:name/
 
 # Jeykyll Responsive Image Configuration
