@@ -15,7 +15,7 @@ session_id: sHKG18-HK-10
 session_track: Security
 slug: s-hkg18-hk-10
 speakers: Peter Griffin
-title: 's     HKG18-HK-10 - SWG Hacking: LHG PlayReady/Widevine integrations on Android
+title: 'HKG18-HK10 - SWG Hacking: LHG PlayReady/Widevine integrations on Android
   and Linux'
 video_length: 00:00
 video_thumbnail: None
