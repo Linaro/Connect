@@ -11,6 +11,7 @@ destination: _site
 connect-code: SAN19
 connect-text: Linaro Connect San Diego 2019 
 previous-connect-code: BKK19
+email: contact@linaro.org
 # Status of current Connect
 connect-status: post
 # Include the Linaro Jekyll Theme
@@ -106,12 +107,8 @@ defaults:
         type: "posts"
     values:
         layout: resource-post
+        author: connect
         comments: true
-  - scope:
-        path: ""
-        type: "keynotes"
-    values:
-        layout: keynote
   - scope:
         path: "/sitemap.xml"
     values:
@@ -126,7 +123,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-readme-index
-  - bootstrap-sass
   - uglifier
   - jekyll-assets
   - jekyll-tidy
@@ -182,21 +178,12 @@ pagination:
 # Jekyll pagination v2 autopages configuration.
 autopages:
   enabled: false
-
 using_assets: true
-
 # Jekyll Collections configuration - Projects, Products and Documentation.
 collections:
-    resources:
-        output: true
-        permalink: /:collection/:categories/:title/
-    keynotes:
-        output: true
-        permalink: /:collection/:path/
     authors:
         output: false
         permalink: /author/:name/
-
 # Jeykyll Responsive Image Configuration
 responsive_image:
   cache: false
@@ -258,3 +245,4 @@ responsive_image:
     - assets/foo/bar.png
     - assets/bgs/*.png
     - assets/avatars/*.{jpeg,jpg}
+  include: ['_pages']
