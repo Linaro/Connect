@@ -12,7 +12,7 @@ excerpt: The intention with this session is to provide guidelines for developing
 featured_image_name: LCU14-103.jpg
 image:
   featured: true
-  name: LCU14-103.jpg
+  file_name: LCU14-103.jpg
   path: /assets/images/featured-images/LCU14-103.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-opening-keynote-project-ara/

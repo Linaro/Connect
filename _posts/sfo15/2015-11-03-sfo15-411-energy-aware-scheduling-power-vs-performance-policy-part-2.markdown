@@ -10,7 +10,7 @@ date: 2015-11-03 13:46:11
 featured_image_name: SFO15-411.jpg
 image:
   featured: true
-  name: SFO15-411.jpg
+  file_name: SFO15-411.jpg
   path: /assets/images/featured-images/SFO15-411.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-411-energy-aware-scheduling-power-vs-performance-policy-part-2/

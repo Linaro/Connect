@@ -10,10 +10,10 @@ excerpt: LHG has been working on integrating open source features to the RDK for
   three years. Over time the development team has run RDK on many target boards. This
   presentation will discuss the 96B platforms that are running RDK and the challenges
   related to each port.
-featured_image_name: BUD17-408.jpg
+featured_image_file_name: BUD17-408.jpg
 image:
   featured: true
-  name: BUD17-408.jpg
+  file_name: BUD17-408.jpg
   path: /assets/images/featured-images/BUD17-408.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-408/

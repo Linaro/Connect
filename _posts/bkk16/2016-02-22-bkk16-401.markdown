@@ -18,7 +18,7 @@ excerpt: 'The promise of ODP is to provide increased portability and performance
 featured_image_name: BKK16-401.jpg
 image:
   featured: true
-  name: BKK16-401.jpg
+  file_name: BKK16-401.jpg
   path: /assets/images/featured-images/BKK16-401.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-401/

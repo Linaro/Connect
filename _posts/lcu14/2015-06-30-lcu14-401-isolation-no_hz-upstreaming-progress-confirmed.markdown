@@ -12,7 +12,7 @@ excerpt: Isolation allows a task to have the core dedicated to its needs until i
 featured_image_name: LCU14-401.jpg
 image:
   featured: true
-  name: LCU14-401.jpg
+  file_name: LCU14-401.jpg
   path: /assets/images/featured-images/LCU14-401.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-401-isolation-no_hz-upstreaming-progress-confirmed/

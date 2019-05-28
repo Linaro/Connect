@@ -16,7 +16,7 @@ excerpt: KVM for arm/arm64 is maturing and reaching its goal of feature parity w
 featured_image_name: LCU14-506.jpg
 image:
   featured: true
-  name: LCU14-506.jpg
+  file_name: LCU14-506.jpg
   path: /assets/images/featured-images/LCU14-506.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-506-kvm-development-status/

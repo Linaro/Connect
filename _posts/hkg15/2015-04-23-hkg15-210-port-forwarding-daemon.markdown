@@ -9,7 +9,7 @@ excerpt: We
 featured_image_name: HKG15-210.jpg
 image:
   featured: true
-  name: HKG15-210.jpg
+  file_name: HKG15-210.jpg
   path: /assets/images/featured-images/HKG15-210.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-210-port-forwarding-daemon/

@@ -12,7 +12,7 @@ excerpt: UMEQ (user-mode emulation quest) and has been developed to eliminate th
 featured_image_name: HKG15-202.jpg
 image:
   featured: true
-  name: HKG15-202.jpg
+  file_name: HKG15-202.jpg
   path: /assets/images/featured-images/HKG15-202.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-202-umeq-user-mode-emulation-quest/

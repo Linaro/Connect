@@ -7,10 +7,10 @@ categories:
 comments: false
 date: 2017-03-21 16:04:43
 excerpt: Socionext Armv8 server SoC chipset demo
-featured_image_name: BUD17-DF19.jpg
+featured_image_file_name: BUD17-DF19.jpg
 image:
   featured: true
-  name: BUD17-DF19.jpg
+  file_name: BUD17-DF19.jpg
   path: /assets/images/featured-images/BUD17-DF19.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df19/

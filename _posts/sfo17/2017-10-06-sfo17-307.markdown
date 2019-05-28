@@ -11,7 +11,7 @@ excerpt: New data on the comparison of the WALT and PELT load tracking schemes i
 featured_image_name: SFO17-307.jpg
 image:
   featured: true
-  name: SFO17-307.jpg
+  file_name: SFO17-307.jpg
   path: /assets/images/featured-images/SFO17-307.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-307/

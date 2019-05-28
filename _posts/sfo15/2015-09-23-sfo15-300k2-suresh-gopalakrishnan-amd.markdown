@@ -29,7 +29,7 @@ excerpt: "Suresh\u2019s bio: Dr. Suresh Gopalakrishnan is the corporate vice pre
 featured_image_name: SFO15300K2SureshGopalakrishnanAMD.jpg
 image:
   featured: true
-  name: SFO15300K2SureshGopalakrishnanAMD.jpg
+  file_name: SFO15300K2SureshGopalakrishnanAMD.jpg
   path: /assets/images/featured-images/SFO15300K2SureshGopalakrishnanAMD.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-300k2-suresh-gopalakrishnan-amd/

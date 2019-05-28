@@ -14,10 +14,10 @@ excerpt: "In preparation for move from LAVA v1 to LAVA v2 QA team started an eff
   \ - how to use test-runner script and \n\n  - how to compose or modify local test
   plan\n\n  - how to execute single test with and without test-runner\n\n  - how to
   view and interpret the results"
-featured_image_name: BUD17-122.jpg
+featured_image_file_name: BUD17-122.jpg
 image:
   featured: true
-  name: BUD17-122.jpg
+  file_name: BUD17-122.jpg
   path: /assets/images/featured-images/BUD17-122.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-122/

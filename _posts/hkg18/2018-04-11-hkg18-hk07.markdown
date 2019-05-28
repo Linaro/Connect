@@ -25,7 +25,7 @@ excerpt: '- Secure Key Store (SKS) - PKCS#11 based client library to be used wit
 featured_image_name: HKG18-HK07.png
 image:
   featured: true
-  name: HKG18-HK07.png
+  file_name: HKG18-HK07.png
   path: /assets/images/featured-images/HKG18-HK07.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-hk07/

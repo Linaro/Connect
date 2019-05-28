@@ -16,7 +16,7 @@ excerpt: Writing test cases for virtualization is always a daunting task because
 featured_image_name: SFO17-502.jpg
 image:
   featured: true
-  name: SFO17-502.jpg
+  file_name: SFO17-502.jpg
   path: /assets/images/featured-images/SFO17-502.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-502/

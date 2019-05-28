@@ -14,7 +14,7 @@ excerpt: The beloved LAVA dispatcher is currently undergoing a transformation to
 featured_image_name: HKG15-111.jpg
 image:
   featured: true
-  name: HKG15-111.jpg
+  file_name: HKG15-111.jpg
   path: /assets/images/featured-images/HKG15-111.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-111-lava-dispatcher-refactoring/

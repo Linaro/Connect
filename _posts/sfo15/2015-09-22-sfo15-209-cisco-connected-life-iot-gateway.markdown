@@ -14,7 +14,7 @@ excerpt: 'Abstract: Experiences productizing the gateway (from hobby to product)
 featured_image_name: SFO15209CiscoConnectedLifeIoTGateway.jpg
 image:
   featured: true
-  name: SFO15209CiscoConnectedLifeIoTGateway.jpg
+  file_name: SFO15209CiscoConnectedLifeIoTGateway.jpg
   path: /assets/images/featured-images/SFO15209CiscoConnectedLifeIoTGateway.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-209-cisco-connected-life-iot-gateway/

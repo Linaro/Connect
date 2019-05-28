@@ -8,7 +8,7 @@ date: 2015-04-23 15:38:01
 featured_image_name: HKG15-105.jpg
 image:
   featured: true
-  name: HKG15-105.jpg
+  file_name: HKG15-105.jpg
   path: /assets/images/featured-images/HKG15-105.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-105-96boards-hardware/

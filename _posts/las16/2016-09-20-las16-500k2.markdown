@@ -27,7 +27,7 @@ excerpt: "**Title: Community 3.0**\n \n The history of open source is littered w
 featured_image_name: LAS16-500K2.png
 image:
   featured: true
-  name: LAS16-500K2.png
+  file_name: LAS16-500K2.png
   path: /assets/images/featured-images/LAS16-500K2.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-500k2/

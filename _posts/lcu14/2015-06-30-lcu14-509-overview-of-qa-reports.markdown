@@ -14,7 +14,7 @@ excerpt: 'The session will cover: Means to collect the data from Jenkins and LAV
 featured_image_name: LCU14-509.jpg
 image:
   featured: true
-  name: LCU14-509.jpg
+  file_name: LCU14-509.jpg
   path: /assets/images/featured-images/LCU14-509.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-509-overview-of-qa-reports/

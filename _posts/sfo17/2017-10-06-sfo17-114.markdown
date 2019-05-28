@@ -20,7 +20,7 @@ excerpt: Userspace software is imperfect and everyone knows it but most of peopl
 featured_image_name: SFO17-114.jpg
 image:
   featured: true
-  name: SFO17-114.jpg
+  file_name: SFO17-114.jpg
   path: /assets/images/featured-images/SFO17-114.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-114/

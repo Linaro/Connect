@@ -11,7 +11,7 @@ date: 2015-10-27 17:30:04
 featured_image_name: SFO15TR6ServerEcosystemDayPart6bOpenJDK.jpg
 image:
   featured: true
-  name: SFO15TR6ServerEcosystemDayPart6bOpenJDK.jpg
+  file_name: SFO15TR6ServerEcosystemDayPart6bOpenJDK.jpg
   path: /assets/images/featured-images/SFO15TR6ServerEcosystemDayPart6bOpenJDK.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr6-server-ecosystem-day-part-6b-openjdk/

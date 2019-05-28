@@ -13,7 +13,7 @@ excerpt: 'TSC Sponsored BoF: Dong Wei, senior director and lead platform archite
 featured_image_name: HKG18-101.png
 image:
   featured: true
-  name: HKG18-101.png
+  file_name: HKG18-101.png
   path: /assets/images/featured-images/HKG18-101.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-101/

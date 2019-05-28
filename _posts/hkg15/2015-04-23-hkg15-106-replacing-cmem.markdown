@@ -20,7 +20,7 @@ excerpt: "CMEM is an API and kernel driver for managing one or more blocks of ph
 featured_image_name: HKG15-106.jpg
 image:
   featured: true
-  name: HKG15-106.jpg
+  file_name: HKG15-106.jpg
   path: /assets/images/featured-images/HKG15-106.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-106-replacing-cmem/

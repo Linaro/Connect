@@ -10,10 +10,10 @@ excerpt: The time_t type in 32-bit Linux overflows in January 2038, which breaks
   existing application binaries. We'll talk about how we are addressing this in the
   kernel, in glibc and in distributions, what problem are still unsolved, and the
   various ways in which even 64-bit systems are still affected.
-featured_image_name: BUD17-512.jpg
+featured_image_file_name: BUD17-512.jpg
 image:
   featured: true
-  name: BUD17-512.jpg
+  file_name: BUD17-512.jpg
   path: /assets/images/featured-images/BUD17-512.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-512/

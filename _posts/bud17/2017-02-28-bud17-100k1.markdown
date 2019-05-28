@@ -7,10 +7,8 @@ categories:
 comments: false
 date: 2017-02-28 12:05:23
 excerpt: Welcome Keynote
-featured_image_name: BUD17-100K1.png
+featured_image_file_name: BUD17-100K1.png
 image:
-  featured: true
-  name: BUD17-100K1.png
   path: /assets/images/featured-images/BUD17-100K1.png
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-100k1/

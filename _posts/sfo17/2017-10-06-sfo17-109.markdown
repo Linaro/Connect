@@ -20,7 +20,7 @@ excerpt: "Kubernetes and DPDK are the biggest hype for NFV solution today. While
 featured_image_name: SFO17-109.jpg
 image:
   featured: true
-  name: SFO17-109.jpg
+  file_name: SFO17-109.jpg
   path: /assets/images/featured-images/SFO17-109.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-109/

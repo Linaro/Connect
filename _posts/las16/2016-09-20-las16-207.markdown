@@ -13,7 +13,7 @@ excerpt: System has a lot of interconnect bus that have to be set to provide thr
 featured_image_name: LAS16-207.png
 image:
   featured: true
-  name: LAS16-207.png
+  file_name: LAS16-207.png
   path: /assets/images/featured-images/LAS16-207.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-207/

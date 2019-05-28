@@ -19,7 +19,7 @@ excerpt: '- What we mean by EAS core and how it''s distinct from the other compo
 featured_image_name: BKK16-311.jpg
 image:
   featured: true
-  name: BKK16-311.jpg
+  file_name: BKK16-311.jpg
   path: /assets/images/featured-images/BKK16-311.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-311/

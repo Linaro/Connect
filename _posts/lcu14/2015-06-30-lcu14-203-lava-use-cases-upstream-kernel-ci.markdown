@@ -12,7 +12,7 @@ excerpt: This session will provide a short summary on how Linaro teams are autom
 featured_image_name: LCU14-203.jpg
 image:
   featured: true
-  name: LCU14-203.jpg
+  file_name: LCU14-203.jpg
   path: /assets/images/featured-images/LCU14-203.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-203-lava-use-cases-upstream-kernel-ci/

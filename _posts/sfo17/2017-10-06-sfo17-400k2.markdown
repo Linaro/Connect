@@ -19,7 +19,7 @@ excerpt: "Think back to the summer of 2007.  AWS was a few months old, the first
 featured_image_name: SFO17-400K2.jpg
 image:
   featured: true
-  name: SFO17-400K2.jpg
+  file_name: SFO17-400K2.jpg
   path: /assets/images/featured-images/SFO17-400K2.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-400k2/

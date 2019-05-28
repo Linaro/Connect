@@ -12,7 +12,7 @@ excerpt: This talk will explain why a commercial organization should join the op
 featured_image_name: HKG18-400K1.png
 image:
   featured: true
-  name: HKG18-400K1.png
+  file_name: HKG18-400K1.png
   path: /assets/images/featured-images/HKG18-400K1.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-400k1/

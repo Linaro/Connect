@@ -9,7 +9,7 @@ date: 2017-10-06 16:54:07
 featured_image_name: SFO17-200K2.jpg
 image:
   featured: true
-  name: SFO17-200K2.jpg
+  file_name: SFO17-200K2.jpg
   path: /assets/images/featured-images/SFO17-200K2.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-200k2/

@@ -9,10 +9,10 @@ date: 2017-03-08 15:40:54
 excerpt: 'This session is the report on the progress in the development of ILP32 for
   last year. ILP32 is the new binary execution mode for arm64 platform which supports
   32-bit data type format. '
-featured_image_name: BUD17-101.jpg
+featured_image_file_name: BUD17-101.jpg
 image:
   featured: true
-  name: BUD17-101.jpg
+  file_name: BUD17-101.jpg
   path: /assets/images/featured-images/BUD17-101.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-101/

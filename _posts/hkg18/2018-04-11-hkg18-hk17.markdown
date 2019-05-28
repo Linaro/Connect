@@ -10,7 +10,7 @@ excerpt: Bus Scaling Status and next steps
 featured_image_name: HKG18-HK17.png
 image:
   featured: true
-  name: HKG18-HK17.png
+  file_name: HKG18-HK17.png
   path: /assets/images/featured-images/HKG18-HK17.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-hk17/

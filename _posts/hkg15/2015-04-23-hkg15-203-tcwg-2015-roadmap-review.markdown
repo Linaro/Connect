@@ -13,7 +13,7 @@ excerpt: The TCWG 2015 Roadmap Discussion presentation will discuss both the Lin
 featured_image_name: HKG15-203.jpg
 image:
   featured: true
-  name: HKG15-203.jpg
+  file_name: HKG15-203.jpg
   path: /assets/images/featured-images/HKG15-203.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-203-tcwg-2015-roadmap-review/

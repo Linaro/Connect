@@ -17,7 +17,7 @@ excerpt: Continuing the discussion from Linaro Connect Bangkok 2016, we discuss 
 featured_image_name: LAS16-410.png
 image:
   featured: true
-  name: LAS16-410.png
+  file_name: LAS16-410.png
   path: /assets/images/featured-images/LAS16-410.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-410/

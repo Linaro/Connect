@@ -10,7 +10,7 @@ excerpt: Overview of rt-app and idlestat and how we use it
 featured_image_name: LCU14-206.jpg
 image:
   featured: true
-  name: LCU14-206.jpg
+  file_name: LCU14-206.jpg
   path: /assets/images/featured-images/LCU14-206.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-206-power-management-analysis-tools/

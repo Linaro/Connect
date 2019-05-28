@@ -12,10 +12,10 @@ excerpt: In STMicroelectronics we developed a set of tools for an efficient expl
   can be made, then present ST proposed solutions compatible with Linaro Coresight
   framework (KPtrace, System Trace and Profiling Tool Kit) and a stepwise upstreaming
   plan.
-featured_image_name: BUD17-324.jpg
+featured_image_file_name: BUD17-324.jpg
 image:
   featured: true
-  name: BUD17-324.jpg
+  file_name: BUD17-324.jpg
   path: /assets/images/featured-images/BUD17-324.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-324/

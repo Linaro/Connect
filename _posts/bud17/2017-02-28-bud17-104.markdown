@@ -10,10 +10,8 @@ excerpt: Scripting languages is hot emerging topic in IoT. They allow easy learn
   and rapid prototyping and further benefits (like production use) as they evolve.
   This session compares approaches of MicroPython and JerryScript/Zephyr.js projects
   and gives status update on their Zephyr RTOS ports.
-featured_image_name: BUD17-104.jpg
+featured_image_file_name: BUD17-104.jpg
 image:
-  featured: true
-  name: BUD17-104.jpg
   path: /assets/images/featured-images/BUD17-104.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-104/

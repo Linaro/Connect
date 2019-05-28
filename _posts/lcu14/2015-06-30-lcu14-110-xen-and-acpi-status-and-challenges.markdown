@@ -19,7 +19,7 @@ excerpt: In this development and hacking session, we will be working out develop
 featured_image_name: LCU14-110.jpg
 image:
   featured: true
-  name: LCU14-110.jpg
+  file_name: LCU14-110.jpg
   path: /assets/images/featured-images/LCU14-110.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-110-xen-and-acpi-status-and-challenges/

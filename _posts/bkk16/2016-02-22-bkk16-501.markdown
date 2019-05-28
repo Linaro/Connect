@@ -12,7 +12,7 @@ excerpt: An update to the state of reference platform kernel and bootloader and 
 featured_image_name: BKK16-501.jpg
 image:
   featured: true
-  name: BKK16-501.jpg
+  file_name: BKK16-501.jpg
   path: /assets/images/featured-images/BKK16-501.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-501/

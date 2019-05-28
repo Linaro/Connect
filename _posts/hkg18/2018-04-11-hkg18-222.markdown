@@ -29,7 +29,7 @@ excerpt: 'Introduction to secure storage concepts and design in TF-M. Some of th
 featured_image_name: HKG18-222.png
 image:
   featured: true
-  name: HKG18-222.png
+  file_name: HKG18-222.png
   path: /assets/images/featured-images/HKG18-222.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-222/

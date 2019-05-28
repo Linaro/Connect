@@ -13,7 +13,7 @@ excerpt: This is a discussion on various methods put forward to reduce the size 
 featured_image_name: LAS16-407.png
 image:
   featured: true
-  name: LAS16-407.png
+  file_name: LAS16-407.png
   path: /assets/images/featured-images/LAS16-407.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-407/

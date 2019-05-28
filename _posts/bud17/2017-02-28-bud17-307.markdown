@@ -14,10 +14,10 @@ excerpt: "After deadline scheduling for processes (SCHED_DEADLINE scheduling pol
   details of all the new features currently under development: CPU capacity and clock
   frequency scaling, bandwidth reclaiming, coupling with clock frequency selection
   and cgroups support."
-featured_image_name: BUD17-307.jpg
+featured_image_file_name: BUD17-307.jpg
 image:
   featured: true
-  name: BUD17-307.jpg
+  file_name: BUD17-307.jpg
   path: /assets/images/featured-images/BUD17-307.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-307/

@@ -10,7 +10,7 @@ excerpt: 5 minute updates from PMWG team members
 featured_image_name: LCU14-102.jpg
 image:
   featured: true
-  name: LCU14-102.jpg
+  file_name: LCU14-102.jpg
   path: /assets/images/featured-images/LCU14-102.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-102-pmwg-lightning-talks/

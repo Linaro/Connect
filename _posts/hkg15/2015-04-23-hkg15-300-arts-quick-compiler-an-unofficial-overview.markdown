@@ -41,7 +41,7 @@ excerpt: 'One of the important technical novelties introduced with the recent re
 featured_image_name: HKG15-300.jpg
 image:
   featured: true
-  name: HKG15-300.jpg
+  file_name: HKG15-300.jpg
   path: /assets/images/featured-images/HKG15-300.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-300-arts-quick-compiler-an-unofficial-overview/

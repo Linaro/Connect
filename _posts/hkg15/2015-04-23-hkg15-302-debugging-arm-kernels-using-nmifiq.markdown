@@ -37,7 +37,7 @@ excerpt: 'The Linux kernel can use non-maskable interrupts (NMI) to detect hard
 featured_image_name: HKG15-302.jpg
 image:
   featured: true
-  name: HKG15-302.jpg
+  file_name: HKG15-302.jpg
   path: /assets/images/featured-images/HKG15-302.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-302-debugging-arm-kernels-using-nmifiq/

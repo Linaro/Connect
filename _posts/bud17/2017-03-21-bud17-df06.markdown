@@ -7,10 +7,10 @@ categories:
 comments: false
 date: 2017-03-21 15:16:42
 excerpt: Apache Ambari and Big data components on AARCH64
-featured_image_name: BUD17-DF06.jpg
+featured_image_file_name: BUD17-DF06.jpg
 image:
   featured: true
-  name: BUD17-DF06.jpg
+  file_name: BUD17-DF06.jpg
   path: /assets/images/featured-images/BUD17-DF06.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df06/

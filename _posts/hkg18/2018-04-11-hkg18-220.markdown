@@ -19,7 +19,7 @@ excerpt: AArch64 is now a first class citizen with Apache Bigtop community. Apac
 featured_image_name: HKG18-220.png
 image:
   featured: true
-  name: HKG18-220.png
+  file_name: HKG18-220.png
   path: /assets/images/featured-images/HKG18-220.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-220/

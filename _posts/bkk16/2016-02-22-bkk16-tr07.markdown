@@ -15,7 +15,7 @@ excerpt: The complexity of the tools and working environments is very high in IT
 featured_image_name: BKK16-TR07.jpg
 image:
   featured: true
-  name: BKK16-TR07.jpg
+  file_name: BKK16-TR07.jpg
   path: /assets/images/featured-images/BKK16-TR07.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-tr07/

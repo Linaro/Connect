@@ -12,7 +12,7 @@ excerpt: The session would briefly provide updates on migration of builds from a
 featured_image_name: LAS16-110.png
 image:
   featured: true
-  name: LAS16-110.png
+  file_name: LAS16-110.png
   path: /assets/images/featured-images/LAS16-110.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-110/

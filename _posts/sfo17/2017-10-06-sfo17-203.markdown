@@ -13,7 +13,7 @@ excerpt: This presentation gives an updated RAS architecture on Arm64 base on RA
 featured_image_name: SFO17-203.jpg
 image:
   featured: true
-  name: SFO17-203.jpg
+  file_name: SFO17-203.jpg
   path: /assets/images/featured-images/SFO17-203.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-203/
