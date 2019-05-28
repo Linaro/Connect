@@ -1,6 +1,6 @@
 ---
 title: Agendas
 permalink: /agendas/
-layout: container-breadcrumb
+layout: jumbotron-container
 ---
 # List of Event Agendas

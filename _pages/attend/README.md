@@ -1,7 +1,7 @@
 ---
 title: Attend
 permalink: /attend/
-layout: container-breadcrumb
+layout: jumbotron-container
 ---
 <div class="row">
 <div class="col-md-6" markdown="1">

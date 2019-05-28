@@ -1,5 +1,5 @@
 ---
-layout: container-breadcrumb
+layout: jumbotron-container
 title: Legal
 description: |-
     Information about the legal policies of Linaro's website

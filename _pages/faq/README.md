@@ -1,7 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
-layout: container-breadcrumb
+layout: jumbotron-container
 ---
 <div class="panel-group faq" id="accordion" role="tablist" aria-multiselectable="true">
 

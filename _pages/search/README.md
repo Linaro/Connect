@@ -1,9 +1,7 @@
 ---
 title: Search
 permalink: /search/
-layout: container-breadcrumb
-js-package: search
-css-package: search
+layout: jumbotron-container
 description: |-
     Search the Linaro Website.
 ---
