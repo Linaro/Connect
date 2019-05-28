@@ -8,6 +8,7 @@
 //= require vendor/bootstrap-multiselect
 //= require vendor/jquery.doubleScroll
 
+//= require app/fuzzy-search-functions
 //= require app/search
 //= require app/main
 //= require app/tables
