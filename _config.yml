@@ -245,5 +245,5 @@ responsive_image:
     - assets/foo/bar.png
     - assets/bgs/*.png
     - assets/avatars/*.{jpeg,jpg}
-    
-  include: ['_pages']
+
+include: ['_pages']
