@@ -2,6 +2,7 @@
 //= require vendor/bootstrap
 //= require vendor/cookieconsent
 //= require vendor/lazysizes
+//= require vendor/ls.unveilhooks
 
 //= require app/fly
 //= require app/search
