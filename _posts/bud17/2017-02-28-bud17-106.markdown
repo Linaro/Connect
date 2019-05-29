@@ -12,10 +12,8 @@ excerpt: "Short updates on various LMG initiatives, including boottime reduction
   (AOSP)\n  \n - Efforts in making Arm the best platform for Android (ART) \n  \n
   - Whats new in android-4.9 (Amit Pundir)\n  \n - Intro to Serial Device Bus (Rob
   Herring)\n  \n - PPP Effort Update (Sam Protsenko)"
-featured_image_name: BUD17-106.jpg
+featured_image_file_name: BUD17-106.jpg
 image:
-  featured: true
-  name: BUD17-106.jpg
   path: /assets/images/featured-images/BUD17-106.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-106/

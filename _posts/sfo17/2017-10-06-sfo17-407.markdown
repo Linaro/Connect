@@ -11,7 +11,7 @@ excerpt: This talk will address Collabora's contribution to KernelCI, specifical
 featured_image_name: SFO17-407.jpg
 image:
   featured: true
-  name: SFO17-407.jpg
+  file_name: SFO17-407.jpg
   path: /assets/images/featured-images/SFO17-407.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-407/

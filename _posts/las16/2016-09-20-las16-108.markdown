@@ -14,7 +14,7 @@ excerpt: Overview of small-size/low-resource VHLL (very high-level languages)/sc
 featured_image_name: LAS16-108.png
 image:
   featured: true
-  name: LAS16-108.png
+  file_name: LAS16-108.png
   path: /assets/images/featured-images/LAS16-108.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-108/

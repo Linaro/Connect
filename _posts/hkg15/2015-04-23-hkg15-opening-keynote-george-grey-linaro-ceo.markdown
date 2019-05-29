@@ -8,7 +8,7 @@ date: 2015-04-23 15:38:34
 featured_image_name: HKG15-100K1.jpg
 image:
   featured: true
-  name: HKG15-100K1.jpg
+  file_name: HKG15-100K1.jpg
   path: /assets/images/featured-images/HKG15-100K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-opening-keynote-george-grey-linaro-ceo/

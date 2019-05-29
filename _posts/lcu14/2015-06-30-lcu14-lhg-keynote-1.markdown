@@ -8,7 +8,7 @@ date: 2015-06-30 17:09:33
 featured_image_name: LCU14-200a.jpg
 image:
   featured: true
-  name: LCU14-200a.jpg
+  file_name: LCU14-200a.jpg
   path: /assets/images/featured-images/LCU14-200a.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-lhg-keynote-1/

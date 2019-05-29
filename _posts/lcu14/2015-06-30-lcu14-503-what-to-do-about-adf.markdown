@@ -17,7 +17,7 @@ excerpt: ADF is Android's Atomic Display Framework, which has been relatively re
 featured_image_name: LCU14-503.jpg
 image:
   featured: true
-  name: LCU14-503.jpg
+  file_name: LCU14-503.jpg
   path: /assets/images/featured-images/LCU14-503.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-503-what-to-do-about-adf/

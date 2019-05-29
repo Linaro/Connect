@@ -9,7 +9,7 @@ date: 2015-04-23 15:37:03
 featured_image_name: HKG15-208.jpg
 image:
   featured: true
-  name: HKG15-208.jpg
+  file_name: HKG15-208.jpg
   path: /assets/images/featured-images/HKG15-208.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-208-acpi-state-of-the-server/

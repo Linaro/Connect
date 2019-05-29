@@ -15,7 +15,7 @@ excerpt: The OpenDataPlane project is now two years old and is beginning to see 
 featured_image_name: SFO15102ODPProjectUpdate.jpg
 image:
   featured: true
-  name: SFO15102ODPProjectUpdate.jpg
+  file_name: SFO15102ODPProjectUpdate.jpg
   path: /assets/images/featured-images/SFO15102ODPProjectUpdate.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-102-odp-project-update/

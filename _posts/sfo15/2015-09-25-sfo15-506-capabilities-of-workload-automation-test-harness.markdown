@@ -13,7 +13,7 @@ excerpt: "Show off current capabilities (benchmarking, power measurements), disc
 featured_image_name: SFO15506CapabilitiesofWorkloadAutomationtestharness.jpg
 image:
   featured: true
-  name: SFO15506CapabilitiesofWorkloadAutomationtestharness.jpg
+  file_name: SFO15506CapabilitiesofWorkloadAutomationtestharness.jpg
   path: /assets/images/featured-images/SFO15506CapabilitiesofWorkloadAutomationtestharness.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-506-capabilities-of-workload-automation-test-harness/

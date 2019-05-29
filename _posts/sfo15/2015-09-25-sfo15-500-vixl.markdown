@@ -24,7 +24,7 @@ excerpt: "VIXL is dynamic code generation toolkit for Armv8 that we hope will en
 featured_image_name: SFO15500VIXL.jpg
 image:
   featured: true
-  name: SFO15500VIXL.jpg
+  file_name: SFO15500VIXL.jpg
   path: /assets/images/featured-images/SFO15500VIXL.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-500-vixl/

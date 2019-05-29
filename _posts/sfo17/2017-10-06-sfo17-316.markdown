@@ -13,7 +13,7 @@ excerpt: Since the introduction of Armv8 and 64bit AArch64 architecture 2013, th
 featured_image_name: SFO17-316.jpg
 image:
   featured: true
-  name: SFO17-316.jpg
+  file_name: SFO17-316.jpg
   path: /assets/images/featured-images/SFO17-316.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-316/

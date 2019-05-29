@@ -1,0 +1,66 @@
+---
+permalink: /assets/json/resources.json
+---
+[{% for post in site.posts %}{
+        {% if post.description %}
+            {% assign summary = post.description | strip_html | smartify  %}
+        {% else %}
+            {% assign summary =  post.excerpt | strip_html | smartify  %}
+        {% endif %}
+        {% if post.event_id %}
+            {% assign event_id  = post.event_id %}
+        {% else %}
+            {% assign event_id = post.categories[0] | upcase %}
+        {% endif %}
+        {% if post.session_speakers %}
+            {% assign speakers = "" | split: "" %}
+            {% for speaker in post.session_speakers %}
+                {% assign speakers = speakers | push: speaker %}
+            {% endfor%}
+        {% else %}
+            {% assign speakers = "" | split: "" %}
+            {% for speaker in post.speakers %}
+                {% assign speakers = speakers | push: speaker %}
+            {% endfor%}
+        {% endif %} 
+        "event_id": "{{ event_id }}",
+        {% if post.session_id %}"session_id": "{{ post.session_id }}",{% endif %}
+        "url": "{{ site.url }}{{ post.url }}",
+        "summary": "{{summary}}",
+        "date_published": "{{ post.date }}",
+        "speakers": [{% for speaker in speakers %}
+        {
+            {% if speaker.name %}
+            "name": "{{speaker.name | smartify}}",
+            "job-title": "{{speaker.job-title | smartify }}",
+            "company": "{{speaker.company | smartify }}"
+            {% elsif speaker.speaker_name %}
+            "name": "{{speaker.speaker_name | smartify}}",
+            "job-title": "{{speaker.speaker_position | smartify }}",
+            "company": "{{speaker.speaker_company | smartify }}"
+            {% else %}
+            "name": "{{speaker | smartify }}"
+            {% endif %}
+        }
+        {% unless forloop.last == true %},{% endunless %}
+        {% endfor %}],
+        {% if post.slideshare_presentation_url != "None" %}
+        "slideshare_presentation_url": "{{post.slideshare_presentation_url}}",
+        {% endif %}
+        {% if post.youtube_video_url != "None" %}
+        "youtube_video_url": "{{post.youtube_video_url}}",
+        {% endif %}
+        {% if post.amazon_s3_presentation_url != "None" %}
+        "amazon_s3_presentation_url": "{{post.amazon_s3_presentation_url}}",
+        {% endif %}
+        {% if post.amazon_s3_video_url != "None" %}
+        "amazon_s3_video_url": "{{post.amazon_s3_video_url}}",
+        {% endif %}
+        {% if post.session_track %}
+        "tracks": "{{post.session_track}}",
+        {% endif %}
+        {% if post.image.path %}
+        "thumbnail": "{{site.url}}{{post.image.path}}",
+        {% endif %}
+        "title": {{ post.title | smartify | jsonify }}
+    }{% unless forloop.last == true %},{% endunless %}{% endfor %}]

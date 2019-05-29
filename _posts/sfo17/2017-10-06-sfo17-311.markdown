@@ -19,7 +19,7 @@ excerpt: For many years, companies have known they need to provide license compl
 featured_image_name: SFO17-311.png
 image:
   featured: true
-  name: SFO17-311.png
+  file_name: SFO17-311.png
   path: /assets/images/featured-images/SFO17-311.png
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-311/

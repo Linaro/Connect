@@ -14,7 +14,7 @@ excerpt: Sched-freq is the integration of the scheduler with cpufreq to yield sc
 featured_image_name: BKK16-104.jpg
 image:
   featured: true
-  name: BKK16-104.jpg
+  file_name: BKK16-104.jpg
   path: /assets/images/featured-images/BKK16-104.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-104/

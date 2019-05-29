@@ -12,7 +12,7 @@ excerpt: UEFI boot testing with SCT and luvOS automation have stretched the orig
 featured_image_name: SFO15405EnterpriseUseCaseswithLAVA.jpg
 image:
   featured: true
-  name: SFO15405EnterpriseUseCaseswithLAVA.jpg
+  file_name: SFO15405EnterpriseUseCaseswithLAVA.jpg
   path: /assets/images/featured-images/SFO15405EnterpriseUseCaseswithLAVA.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-405-enterprise-use-cases-with-lava/

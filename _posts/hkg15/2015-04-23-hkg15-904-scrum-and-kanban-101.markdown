@@ -9,7 +9,7 @@ date: 2015-04-23 15:36:16
 featured_image_name: HKG15-904.jpg
 image:
   featured: true
-  name: HKG15-904.jpg
+  file_name: HKG15-904.jpg
   path: /assets/images/featured-images/HKG15-904.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-904-scrum-and-kanban-101/

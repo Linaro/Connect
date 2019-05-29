@@ -17,7 +17,7 @@ excerpt: It's not easy, perhaps not possible, to establish a common boot archite
 featured_image_name: SFO15101SecurityrequirementsonARMv8Abootarchitecture.jpg
 image:
   featured: true
-  name: SFO15101SecurityrequirementsonARMv8Abootarchitecture.jpg
+  file_name: SFO15101SecurityrequirementsonARMv8Abootarchitecture.jpg
   path: /assets/images/featured-images/SFO15101SecurityrequirementsonARMv8Abootarchitecture.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-101-security-requirements-on-armv8-a-boot-architecture/

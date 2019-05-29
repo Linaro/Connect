@@ -12,7 +12,7 @@ excerpt: NXP presentation on Secure Data Path work with i.MX8M Soc. Demonstrate 
 featured_image_name: HKG18-113.png
 image:
   featured: true
-  name: HKG18-113.png
+  file_name: HKG18-113.png
   path: /assets/images/featured-images/HKG18-113.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-113/

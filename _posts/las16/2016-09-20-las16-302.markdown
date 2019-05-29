@@ -14,7 +14,7 @@ excerpt: This presentation will give an overview of the suite of reference secur
 featured_image_name: LAS16-302.png
 image:
   featured: true
-  name: LAS16-302.png
+  file_name: LAS16-302.png
   path: /assets/images/featured-images/LAS16-302.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-302/

@@ -13,10 +13,10 @@ excerpt: Representing the historical progress of work represented in JIRA has be
   automation with javascript embedded in a Google spreadsheet. An added benefit to
   the automation is the ease of which it will build a history of status for ongoing
   analysis.
-featured_image_name: BUD17-119.jpg
+featured_image_file_name: BUD17-119.jpg
 image:
   featured: true
-  name: BUD17-119.jpg
+  file_name: BUD17-119.jpg
   path: /assets/images/featured-images/BUD17-119.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-119/

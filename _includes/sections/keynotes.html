@@ -13,7 +13,7 @@
                 <div class="col-xs-12">
                     <a href="{{keynote.url}}">
                         <div class="speaker-block">
-                            <div class="img-responsive speaker-image center-block" style="background-image:url({% asset_path "{{keynote.image}}" %})"></div>
+                            <div class="img-responsive speaker-image center-block" style="background-image:url({% asset "{{keynote.image}}" @path %})"></div>
                             <h3 class="speaker-name">
                                 {{keynote.name}}
                             </h3>

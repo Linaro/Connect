@@ -14,7 +14,7 @@ excerpt: This session will present a workflow of analyzing application or benchm
 featured_image_name: HKG15-501.jpg
 image:
   featured: true
-  name: HKG15-501.jpg
+  file_name: HKG15-501.jpg
   path: /assets/images/featured-images/HKG15-501.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-501-toolchain-performance-analysis-and-investigations/

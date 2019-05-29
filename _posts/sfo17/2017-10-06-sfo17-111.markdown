@@ -12,7 +12,7 @@ excerpt: "What is Secure96 and why? In this session we will give an introduction
 featured_image_name: SFO17-111.jpg
 image:
   featured: true
-  name: SFO17-111.jpg
+  file_name: SFO17-111.jpg
   path: /assets/images/featured-images/SFO17-111.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-111/

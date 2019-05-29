@@ -15,7 +15,7 @@ excerpt: An overview of the infrastructure the Linaro LMG team is using for the 
 featured_image_name: BKK16-306.jpg
 image:
   featured: true
-  name: BKK16-306.jpg
+  file_name: BKK16-306.jpg
   path: /assets/images/featured-images/BKK16-306.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-306/

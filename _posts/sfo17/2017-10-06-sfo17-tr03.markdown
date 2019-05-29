@@ -10,7 +10,7 @@ excerpt: Advanced Upstreaming techniques
 featured_image_name: SFO17-TR03.jpg
 image:
   featured: true
-  name: SFO17-TR03.jpg
+  file_name: SFO17-TR03.jpg
   path: /assets/images/featured-images/SFO17-TR03.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-tr03/

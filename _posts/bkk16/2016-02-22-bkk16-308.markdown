@@ -19,7 +19,7 @@ excerpt: ATOS is an Auto Tuning Optimization System that is able to find automat
 featured_image_name: BKK16-308.jpg
 image:
   featured: true
-  name: BKK16-308.jpg
+  file_name: BKK16-308.jpg
   path: /assets/images/featured-images/BKK16-308.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-308/

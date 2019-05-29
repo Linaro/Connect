@@ -10,7 +10,7 @@ date: 2015-09-24 00:00:00
 featured_image_name: SFO15-408.jpg
 image:
   featured: true
-  name: SFO15-408.jpg
+  file_name: SFO15-408.jpg
   path: /assets/images/featured-images/SFO15-408.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-408/

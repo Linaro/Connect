@@ -10,7 +10,7 @@ excerpt: Internals of the OpenJDK JIT, guidelines to microarchitecture tuning, i
 featured_image_name: HKG15-200.jpg
 image:
   featured: true
-  name: HKG15-200.jpg
+  file_name: HKG15-200.jpg
   path: /assets/images/featured-images/HKG15-200.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-200-openjdk-under-the-hood/

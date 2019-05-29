@@ -14,7 +14,7 @@ excerpt: An example of a key system from a Clear Key point of view. Linaro imple
 featured_image_name: HKG15-407.jpg
 image:
   featured: true
-  name: HKG15-407.jpg
+  file_name: HKG15-407.jpg
   path: /assets/images/featured-images/HKG15-407.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-407-eme-implementation-in-chromium-linaro-clear-key/

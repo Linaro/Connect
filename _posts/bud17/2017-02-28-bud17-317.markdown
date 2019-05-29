@@ -17,10 +17,10 @@ excerpt: "The 2016.12 release includes sufficient support that all teams should 
   of how the Cambridge lab will migrate will also be covered as some device-types
   cannot support V1 and V2 simultaneously. The timetable of how V1 support will be
   removed during 2017 will be outlined."
-featured_image_name: BUD17-317.jpg
+featured_image_file_name: BUD17-317.jpg
 image:
   featured: true
-  name: BUD17-317.jpg
+  file_name: BUD17-317.jpg
   path: /assets/images/featured-images/BUD17-317.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-317/

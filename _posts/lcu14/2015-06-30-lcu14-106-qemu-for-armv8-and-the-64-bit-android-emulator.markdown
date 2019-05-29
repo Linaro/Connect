@@ -16,7 +16,7 @@ excerpt: QEMU Armv8-A system emulation was completed shortly after LCA14 and has
 featured_image_name: LCU14-106.jpg
 image:
   featured: true
-  name: LCU14-106.jpg
+  file_name: LCU14-106.jpg
   path: /assets/images/featured-images/LCU14-106.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-106-qemu-for-armv8-and-the-64-bit-android-emulator/

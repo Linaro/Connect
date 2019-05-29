@@ -17,7 +17,7 @@ excerpt: 'The kernelci.org project is currently doing hundreds of build and boot
 featured_image_name: BKK16-215.jpg
 image:
   featured: true
-  name: BKK16-215.jpg
+  file_name: BKK16-215.jpg
   path: /assets/images/featured-images/BKK16-215.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-215/

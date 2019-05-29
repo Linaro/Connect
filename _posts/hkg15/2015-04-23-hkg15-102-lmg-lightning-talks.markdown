@@ -26,7 +26,7 @@ excerpt: 'Memory footprint analysis
 featured_image_name: HKG15-102.jpg
 image:
   featured: true
-  name: HKG15-102.jpg
+  file_name: HKG15-102.jpg
   path: /assets/images/featured-images/HKG15-102.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-102-lmg-lightning-talks/

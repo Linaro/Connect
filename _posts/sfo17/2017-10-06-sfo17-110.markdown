@@ -15,7 +15,7 @@ excerpt: This session is going to focus on getting started as an LLVM developer.
 featured_image_name: SFO17-110.jpg
 image:
   featured: true
-  name: SFO17-110.jpg
+  file_name: SFO17-110.jpg
   path: /assets/images/featured-images/SFO17-110.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-110/

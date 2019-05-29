@@ -37,7 +37,7 @@ excerpt: 'This set of sessions will go into detail on many toolchain topics and 
 featured_image_name: LCU14-307.jpg
 image:
   featured: true
-  name: LCU14-307.jpg
+  file_name: LCU14-307.jpg
   path: /assets/images/featured-images/LCU14-307.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-307-advanced-toolchain-usage-part-1/

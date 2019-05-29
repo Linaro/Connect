@@ -13,7 +13,7 @@ excerpt: 'In this discussion session, we will cover the plans Linaro have to enh
 featured_image_name: LCU14-306.jpg
 image:
   featured: true
-  name: LCU14-306.jpg
+  file_name: LCU14-306.jpg
   path: /assets/images/featured-images/LCU14-306.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-306-security-architecture-technical-discussion/

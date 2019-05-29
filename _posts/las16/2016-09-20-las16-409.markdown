@@ -14,7 +14,7 @@ excerpt: Time Sensitive Networking (TSN) is a set of protocols and extensions th
 featured_image_name: LAS16-409.png
 image:
   featured: true
-  name: LAS16-409.png
+  file_name: LAS16-409.png
   path: /assets/images/featured-images/LAS16-409.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-409/

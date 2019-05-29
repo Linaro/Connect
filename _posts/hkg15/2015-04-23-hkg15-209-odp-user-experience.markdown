@@ -10,7 +10,7 @@ excerpt: A discussion session to gather ODP user experience from LNG members.
 featured_image_name: HKG15-209.jpg
 image:
   featured: true
-  name: HKG15-209.jpg
+  file_name: HKG15-209.jpg
   path: /assets/images/featured-images/HKG15-209.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-209-odp-user-experience/

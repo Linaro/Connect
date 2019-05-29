@@ -13,7 +13,7 @@ excerpt: 'ConfigFS: what can it do, real life examples, how it is used in Androi
 featured_image_name: SFO15311ConfigFSGadgetAnIntroduction.jpg
 image:
   featured: true
-  name: SFO15311ConfigFSGadgetAnIntroduction.jpg
+  file_name: SFO15311ConfigFSGadgetAnIntroduction.jpg
   path: /assets/images/featured-images/SFO15311ConfigFSGadgetAnIntroduction.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-311-configfs-gadget-an-introduction/

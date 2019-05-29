@@ -14,7 +14,7 @@ excerpt: The purpose of this talk is to provide the audience with an introductio
 featured_image_name: HKG15-411.jpg
 image:
   featured: true
-  name: HKG15-411.jpg
+  file_name: HKG15-411.jpg
   path: /assets/images/featured-images/HKG15-411.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-411-browser-testing-framework-for-lhg/

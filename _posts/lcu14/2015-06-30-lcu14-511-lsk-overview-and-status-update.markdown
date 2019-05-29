@@ -12,7 +12,7 @@ excerpt: This session will provide a summary of the current status of LSK, an in
 featured_image_name: LCU14-511.jpg
 image:
   featured: true
-  name: LCU14-511.jpg
+  file_name: LCU14-511.jpg
   path: /assets/images/featured-images/LCU14-511.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-511-lsk-overview-and-status-update/

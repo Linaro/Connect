@@ -27,7 +27,7 @@ excerpt: "Arm TrustZone is a critical technology for securing IoT devices and sy
 featured_image_name: LAS16-111.png
 image:
   featured: true
-  name: LAS16-111.png
+  file_name: LAS16-111.png
   path: /assets/images/featured-images/LAS16-111.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-111/

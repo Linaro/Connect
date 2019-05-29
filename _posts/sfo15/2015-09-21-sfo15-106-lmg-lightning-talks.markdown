@@ -11,7 +11,7 @@ date: 2015-09-21 00:00:00
 featured_image_name: SFO15106LMGLightningTalks.jpg
 image:
   featured: true
-  name: SFO15106LMGLightningTalks.jpg
+  file_name: SFO15106LMGLightningTalks.jpg
   path: /assets/images/featured-images/SFO15106LMGLightningTalks.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-106-lmg-lightning-talks/

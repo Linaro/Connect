@@ -18,7 +18,7 @@ excerpt: 'This session is meant to look at Coresight in deeper details. The goal
 featured_image_name: LCU14-105.jpg
 image:
   featured: true
-  name: LCU14-105.jpg
+  file_name: LCU14-105.jpg
   path: /assets/images/featured-images/LCU14-105.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-105-coresight-advanced-topics/

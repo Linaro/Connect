@@ -14,7 +14,7 @@ excerpt: This session will provide an overview of the foundations of a multi-arc
 featured_image_name: LCU14-205.jpg
 image:
   featured: true
-  name: LCU14-205.jpg
+  file_name: LCU14-205.jpg
   path: /assets/images/featured-images/LCU14-205.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-205-multi-arch-compiler-driver/

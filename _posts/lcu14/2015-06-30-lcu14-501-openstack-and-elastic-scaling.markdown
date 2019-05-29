@@ -8,7 +8,7 @@ date: 2015-06-30 17:07:30
 featured_image_name: LCU14-501.jpg
 image:
   featured: true
-  name: LCU14-501.jpg
+  file_name: LCU14-501.jpg
   path: /assets/images/featured-images/LCU14-501.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-501-openstack-and-elastic-scaling/

@@ -8,10 +8,10 @@ comments: false
 date: 2017-03-08 15:48:33
 excerpt: This session will cover lessons learned in bringing up the Dragonboard and
   other Arm devices.
-featured_image_name: BUD17-426.jpg
+featured_image_file_name: BUD17-426.jpg
 image:
   featured: true
-  name: BUD17-426.jpg
+  file_name: BUD17-426.jpg
   path: /assets/images/featured-images/BUD17-426.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-426/

@@ -11,7 +11,7 @@ excerpt: Status of Tempest 3rd party testing, discussion on scenarii for Rally b
 featured_image_name: HKG15-204.jpg
 image:
   featured: true
-  name: HKG15-204.jpg
+  file_name: HKG15-204.jpg
   path: /assets/images/featured-images/HKG15-204.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-204-openstack-3rd-party-testing-and-performance-benchmarking/
