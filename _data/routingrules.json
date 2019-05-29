@@ -33,6 +33,7 @@
     "^/lce12/resources(/?|/index.html)$ /resources/ [R,L,NC]",
     "^/resource/(.*)$ /resources/$1 [R,L,NC]",
     "^/member/(.*)$ /speaker/$1 [R,L,NC]",
+    "^/authors/(.*)$ /resources/ [R,L,NC]",
     "^/member(/?|/index.html)$ /speaker/ [R,L,NC]",
     "^/speakers(/?|/index.html)$ /speaker/ [R,L,NC]",
     "^/hub(/?|/index.html)$ /resources/ [R,L,NC]",
