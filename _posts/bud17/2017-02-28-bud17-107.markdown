@@ -12,10 +12,8 @@ excerpt: "A proposal to add ODP based support for PCI-e Endpoint mode of operati
   2 ways in which the Root Complex can be registered with ODP:\n  A. As a NIC device\n
   \ B. As a Co-processor.\n  The initial implementation will target Cavium OCTEON
   TX SoC"
-featured_image_name: BUD17-107.jpg
+featured_image_file_name: BUD17-107.jpg
 image:
-  featured: true
-  name: BUD17-107.jpg
   path: /assets/images/featured-images/BUD17-107.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-107/

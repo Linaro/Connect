@@ -15,7 +15,7 @@ excerpt: Several instances of redundant zero/sign-extension related bugs are rep
 featured_image_name: HKG15-405.jpg
 image:
   featured: true
-  name: HKG15-405.jpg
+  file_name: HKG15-405.jpg
   path: /assets/images/featured-images/HKG15-405.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-405-redundant-zerosign-extension-elimination-in-gcc/

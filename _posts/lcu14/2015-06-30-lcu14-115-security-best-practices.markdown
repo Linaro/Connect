@@ -12,7 +12,7 @@ excerpt: Aimed at developers who are working upstream and at the same time possi
 featured_image_name: LCU14-115.jpg
 image:
   featured: true
-  name: LCU14-115.jpg
+  file_name: LCU14-115.jpg
   path: /assets/images/featured-images/LCU14-115.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-115-security-best-practices/

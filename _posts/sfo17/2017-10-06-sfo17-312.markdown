@@ -13,7 +13,7 @@ excerpt: This session will be a walk-through of TCWG benchmarking infrastructure
 featured_image_name: SFO17-312.jpg
 image:
   featured: true
-  name: SFO17-312.jpg
+  file_name: SFO17-312.jpg
   path: /assets/images/featured-images/SFO17-312.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-312/

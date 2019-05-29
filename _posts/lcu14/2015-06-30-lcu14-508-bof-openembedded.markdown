@@ -26,7 +26,7 @@ excerpt: 'This informal BoF session will be held in an ad hoc manner and is open
 featured_image_name: LCU14-508.jpg
 image:
   featured: true
-  name: LCU14-508.jpg
+  file_name: LCU14-508.jpg
   path: /assets/images/featured-images/LCU14-508.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-508-bof-openembedded/

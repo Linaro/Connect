@@ -15,7 +15,7 @@ excerpt: "Android doesn\x89\u2019t give application access to hardware over bus 
 featured_image_name: SFO15-505.jpg
 image:
   featured: true
-  name: SFO15-505.jpg
+  file_name: SFO15-505.jpg
   path: /assets/images/featured-images/SFO15-505.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-505/

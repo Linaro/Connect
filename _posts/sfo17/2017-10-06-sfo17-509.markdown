@@ -13,7 +13,7 @@ excerpt: A new era of deep learning is coming with algorithm evolvement, powerfu
 featured_image_name: SFO17-509.jpg
 image:
   featured: true
-  name: SFO17-509.jpg
+  file_name: SFO17-509.jpg
   path: /assets/images/featured-images/SFO17-509.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-509/

@@ -13,7 +13,7 @@ excerpt: Alex Rames will discuss past accomplishments, techniques used to improv
 featured_image_name: SFO15208ImprovingtheOptimizingCompilerinAndroidRuntimeARTplansstatus.jpg
 image:
   featured: true
-  name: SFO15208ImprovingtheOptimizingCompilerinAndroidRuntimeARTplansstatus.jpg
+  file_name: SFO15208ImprovingtheOptimizingCompilerinAndroidRuntimeARTplansstatus.jpg
   path: /assets/images/featured-images/SFO15208ImprovingtheOptimizingCompilerinAndroidRuntimeARTplansstatus.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-208-improving-the-optimizing-compiler-in-android-runtime-art-plans-status/

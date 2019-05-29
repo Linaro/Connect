@@ -11,7 +11,7 @@ excerpt: Technical session featuring a deep dive into the Chromium-Blink migrati
 featured_image_name: LCU14-208.jpg
 image:
   featured: true
-  name: LCU14-208.jpg
+  file_name: LCU14-208.jpg
   path: /assets/images/featured-images/LCU14-208.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-208-chromium-blink-migration-for-rdk/

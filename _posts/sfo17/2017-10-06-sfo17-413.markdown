@@ -12,7 +12,7 @@ excerpt: Some platforms have the capability to configure the performance state o
 featured_image_name: SFO17-413.png
 image:
   featured: true
-  name: SFO17-413.png
+  file_name: SFO17-413.png
   path: /assets/images/featured-images/SFO17-413.png
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-413/

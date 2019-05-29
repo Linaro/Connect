@@ -14,7 +14,7 @@ excerpt: "There is a long standing feature interaction problem between CPUset to
 featured_image_name: SFO17-505.jpg
 image:
   featured: true
-  name: SFO17-505.jpg
+  file_name: SFO17-505.jpg
   path: /assets/images/featured-images/SFO17-505.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-505/

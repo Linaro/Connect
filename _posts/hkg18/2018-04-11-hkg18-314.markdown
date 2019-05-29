@@ -10,7 +10,7 @@ excerpt: HPC BoF to discuss about the future of the HPC-SIG and Arm HPC in gener
 featured_image_name: HKG18-314.png
 image:
   featured: true
-  name: HKG18-314.png
+  file_name: HKG18-314.png
   path: /assets/images/featured-images/HKG18-314.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-314/

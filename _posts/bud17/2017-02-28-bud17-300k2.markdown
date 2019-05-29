@@ -18,10 +18,10 @@ excerpt: Around the year 2000, the convergence on Linux and commodity x86_64 pro
   contain information about future (a timeline of 10 years) computation needs for
   LHC experiments and the more recent progress done by ATLAS, CernVM and CMS teams
   on using Armv8 64-bit/AArch64.
-featured_image_name: BUD17-300K2.jpg
+featured_image_file_name: BUD17-300K2.jpg
 image:
   featured: true
-  name: BUD17-300K2.jpg
+  file_name: BUD17-300K2.jpg
   path: /assets/images/featured-images/BUD17-300K2.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-300k2/

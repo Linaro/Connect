@@ -22,7 +22,7 @@ excerpt: "John\u2019s bio: John Simmons is the visionary who inspired Microsoft 
 featured_image_name: SFO15200K3TheWebandDigitalRightsManagement.jpg
 image:
   featured: true
-  name: SFO15200K3TheWebandDigitalRightsManagement.jpg
+  file_name: SFO15200K3TheWebandDigitalRightsManagement.jpg
   path: /assets/images/featured-images/SFO15200K3TheWebandDigitalRightsManagement.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-200k3-the-web-and-digital-rights-management/

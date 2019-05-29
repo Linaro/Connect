@@ -9,7 +9,7 @@ date: 2015-09-25 00:00:00
 featured_image_name: SFO15500K3GuestKeynoteSecurityPanel.jpg
 image:
   featured: true
-  name: SFO15500K3GuestKeynoteSecurityPanel.jpg
+  file_name: SFO15500K3GuestKeynoteSecurityPanel.jpg
   path: /assets/images/featured-images/SFO15500K3GuestKeynoteSecurityPanel.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-500k3-guest-keynote-security-panel/

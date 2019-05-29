@@ -11,10 +11,10 @@ excerpt: "Upstream community hasn\u2019t had active participation around ION for
   The session will include:\n - Brief status on where we stand on ION\n - Why isn\u2019t
   upstream community \u2018not interested\u2019\n - How can we attempt to influence
   that"
-featured_image_name: BUD17-506.jpg
+featured_image_file_name: BUD17-506.jpg
 image:
   featured: true
-  name: BUD17-506.jpg
+  file_name: BUD17-506.jpg
   path: /assets/images/featured-images/BUD17-506.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-506/

@@ -13,7 +13,7 @@ excerpt: This session will provide a summary of the process to install, update a
 featured_image_name: LCU14-400.jpg
 image:
   featured: true
-  name: LCU14-400.jpg
+  file_name: LCU14-400.jpg
   path: /assets/images/featured-images/LCU14-400.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-400-managing-a-lava-lab-using-new-debian-packages/

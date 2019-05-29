@@ -14,7 +14,7 @@ excerpt: This session provides an overview of the Embedded Base Boot Requirement
 featured_image_name: SFO17-508.jpg
 image:
   featured: true
-  name: SFO17-508.jpg
+  file_name: SFO17-508.jpg
   path: /assets/images/featured-images/SFO17-508.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-508/

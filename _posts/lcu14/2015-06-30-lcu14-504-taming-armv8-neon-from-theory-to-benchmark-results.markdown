@@ -13,7 +13,7 @@ excerpt: Making NEON shine simply requires following a few tips. In this present
 featured_image_name: LCU14-504.jpg
 image:
   featured: true
-  name: LCU14-504.jpg
+  file_name: LCU14-504.jpg
   path: /assets/images/featured-images/LCU14-504.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-504-taming-armv8-neon-from-theory-to-benchmark-results/

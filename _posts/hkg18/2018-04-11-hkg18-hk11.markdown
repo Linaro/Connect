@@ -14,7 +14,7 @@ excerpt: '- Widevine
 featured_image_name: HKG18-HK11.png
 image:
   featured: true
-  name: HKG18-HK11.png
+  file_name: HKG18-HK11.png
   path: /assets/images/featured-images/HKG18-HK11.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-hk11/

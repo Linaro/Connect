@@ -10,7 +10,7 @@ excerpt: Discussion around activities for 96Boards.
 featured_image_name: LAS16-502.png
 image:
   featured: true
-  name: LAS16-502.png
+  file_name: LAS16-502.png
   path: /assets/images/featured-images/LAS16-502.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-502/

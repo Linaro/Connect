@@ -14,7 +14,7 @@ excerpt: LEG has been optimizing Ceph, HDFS, Swift and kernel file system CRC al
 featured_image_name: SFO15207Storageandfilesystemoptimizations.jpg
 image:
   featured: true
-  name: SFO15207Storageandfilesystemoptimizations.jpg
+  file_name: SFO15207Storageandfilesystemoptimizations.jpg
   path: /assets/images/featured-images/SFO15207Storageandfilesystemoptimizations.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-207-storage-and-filesystem-optimizations/

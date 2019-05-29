@@ -13,7 +13,7 @@ excerpt: The new LAVA dispatcher allows explicit control of starting/controlling
 featured_image_name: LAS16-211.png
 image:
   featured: true
-  name: LAS16-211.png
+  file_name: LAS16-211.png
   path: /assets/images/featured-images/LAS16-211.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-211/

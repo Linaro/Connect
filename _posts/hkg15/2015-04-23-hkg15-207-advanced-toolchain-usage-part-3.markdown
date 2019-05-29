@@ -16,7 +16,7 @@ excerpt: 'This session is a continuation of the Advanced Toolchain Usage Part 1 
 featured_image_name: HKG15-207.jpg
 image:
   featured: true
-  name: HKG15-207.jpg
+  file_name: HKG15-207.jpg
   path: /assets/images/featured-images/HKG15-207.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-207-advanced-toolchain-usage-part-3/

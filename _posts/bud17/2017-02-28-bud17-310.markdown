@@ -10,10 +10,10 @@ excerpt: This session provides an introduction of LLDB - Debugger from LLVM proj
   and its status on Arm and AArch64 Linux.  A brief overview of various components
   in LLDB will be presented with a focus on LLDB commandline and how LLDB can provide
   debugging experience similar or different from GDB.
-featured_image_name: BUD17-310.jpg
+featured_image_file_name: BUD17-310.jpg
 image:
   featured: true
-  name: BUD17-310.jpg
+  file_name: BUD17-310.jpg
   path: /assets/images/featured-images/BUD17-310.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-310/

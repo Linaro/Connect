@@ -17,7 +17,7 @@ excerpt: "The openCSD project is developing an open source trace decode library 
 featured_image_name: SFO15402ArchitectureUseofopenCSDARMCoreSightTracedecodelibrary.jpg
 image:
   featured: true
-  name: SFO15402ArchitectureUseofopenCSDARMCoreSightTracedecodelibrary.jpg
+  file_name: SFO15402ArchitectureUseofopenCSDARMCoreSightTracedecodelibrary.jpg
   path: /assets/images/featured-images/SFO15402ArchitectureUseofopenCSDARMCoreSightTracedecodelibrary.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-402-architecture-use-of-opencsd-arm-coresight-trace-decode-library/

@@ -12,7 +12,7 @@ excerpt: This presentation provides a current view of the Security work performe
 featured_image_name: BKK16-201.jpg
 image:
   featured: true
-  name: BKK16-201.jpg
+  file_name: BKK16-201.jpg
   path: /assets/images/featured-images/BKK16-201.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-201/

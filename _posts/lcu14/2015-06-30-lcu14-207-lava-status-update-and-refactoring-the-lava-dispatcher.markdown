@@ -11,7 +11,7 @@ excerpt: The LAVA team will present the current status of the LAVA product and h
 featured_image_name: LCU14-207.jpg
 image:
   featured: true
-  name: LCU14-207.jpg
+  file_name: LCU14-207.jpg
   path: /assets/images/featured-images/LCU14-207.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-207-lava-status-update-and-refactoring-the-lava-dispatcher/

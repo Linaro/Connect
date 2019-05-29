@@ -13,7 +13,7 @@ excerpt: "Since the presentation back in 2015 (SFO15), there has been functional
 featured_image_name: LAS16-504.png
 image:
   featured: true
-  name: LAS16-504.png
+  file_name: LAS16-504.png
   path: /assets/images/featured-images/LAS16-504.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-504/

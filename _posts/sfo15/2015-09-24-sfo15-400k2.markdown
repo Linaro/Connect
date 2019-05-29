@@ -8,7 +8,7 @@ date: 2015-09-24 00:00:00
 featured_image_name: SFO15400K2GuestKeynoteDaveNearyRedhat.jpg
 image:
   featured: true
-  name: SFO15400K2GuestKeynoteDaveNearyRedhat.jpg
+  file_name: SFO15400K2GuestKeynoteDaveNearyRedhat.jpg
   path: /assets/images/featured-images/SFO15400K2GuestKeynoteDaveNearyRedhat.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-400k2/

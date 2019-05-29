@@ -11,7 +11,7 @@ excerpt: Heads up on what Arm are doing with the new Armv8-M architecture from a
 featured_image_name: LAS16-203.png
 image:
   featured: true
-  name: LAS16-203.png
+  file_name: LAS16-203.png
   path: /assets/images/featured-images/LAS16-203.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-203/

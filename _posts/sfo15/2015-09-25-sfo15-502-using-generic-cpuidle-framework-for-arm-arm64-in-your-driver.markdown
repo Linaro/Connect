@@ -13,7 +13,7 @@ excerpt: With the new generic cpuidle framework for Arm/Arm64, it is much easier
 featured_image_name: SFO15502UsinggenericcpuidleframeworkforARMARM64inyourdriver.jpg
 image:
   featured: true
-  name: SFO15502UsinggenericcpuidleframeworkforARMARM64inyourdriver.jpg
+  file_name: SFO15502UsinggenericcpuidleframeworkforARMARM64inyourdriver.jpg
   path: /assets/images/featured-images/SFO15502UsinggenericcpuidleframeworkforARMARM64inyourdriver.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-502-using-generic-cpuidle-framework-for-arm-arm64-in-your-driver/

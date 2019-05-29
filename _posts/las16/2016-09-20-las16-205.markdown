@@ -14,7 +14,7 @@ excerpt: 'This session will cover the state of android-4.4: total patch count or
 featured_image_name: LAS16-205.png
 image:
   featured: true
-  name: LAS16-205.png
+  file_name: LAS16-205.png
   path: /assets/images/featured-images/LAS16-205.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-205/

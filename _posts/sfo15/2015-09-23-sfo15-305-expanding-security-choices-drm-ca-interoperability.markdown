@@ -16,7 +16,7 @@ excerpt: 'Open source platforms face challenges, such as security threats and in
 featured_image_name: SFO15305ExpandingsecuritychoicesDRMCAinteroperability.jpg
 image:
   featured: true
-  name: SFO15305ExpandingsecuritychoicesDRMCAinteroperability.jpg
+  file_name: SFO15305ExpandingsecuritychoicesDRMCAinteroperability.jpg
   path: /assets/images/featured-images/SFO15305ExpandingsecuritychoicesDRMCAinteroperability.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-305-expanding-security-choices-drm-ca-interoperability/

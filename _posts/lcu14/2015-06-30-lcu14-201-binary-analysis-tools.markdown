@@ -12,7 +12,7 @@ excerpt: 'This session will be a presentation about currently available binary a
 featured_image_name: LCU14-201.jpg
 image:
   featured: true
-  name: LCU14-201.jpg
+  file_name: LCU14-201.jpg
   path: /assets/images/featured-images/LCU14-201.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-201-binary-analysis-tools/

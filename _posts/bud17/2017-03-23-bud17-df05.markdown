@@ -10,10 +10,10 @@ excerpt: "\"The demo is one of the cases to use DPDK as network accelerator.\nNg
   http server is ported to run on top of a high-performance mTCP stack. \nThe whole
   system can be run in physical machine or VM as VNF with virtual switch interconnected.
   \""
-featured_image_name: BUD17-DF05.jpg
+featured_image_file_name: BUD17-DF05.jpg
 image:
   featured: true
-  name: BUD17-DF05.jpg
+  file_name: BUD17-DF05.jpg
   path: /assets/images/featured-images/BUD17-DF05.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df05/

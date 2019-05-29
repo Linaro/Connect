@@ -12,10 +12,10 @@ excerpt: The timekeeping code in the Linux kernel is used by nearly everything f
   the hardware, how those abstractions are built upon to implement NOHZ, timers, hrtimers,
   cpu-idle, POSIX clocks, etc. and how we keep things working when these abstractions
   break down with the tick-broadcast mechanism.
-featured_image_name: BUD17-419.jpg
+featured_image_file_name: BUD17-419.jpg
 image:
   featured: true
-  name: BUD17-419.jpg
+  file_name: BUD17-419.jpg
   path: /assets/images/featured-images/BUD17-419.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-419/

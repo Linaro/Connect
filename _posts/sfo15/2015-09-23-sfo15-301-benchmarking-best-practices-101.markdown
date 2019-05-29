@@ -17,7 +17,7 @@ excerpt: "This presentation will focus on beginner\u2019s benchmarking best prac
 featured_image_name: SFO15301BenchmarkingBestPractices101.jpg
 image:
   featured: true
-  name: SFO15301BenchmarkingBestPractices101.jpg
+  file_name: SFO15301BenchmarkingBestPractices101.jpg
   path: /assets/images/featured-images/SFO15301BenchmarkingBestPractices101.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-301-benchmarking-best-practices-101/

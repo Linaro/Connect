@@ -22,7 +22,7 @@ excerpt: "In this session, Tim Bird will discuss the mainline status of several 
 featured_image_name: SFO15210KernelMainlineStatusofMobileChipsets.jpg
 image:
   featured: true
-  name: SFO15210KernelMainlineStatusofMobileChipsets.jpg
+  file_name: SFO15210KernelMainlineStatusofMobileChipsets.jpg
   path: /assets/images/featured-images/SFO15210KernelMainlineStatusofMobileChipsets.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-210-kernel-mainline-status-of-mobile-chipsets/

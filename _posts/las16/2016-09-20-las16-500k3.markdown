@@ -13,7 +13,7 @@ excerpt: Two Linux pioneers, David Rusling (Linaro) and Linus Torvalds (Linux Fo
 featured_image_name: LAS16-500K3.png
 image:
   featured: true
-  name: LAS16-500K3.png
+  file_name: LAS16-500K3.png
   path: /assets/images/featured-images/LAS16-500K3.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-500k3/

@@ -11,7 +11,7 @@ excerpt: In this session I will talk about what has happened in the past year on
 featured_image_name: SFO17-503.jpg
 image:
   featured: true
-  name: SFO17-503.jpg
+  file_name: SFO17-503.jpg
   path: /assets/images/featured-images/SFO17-503.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-503/

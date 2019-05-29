@@ -15,7 +15,7 @@ excerpt: This is an inside look of the state of compliance from the perspective 
 featured_image_name: SFO15500K2IdeologyinOpenSourceCompliance.jpg
 image:
   featured: true
-  name: SFO15500K2IdeologyinOpenSourceCompliance.jpg
+  file_name: SFO15500K2IdeologyinOpenSourceCompliance.jpg
   path: /assets/images/featured-images/SFO15500K2IdeologyinOpenSourceCompliance.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-500k2-ideology-in-open-source-compliance/

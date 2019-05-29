@@ -15,7 +15,7 @@ excerpt: As part of Linaro CI v2 project, several improvements have been impleme
 featured_image_name: SFO15203LinaroCIgitdrivenworkflowJenkinsadvancedusage.jpg
 image:
   featured: true
-  name: SFO15203LinaroCIgitdrivenworkflowJenkinsadvancedusage.jpg
+  file_name: SFO15203LinaroCIgitdrivenworkflowJenkinsadvancedusage.jpg
   path: /assets/images/featured-images/SFO15203LinaroCIgitdrivenworkflowJenkinsadvancedusage.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-203-linaro-ci-git-driven-workflow-jenkins-advanced-usage/
