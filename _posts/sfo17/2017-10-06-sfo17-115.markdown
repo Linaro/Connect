@@ -10,7 +10,7 @@ excerpt: Continuation of discussion from BUD17. QC kernel upstream status, issue
 featured_image_name: SFO17-115.jpg
 image:
   featured: true
-  name: SFO17-115.jpg
+  file_name: SFO17-115.jpg
   path: /assets/images/featured-images/SFO17-115.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-115/

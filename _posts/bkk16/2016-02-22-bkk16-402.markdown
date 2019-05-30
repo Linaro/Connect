@@ -11,7 +11,7 @@ excerpt: Regular session taking place at Connect for developers working on Linux
 featured_image_name: BKK16-402.jpg
 image:
   featured: true
-  name: BKK16-402.jpg
+  file_name: BKK16-402.jpg
   path: /assets/images/featured-images/BKK16-402.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-402/

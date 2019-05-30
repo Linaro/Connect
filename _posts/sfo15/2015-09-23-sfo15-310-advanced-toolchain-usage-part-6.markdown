@@ -20,7 +20,7 @@ excerpt: "This session is a continuation of the Advanced Toolchain Usage series 
 featured_image_name: SFO15310AdvancedToolchainUsagePart6.jpg
 image:
   featured: true
-  name: SFO15310AdvancedToolchainUsagePart6.jpg
+  file_name: SFO15310AdvancedToolchainUsagePart6.jpg
   path: /assets/images/featured-images/SFO15310AdvancedToolchainUsagePart6.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-310-advanced-toolchain-usage-part-6/

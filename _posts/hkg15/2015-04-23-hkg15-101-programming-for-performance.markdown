@@ -9,7 +9,7 @@ date: 2015-04-23 15:38:04
 featured_image_name: HKG15-101.jpg
 image:
   featured: true
-  name: HKG15-101.jpg
+  file_name: HKG15-101.jpg
   path: /assets/images/featured-images/HKG15-101.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-101-programming-for-performance/

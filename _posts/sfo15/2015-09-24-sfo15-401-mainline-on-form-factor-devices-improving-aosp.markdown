@@ -14,7 +14,7 @@ excerpt: "Combined session on John Stultz\u2019s Linux Plumbers Conference (LPC)
 featured_image_name: SFO15401MainlineonformfactordevicesImprovingAOSP.jpg
 image:
   featured: true
-  name: SFO15401MainlineonformfactordevicesImprovingAOSP.jpg
+  file_name: SFO15401MainlineonformfactordevicesImprovingAOSP.jpg
   path: /assets/images/featured-images/SFO15401MainlineonformfactordevicesImprovingAOSP.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-401-mainline-on-form-factor-devices-improving-aosp/

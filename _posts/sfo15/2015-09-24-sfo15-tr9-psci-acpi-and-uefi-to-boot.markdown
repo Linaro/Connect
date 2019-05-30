@@ -15,7 +15,7 @@ excerpt: "An introductory session of a system-level overview at Power State Coor
 featured_image_name: SFO15TR9PSCIACPIandUEFItoboot.jpg
 image:
   featured: true
-  name: SFO15TR9PSCIACPIandUEFItoboot.jpg
+  file_name: SFO15TR9PSCIACPIandUEFItoboot.jpg
   path: /assets/images/featured-images/SFO15TR9PSCIACPIandUEFItoboot.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr9-psci-acpi-and-uefi-to-boot/

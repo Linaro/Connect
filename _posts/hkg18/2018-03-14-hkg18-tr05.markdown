@@ -8,7 +8,7 @@ excerpt: A session run by users for users of LAVA. Ask us.
 featured_image_name: HKG-18TR05.png
 image:
   featured: true
-  name: HKG-18TR05.png
+  file_name: HKG-18TR05.png
   path: /assets/images/featured-images/HKG-18TR05.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg-18tr05/

@@ -10,7 +10,7 @@ excerpt: Update on the current status of ODP 1.0
 featured_image_name: LCU14-111.jpg
 image:
   featured: true
-  name: LCU14-111.jpg
+  file_name: LCU14-111.jpg
   path: /assets/images/featured-images/LCU14-111.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-111-odp-project-update/

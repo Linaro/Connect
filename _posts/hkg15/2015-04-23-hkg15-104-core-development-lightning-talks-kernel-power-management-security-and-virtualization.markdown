@@ -22,7 +22,7 @@ excerpt: "After an entire year of full time involvement of Linaro in the CoreSig
 featured_image_name: HKG15-104.jpg
 image:
   featured: true
-  name: HKG15-104.jpg
+  file_name: HKG15-104.jpg
   path: /assets/images/featured-images/HKG15-104.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-104-core-development-lightning-talks-kernel-power-management-security-and-virtualization/

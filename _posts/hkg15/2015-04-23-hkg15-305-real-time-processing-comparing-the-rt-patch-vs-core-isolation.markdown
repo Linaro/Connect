@@ -12,7 +12,7 @@ excerpt: The RT patchset has come to EoL and an alternative to meet the determin
 featured_image_name: HKG15-305.jpg
 image:
   featured: true
-  name: HKG15-305.jpg
+  file_name: HKG15-305.jpg
   path: /assets/images/featured-images/HKG15-305.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-305-real-time-processing-comparing-the-rt-patch-vs-core-isolation/

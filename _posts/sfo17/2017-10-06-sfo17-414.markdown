@@ -13,7 +13,7 @@ excerpt: The 96Boards Mezzanine ecosystem continues to grow as both partner and 
 featured_image_name: SFO17-414.jpg
 image:
   featured: true
-  name: SFO17-414.jpg
+  file_name: SFO17-414.jpg
   path: /assets/images/featured-images/SFO17-414.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-414/

@@ -16,7 +16,7 @@ excerpt: "At this session we will get more knowledge about the TEE driver that L
 featured_image_name: SFO15200LinuxkernelgenericTEEdriver.jpg
 image:
   featured: true
-  name: SFO15200LinuxkernelgenericTEEdriver.jpg
+  file_name: SFO15200LinuxkernelgenericTEEdriver.jpg
   path: /assets/images/featured-images/SFO15200LinuxkernelgenericTEEdriver.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-200-linux-kernel-generic-tee-driver/

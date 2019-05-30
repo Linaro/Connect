@@ -16,7 +16,7 @@ excerpt: "VLAND is a project to enable dynamic network configuration of various 
 featured_image_name: SFO15507VLANDprogressupdate.jpg
 image:
   featured: true
-  name: SFO15507VLANDprogressupdate.jpg
+  file_name: SFO15507VLANDprogressupdate.jpg
   path: /assets/images/featured-images/SFO15507VLANDprogressupdate.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-507-vland-progress-update/

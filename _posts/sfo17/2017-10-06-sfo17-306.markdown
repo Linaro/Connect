@@ -11,7 +11,7 @@ excerpt: The bootloader is where it all begins. This session sums up our experie
 featured_image_name: SFO17-306.jpg
 image:
   featured: true
-  name: SFO17-306.jpg
+  file_name: SFO17-306.jpg
   path: /assets/images/featured-images/SFO17-306.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-306/

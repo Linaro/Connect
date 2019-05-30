@@ -14,7 +14,7 @@ excerpt: The Dalvik virtual machine is the crucial part of Android responsible f
 featured_image_name: LCU14-100.jpg
 image:
   featured: true
-  name: LCU14-100.jpg
+  file_name: LCU14-100.jpg
   path: /assets/images/featured-images/LCU14-100.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-100-dalvik-is-dead-long-live-dalvik-or-tuning-art/

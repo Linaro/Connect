@@ -11,10 +11,10 @@ excerpt: One year ago, LHG launched an effort to organize the LHG components in 
   LHG specific features via meta-lhg and merge with support from 96Boards OE meta
   layers. The specific meta-lhg contents are described and how they are combined to
   create the LHG OE builds on 96Boards targets.
-featured_image_name: BUD17-412.jpg
+featured_image_file_name: BUD17-412.jpg
 image:
   featured: true
-  name: BUD17-412.jpg
+  file_name: BUD17-412.jpg
   path: /assets/images/featured-images/BUD17-412.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-412/

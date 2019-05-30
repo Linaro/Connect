@@ -13,7 +13,7 @@ excerpt: Sharing what Linaro has learned through experience, covers background o
 featured_image_name: HKG18-412.png
 image:
   featured: true
-  name: HKG18-412.png
+  file_name: HKG18-412.png
   path: /assets/images/featured-images/HKG18-412.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-412/

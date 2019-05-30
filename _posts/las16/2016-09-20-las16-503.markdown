@@ -10,7 +10,7 @@ excerpt: Remaining tasks in the migration and next steps
 featured_image_name: LAS16-503.png
 image:
   featured: true
-  name: LAS16-503.png
+  file_name: LAS16-503.png
   path: /assets/images/featured-images/LAS16-503.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-503/

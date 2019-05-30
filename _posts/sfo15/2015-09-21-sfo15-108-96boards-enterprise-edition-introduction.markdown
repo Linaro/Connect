@@ -16,7 +16,7 @@ excerpt: The 96Boards Consumer Edition specification was launched at Linaro Conn
 featured_image_name: SFO1510896BoardsEnterpriseEditionIntroduction.jpg
 image:
   featured: true
-  name: SFO1510896BoardsEnterpriseEditionIntroduction.jpg
+  file_name: SFO1510896BoardsEnterpriseEditionIntroduction.jpg
   path: /assets/images/featured-images/SFO1510896BoardsEnterpriseEditionIntroduction.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-108-96boards-enterprise-edition-introduction/

@@ -13,7 +13,7 @@ excerpt: Present Thundersoft current practices on Linux based Infotainment syste
 featured_image_name: SFO17-213.jpg
 image:
   featured: true
-  name: SFO17-213.jpg
+  file_name: SFO17-213.jpg
   path: /assets/images/featured-images/SFO17-213.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-213/

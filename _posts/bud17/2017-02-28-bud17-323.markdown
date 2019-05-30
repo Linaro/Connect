@@ -13,10 +13,10 @@ excerpt: The DynInst package (https://github.com/dyninst/dyninst) provides an AP
   the binary utilities will be explained in detail. The talk will conclude explaining
   the key features currently missing on arm64, namely code generation and relocation,
   to be implemented in 2017.
-featured_image_name: BUD17-323.jpg
+featured_image_file_name: BUD17-323.jpg
 image:
   featured: true
-  name: BUD17-323.jpg
+  file_name: BUD17-323.jpg
   path: /assets/images/featured-images/BUD17-323.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-323/

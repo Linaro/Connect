@@ -111,3 +111,11 @@ function filter_results(current_json_data, key, potential_keys, underscore_table
     $('#result_size').html(filtered.length);
     $('#results').html(results.join(''));
 }
+// Delay function - used to detect when the user has stopped typing.
+var delay = (function(){
+    var timer = 0;
+    return function(callback, ms){
+      clearTimeout (timer);
+      timer = setTimeout(callback, ms);
+    };
+  })();

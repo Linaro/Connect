@@ -20,7 +20,7 @@ excerpt: The CoreSight framework available in the Linux kernel has recently been
 featured_image_name: LAS16-210.png
 image:
   featured: true
-  name: LAS16-210.png
+  file_name: LAS16-210.png
   path: /assets/images/featured-images/LAS16-210.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-210/

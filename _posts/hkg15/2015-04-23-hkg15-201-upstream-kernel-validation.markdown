@@ -19,7 +19,7 @@ excerpt: Performing kernel validation on hundreds of platforms for every merge o
 featured_image_name: HKG15-201.jpg
 image:
   featured: true
-  name: HKG15-201.jpg
+  file_name: HKG15-201.jpg
   path: /assets/images/featured-images/HKG15-201.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-201-upstream-kernel-validation/

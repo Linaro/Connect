@@ -10,7 +10,7 @@ excerpt: A session run by users for users of LAVA. Ask us.
 featured_image_name: SFO17-107.jpg
 image:
   featured: true
-  name: SFO17-107.jpg
+  file_name: SFO17-107.jpg
   path: /assets/images/featured-images/SFO17-107.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-107/

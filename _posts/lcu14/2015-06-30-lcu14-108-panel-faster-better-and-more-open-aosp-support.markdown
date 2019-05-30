@@ -34,7 +34,7 @@ excerpt: 'The Arm ecosystem is large and still growing, with Linaro a key focus 
 featured_image_name: LCU14-108.jpg
 image:
   featured: true
-  name: LCU14-108.jpg
+  file_name: LCU14-108.jpg
   path: /assets/images/featured-images/LCU14-108.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-108-panel-faster-better-and-more-open-aosp-support/

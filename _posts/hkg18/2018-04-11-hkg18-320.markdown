@@ -19,7 +19,7 @@ excerpt: Nowadays people connect into Internet by multiple kinds of devices. To 
 featured_image_name: HKG18-320.jpg
 image:
   featured: true
-  name: HKG18-320.jpg
+  file_name: HKG18-320.jpg
   path: /assets/images/featured-images/HKG18-320.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-320/

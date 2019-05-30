@@ -9,7 +9,7 @@ date: 2015-06-30 17:07:43
 featured_image_name: LCU14-500z.jpg
 image:
   featured: true
-  name: LCU14-500z.jpg
+  file_name: LCU14-500z.jpg
   path: /assets/images/featured-images/LCU14-500z.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-500z-jim-zemlin-linux-foundation/

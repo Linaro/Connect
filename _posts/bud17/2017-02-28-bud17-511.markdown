@@ -12,10 +12,10 @@ excerpt: "The University of Sao Paulo, with support of LSITEC (an NGO Design Hou
   is to strengthen the gap between industry and universities, producing professionals
   with high design skills in embedding computing to society, while providing to Linaro
   and its partners the ability to have high quality boards in various volumes of manufacturing."
-featured_image_name: BUD17-511.jpg
+featured_image_file_name: BUD17-511.jpg
 image:
   featured: true
-  name: BUD17-511.jpg
+  file_name: BUD17-511.jpg
   path: /assets/images/featured-images/BUD17-511.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-511/

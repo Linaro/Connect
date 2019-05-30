@@ -9,7 +9,7 @@ date: 2015-06-30 17:08:45
 featured_image_name: LCU14-312.jpg
 image:
   featured: true
-  name: LCU14-312.jpg
+  file_name: LCU14-312.jpg
   path: /assets/images/featured-images/LCU14-312.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-312-introduction-to-the-ecosystem-day/

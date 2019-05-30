@@ -10,7 +10,7 @@ date: 2015-11-03 13:50:03
 featured_image_name: SFO15-TR7.jpg
 image:
   featured: true
-  name: SFO15-TR7.jpg
+  file_name: SFO15-TR7.jpg
   path: /assets/images/featured-images/SFO15-TR7.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr7-oss-license-compliance/

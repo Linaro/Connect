@@ -9,7 +9,7 @@ excerpt: Discuss the details of proposed lead project 1
 featured_image_name: BKK16-105.jpg
 image:
   featured: true
-  name: BKK16-105.jpg
+  file_name: BKK16-105.jpg
   path: /assets/images/featured-images/BKK16-105.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-105/

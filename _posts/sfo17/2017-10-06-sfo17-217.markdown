@@ -9,7 +9,7 @@ date: 2017-10-06 16:54:45
 featured_image_name: SFO17-217.jpg
 image:
   featured: true
-  name: SFO17-217.jpg
+  file_name: SFO17-217.jpg
   path: /assets/images/featured-images/SFO17-217.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-217/

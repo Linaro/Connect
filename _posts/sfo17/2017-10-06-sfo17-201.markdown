@@ -18,7 +18,7 @@ excerpt: "Building a totally secure boot system goes through establishing a full
 featured_image_name: SFO17-201.jpg
 image:
   featured: true
-  name: SFO17-201.jpg
+  file_name: SFO17-201.jpg
   path: /assets/images/featured-images/SFO17-201.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-201/

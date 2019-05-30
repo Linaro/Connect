@@ -12,10 +12,10 @@ excerpt: "This session is a sequel of the \u201CBus scaling QoS\u201D session fr
   support for interconnect management in the Linux kernel, which involves extending
   some frameworks and introducing a new API. This session will give an update about
   the current status and the next steps."
-featured_image_name: BUD17-214.jpg
+featured_image_file_name: BUD17-214.jpg
 image:
   featured: true
-  name: BUD17-214.jpg
+  file_name: BUD17-214.jpg
   path: /assets/images/featured-images/BUD17-214.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-214/

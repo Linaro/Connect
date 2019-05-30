@@ -15,7 +15,7 @@ excerpt: Linaro is using OpenEmbedded as part of its engineering builds. We prop
 featured_image_name: SFO15111OpenEmbeddedBoF.jpg
 image:
   featured: true
-  name: SFO15111OpenEmbeddedBoF.jpg
+  file_name: SFO15111OpenEmbeddedBoF.jpg
   path: /assets/images/featured-images/SFO15111OpenEmbeddedBoF.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-111-openembedded-bof/

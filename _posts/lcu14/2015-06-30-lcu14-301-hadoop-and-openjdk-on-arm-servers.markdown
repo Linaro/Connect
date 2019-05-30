@@ -10,7 +10,7 @@ excerpt: Technical details of Hadoop and OpenJDK on Arm servers
 featured_image_name: LCU14-301.jpg
 image:
   featured: true
-  name: LCU14-301.jpg
+  file_name: LCU14-301.jpg
   path: /assets/images/featured-images/LCU14-301.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-301-hadoop-and-openjdk-on-arm-servers/

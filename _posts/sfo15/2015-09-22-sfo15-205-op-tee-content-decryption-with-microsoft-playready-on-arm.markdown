@@ -14,7 +14,7 @@ excerpt: This presentation gives an overview of how various components of set-to
 featured_image_name: SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonARM.jpg
 image:
   featured: true
-  name: SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonARM.jpg
+  file_name: SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonARM.jpg
   path: /assets/images/featured-images/SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonARM.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-205-op-tee-content-decryption-with-microsoft-playready-on-arm/

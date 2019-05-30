@@ -12,7 +12,7 @@ excerpt: Two-factor authentication (2fa) increases the security of a password (s
 featured_image_name: BKK16-TR04.jpg
 image:
   featured: true
-  name: BKK16-TR04.jpg
+  file_name: BKK16-TR04.jpg
   path: /assets/images/featured-images/BKK16-TR04.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-tr04/

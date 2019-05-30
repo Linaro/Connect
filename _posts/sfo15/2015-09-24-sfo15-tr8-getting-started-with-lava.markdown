@@ -17,7 +17,7 @@ excerpt: Both the Field and more recently the LAVA lab have worked on HOWTOs to 
 featured_image_name: SFO15-TR8.jpg
 image:
   featured: true
-  name: SFO15-TR8.jpg
+  file_name: SFO15-TR8.jpg
   path: /assets/images/featured-images/SFO15-TR8.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr8-getting-started-with-lava/

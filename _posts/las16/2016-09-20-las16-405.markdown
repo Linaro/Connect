@@ -16,7 +16,7 @@ excerpt: You may think OpenDataPlane and DPDK are somewhat equivalent. But they 
 featured_image_name: LAS16-405.png
 image:
   featured: true
-  name: LAS16-405.png
+  file_name: LAS16-405.png
   path: /assets/images/featured-images/LAS16-405.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-405/

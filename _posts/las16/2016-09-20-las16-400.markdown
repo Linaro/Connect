@@ -35,7 +35,7 @@ excerpt: "The Android Open Source Project is one community which is strategic to
 featured_image_name: LAS16-400.png
 image:
   featured: true
-  name: LAS16-400.png
+  file_name: LAS16-400.png
   path: /assets/images/featured-images/LAS16-400.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-400/

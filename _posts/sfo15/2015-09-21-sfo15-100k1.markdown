@@ -11,7 +11,7 @@ date: 2015-09-21 00:00:00
 featured_image_name: SFO15100K1WelcomeKeynoteGeorgeGreyLinaroCEO.jpg
 image:
   featured: true
-  name: SFO15100K1WelcomeKeynoteGeorgeGreyLinaroCEO.jpg
+  file_name: SFO15100K1WelcomeKeynoteGeorgeGreyLinaroCEO.jpg
   path: /assets/images/featured-images/SFO15100K1WelcomeKeynoteGeorgeGreyLinaroCEO.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-100k1/

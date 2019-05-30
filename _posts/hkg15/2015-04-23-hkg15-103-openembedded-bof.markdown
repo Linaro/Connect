@@ -11,7 +11,7 @@ excerpt: In this BoF (birds of a feather) session we welcome general questions a
 featured_image_name: HKG15-103.jpg
 image:
   featured: true
-  name: HKG15-103.jpg
+  file_name: HKG15-103.jpg
   path: /assets/images/featured-images/HKG15-103.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-103-openembedded-bof/

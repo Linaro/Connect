@@ -19,7 +19,7 @@ excerpt: 'Some platforms have the capability to configure the performance state 
 featured_image_name: SFO17-408.jpg
 image:
   featured: true
-  name: SFO17-408.jpg
+  file_name: SFO17-408.jpg
   path: /assets/images/featured-images/SFO17-408.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-408/

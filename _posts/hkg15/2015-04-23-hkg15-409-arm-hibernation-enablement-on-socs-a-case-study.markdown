@@ -14,7 +14,7 @@ excerpt: Hibernation on Arm devices is a long-wanted feature, with multiple ways
 featured_image_name: HKG15-409.jpg
 image:
   featured: true
-  name: HKG15-409.jpg
+  file_name: HKG15-409.jpg
   path: /assets/images/featured-images/HKG15-409.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-409-arm-hibernation-enablement-on-socs-a-case-study/

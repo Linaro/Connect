@@ -17,7 +17,7 @@ excerpt: "One of the features introduced by the Android Runtime (ART) is an Ahea
 featured_image_name: SFO15204TheArtofOptimizingANewCompilerfortheAndroidRuntime.jpg
 image:
   featured: true
-  name: SFO15204TheArtofOptimizingANewCompilerfortheAndroidRuntime.jpg
+  file_name: SFO15204TheArtofOptimizingANewCompilerfortheAndroidRuntime.jpg
   path: /assets/images/featured-images/SFO15204TheArtofOptimizingANewCompilerfortheAndroidRuntime.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-204-the-art-of-optimizing-a-new-compiler-for-the-android-runtime/

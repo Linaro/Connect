@@ -19,7 +19,7 @@ excerpt: In computer/mobile product world, due to the stability, project timelin
 featured_image_name: LAS16-101.png
 image:
   featured: true
-  name: LAS16-101.png
+  file_name: LAS16-101.png
   path: /assets/images/featured-images/LAS16-101.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-101/

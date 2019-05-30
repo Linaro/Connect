@@ -11,7 +11,7 @@ excerpt: Cisco to present their experience using ODP to provide portable acceler
 featured_image_name: LCU14-310.jpg
 image:
   featured: true
-  name: LCU14-310.jpg
+  file_name: LCU14-310.jpg
   path: /assets/images/featured-images/LCU14-310.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-310-cisco-odp-presentation/

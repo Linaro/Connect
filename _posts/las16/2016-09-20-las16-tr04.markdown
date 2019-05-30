@@ -17,7 +17,7 @@ excerpt: 'The Energy Aware Scheduler relies on a power model, rather than on heu
 featured_image_name: LAS16-TR04.png
 image:
   featured: true
-  name: LAS16-TR04.png
+  file_name: LAS16-TR04.png
   path: /assets/images/featured-images/LAS16-TR04.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-tr04/

@@ -10,7 +10,7 @@ excerpt: "Stephane Le Provost will introduce MediaTek\u2019s new X20 Board."
 featured_image_name: LAS16-200K3.png
 image:
   featured: true
-  name: LAS16-200K3.png
+  file_name: LAS16-200K3.png
   path: /assets/images/featured-images/LAS16-200K3.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-200k3/

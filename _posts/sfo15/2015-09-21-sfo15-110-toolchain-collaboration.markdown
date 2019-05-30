@@ -15,7 +15,7 @@ excerpt: The OpenDataPlane project is now two years old and is beginning to see 
 featured_image_name: SFO15110ToolchainCollaboration.jpg
 image:
   featured: true
-  name: SFO15110ToolchainCollaboration.jpg
+  file_name: SFO15110ToolchainCollaboration.jpg
   path: /assets/images/featured-images/SFO15110ToolchainCollaboration.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-110-toolchain-collaboration/

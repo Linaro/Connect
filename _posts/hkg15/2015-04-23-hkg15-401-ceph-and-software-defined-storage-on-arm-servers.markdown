@@ -10,7 +10,7 @@ excerpt: Running Ceph in the colocation, ongoing optimizations
 featured_image_name: HKG15-401.jpg
 image:
   featured: true
-  name: HKG15-401.jpg
+  file_name: HKG15-401.jpg
   path: /assets/images/featured-images/HKG15-401.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-401-ceph-and-software-defined-storage-on-arm-servers/

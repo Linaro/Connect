@@ -20,7 +20,7 @@ excerpt: "Now that large community open source projects like Linux power the wor
 featured_image_name: SFO17-301.jpg
 image:
   featured: true
-  name: SFO17-301.jpg
+  file_name: SFO17-301.jpg
   path: /assets/images/featured-images/SFO17-301.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-301/

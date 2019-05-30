@@ -14,7 +14,7 @@ excerpt: 'Currently the majority of DUTs in the Lab are allocated an IP address 
 featured_image_name: HKG15-410.jpg
 image:
   featured: true
-  name: HKG15-410.jpg
+  file_name: HKG15-410.jpg
   path: /assets/images/featured-images/HKG15-410.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-410-lava-lab-addressing-and-ipv6/

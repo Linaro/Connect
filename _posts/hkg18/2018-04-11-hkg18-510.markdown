@@ -23,7 +23,7 @@ excerpt: 'OpenStack is the number 1 private cloud Open Source project and Contai
 featured_image_name: HKG18-510.png
 image:
   featured: true
-  name: HKG18-510.png
+  file_name: HKG18-510.png
   path: /assets/images/featured-images/HKG18-510.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-510/
