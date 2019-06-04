@@ -179,13 +179,14 @@ div#resources-header {
     border-color:#eeeeee;
 }
 #wrapper .panel.panel-sponsor .panel-heading {
-    background-color:#91bc12;
-    font-weight:bold;
-    border:none;
-    font-size:20px;
+    background-color: #272727;
+    font-weight: bold;
+    border: none;
+    font-size: 20px;
+    padding: 0px;
+    text-transform: uppercase;
 }
 #wrapper .panel.panel-sponsor .panel-heading h3{
-    background-color:#91bc12;
     font-weight:bold;
     border:none;
     color:white;
@@ -207,3 +208,116 @@ div#resources-header {
 //     cursor: not-allowed;
 //     filter: grayscale(1);
 // }
+#sponsor-table thead tr > th:first-child {
+    border-bottom:0px;
+    border-bottom-color: transparent;
+    border: 0 !important;
+    background-color: $brand-primary !important;
+}
+
+#sponsor-table thead tr:first-child {
+    border-bottom:0;
+}
+#sponsor-table thead tr:first-child th {
+    border-bottom:0;
+    background-color:#5d6062;
+    font-size:18px;
+    text-transform: uppercase;
+    padding:10px 10px;
+}
+#sponsor-table thead tr:nth-child(2) {
+    border-bottom-color: #c1c3d1;
+    border-top: 0px !important;
+    /* border: 0; */
+    border-left: 0;
+}
+
+#sponsor-table thead tr:nth-child(2) th {
+    color: white;
+    font-weight: normal;
+    background-color: $brand-primary;
+    font-style: italic;
+    font-size: 28px;
+    padding:2px;
+}
+
+span.tickets {
+    background-color: $brand-primary;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    font-weight: bold;
+    color: white;
+    display: inline-block;
+}
+
+#sponsor-table tbody tr td:first-child {
+    font-weight: bold;
+    background-color: #e6e7e9;
+    text-align: right;
+}
+#sponsor-table tbody tr td:first-child small {
+    font-weight: normal;
+}
+
+#sponsor-table span.fa.fa-check {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: $brand-primary;
+    color: white;
+    border-radius: 50%;
+}
+#sponsor-table span.fa.fa-check:before {
+    top:5px;
+    position:relative;
+}
+.panel-sponsor li.list-group-item {
+    font-weight: bold;
+}
+.panel-sponsor li.list-group-item span.tickets {
+    display:block;
+    font-size:26px;
+}
+.panel-sponsor li.list-group-item small {
+    font-weight: normal;
+}
+
+#sponsor-table {
+    background-color: $brand-primary;
+    box-shadow: 
+        inset 0px 11px 8px -10px #5d6062,
+        inset 0px -11px 8px -10px #5d6062; 
+    background-position: center center;
+    background-size: cover;
+    background-repeat: repeat-y;
+    @media(max-width: $screen-sm-min){
+        background-image:none !important;
+    }
+}
+.pricing {
+    font-size: 30px;
+    color: white;
+    background-color: #79ac01;
+    font-weight: normal;
+    font-style: italic;
+}
+.panel.panel-sponsor {
+    border: 0;
+}
+
+h3.panel-title {
+    padding: 10px;
+}
+.list-group-item.disabled, .list-group-item.disabled:hover, .list-group-item.disabled:focus {
+    background-color: #e4e4e4;
+    color: #777;
+    opacity: .4;
+    cursor: not-allowed;
+}
+#sponsor-table h2 {
+    color: aliceblue;
+    font-size: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+}

@@ -71,7 +71,7 @@ Except where expressly provided otherwise in an agreement between you and us, al
 
 ### Information about you and your visits to Our site
 
-We process information about you gained from your use of the Linaro Website in accordance with [Our privacy policy](/legal/#1392905674-2-48).
+We process information about you gained from your use of the Linaro Website in accordance with [Our privacy policy](#privacy_policy).
 
 * * *
 

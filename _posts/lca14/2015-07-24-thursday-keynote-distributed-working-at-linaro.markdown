@@ -15,7 +15,7 @@ excerpt: "Interviewer: Mike Levine, Director Global Talent Acquisition\n  \n Pan
 featured_image_name: LCA14-400K1.jpg
 image:
   featured: true
-  name: LCA14-400K1.jpg
+  file_name: LCA14-400K1.jpg
   path: /assets/images/featured-images/LCA14-400K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lca14/thursday-keynote-distributed-working-at-linaro/
