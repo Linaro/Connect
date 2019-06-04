@@ -13,7 +13,7 @@ excerpt: Share the impact of various patchsets, tunables, explore ideas on what 
 featured_image_name: SFO15302EnergyAwareSchedulingProgressUpdate.jpg
 image:
   featured: true
-  name: SFO15302EnergyAwareSchedulingProgressUpdate.jpg
+  file_name: SFO15302EnergyAwareSchedulingProgressUpdate.jpg
   path: /assets/images/featured-images/SFO15302EnergyAwareSchedulingProgressUpdate.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-302-energy-aware-scheduling-progress-update/

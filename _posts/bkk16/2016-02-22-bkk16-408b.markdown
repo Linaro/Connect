@@ -16,7 +16,7 @@ excerpt: "This talk will provide an overview of typical Data Analysis tools and 
 featured_image_name: BKK16-408B.jpg
 image:
   featured: true
-  name: BKK16-408B.jpg
+  file_name: BKK16-408B.jpg
   path: /assets/images/featured-images/BKK16-408B.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-408b/

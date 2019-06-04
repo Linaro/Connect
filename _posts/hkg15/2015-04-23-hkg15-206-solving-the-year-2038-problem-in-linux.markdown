@@ -29,7 +29,7 @@ excerpt: 'The concept of ''time'' in Linux is encoded in many different ways, bu
 featured_image_name: HKG15-206.jpg
 image:
   featured: true
-  name: HKG15-206.jpg
+  file_name: HKG15-206.jpg
   path: /assets/images/featured-images/HKG15-206.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-206-solving-the-year-2038-problem-in-linux/

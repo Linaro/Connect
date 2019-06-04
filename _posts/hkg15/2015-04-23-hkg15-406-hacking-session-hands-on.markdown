@@ -16,7 +16,7 @@ excerpt: 'Hands on training and a Q&A involving the Lab and LAVA Teams on how to
 featured_image_name: HKG15-406.jpg
 image:
   featured: true
-  name: HKG15-406.jpg
+  file_name: HKG15-406.jpg
   path: /assets/images/featured-images/HKG15-406.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-406-hacking-session-hands-on/

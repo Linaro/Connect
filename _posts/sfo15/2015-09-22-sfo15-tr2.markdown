@@ -19,7 +19,7 @@ excerpt: This session is an introductory course on Linux kernel upstreaming fund
 featured_image_name: SFO15-TR2.jpg
 image:
   featured: true
-  name: SFO15-TR2.jpg
+  file_name: SFO15-TR2.jpg
   path: /assets/images/featured-images/SFO15-TR2.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr2/

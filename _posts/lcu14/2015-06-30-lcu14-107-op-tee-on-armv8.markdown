@@ -13,7 +13,7 @@ excerpt: SWG is porting OP-TEE to Armv8 using Fixed Virtual Platform. Initially 
 featured_image_name: LCU14-107.jpg
 image:
   featured: true
-  name: LCU14-107.jpg
+  file_name: LCU14-107.jpg
   path: /assets/images/featured-images/LCU14-107.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-107-op-tee-on-armv8/

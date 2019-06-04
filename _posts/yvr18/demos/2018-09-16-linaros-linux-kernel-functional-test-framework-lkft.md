@@ -6,7 +6,7 @@ comments: false
 date: '2018-09-16 09:00:00+00:00'
 image:
   featured: true
-  name: yvr18-demo6.jpg
+  file_name: yvr18-demo6.jpg
   path: /assets/images/featured-images/yvr18-demo6.jpg
 layout: resource-post-demo-interview
 session_track: Demo

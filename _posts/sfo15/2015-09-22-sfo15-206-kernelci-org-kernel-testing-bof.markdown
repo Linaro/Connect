@@ -14,7 +14,7 @@ excerpt: Thanks to an amazing community the Linux kernel is one of the most test
 featured_image_name: SFO15206kernelciorgKernelTestingBoF.jpg
 image:
   featured: true
-  name: SFO15206kernelciorgKernelTestingBoF.jpg
+  file_name: SFO15206kernelciorgKernelTestingBoF.jpg
   path: /assets/images/featured-images/SFO15206kernelciorgKernelTestingBoF.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-206-kernelci-org-kernel-testing-bof/

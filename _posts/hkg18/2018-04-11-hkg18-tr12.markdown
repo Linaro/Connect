@@ -13,7 +13,7 @@ excerpt: LAVA tutorial material specific to LITE with an emphasis on RTOS target
 featured_image_name: HKG18-TR12.png
 image:
   featured: true
-  name: HKG18-TR12.png
+  file_name: HKG18-TR12.png
   path: /assets/images/featured-images/HKG18-TR12.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-tr12/

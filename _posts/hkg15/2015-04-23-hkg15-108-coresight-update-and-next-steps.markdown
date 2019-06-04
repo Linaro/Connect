@@ -25,7 +25,7 @@ excerpt: 'The 32-bit Arm kernel supports a wide variety of processors harking ba
 featured_image_name: HKG15-108.jpg
 image:
   featured: true
-  name: HKG15-108.jpg
+  file_name: HKG15-108.jpg
   path: /assets/images/featured-images/HKG15-108.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-108-coresight-update-and-next-steps/

@@ -13,7 +13,7 @@ excerpt: A single session providing an overview of current development activitie
 featured_image_name: SFO15105CoreDevelopmentLightningTalksKernelPowerMgtSecurityVirtualization.jpg
 image:
   featured: true
-  name: SFO15105CoreDevelopmentLightningTalksKernelPowerMgtSecurityVirtualization.jpg
+  file_name: SFO15105CoreDevelopmentLightningTalksKernelPowerMgtSecurityVirtualization.jpg
   path: /assets/images/featured-images/SFO15105CoreDevelopmentLightningTalksKernelPowerMgtSecurityVirtualization.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-105-core-development-lightning-talks-kernel-power-mgt-security-virtualization/

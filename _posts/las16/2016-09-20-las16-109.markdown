@@ -11,7 +11,7 @@ excerpt: Community development, Compliance (for members and partners), Reference
 featured_image_name: LAS16-109.png
 image:
   featured: true
-  name: LAS16-109.png
+  file_name: LAS16-109.png
   path: /assets/images/featured-images/LAS16-109.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-109/

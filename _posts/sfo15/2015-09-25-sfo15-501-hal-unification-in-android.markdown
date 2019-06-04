@@ -12,7 +12,7 @@ excerpt: Presentation and discussion to advance lead project on Android HAL unif
 featured_image_name: SFO15501HALUnificationinAndroid.jpg
 image:
   featured: true
-  name: SFO15501HALUnificationinAndroid.jpg
+  file_name: SFO15501HALUnificationinAndroid.jpg
   path: /assets/images/featured-images/SFO15501HALUnificationinAndroid.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-501-hal-unification-in-android/

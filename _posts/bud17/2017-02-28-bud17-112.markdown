@@ -14,10 +14,8 @@ excerpt: The TI SimpleLink CC32xx family of MCUs provides an SoC and supporting 
   of integrating a vendor TCP/IP offload engine into an existing OS IP stack in general,
   and in particular, evaluates options for integrating the TI SimpleLink WiFi stack
   into Zephyr.
-featured_image_name: BUD17-112.jpg
+featured_image_file_name: BUD17-112.jpg
 image:
-  featured: true
-  name: BUD17-112.jpg
   path: /assets/images/featured-images/BUD17-112.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-112/

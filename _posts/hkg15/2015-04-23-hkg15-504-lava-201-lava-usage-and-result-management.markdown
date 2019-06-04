@@ -9,7 +9,7 @@ excerpt: 'Part 2: Want to get involved with LAVA but don'
 featured_image_name: HKG15-504.jpg
 image:
   featured: true
-  name: HKG15-504.jpg
+  file_name: HKG15-504.jpg
   path: /assets/images/featured-images/HKG15-504.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-504-lava-201-lava-usage-and-result-management/

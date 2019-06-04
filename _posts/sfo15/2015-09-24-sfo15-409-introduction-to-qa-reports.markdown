@@ -16,7 +16,7 @@ excerpt: Reporting and visualization of test results are the most critical piece
 featured_image_name: SFO15409IntroductiontoQAReports.jpg
 image:
   featured: true
-  name: SFO15409IntroductiontoQAReports.jpg
+  file_name: SFO15409IntroductiontoQAReports.jpg
   path: /assets/images/featured-images/SFO15409IntroductiontoQAReports.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-409-introduction-to-qa-reports/

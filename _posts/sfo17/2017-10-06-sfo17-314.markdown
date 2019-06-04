@@ -13,7 +13,7 @@ excerpt: It is a guide to Arm64 GoLang assembly. It introduces how to write a Ar
 featured_image_name: SFO17-314.jpg
 image:
   featured: true
-  name: SFO17-314.jpg
+  file_name: SFO17-314.jpg
   path: /assets/images/featured-images/SFO17-314.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-314/

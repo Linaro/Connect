@@ -15,7 +15,7 @@ excerpt: This session will be a chance for LAVA users to discuss things that are
 featured_image_name: SFO15107LAVAUsersForum.jpg
 image:
   featured: true
-  name: SFO15107LAVAUsersForum.jpg
+  file_name: SFO15107LAVAUsersForum.jpg
   path: /assets/images/featured-images/SFO15107LAVAUsersForum.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-107-lava-users-forum/

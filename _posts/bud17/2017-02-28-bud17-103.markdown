@@ -11,10 +11,8 @@ excerpt: "A proposal to add ODP based compression/decompression API to provide p
   The proposal outlines 2 schemes:\n   A. Reuse the existing Cryptography API to support
   Compression.\n   B. Introduce independent Compression API.\n  The initial implementation
   will target Cavium OCTEON TX SoC to accelerate IP Compression (IPComp)"
-featured_image_name: BUD17-103.jpg
+featured_image_file_name: BUD17-103.jpg
 image:
-  featured: true
-  name: BUD17-103.jpg
   path: /assets/images/featured-images/BUD17-103.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-103/

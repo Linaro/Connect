@@ -16,7 +16,7 @@ excerpt: The Zephyr OS is a small, scalable RTOS that supports a wide variety of
 featured_image_name: SFO17-112.jpg
 image:
   featured: true
-  name: SFO17-112.jpg
+  file_name: SFO17-112.jpg
   path: /assets/images/featured-images/SFO17-112.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-112/

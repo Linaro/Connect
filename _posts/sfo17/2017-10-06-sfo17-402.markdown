@@ -15,7 +15,7 @@ excerpt: "Often an embedded WLAN chip is connected via an SDIO bus. During a sys
 featured_image_name: SFO17-402.jpg
 image:
   featured: true
-  name: SFO17-402.jpg
+  file_name: SFO17-402.jpg
   path: /assets/images/featured-images/SFO17-402.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-402/

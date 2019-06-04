@@ -11,10 +11,10 @@ excerpt: This session is a short introductory course on Linux kernel debugging. 
   techniques and tools that can be employed to overcome them. By focusing on stories
   rather than the minute details of each tool we can cover a lot of topics in a short
   space of time, providing a springboard for further independent study by trainees.
-featured_image_name: BUD17-TR04.jpg
+featured_image_file_name: BUD17-TR04.jpg
 image:
   featured: true
-  name: BUD17-TR04.jpg
+  file_name: BUD17-TR04.jpg
   path: /assets/images/featured-images/BUD17-TR04.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-tr04/

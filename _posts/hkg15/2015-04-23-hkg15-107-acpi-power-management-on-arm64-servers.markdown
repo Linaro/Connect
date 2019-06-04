@@ -10,7 +10,7 @@ excerpt: Status of CPPC with runtime PM and discussion on idle PM with ACPI
 featured_image_name: HKG15-107.jpg
 image:
   featured: true
-  name: HKG15-107.jpg
+  file_name: HKG15-107.jpg
   path: /assets/images/featured-images/HKG15-107.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-107-acpi-power-management-on-arm64-servers/

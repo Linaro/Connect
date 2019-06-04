@@ -11,10 +11,10 @@ excerpt: This session will cover new features and additions to QEMU that happene
   TCG (MTTCG) and QEMU linux-user improvements. We will also discuss upcoming work
   to support LITE and IoT development and hope for a healthy discussion on requirements
   for members interested in these areas.
-featured_image_name: BUD17-221.jpg
+featured_image_file_name: BUD17-221.jpg
 image:
   featured: true
-  name: BUD17-221.jpg
+  file_name: BUD17-221.jpg
   path: /assets/images/featured-images/BUD17-221.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-221/

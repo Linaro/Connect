@@ -21,7 +21,7 @@ excerpt: 'One of the problems we experience quite a lot is to do with people set
 featured_image_name: HKG15-402.jpg
 image:
   featured: true
-  name: HKG15-402.jpg
+  file_name: HKG15-402.jpg
   path: /assets/images/featured-images/HKG15-402.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-402-orphan-hacking-sessions/

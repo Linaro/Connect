@@ -13,10 +13,10 @@ excerpt: We have recently achieved a critical milestone of having core enablemen
   case requirements, such as NFV, and those introduced by the emergence of workload
   acceleration (CCIX, FPGAs, etc.). In this session, we will gather feedback and input
   on where to go next.
-featured_image_name: BUD17-201.jpg
+featured_image_file_name: BUD17-201.jpg
 image:
   featured: true
-  name: BUD17-201.jpg
+  file_name: BUD17-201.jpg
   path: /assets/images/featured-images/BUD17-201.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-201/

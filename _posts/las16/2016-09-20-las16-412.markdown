@@ -9,7 +9,7 @@ date: 2016-09-20 17:10:59
 featured_image_name: LAS16-412.png
 image:
   featured: true
-  name: LAS16-412.png
+  file_name: LAS16-412.png
   path: /assets/images/featured-images/LAS16-412.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-412/

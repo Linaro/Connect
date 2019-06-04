@@ -14,7 +14,7 @@ excerpt: '[Note: this is a joint Security/Power Management session) Understand w
 featured_image_name: HKG15-505.jpg
 image:
   featured: true
-  name: HKG15-505.jpg
+  file_name: HKG15-505.jpg
   path: /assets/images/featured-images/HKG15-505.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-505-power-management-interactions-with-op-tee-and-trusted-firmware/

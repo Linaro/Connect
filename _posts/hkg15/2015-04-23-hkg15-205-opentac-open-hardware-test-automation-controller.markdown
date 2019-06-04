@@ -21,7 +21,7 @@ excerpt: 'Power distribution automation and serial console controller on an Arm 
 featured_image_name: HKG15-205.jpg
 image:
   featured: true
-  name: HKG15-205.jpg
+  file_name: HKG15-205.jpg
   path: /assets/images/featured-images/HKG15-205.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-205-opentac-open-hardware-test-automation-controller/

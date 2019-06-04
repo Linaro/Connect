@@ -13,7 +13,7 @@ excerpt: Arm Trusted Firmware has established itself as a key part of the Armv8-
 featured_image_name: LAS16-402.png
 image:
   featured: true
-  name: LAS16-402.png
+  file_name: LAS16-402.png
   path: /assets/images/featured-images/LAS16-402.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-402/

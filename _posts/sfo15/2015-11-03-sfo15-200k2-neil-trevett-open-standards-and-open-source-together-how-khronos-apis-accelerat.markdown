@@ -9,7 +9,7 @@ date: 2015-11-03 12:10:46
 featured_image_name: SFO15-200K2.jpg
 image:
   featured: true
-  name: SFO15-200K2.jpg
+  file_name: SFO15-200K2.jpg
   path: /assets/images/featured-images/SFO15-200K2.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-200k2-neil-trevett-open-standards-and-open-source-together-how-khronos-apis-accelerat/

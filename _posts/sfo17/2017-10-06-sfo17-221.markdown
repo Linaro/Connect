@@ -11,7 +11,7 @@ excerpt: Discussion on the various common kernel efforts in Linaro.  What are we
 featured_image_name: SFO17-221.jpg
 image:
   featured: true
-  name: SFO17-221.jpg
+  file_name: SFO17-221.jpg
   path: /assets/images/featured-images/SFO17-221.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-221/

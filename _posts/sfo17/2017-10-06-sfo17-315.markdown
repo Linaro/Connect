@@ -14,7 +14,7 @@ excerpt: This talk discusses usage of the Travis-CI system and our experience ob
 featured_image_name: SFO17-315.jpg
 image:
   featured: true
-  name: SFO17-315.jpg
+  file_name: SFO17-315.jpg
   path: /assets/images/featured-images/SFO17-315.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-315/

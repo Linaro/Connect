@@ -17,7 +17,7 @@ excerpt: 'Give high level overview of the components involved in a DRM/Secure. P
 featured_image_name: HKG15-303.jpg
 image:
   featured: true
-  name: HKG15-303.jpg
+  file_name: HKG15-303.jpg
   path: /assets/images/featured-images/HKG15-303.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-303-secure-playback-using-op-tee/

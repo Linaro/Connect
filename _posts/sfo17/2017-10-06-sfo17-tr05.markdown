@@ -14,7 +14,7 @@ excerpt: "Recently Hikey960 is released with big.LITTLE architecture and has bee
 featured_image_name: SFO17-TR05.jpg
 image:
   featured: true
-  name: SFO17-TR05.jpg
+  file_name: SFO17-TR05.jpg
   path: /assets/images/featured-images/SFO17-TR05.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-tr05/

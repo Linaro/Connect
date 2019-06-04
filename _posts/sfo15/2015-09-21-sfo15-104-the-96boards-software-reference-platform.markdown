@@ -18,7 +18,7 @@ excerpt: "96Boards is most obviously a hardware specification and website provid
 featured_image_name: SFO15104The96BoardsSoftwareReferencePlatform.jpg
 image:
   featured: true
-  name: SFO15104The96BoardsSoftwareReferencePlatform.jpg
+  file_name: SFO15104The96BoardsSoftwareReferencePlatform.jpg
   path: /assets/images/featured-images/SFO15104The96BoardsSoftwareReferencePlatform.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-104-the-96boards-software-reference-platform/

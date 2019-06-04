@@ -10,7 +10,7 @@ date: 2015-11-03 13:41:51
 featured_image_name: SFO15-407.jpg
 image:
   featured: true
-  name: SFO15-407.jpg
+  file_name: SFO15-407.jpg
   path: /assets/images/featured-images/SFO15-407.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-407-performance-overhead-of-arm-virtualization/

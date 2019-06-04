@@ -9,7 +9,7 @@ date: 2015-06-30 17:08:40
 featured_image_name: LCU14-300a.jpg
 image:
   featured: true
-  name: LCU14-300a.jpg
+  file_name: LCU14-300a.jpg
   path: /assets/images/featured-images/LCU14-300a.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-leg-keynote-1/

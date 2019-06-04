@@ -16,7 +16,7 @@ excerpt: OP-TEE (Open Portable Trusted Execution Environment) is the source code
 featured_image_name: LCU14-302.jpg
 image:
   featured: true
-  name: LCU14-302.jpg
+  file_name: LCU14-302.jpg
   path: /assets/images/featured-images/LCU14-302.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-302-op-tee-porting-and-future-enhancements/

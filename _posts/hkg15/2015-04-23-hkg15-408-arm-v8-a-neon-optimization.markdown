@@ -22,7 +22,7 @@ excerpt: 'Arm v8-A NEON optimization, with the following outline - Zhongwei/Phil
 featured_image_name: HKG15-408.jpg
 image:
   featured: true
-  name: HKG15-408.jpg
+  file_name: HKG15-408.jpg
   path: /assets/images/featured-images/HKG15-408.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-408-arm-v8-a-neon-optimization/

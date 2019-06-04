@@ -13,10 +13,10 @@ excerpt: The Linux kernel is one of the most successful software-development pro
   We are facing a number of obstacles that, beyond limiting our future growth, might
   even threaten our ability to sustain our current development pace. What are those
   obstacles, and what can we be doing to address them?
-featured_image_name: BUD17-500K1.jpg
+featured_image_file_name: BUD17-500K1.jpg
 image:
   featured: true
-  name: BUD17-500K1.jpg
+  file_name: BUD17-500K1.jpg
   path: /assets/images/featured-images/BUD17-500K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-500k1/

@@ -13,7 +13,7 @@ excerpt: "The ODP \u201CTiger Moth\u201D release introduces inline processing su
 featured_image_name: SFO17-406.jpg
 image:
   featured: true
-  name: SFO17-406.jpg
+  file_name: SFO17-406.jpg
   path: /assets/images/featured-images/SFO17-406.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-406/

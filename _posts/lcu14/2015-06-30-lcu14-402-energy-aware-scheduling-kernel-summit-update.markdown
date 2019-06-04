@@ -31,7 +31,7 @@ excerpt: 'Scene setting (Morten)
 featured_image_name: LCU14-402.jpg
 image:
   featured: true
-  name: LCU14-402.jpg
+  file_name: LCU14-402.jpg
   path: /assets/images/featured-images/LCU14-402.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-402-energy-aware-scheduling-kernel-summit-update/

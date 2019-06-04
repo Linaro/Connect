@@ -8,7 +8,7 @@ excerpt: This talk will highlight some of Machine learning features in Apache Sp
 featured_image_name: BKK16-404B.jpg
 image:
   featured: true
-  name: BKK16-404B.jpg
+  file_name: BKK16-404B.jpg
   path: /assets/images/featured-images/BKK16-404B.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-404b/

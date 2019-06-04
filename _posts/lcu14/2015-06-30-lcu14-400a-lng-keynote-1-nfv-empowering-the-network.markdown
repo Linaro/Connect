@@ -9,7 +9,7 @@ date: 2015-06-30 17:07:50
 featured_image_name: LCU14-400a.jpg
 image:
   featured: true
-  name: LCU14-400a.jpg
+  file_name: LCU14-400a.jpg
   path: /assets/images/featured-images/LCU14-400a.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-400a-lng-keynote-1-nfv-empowering-the-network/

@@ -13,7 +13,7 @@ excerpt: The VLAN daemon code base has progressed, and we should be closer to th
 featured_image_name: HKG15-309.jpg
 image:
   featured: true
-  name: HKG15-309.jpg
+  file_name: HKG15-309.jpg
   path: /assets/images/featured-images/HKG15-309.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-309-vlan-daemon-next-steps/

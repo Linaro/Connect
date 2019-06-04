@@ -14,7 +14,7 @@ excerpt: Tutorial material to support getting started/evaluating LAVA v2. An end
 featured_image_name: LAS16-TR05.png
 image:
   featured: true
-  name: LAS16-TR05.png
+  file_name: LAS16-TR05.png
   path: /assets/images/featured-images/LAS16-TR05.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-tr05/

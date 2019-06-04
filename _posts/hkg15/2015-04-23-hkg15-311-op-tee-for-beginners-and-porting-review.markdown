@@ -14,7 +14,7 @@ excerpt: Explains the building blocks involved in Security including TrustZone, 
 featured_image_name: HKG15-311.jpg
 image:
   featured: true
-  name: HKG15-311.jpg
+  file_name: HKG15-311.jpg
   path: /assets/images/featured-images/HKG15-311.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-311-op-tee-for-beginners-and-porting-review/

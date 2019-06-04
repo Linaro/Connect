@@ -16,7 +16,7 @@ excerpt: Compilers such as GCC may use undefined behaviour in language specifica
 featured_image_name: BKK16-503.jpg
 image:
   featured: true
-  name: BKK16-503.jpg
+  file_name: BKK16-503.jpg
   path: /assets/images/featured-images/BKK16-503.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-503/

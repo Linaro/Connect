@@ -16,7 +16,7 @@ excerpt: "There has been recent work upstream to enable the LKP tests to build a
 featured_image_name: SFO15303LinuxKernelPerformanceLKPProjectonARM.jpg
 image:
   featured: true
-  name: SFO15303LinuxKernelPerformanceLKPProjectonARM.jpg
+  file_name: SFO15303LinuxKernelPerformanceLKPProjectonARM.jpg
   path: /assets/images/featured-images/SFO15303LinuxKernelPerformanceLKPProjectonARM.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-303-linux-kernel-performance-lkp-project-on-arm/

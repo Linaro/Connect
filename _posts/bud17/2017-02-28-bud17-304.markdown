@@ -8,10 +8,10 @@ comments: false
 date: 2017-02-28 12:05:39
 excerpt: "Discuss IPsec offload from:\n Application perspective\n Application developer
   perspective\n Implementation perspective"
-featured_image_name: BUD17-304.jpg
+featured_image_file_name: BUD17-304.jpg
 image:
   featured: true
-  name: BUD17-304.jpg
+  file_name: BUD17-304.jpg
   path: /assets/images/featured-images/BUD17-304.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-304/

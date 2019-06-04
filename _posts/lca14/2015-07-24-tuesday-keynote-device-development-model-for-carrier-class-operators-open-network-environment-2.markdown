@@ -18,7 +18,7 @@ excerpt: "Radically revamping the device development model for Carrier class ope
 featured_image_name: LCA14-200K1.jpg
 image:
   featured: true
-  name: LCA14-200K2.jpg
+  file_name: LCA14-200K2.jpg
   path: /assets/images/featured-images/LCA14-200K2.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lca14/tuesday-keynote-device-development-model-for-carrier-class-operators-open-network-environment-2/

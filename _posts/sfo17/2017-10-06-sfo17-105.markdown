@@ -15,7 +15,7 @@ excerpt: MINCS is a small container engine written in shell script. This present
 featured_image_name: SFO17-105.jpg
 image:
   featured: true
-  name: SFO17-105.jpg
+  file_name: SFO17-105.jpg
   path: /assets/images/featured-images/SFO17-105.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-105/

@@ -12,7 +12,7 @@ excerpt: RDKB is Open Source Broadband Gateway platform stack, built on top of a
 featured_image_name: BKK16-205.jpg
 image:
   featured: true
-  name: BKK16-205.jpg
+  file_name: BKK16-205.jpg
   path: /assets/images/featured-images/BKK16-205.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-205/

@@ -14,7 +14,7 @@ excerpt: 'This survey of topics covers the engineering output of recent Android 
 featured_image_name: LAS16-209.png
 image:
   featured: true
-  name: LAS16-209.png
+  file_name: LAS16-209.png
   path: /assets/images/featured-images/LAS16-209.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-209/

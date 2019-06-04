@@ -14,7 +14,7 @@ excerpt: "96Boards OpenHours \u2013 Sponsored by Linaro welcomes you to particip
 featured_image_name: HKG18-313.png
 image:
   featured: true
-  name: HKG18-313.png
+  file_name: HKG18-313.png
   path: /assets/images/featured-images/HKG18-313.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-313/

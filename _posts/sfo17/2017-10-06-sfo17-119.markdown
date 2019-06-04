@@ -17,7 +17,7 @@ excerpt: As we know, container technology are the most eminent virtualization te
 featured_image_name: SFO17-119.jpg
 image:
   featured: true
-  name: SFO17-119.jpg
+  file_name: SFO17-119.jpg
   path: /assets/images/featured-images/SFO17-119.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-119/

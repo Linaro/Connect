@@ -9,7 +9,7 @@ date: 2015-04-23 15:36:45
 featured_image_name: HKG15-308.jpg
 image:
   featured: true
-  name: HKG15-308.jpg
+  file_name: HKG15-308.jpg
   path: /assets/images/featured-images/HKG15-308.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-308-kick-start-your-64-bit-aosp-build-engines/
