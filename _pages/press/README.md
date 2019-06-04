@@ -11,4 +11,3 @@ Thank you for your interest in Linaro. If you are not a member of the media and 
 ### Press Contacts
 
 Head of Marketing - [marketing@linaro.org](mailto:marketing@linaro.org)
-
