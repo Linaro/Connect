@@ -1,5 +1,5 @@
 # Custom Favicon
-favicon: favicon.png
+favicon: /assets/images/favicon.png
 # Site name
 name: Linaro Connect
 # Hide Last Modified Date
