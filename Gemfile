@@ -1,4 +1,4 @@
-#source "https://rubygems.org"
+source "https://rubygems.org"
 # Jumbo Jekyll Theme 
 gem 'jumbo-jekyll-theme', "4.9.0"
 # Jekyll Plugins
