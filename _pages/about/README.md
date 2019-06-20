@@ -138,4 +138,8 @@ page_carousel:
             </p>
         </div>
     </div>
+<<<<<<< HEAD
 </div>
+=======
+</div>
+>>>>>>> upstream/develop
