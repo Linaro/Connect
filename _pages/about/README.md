@@ -135,7 +135,7 @@ flow:
                         See our photos from Connect.
                 buttons:
                     - title: More Details
-                      url: /flow/
+                      url: /about/
                       icon: fa fa-arrow-right
                       class: btn-primary
               - title: 
@@ -148,7 +148,7 @@ flow:
                         See our photos from Connect.
                 buttons:
                     - title: More Details
-                      url: /flow/
+                      url: /about/
                       icon: fa fa-arrow-right
                       class: btn-primary
               - title: 
@@ -161,11 +161,11 @@ flow:
                         See our photos from Connect.
                 buttons:
                     - title: More Details
-                      url: /flow/
+                      url: /about/
                       icon: fa fa-arrow-right
                       class: btn-primary
                     - title: Read
-                      url: /flow/
+                      url: /about/
                       icon: fa fa-book
                       class: btn-primary
     - type: content_row
@@ -186,7 +186,7 @@ flow:
                         See our photos from Connect.
                 buttons:
                     - title: More Details
-                      url: /flow/
+                      url: /about/
                       icon: fa fa-arrow-right
                       class: btn-primary
               - title: 
@@ -199,7 +199,7 @@ flow:
                         See our photos from Connect.
                 buttons:
                     - title: More Details
-                      url: /flow/
+                      url: /about/
                       icon: fa fa-arrow-right
                       class: btn-primary
               - title: 
@@ -212,7 +212,7 @@ flow:
                         See our photos from Connect.
                 buttons:
                     - title: More Details
-                      url: /flow/
+                      url: /about/
                       icon: fa fa-arrow-right
                       class: btn-primary
               - title: 
@@ -225,11 +225,11 @@ flow:
                         See our photos from Connect.
                 buttons:
                     - title: More Details
-                      url: /flow/
+                      url: /about/
                       icon: fa fa-arrow-right
                       class: btn-primary
                     - title: Read
-                      url: /flow/
+                      url: /about/
                       icon: fa fa-book
                       class: btn-primary
     - type: content_row
@@ -261,7 +261,7 @@ flow:
                         See our photos from Connect.
                 buttons:
                     - title: More Details
-                      url: /flow/
+                      url: /about/
                       icon: fa fa-arrow-right
                       class: btn-primary
               - title: 
@@ -274,7 +274,7 @@ flow:
                         See our photos from Connect.
                 buttons:
                     - title: More Details
-                      url: /flow/
+                      url: /about/
                       icon: fa fa-arrow-right
                       class: btn-primary
               - title: 
@@ -287,7 +287,7 @@ flow:
                         See our photos from Connect.
                 buttons:
                     - title: More Details
-                      url: /flow/
+                      url: /about/
                       icon: fa fa-arrow-right
                       class: btn-primary
               - title: 
@@ -300,11 +300,11 @@ flow:
                         See our photos from Connect.
                 buttons:
                     - title: More Details
-                      url: /flow/
+                      url: /about/
                       icon: fa fa-arrow-right
                       class: btn-primary
                     - title: Read
-                      url: /flow/
+                      url: /about/
                       icon: fa fa-book
                       class: btn-primary
     - type: full_width_row
