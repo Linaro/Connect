@@ -9,3 +9,6 @@ node_modules
 .bundle/
 .jekyll-metadata
 resources/yvr18/resources.json
+.gems
+staging.connect.linaro.org
+production.connect.linaro.org
