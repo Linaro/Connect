@@ -54,6 +54,10 @@ flow:
                   url: "mailto:connect@linaro.org"
                   class: btn-primary
                   icon: fa fa-envelope
+                - title: Download Prospectus
+                  url: https://linaro.co/LinaroConnectSponsorshipProspectus
+                  class: btn-primary
+                  icon: fa fa-download
     - type: custom_include_row
       source: sponsorship_benefits.html
 ---
