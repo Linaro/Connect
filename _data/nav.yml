@@ -14,11 +14,9 @@ brand:
     url: /
 pages:
     - title: About
-      options:
-          - text: Overview
-            url: /about/
-          - text: Future Connect Events
-            url: /future-connects/
+      url: /about/
+    - title: Sponsor
+      url: /sponsors/
     - title: Attend
       options:
           - text: Register
@@ -31,8 +29,8 @@ pages:
             url: /business-invitation-letters/
           - text: Code of Conduct
             url: /code-of-conduct/
-    - title: Sponsors
-      url: /sponsors/
+          - text: Future Connect Events
+            url: /future-connects/
     - title: Resources
       active_paths:
           - /resources/
