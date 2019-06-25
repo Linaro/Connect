@@ -9,3 +9,4 @@ node_modules
 .bundle/
 .jekyll-metadata
 resources/yvr18/resources.json
+assets/resized
