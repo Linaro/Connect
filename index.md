@@ -104,7 +104,7 @@ flow:
             title: About Linaro Connect
             text: page_content
             text: >
-                Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. The next Connect will be held in San Diego California September 23-27, 2019. Registration will be announced in May 2019.
+                Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. The next Connect will be held in San Diego California September 23-27, 2019. Registration is now open!
             buttons:
                 - title: Learn More
                   url: /about/
