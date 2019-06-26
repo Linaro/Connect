@@ -1,6 +1,6 @@
 ---
 title: Sponsor Connect
-permalink: /sponsors/
+permalink: /sponsors-new/
 layout: flow
 js-package: sponsor
 css-package: sponsor
