@@ -204,56 +204,14 @@ __Note:__ These redirects are currently not respected by the link checker until 
 
 ## Building and Contributing
 
-### Prerequisites
+It is not 100% neccessary to build to site on your computer to submit updates but it's helpful if you want to see the updates to big changes before your submit your pull request. You can also trigger a staging build of the site by submititng a pull request to the [develop] branch of [this repo].
 
-- Linux or *NIX-like OS: tested under [Arch Linux](https://archlinux.org) and [Ubuntu Linux 17.10](https://www.ubuntu.com/) on x86_64, Dell XPS 15 (9560).
-- [Bash](https://www.gnu.org/software/bash/) or [ZSH](http://zsh.sourceforge.net/).
-- [Docker Community Edition](https://www.docker.com/community-edition#/download) (and probably therefore [Docker Enterprise Edition](https://www.docker.com/enterprise-edition)).
-- \>= 2GiB of free RAM.
-- \>= 2GiB free disk space.
+To build the site, you will need Docker installed on your computer. With that in place, go into the repository directory and run `build-site.sh`. More information about how to use this feature and the options available can be found on the [build container's wiki](https://github.com/linaro-its/jekyll-build-container/wiki).
 
-This should build and run under [Docker on Windows](https://docs.docker.com/docker-for-windows/) (10?) with Microsoft Hyper-V: documentation should be added here.
-
-May work under [Docker on FreeBSD](https://wiki.freebsd.org/Docker), Mac OS, etc (totally untested).
-
-### Building
-
-When working on the Dockerfile, it may be useful to tag the image with a date-time stamp. For example:
-
-```docker build``` _...snip..._ ```-t "linaro/connect:$(date --iso-8601)"```
-
-would result in a ```TAG``` value like ```linaro/connect:2017-07-31```.
-
-Use the build script for convenience, or adapt the ```docker run``` commands correspondingly. The build script will echo all commands run, including the results of variable expansions, etc, so you should easily be able to copy and paste the parts you want for debugging.
-
-#### Build notes
-
-A modified build script is used for deployment onto AWS and is not currently publically available.
-
-This build script should probably be replaced by a make file.
-
-
-#### Building using the build script
-
-Run ```./build.sh``` in a Bash or ZSH shell.
-
-Browse to [http://127.0.0.1:4000/](http://127.0.0.1:4000/) to view the website.
-
-
-### Other Notes
-
-If you are trying to build this Jekyll site locally without using the Docker image then you may need to install the rmagick gem.
-
-```bash
-$ aptitude install build-essential imagemagick libmagickcore-dev libmagickwand-dev
-$ gem install rmagick
-```
 
 ### Contributing
 
-1. ```git clone``` this repo
-2. ```jekyll build``` and ```jekyll serve``` the site so you can review your changes.
-3. Commit messages must be succint: Pull Requests (PR's) must state the purpose of your changes.
+Commit messages must be succint: Pull Requests (PR's) must state the purpose of your changes.
 
 Markdown files, SASS files, etc. must pass basic lint checks before your PR will be accepted. Please check them before submitting to save you and us time.
 
