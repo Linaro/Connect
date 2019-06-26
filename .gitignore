@@ -6,7 +6,7 @@ _site/
 .jekyll-cache
 .jekyll-metadata
 .sass-cache
-assets
+assets/resized
 node_modules
 production.connect.linaro.org
 resources/yvr18/resources.json
