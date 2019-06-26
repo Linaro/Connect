@@ -1,14 +1,13 @@
 _site/
 .asset-cache
-.sass-cache
-.jekyll-cache
-# From debugging
-.bash_history
-node_modules
-.gemfiles/
 .bundle/
-.jekyll-metadata
-resources/yvr18/resources.json
+.gemfiles/
 .gems
-staging.connect.linaro.org
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+assets
+node_modules
 production.connect.linaro.org
+resources/yvr18/resources.json
+staging.connect.linaro.org
