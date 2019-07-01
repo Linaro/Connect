@@ -38,7 +38,7 @@ flow:
     - row: container_row 
       style: block_row
     #   background_image: /assets/images/content/bkk19-group-photo.jpg
-      items:
+      sections:
         - format: block
           style: text-center text-white
           item_width: 4
@@ -86,7 +86,7 @@ flow:
                       class: btn-primary
     - row: container_row 
     #   style: dark
-      items:
+      sections:
         - format: title
           content: Code of Conduct
           size: h2
@@ -103,7 +103,7 @@ flow:
                 class: btn-primary
     - row: full_width_row
       #style: new
-      items:
+      sections:
         - format: title
           content: Highlights from BKK19
           size: h2

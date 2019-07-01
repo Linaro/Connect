@@ -29,7 +29,7 @@ flow:
     - row: container_row 
       style: fixed
       background_image: /assets/images/content/bkk19-theme-banner.jpg
-      items:
+      sections:
         - format: title
           size: h2
           content: Linaro Connect San Diego 2019
@@ -46,7 +46,7 @@ flow:
                 class: btn-primary
     - row: container_row 
       #style: new
-      items:
+      sections:
         - format: feature_block
         #   style: text-center text-white
           content:
@@ -132,7 +132,7 @@ flow:
     - row: container_row 
       style: block_row
     #   background_image: /assets/images/content/bkk19-group-photo.jpg
-      items:
+      sections:
         - format: title
           size: h2
           content: Linaro Connect Resources
@@ -180,7 +180,7 @@ flow:
                       icon: fa fa-clock-o
                       class: btn-primary
     - row: container_row 
-      items:
+      sections:
         - format: title
           size: h3
           content: Thanks to our BKK19 Sponsors
