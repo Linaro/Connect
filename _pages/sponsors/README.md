@@ -20,7 +20,7 @@ featured-images:
     - /assets/images/content/yvr18-sponsor-thumb-1.jpg
     - 
 flow:
-    - type: content_row
+    - row: container_row 
       items:
         - format: feature_block
           content:
@@ -58,6 +58,6 @@ flow:
                   url: https://linaro.co/LinaroConnectSponsorshipProspectus
                   class: btn-primary
                   icon: fa fa-download
-    - type: custom_include_row
+    - row: custom_include_row
       source: sponsorship_benefits.html
 ---

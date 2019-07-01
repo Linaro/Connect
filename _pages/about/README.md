@@ -24,7 +24,7 @@ jumbotron:
     - /assets/images/content/bkk16.jpg
 
 flow:
-    - type: content_row
+    - row: container_row 
     #   style: dark
       items:
         - format: text
@@ -35,7 +35,7 @@ flow:
 
                 To view slides or videos from the keynotes and sessions from previous Connects, please go to our [Resources page](https://connect.linaro.org/resources/).
 
-    - type: content_row
+    - row: container_row 
       style: block_row
     #   background_image: /assets/images/content/bkk19-group-photo.jpg
       items:
@@ -84,7 +84,7 @@ flow:
                       url: /about/
                       icon: fa fa-clock-o
                       class: btn-primary
-    - type: content_row
+    - row: container_row 
     #   style: dark
       items:
         - format: title
@@ -101,7 +101,7 @@ flow:
                 url: /code-of-conduct/
                 icon: fa fa-arrow-right
                 class: btn-primary
-    - type: full_width_row
+    - row: full_width_row
       #style: new
       items:
         - format: title

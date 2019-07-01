@@ -26,7 +26,7 @@ redirect_from:
 - /keynotes/bkk19/
 - /keynotes/
 flow: 
-    - type: content_row
+    - row: container_row 
       style: fixed
       background_image: /assets/images/content/bkk19-theme-banner.jpg
       items:
@@ -44,7 +44,7 @@ flow:
                 url: /register/
                 icon: fa fa-arrow-right
                 class: btn-primary
-    - type: content_row
+    - row: container_row 
       #style: new
       items:
         - format: feature_block
@@ -129,7 +129,7 @@ flow:
                   url: https://linaro.co/LinaroConnectSponsorshipProspectus
                   class: btn-primary
                   icon: fa fa-download
-    - type: content_row
+    - row: container_row 
       style: block_row
     #   background_image: /assets/images/content/bkk19-group-photo.jpg
       items:
@@ -179,7 +179,7 @@ flow:
                       url: /resources/
                       icon: fa fa-clock-o
                       class: btn-primary
-    - type: content_row
+    - row: container_row 
       items:
         - format: title
           size: h3
@@ -219,6 +219,6 @@ flow:
                     path: /assets/images/sponsors/qualcomm.jpg
                     alt: Qualcomm Logo
                 url: https://www.qualcomm.com/
-    - type: custom_include_row
+    - row: custom_include_row
       source: homepage_video_modal.html
 ---
