@@ -28,7 +28,7 @@ flow:
     #   style: dark
       items:
         - format: text
-          class: text-center
+          style: text-center
           content: >
                 Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. Linaro Connect Bangkok has now ended. The next Connect will be held in San Diego California September 23-27, 2019. Registration will be announced in May 2019.
 
@@ -95,7 +95,7 @@ flow:
           content: >
                 Linaro Ltd, as host for Linaro Connect, is dedicated to a harassment-free conference experience for everyone.
         - format: buttons
-          centered: true
+          style: text-center
           content:
               - title: Anti-harassment Policy
                 url: /code-of-conduct/
