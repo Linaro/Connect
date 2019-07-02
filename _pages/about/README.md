@@ -22,7 +22,6 @@ jumbotron:
     - /assets/images/content/hkg15.jpg
     - /assets/images/content/bud17.jpg
     - /assets/images/content/bkk16.jpg
-
 flow:
     - row: container_row 
     #   style: dark
@@ -30,10 +29,10 @@ flow:
         - format: text
           style: text-center
           content: >
-                Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. Linaro Connect Bangkok has now ended. The next Connect will be held in San Diego California September 23-27, 2019. Registration will be announced in May 2019.
+            Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. Linaro Connect Bangkok has now ended. The next Connect will be held in San Diego California September 23-27, 2019. Registration will be announced in May 2019.
 
 
-                To view slides or videos from the keynotes and sessions from previous Connects, please go to our [Resources page](https://connect.linaro.org/resources/).
+            To view slides or videos from the keynotes and sessions from previous Connects, please go to our [Resources page](https://connect.linaro.org/resources/).
 
     - row: container_row 
       style: block_row
@@ -119,39 +118,39 @@ flow:
           lg_items: 6 
           items:
           - image: /assets/images/content/bkk19-sponsor-table.jpg
-              title: Sponsor table at Linaro Connect Bangkok 2019
+            title: Sponsor table at Linaro Connect Bangkok 2019
           - image: /assets/images/content/bkk19-registration-desk.jpg
-              title: Registration desk at Linaro Connect Bangkok 2019
+            title: Registration desk at Linaro Connect Bangkok 2019
           - image: /assets/images/content/bkk19-packet-sponsored-food.jpg
-              title: Packet branded macaron's at Linaro Connect Bangkok 2019
+            title: Packet branded macaron's at Linaro Connect Bangkok 2019
           - image: /assets/images/content/bkk19-li-gong-keynote-linaro-matters.jpg
-              title: >-
+            title: >-
               Linaro CEO, Li Gong, presenting the opening keynote at Linaro Connect
               Bangkok 2019
           - image: /assets/images/content/bkk19-li-gong-keynote.jpg
-              title: >-
+            title: >-
               Linaro CEO, Li Gong, presenting the opening keynote at Linaro Connect
               Bangkok 2019
           - image: /assets/images/content/bkk19-jacob-smith-packet-keynote.jpg
-              title: >-
+            title: >-
               Jacob Smith from Packet presenting his keynote at Linaro Connect Bangkok 2019
           - image: /assets/images/content/bkk19-google-keynote.jpg
-              title: Google's keynote at Linaro Connect Bangkok 2019
+            title: Google's keynote at Linaro Connect Bangkok 2019
           - image: /assets/images/content/bkk19-demo-friday.jpg
-              title: Demo Friday hacking at Linaro Connect Bangkok 2019
+            title: Demo Friday hacking at Linaro Connect Bangkok 2019
           - image: /assets/images/content/bkk19-chris-royston-arm-developer-talk.jpg
-              title: >-
+            title: >-
               Chris Royston from Arm talking about the new revision of developer.arm.com
               at Linaro Connect Bangkok 2019
           - image: /assets/images/content/bkk19-bosch-keynote-2.jpg
-              title: >-
+            title: >-
               Dirk Slama from Bosch presenting his keynote at Linaro Connect Bangkok 2019
           - image: /assets/images/content/bkk19-bosch-keynote.jpg
-              title: >-
+            title: >-
               Dirk Slama from Bosch presenting his keynote at Linaro Connect Bangkok 2019
           - image: /assets/images/content/bkk19-backpack-giveaway.jpg
-              title: RedHat's giveaway at Linaro Connect Bangkok 2019.
+            title: RedHat's giveaway at Linaro Connect Bangkok 2019.
           - image: /assets/images/content/bkk19-ai-demo.jpg
-              title: Object recognition at Linaro Connect Bangkok 2019
+            title: Object recognition at Linaro Connect Bangkok 2019
 
 ---
