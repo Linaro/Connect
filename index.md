@@ -26,27 +26,27 @@ redirect_from:
 - /keynotes/bkk19/
 - /keynotes/
 flow: 
-    - type: content_row
+    - row: container_row 
       style: fixed
       background_image: /assets/images/content/bkk19-theme-banner.jpg
-      items:
+      sections:
         - format: title
           size: h2
           content: Linaro Connect San Diego 2019
         - format: text
-          class: text-center text-white
+          style: text-center text-white
           content: >
             Linaro Connect San Diego will be held from 23-27 September 2019. Registration is now open!
         - format: buttons
-          centered: true
+          style: text-center
           content:
               - title: Register
                 url: /register/
                 icon: fa fa-arrow-right
                 class: btn-primary
-    - type: content_row
+    - row: container_row 
       #style: new
-      items:
+      sections:
         - format: feature_block
         #   style: text-center text-white
           content:
@@ -129,10 +129,10 @@ flow:
                   url: https://linaro.co/LinaroConnectSponsorshipProspectus
                   class: btn-primary
                   icon: fa fa-download
-    - type: content_row
+    - row: container_row 
       style: block_row
     #   background_image: /assets/images/content/bkk19-group-photo.jpg
-      items:
+      sections:
         - format: title
           size: h2
           content: Linaro Connect Resources
@@ -179,8 +179,8 @@ flow:
                       url: /resources/
                       icon: fa fa-clock-o
                       class: btn-primary
-    - type: content_row
-      items:
+    - row: container_row 
+      sections:
         - format: title
           size: h3
           content: Thanks to our BKK19 Sponsors
@@ -219,6 +219,6 @@ flow:
                     path: /assets/images/sponsors/qualcomm.jpg
                     alt: Qualcomm Logo
                 url: https://www.qualcomm.com/
-    - type: custom_include_row
+    - row: custom_include_row
       source: homepage_video_modal.html
 ---

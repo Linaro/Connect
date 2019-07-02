@@ -22,23 +22,22 @@ jumbotron:
     - /assets/images/content/hkg15.jpg
     - /assets/images/content/bud17.jpg
     - /assets/images/content/bkk16.jpg
-
 flow:
-    - type: content_row
+    - row: container_row 
     #   style: dark
       items:
         - format: text
-          class: text-center
+          style: text-center
           content: >
-                Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. Linaro Connect Bangkok has now ended. The next Connect will be held in San Diego California September 23-27, 2019. Registration will be announced in May 2019.
+            Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. Linaro Connect Bangkok has now ended. The next Connect will be held in San Diego California September 23-27, 2019. Registration will be announced in May 2019.
 
 
-                To view slides or videos from the keynotes and sessions from previous Connects, please go to our [Resources page](https://connect.linaro.org/resources/).
+            To view slides or videos from the keynotes and sessions from previous Connects, please go to our [Resources page](https://connect.linaro.org/resources/).
 
-    - type: content_row
+    - row: container_row 
       style: block_row
     #   background_image: /assets/images/content/bkk19-group-photo.jpg
-      items:
+      sections:
         - format: block
           style: text-center text-white
           item_width: 4
@@ -84,75 +83,74 @@ flow:
                       url: /about/
                       icon: fa fa-clock-o
                       class: btn-primary
-    - type: content_row
+    - row: container_row 
     #   style: dark
-      items:
+      sections:
         - format: title
           content: Code of Conduct
           size: h2
         - format: text
-          class: text-center
+          style: text-center
           content: >
                 Linaro Ltd, as host for Linaro Connect, is dedicated to a harassment-free conference experience for everyone.
         - format: buttons
-          centered: true
+          style: text-center
           content:
               - title: Anti-harassment Policy
                 url: /code-of-conduct/
                 icon: fa fa-arrow-right
                 class: btn-primary
-    - type: full_width_row
+    - row: full_width_row
       #style: new
-      items:
+      sections:
         - format: title
           content: Highlights from BKK19
           size: h2
         - format: slider
         #   style: text-center text-white
-          content:
-              lightbox_enabled: true
-              seconds_per_slide: 5
-              nav: true
-              dots: false
-              xs_items: 1
-              sm_items: 2
-              md_items: 4
-              lg_items: 6 
-              items:
-                - image: /assets/images/content/bkk19-sponsor-table.jpg
-                  title: Sponsor table at Linaro Connect Bangkok 2019
-                - image: /assets/images/content/bkk19-registration-desk.jpg
-                  title: Registration desk at Linaro Connect Bangkok 2019
-                - image: /assets/images/content/bkk19-packet-sponsored-food.jpg
-                  title: Packet branded macaron's at Linaro Connect Bangkok 2019
-                - image: /assets/images/content/bkk19-li-gong-keynote-linaro-matters.jpg
-                  title: >-
-                    Linaro CEO, Li Gong, presenting the opening keynote at Linaro Connect
-                    Bangkok 2019
-                - image: /assets/images/content/bkk19-li-gong-keynote.jpg
-                  title: >-
-                    Linaro CEO, Li Gong, presenting the opening keynote at Linaro Connect
-                    Bangkok 2019
-                - image: /assets/images/content/bkk19-jacob-smith-packet-keynote.jpg
-                  title: >-
-                    Jacob Smith from Packet presenting his keynote at Linaro Connect Bangkok 2019
-                - image: /assets/images/content/bkk19-google-keynote.jpg
-                  title: Google's keynote at Linaro Connect Bangkok 2019
-                - image: /assets/images/content/bkk19-demo-friday.jpg
-                  title: Demo Friday hacking at Linaro Connect Bangkok 2019
-                - image: /assets/images/content/bkk19-chris-royston-arm-developer-talk.jpg
-                  title: >-
-                    Chris Royston from Arm talking about the new revision of developer.arm.com
-                    at Linaro Connect Bangkok 2019
-                - image: /assets/images/content/bkk19-bosch-keynote-2.jpg
-                  title: >-
-                    Dirk Slama from Bosch presenting his keynote at Linaro Connect Bangkok 2019
-                - image: /assets/images/content/bkk19-bosch-keynote.jpg
-                  title: >-
-                    Dirk Slama from Bosch presenting his keynote at Linaro Connect Bangkok 2019
-                - image: /assets/images/content/bkk19-backpack-giveaway.jpg
-                  title: RedHat's giveaway at Linaro Connect Bangkok 2019.
-                - image: /assets/images/content/bkk19-ai-demo.jpg
-                  title: Object recognition at Linaro Connect Bangkok 2019
+          lightbox_enabled: true
+          seconds_per_slide: 5
+          nav: true
+          dots: false
+          xs_items: 1
+          sm_items: 2
+          md_items: 4
+          lg_items: 6 
+          items:
+          - image: /assets/images/content/bkk19-sponsor-table.jpg
+            title: Sponsor table at Linaro Connect Bangkok 2019
+          - image: /assets/images/content/bkk19-registration-desk.jpg
+            title: Registration desk at Linaro Connect Bangkok 2019
+          - image: /assets/images/content/bkk19-packet-sponsored-food.jpg
+            title: Packet branded macaron's at Linaro Connect Bangkok 2019
+          - image: /assets/images/content/bkk19-li-gong-keynote-linaro-matters.jpg
+            title: >-
+              Linaro CEO, Li Gong, presenting the opening keynote at Linaro Connect
+              Bangkok 2019
+          - image: /assets/images/content/bkk19-li-gong-keynote.jpg
+            title: >-
+              Linaro CEO, Li Gong, presenting the opening keynote at Linaro Connect
+              Bangkok 2019
+          - image: /assets/images/content/bkk19-jacob-smith-packet-keynote.jpg
+            title: >-
+              Jacob Smith from Packet presenting his keynote at Linaro Connect Bangkok 2019
+          - image: /assets/images/content/bkk19-google-keynote.jpg
+            title: Google's keynote at Linaro Connect Bangkok 2019
+          - image: /assets/images/content/bkk19-demo-friday.jpg
+            title: Demo Friday hacking at Linaro Connect Bangkok 2019
+          - image: /assets/images/content/bkk19-chris-royston-arm-developer-talk.jpg
+            title: >-
+              Chris Royston from Arm talking about the new revision of developer.arm.com
+              at Linaro Connect Bangkok 2019
+          - image: /assets/images/content/bkk19-bosch-keynote-2.jpg
+            title: >-
+              Dirk Slama from Bosch presenting his keynote at Linaro Connect Bangkok 2019
+          - image: /assets/images/content/bkk19-bosch-keynote.jpg
+            title: >-
+              Dirk Slama from Bosch presenting his keynote at Linaro Connect Bangkok 2019
+          - image: /assets/images/content/bkk19-backpack-giveaway.jpg
+            title: RedHat's giveaway at Linaro Connect Bangkok 2019.
+          - image: /assets/images/content/bkk19-ai-demo.jpg
+            title: Object recognition at Linaro Connect Bangkok 2019
 
 ---
