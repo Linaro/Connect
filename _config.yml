@@ -63,6 +63,8 @@ schema:
 # Files that should be excluded from the Jekyll build.
 exclude:
   - _site
+  - staging.connect.linaro.org
+  - production.connect.linaro.org
   - build-site.sh
   - CODEOWNERS
   - Gemfile
