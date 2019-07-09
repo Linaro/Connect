@@ -35,7 +35,7 @@ cd <built web site directory>
 ../check-links.sh
 ```
 
-The built web site directory will be `staging.96boards.ai` unless you set `JEKYLLENV=production` before building the site, in which case the directory will be `production.96boards.ai`.
+The built web site directory will be `staging.connect.linaro.org` unless you set `JEKYLLENV=production` before building the site, in which case the directory will be `production.connect.linaro.org`.
 
 For more information, please see the [build container wiki](https://github.com/linaro-its/jekyll-build-container/wiki) and the [link checker wiki](https://github.com/linaro-its/jekyll-link-checker/wiki).
 
