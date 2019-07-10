@@ -44,9 +44,7 @@ The next Linaro Connect will take place at the Hyatt Regency in Vancouver, 17-21
 
 ### Visa & Business Invitation Letters
 
-Find out if you need a visa to travel to Canada [here](http://www.cic.gc.ca/english/visit/visas.asp). If you do require a business invitation letter and/or visa letter, please fill in the following [form](https://docs.google.com/forms/d/e/1FAIpQLScCahdkd3NrIaZvLBcK6iSFYCAJDFM0a3irDgFVI1vkZejDGw/viewform?usp=sf_link).
-
-If you have any questions please email [connect@linaro.org](mailto:connect@linaro.org).  Most attendees will at a minimum need to apply for an Electronic Travel Authorization (eTA) online [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html).
+Find out if you need a visa to travel to Canada [here](http://www.cic.gc.ca/english/visit/visas.asp). If you require a business invitation letter and/or visa letter, or have any questions, please email [connect@linaro.org](mailto:connect@linaro.org). Most attendees will at a minimum need to apply for an Electronic Travel Authorization (eTA) online [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html).
 
 We recommend requesting visas as soon as possible in case there are processing delays. The **deadline** to submit your Business Invitation and/or Visa Letter request is **Monday 13 August 2018**.
 
