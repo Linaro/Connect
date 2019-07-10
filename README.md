@@ -193,7 +193,7 @@ Verify you are on your fork of the repo and not the main Connect repository. Als
 
 ### Text/logo
 
-You can modify the home page banner by updating the '_include/hero-banner.html' include. Here you can find the text / Connect logo used in the banner.
+You can modify the home page banner by updating the `_include/hero-banner.html` include. Here you can find the text / Connect logo used in the banner.
 
 ### Background image
 
@@ -208,7 +208,7 @@ background-image:
     name: YVR18-banner-high-res.jpg
 ```
 
-Updated the `name` of the image to one that is include in a /assets/images/ folder. If you add a new folder please make sure to add to the jekyll-assets paths in the _config.yml
+Update the `name` of the image to one that is include in a folder under `/assets/images/`. If you add a new folder please make sure to add to the `jekyll-assets` paths in the `_config.yml` file.
 
 ```
 assets:
