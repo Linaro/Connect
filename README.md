@@ -143,7 +143,7 @@ Keynotes in the homepage carousel are added from the _data/yvr18-keynotes.yml fi
 ...
 ```
 
-E.g
+Example
 
 ```
 ...
