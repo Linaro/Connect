@@ -1,6 +1,6 @@
 # Linaro Connect Event Website - connect.linaro.org
 
-This is the git repository for the [Linaro Connect](https://connect.linaro.org) website.
+This is the git repository for the [Linaro Connect](https://connect.linaro.org) website. [Jekyll](https://jekyllrb.com/) is used to build the static website.
 
 Hosted in this repo are the markdown content files associated with the website. Feel free to [submit a PR](https://github.com/Linaro/Connect/pulls) / [Issue](https://github.com/Linaro/Connect/issues/new) if there is anything you would like to change.
 
