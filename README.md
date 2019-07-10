@@ -14,18 +14,24 @@ To make it easier to contribute to the content, Linaro provides a couple of Dock
 
 To build the site:
 
-    cd <git repository directory>
-    ./build-site.sh
+```
+cd <git repository directory>
+./build-site.sh
+```
 
 To build the site and then serve it so that you can check your contribution appears:
 
-    cd <git repository directory>
-    JEKYLLACTION="serve" ./build-site.sh
+```
+cd <git repository directory>
+JEKYLLACTION="serve" ./build-site.sh
+```
 
 To check that your contribution doesn't include any broken links:
 
-    cd <built web site directory>
-    ../check-links.sh
+```
+cd <built web site directory>
+../check-links.sh
+```
 
 The built web site directory will be `staging.connect.linaro.org` unless you set `JEKYLLENV=production` before building the site, in which case the directory will be `production.connect.linaro.org`.
 
@@ -131,15 +137,19 @@ If you are certain that you need to merge the changes you have made and you are 
 
 Keynotes in the homepage carousel are added from the _data/yvr18-keynotes.yml file. If you need to add a keynote to the homepage carousel simply append your keynote to the data file. In regards to following Connect events, duplicate the yvr18-keynotes.yml file and rename appropriately. Then change the included data file by amending this line:
 
-    ...
-    {% include sections/keynotes.html keynotes=site.data.yvr18-keynotes %}
-    ...
+```
+...
+{% include sections/keynotes.html keynotes=site.data.yvr18-keynotes %}
+...
+```
 
 E.g
 
-    ...
-    {% include sections/keynotes.html keynotes=site.data.bkk19-keynotes %}
-    ...
+```
+...
+{% include sections/keynotes.html keynotes=site.data.bkk19-keynotes %}
+...
+```
 
 ## Add a new resources section to Resources
 
@@ -151,19 +161,21 @@ Speakers on the static Connect website are posts with a category of `speaker`. S
 
 Front matter example from a speaker post
 
-    ---
-    author: linaro
-    categories: speaker
-    comments: false
-    date: 2018-08-14 08:40:50
-    image:
-      featured: true
-      name: ShinpeiKato.jpg
-      path: /assets/images/speakers/ShinpeiKato.jpg
-    layout: speaker-post
-    permalink: /speaker/:title/
-    title: Shinpei Kato
-    ---
+```
+---
+author: linaro
+categories: speaker
+comments: false
+date: 2018-08-14 08:40:50
+image:
+  featured: true
+  name: ShinpeiKato.jpg
+  path: /assets/images/speakers/ShinpeiKato.jpg
+layout: speaker-post
+permalink: /speaker/:title/
+title: Shinpei Kato
+---
+```
 
 ### Speaker image - image
 
@@ -196,23 +208,25 @@ background-image:
 
 Updated the `name` of the image to one that is include in a /assets/images/ folder. If you add a new folder please make sure to add to the jekyll-assets paths in the _config.yml
 
-    assets:
-      compress:
-            js: true
-      autoprefixer:
-          browsers: ["last 2 versions","> 5%","IE 9"]
-      sources:
-        - assets/js/
-        - assets/js/vendor/
-        - assets/js/app/
-        - assets/images
-        - assets/images/sponsors
-        - assets/images/featured-images
-        - assets/images/people
-        - assets/images/speakers
-        - assets/images/content
-        - assets/images/blog
-        - assets/css/
+```
+assets:
+  compress:
+        js: true
+  autoprefixer:
+      browsers: ["last 2 versions","> 5%","IE 9"]
+  sources:
+    - assets/js/
+    - assets/js/vendor/
+    - assets/js/app/
+    - assets/images
+    - assets/images/sponsors
+    - assets/images/featured-images
+    - assets/images/people
+    - assets/images/speakers
+    - assets/images/content
+    - assets/images/blog
+    - assets/css/
+```
 
 All the paths listed above are used by Jekyll when looking for image assets.
 
@@ -220,10 +234,12 @@ All the paths listed above are used by Jekyll when looking for image assets.
 
 We are using [Edge-rewrite](https://github.com/marksteele/edge-rewrite) which is a rewrite engine running in Lambda@Edge. The redirects are to be added to the `_data/routingrules.json` file in the webiste repository following the syntax rules [here](https://github.com/marksteele/edge-rewrite).
 
-    ^/oldpath/(\\d*)/(.*)$ /newpath/$2/$1 [L]
-    !^/oldpath.*$ http://www.example.com [R=302,L,NC]
-    ^/topsecret.*$ [F,L]
-    ^/deadlink.*$ [G]
-    ^/foo$ /bar [H=^baz\.com$]
+```
+^/oldpath/(\\d*)/(.*)$ /newpath/$2/$1 [L]
+!^/oldpath.*$ http://www.example.com [R=302,L,NC]
+^/topsecret.*$ [F,L]
+^/deadlink.*$ [G]
+^/foo$ /bar [H=^baz\.com$]
+```
 
 __Note:__ These redirects are currently not respected by the link checker until built: fix broken links rather than trying to add redirects to work around them!
