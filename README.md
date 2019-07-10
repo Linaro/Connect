@@ -109,7 +109,7 @@ Firstly, create an account on GitHub if you have not already done so - [Create a
 
 GitHub contains many repositories (basically a folder with a load of files inside it) and the Connect static website has it's own repository [here](https://github.com/Linaro/Connect). You need to make a fork (a copy) of this repository to your account. Which is as simple as clicking the fork button at the top right of the repository.
 
-![Fork the Connect repo on Github](/assets/images/help/ForkRepository.png)
+![Fork the Connect repo on GitHub](/assets/images/help/ForkRepository.png)
 
 ### Step 3 - Branches on Repositories
 
@@ -129,7 +129,7 @@ In order to get your changes added to the Connect website you must make changes 
 
 If you are certain that you need to merge the changes you have made and you are an Administrator of the repository you do the following to merge the PR.
 
-**Warning:** If you are an administrator and are using the above method of mergin your PR, please ensure that the tests __have passed__ before force merging!
+**Warning:** If you are an administrator and are using the above method of merging your PR, please ensure that the tests __have passed__ before force merging!
 
 ![Overriding the need for a reviewer](/assets/images/help/OverridingNeedForReview.gif)
 
@@ -153,11 +153,11 @@ E.g
 
 ## Add a new resources section to Resources
 
-The resources section is generated from a _data/connects.yml file. This should be modified to include all the previous Connect events whichh have resources.
+The resources section is generated from the `_data/connects.yml` file. This should be modified to include all the previous Connect events which have resources.
 
 ## Adding Connect Keynote Speakers
 
-Speakers on the static Connect website are posts with a category of `speaker`. Speakers have been added to the _posts/speaker folder to keep them separate from resources/blog posts. In order to add a speaker simply copy an existing speaker and modify accoridngly. Below are the values in the post's front matter (values between to two set's of `---` at the top of the file):
+Speakers on the static Connect website are posts with a category of `speaker`. Speakers have been added to the _posts/speaker folder to keep them separate from resources/blog posts. In order to add a speaker simply copy an existing speaker and modify accordingly. Below are the values in the post's front matter (values between to two set's of `---` at the top of the file):
 
 Front matter example from a speaker post
 
@@ -234,7 +234,7 @@ All the paths listed above are used by Jekyll when looking for image assets.
 
 ## Adding Redirects to the Static site
 
-We are using [Edge-rewrite](https://github.com/marksteele/edge-rewrite) which is a rewrite engine running in Lambda@Edge. The redirects are to be added to the `_data/routingrules.json` file in the webiste repository following the syntax rules [here](https://github.com/marksteele/edge-rewrite).
+We are using [Edge-rewrite](https://github.com/marksteele/edge-rewrite) which is a rewrite engine running in Lambda@Edge. The redirects are to be added to the `_data/routingrules.json` file in the website repository following the syntax rules [here](https://github.com/marksteele/edge-rewrite).
 
 ```
 ^/oldpath/(\\d*)/(.*)$ /newpath/$2/$1 [L]
