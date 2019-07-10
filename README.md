@@ -66,7 +66,7 @@ Below are a few guides that will help when adding content/making changes to the 
 
 ## Generic Website Guides
 
-- [Adding a Page](#adding-a-blog-post)
+- [Adding a Page](#adding-a-page)
 - [Adding a Blog Post](#adding-a-blog-post)
 - [Adding Redirects to the Static Site](#adding-redirects-to-the-static-site)
 - [Building the Static Site](#building-the-static-site)
