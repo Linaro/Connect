@@ -199,12 +199,14 @@ You can modify the home page banner by updating the '_include/hero-banner.html' 
 
 To modify the background image you change the image listed in the home section of '_data/settings.yml' file.
 
+```
 background-image:
-            # Darken is set to true by default - if you wish to remove the image overlay
-            # then change this setting to false.
-            darken: false
-            # This is the name of the background-image located in /assets/images/
-            name: YVR18-banner-high-res.jpg
+    # Darken is set to true by default - if you wish to remove the image overlay
+    # then change this setting to false.
+    darken: false
+    # This is the name of the background-image located in /assets/images/
+    name: YVR18-banner-high-res.jpg
+```
 
 Updated the `name` of the image to one that is include in a /assets/images/ folder. If you add a new folder please make sure to add to the jekyll-assets paths in the _config.yml
 
