@@ -123,7 +123,7 @@ In order to get your changes added to the Connect website you must make changes 
 
 If you are certain that you need to merge the changes you have made and you are an Administrator of the repository you do the following to merge the PR.
 
-**Warning:** If you are an administrator and are using the above method of mergin your pr. Then please make sure that at least the tests __have passed__!
+**Warning:** If you are an administrator and are using the above method of mergin your PR, please ensure that the tests __have passed__ before force merging!
 
 ![Overriding the need for a reviewer](/assets/images/help/OverridingNeedForReview.gif)
 
