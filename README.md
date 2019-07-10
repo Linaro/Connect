@@ -1,8 +1,43 @@
 # Linaro Connect Event Website - connect.linaro.org
 
-Welcome to the official content repository for Linaro Connect's static [Jekyll](https://jekyllrb.com/) website. Connect resources are added to this website through Jekyll posts. These resources are updated during and after Connect. We have a few python scripts that we can use to make the addition of resources to the Connect website easier and more efficient; these scripts create/update and delete Jekyll posts. 
+This is the git repository for the Linaro Connect static Jekyll-based website (https://connect.linaro.org).
 
-We are open to you [submitting a PR](https://github.com/linaro/connect/pulls) / [Issue](https://github.com/Linaro/connect/issues/new) if there is anything you notice that is out of place or needs updating.
+Hosted in this repo are the markdown content files associated with the website. Feel free to [submit a 
+PR](https://github.com/Linaro/Connect/pulls) / [Issue](https://github.com/Linaro/Connect/issues/new) if there is anything you would like to change.
+
+This static Jekyll site is using the [`jumbo-jekyll-theme`](https://github.com/linaro-marketing/jumbo-jekyll-theme). Please take a moment to review the guides on the [theme's GitHub wiki](https://github.com/linaro-marketing/jumbo-jekyll-theme/wiki).
+
+*****
+
+## Contributing
+
+To make it easier to contribute to the content, Linaro provides a couple of Docker containers for building and checking the site. All you need is Docker installed on your computer and enough RAM and disc space.
+
+To build the site:
+
+```
+cd <git repository directory>
+./build-site.sh
+```
+
+To build the site and then serve it so that you can check your contribution appears:
+
+```
+cd <git repository directory>
+JEKYLLACTION="serve" ./build-site.sh
+```
+
+To check that your contribution doesn't include any broken links:
+
+```
+
+cd <built web site directory>
+../check-links.sh
+```
+
+The built web site directory will be `staging.connect.linaro.org` unless you set `JEKYLLENV=production` before building the site, in which case the directory will be `production.connect.linaro.org`.
+
+For more information, please see the [build container wiki](https://github.com/linaro-its/jekyll-build-container/wiki) and the [link checker wiki](https://github.com/linaro-its/jekyll-link-checker/wiki).
 
 *****
 
@@ -201,18 +236,3 @@ We are using [Edge-rewrite](https://github.com/marksteele/edge-rewrite) which is
 ```
 
 __Note:__ These redirects are currently not respected by the link checker until built. So if trying to fix broken links by adding redirects then this may not be the best way to go about it currently. 
-
-## Building and Contributing
-
-It is not 100% neccessary to build to site on your computer to submit updates but it's helpful if you want to see the updates to big changes before your submit your pull request. You can also trigger a staging build of the site by submititng a pull request to the [develop] branch of [this repo].
-
-To build the site, you will need Docker installed on your computer. With that in place, go into the repository directory and run `build-site.sh`. More information about how to use this feature and the options available can be found on the [build container's wiki](https://github.com/linaro-its/jekyll-build-container/wiki).
-
-
-### Contributing
-
-Commit messages must be succint: Pull Requests (PR's) must state the purpose of your changes.
-
-Markdown files, SASS files, etc. must pass basic lint checks before your PR will be accepted. Please check them before submitting to save you and us time.
-
-Links must be checked before submitting.
