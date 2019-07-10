@@ -196,23 +196,23 @@ background-image:
 
 Updated the `name` of the image to one that is include in a /assets/images/ folder. If you add a new folder please make sure to add to the jekyll-assets paths in the _config.yml
 
-assets:
-  compress:
-        js: true
-  autoprefixer:
-      browsers: ["last 2 versions","> 5%","IE 9"]
-  sources:
-    - assets/js/
-    - assets/js/vendor/
-    - assets/js/app/
-    - assets/images
-    - assets/images/sponsors
-    - assets/images/featured-images
-    - assets/images/people
-    - assets/images/speakers
-    - assets/images/content
-    - assets/images/blog
-    - assets/css/
+    assets:
+      compress:
+            js: true
+      autoprefixer:
+          browsers: ["last 2 versions","> 5%","IE 9"]
+      sources:
+        - assets/js/
+        - assets/js/vendor/
+        - assets/js/app/
+        - assets/images
+        - assets/images/sponsors
+        - assets/images/featured-images
+        - assets/images/people
+        - assets/images/speakers
+        - assets/images/content
+        - assets/images/blog
+        - assets/css/
 
 All the paths listed above are used by Jekyll when looking for image assets.
 
@@ -220,10 +220,10 @@ All the paths listed above are used by Jekyll when looking for image assets.
 
 We are using [Edge-rewrite](https://github.com/marksteele/edge-rewrite) which is a rewrite engine running in Lambda@Edge. The redirects are to be added to the `_data/routingrules.json` file in the webiste repository following the syntax rules [here](https://github.com/marksteele/edge-rewrite).
 
-^/oldpath/(\\d*)/(.*)$ /newpath/$2/$1 [L]
-!^/oldpath.*$ http://www.example.com [R=302,L,NC]
-^/topsecret.*$ [F,L]
-^/deadlink.*$ [G]
-^/foo$ /bar [H=^baz\.com$]
+    ^/oldpath/(\\d*)/(.*)$ /newpath/$2/$1 [L]
+    !^/oldpath.*$ http://www.example.com [R=302,L,NC]
+    ^/topsecret.*$ [F,L]
+    ^/deadlink.*$ [G]
+    ^/foo$ /bar [H=^baz\.com$]
 
 __Note:__ These redirects are currently not respected by the link checker until built: fix broken links rather than trying to add redirects to work around them!
