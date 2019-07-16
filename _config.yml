@@ -66,6 +66,7 @@ exclude:
   - staging.connect.linaro.org
   - production.connect.linaro.org
   - build-site.sh
+  - check-links.sh
   - CODEOWNERS
   - Gemfile
   - Gemfile.lock
