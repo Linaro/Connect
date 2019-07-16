@@ -45,7 +45,6 @@ flow:
               - title: 
                     size: h3
                     content: Collaborate & Learn
-                url: /about/
                 background_image: /assets/images/content/bkk19-group-photo.jpg
                 text:
                     content: >
@@ -60,7 +59,6 @@ flow:
               - title: 
                     size: h3
                     content: Contribute
-                url: /about/
                 background_image: /assets/images/content/bkk19-group-photo.jpg
                 text:
                     content: >
@@ -73,16 +71,10 @@ flow:
               - title: 
                     size: h3
                     content: Socialize
-                url: /about/
                 background_image: /assets/images/content/bkk19-group-photo.jpg
                 text:
                     content: >
                         In addition to the regular breaks in the day and informal hacking sessions, there are a range of evening events at which you can network with your peers and get to know the other attendees.
-                buttons:
-                    - title: View Schedule
-                      url: /about/
-                      icon: fa fa-clock-o
-                      class: btn-primary
     - row: container_row 
     #   style: dark
       sections:
