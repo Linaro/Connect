@@ -2,7 +2,6 @@ _site/
 .asset-cache
 .bundle/
 .gemfiles/
-.gems
 .jekyll-cache
 .jekyll-metadata
 .sass-cache
@@ -11,3 +10,4 @@ node_modules
 production.connect.linaro.org
 resources/yvr18/resources.json
 staging.connect.linaro.org
+Gemfile.lock
