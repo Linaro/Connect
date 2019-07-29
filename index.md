@@ -14,7 +14,7 @@ jumbotron:
     title: Bringing the Arm ecosystem together
     include: jumbotron-home.html
     description: ""
-    video: 
+    video:
         source:
             mp4: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromo.mp4
             ogv: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromo.ogv
@@ -25,8 +25,8 @@ home: true
 redirect_from:
 - /keynotes/bkk19/
 - /keynotes/
-flow: 
-    - row: container_row 
+flow:
+    - row: container_row
       style: fixed
       background_image: /assets/images/content/bkk19-theme-banner.jpg
       sections:
@@ -37,6 +37,8 @@ flow:
           style: text-center text-white
           content: >
             Linaro Connect San Diego will be held from 23-27 September 2019. Registration is now open!
+        - format: custom_include
+          source: keynotes.html
         - format: buttons
           style: text-center
           content:
@@ -44,7 +46,7 @@ flow:
                 url: /register/
                 icon: fa fa-arrow-right
                 class: btn-primary
-    - row: container_row 
+    - row: container_row
       #style: new
       sections:
         - format: feature_block
@@ -64,7 +66,7 @@ flow:
                     xs_items: 1
                     sm_items: 1
                     md_items: 1
-                    lg_items: 1 
+                    lg_items: 1
                     items:
                         - image: /assets/images/content/bkk19-sponsor-table.jpg
                           title: Sponsor table at Linaro Connect Bangkok 2019
@@ -129,7 +131,7 @@ flow:
                   url: https://linaro.co/LinaroConnectSponsorshipProspectus
                   class: btn-primary
                   icon: fa fa-download
-    - row: container_row 
+    - row: container_row
       style: block_row
     #   background_image: /assets/images/content/bkk19-group-photo.jpg
       sections:
@@ -139,8 +141,8 @@ flow:
         - format: block
           style: text-center text-white
           item_width: 4
-          content: 
-              - title: 
+          content:
+              - title:
                     size: h3
                     content: BKK19 Photos
                 url: https://www.flickr.com/photos/linaroorg/sets/72157695573962940
@@ -153,7 +155,7 @@ flow:
                       url: https://www.flickr.com/photos/linaroorg/sets/72157695573962940
                       icon: fa fa-external-link
                       class: btn-primary
-              - title: 
+              - title:
                     size: h3
                     content: BKK19 Resources
                 url: /resources/bkk19/
@@ -166,7 +168,7 @@ flow:
                       url: /resources/bkk19/
                       icon: fa fa-slideshare
                       class: btn-primary
-              - title: 
+              - title:
                     size: h3
                     content: View all resources
                 url: /resources/
@@ -179,7 +181,7 @@ flow:
                       url: /resources/
                       icon: fa fa-clock-o
                       class: btn-primary
-    - row: container_row 
+    - row: container_row
       sections:
         - format: title
           size: h3
@@ -188,7 +190,7 @@ flow:
           #data_source: members-section-example
           style: zoom grayscale
           item_width: 2 #bootstrap col-sm- value e.g 3, 4, 5ths etc
-          content: 
+          content:
               - name: Arm
                 image:
                     path: /assets/images/sponsors/arm.jpg
