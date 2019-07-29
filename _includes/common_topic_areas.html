@@ -1,0 +1,10 @@
+<div class="row">
+    <div class="container text-center">
+        <h4>Common Topic Areas</h4>
+        {% for item in site.data.common_topic_areas %}
+            <div class="col-xs-6 col-sm-4">
+                <h5>{{item}}</h5>
+            </div>
+        {% endfor %}
+    </div>
+</div>

@@ -1,0 +1,57 @@
+- title: Big Data on ARM in practice with ThunderX
+  description: >
+    The University of Michigan(U-M), in partnership with Marvell, has built a Data Analytics cluster with ThunderX processors based on the Hadoop and Spark family of tools. We present information on the deployment and use of the cluster, which uses software packaged by the Linaro Big Data teams. We also present feedback to the Big Data on ARM community and future plans for development for Big Data on ARM at U-M as well.
+  company: Advanced Research Computing - Technology Services, University of Michigan
+  track: Big Data
+  speaker:
+    name: Jeremy Hallum
+    image: /assets/images/speakers/keynotes/san19/Jeremy_Hallum.jpg
+    position: Research Computing Manger, Advanced Research Computing - Technology Services, University of Michigan
+    bio: >
+      Jeremy Hallum is the manager responsible for Storage, Private Cloud, and Data Science Operations teams at ARC-TS at the University of Michigan. His teams are responsible for the deployment of the storage systems, Yottabyte Research Cloud, and Marvell data science Cluster.
+
+      Jeremy earned his undergraduate degree from Minnesota State University in Astronomy and Mathematics in 1996, and a Masters degree from Boston University in 1999 in Astronomy. His interests lie in developing usability for advanced computing resources, user training and secure use of advanced computing resources.
+    twitter: https://twitter.com/jhallum
+    linkedin: https://www.linkedin.com/in/jeremy-hallum-72433043/
+    company_webite: http://arc-ts.umich.edu/
+- title: AI on Arm flagship Supercomputer Fugaku
+  description: >
+    AI on Arm flagship Supercomputer Fugaku
+  company: Riken
+  track: HPC
+  speaker:
+    name: Satoshi Matsuoka
+    image: /assets/images/speakers/keynotes/san19/Satoshi__Matsuoka.jpg
+    position: Director, RIKEN Center for Computational Science
+    bio: "
+      Satoshi Matsuoka had been a Full Professor at the Global Scientific Information and Computing Center (GSIC), the Tokyo Institute of Technology since 2000, and the director of the joint AIST-Tokyo Tech. Real World Big Data Computing Open Innovation Laboratory (RWBC-OIL) since 2017, and will become a Specially Appointed Professor at Tokyo Tech starting 2018 along with his directorship at R-CCS. He received his Ph. D. from the University of Tokyo in 1993.
+
+      He has been the leader of the TSUBAME series of supercomputers that have won many accolades such as world #1 in power-efficient computing. He also leads various major supercomputing research projects in areas such as parallel algorithms and programming, resilience, green computing, and convergence of big data/AI with HPC.
+      He has written over 500 articles according to Google Scholar, and chaired numerous ACM/IEEE conferences, including the Program Chair at the ACM/IEEE Supercomputing Conference (SC13) in 2013. He is a Fellow of the ACM and European ISC, and has won many awards, including the JSPS Prize from the Japan Society for Promotion of Science in 2006, presented by his Highness Prince Akishino; the ACM Gordon Bell Prize in 2011; the Commendation for Science and Technology by the Minister of Education, Culture, Sports, Science and Technology in 2012; the 2014 IEEE-CS Sidney Fernbach Memorial Award, the highest prestige in the field of HPC; and recently HPDC 2018 Achievement Award from ACM.
+      "
+    twitter: https://twitter.com/ProfMatsuoka
+    company_webite: http://www.riken.jp/en/
+- title: "Coccinelle: 10 Years of Automated Evolution in the Linux Kernel"
+  description: >
+    Over the last 10+ years, we have been developing the Coccinelle C-program matching and transformation tool. Coccinelle allows developers to match and transform C code via a generalization of the familiar patch syntax. As Coccinelle is independent of the C preprocessor, Coccinelle rules can be applied across a code base, regardless of configuration constraints. Over the years, Coccinelle has been extensively used in Linux kernel development, resulting in over 7000 commits to the Linux kernel, and has found its place as part of the Linux kernel development process. This talk gives an introduction to the use of Coccinelle and gives an overview of its impact on the Linux kernel.
+  company: Inria
+  track: Linux Kernel
+  speaker:
+    name: Julia Lawall
+    image: /assets/images/speakers/keynotes/san19/Julia_Lawall.jpg
+    position: Senior Research Scientist at Inria
+    bio: >
+      Julia Lawall is a Senior Research Scientist at Inria. Her research is at the intersection of programming languages and operating systems. She develops the tool Coccinelle and has over 2000 patches in the Linux kernel based on this work.
+- title: Arm in HPC
+  description: >
+    Arm-based systems are showing up in the HPC community and new silicon is coming. The architecture has also been selected for several of the exascale projects worldwide. Brent will talk about the aspects of Arm that are attractive to the HPC community, updates on projects and what we as a community can do to help accelerate adoption in this space.
+  company: Arm
+  track: HPC
+  speaker:
+    name: Brent Gorda
+    image: /assets/images/speakers/keynotes/san19/Brent_Gorda.jpg
+    position: Sr. Director, Worldwide HPC at Arm
+    bio: >
+      Brent has a long history of working in supercomputing community. Starting in the mid-80’s in Canada, he wrote compilers for Myrias Research. In the early 90’s he moved to the Lawrence Livermore National Laboratory and worked on the adoption of parallel computing. In the early to mid 2000’s, he ran the BlueGene project for Livermore as well as the Lustre file system contract. Brent founded and was CEO at Whamcloud, a company formed to keep Lustre in play for HPC. After selling Whamcloud to Intel, he was General Manager for the High Performance Data Division for 5+ years. Along the way, Brent had a hand in starting Software-Carpentry.com, building the first Java compiler and founding the Student Cluster Competition now held worldwide at HPC events.
+    linkedin: https://www.linkedin.com/in/bgorda
+    company_webite: https://www.arm.com/hpc
