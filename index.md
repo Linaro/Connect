@@ -27,7 +27,7 @@ redirect_from:
 - /keynotes/
 flow:
     - row: container_row
-      style: fixed
+      style: fixed san19_highlight
       background_image: /assets/images/content/bkk19-theme-banner.jpg
       sections:
         - format: title
