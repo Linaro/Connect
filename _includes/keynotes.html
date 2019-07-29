@@ -1,0 +1,31 @@
+<div class="owl-carousel owl-theme" id="keynote_slider">
+    {% for keynote in site.data.featured_keynotes %}
+        {% assign image_path = "" %}
+        {% capture image_path %}{{keynote.speaker.image | remove_first: "/" }}{% endcapture %}
+        {% capture full_path %}{{keynote.speaker.image}}{% endcapture %}
+        <div class="col-xs-12 item">
+            <div class="photo">
+                {% responsive_image_block %}
+                template: _includes/thumbnail_image.html
+                path: {{ image_path }}
+                fullpath: {{ full_path }}
+                {% if keynote.title %}
+                title: {{ keynote.title | slugify: "ascii"}}
+                alt: {{ keynote.title | slugify: "ascii"}}
+                {% endif %}
+                {% endresponsive_image_block %}
+            </div>
+            <div class="info">
+                <div class="name">
+                    <h3>{{keynote.speaker.name}}</h3>
+                </div>
+                <div class="position">
+                    <small>{{keynote.speaker.position}}</small>
+                </div>
+                <a href="#keynote{{forloop.index}}" class="btn btn-primary">
+                    View
+                </a>
+            </div>
+        </div>
+    {% endif %}
+</div>
