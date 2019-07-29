@@ -54,4 +54,4 @@ flow:
 
 - Deadline to submit proposals 15 July 2019
 - Notifications of acceptance by 23 July 2019
-- Full schedule announced 30 July 2
+- Full schedule announced 30 July 2019
