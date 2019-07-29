@@ -46,8 +46,9 @@
                 <div class="modal-body">
                     <h3>Abstract</h3>
                     {{keynote.description}}
-                    <strong>{{keynote.speaker.name}}</strong>
-                    <small>{{keynote.speaker.position}}</small>
+                    <h3>{{keynote.speaker.name}}</h3>
+                    <small>{{keynote.speaker.position}}</small> <br>
+                    {{keynote.speaker.bio}}
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
