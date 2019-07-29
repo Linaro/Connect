@@ -223,7 +223,7 @@ div#content-container {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column; 
+    flex-direction: column;
 }
 p#buttons {
     clear: both;
@@ -427,7 +427,73 @@ div#social-media {
 .big-triangle::after, .big-triangle::before {
     border-bottom-color:#4d4d4d;
 }
-
 .sponsor-col img{
     transition: all 100ms ease;
+}
+//Keynotes
+.san19_highlight {
+    div#keynote_slider {
+        .owl-stage-outer {
+            height: 100%;
+            .owl-stage {
+                display: flex;
+                padding-top: 30px;
+                padding-bottom: 30px;
+                .owl-item {
+                    display: flex;
+                    h4 {
+                        color: #cacaca;
+                    }
+                    .name h3 {
+                        color:#fff;
+                    }
+                    .position small {
+                        color: #fff;
+                    }
+                }
+            }
+        }
+    }
+    &.overlay:before {
+        height: 100vh;
+    }
+    .col-xs-12.item .block-inner {
+        background: rgb(108,108,108);
+        background: linear-gradient(180deg, rgba(108,108,108,1) 0%, rgba(69,69,69,0.3757878151260504) 100%, rgba(65,65,65,1) 100%, rgba(56,56,56,0) 100%);
+        border: 1px solid #868686;
+        padding: 10px;
+        border-radius: 3px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        overflow: auto;
+        background-size: cover !important;
+        background-repeat: no-repeat !important;
+        background-position: center center !important;
+        border-radius: 5px;
+        -webkit-box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
+        -moz-box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
+        box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
+        transition: all 200ms ease-in-out;
+        &:hover  {
+            transform: translateY(-5px);
+            -webkit-box-shadow: 0px 0px 35px -4px rgba(0,0,0,0.85);
+            -moz-box-shadow: 0px 0px 35px -4px rgba(0,0,0,0.85);
+            box-shadow: 0px 0px 35px -4px rgba(0,0,0,0.85);
+            .photo {
+                img {
+                    filter: grayscale(0);
+                }
+            }
+        }
+        .photo {
+            height: 200px;
+            width: 100%;
+            overflow: hidden;
+            object-fit: cover;
+            img {
+                filter: grayscale(1);
+            }
+        }
+    }
 }
