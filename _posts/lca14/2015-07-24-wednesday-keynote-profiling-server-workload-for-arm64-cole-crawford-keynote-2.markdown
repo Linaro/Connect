@@ -10,7 +10,6 @@ excerpt: A technical overview of enterprise workloads on linux on arm64, the foc
 featured_image_name: LCA14-300K1.jpg
 image:
   featured: true
-  name: LCA14-300K2.jpg
   path: /assets/images/featured-images/LCA14-300K2.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lca14/wednesday-keynote-profiling-server-workload-for-arm64-cole-crawford-keynote-2/
