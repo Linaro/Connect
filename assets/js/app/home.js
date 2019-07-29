@@ -1,5 +1,5 @@
 $(window).on("load",function(){
-    var url = "https://eventbrite.co.uk/tickets-external?eid=45251216607&amp;ref=etckt";    
+    var url = "https://eventbrite.co.uk/tickets-external?eid=45251216607&amp;ref=etckt";
     $("#eventbrite-iframe").attr("src",url);
     $("#eventbrite-iframe").on("load",function(){
         $(this).removeClass("hidden-iframe");
@@ -55,7 +55,7 @@ $(document).ready(function () {
             }
         }
     });
-    $("#keynote-slider").owlCarousel({
+    $("#keynote_slider").owlCarousel({
         items: 4,
         loop: false,
         dots: true,
@@ -92,7 +92,7 @@ $(document).ready(function () {
     });
     console.log($videoSrc);
 
-    // when the modal is opened autoplay it  
+    // when the modal is opened autoplay it
     $('#myModal').on('shown.bs.modal', function (e) {
         // set the video src to autoplay and not to show related video. Youtube related video is like a box of chocolates... you never know what you're gonna get
         $("#video").attr('src', $videoSrc + "?rel=0&amp;showinfo=0&amp;modestbranding=1&amp;autoplay=1");
@@ -102,7 +102,5 @@ $(document).ready(function () {
         // a poor man's stop video
         $("#video").attr('src', $videoSrc);
     })
-    // document ready  
+    // document ready
 });
-
-
