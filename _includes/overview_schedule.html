@@ -1,0 +1,37 @@
+<div class="row shadowed-row padded-row" id="overview-schedule">
+    <div class="container no-padding">
+        <h3 class="text-center">Overview Schedule</h3>
+        <div class="row">
+            {% for day in site.data.overview-schedule %}
+            <div class="col-md-5ths">
+                <div class="panel-group" id="accordion{{day.day_number}}" role="tablist" aria-multiselectable="true">
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="heading{{day.day_number}}">
+                            <h4 class="panel-title text-center">
+                                <a role="button" data-toggle="collapse" data-parent="#accordion{{day.day_number}}"
+                                    href="#accordion-collapse{{day.day_number}}" aria-expanded="true"
+                                    aria-controls="accordion-collapse{{day.day_number}}">
+                                    Day {{day.day_number}}: {{day.date}}
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="accordion-collapse{{day.day_number}}" class="panel-collapse collapse dont-collapse-sm"
+                            role="tabpanel" aria-labelledby="heading{{day.day_number}}">
+                            <div class="panel-body">
+                                <ul class="list-group">
+                                    {% for slot in day.slots %}
+                                    <li class="list-group-item">
+                                        {{slot.title}}
+                                        <span class="badge">{{slot.time}}</span>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
