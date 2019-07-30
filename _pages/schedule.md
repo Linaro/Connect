@@ -11,7 +11,5 @@ flow:
     - row: custom_include_row
       source: schedule.html
     - row: custom_include_row
-      source: overview_schedule.html
-    - row: custom_include_row
       source: tsc_meetings.html
 ---
