@@ -1,7 +1,9 @@
 # Website title - used in the <title> tag of the <head> section of the website.
-title: Linaro Connect 
+title: Linaro Connect
 # Name of the site - used to identify the site for setting the active class in the universal nav
 name: Linaro Connect
+# GitHub branch for netlify CMS config.yml file.
+branch: develop
 # Description of the website used in the Meta Description.
 description: > # this means to ignore newlines until "baseurl:"
   Linaro Connect San Diego 2019 (BKK19) will take place in San Diego California September 23-27, 2019
@@ -9,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
 destination: _site
 # Code of current connect.
 connect-code: SAN19
-connect-text: Linaro Connect San Diego 2019 
+connect-text: Linaro Connect San Diego 2019
 previous-connect-code: BKK19
 email: contact@linaro.org
 # Status of current Connect
@@ -93,15 +95,15 @@ defaults:
   - scope:
         path: "_posts/yvr18/sessions"
     values:
-        permalink: /resources/:categories/sessions/:slug/ 
+        permalink: /resources/:categories/sessions/:slug/
   - scope:
         path: "_posts/yvr18/demos"
     values:
-        permalink: /resources/:categories/demos/:slug/ 
+        permalink: /resources/:categories/demos/:slug/
   - scope:
         path: "_posts/yvr18/interviews"
     values:
-        permalink: /resources/:categories/interviews/:slug/ 
+        permalink: /resources/:categories/interviews/:slug/
   - scope:
         path: ""
         type: "posts"
@@ -136,7 +138,7 @@ plugins:
 # Compress the html and beau2tify it.
 jekyll_tidy: # Compress the html and beautify it.
     compress_html: true
-    exclude: [robots.txt] # Exclude the robots.txt file from removal of whitespace
+    exclude: [robots.txt, admin/config.yml] # Exclude the robots.txt file from removal of whitespace
 
 # Jekyll Assets plugin - set js and css to true so it compresses on jekyll build
 assets:

@@ -692,7 +692,7 @@ div#schedule .list-group-item {
     visibility: visible;
   }
 }
-#schedule ul.list-group {
+#wrapper  #schedule ul.list-group {
     margin-bottom: 0px;
 }
 
@@ -703,20 +703,23 @@ div#schedule .list-group-item {
 }
 
 // Schedule page
-div#overview-schedule {
+#wrapper #overview-schedule .row {
+    background-color: transparent;
+}
+#wrapper div#overview-schedule {
     background-color: #323232;
 }
-div#overview-schedule h3{
+#wrapper div#overview-schedule h3{
     color:white;
     margin:40px 0;
 }
-div#overview-schedule li.list-group-item {
+#wrapper div#overview-schedule li.list-group-item {
     overflow: auto;
 }
-div#overview-schedule ul{
+#wrapper div#overview-schedule ul{
     margin-bottom:0px;
 }
-div#overview-schedule .panel-heading {
+#wrapper div#overview-schedule .panel-heading {
     border-color:transparent;
 }
 // Resources search page
@@ -752,4 +755,12 @@ div#jumbotron {
 }
 #wrapper table ul {
     font-size: 14px;
+}
+a.btn.btn-secondary {
+    background-color: #77a902;
+    color: white;
+}
+a.btn.btn-secondary:hover {
+    background-color: #444444;
+    color: white;
 }

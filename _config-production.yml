@@ -7,3 +7,5 @@ url: "https://connect.linaro.org"
 destination: production.connect.linaro.org
 # Production boolean used in layouts / includes
 production: true
+# GitHub branch for netlify CMS config.yml file.
+branch: master

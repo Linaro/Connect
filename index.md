@@ -28,7 +28,7 @@ redirect_from:
 flow:
     - row: container_row
       style: fixed san19_highlight
-      background_image: /assets/images/content/bkk19-theme-banner.jpg
+      background_image: /assets/images/content/san19-theme-banner.jpg
       sections:
         - format: title
           size: h2
@@ -37,15 +37,44 @@ flow:
           style: text-center text-white
           content: >
             Linaro Connect San Diego will be held from 23-27 September 2019. Registration is now open!
+        - format: members
+          #data_source: members-section-example
+          style: zoom grayscale
+          item_width: 2 #bootstrap col-sm- value e.g 3, 4, 5ths etc
+          content:
+              - name: Arm
+                image:
+                    path: /assets/images/sponsors/arm.jpg
+                    alt: Arm Logo
+                url: https://www.linaro.org/company/arm/
+              - name: Xilinx/Avnet
+                image:
+                    path: /assets/images/sponsors/xilinx-avnet.jpg
+                    alt: Xilinx/Avnet Logo
+                url: https://www.linaro.org/company/xilinx/
+              - name: Arrow
+                image:
+                    path: /assets/images/sponsors/arrow.jpg
+                    alt: Arrow Logo
+                url: https://www.arrow.com/
+              - name: Riscure
+                image:
+                    path: /assets/images/sponsors/riscure.png
+                    alt: Riscure Logo
+                url: https://www.riscure.com/
         - format: custom
           include_name: keynotes.html
         - format: buttons
           style: text-center
           content:
+              - title: View Schedule
+                url: /schedule/
+                icon: fa fa-calendar
+                style: btn-secondary
               - title: Register
                 url: /register/
                 icon: fa fa-arrow-right
-                class: btn-primary
+                style: btn-primary
     - row: container_row
       #style: new
       sections:

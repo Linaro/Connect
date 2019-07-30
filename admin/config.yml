@@ -1,0 +1,44 @@
+---
+---
+backend:
+  name: github
+  repo: linaro/connect
+  branch: {{site.branch}}
+  accept_roles:
+    - admin
+    - editor
+publish_mode: editorial_workflow
+media_folder: "assets/images"
+collections:
+  - label: "Pages"
+    name: "pages"
+    folder: "_pages"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - label: "Jumbotron"
+        name: "jumbotron"
+        widget: "object"
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
+          - label: "Description"
+            name: "description"
+            widget: "text"
+          - label: "Carousel Images"
+            name: "carousel-images"
+            widget: "image"
+            media_library:
+              config:
+                multiple: true
+      - label: "Image"
+        name: "image"
+        widget: "object"
+        fields:
+          - label: "Image Path"
+            name: "path"
+            widget: "image"
+            default: "/assets/images/social-media-image.png"
+      - {label: "Body", name: "body", widget: "markdown"}
