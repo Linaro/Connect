@@ -28,7 +28,7 @@ redirect_from:
 flow:
     - row: container_row
       style: fixed san19_highlight
-      background_image: /assets/images/content/bkk19-theme-banner.jpg
+      background_image: /assets/images/content/san19-theme-banner.jpg
       sections:
         - format: title
           size: h2
@@ -42,10 +42,14 @@ flow:
         - format: buttons
           style: text-center
           content:
+              - title: View Schedule
+                url: /schedule/
+                icon: fa fa-calendar
+                style: btn-secondary
               - title: Register
                 url: /register/
                 icon: fa fa-arrow-right
-                class: btn-primary
+                style: btn-primary
     - row: container_row
       #style: new
       sections:
