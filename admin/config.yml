@@ -1,0 +1,62 @@
+---
+---
+backend:
+  name: github
+  repo: 96Boards/ai
+  branch: {{site.branch}}
+  accept_roles:
+    - admin
+    - editor
+publish_mode: editorial_workflow
+media_folder: "assets/images"
+collections:
+  - name: "products"
+    label: "Products"
+    folder: "_products"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Short description", name: "short-dec", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "About"
+        name: "about"
+        file: "about/README.md"
+        fields:
+          - {label: Layout, name: layout, widget: string}
+          - {label: Title, name: title, widget: string}
+          - {label: Permalink, name: permalink, widget: string}
+          - {label: Body, name: body, widget: markdown}
+      - label: "Contact"
+        name: "contact"
+        file: "contact/README.md"
+        fields:
+          - {label: Layout, name: layout, widget: string}
+          - {label: Title, name: title, widget: string}
+          - {label: Permalink, name: permalink, widget: string}
+          - label: Jumbotron
+            name: jumbotron
+            widget: object
+            fields:
+              - {label: "Background image", name: background-image, widget: string}
+              - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+      - label: "Documentation"
+        name: "documentation"
+        file: "documentation/README.md"
+        fields:
+          - {label: Layout, name: layout, widget: string}
+          - {label: Title, name: title, widget: string}
+          - {label: Permalink, name: permalink, widget: string}
+          - {label: Body, name: body, widget: markdown}
+      - label: "Press"
+        name: "press"
+        file: "press/README.md"
+        fields:
+          - {label: Layout, name: layout, widget: string}
+          - {label: Title, name: title, widget: string}
+          - {label: Permalink, name: permalink, widget: string}
+          - {label: Body, name: body, widget: markdown}
