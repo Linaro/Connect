@@ -7,3 +7,5 @@ url: "https://staging.connect.linaro.org"
 destination: staging.connect.linaro.org
 # Production boolean used in layouts / includes
 production: false
+# GitHub branch for netlify CMS config.yml file.
+branch: develop
