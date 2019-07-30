@@ -37,10 +37,27 @@ flow:
           style: text-center text-white
           content: >
             Linaro Connect San Diego will be held from 23-27 September 2019. Registration is now open!
+        - format: custom
+          include_name: keynotes.html
+        - format: buttons
+          style: text-center
+          content:
+              - title: View Schedule
+                url: /schedule/
+                icon: fa fa-calendar
+                style: btn-secondary
+              - title: Register
+                url: /register/
+                icon: fa fa-arrow-right
+                style: btn-primary
+    - row: container_row
+      sections:
+        - format: title
+          size: h2
+          content: SAN19 Sponsors
         - format: members
-          #data_source: members-section-example
-          style: zoom grayscale
-          item_width: 2 #bootstrap col-sm- value e.g 3, 4, 5ths etc
+          style: zoom
+          item_width: 3
           content:
               - name: Arm
                 image:
@@ -62,19 +79,6 @@ flow:
                     path: /assets/images/sponsors/riscure.png
                     alt: Riscure Logo
                 url: https://www.riscure.com/
-        - format: custom
-          include_name: keynotes.html
-        - format: buttons
-          style: text-center
-          content:
-              - title: View Schedule
-                url: /schedule/
-                icon: fa fa-calendar
-                style: btn-secondary
-              - title: Register
-                url: /register/
-                icon: fa fa-arrow-right
-                style: btn-primary
     - row: container_row
       #style: new
       sections:
