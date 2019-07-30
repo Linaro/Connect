@@ -37,6 +37,31 @@ flow:
           style: text-center text-white
           content: >
             Linaro Connect San Diego will be held from 23-27 September 2019. Registration is now open!
+        - format: members
+          #data_source: members-section-example
+          style: zoom grayscale
+          item_width: 2 #bootstrap col-sm- value e.g 3, 4, 5ths etc
+          content:
+              - name: Arm
+                image:
+                    path: /assets/images/sponsors/arm.jpg
+                    alt: Arm Logo
+                url: https://www.linaro.org/company/arm/
+              - name: Xilinx/Avnet
+                image:
+                    path: /assets/images/sponsors/xilinx-avnet.jpg
+                    alt: Xilinx/Avnet Logo
+                url: https://www.linaro.org/company/xilinx/
+              - name: Arrow
+                image:
+                    path: /assets/images/sponsors/arrow.jpg
+                    alt: Arrow Logo
+                url: https://www.arrow.com/
+              - name: Riscure
+                image:
+                    path: /assets/images/sponsors/riscure.png
+                    alt: Riscure Logo
+                url: https://www.riscure.com/
         - format: custom
           include_name: keynotes.html
         - format: buttons
