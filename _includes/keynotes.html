@@ -1,0 +1,59 @@
+<div class="col-xs-12">
+    <div class="owl-carousel owl-theme" id="keynote_slider">
+        {% for keynote in site.data.featured_keynotes %}
+            {% assign image_path = "" %}
+            {% capture image_path %}{{keynote.speaker.image | remove_first: "/" }}{% endcapture %}
+            {% capture full_path %}{{keynote.speaker.image}}{% endcapture %}
+            <div class="col-xs-12 item">
+                <a data-toggle="modal" href="#keynote{{forloop.index}}">
+                <div class="block-inner">
+                    <div class="photo">
+                        {% responsive_image_block %}
+                        template: _includes/thumbnail_image.html
+                        path: {{ image_path }}
+                        fullpath: {{ full_path }}
+                        {% if keynote.title %}
+                        title: {{ keynote.title | slugify: "ascii"}}
+                        alt: {{ keynote.title | slugify: "ascii"}}
+                        {% endif %}
+                        {% endresponsive_image_block %}
+                    </div>
+                    <div class="info">
+                        <div class="title">
+                            <h3>{{keynote.title}}</h3>
+                        </div>
+                        <div class="name">
+                            <h4>{{keynote.speaker.name}}</h4>
+                        </div>
+                        <div class="position">
+                            <small>{{keynote.speaker.position}}</small>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+{% for keynote in site.data.featured_keynotes %}
+    <div class="modal fade" id="keynote{{forloop.index}}">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title">{{keynote.title}}</h4>
+                </div>
+                <div class="modal-body">
+                    <h3>Abstract</h3>
+                    {{keynote.description}}
+                    <h3>{{keynote.speaker.name}}</h3>
+                    <small>{{keynote.speaker.position}}</small> <br>
+                    {{keynote.speaker.bio}}
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
