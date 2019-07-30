@@ -2,7 +2,7 @@
 ---
 backend:
   name: github
-  repo: 96Boards/ai
+  repo: linaro/connect
   branch: {{site.branch}}
   accept_roles:
     - admin
@@ -10,53 +10,35 @@ backend:
 publish_mode: editorial_workflow
 media_folder: "assets/images"
 collections:
-  - name: "products"
-    label: "Products"
-    folder: "_products"
+  - label: "Pages"
+    name: "pages"
+    folder: "_pages"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Short description", name: "short-dec", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - label: "Jumbotron"
+        name: "jumbotron"
+        widget: "object"
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
+          - label: "Description"
+            name: "description"
+            widget: "text"
+          - label: "Carousel Images"
+            name: "carousel-images"
+            widget: "image"
+            media_library:
+              config:
+                multiple: true
+      - label: "Image"
+        name: "image"
+        widget: "object"
+        fields:
+          - label: "Image Path"
+            name: "path"
+            widget: "image"
+            default: "/assets/images/social-media-image.png"
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "pages"
-    label: "Pages"
-    files:
-      - label: "About"
-        name: "about"
-        file: "about/README.md"
-        fields:
-          - {label: Layout, name: layout, widget: string}
-          - {label: Title, name: title, widget: string}
-          - {label: Permalink, name: permalink, widget: string}
-          - {label: Body, name: body, widget: markdown}
-      - label: "Contact"
-        name: "contact"
-        file: "contact/README.md"
-        fields:
-          - {label: Layout, name: layout, widget: string}
-          - {label: Title, name: title, widget: string}
-          - {label: Permalink, name: permalink, widget: string}
-          - label: Jumbotron
-            name: jumbotron
-            widget: object
-            fields:
-              - {label: "Background image", name: background-image, widget: string}
-              - {label: Title, name: title, widget: string}
-          - {label: Body, name: body, widget: markdown}
-      - label: "Documentation"
-        name: "documentation"
-        file: "documentation/README.md"
-        fields:
-          - {label: Layout, name: layout, widget: string}
-          - {label: Title, name: title, widget: string}
-          - {label: Permalink, name: permalink, widget: string}
-          - {label: Body, name: body, widget: markdown}
-      - label: "Press"
-        name: "press"
-        file: "press/README.md"
-        fields:
-          - {label: Layout, name: layout, widget: string}
-          - {label: Title, name: title, widget: string}
-          - {label: Permalink, name: permalink, widget: string}
-          - {label: Body, name: body, widget: markdown}
