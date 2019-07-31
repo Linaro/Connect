@@ -9,7 +9,6 @@
       venue: Centara Grand at CentralWorld
       city: Bangkok
       country: Thailand
-  using_json: "True"
   flickr-albums:
       - title: Connect Album
         url: https://www.flickr.com/photos/linaroorg/albums/72157703164282862
@@ -34,7 +33,7 @@
 - id: HKG18
   placeholder: hkg18-thumb.jpg
   long-name: Linaro Connect Hong Kong 2018
-  flickr-albums: 
+  flickr-albums:
       - title: Connect Album
         url: https://www.flickr.com/photos/linaroorg/albums/72157664795733267
   start-date: 2018-03-19 09:00:00
@@ -45,7 +44,7 @@
 - id: SFO17
   long-name: Linaro Connect San Francisco 2017
   placeholder: sfo17-thumb.jpg
-  flickr-albums: 
+  flickr-albums:
       - title: Connect Album
         url: https://www.flickr.com/photos/linaroorg/albums/72157687039294924
   start-date: 2017-09-25 09:00:00
@@ -58,7 +57,7 @@
 - id: BUD17
   long-name: Linaro Connect Budapest 2017
   placeholder: bud17-thumb.jpg
-  flickr-albums: 
+  flickr-albums:
       - title: Connect Album
         url: https://www.flickr.com/photos/linaroorg/albums/72157678721082122
   start-date: 2017-03-06 09:00:00
@@ -73,7 +72,7 @@
   image: las16.jpg
   flickr-albums:
       - title: Linaro Connect LAS16
-        url: https://www.flickr.com/photos/linaroorg/albums/72157670966437214 
+        url: https://www.flickr.com/photos/linaroorg/albums/72157670966437214
       - title: Party Night LAS16
       - url: https://www.flickr.com/photos/linaroorg/albums/72157673342118822
   start-date: 2016-09-26 09:00:00
@@ -87,7 +86,7 @@
   long-name: Linaro Connect Bangkok 2016
   placeholder: bkk16-thumb.jpg
   image: bkk16.jpg
-  flickr-albums: 
+  flickr-albums:
       - title: Connect Album
         url: https://www.flickr.com/photos/linaroorg/albums/72157665519520505
   start-date: 2016-03-07 09:00:00
@@ -100,13 +99,13 @@
   long-name: Linaro Connect San Francisco 2015
   placeholder: sfo15-thumb.jpg
   image: sfo15.jpg
-  flickr-albums: 
+  flickr-albums:
       - title: Connect Album
         url: https://www.flickr.com/photos/linaroorg/albums/72157658413090325
   start-date: 2015-09-21 09:00:00
   end-date: 2015-09-25 09:00:00
   location:
-      venue: Hyatt Regency San Francisco Airport 
+      venue: Hyatt Regency San Francisco Airport
       city: Burlingame
       county: CA
       country: USA
@@ -114,7 +113,7 @@
   long-name: Linaro Connect Hong Kong 2015
   placeholder: hkg15-thumb.jpg
   image: hkg15.jpg
-  flickr-albums: 
+  flickr-albums:
       - title: Connect Album
         url: https://www.flickr.com/photos/linaroorg/albums/72157650196561027
   start-date: 2015-02-09 09:00:00
@@ -126,7 +125,7 @@
   long-name: Linaro Connect USA 2014
   placeholder: lcu14-thumb.jpg
   image: lcu14.jpg
-  flickr-albums: 
+  flickr-albums:
       - title: Connect Album
         url: https://www.flickr.com/photos/linaroorg/albums/72157646453887528
   start-date: 2014-09-15 09:00:00
@@ -155,7 +154,7 @@
   placeholder: lce13-thumb.jpg
   image: lce13.jpg
   flickr-albums:
-      - title: Connect Album 
+      - title: Connect Album
         url: https://www.flickr.com/photos/linaroorg/albums/72157634563467554
   start-date: 2013-07-08 09:00:00
   end-date: 2013-07-12 09:00:00
@@ -167,8 +166,8 @@
   long-name: Linaro Connect Asia 2013
   placeholder: lca13-thumb.jpg
   image: lca13.jpg
-  flickr-albums: 
-      - title: Connect Album 
+  flickr-albums:
+      - title: Connect Album
         url: https://www.flickr.com/photos/linaroorg/albums/72157632907776675
   start-date: 2013-03-04 09:00:00
   end-date: 2013-03-08 09:00:00
@@ -179,7 +178,7 @@
   long-name: Linaro Connect USA 2013
   placeholder: lcu13-thumb.jpg
   image: lcu13.jpg
-  flickr-albums: 
+  flickr-albums:
       - title: Linaro Connect USA 2013
         url: https://www.flickr.com/photos/linaroorg/albums/72157636689919306
       - title: LCU13 Crazy Shirt Contest
