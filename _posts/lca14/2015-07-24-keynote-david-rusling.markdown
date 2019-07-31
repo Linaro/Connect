@@ -16,7 +16,6 @@ excerpt: "David always enjoyed mathematics, but America's space program together
 featured_image_name: LCA14-500K1.jpg
 image:
   featured: true
-  name: LCA14-500K1.jpg
   path: /assets/images/featured-images/LCA14-500K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lca14/keynote-david-rusling/

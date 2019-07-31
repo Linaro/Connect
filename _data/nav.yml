@@ -3,11 +3,11 @@ search:
     enabled: true
     label: Connect
 # Universal Nav Bar Toggle
-universal-nav: true    
+universal-nav: true
 # Nav Brand Config
 brand:
     text: Linaro Connect
-    image: 
+    image:
         enabled: true
         name: connect-logo-horizontal.html
         svg: true
@@ -21,6 +21,8 @@ pages:
       options:
           - text: Register
             url: /register/
+          - text: View Schedule
+            url: /schedule/
           - text: Call for Proposals
             url: /cfp/
           - text: Accommodation
@@ -47,4 +49,3 @@ pages:
             url: /resources/sfo17/
           - text: Budapest 2017
             url: /resources/bud17/
-
