@@ -5,7 +5,6 @@ comments: false
 date: '2019-04-18 09:00:00+00:00'
 image:
   featured: true
-  name: opc-ua-over-xdp-sockets-for-tsn-cover-image.png
   path: /assets/images/featured-images/opc-ua-over-xdp-sockets-for-tsn-cover-image.png
 layout: resource-post-demo-interview
 session_track: Demo
