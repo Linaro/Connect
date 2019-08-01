@@ -26,7 +26,6 @@
       venue: Hyatt Regency Vancouver
       city: Vancouver
       country: Canada
-  using_json: "True"
   flickr-albums:
       - title: Connect Album
         url: https://www.flickr.com/photos/linaroorg/albums/72157695573962940
