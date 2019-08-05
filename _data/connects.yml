@@ -1,3 +1,18 @@
+- id: SAN19
+  placeholder: san19-banner.jpg
+  featured_images:
+    - /assets/images/content/san19-banner.jpg
+  long-name: Linaro Connect San Diego 2019
+  start-date: 2019-09-23 09:00:00
+  end-date: 2019-09-27 09:00:00
+  location:
+      venue: Paradise Point Resort and Spa
+      county: CA
+      city: San Diego
+      country: USA
+  flickr-albums:
+      - title: Connect Album
+        url: https://www.flickr.com/photos/linaroorg/albums/72157710107995052
 - id: BKK19
   placeholder: bkk19-group-photo.jpg
   featured_images:
