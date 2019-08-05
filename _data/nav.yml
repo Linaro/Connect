@@ -39,6 +39,8 @@ pages:
       options:
           - text: All Resources
             url: /resources/
+          - text: San Diego 2019
+            url: /resources/san19/
           - text: Bangkok 2019
             url: /resources/bkk19/
           - text: Vancouver 2018
@@ -47,5 +49,3 @@ pages:
             url: /resources/hkg18/
           - text: San Francisco 2017
             url: /resources/sfo17/
-          - text: Budapest 2017
-            url: /resources/bud17/
