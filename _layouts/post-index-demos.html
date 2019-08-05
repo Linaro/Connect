@@ -9,6 +9,7 @@ js-package: resources-blog
 {% for connect in site.data.connects %}
     {% if connect.id == current_connect and connect.using_json == "True" %}
         {% assign using_json = "True" %}
+        {% assign end_date = connect.end-date | date: '%B %d, %Y' %}
     {% endif %}
 {% endfor %}
 <div class="col-md-9 no-padding" id="main-resources-content" event-id="{{current_connect}}">
@@ -69,11 +70,11 @@ js-package: resources-blog
     {% else %}
         <div class="col-xs-12">
             <p>
-                There are no demos currently available/scheduled. Please check back after Connect has ended (April 5th 2019)
+                There are no demos currently available/scheduled. Please check back after Connect has ended ({{end_date}})
                 for more resources; or subscribe to our <a href="https://www.youtube.com/user/LinaroOrg/videos">YouTube Channel</a>
                 to receive updates
                 when we release the Connect resources.
-            </p>    
+            </p>
         </div>
     {% endif %}
     </div>
