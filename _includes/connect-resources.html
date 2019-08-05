@@ -117,7 +117,15 @@
     {% if page.session_speakers %}
     <h2>Session Speakers</h2>
         {% for speaker in page.session_speakers %}
-            <h3>{{speaker.speaker_name}}</h3> {% if speaker.speaker_url != '' %}<a href="{{speaker.speaker_url}}">View website <span class="fa fa-globe"></span></a>{% endif %}
+            <h3>{{speaker.speaker_name}}</h3>
+            {% if speaker.speaker_url != '' %}
+                {% if speaker.speaker_url contains 'http' %}
+                    {% assign speaker_url = speaker.speaker_url %}
+                {% else %}
+                    {% assign speaker_url = "https://" | append: speaker.speaker_url %}
+                {% endif %}
+                <a href="{{speaker_url}}">View website <span class="fa fa-globe"></span></a>
+            {% endif %}
             <h4>{{speaker.speaker_position}} {% if speaker.speaker_company != '' %}({{speaker.speaker_company}}){% endif %}</h4>
             <p>
                 {{speaker.speaker_bio}}
