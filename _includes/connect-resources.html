@@ -118,7 +118,8 @@
     <h2>Session Speakers</h2>
         {% for speaker in page.session_speakers %}
             <h3>{{speaker.speaker_name}}</h3>
-            {% if speaker.speaker_url != '' %}
+            {% assign speaker_url_size = speaker.speaker_url | size %}
+            {% if speaker.speaker_url != '' and speaker_url_size > 1 %}
                 {% if speaker.speaker_url contains 'http' %}
                     {% assign speaker_url = speaker.speaker_url %}
                 {% else %}
