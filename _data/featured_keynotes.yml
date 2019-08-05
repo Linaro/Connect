@@ -1,3 +1,15 @@
+- title: The Upstream Bubble
+  description: >
+    SOC vendors are often regarded as not being good opensource citizens. They tend to work downstream with upstream being an afterthought -- if it's even being thought of at all.  This is contrary to opensource community practices and can cause friction when engineers operating in these different modes try to interact.  There are often good reasons, and sometimes not-so-good reasons, for this type of behavior.  In this talk I will attempt to give more insight into why SOC vendors are downstream-focused, what types of issues motivate this behavior, and how we can better bridge these ecosystems to "pop the bubble".
+  company: Senior Director at Qualcomm
+  track: Open Source Development
+  speaker:
+    name: Bryan Huntsman
+    image: /assets/images/speakers/keynotes/san19/BryanHuntsman.jpg
+    position: Senior Director at Qualcomm
+    bio: >
+      Bryan Huntsman is a Senior Director at the Qualcomm Innovation Center and is responsible for Linux Kernel development on Qualcomm Snapdragon processors for mobile and IoT markets. Over the past nine years, he has set up a team of engineers and engineering processes that contributed to the launch of over a billion Android devices. Prior to joining Qualcomm, Bryan spent 10 years in the telecommunications industry working as a SW/FW developer for embedded, real-time systems. Bryan has a B.S in Computer Engineering from the University of Florida.
+    company_webite: https://www.qualcomm.com/
 - title: Big Data on ARM in practice with ThunderX
   description: >
     The University of Michigan(U-M), in partnership with Marvell, has built a Data Analytics cluster with ThunderX processors based on the Hadoop and Spark family of tools. We present information on the deployment and use of the cluster, which uses software packaged by the Linaro Big Data teams. We also present feedback to the Big Data on ARM community and future plans for development for Big Data on ARM at U-M as well.
@@ -16,7 +28,25 @@
     company_webite: http://arc-ts.umich.edu/
 - title: AI on Arm flagship Supercomputer Fugaku
   description: >
-    AI on Arm flagship Supercomputer Fugaku
+    Fugaku is the flagship next generation national supercomputer being
+    developed by Riken R-CCS and Fujitsu in collaboration. Fugaku will have
+    hyperscale datacenter class resource in a single exascale machine, with more
+    than 150,000 nodes of sever-class Fujitsu A64fx many-core Arm CPUs with
+    the new SVE (Scalable Vector Extension) with low precision math for the
+    first time in the world, accelerating both HPC and AI workloads,
+    augmented with HBM2 memory paired with each CPU, exhibiting nearly a
+    Terabyte/s memory bandwidth for both HPC and AI rapid data movements.
+    A64fx has demonstrated up to 8 times the performance of mainstream
+    "Platinum" server processors for HPC workloads, and this game-changing
+    performance has been realized through
+    extensive co-design process involving the entire Japanese HPC community
+    resulting in a highly HPC-optimzed CPU architecture.
+    Fugaku also will likely to be the premier big data and AI/ML
+    infrastructure; currently, we are conducting research to scale deep
+    learning to more than 100,000 nodes on Fugaku, where we expect to obtain
+    near top GPU-class performance on each node. The talk will give an
+    overview of A64fx/Fugaku as well as cover some of the software ecosystem
+    efforts to enable high-end HPC / BD / AI.
   company: Riken
   track: HPC
   speaker:
