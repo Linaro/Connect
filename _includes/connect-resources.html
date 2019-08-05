@@ -107,3 +107,21 @@
         </div>
     {% endif %}
 </div>
+<div class="col-xs-12">
+    {% if page.description %}
+    <h3>Session Abstract</h3>
+    <p>
+        {{page.description}}
+    </p>
+    {% endif %}
+    {% if page.session_speakers %}
+    <h2>Session Speakers</h2>
+        {% for speaker in page.session_speakers %}
+            <h3>{{speaker.speaker_name}}</h3>
+            <small>{{speaker.speaker_position}} {% if speaker.speaker_company %}({{speaker.speaker_company}}){% endif %}</small>
+            <p>
+                {{speaker.speaker_bio}}
+            </p>
+        {% endfor %}
+    {% endif %}
+</div>
