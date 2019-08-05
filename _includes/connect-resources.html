@@ -118,7 +118,7 @@
     <h2>Session Speakers</h2>
         {% for speaker in page.session_speakers %}
             <h3>{{speaker.speaker_name}}</h3>
-            <small>{{speaker.speaker_position}} {% if speaker.speaker_company %}({{speaker.speaker_company}}){% endif %}</small>
+            <h4>{{speaker.speaker_position}} {% if speaker.speaker_company != '' %}({{speaker.speaker_company}}){% endif %}</h4>
             <p>
                 {{speaker.speaker_bio}}
             </p>
