@@ -82,7 +82,7 @@ a.connect-map-location.btn.btn-primary:hover {
 }
 .resource-block {
   overflow: visible !important;
-  background-color: #252525;
+  background-color: #fff;
   overflow: auto;
   margin-left: 5px;
   border: 1px solid #000;
@@ -101,8 +101,8 @@ div#all-resources {
   margin-bottom: 0px;
 }
 .resource-title.col-xs-12.no-padding {
-    margin-bottom: 18px;
-    border-bottom: 1px solid black;
+    top: -1px;
+    height: auto;
 }
 
 .resource-block{
@@ -125,15 +125,14 @@ span.speaker {
     color: white;
     display:inline-block;
     border: 1px solid #181818;
+    margin-top: 5px;
 }
 .resource-details span {
     padding: 5px;
     display: block;
     color: #7d7d7d;
 }
-.resource-title.col-xs-12.no-padding {
-    height: 85px;
-}
+
 div#main-resources-content .col-md-4.col-sm-4.col-xs-12.no-padding {
     display: flex;
     flex-wrap: wrap;
