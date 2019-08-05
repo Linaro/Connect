@@ -117,7 +117,7 @@
     {% if page.session_speakers %}
     <h2>Session Speakers</h2>
         {% for speaker in page.session_speakers %}
-            <h3>{{speaker.speaker_name}}</h3>
+            <h3>{{speaker.speaker_name}}</h3> {% if speaker.speaker_url != '' %}<a href="{{speaker.speaker_url}}"><span class="fa fa-globe"></span></a>{% endif %}
             <h4>{{speaker.speaker_position}} {% if speaker.speaker_company != '' %}({{speaker.speaker_company}}){% endif %}</h4>
             <p>
                 {{speaker.speaker_bio}}
