@@ -23,7 +23,7 @@ flow:
     - row: container_row
       sections:
         - format: feature_block
-          feature_block_contnet:
+          feature_block_content:
             position: left
             type: slider
             slider_content:
