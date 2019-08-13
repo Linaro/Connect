@@ -31,17 +31,18 @@ flow:
       background_image: /assets/images/content/san19-theme-banner.jpg
       sections:
         - format: title
-          size: h2
-          content: Linaro Connect San Diego 2019
+          title_content:
+            size: h2
+            text: Linaro Connect San Diego 2019
         - format: text
           style: text-center text-white
-          content: >
-            Linaro Connect San Diego will be held from 23-27 September 2019. Registration is now open!
+          text_content:
+            text: Linaro Connect San Diego will be held from 23-27 September 2019. Registration is now open!
         - format: custom
           include_name: keynotes.html
         - format: buttons
           style: text-center
-          content:
+          buttons_content:
               - title: View Schedule
                 url: /schedule/
                 icon: fa fa-calendar
@@ -53,12 +54,14 @@ flow:
     - row: container_row
       sections:
         - format: title
-          size: h2
-          content: SAN19 Sponsors
+          title_content:
+            size: h2
+            text: SAN19 Sponsors
         - format: members
           style: zoom
-          item_width: 3
-          content:
+          members_content:
+            item_width: 3
+            items:
               - name: Arm
                 image:
                     path: /assets/images/sponsors/arm.jpg
@@ -84,58 +87,54 @@ flow:
       sections:
         - format: feature_block
         #   style: text-center text-white
-          content:
-            side_content:
-                position: left
-                # type: image
-                # type: video
-                # type: slider
-                type: slider
-                content:
-                    lightbox_enabled: true
-                    seconds_per_slide: 5
-                    nav: true
-                    dots: false
-                    xs_items: 1
-                    sm_items: 1
-                    md_items: 1
-                    lg_items: 1
-                    items:
-                        - image: /assets/images/content/bkk19-sponsor-table.jpg
-                          title: Sponsor table at Linaro Connect Bangkok 2019
-                        - image: /assets/images/content/bkk19-registration-desk.jpg
-                          title: Registration desk at Linaro Connect Bangkok 2019
-                        - image: /assets/images/content/bkk19-packet-sponsored-food.jpg
-                          title: Packet branded macaron's at Linaro Connect Bangkok 2019
-                        - image: /assets/images/content/bkk19-li-gong-keynote-linaro-matters.jpg
-                          title: >-
-                            Linaro CEO, Li Gong, presenting the opening keynote at Linaro Connect
-                            Bangkok 2019
-                        - image: /assets/images/content/bkk19-li-gong-keynote.jpg
-                          title: >-
-                            Linaro CEO, Li Gong, presenting the opening keynote at Linaro Connect
-                            Bangkok 2019
-                        - image: /assets/images/content/bkk19-jacob-smith-packet-keynote.jpg
-                          title: >-
-                            Jacob Smith from Packet presenting his keynote at Linaro Connect Bangkok 2019
-                        - image: /assets/images/content/bkk19-google-keynote.jpg
-                          title: Google's keynote at Linaro Connect Bangkok 2019
-                        - image: /assets/images/content/bkk19-demo-friday.jpg
-                          title: Demo Friday hacking at Linaro Connect Bangkok 2019
-                        - image: /assets/images/content/bkk19-chris-royston-arm-developer-talk.jpg
-                          title: >-
-                            Chris Royston from Arm talking about the new revision of developer.arm.com
-                            at Linaro Connect Bangkok 2019
-                        - image: /assets/images/content/bkk19-bosch-keynote-2.jpg
-                          title: >-
-                            Dirk Slama from Bosch presenting his keynote at Linaro Connect Bangkok 2019
-                        - image: /assets/images/content/bkk19-bosch-keynote.jpg
-                          title: >-
-                            Dirk Slama from Bosch presenting his keynote at Linaro Connect Bangkok 2019
-                        - image: /assets/images/content/bkk19-backpack-giveaway.jpg
-                          title: RedHat's giveaway at Linaro Connect Bangkok 2019.
-                        - image: /assets/images/content/bkk19-ai-demo.jpg
-                          title: Object recognition at Linaro Connect Bangkok 2019
+          feature_block_content:
+            position: left
+            type: slider
+            slider_content:
+                lightbox_enabled: true
+                seconds_per_slide: 5
+                nav: true
+                dots: false
+                xs_items: 1
+                sm_items: 1
+                md_items: 1
+                lg_items: 1
+                items:
+                    - image: /assets/images/content/bkk19-sponsor-table.jpg
+                      title: Sponsor table at Linaro Connect Bangkok 2019
+                    - image: /assets/images/content/bkk19-registration-desk.jpg
+                      title: Registration desk at Linaro Connect Bangkok 2019
+                    - image: /assets/images/content/bkk19-packet-sponsored-food.jpg
+                      title: Packet branded macaron's at Linaro Connect Bangkok 2019
+                    - image: /assets/images/content/bkk19-li-gong-keynote-linaro-matters.jpg
+                      title: >-
+                        Linaro CEO, Li Gong, presenting the opening keynote at Linaro Connect
+                        Bangkok 2019
+                    - image: /assets/images/content/bkk19-li-gong-keynote.jpg
+                      title: >-
+                        Linaro CEO, Li Gong, presenting the opening keynote at Linaro Connect
+                        Bangkok 2019
+                    - image: /assets/images/content/bkk19-jacob-smith-packet-keynote.jpg
+                      title: >-
+                        Jacob Smith from Packet presenting his keynote at Linaro Connect Bangkok 2019
+                    - image: /assets/images/content/bkk19-google-keynote.jpg
+                      title: Google's keynote at Linaro Connect Bangkok 2019
+                    - image: /assets/images/content/bkk19-demo-friday.jpg
+                      title: Demo Friday hacking at Linaro Connect Bangkok 2019
+                    - image: /assets/images/content/bkk19-chris-royston-arm-developer-talk.jpg
+                      title: >-
+                        Chris Royston from Arm talking about the new revision of developer.arm.com
+                        at Linaro Connect Bangkok 2019
+                    - image: /assets/images/content/bkk19-bosch-keynote-2.jpg
+                      title: >-
+                        Dirk Slama from Bosch presenting his keynote at Linaro Connect Bangkok 2019
+                    - image: /assets/images/content/bkk19-bosch-keynote.jpg
+                      title: >-
+                        Dirk Slama from Bosch presenting his keynote at Linaro Connect Bangkok 2019
+                    - image: /assets/images/content/bkk19-backpack-giveaway.jpg
+                      title: RedHat's giveaway at Linaro Connect Bangkok 2019.
+                    - image: /assets/images/content/bkk19-ai-demo.jpg
+                      title: Object recognition at Linaro Connect Bangkok 2019
             title: About Linaro Connect
             text: page_content
             text: >
@@ -146,11 +145,10 @@ flow:
                   class: btn-primary
                   icon: fa fa-arrow-right
         - format: feature_block
-          content:
-            side_content:
-                position: right
-                type: image
-                content: /assets/images/content/sponsor-cloud-image.png
+          feature_block_content:
+            position: right
+            type: image
+            image_content_path: /assets/images/content/sponsor-cloud-image.png
             title: Sponsor Linaro Connect
             text: page_content
             text: >
@@ -169,20 +167,21 @@ flow:
     #   background_image: /assets/images/content/bkk19-group-photo.jpg
       sections:
         - format: title
-          size: h2
-          content: Linaro Connect Resources
+          title_content:
+            size: h2
+            text: Linaro Connect Resources
         - format: block
           style: text-center text-white
-          item_width: 4
-          content:
+          block_section_content:
+            item_width: 4
+            blocks:
               - title:
                     size: h3
-                    content: BKK19 Photos
+                    text: BKK19 Photos
                 url: https://www.flickr.com/photos/linaroorg/sets/72157695573962940
                 background_image: /assets/images/content/bkk19-li-gong-keynote-linaro-matters.jpg
-                text:
-                    content: >
-                        View gallery of photos taken at BKK19 on Flickr.
+                text_content:
+                    text: View gallery of photos taken at BKK19 on Flickr.
                 buttons:
                     - title: View on Flickr
                       url: https://www.flickr.com/photos/linaroorg/sets/72157695573962940
@@ -190,12 +189,11 @@ flow:
                       class: btn-primary
               - title:
                     size: h3
-                    content: BKK19 Resources
+                    text: BKK19 Resources
                 url: /resources/bkk19/
                 background_image: /assets/images/content/bkk19-group-photo.jpg
-                text:
-                    content: >
-                        Each Connect 100+ educational resources are made available to the public. See the resources from BKK19.
+                text_content:
+                    text: Each Connect 100+ educational resources are made available to the public. See the resources from BKK19.
                 buttons:
                     - title: View BKK19 Resources
                       url: /resources/bkk19/
@@ -203,12 +201,11 @@ flow:
                       class: btn-primary
               - title:
                     size: h3
-                    content: View all resources
+                    text: View all resources
                 url: /resources/
                 background_image: /assets/images/content/bkk19-demo-friday.jpg
-                text:
-                    content: >
-                        View all of the Connect resources from the previous Linaro Connect events.
+                text_content:
+                    text: View all of the Connect resources from the previous Linaro Connect events.
                 buttons:
                     - title: View all resources
                       url: /resources/
