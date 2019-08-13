@@ -177,12 +177,11 @@ flow:
             blocks:
               - title:
                     size: h3
-                    content: BKK19 Photos
+                    text: BKK19 Photos
                 url: https://www.flickr.com/photos/linaroorg/sets/72157695573962940
                 background_image: /assets/images/content/bkk19-li-gong-keynote-linaro-matters.jpg
-                text:
-                    content: >
-                        View gallery of photos taken at BKK19 on Flickr.
+                text_content:
+                    text: View gallery of photos taken at BKK19 on Flickr.
                 buttons:
                     - title: View on Flickr
                       url: https://www.flickr.com/photos/linaroorg/sets/72157695573962940
@@ -190,12 +189,11 @@ flow:
                       class: btn-primary
               - title:
                     size: h3
-                    content: BKK19 Resources
+                    text: BKK19 Resources
                 url: /resources/bkk19/
                 background_image: /assets/images/content/bkk19-group-photo.jpg
-                text:
-                    content: >
-                        Each Connect 100+ educational resources are made available to the public. See the resources from BKK19.
+                text_content:
+                    text: Each Connect 100+ educational resources are made available to the public. See the resources from BKK19.
                 buttons:
                     - title: View BKK19 Resources
                       url: /resources/bkk19/
@@ -203,12 +201,11 @@ flow:
                       class: btn-primary
               - title:
                     size: h3
-                    content: View all resources
+                    text: View all resources
                 url: /resources/
                 background_image: /assets/images/content/bkk19-demo-friday.jpg
-                text:
-                    content: >
-                        View all of the Connect resources from the previous Linaro Connect events.
+                text_content:
+                    text: View all of the Connect resources from the previous Linaro Connect events.
                 buttons:
                     - title: View all resources
                       url: /resources/
