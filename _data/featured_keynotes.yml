@@ -1,8 +1,6 @@
 - title: "Securing the Billions of Devices Around Us "
   description: >
-    "
     The next decade promises the democratization of connectivity to every device. Significant drops in the cost of connectivity mean that every form of electrical device—every child’s toy, every household’s appliances, and every sensor—will become connected to the Internet. Tens of billions of these devices are controlled by microcontrollers, a class of device particularly ill-prepared for the security challenges of internet connectivity.  What is required to secure these billions of devices?  Microsoft defines 7 properties that define the minimum standard for any device connecting to the internet and in this talk we’ll dive into each as we make the case for a better standard for security and connectivity.
-    "
   company: Partner Director of Engineering at Microsoft Azure Sphere
   track: IoT
   speaker:
