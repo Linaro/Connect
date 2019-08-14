@@ -7,6 +7,7 @@ description: >-
 permalink: /about/
 js-package: about
 css-package: about
+layout: flow
 jumbotron:
   carousel-images:
     - /assets/images/content/bkk19-group-photo.jpg
