@@ -358,7 +358,7 @@ collections:
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Custom JS Package", name: "js-package", widget: "string", required: false}
       - {label: "Custom CSS Package", name: "css-package", widget: "string", required: false}
-      # - {label: "Layout", name: "layout", widget: "select", options: ["jumbotron-container", "flow", "default", "jumbotron"], required: false}
+      - {label: "Layout", name: "layout", widget: "select", options: ["jumbotron-container", "flow", "default", "jumbotron"], required: true}
       - label: "Jumbotron"
         name: "jumbotron"
         widget: "object"
