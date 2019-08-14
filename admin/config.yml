@@ -369,6 +369,10 @@ collections:
             name: "title"
             required: false
             widget: "string"
+          - label: "Triangle Divider"
+            name: "triangle-divider"
+            required: false
+            widget: "boolean"
           - label: "Description"
             name: "description"
             widget: "text"
