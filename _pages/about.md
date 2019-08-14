@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: /about/
-layout: flow
+layout: "flow"
 js-package: about
 css-package: about
 jumbotron:
