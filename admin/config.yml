@@ -10,29 +10,12 @@ logo_url: https://www.linaro.org/assets/images/content/Linaro-Logo.svg
 site_url: /
 display_url: /
 show_preview_links: false
-# slug:
-#   encoding: "ascii"
-#   clean_accents: true
-#   sanitize_replacement: "_"
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
 media_folder: "assets/images/content"
 collections:
-  # - label: Tags
-  #   name: tags
-  #   files:
-  #     - label: Post Tags
-  #       name: post_tags
-  #       file: "_data/tags.yml"
-  #       fields:
-  #         - label: "Items"
-  #           name: "items"
-  #           widget: list
-  #           fields:
-  #             - label: "Tag Name"
-  #               name: name
-  #               widget: string
-  #             - label: "Tag SLug"
-  #               name: slug
-  #               widget: string
   # Website Settings
   # This section allows you to make changes to the nav, footer and other misc website settings.
   - name: "config"
@@ -373,6 +356,8 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "Custom JS Package", name: "js-package", widget: "string", required: false}
+      - {label: "Custom CSS Package", name: "css-package", widget: "string", required: false}
       # - {label: "Layout", name: "layout", widget: "select", options: ["jumbotron-container", "flow", "default", "jumbotron"], required: false}
       - label: "Jumbotron"
         name: "jumbotron"
@@ -655,4 +640,4 @@ collections:
             name: "alt"
             widget: "string"
             required: false
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
