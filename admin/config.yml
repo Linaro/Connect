@@ -286,68 +286,6 @@ collections:
                   fields:
                     - {label: Name, name: text, widget: string}
                     - {label: Link, name: url, widget: string}
-  # Posts Config
-  - name: 'blog'
-    label: 'Posts'
-    folder: '_posts'
-    create: true
-    sort: "date:desc" # Default is title:asc
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime', format: "YYYY-MM-DD hh:mm:ss"}
-      - label: "Image"
-        name: image
-        widget: object
-        required: true
-        fields:
-          - label: "Image Path"
-            name: "path"
-            widget: image
-            required: true
-          - label: "Image Alt"
-            name: "alt"
-            widget: string
-            required: false
-      - label: "Tags"
-        name: tags
-        widget: list
-        allow_add: true
-        hint: "List your tags"
-      - label: "Category"
-        name: category
-        widget: string
-        hint: "Your post category - limited to one category - multiple tags can be added however"
-      - {
-          label: 'Author',
-          name: 'author',
-          widget: 'relation',
-          collection: 'authors',
-          displayFields: [name],
-          searchFields: [name],
-          valueField: 'username'
-        }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'authors'
-    label: 'Authors'
-    folder: '_authors/'
-    create: true
-    editor:
-      preview: false
-    fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'author' }
-      - { label: 'Name', name: 'name', widget: 'string'}
-      - { label: 'First Name', name: 'first_name', widget: 'string' }
-      - { label: 'Last Name', name: 'last_name', widget: 'string' }
-      - { label: 'Username', name: 'username', widget: 'string' }
-      - label: 'Image'
-        name: 'image_path'
-        widget: 'image'
-        required: false
-      - { label: 'Body', name: 'body', widget: 'markdown' }
   # Pages Config
   - label: "Pages"
     name: "pages"
@@ -467,8 +405,10 @@ collections:
                         required: false
                         hint: "Provide a background image for your block"
                       - label: "Block Text"
-                        name: text
-                        widget: text
+                        name: text_content
+                        widget: object
+                        field:
+                            - {label: "Text", name: text, widget: text}
                         required: false
                         hint: "Provide text content for your block"
                       - label: "Block Buttons"
