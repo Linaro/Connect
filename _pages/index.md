@@ -2,6 +2,7 @@
 layout: flow
 css-package: home
 js-package: home
+permalink: /
 title: Linaro Connect San Diego 2019 (SAN19)
 description: |-
     The next Connect will be held in San Diego California September 23-27, 2019. Registration will be announced in May 2019
