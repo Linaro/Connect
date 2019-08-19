@@ -18,6 +18,81 @@ media_folder: "assets/images/content"
 collections:
   # Website Settings
   # This section allows you to make changes to the nav, footer and other misc website settings.
+  - name: "Navbar"
+    label: "Navbar"
+    editor:
+      preview: false
+    files:
+      - label: "Navigation"
+        name: "navigation"
+        file: "_data/nav.yml"
+        fields:
+          - label: "Universal Navbar"
+            name: universal-nav
+            widget: boolean
+            required: false
+            default: true
+          - label: "Navigation Search"
+            name: "search"
+            widget: object
+            fields:
+                - {label: Enabled, name: enabled, widget: boolean, required: false, default: true}
+                - {label: Label, name: label, widget: string, required: false, default: "Connect"}
+          - label: "Navigation Brand"
+            name: "brand"
+            widget: object
+            fields:
+                - {label: Text, name: text, widget: string}
+                - label: Image
+                  name: image
+                  widget: object
+                  fields:
+                    - {label: Enabled, name: enabled, widget: boolean, default: true}
+                    - {label: Name, name: name, widget: string, default: true, required: false}
+                    - {label: SVG, name: svg, widget: boolean, default: true, required: false}
+                    - {label: Path, name: path, widget: image, default: true, required: false}
+                - {label: Url, name: url, widget: string, required: false, default: /}
+          - label: "Navigation Items"
+            name: "pages"
+            widget: "list"
+            fields:
+                - {label: Name, name: title, widget: string}
+                - {label: Link, name: url, widget: string, required: false}
+                - {label: Active Paths, name: active_paths, widget: string, required: false}
+                - label: Sub Options
+                  name: options
+                  required: false
+                  widget: 'list'
+                  fields:
+                    - {label: Name, name: text, widget: string}
+                    - {label: Link, name: url, widget: string}
+  - name: "featured_keynote_speakers"
+    label: "Featured Keynote Speakers (homepage)"
+    editor:
+      preview: false
+    files:
+      - label: "Keynotes"
+        name: "featured_keynotes"
+        file: "_data/featured_keynotes.yml"
+        fields:
+          - label: "Items"
+            name: "items"
+            widget: "list"
+            fields:
+                - {label: Title, name: title, widget: string, hint: "Title of the keynote session.", required: true}
+                - {label: Description, name: description, widget: text, required: true, hint: "The abstract for the session."}
+                - {label: Position/Company, name: company, widget: string, required: true, hint: "The speakers job title at company... e.g Senior Director at Qualcomm"}
+                - {label: Track, name: track, widget: string, required: true, hint: "The topic of the keynote e.g AI/ML, IoT etc"}
+                - label: Speaker Details
+                  name: speaker
+                  wid\get: object
+                  required: true
+                  fields:
+                    - {label: "Name", name: "name", widget: string, required: true}
+                    - {label: "Speaker Image", name: "image", widget: string, required: true}
+                    - {label: "Speaker Position", name: "position", widget: string, required: true, hint: "The speakers job title at company... e.g Senior Director at Qualcomm"}
+                    - {label: "Speaker Bio", name: "bio", widget: text, required: true, hint: "The speakers bio/profile text"}
+                    - {label: "Company Website", name: "company_website", widget: string, required: true}
   - name: "config"
     label: "Website Settings"
     editor:
@@ -172,9 +247,6 @@ collections:
         name: "universal_navbar"
         file: "_data/universal-nav.yml"
         fields:
-          - label: "Test field"
-            name: "test_field"
-            widget: "string"
           - label: "Navigation Items"
             name: "items"
             widget: "list"
@@ -587,3 +659,100 @@ collections:
             widget: "string"
             required: false
       - {label: "Body", name: "body", widget: "markdown", required: false}
+  - label: "SAN19 Posts"
+    name: "connect_resources"
+    folder: "_posts/san19/sessions"
+    editor:
+      preview: false
+    fields:
+      - {label: "Title", name: "title", widget: "string", hint: "The title of the session.", required: true}
+      - {label: "Categories", name: "categories", widget: "list", hidden: true, default: ["san19"]}
+      - {label: "Session Track", name: "session_track", widget: "string", required: true, hint: "The main session category i.e IoT, Keynote, AI/ML etc"}
+      - {label: "Description", name: "description", widget: "text", hint: "This is the abstract of the session and the meta description that search engines will use."}
+      - label: "Image"
+        name: "image"
+        widget: "object"
+        required: false
+        fields:
+          - {label: "Featured", name: featured, hidden: true, default: true}
+          - label: "Image Path"
+            name: "path"
+            widget: "image"
+            required: false
+            default: "/assets/images/social-media-image.png"
+          - label: "Image Alt"
+            name: "alt"
+            widget: "string"
+            required: false
+      - {label: "Session Attendee Number", name: "session_attendee_num", widget: number, required: false}
+      - {label: "Session ID", name: "session_id", widget: string, required: true, hint: "The unique ID of your session i.e SAN19-100K1"}
+      - {label: "Session Room", name: "session_room", widget: string, required: false, hint: "The room at the hotel that the session will take place in."}
+      - label: "Session Time"
+        name: "session_slot"
+        widget: object
+        required: false
+        hint: "The time slot for the session."
+        fields:
+          - {label: "Start Time", name: start_time, widget: datetime, format: "YYYY-MM-DD hh:mm:ss"}
+          - {label: "End Time", name: end_time, widget: datetime, format: "YYYY-MM-DD hh:mm:ss"}
+      - label: "Session Speakers"
+        name: session_speakers
+        widget: list
+        fields:
+          - {label: "Speaker Bio", name: speaker_bio, widget: text, required: false}
+          - {label: "Speaker Company", name: speaker_company, widget: string, required: false}
+          - {label: "Speaker Image", name: speaker_image, widget: string, required: false}
+          - {label: "Speaker Location", name: speaker_location, widget: string, required: false}
+          - {label: "Speaker Name", name: speaker_name, widget: string, required: false}
+          - {label: "Speaker Job Position", name: speaker_position, widget: string, required: false}
+          - {label: "Speaker Website", name: speaker_url, widget: string, required: false}
+          - {label: "Speaker Username", name: speaker_username, widget: string, required: false}
+  # Home Page Config
+  - label: "SAN19 Posts"
+    name: "connect_resources"
+    folder: "_posts/san19/sessions"
+    editor:
+      preview: false
+    fields:
+      - {label: "Title", name: "title", widget: "string", hint: "The title of the session.", required: true}
+      - {label: "Categories", name: "categories", widget: "list", hidden: true, default: ["san19"]}
+      - {label: "Session Track", name: "session_track", widget: "string", required: true, hint: "The main session category i.e IoT, Keynote, AI/ML etc"}
+      - {label: "Description", name: "description", widget: "text", hint: "This is the abstract of the session and the meta description that search engines will use."}
+      - label: "Image"
+        name: "image"
+        widget: "object"
+        required: false
+        fields:
+          - {label: "Featured", name: featured, hidden: true, default: true}
+          - label: "Image Path"
+            name: "path"
+            widget: "image"
+            required: false
+            default: "/assets/images/social-media-image.png"
+          - label: "Image Alt"
+            name: "alt"
+            widget: "string"
+            required: false
+      - {label: "Session Attendee Number", name: "session_attendee_num", widget: number, required: false}
+      - {label: "Session ID", name: "session_id", widget: string, required: true, hint: "The unique ID of your session i.e SAN19-100K1"}
+      - {label: "Session Room", name: "session_room", widget: string, required: false, hint: "The room at the hotel that the session will take place in."}
+      - label: "Session Time"
+        name: "session_slot"
+        widget: object
+        required: false
+        hint: "The time slot for the session."
+        fields:
+          - {label: "Start Time", name: start_time, widget: datetime, format: "YYYY-MM-DD hh:mm:ss"}
+          - {label: "End Time", name: end_time, widget: datetime, format: "YYYY-MM-DD hh:mm:ss"}
+      - label: "Session Speakers"
+        name: session_speakers
+        widget: list
+        fields:
+          - {label: "Speaker Bio", name: speaker_bio, widget: text, required: false}
+          - {label: "Speaker Company", name: speaker_company, widget: string, required: false}
+          - {label: "Speaker Image", name: speaker_image, widget: string, required: false}
+          - {label: "Speaker Location", name: speaker_location, widget: string, required: false}
+          - {label: "Speaker Name", name: speaker_name, widget: string, required: false}
+          - {label: "Speaker Job Position", name: speaker_position, widget: string, required: false}
+          - {label: "Speaker Website", name: speaker_url, widget: string, required: false}
+          - {label: "Speaker Username", name: speaker_username, widget: string, required: false}
