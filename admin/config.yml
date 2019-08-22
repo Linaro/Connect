@@ -81,7 +81,11 @@ collections:
             fields:
                 - {label: Title, name: title, widget: string, hint: "Title of the keynote session.", required: true}
                 - {label: Description, name: description, widget: text, required: true, hint: "The abstract for the session."}
-                - {label: Position/Company, name: company, widget: string, required: true, hint: "The speakers job title at company... e.g Senior Director at Qualcomm"}
+                - {label: Keynote Date, name: date, widget: datetime, format: "YYYY-MM-DD hh:mm:ss", required: true, hint: "The date/time of the keynote."}
+                - {label: Keynote Date, name: date, widget: datetime, format: "YYYY-MM-DD hh:mm:ss", required: true, hint: "The date/time of the keynote."}
+                - {label: Sched Session Link, name: sched_link, widget: string, required: true, hint: "The link to the sched.com session"}
+                - {label: Day, name: day, widget: string, required: true, hint: "The day of the keynote i.e Monday, Tuesday, Wednesday etc"}
+                - {label: Time Slot, name: time, widget: string, required: true, hint: "The time slot for the keynote i.e 10:00am - 10:30am"}
                 - {label: Track, name: track, widget: string, required: true, hint: "The topic of the keynote e.g AI/ML, IoT etc"}
                 - label: Speaker Details
                   name: speaker
