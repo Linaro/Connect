@@ -6,6 +6,10 @@ js-package: sponsor
 css-package: sponsor
 layout: flow
 jumbotron:
+  buttons:
+    - class: fa fa-download
+      title: Download Prospectus
+      url: 'https://linaro.co/LinaroConnectSponsorshipProspectus'
   carousel-images:
     - /assets/images/content/hkg18-sponsor-bg-1.jpg
     - /assets/images/content/yvr18-sponsor-bg-1.jpg
