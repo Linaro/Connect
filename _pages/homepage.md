@@ -137,7 +137,6 @@ flow:
                     - image: /assets/images/content/bkk19-ai-demo.jpg
                       title: Object recognition at Linaro Connect Bangkok 2019
             title: About Linaro Connect
-            text: page_content
             text: >
                 Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. The next Connect will be held in San Diego California September 23-27, 2019. Registration is now open!
             buttons:
@@ -151,7 +150,6 @@ flow:
             type: image
             image_content_path: /assets/images/content/sponsor-cloud-image.png
             title: Sponsor Linaro Connect
-            text: page_content
             text: >
                 Linaro Connect San Diego 2019 will be the 26th Connect since Linaro started in June 2010. Hundreds of the world’s best Linux on Arm developers come to Linaro Connect each time because they know it is the leading place to meet with the global community and to learn about what is going on in the industry. Sponsorship of the event puts your brand in front of all the event attendees – both the 400+ on-site and all those who participate remotely, as well as the thousands who view the website and social media before, during and after the event.
             buttons:
