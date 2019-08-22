@@ -39,8 +39,8 @@ flow:
           style: text-center text-white
           text_content:
             text: Linaro Connect San Diego will be held from 23-27 September 2019. Registration is now open!
-        - format: custom
-          include_name: keynotes.html
+        - format: custom_include
+          source: keynotes.html
         - format: buttons
           style: text-center
           buttons_content:
