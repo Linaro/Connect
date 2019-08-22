@@ -495,7 +495,7 @@ collections:
                         - {label: "Button Title", name: "title", widget: string, required: false}
                         - {label: "Button URL", name: "url", widget: string, required: false}
                         - {label: "Button Icon", name: "icon", required: false, widget: string, hint: "Format is fa fa-icon-name - see fontawesome 4.7 icons"}
-                        - {label: "Button Style", name: "style", widget: string, required: false, hint: "btn-primary, btn-secondary, btn-danger, btn-warning"}
+                        - {label: "Button Style", name: "class", widget: string, required: false, hint: "btn-primary, btn-secondary, btn-danger, btn-warning"}
               - label: "Feature Block Section Content"
                 name: "feature_block_content"
                 widget: object
@@ -508,6 +508,16 @@ collections:
                     options: ['left','right']
                     required: false
                     hint: "Align your feature block media content to the left or the right."
+                  - label: Text
+                    name: "text"
+                    widget: text
+                    required: false
+                    hint: "Text content for your feature block"
+                  - label: Title
+                    name: "title"
+                    widget: string
+                    required: false
+                    hint: "The title for your feature block"
                   - label: Type
                     name: "type"
                     widget: select
@@ -524,6 +534,16 @@ collections:
                     widget: string
                     hint: "Select the youtube video url for your video feature block"
                     required: false
+                  - label: "Feature block buttons"
+                    name: buttons
+                    widget: list
+                    required: false
+                    identifier_field: url
+                    fields:
+                    - {label: "Button Title", name: "title", widget: string, required: false}
+                    - {label: "Button URL", name: "url", widget: string, required: false}
+                    - {label: "Button Icon", name: "icon", required: false, widget: string, hint: "Format is fa fa-icon-name - see fontawesome 4.7 icons"}
+                    - {label: "Button Style", name: "class", widget: string, required: false, hint: "btn-primary, btn-secondary, btn-danger, btn-warning"}
                   - label: "Slider Content"
                     name: "slider_content"
                     widget: object
