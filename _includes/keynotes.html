@@ -1,6 +1,7 @@
+{% assign sorted_keynotes = site.data.featured_keynotes | sort: "date" %}
 <div class="col-xs-12">
     <div class="owl-carousel owl-theme" id="keynote_slider">
-        {% for keynote in site.data.featured_keynotes %}
+        {% for keynote in sorted_keynotes %}
             {% assign image_path = "" %}
             {% capture image_path %}{{keynote.speaker.image | remove_first: "/" }}{% endcapture %}
             {% capture full_path %}{{keynote.speaker.image}}{% endcapture %}
@@ -22,6 +23,9 @@
                         <div class="title">
                             <h3>{{keynote.title}}</h3>
                         </div>
+                        <div class="date">
+                            <h4>{{keynote.day}} - {{keynote.time}}</h4>
+                        </div>
                         <div class="name">
                             <h4>{{keynote.speaker.name}}</h4>
                         </div>
@@ -35,7 +39,7 @@
         {% endfor %}
     </div>
 </div>
-{% for keynote in site.data.featured_keynotes %}
+{% for keynote in sorted_keynotes %}
     <div class="modal fade" id="keynote{{forloop.index}}">
         <div class="modal-dialog">
             <div class="modal-content">
@@ -49,6 +53,10 @@
                     <h3>{{keynote.speaker.name}}</h3>
                     <small>{{keynote.speaker.position}}</small> <br>
                     {{keynote.speaker.bio}}
+                    <br>
+                    <a href="{{keynote.sched_link}}" class="btn btn-primary">
+                        View session on Sched
+                    </a>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
