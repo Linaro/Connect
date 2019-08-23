@@ -23,9 +23,7 @@ To book accommodation for Linaro Connect at the negotiated event rate please boo
 
 <a href="https://book.passkey.com/gt/217451296?gtid=e4aa28e739b465482d77131f44112320" class="btn btn-primary">Book Accommodation</a>
 
-
-
-The deadline to book accommodation using Linaro's block is **30 August 2019.** 
+The deadline to book accommodation using Linaro's block is **30 August 2019.**
 
 - - -
 

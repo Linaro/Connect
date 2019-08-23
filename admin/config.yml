@@ -397,6 +397,14 @@ collections:
             media_library:
               config:
                 multiple: false
+          - label: Header Buttons
+            name: buttons
+            widget: list
+            fields:
+                - {label: "Button Title", name: title, widget: string, required: false, hint: "The title of your button"}
+                - {label: "Button URL", name: url, widget: string, required: false, hint: "The url your button will link to."}
+                - {label: "Button Class", name: class, widget: string, required: false, hint: "Add an additional class to your button for custom styling."}
+                - {label: "Button Icon", name: icon, widget: string, required: false, hint: "Optionally add a font awesome icon to your button. Required format - 'fa fa-download' visit https://fontawesome.com/v4.7.0/icons/ for a full list of icons available."}
           - label: "Carousel Images"
             name: "carousel-images"
             widget: "image"
@@ -416,6 +424,10 @@ collections:
             name: "row"
             widget: "string"
             hint: "Enter a row type to get started using the flow layout(e.g container_row, full_width_row) "
+          - label: "Custom Include Source"
+            name: "source"
+            widget: "string"
+            hint: "Enter the name of a Jekyll include to use as a custom include."
             required: false
           - label: "Row Style"
             name: "style"
@@ -538,7 +550,6 @@ collections:
                     name: buttons
                     widget: list
                     required: false
-                    identifier_field: url
                     fields:
                     - {label: "Button Title", name: "title", widget: string, required: false}
                     - {label: "Button URL", name: "url", widget: string, required: false}
