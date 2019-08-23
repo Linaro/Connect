@@ -62,5 +62,6 @@ flow:
           type: slider
         format: feature_block
   - row: custom_include_row
+    source: sponsorship_benefits.html
 ---
 
