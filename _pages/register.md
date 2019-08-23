@@ -17,4 +17,4 @@ flow:
 ---
 The next Connect will be held in San Diego, California 23-27 September 2019 at Paradise Point Resort and Spa. You can register below. 
 
-If you are a member attendee and need information about your discount promotional code, please email <mailto:connect@linaro.org>.
+If you are a member attendee and need information about your discount promotional code, please email [connect@linaro.org](mailto:connect@linaro.org).
