@@ -1,4 +1,4 @@
-{% assign sorted_keynotes = site.data.featured_keynotes | sort: "date" %}
+{% assign sorted_keynotes = site.data.featured_keynotes.items | sort: "date" %}
 <div class="col-xs-12">
     <div class="owl-carousel owl-theme" id="keynote_slider">
         {% for keynote in sorted_keynotes %}
@@ -54,9 +54,11 @@
                     <small>{{keynote.speaker.position}}</small> <br>
                     {{keynote.speaker.bio}}
                     <br>
-                    <a href="{{keynote.sched_link}}" class="btn btn-primary">
-                        View session on Sched
-                    </a>
+                    <p>
+                        <a href="{{keynote.sched_link}}" class="btn btn-primary">
+                            View session on Sched
+                        </a>
+                    </p>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

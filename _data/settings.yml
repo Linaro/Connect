@@ -1,5 +1,5 @@
 # Custom Favicon
-favicon: favicon.png
+favicon: /assets/images/content/favicon.png
 # Site name
 name: Linaro Connect
 # Hide Last Modified Date
@@ -90,8 +90,8 @@ blog:
                   title: title
                   url: url
 # Google Anayltics Setup
-google:
-    analytics: UA-16756069-6
+google_analytics:
+  production: UA-16756069-6
 # Shema.org settings used in the schema.html include.
 schema:
     enabled: false
@@ -106,9 +106,9 @@ schema:
             - https://github.com/Linaro
             - https://www.slideshare.net/linaroorg
         address:
-            street: Harston Mill, Royston Rd 
-            town: Harston 
-            county: Cambridge 
+            street: Harston Mill, Royston Rd
+            town: Harston
+            county: Cambridge
             post_code: CB22 7GG
             country_code: UK
 # Disqus Comments
