@@ -89,7 +89,7 @@ collections:
                 - {label: Track, name: track, widget: string, required: true, hint: "The topic of the keynote e.g AI/ML, IoT etc"}
                 - label: Speaker Details
                   name: speaker
-                  wid\get: object
+                  widget: object
                   required: true
                   fields:
                     - {label: "Name", name: "name", widget: string, required: true}
