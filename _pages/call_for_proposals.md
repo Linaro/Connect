@@ -2,7 +2,7 @@
 title: Call for Proposals
 description: >
   Call for Proposals for Linaro Connect San Diego 2019 has been closed. To view
-  the schedule go to https://linaroconnectsandiego.sched.com/ 
+  the schedule go to https://linaroconnectsandiego.sched.com/
 permalink: /cfp/
 layout: flow
 jumbotron:
@@ -38,5 +38,5 @@ flow:
         format: feature_block
   - row: main_content_row
   - row: custom_include_row
+    source: common_topic_areas.html
 ---
-
