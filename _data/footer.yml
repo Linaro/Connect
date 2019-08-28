@@ -14,10 +14,10 @@ company-links:
       url: /contact/
     - name: Press
       url: /press/
-middle-column:
+second-column:
     title: Latest News & Blogs
     latest-posts: true
-last-column:
+third-column:
     title: Other Projects
     items:
       - name: 96Boards
