@@ -26,10 +26,10 @@ items:
     track: Open Source Development
     speaker:
       name: Bryan Huntsman
-      image: /assets/images/speakers/keynotes/san19/Bryan-Huntsman.jpg
+      image: /assets/images/speakers/keynotes/san19/BryanHuntsman.jpg
       position: Senior Director at Qualcomm
       bio: >
-        Bryan Huntsman is a Senior Director at the Qualcomm Innovation Center and is responsible for Linux Kernel development on Qualcomm Snapdragon processors for mobile and IoT markets. Over the past nine years, he has set up a team of engineers and engineering processes that contributed to the launch of over a billion Android devices. Prior to joining Qualcomm, Bryan spent 10 years in the telecommunications industry working as a SW/FW developer for embedded, real-time systems. Bryan has a B.S in Computer Engineering from the University of Florida.
+        Bryan Huntsman is a Senior Director at the Qualcomm Innovation Center and is responsible for Linux Kernel development on Qualcomm Snapdragon processors for mobile and IoT markets.  Over the past decade, he has set up a team of engineers and engineering processes that contributed to the launch of billions of Android devices. Prior to joining Qualcomm, Bryan spent 10 years in the telecommunications industry working as a SW/FW developer for embedded, real-time systems. Bryan has a B.S in Computer Engineering from the University of Florida.
       company_webite: https://www.qualcomm.com/
   - title: Big Data on ARM in practice with ThunderX
     day: Thursday
