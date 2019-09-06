@@ -8,17 +8,7 @@
             <div class="col-xs-12 item">
                 <a data-toggle="modal" href="#keynote{{forloop.index}}">
                 <div class="block-inner">
-                    <div class="photo">
-                        {% responsive_image_block %}
-                        template: _includes/thumbnail_image.html
-                        path: {{ image_path }}
-                        fullpath: {{ full_path }}
-                        {% if keynote.title %}
-                        title: {{ keynote.title | slugify: "ascii"}}
-                        alt: {{ keynote.title | slugify: "ascii"}}
-                        {% endif %}
-                        {% endresponsive_image_block %}
-                    </div>
+                    <div class="photo" style="background-image: url({{full_path}});"></div>
                     <div class="info">
                         <div class="title">
                             <h3>{{keynote.title}}</h3>
