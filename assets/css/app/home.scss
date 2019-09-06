@@ -481,19 +481,16 @@ div#social-media {
             -moz-box-shadow: 0px 0px 35px -4px rgba(0,0,0,0.85);
             box-shadow: 0px 0px 35px -4px rgba(0,0,0,0.85);
             .photo {
-                img {
-                    filter: grayscale(0);
-                }
+                filter: grayscale(0);
             }
         }
         .photo {
             height: 200px;
             width: 100%;
             overflow: hidden;
-            object-fit: cover;
-            img {
-                filter: grayscale(1);
-            }
+            background-size: cover;
+            background-position: center center;
+            filter: grayscale(1);
         }
     }
 }
