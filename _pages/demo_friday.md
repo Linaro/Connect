@@ -20,8 +20,7 @@ flow:
         - format: text
           text_content:
             text: >
-                At every Linaro Connect we end the week on a high note with our Demo Friday Technology Showcase. Demo Friday will be
-                held on Friday 5 April 2019 from 12pm-2pm.
+                At every Linaro Connect we end the week on a high note with our Demo Friday Technology Showcase.
 
                 If you are interested in presenting a demo on Demo Friday, please request demo space via the form below. There are a
                 limited number of tables available, so space is first come first served!
