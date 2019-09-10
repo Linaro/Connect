@@ -61,13 +61,18 @@ flow:
         - format: members
           style: zoom
           members_content:
-            item_width: 3
+            item_width: 5ths
             items:
               - name: Arm
                 image:
                     path: /assets/images/sponsors/arm.jpg
                     alt: Arm Logo
                 url: https://www.linaro.org/company/arm/
+              - name: Qualcomm
+                image:
+                    path: /assets/images/sponsors/qualcomm.jpg
+                    alt: Qualcomm Logo
+                url: https://www.linaro.org/membership/quic/
               - name: Xilinx/Avnet
                 image:
                     path: /assets/images/sponsors/xilinx-avnet.jpg
