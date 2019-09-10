@@ -5,7 +5,7 @@ js-package: home
 permalink: /
 title: Linaro Connect San Diego 2019 (SAN19)
 description: |-
-    The next Connect will be held in San Diego California September 23-27, 2019. Registration will be announced in May 2019
+    The next Linaro Connect will be held at Paradise Point in San Diego, California on 23-27 September, 2019.
 featured-images:
     - /assets/images/content/hkg18-sponsor-thumb-1.jpg
     - /assets/images/content/yvr18-sponsor-thumb-1.jpg
@@ -38,7 +38,7 @@ flow:
         - format: text
           style: text-center text-white
           text_content:
-            text: Linaro Connect San Diego will be held from 23-27 September 2019. Registration is now open!
+            text: Linaro Connect will be held at Paradise Point in San Diego, California on 23-27 September, 2019.
         - format: custom_include
           source: keynotes.html
         - format: buttons
