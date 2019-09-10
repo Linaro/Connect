@@ -25,6 +25,8 @@ pages:
             url: /schedule/
           - text: Call for Proposals
             url: /cfp/
+          - text: Submit a Demo
+            url: /demo-friday/
           - text: Accommodation
             url: /accommodation/
           - text: Visa and Business Invitation Letters
