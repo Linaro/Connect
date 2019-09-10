@@ -70,7 +70,7 @@ flow:
                 url: https://www.linaro.org/company/arm/
               - name: Qualcomm
                 image:
-                    path: /assets/images/sponsors/qualcomm.jpg
+                    path: /assets/images/sponsors/Qualcomm.svg
                     alt: Qualcomm Logo
                 url: https://www.linaro.org/membership/quic/
               - name: Xilinx/Avnet
