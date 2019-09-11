@@ -11,3 +11,9 @@ items:
         ogv: https://static-linaro-org.s3.amazonaws.com/videos/connect_sponsorship_testimonials/avnet_connect_sponsorship_testimonial.ogv
         mp4: https://static-linaro-org.s3.amazonaws.com/videos/connect_sponsorship_testimonials/avnet_connect_sponsorship_testimonial.mp4
         webm: https://static-linaro-org.s3.amazonaws.com/videos/connect_sponsorship_testimonials/avnet_connect_sponsorship_testimonial.webm
+    - title: Packet - Why Sponsor Linaro Connect?
+      screen_cap: /assets/images/content/packet_connect_sponsorship_testimonial.png
+      video_sources:
+        ogv: https://static-linaro-org.s3.amazonaws.com/videos/connect_sponsorship_testimonials/packet_connect_sponsorship_testimonial.ogv
+        mp4: https://static-linaro-org.s3.amazonaws.com/videos/connect_sponsorship_testimonials/packet_connect_sponsorship_testimonial.mp4
+        webm: https://static-linaro-org.s3.amazonaws.com/videos/connect_sponsorship_testimonials/packet_connect_sponsorship_testimonial.webm
