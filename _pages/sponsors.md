@@ -17,6 +17,8 @@ jumbotron:
 flow:
   - row: container_row
     sections:
+      - row: custom_include_row
+        source: sponsorship_testimonials.html
       - feature_block_content:
           buttons:
             - class: btn-primary
@@ -57,11 +59,10 @@ flow:
 
             If you'd like to sponsor, have a look at our sponsorship options
             below. Alternatively, if you have something specific in mind or
-            would like to create a custom package please get in touch! 
+            would like to create a custom package please get in touch!
           title: Why sponsor Linaro Connect?
           type: slider
         format: feature_block
   - row: custom_include_row
     source: sponsorship_benefits.html
 ---
-
