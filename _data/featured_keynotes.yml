@@ -1,4 +1,30 @@
 items:
+  - title: "TBC"
+    description: >
+      Coming soon...
+    company: President of the IoT Services Group at Arm
+    day: Tuesday
+    time: "10:00am - 10:30am"
+    date: 2019-09-24 10:00:00+00:00
+    sched_link: https://linaroconnectsandiego.sched.com/event/Swp8/san19-200k1-keynote-dipesh-patel-arm
+    track: IoT
+    speaker:
+      name: Dipesh Patel
+      image: /assets/images/speakers/keynotes/san19/dipesh-patel.jpg
+      position: President of the IoT Services Group at Arm
+      bio: >
+        Dipesh is the president of IoT Services Group at Arm. Prior to this, he served as
+        the executive vice president of incubation businesses, responsible for the
+        development of new businesses to create solutions to enable the Internet of
+        Things.
+
+        Dipesh was previously executive vice president of technical operations, in
+        charge of Arm’s infrastructure used for IP development. Before this he was
+        general manager of the Physical Design Group at Arm.
+        Dipesh joined Arm in 1997 and has held senior management positions working
+        primarily in System on Chip (SoC) related activities including vice president of
+        technology for physical IP and director of research.
+      company_webite: https://arm.com/
   - title: "Securing the Billions of Devices Around Us "
     description: >
       The next decade promises the democratization of connectivity to every device. Significant drops in the cost of connectivity mean that every form of electrical device—every child’s toy, every household’s appliances, and every sensor—will become connected to the Internet. Tens of billions of these devices are controlled by microcontrollers, a class of device particularly ill-prepared for the security challenges of internet connectivity.  What is required to secure these billions of devices?  Microsoft defines 7 properties that define the minimum standard for any device connecting to the internet and in this talk we’ll dive into each as we make the case for a better standard for security and connectivity.
