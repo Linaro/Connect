@@ -1,0 +1,13 @@
+items:
+    - title: Arrow - Why Sponsor Linaro Connect?
+      screen_cap: /assets/images/content/arrow-linaro-connect-sponsorship-testimonial.png
+      video_sources:
+        ogv: https://static.linaro.org/videos/connect_sponsorship_testimonials/arrow_connect_sponsorship_testimonial.ogv
+        mp4: https://static.linaro.org/videos/connect_sponsorship_testimonials/arrow_connect_sponsorship_testimonial.mp4
+        webm: https://static.linaro.org/videos/connect_sponsorship_testimonials/arrow_connect_sponsorship_testimonial.webm
+    - title: Avnet - Why Sponsor Linaro Connect?
+      screen_cap: /assets/images/content/avnet-linaro-connect-sponsorship-testimonial.png
+      video_sources:
+        ogv: https://static-linaro-org.s3.amazonaws.com/videos/connect_sponsorship_testimonials/avnet_connect_sponsorship_testimonial.ogv
+        mp4: https://static-linaro-org.s3.amazonaws.com/videos/connect_sponsorship_testimonials/avnet_connect_sponsorship_testimonial.mp4
+        webm: https://static-linaro-org.s3.amazonaws.com/videos/connect_sponsorship_testimonials/avnet_connect_sponsorship_testimonial.webm
