@@ -7,7 +7,7 @@ css-package: sponsor
 layout: flow
 jumbotron:
   buttons:
-    - class: fa fa-download
+    - class: btn btn-primary fa fa-download
       title: Download Prospectus
       url: 'https://linaro.co/LinaroConnectSponsorshipProspectus'
   carousel-images:
@@ -19,11 +19,11 @@ flow:
     sections:
       - feature_block_content:
           buttons:
-            - class: btn-primary
+            - style: btn-primary
               icon: fa fa-envelope
               title: Get in Touch
               url: 'mailto:connect@linaro.org'
-            - class: btn-primary
+            - style: btn-primary
               icon: fa fa-download
               title: Download Prospectus
               url: 'https://linaro.co/LinaroConnectSponsorshipProspectus'
@@ -57,11 +57,10 @@ flow:
 
             If you'd like to sponsor, have a look at our sponsorship options
             below. Alternatively, if you have something specific in mind or
-            would like to create a custom package please get in touch! 
+            would like to create a custom package please get in touch!
           title: Why sponsor Linaro Connect?
           type: slider
         format: feature_block
   - row: custom_include_row
     source: sponsorship_benefits.html
 ---
-
