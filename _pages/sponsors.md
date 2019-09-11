@@ -15,10 +15,10 @@ jumbotron:
     - /assets/images/content/yvr18-sponsor-bg-1.jpg
     - /assets/images/content/yvr18-sponsor-bg-2.jpg
 flow:
+  - row: custom_include_row
+    source: sponsorship_testimonials.html
   - row: container_row
     sections:
-      - row: custom_include_row
-        source: sponsorship_testimonials.html
       - feature_block_content:
           buttons:
             - class: btn-primary
