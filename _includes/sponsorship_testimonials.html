@@ -1,19 +1,18 @@
 <div class="row" id="sponsorship_testimonials">
     <div class="container">
         <div class="col-xs-12">
-            <h2 class="text-center  m-b-30">The value of sponsoring Linaro Connect</h2>
+            <h2 class="text-center  m-b-30">Why Sponsor Linaro Connect?</h2>
         </div>
         <div class="col-xs-12">
             <div class="owl-carousel owl-theme" id="testimonial_slider">
                 {% for testimonial in site.data.sponsorship_testimonials.items %}
                     <div class="item testimonial_item">
-                        <video controls="controls" class="lazyload img-responsive" poster="{{testimonial.screen_cap}}"
-                            preload="none">
+                        <video controls="controls" class="lazyload img-responsive" poster="{{testimonial.screen_cap}}" preload="none">
                             <source src="{{testimonial.video_sources.ogv}}" type="video/ogg">
                             <source src="{{testimonial.video_sources.webm}}" type="video/webm">
                             <source src="{{testimonial.video_sources.mp4}}" type="video/mp4">
                         </video>
-                        <h4>{{testimonial.title}}</h4>
+                        <h4>{{testimonial.member_name}}</h4>
                     </div>
                 {% endfor %}
             </div>
