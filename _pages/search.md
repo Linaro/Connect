@@ -1,15 +1,14 @@
 ---
 title: Search
+description: Search connect.linaro.org for a specific page or resource.
 permalink: /search/
+css-package: search
 layout: flow
 jumbotron:
-    title: Search
-    description: >
-        Search connect.linaro.org for a specific page/resource.
-    background-image: /assets/images/content/bkk19-group-photo.jpg
-description: |-
-    Search connect.linaro.org for a sd.
-css-package: search
+  background-image: /assets/images/content/bkk19-group-photo.jpg
+  title: Search
+  description: |
+    Search connect.linaro.org for a specific page/resource.
 ---
 <script>
   (function() {
