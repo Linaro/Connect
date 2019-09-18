@@ -3,14 +3,14 @@ $(window).on("load", function () {
     //     var sessionId = $("#attached_documents").data("session-id");
     //     var connectCode = $("#attached_documents").data("connect-code");
     //     // URL for the resources.json
-    //     var resources_json_url = "https://s3.amazonaws.com/connect.linaro.org/" + connectCode.toString().toLowerCase() + "/resources.json";
+    //     var resources_json_url = "https://" + connectCode.toString().toLowerCase() + "/resources.json";
     //     // GET the JSON response
     //     $.ajax({
     //         url: resources_json_url,
     //         dataType: 'json',
     //         complete: function (jsonResponse) {
     //             jsonData = JSON.parse(jsonResponse.responseText);
-    //             // Find the corresponding key in the JSON data 
+    //             // Find the corresponding key in the JSON data
     //             $.each(jsonData, function (idx, obj) {
     //                 // Get the current Connect code
     //                 if (obj.session_id.toString().toLowerCase() == sessionId.toString().toLowerCase()) {
@@ -26,14 +26,14 @@ $(window).on("load", function () {
         var connectCode = $("#video-holder.using_json").attr("event-id");
         var sessionId = $("#video-holder.using_json").attr("session-id");
         // URL for the resources.json
-        var resources_json_url = "https://s3.amazonaws.com/connect.linaro.org/" + connectCode.toString().toLowerCase() + "/resources.json";
+        var resources_json_url = "https://static-linaro-org.s3.amazonaws.com/connect/" + connectCode.toString().toLowerCase() + "/resources.json";
         // GET the JSON response
         $.ajax({
             url: resources_json_url,
             dataType: 'json',
             complete: function(jsonResponse){
                 jsonData = JSON.parse(jsonResponse.responseText);
-                // Find the corresponding key in the JSON data 
+                // Find the corresponding key in the JSON data
                 $.each(jsonData, function (idx, obj) {
                     // Get the current Connect code
                     if (obj.session_id.toString().toLowerCase() == sessionId.toString().toLowerCase() ){
@@ -41,13 +41,13 @@ $(window).on("load", function () {
                         if (obj.youtube_video_url.toString().length > 1){
                             var video_url = obj.youtube_video_url.toString();
                         }
-                        // Secondary backup video URL 
+                        // Secondary backup video URL
                         else if (obj.s3_video_url.toString().length > 1){
                             var video_url = obj.s3_video_url.toString();
                         }
                         // Set video url to "" if no url exits
                         else{
-                            var video_url = "";                           
+                            var video_url = "";
                         }
                         // Check to see if the main video URL does not equal ""
                         if(video_url != "") {
@@ -75,7 +75,7 @@ $(window).on("load", function () {
                             else{
                                 $("#youtube-iframe").attr("src", video_url);
                             }
-  
+
                             // Set video Iframe to visible and remove the video-skeleton placeholder
                             // once the video has loaded with the src
                             $("#youtube-iframe").on("load", function () {
@@ -143,7 +143,7 @@ $(window).on("load", function () {
         var connectCode = $("#presentation-holder.using_json").attr("event-id");
         var sessionId = $("#presentation-holder.using_json").attr("session-id");
         // URL for the resources.json
-        var resources_json_url = "https://s3.amazonaws.com/connect.linaro.org/" + connectCode.toString().toLowerCase() + "/resources.json";
+        var resources_json_url = "https://static-linaro-org.s3.amazonaws.com/connect/" + connectCode.toString().toLowerCase() + "/resources.json";
         // var resources_json_url = "http://localhost:4002/resources.json";
         console.log(resources_json_url);
         // GET the JSON response
@@ -152,7 +152,7 @@ $(window).on("load", function () {
             dataType: 'json',
             complete: function(jsonResponse){
                 jsonData = JSON.parse(jsonResponse.responseText);
-                // Find the corresponding key in the JSON data 
+                // Find the corresponding key in the JSON data
                 $.each(jsonData, function (idx, obj) {
                     // Get the current Connect code
                     // console.log(obj.session_id.toString().toLowerCase() + " vs " + sessionId.toString().toLowerCase() );
@@ -182,7 +182,7 @@ $(window).on("load", function () {
                                 $("a.s3-download.presentation.using_json").html("S3 Download");
                                 $("a.s3-download.presentation.using_json").attr("href", presentation_url);
                             }
-            
+
                         }
                     }
                 });
