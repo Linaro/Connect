@@ -12,22 +12,21 @@ js-package: resources-landing-page
 {{content}}
 <div class="row" id="content-container">
     <div class="container">
-        
-        <div class="col-sm-4 no-padding">
+        <div class="col-xs-4 no-padding">
             <a href="/resources/{{page.event_code | downcase}}/sessions/">
                 <div class="category-block">
                     <h3>Sessions</h3>
                 </div>
             </a>
         </div>
-        <div class="col-sm-4 no-padding">
+        <div class="col-xs-4 no-padding">
             <a href="/resources/{{page.event_code | downcase}}/demos/">
                 <div class="category-block">
                     <h3>Demos</h3>
                 </div>
             </a>
         </div>
-        <div class="col-sm-4 no-padding">
+        <div class="col-xs-4 no-padding">
             <a href="/resources/{{page.event_code | downcase}}/interviews/">
                 <div class="category-block">
                     <h3>Interviews</h3>
@@ -38,7 +37,9 @@ js-package: resources-landing-page
 </div>
 <div class="row content-row" id="resources-table">
     <div class="container m-t-40">
-        <div id="resources-overview-table" class="double-scroll">
+        <div id="resources-overview-table" data-connect-id="{{connect_data.id}}"
+        data-using-json="{% if connect_data.using_json == "True" %}True{% else %}False{% endif %}"
+         class="double-scroll">
             <table>
                 <thead>
                     <th>Session ID</th>
@@ -54,7 +55,8 @@ js-package: resources-landing-page
                     {% assign event_code_lower = page.event_code | downcase %}
                     {% assign sessions = site.categories[event_code_lower] | where: 'tag', 'session' | sort: 'session_id' %}
                     {% for session in sessions %}
-                    <tr data-track="{{session.session_track}}" data-session-id="{{session.session_id}}" data-day="">
+                    <tr data-track="{{session.session_track}}"
+                    data-session-id="{{session.session_id}}" data-day="">
                         <td>{{session.session_id}}</td>
                         <td>
                             <a href="{{session.url}}">
@@ -71,13 +73,31 @@ js-package: resources-landing-page
                                 {% endfor %}
                             </ul>
                         </td>
-                        <td class="presentation-link" data-session-id="{{session.session_id}}">
+                        <td class="presentation-link">
+                            {% if connect_data.using_json == "True" %}
+                                <div id="presentation_container"></div>
+                            {% elsif session.amazon_s3_presentation_url and session.amazon_s3_presentation_url != "None" %}
                             <a
-                                href="https://s3.amazonaws.com/connect.linaro.org/{{event_code_lower}}/presentations/{{session.session_id | downcase }}.pdf">Presentation</a>
+                                href="{{session.amazon_s3_presentation_url}}">Presentation</a>
+                            {% elsif session.slideshare_embed_url and session.slideshare_embed_url != "None" %}
+                            <a
+                                href="{{session.slideshare_embed_url}}">Presentation</a>
+                            {% else %}
+                                N/A
+                            {% endif %}
                         </td>
-                        <td class="video-link" data-session-id="{{session.session_id}}">
+                        <td class="video-link">
+                            {% if connect_data.using_json == "True" %}
+                                <div id="video_container"></div>
+                            {% elsif session.amazon_s3_video_url and session.amazon_s3_video_url != "None" and session.amazon_s3_video_url != "n/a" %}
                             <a
-                                href="https://s3.amazonaws.com/connect.linaro.org/{{event_code_lower}}/videos/{{session.session_id | downcase }}.mp4">Video</a>
+                                href="{{session.amazon_s3_video_url}}">Video</a>
+                            {% elsif session.youtube_video_url and session.youtube_video_url != "None" %}
+                            <a
+                                href="{{session.youtube_video_url}}">Video</a>
+                            {% else %}
+                                N/A
+                            {% endif %}
                         </td>
                         <td>
                             <a href="{{session.url}}">
