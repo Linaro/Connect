@@ -75,7 +75,7 @@ js-package: resources-landing-page
                         </td>
                         <td class="presentation-link">
                             {% if connect_data.using_json == "True" %}
-                                <div id="presentation_container"></div>
+                                <div id="presentation_container">N/A</div>
                             {% elsif session.amazon_s3_presentation_url and session.amazon_s3_presentation_url != "None" %}
                             <a
                                 href="{{session.amazon_s3_presentation_url}}">Presentation</a>
@@ -88,7 +88,7 @@ js-package: resources-landing-page
                         </td>
                         <td class="video-link">
                             {% if connect_data.using_json == "True" %}
-                                <div id="video_container"></div>
+                                <div id="video_container">N/A</div>
                             {% elsif session.amazon_s3_video_url and session.amazon_s3_video_url != "None" and session.amazon_s3_video_url != "n/a" %}
                             <a
                                 href="{{session.amazon_s3_video_url}}">Video</a>
