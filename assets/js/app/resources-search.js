@@ -73,7 +73,7 @@ function createTableRows(data) {
       object.youtube_video_url === "" &&
       object.amazon_s3_video_url === ""
     ) {
-      video = "<a target='_blank' href='" + object.url + "'>View</a>";
+      video = "<a target='_self' href='" + object.url + "'>View</a>";
     }
 
     // Get Presentations
@@ -83,19 +83,19 @@ function createTableRows(data) {
       object.slideshare_presentation_url !== ""
     ) {
       presentation =
-        "<a target='_blank' href='" +
+        "<a target='_self' href='" +
         object.slideshare_presentation_url +
         "'>View</a>";
     } else if (typeof object.amazon_s3_presentation_url !== "undefined") {
       presentation =
-        "<a target='_blank' href='" +
+        "<a target='_self' href='" +
         object.amazon_s3_presentation_url +
         "'>View</a>";
     } else if (
       object.amazon_s3_presentation_url === "" &&
       object.slideshare_presentation_url === ""
     ) {
-      presentation = "<a target='_blank' href='" + object.url + "'>View</a>";
+      presentation = "<a target='_self' href='" + object.url + "'>View</a>";
     }
 
     // Get the speakers
@@ -129,7 +129,7 @@ function createTableRows(data) {
     element += "<td>" + presentation + "</td>";
     element += "<td>" + object.event_id + "</td>";
     element += "<td>" + extractDateString(object.date_published) + "</td>";
-    element += "<td><a target='_blank' href='" + object.url + "'>View</a></td>";
+    element += "<td><a target='_self' href='" + object.url + "'>View</a></td>";
     element += "</tr>";
 
     formatted_results.push(element);
