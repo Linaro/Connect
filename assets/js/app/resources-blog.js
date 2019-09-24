@@ -74,7 +74,7 @@ $(window).on("load", function() {
             // Set the Download button href and Text
             if ($("a.s3-download.video.using_json").length > 0) {
               if (obj.s3_video_url.toString().length > 1) {
-                $("a.s3-download.video.using_json").html("S3 Download");
+                $("a.s3-download.video.using_json").html("Download");
                 $("a.s3-download.video.using_json").attr(
                   "href",
                   obj.s3_video_url.toString()
@@ -172,7 +172,7 @@ $(window).on("load", function() {
             // Set the Download button href and Text
             if ($("a.s3-download.presentation.using_json").length > 0) {
               if (obj.s3_presentation_url.toString().length > 1) {
-                $("a.s3-download.presentation.using_json").html("S3 Download");
+                $("a.s3-download.presentation.using_json").html("Download");
                 $("a.s3-download.presentation.using_json").attr(
                   "href",
                   presentation_url
