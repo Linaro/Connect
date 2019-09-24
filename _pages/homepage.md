@@ -38,7 +38,7 @@ flow:
         - format: text
           style: text-center text-white
           text_content:
-            text: Linaro Connect will be held at Paradise Point in San Diego, California on 23-27 September, 2019.
+            text: Linaro Connect is taking place at Paradise Point in San Diego, California (23 - 27 September 2019)
         - format: custom_include
           source: keynotes.html
         - format: buttons
