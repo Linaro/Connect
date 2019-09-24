@@ -1,7 +1,7 @@
 - id: SAN19
-  placeholder: san19-banner.jpg
+  placeholder: san19-group-photo.jpg
   featured_images:
-    - /assets/images/content/san19-banner.jpg
+    - /assets/images/content/san19-group-photo.jpg
   long-name: Linaro Connect San Diego 2019
   using_json: "True"
   start-date: 2019-09-23 09:00:00
