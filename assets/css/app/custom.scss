@@ -764,3 +764,9 @@ a.btn.btn-secondary:hover {
     background-color: #444444;
     color: white;
 }
+
+#wrapper a.dropdown-item {
+    height: 50px;
+    line-height: 40px;
+    border-bottom: 1px solid #eee;
+}

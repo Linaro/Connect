@@ -20,7 +20,7 @@ jumbotron:
             mp4: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromo.mp4
             ogv: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromo.ogv
             webm: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromo.webm
-        poster: /assets/images/content/bkk19-bg.jpg
+        poster: /assets/images/content/san19-group-photo.jpg
     animation: fade
 home: true
 redirect_from:
@@ -38,7 +38,7 @@ flow:
         - format: text
           style: text-center text-white
           text_content:
-            text: Linaro Connect will be held at Paradise Point in San Diego, California on 23-27 September, 2019.
+            text: Linaro Connect is taking place at Paradise Point in San Diego, California (23 - 27 September 2019)
         - format: custom_include
           source: keynotes.html
         - format: buttons
@@ -181,33 +181,33 @@ flow:
             blocks:
               - title:
                     size: h3
-                    text: BKK19 Photos
-                url: https://www.flickr.com/photos/linaroorg/sets/72157695573962940
-                background_image: /assets/images/content/bkk19-li-gong-keynote-linaro-matters.jpg
+                    text: SAN19 Photos
+                url: https://www.flickr.com/photos/linaroorg/albums/72157710107995052
+                background_image: /assets/images/content/san19-group-photo.jpg
                 text_content:
-                    text: View gallery of photos taken at BKK19 on Flickr.
+                    text: View gallery of photos taken at SAN19 on Flickr.
                 buttons:
                     - title: View on Flickr
-                      url: https://www.flickr.com/photos/linaroorg/sets/72157695573962940
+                      url: https://www.flickr.com/photos/linaroorg/albums/72157710107995052
                       icon: fa fa-external-link
                       class: btn-primary
               - title:
                     size: h3
-                    text: BKK19 Resources
-                url: /resources/bkk19/
-                background_image: /assets/images/content/bkk19-group-photo.jpg
+                    text: SAN19 Resources
+                url: /resources/san19/
+                background_image: /assets/images/content/san19-group-photo.jpg
                 text_content:
                     text: Each Connect 100+ educational resources are made available to the public. See the resources from BKK19.
                 buttons:
-                    - title: View BKK19 Resources
-                      url: /resources/bkk19/
+                    - title: View SAN19 Resources
+                      url: /resources/san19/
                       icon: fa fa-slideshare
                       class: btn-primary
               - title:
                     size: h3
                     text: View all resources
                 url: /resources/
-                background_image: /assets/images/content/bkk19-demo-friday.jpg
+                background_image: /assets/images/content/san19-group-photo.jpg
                 text_content:
                     text: View all of the Connect resources from the previous Linaro Connect events.
                 buttons:
