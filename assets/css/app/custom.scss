@@ -764,3 +764,27 @@ a.btn.btn-secondary:hover {
     background-color: #444444;
     color: white;
 }
+
+#wrapper a.dropdown-item {
+    height: 50px;
+    line-height: 40px;
+    border-bottom: 1px solid #eee;
+}
+
+#jumbotron.overlay:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    height: 400px;
+    left: 0;
+    opacity: .6;
+    width: 100%;
+    z-index: -1;
+    background-image: linear-gradient(to bottom right, #000, #000);
+    background-image: -webkit-linear-gradient(top, #000, #FFF);
+    background-image: -moz-linear-gradient(top, #000, #FFF);
+    background-image: -ms-linear-gradient(top, #000, #FFF);
+    background-image: -o-linear-gradient(top, #000, #FFF);
+}

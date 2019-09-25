@@ -14,9 +14,7 @@ company-links:
       url: /contact/
     - name: Press
       url: /press/
-second-column:
-    title: Latest News & Blogs
-    latest-posts: true
+second-column: false
 third-column:
     title: Other Projects
     items:
