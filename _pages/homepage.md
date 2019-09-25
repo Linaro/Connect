@@ -21,7 +21,6 @@ jumbotron:
             ogv: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromo.ogv
             webm: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromo.webm
         poster: /assets/images/content/san19-group-photo.jpg
-    animation: fade
 home: true
 redirect_from:
 - /keynotes/bkk19/
