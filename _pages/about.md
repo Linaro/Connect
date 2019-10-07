@@ -30,7 +30,7 @@ flow:
           style: text-center
           text_content:
             text: >
-                Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. Linaro Connect Bangkok has now ended. The next Connect will be held in San Diego California September 23-27, 2019. Registration will be announced in May 2019.
+                Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. The next Connect will be held in Budapest, Hungary March 23-27, 2019. Registration will be announced shortly!
 
                 To view slides or videos from the keynotes and sessions from previous Connects, please go to our [Resources page](https://connect.linaro.org/resources/).
 
