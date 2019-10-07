@@ -99,7 +99,7 @@ flow:
       sections:
         - format: title
           title_content:
-            text: Highlights from BKK19
+            text: Highlights from SAN19
             size: h2
         - format: slider
           slider_content:
@@ -112,40 +112,22 @@ flow:
             md_items: 4
             lg_items: 6
             items:
-            - image: /assets/images/content/bkk19-sponsor-table.jpg
-              title: Sponsor table at Linaro Connect Bangkok 2019
-            - image: /assets/images/content/bkk19-registration-desk.jpg
-              title: Registration desk at Linaro Connect Bangkok 2019
-            - image: /assets/images/content/bkk19-packet-sponsored-food.jpg
-              title: Packet branded macaron's at Linaro Connect Bangkok 2019
-            - image: /assets/images/content/bkk19-li-gong-keynote-linaro-matters.jpg
-              title: >-
-                Linaro CEO, Li Gong, presenting the opening keynote at Linaro Connect
-                Bangkok 2019
-            - image: /assets/images/content/bkk19-li-gong-keynote.jpg
-              title: >-
-                Linaro CEO, Li Gong, presenting the opening keynote at Linaro Connect
-                Bangkok 2019
-            - image: /assets/images/content/bkk19-jacob-smith-packet-keynote.jpg
-              title: >-
-                Jacob Smith from Packet presenting his keynote at Linaro Connect Bangkok 2019
-            - image: /assets/images/content/bkk19-google-keynote.jpg
-              title: Google's keynote at Linaro Connect Bangkok 2019
-            - image: /assets/images/content/bkk19-demo-friday.jpg
-              title: Demo Friday hacking at Linaro Connect Bangkok 2019
-            - image: /assets/images/content/bkk19-chris-royston-arm-developer-talk.jpg
-              title: >-
-                Chris Royston from Arm talking about the new revision of developer.arm.com
-                at Linaro Connect Bangkok 2019
-            - image: /assets/images/content/bkk19-bosch-keynote-2.jpg
-              title: >-
-                Dirk Slama from Bosch presenting his keynote at Linaro Connect Bangkok 2019
-            - image: /assets/images/content/bkk19-bosch-keynote.jpg
-              title: >-
-                Dirk Slama from Bosch presenting his keynote at Linaro Connect Bangkok 2019
-            - image: /assets/images/content/bkk19-backpack-giveaway.jpg
-              title: RedHat's giveaway at Linaro Connect Bangkok 2019.
-            - image: /assets/images/content/bkk19-ai-demo.jpg
-              title: Object recognition at Linaro Connect Bangkok 2019
-
+            - image: /assets/images/content/san19_highlight_1.jpg
+              title: Linaro Connect San Diego 2019 Highlight 1
+            - image: /assets/images/content/san19_highlight_2.jpg
+              title: Linaro Connect San Diego 2019 Highlight 2
+            - image: /assets/images/content/san19_highlight_3.jpg
+              title: Linaro Connect San Diego 2019 Highlight 3
+            - image: /assets/images/content/san19_highlight_4.jpg
+              title: Linaro Connect San Diego 2019 Highlight 4
+            - image: /assets/images/content/san19_highlight_5.jpg
+              title: Linaro Connect San Diego 2019 Highlight 5
+            - image: /assets/images/content/san19_highlight_6.jpg
+              title: Linaro Connect San Diego 2019 Highlight 6
+            - image: /assets/images/content/san19_highlight_7.jpg
+              title: Linaro Connect San Diego 2019 Highlight 7
+            - image: /assets/images/content/san19_highlight_8.jpg
+              title: Linaro Connect San Diego 2019 Highlight 8
+            - image: /assets/images/content/san19_highligh_9.jpg
+              title: Linaro Connect San Diego 2019 Highlight 9
 ---
