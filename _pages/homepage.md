@@ -37,19 +37,17 @@ flow:
         - format: text
           style: text-center text-white
           text_content:
-            text: Linaro Connect is taking place at Paradise Point in San Diego, California (23 - 27 September 2019)
-        - format: custom_include
-          source: keynotes.html
+            text: Resources from SAN19 are now available!
         - format: buttons
           style: text-center
           buttons_content:
-              - title: View Schedule
-                url: /schedule/
+              - title: View Resources
+                url: /resourcs/san19/
                 icon: fa fa-calendar
                 style: btn-secondary
-              - title: Register
-                url: /register/
-                icon: fa fa-arrow-right
+              - title: Youtube Playlist
+                url: https://www.youtube.com/watch?v=rFOZfxd-QEo&list=PLKZSArYQptsOzc0kBoWyVSC3f0sHbJdBK
+                icon: fa fa-youtube
                 style: btn-primary
     - row: container_row
       sections:
