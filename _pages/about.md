@@ -128,6 +128,6 @@ flow:
               title: Linaro Connect San Diego 2019 Highlight 7
             - image: /assets/images/content/san19_highlight_8.jpg
               title: Linaro Connect San Diego 2019 Highlight 8
-            - image: /assets/images/content/san19_highligh_9.jpg
+            - image: /assets/images/content/san19_highlight_9.jpg
               title: Linaro Connect San Diego 2019 Highlight 9
 ---
