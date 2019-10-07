@@ -47,8 +47,8 @@ flow:
             sm_items: 1
             xs_items: 1
           text: >-
-            Linaro Connect San Diego 2019 will be the 26th Connect since Linaro
-            started in June 2010. Hundreds of the world’s leading Linux on Arm
+            Linaro Connect Budapest 2020 will be the 31st Connect since Linaro
+            was founded in June 2010. Hundreds of the world’s leading Linux on Arm
             developers come to Linaro Connect to share ideas with fellow
             experts, plan future engineering work and learn what is going on in
             the industry. Sponsorship of the event puts your brand in front of

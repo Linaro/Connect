@@ -21,18 +21,6 @@ pages:
       options:
           - text: Register
             url: /register/
-          - text: View Schedule
-            url: /schedule/
-          - text: Call for Proposals
-            url: /cfp/
-          - text: Submit a Demo
-            url: /demo-friday/
-          - text: Accommodation
-            url: /accommodation/
-          - text: Visa and Business Invitation Letters
-            url: /business-invitation-letters/
-          - text: Code of Conduct
-            url: /code-of-conduct/
           - text: Future Connect Events
             url: /future-connects/
     - title: Resources
