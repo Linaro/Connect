@@ -42,7 +42,7 @@ flow:
           style: text-center
           buttons_content:
               - title: View Resources
-                url: /resourcs/san19/
+                url: /resources/san19/
                 icon: fa fa-calendar
                 style: btn-secondary
               - title: Youtube Playlist
