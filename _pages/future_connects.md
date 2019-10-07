@@ -16,6 +16,6 @@ jumbotron:
 
 | Event | Date | Location | Add to Calendar |
 |-------|------|----------|-----------------|
-| Linaro Connect San Diego 2019 (SAN19) | 23 - 27 September 2019 | Paradise Point, San Diego, California | [Add to Calendar](http://www.google.com/calendar/event?action=TEMPLATE&dates=20190923T080000Z%2F20190927T150000Z&ctz=America/Los_Angeles&text=Linaro%20Connect%20San%20Diego%202019%20(SAN19)%09&location=Paradise%20Point%2C%20San%20Diego%2C%20California&details=Linaro%20Connect%20San%20Diego%202019%20(SAN19)%20will%20be%20at%20Paradise%20Point%2C%20San%20Diego%2C%20California) |
+| Linaro Connect Budapest (BUD20) | 23 - 27 March 2020 | Budapest, Hungary| [Add to Calendar](http://www.google.com/calendar/event?action=TEMPLATE&dates=20200323T090000Z%2F20200327T150000Z&text=Linaro%20Connect%20Budapest%202020&location=Budapest%2C%20Hungary&details=Linaro%20Connect%20Budapest%202020%20(BUD20)%20will%20take%20place%20in%20Hungary%2C%20Budapest) |
 
 </div>
