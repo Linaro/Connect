@@ -3,9 +3,9 @@ layout: flow
 css-package: home
 js-package: home
 permalink: /
-title: Linaro Connect San Diego 2019 (SAN19)
+title: Bringing the Arm ecosystem together
 description: |-
-    The next Linaro Connect will be held at Paradise Point in San Diego, California on 23-27 September, 2019.
+    The next Linaro Connect will be held in Budapest, Hungary on 23-27 March, 2020.
 featured-images:
     - /assets/images/content/hkg18-sponsor-thumb-1.jpg
     - /assets/images/content/yvr18-sponsor-thumb-1.jpg
@@ -37,19 +37,17 @@ flow:
         - format: text
           style: text-center text-white
           text_content:
-            text: Linaro Connect is taking place at Paradise Point in San Diego, California (23 - 27 September 2019)
-        - format: custom_include
-          source: keynotes.html
+            text: Resources from SAN19 are now available!
         - format: buttons
           style: text-center
           buttons_content:
-              - title: View Schedule
-                url: /schedule/
+              - title: View Resources
+                url: /resources/san19/
                 icon: fa fa-calendar
                 style: btn-secondary
-              - title: Register
-                url: /register/
-                icon: fa fa-arrow-right
+              - title: Youtube Playlist
+                url: https://www.youtube.com/watch?v=rFOZfxd-QEo&list=PLKZSArYQptsOzc0kBoWyVSC3f0sHbJdBK
+                icon: fa fa-youtube
                 style: btn-primary
     - row: container_row
       sections:
