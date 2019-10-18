@@ -4,6 +4,7 @@ categories:
 comments: false
 date: '2019-10-17 09:00:00+00:00'
 image:
+  name: san19-op-tee-moves-into-trusted-firmware-interview.png
   path: /assets/images/featured-images/san19-op-tee-moves-into-trusted-firmware-interview.png
 layout: resource-post-demo-interview
 session_track: Interview
@@ -14,7 +15,7 @@ speakers:
   name: Matteo Carlini
 - company: Linaro
   name: Joakim Bech
-title: Linaro donates OP-TEE to Trusted Firmware Project
+title: Linaro donates OP-TEE to the Trusted Firmware Project
 youtube_video_url: https://www.youtube.com/watch?v=-vuEiZr0LtU
 tag: interview
 ---
