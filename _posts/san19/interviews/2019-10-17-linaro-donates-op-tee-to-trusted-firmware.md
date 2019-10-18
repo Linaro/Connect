@@ -2,7 +2,7 @@
 categories:
 - san19
 comments: false
-date: '2019-10-18 09:00:00+00:00'
+date: '2019-10-17 09:00:00+00:00'
 image:
   path: /assets/images/featured-images/san19-op-tee-moves-into-trusted-firmware-interview.png
 layout: resource-post-demo-interview
