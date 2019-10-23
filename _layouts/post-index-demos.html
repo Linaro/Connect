@@ -27,6 +27,13 @@ js-package: resources-blog
     title: "{{ post.title }}"
     alt: "{{ post.title }}"
     {% endresponsive_image_block %}
+                        {% elsif post.image.path %}
+    {% capture image_path %}{{post.image.path}}{% endcapture %}
+    {% responsive_image_block %}
+    path: "{{ image_path }}"
+    title: "{{ post.title }}"
+    alt: "{{ post.title }}"
+    {% endresponsive_image_block %}
                         {% else %}
                         {% capture image_path %}assets/images/content/connect-logo.png{% endcapture %}
                         {% for each in site.data.connects %}
