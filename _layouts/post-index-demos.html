@@ -28,7 +28,7 @@ js-package: resources-blog
     alt: "{{ post.title }}"
     {% endresponsive_image_block %}
                         {% elsif post.image.path %}
-    {% capture image_path %}{{post.image.path}}{% endcapture %}
+    {% capture image_path %}{{post.image.path | remove_first: "/" }}{% endcapture %}
     {% responsive_image_block %}
     path: "{{ image_path }}"
     title: "{{ post.title }}"
