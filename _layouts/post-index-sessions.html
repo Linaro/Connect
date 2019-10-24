@@ -9,6 +9,7 @@ js-package: resources-blog
 {% for connect in site.data.connects %}
     {% if connect.id == current_connect and connect.using_json == "True" %}
         {% assign using_json = "True" %}
+        {% assign end_date = connect.end-date | date: '%B %d, %Y' %}
     {% endif %}
 {% endfor %}
 <div class="col-md-9" id="main-resources-content" event-id="{{current_connect}}">
@@ -18,6 +19,7 @@ js-package: resources-blog
         </div>
     </div>
     <div class="row">
+    {% if paginator.total_posts > 0 %}
     {% for post in paginator.posts %}
         <div class="col-md-4 col-sm-4 col-xs-12">
             <div class="resource-block">
@@ -70,7 +72,7 @@ alt: "{{ image_title }}"
                 </div>
             {% if using_json == "True" %}
             <!-- <div class="resource-info col-xs-12 no-padding using_json" session-id="{{post.session_id}}">
-               
+
             </div> -->
             {% if post.session_id %}
                 <span data-session-id="{{post.session_id}}" class="session_id">{{post.session_id}}</span>
@@ -114,10 +116,19 @@ alt: "{{ image_title }}"
             </div>
             {% endif %}
 
-        </a>    
+        </a>
     </div>
     </div>
     {% endfor %}
+    {% else %}
+        <div class="col-xs-12">
+            <p>
+                There are no session resources currently available/scheduled. Please check back after Connect has ended ({{end_date}})
+                for more resources; or subscribe to our <a href="https://www.youtube.com/user/LinaroOrg/videos">YouTube Channel</a>
+                to receive updates when we release the Connect resources.
+            </p>
+        </div>
+    {% endif %}
     </div>
     {% include pagination/pagination-resources.html event_code=page.event_code end_path="/sessions/" %}
 </div>
