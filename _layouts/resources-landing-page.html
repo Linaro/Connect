@@ -35,6 +35,7 @@ js-package: resources-landing-page
         </div>
     </div>
 </div>
+{% assign event_code_lower = page.event_code | downcase %}
 {% assign connect_resources_count = site.categories[event_code_lower] | where: 'tag', 'session' | size %}
 {% if connect_resources_count > 0 %}
 <div class="row content-row" id="resources-table">
@@ -54,7 +55,6 @@ js-package: resources-landing-page
                     <th>Resources Page</th>
                 </thead>
                 <tbody>
-                    {% assign event_code_lower = page.event_code | downcase %}
                     {% assign sessions = site.categories[event_code_lower] | where: 'tag', 'session' | sort: 'session_id' %}
                     {% for session in sessions %}
                     <tr data-track="{{session.session_track}}"
