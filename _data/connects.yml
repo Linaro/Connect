@@ -1,3 +1,14 @@
+- id: BUD20
+  placeholder: bud20-placeholder.jpg
+  featured_images:
+    - /assets/images/content/bud20-placeholder.jpg
+  long-name: Linaro Connect Budapest 2020
+  using_json: "True"
+  start-date: 2020-03-23 09:00:00
+  end-date: 2020-03-27 09:00:00
+  location:
+      city: Budapest
+      country: Hungary
 - id: SAN19
   placeholder: san19-group-photo.jpg
   featured_images:
