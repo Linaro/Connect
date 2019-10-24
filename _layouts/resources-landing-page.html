@@ -35,6 +35,8 @@ js-package: resources-landing-page
         </div>
     </div>
 </div>
+{% assign connect_resources_count = site.categories[event_code_lower] | where: 'tag', 'session' | size %}
+{% if connect_resources_count > 0 %}
 <div class="row content-row" id="resources-table">
     <div class="container m-t-40">
         <div id="resources-overview-table" data-connect-id="{{connect_data.id}}"
@@ -111,3 +113,10 @@ js-package: resources-landing-page
         </div>
     </div>
 </div>
+{% else %}
+<div class="row content-row">
+    <div class="container m-t-40">
+        There are no resources available yet!
+    </div>
+</div>
+{% endif%}
