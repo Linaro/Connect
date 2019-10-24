@@ -157,13 +157,6 @@ span.track:hover {
   position: relative;
 }
 
-@media (min-width: $screen-md-min) {
-  .presentation + .s3-link {
-    top: -1px;
-    position: relative;
-  }
-}
-
 #content-container .blog-sidebar .stats.col-xs-12 p {
   margin-bottom: 5px;
   font-size: 12px;
