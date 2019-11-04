@@ -270,6 +270,13 @@ collections:
         name: "footer"
         file: "_data/footer.yml"
         fields:
+          - label: "Mailchimp Sign up form"
+            name: "mailchimp_form"
+            widget: object
+            required: false
+            fields:
+              - {label: "Mailchimp row title", name: "title", widget: string, required: false}
+              - {label: "Mailchimp row text", name: "text", widget: text, required: false}
           - label: "Copyright Text"
             name: copyright-text
             widget: string
