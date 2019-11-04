@@ -196,7 +196,6 @@ $(document).ready(function() {
 // Wait for all ajax requests to stop
 $(document).ajaxStop(function() {
   // Initialise the Fuse.js search
-  console.log(originalResults);
   var fuse = new Fuse(originalResults, options); // "list" is the item array
   // Monitor for the keyup event with a 1 second delay.
   $("#search-query").keyup(function() {
