@@ -10,7 +10,7 @@ var options = {
   distance: 100,
   maxPatternLength: 32,
   minMatchCharLength: 3,
-  keys: ["title", "summary", "speakers", "tracks"]
+  keys: ["title", "summary", "speakers.name", "tracks"]
 };
 // Define the results array to be used when searching.
 var originalResults = [];
@@ -196,6 +196,7 @@ $(document).ready(function() {
 // Wait for all ajax requests to stop
 $(document).ajaxStop(function() {
   // Initialise the Fuse.js search
+  console.log(originalResults);
   var fuse = new Fuse(originalResults, options); // "list" is the item array
   // Monitor for the keyup event with a 1 second delay.
   $("#search-query").keyup(function() {
