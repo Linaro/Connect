@@ -1,3 +1,8 @@
+<div class="row" id="mailchimp_signup">
+    <div class="container">
+        {% include mailchimp_signup_form.html %}
+    </div>
+</div>
 <footer>
     <div class="row footer footer-main p-t-40">
         <div class="container">
@@ -53,7 +58,7 @@
                 Copyright &copy; {{ 'now' | date: "%Y" }} {{site.data.footer.copyright-text}}
                 {% for link in site.data.footer.company-links %}
                     <span class="coloured-bp">&bull;</span>
-                    <a href="{{link.url}}">{{link.name}}</a> 
+                    <a href="{{link.url}}">{{link.name}}</a>
                 {% endfor %}
             </div>
             <div class="col-xs-12 text-white text-center m-t-10">
