@@ -1,10 +1,10 @@
+{% if site.data.footer.mailchimp_form %}
 <div class="row" id="mailchimp_signup">
   <div class="container">
     <div class="col-xs-12 text-center">
-      <h3>Sign up to our Mailing List</h3>
+      <h3>{{site.data.footer.mailchimp_form.title}}</h3>
       <p>
-        Sign up to our mailing list to receive updates on the latest Linaro
-        Connect news!
+        {{site.data.footer.mailchimp_form.text}}
       </p>
     </div>
     <div class="col-xs-12 mailchimp_form">
@@ -93,3 +93,4 @@
     </div>
   </div>
 </div>
+{% endif %}
