@@ -10,7 +10,7 @@ var options = {
   distance: 100,
   maxPatternLength: 32,
   minMatchCharLength: 3,
-  keys: ["title", "summary", "speakers", "tracks"]
+  keys: ["title", "summary", "speakers.name", "tracks"]
 };
 // Define the results array to be used when searching.
 var originalResults = [];
