@@ -28,6 +28,10 @@ third-column:
         url: https://www.op-tee.org
       - name: Linaro Developer Cloud
         url: https://www.linaro.cloud
+mailchimp_form:
+  title: Sign up. Receive Updates. Stay informed.
+  text: >
+    Sign up to our mailing list to receive updates on the latest Linaro Connect news!
 # Custom Col on the right
 # third-column:
 #     title: Other Projects
