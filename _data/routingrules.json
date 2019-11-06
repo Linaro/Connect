@@ -59,5 +59,6 @@
     "^/blog/las16(/?|/index.html)$ https://www.linaro.org/blog/las16/ [R,L,NC]",
     "^/blog/bud17-1(/?|/index.html)$ https://www.linaro.org/blog/bud17-1/ [R,L,NC]",
     "^/agendas(/?|/index.html)$ /resources/ [R,L,NC]",
+    "^/press(/?|/index.html)$ /contact/ [R,L,NC]",
     "^/attend(/?|/index.html)$ / [R,L,NC]"
 ]
