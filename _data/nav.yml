@@ -20,7 +20,7 @@ pages:
       - text: Future Connect Events
         url: /future-connects/
       - text: 'Accommodation '
-        url: 'https://connect.linaro.org/accommodation/'
+        url: /accommodation/
     title: Attend
   - active_paths:
       - /resources/
