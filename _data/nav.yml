@@ -1,41 +1,40 @@
-# Search Config
-search:
-    enabled: true
-    label: Connect
-# Universal Nav Bar Toggle
 universal-nav: true
-# Nav Brand Config
+search:
+  enabled: true
+  label: Connect
 brand:
-    text: Linaro Connect
-    image:
-        enabled: true
-        name: connect-logo-horizontal.html
-        svg: true
-    url: /
+  image:
+    enabled: true
+    name: connect-logo-horizontal.html
+    svg: true
+  text: Linaro Connect
+  url: /
 pages:
-    - title: About
-      url: /about/
-    - title: Sponsor
-      url: /sponsors/
-    - title: Attend
-      options:
-          - text: Register
-            url: /register/
-          - text: Future Connect Events
-            url: /future-connects/
-    - title: Resources
-      active_paths:
-          - /resources/
-      options:
-          - text: All Resources
-            url: /resources/
-          - text: San Diego 2019
-            url: /resources/san19/
-          - text: Bangkok 2019
-            url: /resources/bkk19/
-          - text: Vancouver 2018
-            url: /resources/yvr18/
-          - text: Hong Kong 2018
-            url: /resources/hkg18/
-          - text: San Francisco 2017
-            url: /resources/sfo17/
+  - title: About
+    url: /about/
+  - title: Sponsor
+    url: /sponsors/
+  - options:
+      - text: Register
+        url: /register/
+      - text: Future Connect Events
+        url: /future-connects/
+      - text: 'Accommodation '
+        url: 'https://connect.linaro.org/accommodation/'
+    title: Attend
+  - active_paths:
+      - /resources/
+    options:
+      - text: All Resources
+        url: /resources/
+      - text: San Diego 2019
+        url: /resources/san19/
+      - text: Bangkok 2019
+        url: /resources/bkk19/
+      - text: Vancouver 2018
+        url: /resources/yvr18/
+      - text: Hong Kong 2018
+        url: /resources/hkg18/
+      - text: San Francisco 2017
+        url: /resources/sfo17/
+    title: Resources
