@@ -374,6 +374,7 @@ collections:
   - label: "Pages"
     name: "pages"
     folder: "_pages"
+    create: true
     editor:
       preview: false
     fields:
