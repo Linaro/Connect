@@ -37,14 +37,14 @@ flow:
       - format: text
         style: text-center text-white
         text_content:
-          text: Registration and call for papers is now open!
+          text: Registration and call for proposals now open!
       - format: buttons
         style: text-center
         buttons_content:
           - title: Register
             url: /register/
             style: btn-secondary
-          - title: Call for Papers
+          - title: Call for Proposals
             url: /cfp/
             style: btn-primary
   - row: container_row
