@@ -34,6 +34,7 @@ collections:
             default: true
           - label: "Navigation Search"
             name: "search"
+            required: false
             widget: object
             fields:
                 - {label: Enabled, name: enabled, widget: boolean, required: false, default: true}
@@ -42,12 +43,13 @@ collections:
             name: "brand"
             widget: object
             fields:
-                - {label: Text, name: text, widget: string}
+                - {label: Text, name: text, widget: string, required: false}
                 - label: Image
                   name: image
                   widget: object
+                  required: false
                   fields:
-                    - {label: Enabled, name: enabled, widget: boolean, default: true}
+                    - {label: Enabled, name: enabled, widget: boolean, default: true, required: false}
                     - {label: Name, name: name, widget: string, default: true, required: false}
                     - {label: SVG, name: svg, widget: boolean, default: true, required: false}
                     - {label: Path, name: path, widget: image, default: true, required: false}
@@ -56,7 +58,7 @@ collections:
             name: "pages"
             widget: "list"
             fields:
-                - {label: Name, name: title, widget: string}
+                - {label: Name, name: title, widget: string, required: false}
                 - {label: Link, name: url, widget: string, required: false}
                 - {label: Active Paths, name: active_paths, widget: string, required: false}
                 - label: Sub Options
@@ -64,8 +66,8 @@ collections:
                   required: false
                   widget: 'list'
                   fields:
-                    - {label: Name, name: text, widget: string}
-                    - {label: Link, name: url, widget: string}
+                    - {label: Name, name: text, widget: string, required: false}
+                    - {label: Link, name: url, widget: string, required: false}
   - label: "Featured Keynote Speakers (homepage)"
     name: "featured_keynote_speakers"
     editor:
@@ -372,6 +374,7 @@ collections:
   - label: "Pages"
     name: "pages"
     folder: "_pages"
+    create: true
     editor:
       preview: false
     fields:
