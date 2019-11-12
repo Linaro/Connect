@@ -11,23 +11,30 @@ jumbotron:
 flow:
   - row: main_content_row
 ---
-The next Connect will be held in Budapest 23-27 March 2020 in Budapest, Hungary. Registration will open shortly!
+The next Connect will be held 23-27 March 2020 in Budapest, Hungary at the Corinthia Hotel. 
 
-<!-- Noscript content for added SEO -->
-<noscript><a href="https://www.eventbrite.co.uk/e/linaro-connect-budapest-bud20-registration-80390332649" rel="noopener noreferrer" target="_blank"></noscript>
-<!-- You can customize this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-80390332649" type="button">Buy Tickets</button>
-<noscript></a>Buy Tickets on Eventbrite</noscript>
-<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '80390332649',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-80390332649',
-        onOrderComplete: exampleCallback
-    });
-</script>
+
+
+[REGISTER HERE](https://www.eventbrite.co.uk/e/linaro-connect-budapest-bud20-registration-80390332649) 
+
+General ticket pricing: 
+
+$2,500 for a 5 day pass
+
+$750 for a 1 day pass 
+
+
+
+Member ticket pricing:
+
+$900 for a 5 day pass
+
+$300 for a 1 day pass 
+
+If you are attending from a member company and don't know your promotional discount code, please email connect@linaro.org 
+
+Tickets include access to all keynotes and sessions, access to book private meeting rooms, AM and PM coffee breaks, and a buffet lunch on the day(s) you are attending. 
+
+
+
+[REGISTER](https://www.eventbrite.co.uk/e/linaro-connect-budapest-bud20-registration-80390332649)
