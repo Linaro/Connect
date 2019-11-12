@@ -1,3 +1,6 @@
+#main-navigation .navbar-brand svg {
+  padding: 5px 0;
+}
 @media (max-width: 767px) {
   ul#tabbed_nav > li {
     width: 100%;
@@ -17,7 +20,7 @@
   }
 }
 .content-row {
-    background-color: white;
+  background-color: white;
 }
 #main-container .job-op > p {
   line-height: 0;
@@ -663,7 +666,7 @@ div.footer-sponsors {
   font-weight: normal;
 }
 div#current-sponsors {
-    background-color: white;
+  background-color: white;
 }
 #current-sponsors p {
   text-align: center;
@@ -675,15 +678,15 @@ div#current-sponsors {
   font-size: 16px;
 }
 .breadcrumb-container {
-    padding-top: 10px;
-    padding-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .navbar-header {
-    position: relative;
-    z-index: 5;
+  position: relative;
+  z-index: 5;
 }
 div#schedule .list-group-item {
-    overflow: auto;
+  overflow: auto;
 }
 @media (min-width: $screen-sm-min) {
   .collapse.dont-collapse-sm {
@@ -692,118 +695,117 @@ div#schedule .list-group-item {
     visibility: visible;
   }
 }
-#wrapper  #schedule ul.list-group {
-    margin-bottom: 0px;
+#wrapper #schedule ul.list-group {
+  margin-bottom: 0px;
 }
-
 
 // Add to theme
 .shadowed-row {
-    box-shadow: inset 0px 13px 20px -10px #000, inset 0px -13px 20px -10px #000;
+  box-shadow: inset 0px 13px 20px -10px #000, inset 0px -13px 20px -10px #000;
 }
 
 // Schedule page
 #wrapper #overview-schedule .row {
-    background-color: transparent;
+  background-color: transparent;
 }
 #wrapper div#overview-schedule {
-    background-color: #323232;
+  background-color: #323232;
 }
-#wrapper div#overview-schedule h3{
-    color:white;
-    margin:40px 0;
+#wrapper div#overview-schedule h3 {
+  color: white;
+  margin: 40px 0;
 }
 #wrapper div#overview-schedule li.list-group-item {
-    overflow: auto;
+  overflow: auto;
 }
-#wrapper div#overview-schedule ul{
-    margin-bottom:0px;
+#wrapper div#overview-schedule ul {
+  margin-bottom: 0px;
 }
 #wrapper div#overview-schedule .panel-heading {
-    border-color:transparent;
+  border-color: transparent;
 }
 // Resources search page
 div#connect-resources-table {
-    height: 1000px;
-    overflow: scroll !important;
+  height: 1000px;
+  overflow: scroll !important;
 }
 .padded img {
-    padding: 20px;
+  padding: 20px;
 }
 // Featured Sessions Slider
 #featured-sessions-slider h3 {
-    font-size: 16px;
+  font-size: 16px;
 }
 div#jumbotron {
-    margin-bottom: 0px;
+  margin-bottom: 0px;
 }
 .big-triangle {
-    top: -30px;
-    @media(min-width: $screen-sm-min)
-    {
-         top: -48px;
-    }
+  top: -30px;
+  @media (min-width: $screen-sm-min) {
+    top: -48px;
+  }
 }
 // Resources search page
 #resources-overview-table {
-    height: 1000px;
-    overflow: scroll !important;
+  height: 1000px;
+  overflow: scroll !important;
 }
 .double-scroll::-webkit-scrollbar-thumb {
-    background-color: #78ac01;
-    outline: 1px solid #fff;
+  background-color: #78ac01;
+  outline: 1px solid #fff;
 }
 #wrapper table ul {
-    font-size: 14px;
+  font-size: 14px;
 }
 a.btn.btn-secondary {
-    background-color: #77a902;
-    color: white;
+  background-color: #77a902;
+  color: white;
 }
 a.btn.btn-secondary:hover {
-    background-color: #444444;
-    color: white;
+  background-color: #444444;
+  color: white;
 }
 
 #wrapper a.dropdown-item {
-    height: 50px;
-    line-height: 40px;
-    border-bottom: 1px solid #eee;
+  height: 50px;
+  line-height: 40px;
+  border-bottom: 1px solid #eee;
 }
 
 #jumbotron.overlay:before {
-    content: '';
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    height: 400px;
-    left: 0;
-    opacity: .6;
-    width: 100%;
-    z-index: -1;
-    background-image: linear-gradient(to bottom right, #000, #000);
-    background-image: -webkit-linear-gradient(top, #000, #FFF);
-    background-image: -moz-linear-gradient(top, #000, #FFF);
-    background-image: -ms-linear-gradient(top, #000, #FFF);
-    background-image: -o-linear-gradient(top, #000, #FFF);
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  height: 400px;
+  left: 0;
+  opacity: 0.6;
+  width: 100%;
+  z-index: -1;
+  background-image: linear-gradient(to bottom right, #000, #000);
+  background-image: -webkit-linear-gradient(top, #000, #000);
+  background-image: -moz-linear-gradient(top, #000, #000);
+  background-image: -ms-linear-gradient(top, #000, #000);
+  background-image: -o-linear-gradient(top, #000, #000);
 }
 // Mailchimp Signup form.
 div#mailchimp_signup {
-    padding: 50px 0;
-    background-color: #f2f2f2;
+  padding: 50px 0;
+  background-color: #f2f2f2;
 }
 div#mc_embed_signup {
-    background: transparent;
+  background: transparent;
 }
-div#mc_embed_signup form input.email{
-    height:40px;
-    color: $brand-primary;
-    border-radius: 2px !important;
+div#mc_embed_signup form input.email {
+  height: 40px;
+  color: $brand-primary;
+  border-radius: 2px !important;
 }
 input#mc-embedded-subscribe {
-    height: 40px !important;
+  height: 40px !important;
 }
-#mailchimp_signup .col-xs-12.text-center h3,#mailchimp_signup .col-xs-12.text-center p {
-    color: #313131;
+#mailchimp_signup .col-xs-12.text-center h3,
+#mailchimp_signup .col-xs-12.text-center p {
+  color: #313131;
 }
