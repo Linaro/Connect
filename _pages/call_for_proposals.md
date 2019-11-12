@@ -8,6 +8,7 @@ jumbotron:
   title: Call for Proposals
   description: ''
 flow:
+  - row: main_content_row
   - row: container_row
     sections:
       - feature_block_content:
@@ -38,10 +39,9 @@ flow:
             smallest devices (IoT and embedded) to big data (enterprise), there
             is an Arm solution. We welcome proposals for technical presentations
             and discussions and Birds of a Feather (BoF).
-          title: Call for proposals (now closed)
+          title: Call for Proposals
           type: slider
         format: feature_block
-  - row: main_content_row
   - row: custom_include_row
     source: common_topic_areas.html
 ---
