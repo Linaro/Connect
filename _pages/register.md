@@ -8,26 +8,18 @@ css-package: about
 layout: flow
 jumbotron:
   background-image: /assets/images/content/san19-theme-banner.jpg
+  buttons:
+    - title: Register
+      url: https://www.eventbrite.co.uk/e/linaro-connect-budapest-bud20-registration-80390332649
+      class: btn btn-primary
 flow:
   - row: main_content_row
+  - row: container_row
+    sections:
+      - format: custom_include
+        source: connect_register.html
 ---
-The next Connect will be held in Budapest 23-27 March 2020 in Budapest, Hungary. Registration will open shortly!
 
-<!-- Noscript content for added SEO -->
-<noscript><a href="https://www.eventbrite.co.uk/e/linaro-connect-budapest-bud20-registration-80390332649" rel="noopener noreferrer" target="_blank"></noscript>
-<!-- You can customize this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-80390332649" type="button">Buy Tickets</button>
-<noscript></a>Buy Tickets on Eventbrite</noscript>
-<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '80390332649',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-80390332649',
-        onOrderComplete: exampleCallback
-    });
-</script>
+The next Connect will be held in Budapest 23-27 March 2020 in Budapest, Hungary.
+
+<a class="btn btn-primary" href="https://www.eventbrite.co.uk/e/linaro-connect-budapest-bud20-registration-80390332649">Register</a>
