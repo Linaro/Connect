@@ -21,5 +21,3 @@ flow:
 ---
 
 The next Connect will be held in Budapest 23-27 March 2020 in Budapest, Hungary.
-
-<a class="btn btn-primary" href="https://www.eventbrite.co.uk/e/linaro-connect-budapest-bud20-registration-80390332649">Register</a>
