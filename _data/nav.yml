@@ -17,16 +17,16 @@ pages:
   - options:
       - text: Register
         url: /register/
-      - text: Future Connect Events
-        url: /future-connects/
-      - text: 'Accommodation '
-        url: /accommodation/
       - text: 'Call for Proposals '
         url: /cfp/
-      - text: Business Invitation and Visa Support Letters
-        url: /business-invitation-letters/
       - text: 'Call for Demos '
         url: /demo-friday/
+      - text: 'Accommodation '
+        url: /accommodation/
+      - text: Business Invitation and Visa Support Letters
+        url: /business-invitation-letters/
+      - text: Future Connect Events
+        url: /future-connects/
     title: Attend
   - active_paths:
       - /resources/
