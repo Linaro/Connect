@@ -17,9 +17,9 @@ jumbotron:
   description: ""
   video:
     source:
-      mp4: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromo.mp4
-      ogv: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromo.ogv
-      webm: https://s3.amazonaws.com/static-linaro-org/connect/assets/videos/LinaroConnectPromo.webm
+      mp4: https://static.linaro.org/connect/assets/videos/san19_promo_banner.mp4
+      ogv: https://static.linaro.org/connect/assets/videos/san19_promo_banner.ogv
+      webm: https://static.linaro.org/connect/assets/videos/san19_promo_banner.webm
     poster: /assets/images/content/san19-group-photo.jpg
 home: true
 redirect_from:
