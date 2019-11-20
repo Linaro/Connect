@@ -809,3 +809,19 @@ input#mc-embedded-subscribe {
 #mailchimp_signup .col-xs-12.text-center p {
   color: #313131;
 }
+video#jumbotronVideo {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    top: 0px;
+    z-index: -2;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+nav#universal-nav {
+    position: relative;
+}
