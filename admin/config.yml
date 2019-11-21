@@ -17,60 +17,8 @@ slug:
   sanitize_replacement: "_"
 media_folder: "assets/images/content"
 collections:
-  # Website Settings
-  # This section allows you to make changes to the nav, footer and other misc website settings.
-  - label: "Navbar"
-    name: "Navbar"
-    editor:
-      preview: false
-    files:
-      - label: "Navigation"
-        name: "navigation"
-        file: "_data/nav.yml"
-        fields:
-          - label: "Universal Navbar"
-            name: universal-nav
-            widget: boolean
-            required: false
-            default: true
-          - label: "Navigation Search"
-            name: "search"
-            required: false
-            widget: object
-            fields:
-                - {label: Enabled, name: enabled, widget: boolean, required: false, default: true}
-                - {label: Label, name: label, widget: string, required: false, default: "Connect"}
-          - label: "Navigation Brand"
-            name: "brand"
-            widget: object
-            fields:
-                - {label: Text, name: text, widget: string, required: false}
-                - label: Image
-                  name: image
-                  widget: object
-                  required: false
-                  fields:
-                    - {label: Enabled, name: enabled, widget: boolean, default: true, required: false}
-                    - {label: Name, name: name, widget: string, default: true, required: false}
-                    - {label: SVG, name: svg, widget: boolean, default: true, required: false}
-                    - {label: Path, name: path, widget: image, default: true, required: false}
-                - {label: Url, name: url, widget: string, required: false, default: /}
-          - label: "Navigation Items"
-            name: "pages"
-            widget: "list"
-            fields:
-                - {label: Name, name: title, widget: string, required: false}
-                - {label: Link, name: url, widget: string, required: false}
-                - {label: Active Paths, name: active_paths, widget: string, required: false}
-                - label: Sub Options
-                  name: options
-                  required: false
-                  widget: 'list'
-                  fields:
-                    - {label: Name, name: text, widget: string, required: false}
-                    - {label: Link, name: url, widget: string, required: false}
-  - label: "Featured Keynote Speakers (homepage)"
-    name: "featured_keynote_speakers"
+  - label: "Website Data Files & Settings"
+    name: "config"
     editor:
       preview: false
     files:
@@ -100,11 +48,6 @@ collections:
                     - {label: "Speaker Position", name: "position", widget: string, required: true, hint: "The speakers job title at company... e.g Senior Director at Qualcomm"}
                     - {label: "Speaker Bio", name: "bio", widget: text, required: true, hint: "The speakers bio/profile text"}
                     - {label: "Company Website", name: "company_website", widget: string, required: true}
-  - label: "Website Settings"
-    name: "config"
-    editor:
-      preview: false
-    files:
       - label: "Settings"
         name: "settings"
         file: "_data/settings.yml"
@@ -376,6 +319,8 @@ collections:
     name: "pages"
     folder: "_pages"
     create: true
+    preview_path: "{{slug}}"
+    slug: "{{permalink}}"
     editor:
       preview: false
     fields:
@@ -709,6 +654,7 @@ collections:
   - label: "SAN19 Posts"
     name: "connect_resources"
     folder: "_posts/san19/sessions"
+    preview_path: "/resources/san19/{{slug}}"
     editor:
       preview: false
     fields:
