@@ -9,7 +9,7 @@ jumbotron:
   buttons:
     - class: btn btn-primary fa fa-download
       title: Download Prospectus
-      url: 'https://linaro.co/LinaroConnectSponsorshipProspectus'
+      url: 'http://link.linaro.org/prospectus'
   carousel-images:
     - /assets/images/content/hkg18-sponsor-bg-1.jpg
     - /assets/images/content/yvr18-sponsor-bg-1.jpg
@@ -21,14 +21,12 @@ flow:
     sections:
       - feature_block_content:
           buttons:
-            - style: btn-primary
-              icon: fa fa-envelope
+            - icon: fa fa-envelope
               title: Get in Touch
               url: 'mailto:connect@linaro.org'
-            - style: btn-primary
-              icon: fa fa-download
+            - icon: fa fa-download
               title: Download Prospectus
-              url: 'https://linaro.co/LinaroConnectSponsorshipProspectus'
+              url: 'http://link.linaro.org/prospectus'
           position: left
           slider_content:
             dots: false
@@ -48,8 +46,8 @@ flow:
             xs_items: 1
           text: >-
             Linaro Connect Budapest 2020 will be the 31st Connect since Linaro
-            was founded in June 2010. Hundreds of the world’s leading Linux on Arm
-            developers come to Linaro Connect to share ideas with fellow
+            was founded in June 2010. Hundreds of the world’s leading Linux on
+            Arm developers come to Linaro Connect to share ideas with fellow
             experts, plan future engineering work and learn what is going on in
             the industry. Sponsorship of the event puts your brand in front of
             all the event attendees – both the hundreds of attendees on-site as
@@ -66,3 +64,4 @@ flow:
   - row: custom_include_row
     source: sponsorship_benefits.html
 ---
+
