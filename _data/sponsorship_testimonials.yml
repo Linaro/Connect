@@ -20,3 +20,10 @@ items:
         ogv: https://static-linaro-org.s3.amazonaws.com/videos/connect_sponsorship_testimonials/packet_connect_sponsorship_testimonial.ogv
         mp4: https://static-linaro-org.s3.amazonaws.com/videos/connect_sponsorship_testimonials/packet_connect_sponsorship_testimonial.mp4
         webm: https://static-linaro-org.s3.amazonaws.com/videos/connect_sponsorship_testimonials/packet_connect_sponsorship_testimonial.webm
+    - title: Riscure - Why Sponsor Linaro Connect?
+      screen_cap: /assets/images/content/riscure_connect_sponsorship_testimonial_cover.png
+      member_name: Riscure
+      video_sources:
+        ogv: https://static-linaro-org.s3.amazonaws.com/videos/connect_sponsorship_testimonials/riscure-why-sponsor-linaro-connect.ogv
+        mp4: https://static-linaro-org.s3.amazonaws.com/videos/connect_sponsorship_testimonials/riscure-why-sponsor-linaro-connect.mp4
+        webm: https://static-linaro-org.s3.amazonaws.com/videos/connect_sponsorship_testimonials/riscure-why-sponsor-linaro-connect.webm
