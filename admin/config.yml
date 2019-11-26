@@ -22,6 +22,25 @@ collections:
     editor:
       preview: false
     files:
+      - label: "Sponsorship Testimonials"
+        name: "sponsorship_testimonials"
+        file: "_data/sponsorship_testimonials.yml"
+        fields:
+          - label: "Items"
+            name: "items"
+            widget: "list"
+            fields:
+                - {label: Title, name: title, widget: string, hint: "Title of the Testimonial.", required: true}
+                - {label: Cover Image, name: screen_cap, widget: image, hint: "Placeholder image of the testimonial - usually a screenshot of the video.", required: true}
+                - {label: Member Name, name: member_name, widget: string, hint: "Name of the member company the testimonial is from.", required: true}
+                - label: Video Sources
+                  name: video_sources
+                  widget: object
+                  required: true
+                  fields:
+                    - {label: "OGV video url", name: "ogv", widget: string, required: false}
+                    - {label: "MP4 video url", name: "mp4", widget: string, required: false}
+                    - {label: "WEBM video url", name: "webm", widget: string, required: false}
       - label: "Keynotes"
         name: "featured_keynotes"
         file: "_data/featured_keynotes.yml"
