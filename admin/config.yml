@@ -347,7 +347,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "URL", name: "permalink", widget: "string"}
+      - {label: "URL", name: "permalink", pattern: ['\/[a-z\-]+\/', "Please use only lower case chacters and dashes in url's. Also start and end your url with a /. E.g /new-page/ "], widget: "string"}
       - {label: "Custom JS Package", name: "js-package", widget: hidden, default: false, required: false}
       - {label: "Custom CSS Package", name: "css-package", widget: hidden, default: false, required: false}
       - {label: "Layout", name: "layout", widget: hidden, default: "flow", required: true}
@@ -378,7 +378,6 @@ collections:
               - label: "Slide Description"
                 name: "description"
                 required: false
-                default: ""
                 widget: "text"
               - label: "Title Class"
                 name: "title-class"
@@ -393,7 +392,6 @@ collections:
               - label: "Darken"
                 name: "darken"
                 widget: "boolean"
-                default: true
                 required: false
                 hint: "Adds the dark filter to the background image. This should usually be toggled."
               - label: "Slide Image"
@@ -585,13 +583,13 @@ collections:
                     required: false
                     fields:
                       - {label: "Enable Lightbox", name: lightbox_enabled, widget: boolean, required: false, hint: "Allow slider images to show in a lightbox (popup)"}
-                      - {label: "Slide Delay", name: seconds_per_slide, widget: "number", default: 4, required: false}
+                      - {label: "Slide Delay", name: seconds_per_slide, widget: "number", required: false}
                       - {label: "Enable Arrow Navigation", name: nav, widget: boolean, required: false, hint: "Toggle the arrow navigation on the slider"}
                       - {label: "Enable Slider Dots", name: dots, widget: boolean, required: false, hint: "Toggle the slider dots"}
-                      - {label: "Mobile Items (XS)", name: "xs_items", widget: "number", default: 1, required: false}
-                      - {label: "Tablet Items (SM)", name: "sm_items", widget: "number", default: 2, required: false}
-                      - {label: "Small Desktop Items (MD)", name: "md_items", widget: "number", default: 4, required: false}
-                      - {label: "Desktop Items (LG)", name: "lg_items", widget: "number", default: 6, required: false}
+                      - {label: "Mobile Items (XS)", name: "xs_items", widget: "number", required: false}
+                      - {label: "Tablet Items (SM)", name: "sm_items", widget: "number", required: false}
+                      - {label: "Small Desktop Items (MD)", name: "md_items", widget: "number", required: false}
+                      - {label: "Desktop Items (LG)", name: "lg_items", widget: "number", required: false}
                       - label: "Slider Items"
                         name: items
                         widget: list
@@ -613,13 +611,13 @@ collections:
                 required: false
                 fields:
                   - {label: "Enable Lightbox", name: lightbox_enabled, widget: boolean, required: false, hint: "Allow slider images to show in a lightbox (popup)"}
-                  - {label: "Slide Delay", name: seconds_per_slide, widget: "number", default: 4, required: false}
+                  - {label: "Slide Delay", name: seconds_per_slide, widget: "number", required: false}
                   - {label: "Enable Arrow Navigation", name: nav, widget: boolean, required: false, hint: "Toggle the arrow navigation on the slider"}
                   - {label: "Enable Slider Dots", name: dots, widget: boolean, required: false, hint: "Toggle the slider dots"}
-                  - {label: "Mobile Items (XS)", name: "xs_items", widget: "number", default: 1, required: false}
-                  - {label: "Tablet Items (SM)", name: "sm_items", widget: "number", default: 2, required: false}
-                  - {label: "Small Desktop Items (MD)", name: "md_items", widget: "number", default: 4, required: false}
-                  - {label: "Desktop Items (LG)", name: "lg_items", widget: "number", default: 6, required: false}
+                  - {label: "Mobile Items (XS)", name: "xs_items", widget: "number", required: false}
+                  - {label: "Tablet Items (SM)", name: "sm_items", widget: "number", required: false}
+                  - {label: "Small Desktop Items (MD)", name: "md_items", widget: "number", required: false}
+                  - {label: "Desktop Items (LG)", name: "lg_items", widget: "number", required: false}
                   - label: "Slider Items"
                     name: items
                     widget: list
