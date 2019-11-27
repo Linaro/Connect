@@ -7,26 +7,11 @@ css-package: false
 layout: flow
 jumbotron:
   background-image: /assets/images/content/san19-group-photo.jpg
-  slider:
-    - darken: true
-      description: ''
+  slider: []
   title: Linaro Connect FAQ
 flow:
   - row: main_content_row
-    sections:
-      - feature_block_content:
-          slider_content:
-            lg_items: 6
-            md_items: 4
-            seconds_per_slide: 4
-            sm_items: 2
-            xs_items: 1
-        slider_content:
-          lg_items: 6
-          md_items: 4
-          seconds_per_slide: 4
-          sm_items: 2
-          xs_items: 1
+    sections: []
 image:
   path: /assets/images/social-media-image.png
 ---
