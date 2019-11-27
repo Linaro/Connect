@@ -357,7 +357,7 @@ collections:
         fields:
           - label: "Title"
             name: "title"
-            required: false
+            required: true
             widget: "string"
           - label: "Triangle Divider"
             name: "triangle-divider"
@@ -370,6 +370,7 @@ collections:
           - label: "Slider"
             name: "slider"
             widget: list
+            required: false
             fields:
               - label: "Slide Title"
                 name: "title"
@@ -415,7 +416,7 @@ collections:
           - label: "Background Image"
             name: "background-image"
             widget: "image"
-            required: false
+            required: true
             media_library:
               config:
                 multiple: false
