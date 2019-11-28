@@ -337,25 +337,27 @@ collections:
   - label: "Pages"
     name: "pages"
     folder: "_pages"
-    create: true
-    preview_path: "{{slug}}"
-    slug: "{{permalink}}"
     editor:
       preview: false
+    preview_path: "{{slug}}"
+    create: true
+    description: >
+      This collection allows you to add/edit/delete pages.
+    slug: "{{permalink}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Permalink", name: "permalink", widget: "string"}
-      - {label: "Custom JS Package", name: "js-package", widget: "string", required: false}
-      - {label: "Custom CSS Package", name: "css-package", widget: "string", required: false}
-      - {label: "Layout", name: "layout", widget: "string", required: true, hint: "If in doubt - use the flow layout."}
-      - label: "Jumbotron"
+      - {label: "URL", name: "permalink", pattern: ['\/[a-z\-]+\/', "Please use only lower case chacters and dashes in url's. Also start and end your url with a /. E.g /new-page/ "], widget: "string"}
+      - {label: "Custom JS Package", name: "js-package", widget: hidden, default: false, required: false}
+      - {label: "Custom CSS Package", name: "css-package", widget: hidden, default: false, required: false}
+      - {label: "Layout", name: "layout", widget: hidden, default: "flow", required: true}
+      - label: "Header"
         name: "jumbotron"
         widget: "object"
         fields:
           - label: "Title"
             name: "title"
-            required: false
+            required: true
             widget: "string"
           - label: "Triangle Divider"
             name: "triangle-divider"
@@ -368,6 +370,7 @@ collections:
           - label: "Slider"
             name: "slider"
             widget: list
+            required: false
             fields:
               - label: "Slide Title"
                 name: "title"
@@ -376,7 +379,6 @@ collections:
               - label: "Slide Description"
                 name: "description"
                 required: false
-                default: ""
                 widget: "text"
               - label: "Title Class"
                 name: "title-class"
@@ -391,7 +393,6 @@ collections:
               - label: "Darken"
                 name: "darken"
                 widget: "boolean"
-                default: true
                 required: false
                 hint: "Adds the dark filter to the background image. This should usually be toggled."
               - label: "Slide Image"
@@ -415,7 +416,7 @@ collections:
           - label: "Background Image"
             name: "background-image"
             widget: "image"
-            required: false
+            required: true
             media_library:
               config:
                 multiple: false
@@ -427,16 +428,13 @@ collections:
                 - {label: "Button URL", name: url, widget: string, required: false, hint: "The url your button will link to."}
                 - {label: "Button Class", name: class, widget: string, required: false, hint: "Add an additional class to your button for custom styling."}
                 - {label: "Button Icon", name: icon, widget: string, required: false, hint: "Optionally add a font awesome icon to your button. Required format - 'fa fa-download' visit https://fontawesome.com/v4.7.0/icons/ for a full list of icons available."}
-          - label: "Carousel Images"
+          - label: "Background Carousel Images"
             name: "carousel-images"
             widget: "image"
             required: false
             media_library:
               config:
                 multiple: true
-      # ***********************
-      # Flow Row Configuration
-      # ***********************
       - label: "Flow"
         name: "flow"
         widget: "list"
@@ -469,11 +467,9 @@ collections:
               - {label: "Section Style", name: "style", widget: "select", options: ['zoom', 'grayscale', 'fixed', 'block_row', 'text-center', 'text-white', ], multiple: true, hint: "Add a style to your section.", required: false}
               - label: "Text Section Content"
                 name: "text_content"
-                widget: object
+                widget: text
                 hint: "The text for a text section"
                 required: false
-                fields:
-                  - {label: "Text", widget: text, name: text, required: false, hint: "The text content for your Text Content Section goes here."}
               - label: "Blocks Section Content"
                 name: "block_section_content"
                 widget: object
@@ -521,7 +517,7 @@ collections:
                         name: text_content
                         widget: object
                         fields:
-                            - {label: "Text", name: text, widget: text}
+                            - {label: "Text", name: text, widget: text, required: false}
                         required: false
                         hint: "Provide text content for your block"
                       - label: "Block Buttons"
@@ -588,13 +584,13 @@ collections:
                     required: false
                     fields:
                       - {label: "Enable Lightbox", name: lightbox_enabled, widget: boolean, required: false, hint: "Allow slider images to show in a lightbox (popup)"}
-                      - {label: "Slide Delay", name: seconds_per_slide, widget: "number", default: 4, required: false}
+                      - {label: "Slide Delay", name: seconds_per_slide, widget: "number", required: false}
                       - {label: "Enable Arrow Navigation", name: nav, widget: boolean, required: false, hint: "Toggle the arrow navigation on the slider"}
                       - {label: "Enable Slider Dots", name: dots, widget: boolean, required: false, hint: "Toggle the slider dots"}
-                      - {label: "Mobile Items (XS)", name: "xs_items", widget: "number", default: 1, required: false}
-                      - {label: "Tablet Items (SM)", name: "sm_items", widget: "number", default: 2, required: false}
-                      - {label: "Small Desktop Items (MD)", name: "md_items", widget: "number", default: 4, required: false}
-                      - {label: "Desktop Items (LG)", name: "lg_items", widget: "number", default: 6, required: false}
+                      - {label: "Mobile Items (XS)", name: "xs_items", widget: "number", required: false}
+                      - {label: "Tablet Items (SM)", name: "sm_items", widget: "number", required: false}
+                      - {label: "Small Desktop Items (MD)", name: "md_items", widget: "number", required: false}
+                      - {label: "Desktop Items (LG)", name: "lg_items", widget: "number", required: false}
                       - label: "Slider Items"
                         name: items
                         widget: list
@@ -616,13 +612,13 @@ collections:
                 required: false
                 fields:
                   - {label: "Enable Lightbox", name: lightbox_enabled, widget: boolean, required: false, hint: "Allow slider images to show in a lightbox (popup)"}
-                  - {label: "Slide Delay", name: seconds_per_slide, widget: "number", default: 4, required: false}
+                  - {label: "Slide Delay", name: seconds_per_slide, widget: "number", required: false}
                   - {label: "Enable Arrow Navigation", name: nav, widget: boolean, required: false, hint: "Toggle the arrow navigation on the slider"}
                   - {label: "Enable Slider Dots", name: dots, widget: boolean, required: false, hint: "Toggle the slider dots"}
-                  - {label: "Mobile Items (XS)", name: "xs_items", widget: "number", default: 1, required: false}
-                  - {label: "Tablet Items (SM)", name: "sm_items", widget: "number", default: 2, required: false}
-                  - {label: "Small Desktop Items (MD)", name: "md_items", widget: "number", default: 4, required: false}
-                  - {label: "Desktop Items (LG)", name: "lg_items", widget: "number", default: 6, required: false}
+                  - {label: "Mobile Items (XS)", name: "xs_items", widget: "number", required: false}
+                  - {label: "Tablet Items (SM)", name: "sm_items", widget: "number", required: false}
+                  - {label: "Small Desktop Items (MD)", name: "md_items", widget: "number", required: false}
+                  - {label: "Desktop Items (LG)", name: "lg_items", widget: "number", required: false}
                   - label: "Slider Items"
                     name: items
                     widget: list
@@ -718,7 +714,7 @@ collections:
             name: "alt"
             widget: "string"
             required: false
-      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {label: "Page Content", name: "body", widget: "markdown", required: false}
   - label: "SAN19 Posts"
     name: "connect_resources"
     folder: "_posts/san19/sessions"
