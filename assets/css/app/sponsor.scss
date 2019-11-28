@@ -249,6 +249,10 @@ span.tickets {
     font-weight: bold;
     color: white;
     display: inline-block;
+    &.range {
+        font-size: 16px !important;
+        padding: 7px;
+    }
 }
 
 #sponsor-table tbody tr td:first-child {

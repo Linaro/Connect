@@ -52,37 +52,17 @@ flow:
       - format: title
         title_content:
           size: h2
-          text: SAN19 Sponsors
+          text: BUD20 Sponsors
       - format: members
         style: zoom
         members_content:
-          item_width: 5ths
+          item_width: "12"
           items:
             - name: Arm
               image:
                 path: /assets/images/sponsors/arm.jpg
                 alt: Arm Logo
               url: https://www.linaro.org/company/arm/
-            - name: Qualcomm
-              image:
-                path: /assets/images/sponsors/Qualcomm.svg
-                alt: Qualcomm Logo
-              url: https://www.linaro.org/membership/quic/
-            - name: Xilinx/Avnet
-              image:
-                path: /assets/images/sponsors/xilinx-avnet.jpg
-                alt: Xilinx/Avnet Logo
-              url: https://www.linaro.org/company/xilinx/
-            - name: Arrow
-              image:
-                path: /assets/images/sponsors/arrow.jpg
-                alt: Arrow Logo
-              url: https://www.arrow.com/
-            - name: Riscure
-              image:
-                path: /assets/images/sponsors/riscure.png
-                alt: Riscure Logo
-              url: https://www.riscure.com/
   - row: container_row
     #style: new
     sections:
@@ -128,7 +108,7 @@ flow:
                   at Linaro Connect Bangkok 2019
           title: About Linaro Connect
           text: >
-            Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. The next Connect will be held in San Diego California September 23-27, 2019. Registration is now open!
+            Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. The next Connect will be held in Budapest, Hungary March 23-27, 2020. Registration is now open!
           buttons:
             - title: Learn More
               url: /about/
@@ -141,7 +121,7 @@ flow:
           image_content_path: /assets/images/content/sponsor-cloud-image.png
           title: Sponsor Linaro Connect
           text: >
-            Linaro Connect San Diego 2019 will be the 26th Connect since Linaro started in June 2010. Hundreds of the world’s best Linux on Arm developers come to Linaro Connect each time because they know it is the leading place to meet with the global community and to learn about what is going on in the industry. Sponsorship of the event puts your brand in front of all the event attendees – both the 400+ on-site and all those who participate remotely, as well as the thousands who view the website and social media before, during and after the event.
+            Linaro Connect Budapest 2020 will be the 27th Connect since Linaro started in June 2010. Hundreds of the world’s best Linux on Arm developers come to Linaro Connect each time because they know it is the leading place to meet with the global community and to learn about what is going on in the industry. Sponsorship of the event puts your brand in front of all the event attendees – both the 400+ on-site and all those who participate remotely, as well as the thousands who view the website and social media before, during and after the event.
           buttons:
             - title: Learn More
               url: /sponsors/
