@@ -6,14 +6,16 @@ js-package: sponsor
 css-package: sponsor
 layout: flow
 jumbotron:
+  background-image: /assets/images/content/bkk19-backpack-giveaway.jpg
   buttons:
     - class: btn btn-primary fa fa-download
       title: Download Prospectus
-      url: 'http://link.linaro.org/prospectus'
+      url: 'https://linaro.co/prospectus'
   carousel-images:
     - /assets/images/content/hkg18-sponsor-bg-1.jpg
     - /assets/images/content/yvr18-sponsor-bg-1.jpg
     - /assets/images/content/yvr18-sponsor-bg-2.jpg
+  title: Sponsor Connect
 flow:
   - row: custom_include_row
     source: sponsorship_testimonials.html
@@ -26,7 +28,7 @@ flow:
               url: 'mailto:connect@linaro.org'
             - icon: fa fa-download
               title: Download Prospectus
-              url: 'http://link.linaro.org/prospectus'
+              url: 'https://linaro.co/prospectus'
           position: left
           slider_content:
             dots: false
