@@ -11,8 +11,8 @@ brand:
   url: /
 pages:
   - options:
-      - text: /connect-faqs/
-        url: 'https://connect.linaro.org/connect-faqs/'
+      - text: FAQs
+        url: /connect-faqs/
     title: About
     url: /about/
   - title: Sponsor
