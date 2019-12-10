@@ -10,7 +10,10 @@ brand:
   text: Linaro Connect
   url: /
 pages:
-  - title: About
+  - options:
+      - text: FAQs
+        url: /connect-faqs/
+    title: About
     url: /about/
   - title: Sponsor
     url: /sponsors/
