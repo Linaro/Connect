@@ -1,4 +1,6 @@
-{% include connect_sponsors.html %}
+{% unless page.url == "/" %}
+    {% include connect_sponsors.html %}
+{% endunless %}
 {% include mailchimp_signup_form.html %}
 <footer>
     <div class="row footer footer-main p-t-40">
