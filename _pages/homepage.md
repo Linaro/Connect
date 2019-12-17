@@ -47,22 +47,8 @@ flow:
           - title: Call for Proposals
             url: /cfp/
             style: btn-primary
-  - row: container_row
-    sections:
-      - format: title
-        title_content:
-          size: h2
-          text: BUD20 Sponsors
-      - format: members
-        style: zoom
-        members_content:
-          item_width: "12"
-          items:
-            - name: Arm
-              image:
-                path: /assets/images/sponsors/arm.jpg
-                alt: Arm Logo
-              url: https://www.linaro.org/company/arm/
+  - row: custom_include_row
+    source: connect_sponsors.html
   - row: container_row
     #style: new
     sections:
