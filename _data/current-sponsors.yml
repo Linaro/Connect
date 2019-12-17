@@ -1,16 +1,7 @@
-- name: Arm
-  type: lead
-  image: arm.jpg
-  url: https://www.linaro.org/company/arm/
-- name: Red Hat
-  type: sponsor
-  image: redhat.jpg
-  url: https://www.linaro.org/company/redhat/
-- name: Xilinx and Avnet
-  type: sponsor
-  image: xilinx-avnet.jpg
-  url: https://www.linaro.org/company/xilinx/
-- name: Arrow and Shiratech
-  type: sponsor
-  image: arrow-shiratech.jpg
-  url: https://www.linaro.org/company/arrow/
+enabled: true
+title: BUD20 Sponsors
+items:
+  - name: Arm
+    type: lead
+    image: /assets/images/sponsors/arm.jpg
+    url: https://www.linaro.org/company/arm/
