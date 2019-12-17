@@ -1,0 +1,17 @@
+<div class="container-fluid" id="connect_sponsors">
+    <div class="container">
+        <div class="col-xs-12 text-center">
+            <h2>{{site.data.current-sponsors.title}}</h2>
+        </div>
+        <div class="col-xs-12 no-padding">
+            {% for sponsor in site.data.current-sponsors.items %}
+                <div class="col-xs-12 col-sm-4 connect_sponsor">
+                    <a href="{{sponsor.url}}">
+                        <img class="lazyload img-responsive" alt="{{sponsor.name}} image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                        data-src="{{sponsor.image}}"/>
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
