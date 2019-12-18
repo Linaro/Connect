@@ -106,7 +106,7 @@ Keynotes each morning are live streamed on Youtube and Facebook, and all session
 
 ### **Will I have access to presentation slides from sessions?**
 
-Yes, presentation slides for each session will be available on the Resource page. [/resources/bud20/](/resources/bud20/)
+Yes, presentation slides for each session will be available on the Resources page. [/resources/bud20/](/resources/bud20/)
 
 ### **I’m a speaker. Where do I find my speaker instructions?**
 
