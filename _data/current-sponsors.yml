@@ -2,6 +2,6 @@ enabled: true
 title: BUD20 Sponsors
 items:
   - name: Arm
-    type: lead
+    lead_sponsor: true
     image: /assets/images/sponsors/arm.jpg
     url: https://www.linaro.org/company/arm/
