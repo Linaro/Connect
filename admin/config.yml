@@ -22,6 +22,20 @@ collections:
     editor:
       preview: false
     files:
+      - label: "Current Sponsors"
+        name: "current_sponsors"
+        file: "_data/current-sponsors.yml"
+        fields:
+          - {label: "Enabled", name: enabled, widget: boolean, hint: "Toggle the output of the sponsors section."}
+          - {label: "Title", name: title, widget: string, hint: "Title for the section i.e BUD20 Sponsors or Previous Sponsors etc"}
+          - label: "Items"
+            name: "items"
+            widget: "list"
+            fields:
+                - {label: Name, name:   name, widget: string, hint: "Name of the sponsor i.e Arm", required: true}
+                - {label: Image, name: image, widget: image, hint: "Path to the sponsor image.", required: true}
+                - {label: Lead Sponsor, name: lead_sponsor, widget: boolean, hint: "Is the sponsor a lead sponsor?", required: true}
+                - {label: Sponsor URL, name: url, widget: string, hint: "URL to the sponsor's company page. i.e https://www.linaro.org/company/arm/", required: true}
       - label: "Sponsorship Testimonials"
         name: "sponsorship_testimonials"
         file: "_data/sponsorship_testimonials.yml"
