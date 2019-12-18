@@ -22,11 +22,7 @@ jumbotron:
     - /assets/images/content/bkk16.jpg
   title: About
   title-class: big-title
-  description: >-
-    If you work on open source software for Arm platforms, Linaro Connect is the
-    place to be to understand the latest developments and work directly with the
-    most active engineers and maintainers in the ecosystem.
-  triangle-divider: true
+  description: ""
 flow:
   - row: container_row
     sections:

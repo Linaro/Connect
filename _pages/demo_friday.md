@@ -14,7 +14,6 @@ jumbotron:
   title: Call for Demos
   title-class: big-title
   description: ""
-  triangle-divider: true
 flow:
   - row: container_row
     sections:

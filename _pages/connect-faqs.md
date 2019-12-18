@@ -6,9 +6,9 @@ js-package: false
 css-package: false
 layout: flow
 jumbotron:
-  title-class: big-title
   background-image: /assets/images/content/linaro_connect_bud20_logo.svg
   title: Linaro Connect FAQs
+  title-class: big-title
   description: ""
 flow:
   - row: main_content_row

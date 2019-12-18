@@ -15,7 +15,6 @@ jumbotron:
   title: Accommodation
   title-class: big-title
   description: ""
-  triangle-divider: true
 flow:
   - row: main_content_row
 ---
