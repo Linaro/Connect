@@ -9,6 +9,9 @@ layout: flow
 jumbotron:
   darken: true
   background-image: /assets/images/content/bud20_web_banner.png
+  title: Register
+  title-class: big-title
+  description: ""
   buttons:
     - title: Register
       url: https://www.eventbrite.co.uk/e/linaro-connect-budapest-bud20-registration-80390332649

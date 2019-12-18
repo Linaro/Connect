@@ -1,9 +1,13 @@
 ---
 title: Contact
 description: |-
-     Get in contact and we will help the best we can.
+  Get in contact and we will help the best we can.
 layout: base
 permalink: /contact/
+jumbotron:
+  title: Contact
+  title-class: big-title
+  description: ""
 css-package: contact
 ---
 

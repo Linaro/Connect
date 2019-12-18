@@ -7,9 +7,10 @@ layout: flow
 jumbotron:
   background-image: /assets/images/content/bkk19-group-photo.jpg
   title: Search
-  description: |
-    Search connect.linaro.org for a specific page/resource.
+  title-class: big-title
+  description: ""
 ---
+
 <script>
   (function() {
     var fess = document.createElement('script');
