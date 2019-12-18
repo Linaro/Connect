@@ -11,9 +11,9 @@ featured-images:
   - /assets/images/content/yvr18-sponsor-thumb-1.jpg
   - /assets/images/content/yvr18-sponsor-thumb-2.jpg
 jumbotron:
-  #image: /assets/images/content/connect-logo-white-vertical.png
   title: Bringing the Arm ecosystem together
   include: jumbotron-home.html
+  title-class: big-title
   description: ""
   video:
     source:

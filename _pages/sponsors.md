@@ -1,6 +1,6 @@
 ---
 title: Sponsor Connect
-description: ' Sponsor the event where leading, hardware and software, Arm ecosystem players come together.'
+description: Sponsor the event where leading, hardware and software, Arm ecosystem players come together.
 permalink: /sponsors/
 js-package: sponsor
 css-package: sponsor
@@ -10,12 +10,14 @@ jumbotron:
   buttons:
     - class: btn btn-primary fa fa-download
       title: Download Prospectus
-      url: 'https://linaro.co/prospectus'
+      url: "https://linaro.co/prospectus"
   carousel-images:
     - /assets/images/content/hkg18-sponsor-bg-1.jpg
     - /assets/images/content/yvr18-sponsor-bg-1.jpg
     - /assets/images/content/yvr18-sponsor-bg-2.jpg
   title: Sponsor Connect
+  title-class: big-title
+  description: ""
 flow:
   - row: custom_include_row
     source: sponsorship_testimonials.html
@@ -25,10 +27,10 @@ flow:
           buttons:
             - icon: fa fa-envelope
               title: Get in Touch
-              url: 'mailto:connect@linaro.org'
+              url: "mailto:connect@linaro.org"
             - icon: fa fa-download
               title: Download Prospectus
-              url: 'https://linaro.co/prospectus'
+              url: "https://linaro.co/prospectus"
           position: left
           slider_content:
             dots: false
@@ -66,4 +68,3 @@ flow:
   - row: custom_include_row
     source: sponsorship_benefits.html
 ---
-
