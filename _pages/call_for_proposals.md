@@ -6,8 +6,7 @@ layout: flow
 jumbotron:
   background-image: /assets/images/content/connect-banner-image-1.jpg
   title: Call for Proposals
-  description: ""
-  title-class: big-title
+  description: ''
 flow:
   - row: main_content_row
   - row: container_row
@@ -46,15 +45,14 @@ flow:
   - row: custom_include_row
     source: common_topic_areas.html
 ---
+\*\*\*Call for proposals for Linaro Connect Budapest has now been closed\*\*\*
 
-Linaro Connect provides a platform to discuss and learn about the leading software topics, challenges and opportunities in the Arm Ecosystem today. What are the problems, innovations and hands-on knowledge that today's Arm Developers are working on? From the smallest devices (IoT and embedded) to big data (enterprise), there is an Arm solution. We welcome proposals for technical presentations and discussions and Birds of a Feather (BoF). Want to share what you've been working on?
+Linaro Connect provides a platform to discuss and learn about the leading software topics, challenges and opportunities in the Arm Ecosystem today. What are the problems, innovations and hands-on knowledge that today's Arm Developers are working on? From the smallest devices (IoT and embedded) to big data (enterprise), there is an Arm solution. 
 
-[Submit your proposal today](https://sessionize.com/linaro-connect-budapest/)
+Timeline of CFP process:
 
-Timeline of submission process:
-
-- Deadline to [submit proposals ](https://sessionize.com/linaro-connect-budapest/)10 January 2020
-- Notifications of acceptance 17 Jan 2020
-- Full schedule announced 24 January 2020
+* Deadline to submit proposals 10 January 2020
+* Notifications of acceptance 17 Jan 2020
+* Full schedule announced 24 January 2020
 
 Accepted speakers receive a free 5 day pass to Linaro Connect Budapest. If your submission is accepted, you will receive further instructions with slide deadlines, free speaker registration code, and session instructions. Due to a limited amount of session slots available, not all submissions can be selected for Linaro Connect.
