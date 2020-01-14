@@ -1,6 +1,6 @@
 ---
 title: Connect FAQs
-description: "A list of frequently asked questions regarding Linaro Connect "
+description: 'A list of frequently asked questions regarding Linaro Connect '
 permalink: /connect-faqs/
 js-package: false
 css-package: false
@@ -8,14 +8,12 @@ layout: flow
 jumbotron:
   background-image: /assets/images/content/linaro_connect_bud20_logo.svg
   title: Linaro Connect FAQs
-  title-class: big-title
-  description: ""
+  description: ''
 flow:
   - row: main_content_row
 image:
   path: /assets/images/social-media-image.png
 ---
-
 # About Linaro Connect Budapest
 
 ### Where is the event located?
@@ -94,7 +92,7 @@ If you cannot resolve your hotel issue with the Corinthia directly, please email
 
 ### How do I submit a session to be a speaker at Linaro Connect?
 
-Anyone is welcomed to submit a session to our CFP. Please follow the instructions here: [/cfp/](/cfp/) The deadline to submit a session is 10 January 2020. Accepted speakers receive a free 5 day pass to Linaro Connect.
+Our CFP closed on 10 January 2020, but anyone is welcomed to submit a session to any Linaro Connect CFP whole it's open. Accepted speakers receive a free 5 day pass to Linaro Connect and notifications of acceptance go out on 17 January 2020. Full schedule announcement on 24 January.
 
 ### **How do I sign up for sessions? Is there a mobile app?**
 
@@ -114,7 +112,7 @@ Your speaker instructions will be emailed to you when you receive your session a
 
 ### **Is there any financial support available for travel/accommodation?**
 
-Accepted session leaders receive a free 5-day pass. Travel and accommodation support is not provided by Linaro.
+Accepted session leaders receive a free 5-day pass. Travel and accommodation support (flights hotel) is not provided by Linaro for general session leaders. 
 
 ### **Will I be able to access private meeting rooms during the Connect?**
 
