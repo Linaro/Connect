@@ -430,7 +430,7 @@ collections:
           - label: "Background Image"
             name: "background-image"
             widget: "image"
-            required: true
+            required: false
             media_library:
               config:
                 multiple: false
