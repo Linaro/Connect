@@ -37,7 +37,7 @@ flow:
       - format: text
         style: text-center text-white
         text_content:
-          text: 23 - 27 March | Corinthia Hotel, Budapest, Hungary
+          text: 23 - 27 March - Corinthia Hotel, Budapest, Hungary
       - format: buttons
         style: text-center
         buttons_content:
