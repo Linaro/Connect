@@ -50,7 +50,6 @@ home:
 # Jekyll social media site settings. Github, LinkedIn, Google+, Facebook and Youtube
 github_username: Linaro
 linkedin_username: 1026961
-google_plus_username: false
 facebook_username: LinaroOrg
 youtube_username: linaroorg
 twitter_username: linaroorg
@@ -102,7 +101,6 @@ schema:
       - https://twitter.com/linaroorg
       - https://www.facebook.com/LinaroOrg
       - https://www.linkedin.com/company/1026961/
-      - https://plus.google.com/+LinaroOnAir
       - https://github.com/Linaro
       - https://www.slideshare.net/linaroorg
     address:

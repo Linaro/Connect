@@ -1,5 +1,5 @@
 ---
-title: Schedule for Linaro Connect San Diego 2019
+title: Schedule
 description: >
   Here you can find an overview of what's happening during the week at Connect.
 permalink: /schedule/

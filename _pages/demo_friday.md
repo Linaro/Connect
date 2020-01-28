@@ -31,9 +31,9 @@ flow:
   - row: main_content_row
 ---
 
-If you are attending Linaro Connect Budapest, you are welcomed to apply for table space to participate in Demo Friday on the final day of Linaro Connect from 12-2pm.
+If you are attending Linaro Connect Budapest, you are welcome to apply for table space to participate in Demo Friday on the final day of Linaro Connect from 12-2pm.
 
-Space is first come first served. Please complete the form below to apply for a table. You will then receive an emailing confirming your request and further instructions for participation.
+Space is first come first served. Please complete the form below to apply for a table. You will then receive an email confirming your request and further instructions for participation.
 
 <div class="cognito">
     <script src="https://services.cognitoforms.com/s/KvRQmIn2dku6k6gGP711jw"></script>

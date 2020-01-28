@@ -44,7 +44,7 @@ If you are attending from a member company and don’t know your promotional dis
 
 If you are a Linaro employee please register using Linaro's employee code.
 
-Register here: https://connect.linaro.org/register/
+Register here: [/register/](/register/)
 
 ### **Are there media passes available?**
 
@@ -76,13 +76,13 @@ Registration opens at 7am on Monday morning of Connect. The location of the regi
 
 ### **How do I get a business invitation letter and/or visa letter to enter Hungary?**
 
-If you require a visa letter or business invitation letter, enter your information into our form here: https://connect.linaro.org/business-invitation-letters/
+If you require a visa letter or business invitation letter, enter your information into our form here: [/business-invitation-letters/](/business-invitation-letters/)
 
 You will receive your electronic version of your letter within 5 business days. If you require a hard copy you must email your name and mailing address to connect@linaro.org.
 
 ### **Is hotel room part of my registration?**
 
-No, you must book your hotel room separately. Book here to take advantage of Linaro’s negotiated rate at the Corinthia and to view details on hotel rate: https://connect.linaro.org/accommodation/
+No, you must book your hotel room separately. Book here to take advantage of Linaro’s negotiated rate at the Corinthia and to view details on hotel rate: [/accommodation/](/accommodation/)
 
 ### **I’m having an issue with my hotel reservation, what should I do?**
 
@@ -92,7 +92,7 @@ If you cannot resolve your hotel issue with the Corinthia directly, please email
 
 ### How do I submit a session to be a speaker at Linaro Connect?
 
-Our CFP closed on 10 January 2020, but anyone is welcomed to submit a session to any Linaro Connect CFP whole it's open. Accepted speakers receive a free 5 day pass to Linaro Connect and notifications of acceptance go out on 17 January 2020. Full schedule announcement on 24 January. 
+Our CFP closed on 10 January 2020, but anyone is welcomed to submit a session to any Linaro Connect CFP whole it's open. Accepted speakers receive a free 5 day pass to Linaro Connect and notifications of acceptance go out on 17 January 2020. Full schedule announcement on 24 January.
 
 ### **How do I sign up for sessions? Is there a mobile app?**
 
@@ -100,11 +100,11 @@ We use the event app Sched.com. Once the schedule is published on 24 January 202
 
 ### **Are sessions recorded or live streamed?**
 
-Keynotes each morning are live streamed on Youtube and Facebook, and all sessions (unless confidential or otherwise requested by the speaker) are recorded and posted on our Resource page. These videos are uploaded during Connect at the end of each day. https://connect.linaro.org/resources/bud20/
+Keynotes each morning are live streamed on Youtube and Facebook, and all sessions (unless confidential or otherwise requested by the speaker) are recorded and posted on our Resources page. These videos are uploaded during Connect at the end of each day. [/resources/bud20/](/resources/bud20/)
 
 ### **Will I have access to presentation slides from sessions?**
 
-Yes, presentation slides for each session will be available on the Resource page. https://connect.linaro.org/resources/bud20/
+Yes, presentation slides for each session will be available on the Resources page. [/resources/bud20/](/resources/bud20/)
 
 ### **I’m a speaker. Where do I find my speaker instructions?**
 
