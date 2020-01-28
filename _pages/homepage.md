@@ -37,15 +37,15 @@ flow:
       - format: text
         style: text-center text-white
         text_content:
-          text: Registration and call for proposals now open!
+          text: 23 - 27 March - Corinthia Hotel, Budapest, Hungary
       - format: buttons
         style: text-center
         buttons_content:
           - title: Register
             url: /register/
             style: btn-secondary
-          - title: Call for Proposals
-            url: /cfp/
+          - title: View Schedule
+            url: /schedule/
             style: btn-primary
   - row: custom_include_row
     source: connect_sponsors.html
