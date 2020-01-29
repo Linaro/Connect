@@ -61,4 +61,4 @@ For discussion around Linux and Open Source on Arm, subscribe to the lists at [h
 
 ## Linaro IRC
 
-For more information on our IRC channels please visit [/contact/irc/](/contact/irc/).
+For more information on our IRC channels please visit [https://www.linaro.org/contact/irc/](https://www.linaro.org/contact/irc/).
