@@ -5,7 +5,7 @@
             height: 600px;
         }
       .keynote_container {
-        height: 500px;
+        height: 550px;
         background-color: #fff;
         overflow: auto;
         border-radius: 15px;
@@ -15,6 +15,9 @@
         padding: 10px;
         p {
           color: black;
+        }
+        h3 {
+            font-size:20px;
         }
       }
       .keynote_image {
