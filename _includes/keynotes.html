@@ -1,36 +1,7 @@
-{% assign sorted_keynotes = site.data.featured_keynotes.items | sort: "date" %}
-<div class="col-xs-12">
-    <div class="owl-carousel owl-theme" id="keynote_slider">
-        {% for keynote in sorted_keynotes %}
-            {% assign image_path = "" %}
-            {% capture image_path %}{{keynote.speaker.image | remove_first: "/" }}{% endcapture %}
-            {% capture full_path %}{{keynote.speaker.image}}{% endcapture %}
-            <div class="col-xs-12 item">
-                <a data-toggle="modal" href="#keynote{{forloop.index}}">
-                <div class="block-inner">
-                    <div class="photo" style="background-image: url({{full_path}});"></div>
-                    <div class="info">
-                        <div class="title">
-                            <h3>{{keynote.title}}</h3>
-                        </div>
-                        <div class="date">
-                            <h4>{{keynote.day}} - {{keynote.time}}</h4>
-                        </div>
-                        <div class="name">
-                            <h4>{{keynote.speaker.name}}</h4>
-                        </div>
-                        <div class="position">
-                            <small>{{keynote.speaker.position}}</small>
-                        </div>
-                    </div>
-                </div>
-                </a>
-            </div>
-        {% endfor %}
-    </div>
-</div>
-{% for keynote in sorted_keynotes %}
-    <div class="modal fade" id="keynote{{forloop.index}}">
+{% assign keynotes = site.data.keynotes.items | sort: 'date' %}
+
+{% for keynote in keynotes %}
+    <div class="modal fade" id="{{keynote.speaker.name | slugify }}">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
@@ -38,17 +9,10 @@
                     <h4 class="modal-title">{{keynote.title}}</h4>
                 </div>
                 <div class="modal-body">
-                    <h3>Abstract</h3>
-                    {{keynote.description}}
-                    <h3>{{keynote.speaker.name}}</h3>
-                    <small>{{keynote.speaker.position}}</small> <br>
-                    {{keynote.speaker.bio}}
-                    <br>
-                    <p>
-                        <a href="{{keynote.sched_link}}" class="btn btn-primary">
-                            View session on Sched
-                        </a>
-                    </p>
+                    <h4>Keynote Abstract</h4>
+                    {{keynote.description | markdownify }}
+                    <h4>{{keynote.speaker}}</h4>
+                    {{keynote.speaker.bio | markdownify }}
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -57,3 +21,24 @@
         </div>
     </div>
 {% endfor %}
+<div class="col-xs-12 keynotes">
+    <div class="owl-carousel owl-theme keynote_slider">
+        {% for keynote in keynotes %}
+            <div class="item">
+                <div class="keynote_container">
+                    <div class="keynote_image">
+                        <img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                            alt="{{keynote.speaker.name}} image" data-src="{{keynote.speaker.image}}" />
+                    </div>
+                    <div class="keynote_info">
+                        <h3>{{keynote.title}}</h3>
+                        <p>
+                            {{keynote.speaker.name}} {% if keynote.speaker.jon_title %}{{keynote.speaker.job_title}} - {% endif %} - {{keynote.speaker.company}}
+                        </p>
+                        <a class="btn btn-primary" data-toggle="modal" href='#{{keynote.speaker.name | slugify }}'>More Info</a>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>
