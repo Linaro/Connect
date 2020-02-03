@@ -1,24 +1,32 @@
 #wrapper {
-  .keynote_slider {
-    .keynote_container {
-      height: 500px;
-      background-color: #f7f7f7;
-      overflow: auto;
-      border-radius: 15px;
-      overflow: hidden;
-    }
-    .keynote_info {
-      padding: 10px;
-    }
-    .keynote_image {
-      height: 200px;
-      overflow: hidden;
-      margin-top: 30px;
-      img {
+  #flow_wrapper {
+    .keynote_slider {
+        .owl-stage-outer {
+            height: 600px;
+        }
+      .keynote_container {
+        height: 500px;
+        background-color: #f7f7f7;
+        overflow: auto;
+        border-radius: 15px;
+        overflow: hidden;
+      }
+      .keynote_info {
+        padding: 10px;
+        p {
+          color: black;
+        }
+      }
+      .keynote_image {
         height: 200px;
-        border-radius: 100px;
-        width: 200px;
-        margin: auto;
+        overflow: hidden;
+        margin-top: 30px;
+        img {
+          height: 200px;
+          border-radius: 100px;
+          width: 200px;
+          margin: auto;
+        }
       }
     }
   }
