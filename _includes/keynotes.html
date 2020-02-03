@@ -35,8 +35,8 @@
                         <p>
                             {{keynote.speaker.name}} {% if keynote.speaker.jon_title %}{{keynote.speaker.job_title}} - {% endif %} - {{keynote.speaker.company}}
                         </p>
-                        <a class="btn btn-primary" data-toggle="modal" href='#{{keynote.speaker.name | slugify }}'>More Info</a>
                     </div>
+                    <a class="btn btn-primary center-block" data-toggle="modal" href='#{{keynote.speaker.name | slugify }}'>More Info</a>
                 </div>
             </div>
         {% endfor %}
