@@ -3,11 +3,11 @@ $(document).ready(function() {
 
   getCookieAccept = getCookie("diseasesnotice");
   if (getCookieAccept != "accept") {
-    $(".DiseasesNotice").show();
+    $("#messageNotice").show();
   }
 
   $("#acceptNotice").click(function() {
-    $(".DiseasesNotice").hide();
+    $("#messageNotice").hide();
     var expire = new Date();
     //Setting cookie expiry after 6 months
     expire = new Date(expire.getTime() + 15552000000);
