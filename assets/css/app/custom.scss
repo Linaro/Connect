@@ -476,8 +476,7 @@ a.carousel-control span.glyphicon-menu-right {
 }
 
 .slider-img {
-  background: linear-gradient(rgba(20, 20, 20, 0.5), rgba(20, 20, 20, 0.5))
-    no-repeat center center scroll;
+  background: linear-gradient(rgba(20, 20, 20, 0.5), rgba(20, 20, 20, 0.5)) no-repeat center center scroll;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1028,11 +1027,8 @@ body {
   }
 }
 
-#inner-message {
-  margin-bottom: 0px;
-}
-
 #messageNotice {
+  display: none;
   position: fixed;
   z-index: 999999999;
   display: block;
@@ -1041,4 +1037,7 @@ body {
   top: 0;
   left: 0;
   height: auto;
+  #inner-message {
+    margin-bottom: 0px;
+  }
 }
