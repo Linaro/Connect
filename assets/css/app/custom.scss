@@ -1027,3 +1027,18 @@ body {
     }
   }
 }
+
+#inner-message {
+  margin-bottom: 0px;
+}
+
+#messageNotice {
+  position: fixed;
+  z-index: 999999999;
+  display: block;
+  background-color: #eaeaea;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height: auto;
+}
