@@ -29,9 +29,7 @@ flow:
             class: btn-primary
 ---
 
-## Important Information regarding the CoronaVirus outbreak
-
-Before attending Linaro Connect Budapest 2020, please read the following PDF document regarding the recent CoronaVirus outbreak.
+Please read the following PDF document regarding the recent CoronaVirus outbreak:
 
 [View Here](/assets/pdf/ConnectBUD20-AttendanceAndInfectiousDiseases-CoronaVirus.pdf)
 

@@ -44,9 +44,6 @@ flow:
           - title: Register
             url: /register/
             style: btn-secondary
-          - title: CoronaVirus Info
-            url: /assets/pdf/ConnectBUD20-AttendanceAndInfectiousDiseases-CoronaVirus.pdf
-            style: btn-secondary
           - title: View Schedule
             url: /schedule/
             style: btn-primary
