@@ -8,4 +8,4 @@
 //= require app/home
 //= require app/search
 //= require app/tables
-//= require app/fly
+//= require app/custom

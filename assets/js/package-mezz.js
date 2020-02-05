@@ -8,3 +8,4 @@
 //= require app/home
 //= require app/search
 //= require app/featured-sessions
+//= require app/custom

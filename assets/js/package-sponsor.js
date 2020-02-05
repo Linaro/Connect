@@ -5,8 +5,8 @@
 //= require vendor/lazysizes
 //= require vendor/ls.unveilhooks
 
-//= require app/fly
 //= require app/search
 //= require app/main
 //= require app/sponsor
 //= require app/tables
+//= require app/custom
