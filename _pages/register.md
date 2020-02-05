@@ -29,6 +29,12 @@ flow:
             class: btn-primary
 ---
 
+Please read the following PDF document regarding the recent CoronaVirus outbreak:
+
+[View Here](/assets/pdf/ConnectBUD20-AttendanceAndInfectiousDiseases-CoronaVirus.pdf)
+
+## Register
+
 The next Connect will be held 23-27 March 2020 in Budapest, Hungary at the Corinthia Hotel.
 
 General ticket pricing:
