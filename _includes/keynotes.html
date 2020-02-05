@@ -31,7 +31,7 @@
                             alt="{{keynote.speaker.name}} image" data-src="{{keynote.speaker.image}}" />
                     </div>
                     <div class="keynote_info">
-                        <h3>{{keynote.title}}</h3>
+                        <h3>{{keynote.title | truncate: 40}}</h3>
                         <p>
                             {{keynote.speaker.name}} {% if keynote.speaker.jon_title %}{{keynote.speaker.job_title}} - {% endif %} - {{keynote.speaker.company}}
                         </p>
