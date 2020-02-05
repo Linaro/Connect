@@ -4,6 +4,12 @@
 <html lang="en">
     {% include head.html %}
     <body>
+        <div id="messageNotice" class="DiseasesNotice">
+            <div id="inner-message" class="alert alert-warning">
+                <button type="button" class="close" data-dismiss="alert">&times;</button>
+                Please read the important infectious diseases notice (CoronaVirus) - <a id="acceptNotice" href="/attendance-and-infectious-diseases/">Attendance & Infectious Diseases</a>
+            </div>
+        </div>
         <div id="wrapper" class="main">
             {% include_cached nav.html pageUrl=page.url %}
             <div class="container-fluid">
