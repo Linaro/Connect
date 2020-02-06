@@ -11,3 +11,4 @@
 //= require app/about
 //= require app/tables
 //= require app/custom
+//= require vendor/js-cookie.min

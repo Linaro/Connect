@@ -10,5 +10,5 @@
 //= require app/blog
 //= require app/tables
 //= require app/custom
-//= require app/resources-blog
+//= require vendor/js-cookie.min//= require app/resources-blog
 //= require app/resources-custom

@@ -10,3 +10,4 @@
 //= require app/sponsor
 //= require app/tables
 //= require app/custom
+//= require vendor/js-cookie.min

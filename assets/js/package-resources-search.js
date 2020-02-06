@@ -13,5 +13,5 @@
 //= require app/main
 //= require app/tables
 //= require app/custom
-//= require app/fly
+//= require vendor/js-cookie.min//= require app/fly
 //= require app/resources-search

@@ -4,12 +4,11 @@
 //= require vendor/lazysizes
 //= require vendor/jquery.doubleScroll
 
-
 //= require app/fly
 //= require app/search
 //= require app/main
 //= require app/blog
 //= require app/tables
 //= require app/custom
-//= require app/resources-blog
+//= require vendor/js-cookie.min//= require app/resources-blog
 //= require app/resources-landing-page
