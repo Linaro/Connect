@@ -25,8 +25,7 @@
     <div class="owl-carousel owl-theme keynote_slider">
         {% for keynote in keynotes %}
             {% capture keynote_speaker_title %}
-                {{keynote.speaker.name}} {% if keynote.speaker.jon_title %}{{keynote.speaker.job_title}} - {% endif %} -
-                {{keynote.speaker.company}}
+                {{keynote.speaker.name}} - {{keynote.speaker.job_title}} at {{keynote.speaker.company}}
             {% endcapture %}
             <div class="item">
                 <div class="keynote_container">
@@ -37,7 +36,7 @@
                     <div class="keynote_info">
                         <h3>{{keynote.title | truncate: 40}}</h3>
                         <p>
-                            {{keynote_speaker_title | truncate: 55}}
+                            {{keynote_speaker_title | truncate: 80}}
                         </p>
                     </div>
                     <a class="btn btn-primary center-block" data-toggle="modal" href='#{{keynote.speaker.name | slugify }}'>More Info</a>
