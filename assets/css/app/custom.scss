@@ -476,8 +476,7 @@ a.carousel-control span.glyphicon-menu-right {
 }
 
 .slider-img {
-  background: linear-gradient(rgba(20, 20, 20, 0.5), rgba(20, 20, 20, 0.5))
-    no-repeat center center scroll;
+  background: linear-gradient(rgba(20, 20, 20, 0.5), rgba(20, 20, 20, 0.5)) no-repeat center center scroll;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -884,6 +883,11 @@ body {
     }
   }
   #flow_wrapper {
+    .modal-body {
+      p {
+        color: black;
+      }
+    }
     .row.introduction_row {
       padding-top: 60px;
       p {

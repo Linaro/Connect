@@ -38,6 +38,8 @@ flow:
         style: text-center text-white
         text_content:
           text: 23 - 27 March - Corinthia Hotel, Budapest, Hungary
+      - format: custom_include
+        source: keynotes.html
       - format: buttons
         style: text-center
         buttons_content:
