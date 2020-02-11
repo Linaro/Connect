@@ -42,11 +42,11 @@ js-package: resources-blog
                             data-src="https://static.linaro.org/connect/bud20/images/300/{{post.session_id}}.jpg" alt="{{post.title}}"
                             class="center-block img-responsive lazyload" /> -->
                             <picture>
-                                <source media="(max-width: 400px)"
-                                    data-srcset="https://static.linaro.org/connect/bud20/images/400/{{post.session_id}}.jpg">
+                                <source media="(max-width: 300px)"
+                                    data-srcset="https://static.linaro.org/connect/{{post.categories[0] | downcase }}/images/300/{{post.session_id}}.jpg">
                                 <source media="(max-width: 1000px)"
-                                    data-srcset="https://static.linaro.org/connect/bud20/images/800/{{post.session_id}}.jpg">
-                                <img src="https://static.linaro.org/connect/bud20/images/400/{{post.session_id}}.jpg"
+                                    data-srcset="https://static.linaro.org/connect/{{post.categories[0] | downcase }}/images/800/{{post.session_id}}.jpg">
+                                <img src="https://static.linaro.org/connect/{{post.categories[0] | downcase }}/images/300/{{post.session_id}}.jpg"
                                  class="img-responsive lazyload">
                             </picture>
                     {% elsif post.image.path %}
