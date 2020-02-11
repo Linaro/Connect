@@ -26,29 +26,43 @@ js-package: resources-blog
             <a href="{{post.url}}">
                 <div class="resource">
                     {% if post.image.name %}
-                    {% if post.session_id != "None" %}
-                        {% assign image_title = post.session_id %}
-                    {% else %}
-                        {% assign image_title = post.title %}
-                    {% endif %}
-{% capture image_path %}assets/images/featured-images/{{post.image.name}}{% endcapture %}
-{% responsive_image_block %}
-path: "{{ image_path }}"
-title: "{{ image_title }}"
-alt: "{{ image_title }}"
-{% endresponsive_image_block %}
-                    {% elsif post.image.path %}
                         {% if post.session_id != "None" %}
                             {% assign image_title = post.session_id %}
                         {% else %}
                             {% assign image_title = post.title %}
                         {% endif %}
-                    {% capture image_path %}{{ post.image.path | slice: 1, post.image.path.size }}{% endcapture %}
-                    {% responsive_image_block %}
-                    path: "{{ image_path }}"
-                    title: "{{ image_title }}"
-                    alt: "{{ image_title }}"
-                    {% endresponsive_image_block %}
+                        {% capture image_path %}assets/images/featured-images/{{post.image.name}}{% endcapture %}
+                        {% responsive_image_block %}
+                        path: "{{ image_path }}"
+                        title: "{{ image_title }}"
+                        alt: "{{ image_title }}"
+                        {% endresponsive_image_block %}
+                    {% elsif post.image.path contains "https://" %}
+                        <!-- <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                            data-src="https://static.linaro.org/connect/bud20/images/300/{{post.session_id}}.jpg" alt="{{post.title}}"
+                            class="center-block img-responsive lazyload" /> -->
+                            <picture>
+                                <source media="(max-width: 300px)"
+                                    data-srcset="https://static.linaro.org/connect/{{post.categories[0] | downcase }}/images/300/{{post.session_id}}.jpg">
+                                <source media="(max-width: 1000px)"
+                                    data-srcset="https://static.linaro.org/connect/{{post.categories[0] | downcase }}/images/800/{{post.session_id}}.jpg">
+                                <img src="https://static.linaro.org/connect/{{post.categories[0] | downcase }}/images/300/{{post.session_id}}.jpg"
+                                 class="img-responsive lazyload">
+                            </picture>
+                    {% elsif post.image.path %}
+                        {% unless post.image.path contains "https://" %}
+                            {% if post.session_id != "None" %}
+                                {% assign image_title = post.session_id %}
+                            {% else %}
+                                {% assign image_title = post.title %}
+                            {% endif %}
+                            {% capture image_path %}{{ post.image.path | slice: 1, post.image.path.size }}{% endcapture %}
+                            {% responsive_image_block %}
+                            path: "{{ image_path }}"
+                            title: "{{ image_title }}"
+                            alt: "{{ image_title }}"
+                            {% endresponsive_image_block %}
+                        {% endunless %}
                     {% else %}
                     {% capture image_path %}assets/images/content/connect-logo.png{% endcapture %}
                     {% for each in site.data.connects %}
@@ -134,5 +148,5 @@ alt: "{{ image_title }}"
 </div>
 
 <div class="col-md-3 blog-sidebar">
-    {% include_cached post-sidebar-resources.html event_code=page.event_code %}
+    {% include post-sidebar-resources.html event_code=page.event_code %}
 </div>
