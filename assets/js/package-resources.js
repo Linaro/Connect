@@ -5,10 +5,10 @@
 //= require vendor/underscore
 //= require vendor/fuzzy
 //= require vendor/ls.unveilhooks
+//= require vendor/js-cookie.min
 
 //= require app/search
 //= require app/main
 //= require app/blog
 //= require app/tables
 //= require app/custom
-//= require vendor/js-cookie.min//= require app/fly
