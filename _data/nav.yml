@@ -30,6 +30,8 @@ pages:
         url: /accommodation/
       - text: Business Invitation and Visa Support Letters
         url: /business-invitation-letters/
+      - text: 'Remote Participation '
+        url: /remote-participation/
       - text: Future Connect Events
         url: /future-connects/
     title: Attend

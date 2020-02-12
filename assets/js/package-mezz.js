@@ -3,8 +3,10 @@
 //= require vendor/cookieconsent
 //= require vendor/lazysizes
 //= require vendor/owl.carousel
+//= require vendor/js-cookie.min
 
 //= require app/main
 //= require app/home
 //= require app/search
 //= require app/featured-sessions
+//= require app/custom
