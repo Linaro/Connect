@@ -3,8 +3,8 @@
 //= require vendor/cookieconsent
 //= require vendor/lazysizes
 //= require vendor/ls.unveilhooks
+//= require vendor/js-cookie.min
 
-//= require app/fly
 //= require app/search
 //= require app/main
 //= require app/blog

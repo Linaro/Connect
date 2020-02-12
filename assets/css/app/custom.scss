@@ -1031,3 +1031,17 @@ body {
     }
   }
 }
+
+#messageNotice {
+  display: none;
+  position: fixed;
+  z-index: 999999999;
+  background-color: #eaeaea;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height: auto;
+  #inner-message {
+    margin-bottom: 0px;
+  }
+}
