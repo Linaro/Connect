@@ -883,6 +883,11 @@ body {
     }
   }
   #flow_wrapper {
+    .modal-body {
+      p {
+        color: black;
+      }
+    }
     .row.introduction_row {
       padding-top: 60px;
       p {

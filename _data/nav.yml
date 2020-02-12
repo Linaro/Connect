@@ -30,6 +30,8 @@ pages:
         url: /accommodation/
       - text: Business Invitation and Visa Support Letters
         url: /business-invitation-letters/
+      - text: 'Remote Participation '
+        url: /remote-participation/
       - text: Future Connect Events
         url: /future-connects/
     title: Attend
@@ -38,6 +40,8 @@ pages:
     options:
       - text: All Resources
         url: /resources/
+      - text: Budapest 2020
+        url: /resources/bud20/
       - text: San Diego 2019
         url: /resources/san19/
       - text: Bangkok 2019
@@ -46,6 +50,4 @@ pages:
         url: /resources/yvr18/
       - text: Hong Kong 2018
         url: /resources/hkg18/
-      - text: San Francisco 2017
-        url: /resources/sfo17/
     title: Resources

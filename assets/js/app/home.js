@@ -59,7 +59,7 @@ $(document).ready(function() {
       }
     }
   });
-  $("#keynote_slider").owlCarousel({
+  $(".keynote_slider").owlCarousel({
     items: 4,
     loop: false,
     dots: true,

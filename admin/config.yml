@@ -57,20 +57,15 @@ collections:
                     - {label: "WEBM video url", name: "webm", widget: string, required: false}
       - label: "Keynotes"
         name: "featured_keynotes"
-        file: "_data/featured_keynotes.yml"
+        file: "_data/keynotes.yml"
         fields:
           - label: "Items"
             name: "items"
             widget: "list"
             fields:
                 - {label: Title, name: title, widget: string, hint: "Title of the keynote session.", required: true}
+                - {label: Date, name: date, widget: datetime, format: "YYYY-MM-DD hh:mm:ss", required: true, hint: "The date/time of the keynote."}
                 - {label: Description, name: description, widget: text, required: true, hint: "The abstract for the session."}
-                - {label: Keynote Date, name: date, widget: datetime, format: "YYYY-MM-DD hh:mm:ss", required: true, hint: "The date/time of the keynote."}
-                - {label: Keynote Date, name: date, widget: datetime, format: "YYYY-MM-DD hh:mm:ss", required: true, hint: "The date/time of the keynote."}
-                - {label: Sched Session Link, name: sched_link, widget: string, required: true, hint: "The link to the sched.com session"}
-                - {label: Day, name: day, widget: string, required: true, hint: "The day of the keynote i.e Monday, Tuesday, Wednesday etc"}
-                - {label: Time Slot, name: time, widget: string, required: true, hint: "The time slot for the keynote i.e 10:00am - 10:30am"}
-                - {label: Track, name: track, widget: string, required: true, hint: "The topic of the keynote e.g AI/ML, IoT etc"}
                 - label: Speaker Details
                   name: speaker
                   widget: object
@@ -78,9 +73,9 @@ collections:
                   fields:
                     - {label: "Name", name: "name", widget: string, required: true}
                     - {label: "Speaker Image", name: "image", widget: string, required: true}
-                    - {label: "Speaker Position", name: "position", widget: string, required: true, hint: "The speakers job title at company... e.g Senior Director at Qualcomm"}
+                    - {label: "Company", name: "company", widget: string, required: true, hint: "The speakers company i.e Arm"}
+                    - {label: "Job Title", name: "job_title", widget: string, required: true, hint: "The speakers job title at their company. i.e Director"}
                     - {label: "Speaker Bio", name: "bio", widget: text, required: true, hint: "The speakers bio/profile text"}
-                    - {label: "Company Website", name: "company_website", widget: string, required: true}
       - label: "Settings"
         name: "settings"
         file: "_data/settings.yml"

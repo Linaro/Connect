@@ -5,3 +5,7 @@ items:
     lead_sponsor: true
     image: /assets/images/sponsors/arm.jpg
     url: https://www.linaro.org/company/arm/
+  - name: Riscure
+    lead_sponsor: false
+    image: /assets/images/sponsors/riscure.png
+    url: https://www.riscure.com/

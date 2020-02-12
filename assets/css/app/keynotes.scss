@@ -1,40 +1,37 @@
-.keynote{
-    img{
-        object-fit: cover;
+#wrapper {
+  #flow_wrapper {
+    .keynote_slider {
+        .owl-stage-outer {
+            height: 450px;
+        }
+      .keynote_container {
+        height: auto;
+        background-color: #fff;
+        overflow: auto;
+        border-radius: 15px;
+        overflow: hidden;
+      }
+      .keynote_info {
+        padding: 10px;
+        height: 170px;
+        p {
+          color: black;
+        }
+        h3 {
+            font-size:20px;
+        }
+      }
+      .keynote_image {
         height: 200px;
-        width: 200px;
+        overflow: hidden;
+        margin-top: 30px;
+        img {
+          height: 200px;
+          border-radius: 100px;
+          width: 200px;
+          margin: auto;
+        }
+      }
     }
-}
-div#keynotes {
-    background-color: #313131;
-}
-
-#keynotes .keynote h3 {
-    text-align: center;
-    font-size:20px;
-    height: 70px;
-    color: #ececec;
-}
-
-#keynotes a.btn.btn-primary.more-info.text-center {
-    display: block;
-    width: 100px;
-    border: 1px solid #1b1b1b;
-    margin: auto auto;
-}
-#keynotes a.btn.btn-primary:hover {
-    color:white;
-}
-#keynotes img {
-    border:1px solid #3a3a3a;
-    transition: all 200ms ease;
-    height: 250px;
-    width: 250px;
-}
-#keynotes h2 {
-    color: white;
-    font-size: 18px;
-}
-#keynotes .owl-carousel .owl-stage-outer {
-    padding-top: 40px;
+  }
 }
