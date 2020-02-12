@@ -1,6 +1,6 @@
 ---
 title: 'Remote Participation '
-description: |+
+description: |
   Details for options to participation remotely at Linaro Connect Budapest
 permalink: /remote-participation/
 layout: flow
@@ -17,7 +17,7 @@ image:
 
 \-We do not live stream general sessions, but if there is a session you are particularly interested in having live streamed, please email us at connect@linaro.org and we can try to accommodate this.
 
-**Event App:**
+**Event App:** 
 
 \-You may view the full schedule of sessions here: https://bud20.sched.com/ (You do not have to be registered to view the full schedule).
 
