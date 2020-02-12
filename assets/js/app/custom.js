@@ -1,6 +1,6 @@
 $(document).ready(function() {
   var warning_cookie = Cookies.get("corona_virus_warning");
-  if (typeof warning_cookie === undefined) {
+  if (typeof warning_cookie === "undefined") {
     $("#messageNotice").show();
   }
   $("#acceptNotice").click(function() {
