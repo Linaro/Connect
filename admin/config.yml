@@ -72,7 +72,7 @@ collections:
                   required: true
                   fields:
                     - {label: "Name", name: "name", widget: string, required: true}
-                    - {label: "Speaker Image", name: "image", widget: string, required: true}
+                    - {label: "Speaker Image", name: "image", widget: image, required: true}
                     - {label: "Company", name: "company", widget: string, required: true, hint: "The speakers company i.e Arm"}
                     - {label: "Job Title", name: "job_title", widget: string, required: true, hint: "The speakers job title at their company. i.e Director"}
                     - {label: "Speaker Bio", name: "bio", widget: text, required: true, hint: "The speakers bio/profile text"}
