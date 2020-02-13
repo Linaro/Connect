@@ -20,6 +20,8 @@ pages:
   - options:
       - text: Register
         url: /register/
+      - text: Coronavirus Updates
+        url: /attendance-and-infectious-diseases/
       - text: Schedule
         url: /schedule/
       - text: 'Call for Proposals '
