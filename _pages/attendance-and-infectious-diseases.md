@@ -1,14 +1,14 @@
 ---
-title: Attendance & Infectious Diseases (CoronaVirus)
+title: Attendance & Infectious Diseases - Coronavirus (COVID-19)
 description: >
-  Information regarding attendance & Infectious Diseases (CoronaVirus)
+  Information regarding attendance & Infectious Diseases - Coronavirus (COVID-19)
 permalink: /attendance-and-infectious-diseases/
 css-package: about
 layout: flow
 jumbotron:
   darken: true
   background-image: /assets/images/content/bud20_web_banner.png
-  title:  Attendance & Infectious Diseases (CoronaVirus)
+  title:  Attendance & Infectious Diseases (Coronavirus (COVID-19))
   title-class: big-title
   description: ""
 flow:
@@ -16,7 +16,7 @@ flow:
 ---
 
 It is requested that all intended travellers to Linaro Connect Budapest, Connect BUD20, should comply with the
-guidance below, with regard to the current infectious disease CoronaVirus, which is in line with the World Health
+guidance below, with regard to the current infectious disease Coronavirus (COVID-19), which is in line with the World Health
 Organisation (WHO) guidance.
 
 ## TAKE CARE
@@ -26,7 +26,7 @@ visits to or from any destination where there is a significant risk of exposure 
 
 ## SPECIFIC INFECTIOUS DISEASES INVOLVING POTENTIAL HEALTH RISKS FOR TRAVELLERS
 
-CoronaVirus is currently one of the most important infectious disease threats for travellers and conference
+Coronavirus (COVID-19) is currently one of the most important infectious disease threats for travellers and conference
 attendees. Although little is known about this virus yet, new information is coming through daily.
 The following criteria have been taken into account by Linaro when issuing this notice:
 
@@ -50,11 +50,11 @@ Linaro requests that all attendees follow the guidance below.
 ## Event attendees
 
 *All Attendees*: Linaro requests that, people who reside in or have visited mainland China or any other
-infected place or affected area with diagnosed cases or CoronaVirus , or have been in contact with
-anyone diagnosed with CoronaVirus, self-quarantine for two weeks prior to attending BUD20.
+infected place or affected area with diagnosed cases or Coronavirus (COVID-19) , or have been in contact with
+anyone diagnosed with Coronavirus (COVID-19), self-quarantine for two weeks prior to attending BUD20.
 
 _*Meaning of infected place/affected area*; “An infected place/affected area is one where germs or bacteria are
-causing a disease to spread among people”, “in relation to this policy the “CoronaVirus”._
+causing a disease to spread among people”, “in relation to this policy the “Coronavirus (COVID-19)”._
 
 - An infected place could be a specific area where the virus has been contracted and is continuing to spread to the general public, a hospital, a train station, etc. that has confirmed cases•
 - An affected area could be an actual town/city where the virus is increasing and the risk to humans is high, not whole countries just the affected areas of the country.
