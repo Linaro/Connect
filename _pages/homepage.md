@@ -32,7 +32,7 @@ flow:
       - format: title
         title_content:
           size: h2
-          text: CoronaVirus
+          text: Coronavirus (COVID-19)
       - format: text
         style: text-center text-white
         text_content:
