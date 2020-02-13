@@ -21,7 +21,7 @@ pages:
       - text: Register
         url: /register/
       - text: Coronavirus Updates
-        url: /attendance-and-infectious-diseases/
+        url: /assets/pdf/ConnectBUD20-AttendanceAndInfectiousDiseases-CoronaVirus.pdf
       - text: Schedule
         url: /schedule/
       - text: 'Call for Proposals '

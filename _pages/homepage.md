@@ -41,7 +41,7 @@ flow:
         style: text-center
         buttons_content:
           - title: Read
-            url: /attendance-and-infectious-diseases/
+            url: /assets/pdf/ConnectBUD20-AttendanceAndInfectiousDiseases-CoronaVirus.pdf
             style: btn-secondary
   - row: container_row
     style: fixed san19_highlight
