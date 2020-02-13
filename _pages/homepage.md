@@ -27,6 +27,23 @@ redirect_from:
   - /keynotes/
 flow:
   - row: container_row
+    style: corona_virus
+    sections:
+      - format: title
+        title_content:
+          size: h2
+          text: CoronaVirus
+      - format: text
+        style: text-center text-white
+        text_content:
+          text: Please read the important infectious diseases notice regarding Linaro Connect and the Coronavirus (COVID-19)
+      - format: buttons
+        style: text-center
+        buttons_content:
+          - title: Read
+            url: /attendance-and-infectious-diseases/
+            style: btn-secondary
+  - row: container_row
     style: fixed san19_highlight
     background_image: /assets/images/content/bud20_web_banner.png
     sections:
