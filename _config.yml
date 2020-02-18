@@ -6,7 +6,7 @@ name: Linaro Connect
 branch: develop
 # Description of the website used in the Meta Description.
 description: > # this means to ignore newlines until "baseurl:"
-  Linaro Connect San Diego 2019 (BKK19) will take place in San Diego California September 23-27, 2019
+  Hundreds of the world’s best Linux on Arm developers come to Linaro Connect each time because they know it is the leading place to meet with the global community and to learn about what is going on in the industry.
 # Destination of the Jekyll site upon build of site.
 destination: _site
 # Code of current connect.
