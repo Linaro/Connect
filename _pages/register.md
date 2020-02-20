@@ -12,21 +12,8 @@ jumbotron:
   title: Register
   title-class: big-title
   description: ""
-  buttons:
-    - title: Register
-      url: https://www.eventbrite.co.uk/e/linaro-connect-budapest-bud20-registration-80390332649
-      class: btn btn-primary
 flow:
   - row: main_content_row
-  - row: container_row
-    style: text-center
-    sections:
-      - format: buttons
-        style: text-center
-        buttons_content:
-          - title: Register
-            url: https://www.eventbrite.co.uk/e/linaro-connect-budapest-bud20-registration-80390332649
-            class: btn-primary
 ---
 
 As a result of the Coronavirus, it is with great regret that we have decided to cancel the upcoming Linaro Connect which was due to be held on 23-27 March 2020 at the Corinthia Hotel in Budapest, Hungary.
