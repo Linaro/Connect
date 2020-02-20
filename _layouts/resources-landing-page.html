@@ -8,7 +8,7 @@ js-package: resources-landing-page
 {% assign connect_data = site.data.connects | where: "id", page.event_code | first %}
 {% include carousel-header.html images=connect_data.featured_images %}
 {% capture connect_jumbotron_desc %}Find resources from {{connect_data.id}} here.{% endcapture %}
-{% include jumbotron-resources.html title=connect_data.long-name description=connect_jumbotron_desc %}
+{% include jumbotron-resources.html title=connect_data.long_name description=connect_jumbotron_desc %}
 {{content}}
 <div class="row" id="content-container">
     <div class="container">

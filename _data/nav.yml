@@ -14,12 +14,6 @@ pages:
     title: About
   - title: Sponsor
     url: /sponsors/
-  - options:
-      - text: Register
-        url: /register/
-      - text: 'Call for Proposals'
-        url: /cfp/
-    title: Attend
   - active_paths:
       - /resources/
     options:

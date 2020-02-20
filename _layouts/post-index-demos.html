@@ -9,7 +9,7 @@ js-package: resources-blog
 {% for connect in site.data.connects %}
     {% if connect.id == current_connect and connect.using_json == "True" %}
         {% assign using_json = "True" %}
-        {% assign end_date = connect.end-date | date: '%B %d, %Y' %}
+        {% assign end_date = connect.end_date | date: '%B %d, %Y' %}
     {% endif %}
 {% endfor %}
 <div class="col-md-9 no-padding" id="main-resources-content" event-id="{{current_connect}}">

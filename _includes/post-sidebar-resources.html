@@ -7,21 +7,21 @@
 {% assign connect_details = site.data.connects | where: 'id', event_code | first %}
 
 <div class="col-xs-12 connect-title-holder">
-    <h3 class="connect-title text-center">{{connect_details.long-name}}</h3>
+    <h3 class="connect-title text-center">{{connect_details.long_name}}</h3>
 </div>
 <div class="date-area text-center">
     <span class="date start">
-        {{connect_details.start-date | date: "%A "}}{% assign d = connect_details.start-date | date: "%-d" %}
+        {{connect_details.start_date | date: "%A "}}{% assign d = connect_details.start_date | date: "%-d" %}
         {% case d %} {% when '1' or '21' or
                             '31' %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd
         {% else %}{{ d }}th {% endcase %}
-        {{connect_details.start-date | date: "%B, %Y"}}
+        {{connect_details.start_date | date: "%B, %Y"}}
     </span>
     -
     <span class="date end">
-        {{connect_details.end-date | date: "%A "}}{% assign d = connect_details.end-date | date: "%-d" %} {% case d %} {% when '1' or '21' or '31'
+        {{connect_details.end_date | date: "%A "}}{% assign d = connect_details.end_date | date: "%-d" %} {% case d %} {% when '1' or '21' or '31'
                             %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd
-        {% else %}{{ d }}th {% endcase %} {{connect_details.end-date
+        {% else %}{{ d }}th {% endcase %} {{connect_details.end_date
                             | date: "%B , %Y"}}
     </span>
 </div>
@@ -303,14 +303,14 @@
         </div>
     </div>
 </div>
-{% if connect_details.flickr-albums %}
+{% if connect_details.flickr_albums %}
 <div id="flickr-section" class="col-xs-12 col-sm-4 col-sm-offset-4 col-md-12 col-md-offset-0">
     <h3 class="text-center">{{event_code}} on</h3>
     <img class="lazyload center-block"
         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
         data-src="/assets/images/content/flickr-logo.png" alt="Flickr Logo" />
     <ul class="list-group">
-        {% for album in connect_details.flickr-albums %}
+        {% for album in connect_details.flickr_albums %}
         <a href="{{album.url}}">
             <li class="list-group-item">{{album.title}} <i class="fa fa-external-link"></i></li>
         </a>
