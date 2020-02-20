@@ -22,7 +22,7 @@ pages:
         url: /register/
       - text: 'Call for Proposals'
         url: /cfp/
-      - text: 'Call for Demos '
+      - text: 'Call for Demos'
         url: /demo-friday/
     title: Attend
   - active_paths:
