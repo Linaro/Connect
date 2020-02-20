@@ -43,16 +43,6 @@
                                 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                 data-src="https://static.linaro.org/connect/{{post.categories[0] | downcase }}/images/300/{{post.session_id}}.jpg"
                                     alt="{{post.title}}" class="center-block img-responsive lazyload" />
-                                <!-- <picture>
-                                    <source media="(max-width: 400px)"
-                                     data-srcset="https://static.linaro.org/connect/bud20/images/400/{{post.session_id}}.jpg">
-                                    <source media="(max-width: 800px)"
-                                     data-srcset="https://static.linaro.org/connect/bud20/images/800/{{post.session_id}}.jpg">
-                                    <source media="(max-width: 00px)"
-                                     data-srcset="https://static.linaro.org/connect/bud20/images/{{post.session_id}}.png">
-                                    <img src="https://static.linaro.org/connect/bud20/images/{{post.session_id}}.png"
-                                    class="img-responsive lazyload">
-                                </picture> -->
                             {% elsif post.image.path %}
                                     {% unless post.image.path contains "https://" %}
                                         {% capture image_path %}{{post.image.path | remove_first: '/'}}{% endcapture %}
