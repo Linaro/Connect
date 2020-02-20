@@ -38,18 +38,6 @@ flow:
         text_content:
           text: As a result of the Coronavirus, It is with great regret that we have decided to cancel the upcoming Linaro Connect which was due to be held on 23-27 March 2020 at Corinthia Hotel in Budapest, Hungary.
   - row: container_row
-    style: fixed san19_highlight
-    background_image: /assets/images/content/bud20_web_banner.png
-    sections:
-      - format: title
-        title_content:
-          size: h2
-          text: Linaro Connect Budapest 2020
-      - format: text
-        style: text-center text-white
-        text_content:
-          text: 23 - 27 March - Corinthia Hotel, Budapest, Hungary
-  - row: container_row
     sections:
       - format: feature_block
         #   style: text-center text-white
