@@ -21,15 +21,13 @@ jumbotron:
     - /assets/images/content/bud17.jpg
     - /assets/images/content/bkk16.jpg
   title: About
-  title-class: big-title
-  description: ""
+  description: ''
 flow:
   - row: container_row
     sections:
       - format: text
         style: text-center
-        text_content:
-          text: "Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. The next Connect will be held in Budapest, Hungary March 23-27, 2020. Registration will be announced shortly!\nTo view slides or videos from the keynotes and sessions from previous Connects, please go to our\_[Resources page](https://connect.linaro.org/resources/).\n"
+        text_content: "Map { \"text\": \"Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. To view slides or videos from the keynotes and sessions from previous Connects, please go to our\_[Resources page](https://connect.linaro.org/resources/).\\n\" }"
   - row: container_row
     sections:
       - block_section_content:
@@ -135,3 +133,4 @@ flow:
           sm_items: 2
           xs_items: 1
 ---
+
