@@ -100,11 +100,11 @@ We use the event app Sched.com. Once the schedule is published on 24 January 202
 
 ### **Are sessions recorded or live streamed?**
 
-Keynotes each morning are live streamed on Youtube and Facebook, and all sessions (unless confidential or otherwise requested by the speaker) are recorded and posted on our Resources page. These videos are uploaded during Connect at the end of each day. [/resources/bud20/](/resources/bud20/)
+Keynotes each morning are live streamed on Youtube and Facebook, and all sessions (unless confidential or otherwise requested by the speaker) are recorded and posted on our Resources page. These videos are uploaded during Connect at the end of each day.
 
 ### **Will I have access to presentation slides from sessions?**
 
-Yes, presentation slides for each session will be available on the Resources page. [/resources/bud20/](/resources/bud20/)
+Yes, presentation slides for each session will be available on the Resources page.
 
 ### **I’m a speaker. Where do I find my speaker instructions?**
 
@@ -112,7 +112,7 @@ Your speaker instructions will be emailed to you when you receive your session a
 
 ### **Is there any financial support available for travel/accommodation?**
 
-Accepted session leaders receive a free 5-day pass. Travel and accommodation support (flights hotel) is not provided by Linaro for general session leaders. 
+Accepted session leaders receive a free 5-day pass. Travel and accommodation support (flights hotel) is not provided by Linaro for general session leaders.
 
 ### **Will I be able to access private meeting rooms during the Connect?**
 
