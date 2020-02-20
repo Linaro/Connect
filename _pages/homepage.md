@@ -5,7 +5,7 @@ js-package: home
 permalink: /
 title: Bringing the Arm ecosystem together
 description: |-
-  The next Linaro Connect will be held in Budapest, Hungary on 23-27 March, 2020.
+    Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect.
 featured-images:
   - /assets/images/content/hkg18-sponsor-thumb-1.jpg
   - /assets/images/content/yvr18-sponsor-thumb-1.jpg
@@ -36,7 +36,7 @@ flow:
       - format: text
         style: text-center text-white
         text_content:
-          text: As a result of the Coronavirus, It is with great regret that we have decided to cancel the upcoming Linaro Connect which was due to be held on 23-27 March 2020 at Corinthia Hotel in Budapest, Hungary. You can read the complete statement here.
+          text: As a result of the Coronavirus, It is with great regret that we have decided to cancel the upcoming Linaro Connect which was due to be held on 23-27 March 2020 at Corinthia Hotel in Budapest, Hungary.
       - format: buttons
         style: text-center
         buttons_content:
@@ -99,7 +99,7 @@ flow:
                   at Linaro Connect Bangkok 2019
           title: About Linaro Connect
           text: >
-            Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. The next Connect will be held in Budapest, Hungary March 23-27, 2020. Registration is now open!
+            Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect.
           buttons:
             - title: Learn More
               url: /about/
@@ -112,7 +112,7 @@ flow:
           image_content_path: /assets/images/content/sponsor-cloud-image.png
           title: Sponsor Linaro Connect
           text: >
-            Linaro Connect Budapest 2020 will be the 27th Connect since Linaro started in June 2010. Hundreds of the world’s best Linux on Arm developers come to Linaro Connect each time because they know it is the leading place to meet with the global community and to learn about what is going on in the industry. Sponsorship of the event puts your brand in front of all the event attendees – both the 400+ on-site and all those who participate remotely, as well as the thousands who view the website and social media before, during and after the event.
+            Hundreds of the world’s best Linux on Arm developers come to Linaro Connect each time because they know it is the leading place to meet with the global community and to learn about what is going on in the industry. Sponsorship of the event puts your brand in front of all the event attendees – both the 400+ on-site and all those who participate remotely, as well as the thousands who view the website and social media before, during and after the event.
           buttons:
             - title: Learn More
               url: /sponsors/
