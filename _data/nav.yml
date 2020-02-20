@@ -12,8 +12,6 @@ brand:
 pages:
   - url: /about/
     title: About
-  - title: Sponsor
-    url: /sponsors/
   - active_paths:
       - /resources/
     options:
