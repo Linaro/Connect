@@ -20,30 +20,16 @@ pages:
   - options:
       - text: Register
         url: /register/
-      - text: Coronavirus Updates
-        url: /assets/pdf/ConnectBUD20-AttendanceAndInfectiousDiseases-CoronaVirus.pdf
-      - text: Schedule
-        url: /schedule/
-      - text: 'Call for Proposals '
+      - text: 'Call for Proposals'
         url: /cfp/
       - text: 'Call for Demos '
         url: /demo-friday/
-      - text: 'Accommodation '
-        url: /accommodation/
-      - text: Business Invitation and Visa Support Letters
-        url: /business-invitation-letters/
-      - text: 'Remote Participation '
-        url: /remote-participation/
-      - text: Future Connect Events
-        url: /future-connects/
     title: Attend
   - active_paths:
       - /resources/
     options:
       - text: All Resources
         url: /resources/
-      - text: Budapest 2020
-        url: /resources/bud20/
       - text: San Diego 2019
         url: /resources/san19/
       - text: Bangkok 2019
