@@ -5,7 +5,7 @@ js-package: home
 permalink: /
 title: Bringing the Arm ecosystem together
 description: |-
-  The next Linaro Connect will be held in Budapest, Hungary on 23-27 March, 2020.
+    Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect.
 featured-images:
   - /assets/images/content/hkg18-sponsor-thumb-1.jpg
   - /assets/images/content/yvr18-sponsor-thumb-1.jpg
@@ -32,44 +32,12 @@ flow:
       - format: title
         title_content:
           size: h2
-          text: Coronavirus (COVID-19)
+          text: Linaro Connect Budapest 2020 Cancelled
       - format: text
         style: text-center text-white
         text_content:
-          text: Please read the important infectious diseases notice regarding Linaro Connect and the Coronavirus (COVID-19)
-      - format: buttons
-        style: text-center
-        buttons_content:
-          - title: Read
-            url: /assets/pdf/ConnectBUD20-AttendanceAndInfectiousDiseases-CoronaVirus.pdf
-            style: btn-secondary
+          text: As a result of the Coronavirus, It is with great regret that we have decided to cancel the upcoming Linaro Connect which was due to be held on 23-27 March 2020 at Corinthia Hotel in Budapest, Hungary.
   - row: container_row
-    style: fixed san19_highlight
-    background_image: /assets/images/content/bud20_web_banner.png
-    sections:
-      - format: title
-        title_content:
-          size: h2
-          text: Linaro Connect Budapest 2020
-      - format: text
-        style: text-center text-white
-        text_content:
-          text: 23 - 27 March - Corinthia Hotel, Budapest, Hungary
-      - format: custom_include
-        source: keynotes.html
-      - format: buttons
-        style: text-center
-        buttons_content:
-          - title: Register
-            url: /register/
-            style: btn-secondary
-          - title: View Schedule
-            url: /schedule/
-            style: btn-primary
-  - row: custom_include_row
-    source: connect_sponsors.html
-  - row: container_row
-    #style: new
     sections:
       - format: feature_block
         #   style: text-center text-white
@@ -113,7 +81,7 @@ flow:
                   at Linaro Connect Bangkok 2019
           title: About Linaro Connect
           text: >
-            Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. The next Connect will be held in Budapest, Hungary March 23-27, 2020. Registration is now open!
+            Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect.
           buttons:
             - title: Learn More
               url: /about/
@@ -126,7 +94,7 @@ flow:
           image_content_path: /assets/images/content/sponsor-cloud-image.png
           title: Sponsor Linaro Connect
           text: >
-            Linaro Connect Budapest 2020 will be the 27th Connect since Linaro started in June 2010. Hundreds of the world’s best Linux on Arm developers come to Linaro Connect each time because they know it is the leading place to meet with the global community and to learn about what is going on in the industry. Sponsorship of the event puts your brand in front of all the event attendees – both the 400+ on-site and all those who participate remotely, as well as the thousands who view the website and social media before, during and after the event.
+            Hundreds of the world’s best Linux on Arm developers come to Linaro Connect each time because they know it is the leading place to meet with the global community and to learn about what is going on in the industry. Sponsorship of the event puts your brand in front of all the event attendees – both the 400+ on-site and all those who participate remotely, as well as the thousands who view the website and social media before, during and after the event.
           buttons:
             - title: Learn More
               url: /sponsors/
