@@ -1,5 +1,5 @@
 ---
-title: 'Linaro Tech Days '
+title: Linaro Tech Days 2020
 description: |-
   Linaro Tech Days 
   First series: 24-25 March 2020
