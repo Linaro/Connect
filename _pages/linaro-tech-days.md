@@ -6,7 +6,7 @@ description: |-
 permalink: /linaro-tech-days/
 layout: flow
 jumbotron:
-  carousel-images: /assets/images/content/techdays_facebook.png
+  background-image: /assets/images/content/techdays_facebook.png
   title: Linaro Tech Days
 flow:
   - row: main_content_row
