@@ -36,7 +36,16 @@ flow:
       - format: text
         style: text-center text-white
         text_content:
-          text: As a result of the Coronavirus, It is with great regret that we have decided to cancel the upcoming Linaro Connect which was due to be held on 23-27 March 2020 at Corinthia Hotel in Budapest, Hungary. You can read the complete statement [here](https://www.linaro.org/blog/linaro-connect-budapest-2020-cancelled/).
+          text: |-
+            As a result of the Coronavirus, It is with great regret that we have decided to cancel the upcoming Linaro Connect which was due to be held on 23-27 March 2020 at Corinthia Hotel in Budapest, Hungary. You can read the complete statement [here](https://www.linaro.org/blog/linaro-connect-budapest-2020-cancelled/).
+
+            We had many great technical sessions scheduled and as such, want to do all we can to repurpose as much of the content as possible. We have created Linaro Tech Days - A livestream event of technical sessions on 24 and 25 March 2020.
+      - format: buttons
+        style: text-center
+        buttons_content:
+            - title: Linaro Tech Days
+              url: /linaro-tech-days/
+              style: btn-primary
   - row: container_row
     sections:
       - format: feature_block
