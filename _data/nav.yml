@@ -10,8 +10,13 @@ brand:
   text: Linaro Connect
   url: /
 pages:
-  - url: /about/
+  - options:
+      - text: 'Linaro Tech Days '
+        url: /linaro-tech-days/
     title: About
+    url: /about/
+  - title: Linaro Tech Days
+    url: 'https://connect.linaro.org/linaro-tech-days/'
   - active_paths:
       - /resources/
     options:
