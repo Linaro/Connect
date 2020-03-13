@@ -1,7 +1,7 @@
 ---
 title: Linaro Tech Days 2020
 description: |-
-  Linaro Tech Days 
+  Linaro Tech Days
   First series: 24-25 March 2020
 permalink: /linaro-tech-days/
 layout: flow
@@ -10,6 +10,10 @@ jumbotron:
   title: Linaro Tech Days
 flow:
   - row: main_content_row
+  - row: container_row
+    sections:
+        - format: custom_include
+          source: schedule.html
 image:
   path: /assets/images/content/techdays_facebook.png
 ---
