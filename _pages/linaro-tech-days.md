@@ -12,13 +12,15 @@ flow:
   - row: main_content_row
   - row: container_row
     sections:
-        - format: custom_include
-          source: schedule.html
+      - format: custom_include
+        source: schedule.html
 image:
   path: /assets/images/content/techdays_facebook.png
 ---
-We were disappointed to have to cancel Linaro Connect Budapest March 2020.  As a way to feature some of the content from the Linaro Connect schedule, we have created Linaro Tech Days.
+Linaro Tech Days is a series of technical sessions that will be presented live online. These sessions will be hosted via Zoom webinar and also live streamed to YouTube. Recordings and slides will be made available on our Resource page for those who are not able to join.
 
-Linaro Tech Days are a series of technical sessions that will be presented live online for anyone to join. Recordings and slides will be made available on our [Resource page](https://connect.linaro.org/resources/) for those who are not able to join.
+The first of Linaro Tech Days will be held on 24 and 25 March 2020. 
 
-We are in the process of finalizing the schedule for March 24 and 25 and will post the schedule here by 11 March 2020.
+The schedule is available to view below.  In order to view the full session details, joining instructions, and begin building your personal agenda you must first register. 
+
+\*Please note: all sessions are listed in GMT. We recommend registering and then exporting the Linaro Tech Days schedule from Sched.com to your personal calendar to avoid confusion.
