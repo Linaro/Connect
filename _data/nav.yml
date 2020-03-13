@@ -16,7 +16,7 @@ pages:
     title: About
     url: /about/
   - title: Linaro Tech Days
-    url: 'https://connect.linaro.org/linaro-tech-days/'
+    url: '/linaro-tech-days/'
   - active_paths:
       - /resources/
     options:
