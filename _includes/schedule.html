@@ -1,6 +1,8 @@
-<div class="row" id="schedule">
-    <div class="container no-padding">
-        <a id="sched-embed" href="//bud20.sched.com/">View the Linaro Connect Budapest 2020 schedule &amp; directory.</a>
-        <script type="text/javascript" src="//bud20.sched.com/js/embed.js"></script>
+<div class="col-xs-12">
+    {% assign sessions = site.categories["ltd20"] | sort: 'session_slot.end_time' %}
+    <div class="list-group">
+    {% for session in sessions %}
+        <a href="{{session.url}}" class="list-group-item">{{session.title}}</a>
+    {% endfor %}
     </div>
 </div>
