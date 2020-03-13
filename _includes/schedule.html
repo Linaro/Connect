@@ -1,14 +1,8 @@
 <div class="col-xs-12">
     {% assign sessions = site.categories["ltd20"] | sort: 'session_slot.end_time' %}
-    <h3>Sessions Overview</h3>
     <div class="list-group">
     {% for session in sessions %}
         <a href="{{session.url}}" class="list-group-item">{{session.title}}</a>
     {% endfor %}
     </div>
-</div>
-<div class="col-xs-12 text-center">
-    <h2>Full Schedule</h2>
-    <a id="sched-embed" href="//linarotechdays.sched.com/">View the Linaro Tech Days schedule &amp; directory.</a>
-    <script type="text/javascript" src="//linarotechdays.sched.com/js/embed.js"></script>
 </div>

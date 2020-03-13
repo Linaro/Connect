@@ -8,12 +8,33 @@ layout: flow
 jumbotron:
   background-image: /assets/images/content/techdays_facebook.png
   title: Linaro Tech Days
+  buttons:
+    - title: Register
+      url: https://www.eventbrite.co.uk/e/99529015966/
+      class: btn btn-primary
 flow:
   - row: main_content_row
   - row: container_row
     sections:
+        - format: title
+          title_content:
+            size: h2
+            text: Sessions
         - format: custom_include
           source: schedule.html
+  - row: container_row
+    sections:
+        - format: title
+          title_content:
+            size: h2
+            text: Register Now
+        - format: buttons
+          style: text-center # specify custom css classes to use
+          buttons_content:
+              - title: Register
+                url: https://www.eventbrite.co.uk/e/99529015966/
+                icon: fa fa-arrow-right
+                class: btn btn-primary
 image:
   path: /assets/images/content/techdays_facebook.png
 ---
