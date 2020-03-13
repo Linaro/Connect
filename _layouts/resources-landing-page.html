@@ -6,9 +6,16 @@ css-package: resources-landing-page
 js-package: resources-landing-page
 ---
 {% assign connect_data = site.data.connects | where: "id", page.event_code | first %}
-{% include carousel-header.html images=connect_data.featured_images %}
-{% capture connect_jumbotron_desc %}Find resources from {{connect_data.id}} here.{% endcapture %}
-{% include jumbotron-resources.html title=connect_data.long_name description=connect_jumbotron_desc %}
+{% if connect_data %}
+    {% assign title = connect_data.long_name %}
+    {% capture connect_jumbotron_desc %}Find resources from {{connect_data.id}} here.{% endcapture %}
+    {% assign desc = connect_jumbotron_desc %}
+    {% include carousel-header.html images=connect_data.featured_images %}
+{% else %}
+    {% assign title = page.title %}
+    {% assign desc =  page.description %}
+{% endif %}
+{% include jumbotron-resources.html title=title description=desc %}
 {{content}}
 <div class="row" id="content-container">
     <div class="container">
