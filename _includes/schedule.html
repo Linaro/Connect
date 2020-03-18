@@ -1,9 +1,9 @@
 <div class="col-xs-12">
     {% assign ltd20_sessions = site.categories["ltd20"] | sort: 'session_slot.end_time' %}
     <div class="list-group">
-        <li class="list-group-item active">LTD20 Sessions - 23rd - 24th March</li>
+        <li class="list-group-item active">LTD20 Sessions - 24th - 25th March</li>
         {% for session in ltd20_sessions %}
-            <a href="{{session.url}}" class="list-group-item">{{session.title}} {{session.session_slot.start_time | date: "%e %B" }} - {{session.session_slot.start_time | date: "  %H:%M %p" }} - {{session.session_slot.end_time | date: "%H:%M %p"}}</a>
+            <a href="{{session.url}}" class="list-group-item" style="overflow:auto;">{{session.title}} <span class="pull-right">{{session.session_slot.start_time | date: "%e %B" }} - {{session.session_slot.start_time | date: "  %H:%M %p" }} - {{session.session_slot.end_time | date: "%H:%M %p"}}</span></a>
         {% endfor %}
     </div>
 </div>
