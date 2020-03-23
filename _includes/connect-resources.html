@@ -109,6 +109,11 @@
     {% endif %}
 </div>
 <div class="col-xs-12 no-padding">
+    {% if using_json == "True" %}
+    <div class="list-group" id="session_files">
+        <li class="list-group-item active">Session Files</li>
+    </div>
+    {% endif %}
     {% if page.description %}
     <h3>Session Abstract</h3>
     <p>
