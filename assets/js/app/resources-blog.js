@@ -1,4 +1,5 @@
 $(window).on("load", function() {
+  var session_files = [];
   // Check to see if we are using the resources.json for fetching resources
   if ($("#video-holder.using_json").length > 0) {
     // Get the current Connect code from the event-code attribute
@@ -24,11 +25,19 @@ $(window).on("load", function() {
           ) {
             // Grab the main video URL
             if (obj.youtube_video_url.toString().length > 1) {
-              var video_url = obj.youtube_video_url.toString();
-            }
-            // Secondary backup video URL
-            else if (obj.s3_video_url.toString().length > 1) {
-              var video_url = obj.s3_video_url.toString();
+              if (obj.youtube_video_url[0].length > 1) {
+                console.log("array of videos");
+                console.log(obj.youtube_video_url);
+                console.log(obj.youtube_video_url[0]);
+                var video_url = obj.youtube_video_url[0].toString();
+                // Add all video files to the session_files array.
+                $.each(obj.s3_video_url, function(index, object) {
+                  session_files.push(object);
+                });
+              } else {
+                var video_url = obj.youtube_video_url.toString();
+                session_files.push(video_url);
+              }
             }
             // Set video url to "" if no url exits
             else {
@@ -153,12 +162,41 @@ $(window).on("load", function() {
           ) {
             // Grab the main presentation URL
             if (obj.s3_presentation_url.toString().length > 1) {
-              var presentation_url = obj.s3_presentation_url.toString();
-            } else {
+              if (obj.s3_presentation_url[0].length > 1) {
+                console.log("array of videos");
+                console.log(obj.s3_presentation_url);
+                console.log(obj.s3_presentation_url[0]);
+                // Add all files to the session_files
+                $.each(obj.s3_presentation_url, function(index, object) {
+                  session_files.push(object);
+                });
+                // Set the featured presentation as the first available file.
+                var presentation_url = obj.s3_presentation_url[0].toString();
+              } else {
+                var presentation_url = obj.s3_presentation_url.toString();
+                session_files.push(presentation_url);
+              }
+            }
+            // Secondary backup video URL
+            else {
               var presentation_url = "";
             }
+            // Add other files to the session files array.
+            if (obj.other_files.toString().length > 1) {
+              if (obj.other_files[0].length > 1) {
+                console.log(obj.other_files);
+                // Add all files to the session_files
+                $.each(obj.other_files, function(index, object) {
+                  session_files.push(object);
+                });
+                // Set the featured presentation as the first available file.
+                var presentation_url = obj.other_files[0].toString();
+              } else {
+                session_files.push(obj.other_files.toString());
+              }
+            }
             // Check to see if the main presentation URL does not equal "None"
-            if (obj.s3_presentation_url.toString().length > 1) {
+            if (presentation_url != "") {
               $("#presentation-data-embed").attr("src", presentation_url);
               // Set the src to the data-src
               $("#presentation-data-embed").ready(function() {
@@ -200,4 +238,35 @@ $(window).on("load", function() {
       $("#presentation-embed").addClass("visible-iframe");
     });
   }
+
+  $(document).ajaxStop(function() {
+    if (session_files.length > 0) {
+      console.log("Adding session files...");
+      console.log(session_files);
+      var elements = "";
+      $.each(session_files, function(index, object) {
+        var object_type = "File";
+        if (object.indexOf("pdf") != -1) {
+          var object_type = "Presentation";
+        } else if (object.indexOf("mp4") != -1) {
+          var object_type = "Video";
+        } else if (object.indexOf("youtube") != -1) {
+          var object_type = "YouTube Video";
+        } else if (object.indexOf("pptx") != -1) {
+          var object_type = "Presentation";
+        }
+        var new_element =
+          '<a href="' +
+          object +
+          '" class="list-group-item" style="overflow:auto;">';
+        new_element +=
+          object + '<span class="pull-right">' + object_type + "</span>";
+        new_element += "</a>";
+        elements += new_element;
+      });
+      $("#session_files").append(elements);
+    } else {
+      console.log("No sessio files.");
+    }
+  });
 });
