@@ -1,3 +1,10 @@
+- id: LTD20
+  featured_images:
+    - /assets/images/content/techdays_facebook.png
+  long_name: Linaro Tech Days 2020
+  start_date: 2020-03-24 09:00:00
+  end_date: 2020-03-25 09:00:00
+  using_json: "True"
 - id: SAN19
   placeholder: san19-group-photo.jpg
   featured_images:
