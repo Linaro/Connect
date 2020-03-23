@@ -27,4 +27,4 @@ He is a frequent keynote speaker on artificial intelligence at conferences, broa
 
 Chris is the Founder & Organizer of the Atlanta Deep Learning Meetup, one of the largest AI communities in the world, with about 2000 members.
 
-You can find out more about Chris Benson at his website: [https://chrisbenson.com](https://chrisbenson.com)
+You can find out more about Chris Benson at his website: https://chrisbenson.com
