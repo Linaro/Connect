@@ -22,6 +22,8 @@ pages:
     options:
       - text: All Resources
         url: /resources/
+      - text: Linaro Tech Days 2020
+        url: /resources/ltd20/
       - text: San Diego 2019
         url: /resources/san19/
       - text: Bangkok 2019
