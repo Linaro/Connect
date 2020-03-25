@@ -24,18 +24,14 @@ $(window).on("load", function() {
             sessionId.toString().toLowerCase()
           ) {
             // Grab the main video URL
-            if (obj.youtube_video_url.toString().length > 1) {
-              if (obj.youtube_video_url[0].length > 1) {
-                console.log("array of videos");
-                console.log(obj.youtube_video_url);
-                console.log(obj.youtube_video_url[0]);
-                var video_url = obj.youtube_video_url[0].toString();
-                // Add all video files to the session_files array.
+            if (obj.s3_video_url.toString().length > 1) {
+              if (obj.s3_video_url[0].length > 1) {
+                var video_url = obj.s3_video_url[0].toString();
                 $.each(obj.s3_video_url, function(index, object) {
                   session_files.push(object);
                 });
               } else {
-                var video_url = obj.youtube_video_url.toString();
+                var video_url = obj.s3_video_url.toString();
                 session_files.push(video_url);
               }
             }
