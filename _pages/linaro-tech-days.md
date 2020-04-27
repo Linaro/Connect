@@ -4,6 +4,7 @@ description: |-
   Linaro Tech Days
   First series: 24-25 March 2020
   Second series: 31 March-2 April 2020
+  More sessions TBD 
 permalink: /linaro-tech-days/
 layout: flow
 jumbotron:
@@ -36,7 +37,7 @@ flow:
         format: buttons
         style: text-center
 image:
-  path: /assets/images/content/techdays_facebook.png
+  path: /assets/images/content/techdays_sched_mobile_banner.png
 ---
 Linaro Tech Days is a series of technical sessions that will be presented live online. 
 
