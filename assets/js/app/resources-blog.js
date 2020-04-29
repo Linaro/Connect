@@ -1,4 +1,4 @@
-$(window).on("load", function() {
+$(window).on("load", function () {
   var session_files = [];
   // Check to see if we are using the resources.json for fetching resources
   if ($("#video-holder.using_json").length > 0) {
@@ -14,10 +14,10 @@ $(window).on("load", function() {
     $.ajax({
       url: resources_json_url,
       dataType: "json",
-      complete: function(jsonResponse) {
+      complete: function (jsonResponse) {
         jsonData = JSON.parse(jsonResponse.responseText);
         // Find the corresponding key in the JSON data
-        $.each(jsonData, function(idx, obj) {
+        $.each(jsonData, function (idx, obj) {
           // Get the current Connect code
           if (
             obj.session_id.toString().toLowerCase() ==
@@ -27,7 +27,7 @@ $(window).on("load", function() {
             if (obj.s3_video_url.toString().length > 1) {
               if (obj.s3_video_url[0].length > 1) {
                 var video_url = obj.s3_video_url[0].toString();
-                $.each(obj.s3_video_url, function(index, object) {
+                $.each(obj.s3_video_url, function (index, object) {
                   session_files.push(object);
                 });
               } else {
@@ -68,7 +68,7 @@ $(window).on("load", function() {
 
               // Set video Iframe to visible and remove the video-skeleton placeholder
               // once the video has loaded with the src
-              $("#youtube-iframe").on("load", function() {
+              $("#youtube-iframe").on("load", function () {
                 $("#video-embed").removeClass("hidden-iframe");
                 $(this).removeClass("hidden-iframe");
                 $("#video-skeleton").hide();
@@ -88,7 +88,7 @@ $(window).on("load", function() {
             }
           }
         });
-      }
+      },
     });
   }
   // Use the default functionality for loading resources from the front matter values
@@ -96,7 +96,7 @@ $(window).on("load", function() {
     // Get data-src attribute values - this is the youtube video link added from the page front matter in Jekyll
     var url = $("#youtube-iframe").attr("data-src");
     // Function to return the ID of a youtube video given the standard URL
-    if (url) {
+    if (url.indexOf("youtu") > -1) {
       function getId(url) {
         var regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
         var match = url.match(regExp);
@@ -115,7 +115,16 @@ $(window).on("load", function() {
       $("#youtube-iframe").attr("src", embedUrl);
       // Set video Iframe to visible and remove the video-skeleton placeholder
       // once the video has loaded with the s
-      $("#youtube-iframe").on("load", function() {
+      $("#youtube-iframe").on("load", function () {
+        $("#video-embed").removeClass("hidden-iframe");
+        $(this).removeClass("hidden-iframe");
+        $("#video-skeleton").hide();
+        $(this).addClass("visible-iframe");
+        $("#video-embed").addClass("visible-iframe");
+      });
+    } else {
+      $("#youtube-iframe").attr("src", url);
+      $("#youtube-iframe").on("load", function () {
         $("#video-embed").removeClass("hidden-iframe");
         $(this).removeClass("hidden-iframe");
         $("#video-skeleton").hide();
@@ -146,10 +155,10 @@ $(window).on("load", function() {
     $.ajax({
       url: resources_json_url,
       dataType: "json",
-      complete: function(jsonResponse) {
+      complete: function (jsonResponse) {
         jsonData = JSON.parse(jsonResponse.responseText);
         // Find the corresponding key in the JSON data
-        $.each(jsonData, function(idx, obj) {
+        $.each(jsonData, function (idx, obj) {
           // Get the current Connect code
           // console.log(obj.session_id.toString().toLowerCase() + " vs " + sessionId.toString().toLowerCase() );
           if (
@@ -163,7 +172,7 @@ $(window).on("load", function() {
                 console.log(obj.s3_presentation_url);
                 console.log(obj.s3_presentation_url[0]);
                 // Add all files to the session_files
-                $.each(obj.s3_presentation_url, function(index, object) {
+                $.each(obj.s3_presentation_url, function (index, object) {
                   session_files.push(object);
                 });
                 // Set the featured presentation as the first available file.
@@ -182,7 +191,7 @@ $(window).on("load", function() {
               if (obj.other_files[0].length > 1) {
                 console.log(obj.other_files);
                 // Add all files to the session_files
-                $.each(obj.other_files, function(index, object) {
+                $.each(obj.other_files, function (index, object) {
                   session_files.push(object);
                 });
                 // Set the featured presentation as the first available file.
@@ -195,7 +204,7 @@ $(window).on("load", function() {
             if (presentation_url != "") {
               $("#presentation-data-embed").attr("src", presentation_url);
               // Set the src to the data-src
-              $("#presentation-data-embed").ready(function() {
+              $("#presentation-data-embed").ready(function () {
                 $("#presentation-embed").removeClass("hidden-iframe");
                 $("#presentation-data-embed").removeClass("hidden-iframe");
                 $("#presentation-skeleton").hide();
@@ -215,7 +224,7 @@ $(window).on("load", function() {
             }
           }
         });
-      }
+      },
     });
   }
   // Presentation Lazy load using default src attribute values added
@@ -226,7 +235,7 @@ $(window).on("load", function() {
     // Set the src to the data-src
     $("#presentation-iframe").attr("src", url);
 
-    $("#presentation-iframe").on("load", function() {
+    $("#presentation-iframe").on("load", function () {
       $("#presentation-embed").removeClass("hidden-iframe");
       $(this).removeClass("hidden-iframe");
       $("#presentation-skeleton").hide();
@@ -235,12 +244,12 @@ $(window).on("load", function() {
     });
   }
 
-  $(document).ajaxStop(function() {
+  $(document).ajaxStop(function () {
     if (session_files.length > 0) {
       console.log("Adding session files...");
       console.log(session_files);
       var elements = "";
-      $.each(session_files, function(index, object) {
+      $.each(session_files, function (index, object) {
         var object_type = "File";
         if (object.indexOf("pdf") != -1) {
           var object_type = "Presentation";
