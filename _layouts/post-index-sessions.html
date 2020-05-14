@@ -32,11 +32,7 @@ js-package: resources-blog
                             {% assign image_title = post.title %}
                         {% endif %}
                         {% capture image_path %}assets/images/featured-images/{{post.image.name}}{% endcapture %}
-                        {% responsive_image_block %}
-                        path: "{{ image_path }}"
-                        title: "{{ image_title }}"
-                        alt: "{{ image_title }}"
-                        {% endresponsive_image_block %}
+
                     {% elsif post.image.path contains "https://" %}
                         <!-- <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                             data-src="https://static.linaro.org/connect/bud20/images/300/{{post.session_id}}.jpg" alt="{{post.title}}"
@@ -57,11 +53,7 @@ js-package: resources-blog
                                 {% assign image_title = post.title %}
                             {% endif %}
                             {% capture image_path %}{{ post.image.path | slice: 1, post.image.path.size }}{% endcapture %}
-                            {% responsive_image_block %}
-                            path: "{{ image_path }}"
-                            title: "{{ image_title }}"
-                            alt: "{{ image_title }}"
-                            {% endresponsive_image_block %}
+
                         {% endunless %}
                     {% else %}
                     {% capture image_path %}assets/images/content/connect-logo.png{% endcapture %}
@@ -77,11 +69,7 @@ js-package: resources-blog
                     {% else %}
                         {% assign image_title = post.title %}
                     {% endif %}
-{% responsive_image_block %}
-path: "{{ image_path }}"
-title: "{{ image_title }}"
-alt: "{{ image_title }}"
-{% endresponsive_image_block %}
+
                     {% endif %}
                 </div>
             {% if using_json == "True" %}

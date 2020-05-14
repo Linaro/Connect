@@ -25,11 +25,7 @@ js-package: resources-blog
                             {% assign image_title = post.title %}
                         {% endif %}
                         {% capture image_path %}assets/images/featured-images/{{post.image.name}}{% endcapture %}
-{% responsive_image_block %}
-path: "{{ image_path }}"
-title: "{{ image_title }}"
-alt: "{{ image_title }}"
-{% endresponsive_image_block %}
+
                     {% else %}
                         {% if post.session_id != "None" %}
                             {% assign image_title = post.session_id %}
@@ -44,11 +40,7 @@ alt: "{{ image_title }}"
                                 {% endif %}
                             {% endif %}
                         {% endfor %}
-{% responsive_image_block %}
-path: "{{ image_path }}"
-title: "{{ image_title }}"
-alt: "{{ image_title }}"
-{% endresponsive_image_block %}
+
                     {% endif %}
                 </div>
             </a>
