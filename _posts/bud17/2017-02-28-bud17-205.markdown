@@ -9,10 +9,8 @@ date: 2017-02-28 12:05:32
 excerpt: This session will provide updates to the Arm Server Base System Architecture
   and Boot Requirements (SBSA/SBBR) as well as their validation programs.
 featured_image_file_name: BUD17-205.jpg
-image:
-  featured: true
-  file_name: BUD17-205.jpg
-  path: /assets/images/featured-images/BUD17-205.jpg
+image_name: BUD17-205.jpg
+image: /assets/images/featured-images/BUD17-205.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-205/
 post_format:

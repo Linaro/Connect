@@ -25,10 +25,8 @@ excerpt: "James Pace & Sterling Hughes (Runtime.io) Apache Mynewt is a community
   or mature product-oriented tools--a fresh approach to permissively licensed open
   source tools will be presented."
 featured_image_name: LAS16-104.png
-image:
-  featured: true
-  file_name: LAS16-104.png
-  path: /assets/images/featured-images/LAS16-104.png
+image_name: LAS16-104.png
+image: /assets/images/featured-images/LAS16-104.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-104/
 post_format:

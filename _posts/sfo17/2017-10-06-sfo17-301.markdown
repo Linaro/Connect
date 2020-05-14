@@ -18,10 +18,8 @@ excerpt: "Now that large community open source projects like Linux power the wor
   and minds of developers, and pose potential solutions to discourage disruptive enforcement
   efforts.  To sue or not to sue -- that is the question."
 featured_image_name: SFO17-301.jpg
-image:
-  featured: true
-  file_name: SFO17-301.jpg
-  path: /assets/images/featured-images/SFO17-301.jpg
+image_name: SFO17-301.jpg
+image: /assets/images/featured-images/SFO17-301.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-301/
 post_format:
@@ -39,17 +37,17 @@ youtube_video_url: https://www.youtube.com/watch?v=McBtc0Inw-A
 Session ID: SFO17-301
 Session Name: A Practical Guide to Open Source Software Licensing - SFO17-301
 Speaker: Heather Meeker
-Track: 
+Track:
 
 
 ★ Session Summary ★
-Now that large community open source projects like Linux power the world’s technology, enforcement of open source licenses like GPL has become a serious policy issue for the technology community of the world.  As enforcement has matured in the last decade, multiple players have stepped forward to spearhead enforcement -- including community enforcers, strategic enforcers, and copyright profiteers.  As we move into a new generation of software engineering, community projects are struggling to balance the interests of authors and the interests of users. Ms. Meeker will outline the issues faced by our community, and what is being done to address them.   
- 
+Now that large community open source projects like Linux power the world’s technology, enforcement of open source licenses like GPL has become a serious policy issue for the technology community of the world.  As enforcement has matured in the last decade, multiple players have stepped forward to spearhead enforcement -- including community enforcers, strategic enforcers, and copyright profiteers.  As we move into a new generation of software engineering, community projects are struggling to balance the interests of authors and the interests of users. Ms. Meeker will outline the issues faced by our community, and what is being done to address them.
+
 This talk will explain the effect of open source’s direct licensing model on enforcement, explain which enforcement players are vying for the hearts and minds of developers, and pose potential solutions to discourage disruptive enforcement efforts.  To sue or not to sue -- that is the question.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-301/
-Presentation: 
+Presentation:
 Video: https://www.youtube.com/watch?v=McBtc0Inw-A
  ---------------------------------------------------
 
@@ -59,7 +57,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

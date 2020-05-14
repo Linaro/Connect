@@ -11,10 +11,8 @@ excerpt: 'Linux and Xenomai applied to pan and tilt motor control using GPIOs
 
 '
 featured_image_file_name: BUD17-DF01.jpg
-image:
-  featured: true
-  file_name: BUD17-DF01.jpg
-  path: /assets/images/featured-images/BUD17-DF01.jpg
+image_name: BUD17-DF01.jpg
+image: /assets/images/featured-images/BUD17-DF01.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df01/
 post_format:

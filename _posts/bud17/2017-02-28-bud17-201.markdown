@@ -14,10 +14,8 @@ excerpt: We have recently achieved a critical milestone of having core enablemen
   acceleration (CCIX, FPGAs, etc.). In this session, we will gather feedback and input
   on where to go next.
 featured_image_file_name: BUD17-201.jpg
-image:
-  featured: true
-  file_name: BUD17-201.jpg
-  path: /assets/images/featured-images/BUD17-201.jpg
+image_name: BUD17-201.jpg
+image: /assets/images/featured-images/BUD17-201.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-201/
 post_format:

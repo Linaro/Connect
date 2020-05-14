@@ -13,10 +13,8 @@ excerpt: "Often an embedded WLAN chip is connected via an SDIO bus. During a sys
   this time adds up to the total suspend/resume time for the system.\n \n In this
   session the problem is being described and a solution being explored."
 featured_image_name: SFO17-402.jpg
-image:
-  featured: true
-  file_name: SFO17-402.jpg
-  path: /assets/images/featured-images/SFO17-402.jpg
+image_name: SFO17-402.jpg
+image: /assets/images/featured-images/SFO17-402.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-402/
 post_format:

@@ -8,10 +8,8 @@ comments: true
 date: 2015-06-30 17:08:31
 excerpt: Overview of Ubuntu for Arm Servers
 featured_image_name: LCU14-300.jpg
-image:
-  featured: true
-  file_name: LCU14-300.jpg
-  path: /assets/images/featured-images/LCU14-300.jpg
+image_name: LCU14-300.jpg
+image: /assets/images/featured-images/LCU14-300.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-300-openstack-and-kvm-on-arm-servers/
 post_format:

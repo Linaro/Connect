@@ -16,10 +16,8 @@ excerpt: "The goal of this talk is to share details on how Ion is integrated in 
   heap type be sufficient?\n - Impact of the current de-staging efforts.\n - Ion on
   virtualized platforms?"
 featured_image_name: SFO17-404.jpg
-image:
-  featured: true
-  file_name: SFO17-404.jpg
-  path: /assets/images/featured-images/SFO17-404.jpg
+image_name: SFO17-404.jpg
+image: /assets/images/featured-images/SFO17-404.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-404/
 post_format:

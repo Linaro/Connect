@@ -17,10 +17,8 @@ excerpt: This technical discussion will highlight on-going Red Hat activities fo
   specifically those involving the Avocado and kvm-unit-tests frameworks, will be
   presented.
 featured_image_file_name: BUD17-213.jpg
-image:
-  featured: true
-  file_name: BUD17-213.jpg
-  path: /assets/images/featured-images/BUD17-213.jpg
+image_name: BUD17-213.jpg
+image: /assets/images/featured-images/BUD17-213.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-213/
 post_format:

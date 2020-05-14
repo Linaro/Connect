@@ -11,10 +11,8 @@ excerpt: LHG is using the ION-based secure memory allocator integrated with OPTE
   EME protocol and supporting Content Decryption Modules (CDMs) from Widevine and
   PlayReady.
 featured_image_file_name: BUD17-400.jpg
-image:
-  featured: true
-  file_name: BUD17-400.jpg
-  path: /assets/images/featured-images/BUD17-400.jpg
+image_name: BUD17-400.jpg
+image: /assets/images/featured-images/BUD17-400.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-400/
 post_format:

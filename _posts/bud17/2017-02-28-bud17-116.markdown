@@ -8,10 +8,8 @@ comments: false
 date: 2017-02-28 12:05:27
 excerpt: This presentation summarized efficient project management solution to c
 featured_image_file_name: BUD17-116.jpg
-image:
-  featured: true
-  file_name: BUD17-116.jpg
-  path: /assets/images/featured-images/BUD17-116.jpg
+image_name: BUD17-116.jpg
+image: /assets/images/featured-images/BUD17-116.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-116/
 post_format:

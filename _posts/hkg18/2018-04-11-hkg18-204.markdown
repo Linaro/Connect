@@ -9,10 +9,8 @@ date: 2018-04-11 14:11:54
 excerpt: "*Open to employees of Linaro  and Linaro Members Only* \nBadges will be
   checked at the door."
 featured_image_name: HKG18-204.png
-image:
-  featured: true
-  file_name: HKG18-204.png
-  path: /assets/images/featured-images/HKG18-204.png
+image_name: HKG18-204.png
+image: /assets/images/featured-images/HKG18-204.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-204/
 post_format:
@@ -36,8 +34,8 @@ Track: Security
 
 
 ## Session Summary
-*Open to employees of Linaro  and Linaro Members Only* 
-Badges will be checked at the door. 
+*Open to employees of Linaro  and Linaro Members Only*
+Badges will be checked at the door.
 ---------------------------------------------------
 ## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-204/
@@ -46,7 +44,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-204.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

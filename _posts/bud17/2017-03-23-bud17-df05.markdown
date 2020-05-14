@@ -11,10 +11,8 @@ excerpt: "\"The demo is one of the cases to use DPDK as network accelerator.\nNg
   system can be run in physical machine or VM as VNF with virtual switch interconnected.
   \""
 featured_image_file_name: BUD17-DF05.jpg
-image:
-  featured: true
-  file_name: BUD17-DF05.jpg
-  path: /assets/images/featured-images/BUD17-DF05.jpg
+image_name: BUD17-DF05.jpg
+image: /assets/images/featured-images/BUD17-DF05.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df05/
 post_format:

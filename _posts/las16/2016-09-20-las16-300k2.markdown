@@ -14,10 +14,8 @@ excerpt: "**Title: IoT Zephyr**\n Overview of IoT Zephyr\n \n **Bio**\n Geoff Th
   many years veering off into semiconductors and hardware architecture, his software-bias
   has been domesticated to some extent but not eradicated."
 featured_image_name: LAS16-300K2.png
-image:
-  featured: true
-  file_name: LAS16-300K2.png
-  path: /assets/images/featured-images/LAS16-300K2.png
+image_name: LAS16-300K2.png
+image: /assets/images/featured-images/LAS16-300K2.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-300k2/
 post_format:

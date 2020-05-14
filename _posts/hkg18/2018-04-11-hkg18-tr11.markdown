@@ -15,10 +15,8 @@ excerpt:
   of devices or automated submissions. It is the single-device-single-developer model
   and the cost of the hardware can reflect this.
 featured_image_name: HKG18-TR11.png
-image:
-  featured: true
-  file_name: HKG18-TR11.png
-  path: /assets/images/featured-images/HKG18-TR11.png
+image_name: HKG18-TR11.png
+image: /assets/images/featured-images/HKG18-TR11.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-tr11/
 post_format:

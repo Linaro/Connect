@@ -12,7 +12,7 @@ excerpt: Scripting languages is hot emerging topic in IoT. They allow easy learn
   and gives status update on their Zephyr RTOS ports.
 featured_image_file_name: BUD17-104.jpg
 image:
-  path: /assets/images/featured-images/BUD17-104.jpg
+image: /assets/images/featured-images/BUD17-104.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-104/
 post_format:

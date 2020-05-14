@@ -12,10 +12,8 @@ excerpt: Interconnected systems require trust between devices and service provid
   with trusted code management, using technologies proven in large scale banking and
   sensitive data applications on mass-market devices such as smartphones and tablets.
 featured_image_name: LAS16-306.png
-image:
-  featured: true
-  file_name: LAS16-306.png
-  path: /assets/images/featured-images/LAS16-306.png
+image_name: LAS16-306.png
+image: /assets/images/featured-images/LAS16-306.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-306/
 post_format:

@@ -10,10 +10,8 @@ excerpt: Aimed at developers who are working upstream and at the same time possi
   working on NDA things. It covers secure email, when to and when not to use IRC for
   discussions, and general good practices.
 featured_image_name: LCU14-115.jpg
-image:
-  featured: true
-  file_name: LCU14-115.jpg
-  path: /assets/images/featured-images/LCU14-115.jpg
+image_name: LCU14-115.jpg
+image: /assets/images/featured-images/LCU14-115.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-115-security-best-practices/
 post_format:

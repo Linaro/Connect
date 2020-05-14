@@ -14,10 +14,8 @@ excerpt: "At this session we will get more knowledge about the TEE driver that L
   channel. What will a developer need to think of when adding support for another
   TEE solution?"
 featured_image_name: SFO15200LinuxkernelgenericTEEdriver.jpg
-image:
-  featured: true
-  file_name: SFO15200LinuxkernelgenericTEEdriver.jpg
-  path: /assets/images/featured-images/SFO15200LinuxkernelgenericTEEdriver.jpg
+image_name: SFO15200LinuxkernelgenericTEEdriver.jpg
+image: /assets/images/featured-images/SFO15200LinuxkernelgenericTEEdriver.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-200-linux-kernel-generic-tee-driver/
 post_format:
@@ -45,15 +43,15 @@ Date: September 22, 2015
 ★ Session Description ★
 At this session we will get more knowledge about the TEE driver that Linaro has been working on for the last couple of months. Questions to be answered are for example: What are the API’s? How does the TEE driver work as a communication channel. What will a developer need to think of when adding support for another TEE solution?
 
-★ Resources ★ 
+★ Resources ★
 Video: https://www.youtube.com/watch?v=BhLndLUQamM
 Presentation:  http://www.slideshare.net/linaroorg/sfo15200-linux-kernel-generic-tee-driver
 Etherpad: pad.linaro.org/p/sfo15-200
-Pathable: https://sfo15.pathable.com/meetings/302831    
+Pathable: https://sfo15.pathable.com/meetings/302831
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

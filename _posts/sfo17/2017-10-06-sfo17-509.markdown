@@ -11,10 +11,8 @@ excerpt: A new era of deep learning is coming with algorithm evolvement, powerfu
   and potential heterogeneous accelerator solutions (GPU, FPGA, DSP, and etc) for
   Arm platforms and the work ahead from platform perspective.
 featured_image_name: SFO17-509.jpg
-image:
-  featured: true
-  file_name: SFO17-509.jpg
-  path: /assets/images/featured-images/SFO17-509.jpg
+image_name: SFO17-509.jpg
+image: /assets/images/featured-images/SFO17-509.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-509/
 post_format:
@@ -36,7 +34,7 @@ Session Name: Deep Learning on Arm Platforms
  - SFO17-509
 Speaker: Jammy Zhou
 
-Track: 
+Track:
 
 
 ★ Session Summary ★
@@ -54,7 +52,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

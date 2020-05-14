@@ -4,7 +4,7 @@ speaker:
     name: Rob Oshana
     job-title: VP Software at NXP
 image:
-    path: /assets/images/speakers/keynotes/bkk19/rob-oshana.jpg
+  image: /assets/images/speakers/keynotes/bkk19/rob-oshana.jpg
     featured: true
 event: BKK19
 description: >

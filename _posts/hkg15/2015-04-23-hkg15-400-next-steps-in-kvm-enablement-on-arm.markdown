@@ -6,10 +6,8 @@ categories:
 comments: true
 date: 2015-04-23 15:36:29
 featured_image_name: HKG15-400.jpg
-image:
-  featured: true
-  file_name: HKG15-400.jpg
-  path: /assets/images/featured-images/HKG15-400.jpg
+image_name: HKG15-400.jpg
+image: /assets/images/featured-images/HKG15-400.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-400-next-steps-in-kvm-enablement-on-arm/
 post_format:
@@ -38,8 +36,8 @@ Date:  February 12, 2015
 Next steps in KVM enablement on Arm
 --------------------------------------------------
 ★ Resources ★
-Pathable:  https://hkg15.pathable.com/meetings/250827 
-Presentation:  http://www.slideshare.net/linaroorg/hkg15400-next-steps-in-kvm-enablement-on-arm Etherpad:   http://pad.linaro.org/p/hkg15-400 
+Pathable:  https://hkg15.pathable.com/meetings/250827
+Presentation:  http://www.slideshare.net/linaroorg/hkg15400-next-steps-in-kvm-enablement-on-arm Etherpad:   http://pad.linaro.org/p/hkg15-400
 ---------------------------------------------------
 ★ Event Details ★
 Linaro Connect Hong Kong 2015 - #HKG15

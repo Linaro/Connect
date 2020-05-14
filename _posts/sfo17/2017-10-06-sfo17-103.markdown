@@ -21,10 +21,8 @@ excerpt: 'Arm''s Scalable Vector Extensions present an innovative way of scaling
   assumptions about results of an individual instruction across various implementations.
   As you will see implementing SVE is more than just adding a few extra instructions.'
 featured_image_name: SFO17-103.jpg
-image:
-  featured: true
-  file_name: SFO17-103.jpg
-  path: /assets/images/featured-images/SFO17-103.jpg
+image_name: SFO17-103.jpg
+image: /assets/images/featured-images/SFO17-103.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-103/
 post_format:

@@ -10,10 +10,8 @@ excerpt: The intention with this session is to provide guidelines for developing
   Trusted Applicationbased on the Global Platform TEE Specifications, and for running
   it based on the OP-TEE implementation of the TEE.
 featured_image_name: LCU14-103.jpg
-image:
-  featured: true
-  file_name: LCU14-103.jpg
-  path: /assets/images/featured-images/LCU14-103.jpg
+image_name: LCU14-103.jpg
+image: /assets/images/featured-images/LCU14-103.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-opening-keynote-project-ara/
 post_format:
@@ -58,7 +56,7 @@ Eatherpad: pad.linaro.org/p/lcu14-100a
 ---------------------------------------------------
 
 ★ Event Details ★
-Linaro Connect USA -  #LCU14 
+Linaro Connect USA -  #LCU14
 September 15-19th, 2014
 Hyatt Regency San Francisco Airport
 ---------------------------------------------------

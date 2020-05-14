@@ -11,10 +11,8 @@ excerpt: This will be a forward thinking session where, in the age of ML/AI/VR/A
   that uniquely adapts, in realtime, to every single platform without the need for
   prior costly & precalculated knowledge.
 featured_image_file_name: BUD17-222.jpg
-image:
-  featured: true
-  file_name: BUD17-222.jpg
-  path: /assets/images/featured-images/BUD17-222.jpg
+image_name: BUD17-222.jpg
+image: /assets/images/featured-images/BUD17-222.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-222/
 post_format:

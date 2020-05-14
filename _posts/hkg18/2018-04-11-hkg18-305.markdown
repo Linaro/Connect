@@ -13,10 +13,8 @@ excerpt: "In this talk, we will introduce the history and experience of processo
   of the Alibaba Group's new retail strategy, Arm64 server will have a good opportunity
   at edge and cloud computing."
 featured_image_name: HKG18-305.png
-image:
-  featured: true
-  file_name: HKG18-305.png
-  path: /assets/images/featured-images/HKG18-305.png
+image_name: HKG18-305.png
+image: /assets/images/featured-images/HKG18-305.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-305/
 post_format:
@@ -48,7 +46,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-305.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

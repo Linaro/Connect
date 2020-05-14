@@ -11,10 +11,8 @@ excerpt: SWG is porting OP-TEE to Armv8 using Fixed Virtual Platform. Initially 
   in aarch64 mode. Since Armv8 uses Arm Trusted Firmware we have patched it with an
   OP-TEE dispatcher to be able to communicate between secure and normal world.
 featured_image_name: LCU14-107.jpg
-image:
-  featured: true
-  file_name: LCU14-107.jpg
-  path: /assets/images/featured-images/LCU14-107.jpg
+image_name: LCU14-107.jpg
+image: /assets/images/featured-images/LCU14-107.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-107-op-tee-on-armv8/
 post_format:

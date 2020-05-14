@@ -10,10 +10,8 @@ excerpt: UMEQ (user-mode emulation quest) and has been developed to eliminate th
   handling, etc). Umeq primarily targets Arm 64-bit. The presentation will focus on
   the architecture principles of umeq and on its implementation.
 featured_image_name: HKG15-202.jpg
-image:
-  featured: true
-  file_name: HKG15-202.jpg
-  path: /assets/images/featured-images/HKG15-202.jpg
+image_name: HKG15-202.jpg
+image: /assets/images/featured-images/HKG15-202.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-202-umeq-user-mode-emulation-quest/
 post_format:
@@ -36,23 +34,23 @@ wordpress_id: 717
 youtube_video_url: https://www.youtube.com/watch?v=2-mU0mXHxJg
 ---
 
-HKG15-202: UMEQ (User Mode Emulation Quest) 
---------------------------------------------------- 
-Speaker: Remi Durafort 
-Date: February 10, 2015 
---------------------------------------------------- 
-★ Session Summary ★ 
-UMEQ (user-mode emulation quest) and has been developed to eliminate the functional deficiencies of qemu in user mode (multi-threaded applications, signal handling, etc). Umeq primarily targets Arm 64-bit. The presentation will focus on the architecture principles of umeq and on its implementation. 
--------------------------------------------------- 
-★ Resources ★ 
-Pathable: https://hkg15.pathable.com/meetings/250782 
-Presentation:  http://www.slideshare.net/linaroorg/hkg15202-umeq-user-mode-emulation-quest 
-Etherpad: http://pad.linaro.org/p/hkg15-202 
---------------------------------------------------- 
-★ Event Details ★ 
-Linaro Connect Hong Kong 2015 - #HKG15 
-February 9-13th, 2015 
-Regal Airport Hotel Hong Kong Airport 
---------------------------------------------------- 
-http://www.linaro.org 
+HKG15-202: UMEQ (User Mode Emulation Quest)
+---------------------------------------------------
+Speaker: Remi Durafort
+Date: February 10, 2015
+---------------------------------------------------
+★ Session Summary ★
+UMEQ (user-mode emulation quest) and has been developed to eliminate the functional deficiencies of qemu in user mode (multi-threaded applications, signal handling, etc). Umeq primarily targets Arm 64-bit. The presentation will focus on the architecture principles of umeq and on its implementation.
+--------------------------------------------------
+★ Resources ★
+Pathable: https://hkg15.pathable.com/meetings/250782
+Presentation:  http://www.slideshare.net/linaroorg/hkg15202-umeq-user-mode-emulation-quest
+Etherpad: http://pad.linaro.org/p/hkg15-202
+---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2015 - #HKG15
+February 9-13th, 2015
+Regal Airport Hotel Hong Kong Airport
+---------------------------------------------------
+http://www.linaro.org
 http://connect.linaro.org

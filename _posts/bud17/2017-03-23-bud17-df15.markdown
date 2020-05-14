@@ -8,10 +8,8 @@ comments: false
 date: 2017-03-23 17:10:30
 excerpt: 'Boot optimized and HWA MM capabilities on Android N MR1 with 4.9 kernel'
 featured_image_file_name: BUD17-DF15.jpg
-image:
-  featured: true
-  file_name: BUD17-DF15.jpg
-  path: /assets/images/featured-images/BUD17-DF15.jpg
+image_name: BUD17-DF15.jpg
+image: /assets/images/featured-images/BUD17-DF15.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df15/
 post_format:

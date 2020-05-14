@@ -9,10 +9,8 @@ date: 2017-02-28 12:05:36
 excerpt: At this BoF we are going to discuss what an IoT toolchain should look like
   from a user perspective
 featured_image_file_name: BUD17-223.jpg
-image:
-  featured: true
-  file_name: BUD17-223.jpg
-  path: /assets/images/featured-images/BUD17-223.jpg
+image_name: BUD17-223.jpg
+image: /assets/images/featured-images/BUD17-223.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-223/
 post_format:

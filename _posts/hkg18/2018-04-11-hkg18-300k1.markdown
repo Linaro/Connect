@@ -11,10 +11,8 @@ excerpt: "At scale everything changes. It is one thing to operate a datacenter o
   100\u2019s of datacenters around the world.  What works well for enterprises doesn\u2019t
   necessarily work at scale."
 featured_image_name: HKG18-300K1.png
-image:
-  featured: true
-  file_name: HKG18-300K1.png
-  path: /assets/images/featured-images/HKG18-300K1.png
+image_name: HKG18-300K1.png
+image: /assets/images/featured-images/HKG18-300K1.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-300k1/
 post_format:
@@ -32,7 +30,7 @@ youtube_video_url: https://www.youtube.com/watch?v=1yrCO5_KGk0
 ---
 
 Session ID: HKG18-300K1
-Session Name: HKG18-300K1 - Keynote: Leendert van Doorn “Microsoft Azure: Operating at Hyper-Scale" 
+Session Name: HKG18-300K1 - Keynote: Leendert van Doorn “Microsoft Azure: Operating at Hyper-Scale"
 Speaker: Leendert van Doorn
 Track: Ecosystem Day;Keynote
 
@@ -48,7 +46,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-300k1.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

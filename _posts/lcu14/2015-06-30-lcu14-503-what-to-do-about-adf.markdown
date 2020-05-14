@@ -15,10 +15,8 @@ excerpt: ADF is Android's Atomic Display Framework, which has been relatively re
   should approach trying to unify these two implementations upstream, to avoid having
   totally forked display systems between Android and other Linux environments.
 featured_image_name: LCU14-503.jpg
-image:
-  featured: true
-  file_name: LCU14-503.jpg
-  path: /assets/images/featured-images/LCU14-503.jpg
+image_name: LCU14-503.jpg
+image: /assets/images/featured-images/LCU14-503.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-503-what-to-do-about-adf/
 session_id: LCU14-503

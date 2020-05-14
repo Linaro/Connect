@@ -18,10 +18,8 @@ excerpt: "This session is a continuation of the Advanced Toolchain Usage series 
   prediction. Out-of-order execution vs in-order execution performance considerations,
   and others."
 featured_image_name: SFO15310AdvancedToolchainUsagePart6.jpg
-image:
-  featured: true
-  file_name: SFO15310AdvancedToolchainUsagePart6.jpg
-  path: /assets/images/featured-images/SFO15310AdvancedToolchainUsagePart6.jpg
+image_name: SFO15310AdvancedToolchainUsagePart6.jpg
+image: /assets/images/featured-images/SFO15310AdvancedToolchainUsagePart6.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-310-advanced-toolchain-usage-part-6/
 post_format:
@@ -48,15 +46,15 @@ Date: September 23, 2015
 ★ Session Description ★
 This session is a continuation of the Advanced Toolchain Usage series started at LCU14. These sessions will cover a variety of topics, such as: symbol-versioning how-to, what the compiler canäó»t know, search paths (LD_LIBRARY_PATH, RPATH, RUNPATH), versioning structures, ELF sections on Arm/Aarch64, addressing models and performance considerations (PIC, short branches, long branches, relative addressing, trampolines, relaxation, etc), data alignment performance considerations on Arm/Aarch64, Timers,Timestamps and the VDSO, branch prediction extensions vs hardware auto branch prediction. Out-of-order execution vs in-order execution performance considerations, and others.
 
-★ Resources ★ 
-Video: 
+★ Resources ★
+Video:
 Presentation:  http://www.slideshare.net/linaroorg/sfo15310-advanced-toolchain-usage-part-6
 Etherpad: pad.linaro.org/p/sfo15-310
-Pathable: https://sfo15.pathable.com/meetings/302943                                         
+Pathable: https://sfo15.pathable.com/meetings/302943
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

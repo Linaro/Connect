@@ -12,10 +12,8 @@ excerpt: "ION has undergone a lot of change upstream in its bid to be de-staged.
   features does the upstream ION need to still support\n - How can we encourage them
   to submit changes\n - Any other ideas around ION in mainline."
 featured_image_name: SFO17-412.jpg
-image:
-  featured: true
-  file_name: SFO17-412.jpg
-  path: /assets/images/featured-images/SFO17-412.jpg
+image_name: SFO17-412.jpg
+image: /assets/images/featured-images/SFO17-412.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-412/
 post_format:

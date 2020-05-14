@@ -12,10 +12,8 @@ excerpt: "96Boards OpenHours \u2013 Sponsored by Linaro welcomes you to particip
   the first Linaro Connect of 2018. Bring your coffee and questions, demos and feedback
   because OpenHours is going to Hong Kong!"
 featured_image_name: HKG18-313.png
-image:
-  featured: true
-  file_name: HKG18-313.png
-  path: /assets/images/featured-images/HKG18-313.png
+image_name: HKG18-313.png
+image: /assets/images/featured-images/HKG18-313.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-313/
 post_format:
@@ -48,7 +46,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-313.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

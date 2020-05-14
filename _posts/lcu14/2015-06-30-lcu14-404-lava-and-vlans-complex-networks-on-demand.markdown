@@ -8,10 +8,8 @@ comments: true
 date: 2015-06-30 17:07:52
 excerpt: Description to be added
 featured_image_name: LCU14-404.jpg
-image:
-  featured: true
-  file_name: LCU14-404.jpg
-  path: /assets/images/featured-images/LCU14-404.jpg
+image_name: LCU14-404.jpg
+image: /assets/images/featured-images/LCU14-404.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-404-lava-and-vlans-complex-networks-on-demand/
 session_id: LCU14-404

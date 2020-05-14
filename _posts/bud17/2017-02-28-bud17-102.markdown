@@ -13,7 +13,7 @@ excerpt: "Even if the CPU-Idle framework has improved significantly over the las
   including CPUs. This sessions provides the audience an update of this work"
 featured_image_file_name: BUD17-102.jpg
 image:
-  path: /assets/images/featured-images/BUD17-102.jpg
+image: /assets/images/featured-images/BUD17-102.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-102/
 post_format:

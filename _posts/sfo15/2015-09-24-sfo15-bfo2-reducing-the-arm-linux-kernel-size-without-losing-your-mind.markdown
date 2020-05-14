@@ -8,10 +8,8 @@ categories:
 comments: false
 date: 2015-09-24 00:00:00
 featured_image_name: SFO15BFO2Reducingthearmlinuxkernelsizewithoutlosingyourmind.jpg
-image:
-  featured: true
-  file_name: SFO15BFO2Reducingthearmlinuxkernelsizewithoutlosingyourmind.jpg
-  path: /assets/images/featured-images/SFO15BFO2Reducingthearmlinuxkernelsizewithoutlosingyourmind.jpg
+image_name: SFO15BFO2Reducingthearmlinuxkernelsizewithoutlosingyourmind.jpg
+image: /assets/images/featured-images/SFO15BFO2Reducingthearmlinuxkernelsizewithoutlosingyourmind.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-bfo2-reducing-the-arm-linux-kernel-size-without-losing-your-mind/
 post_format:

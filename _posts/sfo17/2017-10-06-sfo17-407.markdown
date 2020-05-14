@@ -9,10 +9,8 @@ date: 2017-10-06 16:55:53
 excerpt: This talk will address Collabora's contribution to KernelCI, specifically
   investigating automated bisection.
 featured_image_name: SFO17-407.jpg
-image:
-  featured: true
-  file_name: SFO17-407.jpg
-  path: /assets/images/featured-images/SFO17-407.jpg
+image_name: SFO17-407.jpg
+image: /assets/images/featured-images/SFO17-407.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-407/
 post_format:
@@ -32,7 +30,7 @@ youtube_video_url: https://www.youtube.com/watch?v=IKjp14FshsY
 Session ID: SFO17-407
 Session Name: Collaboras involvement in KernelCI - SFO17-407
 Speaker: Guillaume Tucker
-Track: 
+Track:
 
 
 ★ Session Summary ★
@@ -50,7 +48,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

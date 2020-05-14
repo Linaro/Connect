@@ -7,10 +7,8 @@ categories:
 comments: true
 date: 2015-04-23 15:37:03
 featured_image_name: HKG15-208.jpg
-image:
-  featured: true
-  file_name: HKG15-208.jpg
-  path: /assets/images/featured-images/HKG15-208.jpg
+image_name: HKG15-208.jpg
+image: /assets/images/featured-images/HKG15-208.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-208-acpi-state-of-the-server/
 post_format:
@@ -35,23 +33,23 @@ wordpress_id: 723
 youtube_video_url: https://www.youtube.com/watch?v=R6m4-VWkqR0
 ---
 
-HKG15-208: ACPI: State of the Server 
---------------------------------------------------- 
-Speaker: Al Stone, Hanjun Guo, Graeme Gregory 
-Date: February 10, 2015 
---------------------------------------------------- 
-★ Session Summary ★ 
-ACPI: State of the Server 
--------------------------------------------------- 
-★ Resources ★ 
-Pathable: https://hkg15.pathable.com/meetings/250789 
+HKG15-208: ACPI: State of the Server
+---------------------------------------------------
+Speaker: Al Stone, Hanjun Guo, Graeme Gregory
+Date: February 10, 2015
+---------------------------------------------------
+★ Session Summary ★
+ACPI: State of the Server
+--------------------------------------------------
+★ Resources ★
+Pathable: https://hkg15.pathable.com/meetings/250789
 Presentation:  http://www.slideshare.net/linaroorg/hkg15208-acpi-state-of-the-server
-Etherpad: http://pad.linaro.org/p/hkg15-208 
---------------------------------------------------- 
-★ Event Details ★ 
-Linaro Connect Hong Kong 2015 - #HKG15 
-February 9-13th, 2015 
-Regal Airport Hotel Hong Kong Airport 
---------------------------------------------------- 
-http://www.linaro.org 
+Etherpad: http://pad.linaro.org/p/hkg15-208
+---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2015 - #HKG15
+February 9-13th, 2015
+Regal Airport Hotel Hong Kong Airport
+---------------------------------------------------
+http://www.linaro.org
 http://connect.linaro.org

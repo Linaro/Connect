@@ -21,10 +21,8 @@ excerpt: 'OpenStack is the number 1 private cloud Open Source project and Contai
   and prototype structure, and why they are critical for Arm in the cloud computing
   domain.'
 featured_image_name: HKG18-510.png
-image:
-  featured: true
-  file_name: HKG18-510.png
-  path: /assets/images/featured-images/HKG18-510.png
+image_name: HKG18-510.png
+image: /assets/images/featured-images/HKG18-510.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-510/
 post_format:
@@ -58,7 +56,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-510.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

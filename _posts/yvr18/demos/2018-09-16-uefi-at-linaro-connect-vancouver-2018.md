@@ -4,10 +4,8 @@ categories:
 - yvr18
 comments: false
 date: '2018-09-16 09:00:00+00:00'
-image:
-  featured: true
-  file_name: yvr18-demo5.jpg
-  path: /assets/images/featured-images/yvr18-demo5.jpg
+image_name: yvr18-demo5.jpg
+image: /assets/images/featured-images/yvr18-demo5.jpg
 layout: resource-post-demo-interview
 session_track: Demo
 title: UEFI at Linaro Connect Vancouver 2018

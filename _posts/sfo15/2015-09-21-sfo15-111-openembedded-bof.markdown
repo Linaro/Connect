@@ -13,10 +13,8 @@ excerpt: Linaro is using OpenEmbedded as part of its engineering builds. We prop
   our contribution to YOCTO project. The goal of the discussion is to identify areas
   in which Linaro can help.
 featured_image_name: SFO15111OpenEmbeddedBoF.jpg
-image:
-  featured: true
-  file_name: SFO15111OpenEmbeddedBoF.jpg
-  path: /assets/images/featured-images/SFO15111OpenEmbeddedBoF.jpg
+image_name: SFO15111OpenEmbeddedBoF.jpg
+image: /assets/images/featured-images/SFO15111OpenEmbeddedBoF.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-111-openembedded-bof/
 post_format:
@@ -43,15 +41,15 @@ Date: September 21, 2015
 ★ Session Description ★
 Linaro is using OpenEmbedded as part of its engineering builds. We propose to discuss how Linaro is using OpenEmbedded for its use cases and how we can improve our contribution to YOCTO project. The goal of the discussion is to identify areas in which Linaro can help.
 
-★ Resources ★ 
+★ Resources ★
 Video: https://www.youtube.com/watch?v=NozG9R4dpkI
 Presentation:  http://www.slideshare.net/linaroorg/sfo15111-openembedded-bof
 Etherpad: pad.linaro.org/p/sfo15-111
-Pathable: https://sfo15.pathable.com/meetings/302661         
+Pathable: https://sfo15.pathable.com/meetings/302661
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

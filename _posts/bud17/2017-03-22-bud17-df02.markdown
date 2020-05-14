@@ -8,10 +8,8 @@ comments: false
 date: 2017-03-22 11:33:21
 excerpt: Archermind demo for MTK X20 Pro and Mstar TV 96Boards
 featured_image_file_name: BUD17-DF02.jpg
-image:
-  featured: true
-  file_name: BUD17-DF02.jpg
-  path: /assets/images/featured-images/BUD17-DF02.jpg
+image_name: BUD17-DF02.jpg
+image: /assets/images/featured-images/BUD17-DF02.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df02/
 post_format:

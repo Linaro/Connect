@@ -8,10 +8,8 @@ date: 2017-10-06 16:53:58
 excerpt: Continuation of discussion from BUD17. QC kernel upstream status, issues,
   roadblocks, planning.
 featured_image_name: SFO17-115.jpg
-image:
-  featured: true
-  file_name: SFO17-115.jpg
-  path: /assets/images/featured-images/SFO17-115.jpg
+image_name: SFO17-115.jpg
+image: /assets/images/featured-images/SFO17-115.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-115/
 post_format:
@@ -27,8 +25,8 @@ youtube_video_url: https://www.youtube.com/watch?v=H8KeZDsNVDs
 
 Session ID: SFO17-115
 Session Name: BoF: Quic Upstreaming - SFO17-115
-Speaker: 
-Track: 
+Speaker:
+Track:
 
 
 ★ Session Summary ★
@@ -36,7 +34,7 @@ Continuation of discussion from BUD17. QC kernel upstream status, issues, roadbl
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-115/
-Presentation: 
+Presentation:
 Video: https://www.youtube.com/watch?v=H8KeZDsNVDs
  ---------------------------------------------------
 
@@ -46,7 +44,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

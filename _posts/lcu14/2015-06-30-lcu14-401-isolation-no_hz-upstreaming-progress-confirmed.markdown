@@ -10,10 +10,8 @@ excerpt: Isolation allows a task to have the core dedicated to its needs until i
   exits, currently the linux kernel interferes with this isolation in multiple ways.
   This task is targeted at removing these interruptions.
 featured_image_name: LCU14-401.jpg
-image:
-  featured: true
-  file_name: LCU14-401.jpg
-  path: /assets/images/featured-images/LCU14-401.jpg
+image_name: LCU14-401.jpg
+image: /assets/images/featured-images/LCU14-401.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-401-isolation-no_hz-upstreaming-progress-confirmed/
 session_id: LCU14-401

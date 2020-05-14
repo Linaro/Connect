@@ -14,10 +14,8 @@ excerpt: The Zephyr OS is a small, scalable RTOS that supports a wide variety of
   This session will cover how and why the Zephyr Project uses SoC vendor HALs, what
   are the common problems, and how to address them.
 featured_image_name: SFO17-112.jpg
-image:
-  featured: true
-  file_name: SFO17-112.jpg
-  path: /assets/images/featured-images/SFO17-112.jpg
+image_name: SFO17-112.jpg
+image: /assets/images/featured-images/SFO17-112.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-112/
 post_format:

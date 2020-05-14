@@ -12,7 +12,7 @@ excerpt: LHG has recently launched an AOSP TV lead project which is focused on s
   for members and the community.
 featured_image_file_name: BUD17-114.jpg
 image:
-  path: /assets/images/featured-images/BUD17-114.jpg
+image: /assets/images/featured-images/BUD17-114.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-114/
 post_format:

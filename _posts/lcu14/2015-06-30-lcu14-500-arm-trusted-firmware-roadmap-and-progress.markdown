@@ -7,10 +7,8 @@ categories:
 comments: true
 date: 2015-06-30 17:07:29
 featured_image_name: LCU14-500.jpg
-image:
-  featured: true
-  file_name: LCU14-500.jpg
-  path: /assets/images/featured-images/LCU14-500.jpg
+image_name: LCU14-500.jpg
+image: /assets/images/featured-images/LCU14-500.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-500-arm-trusted-firmware-roadmap-and-progress/
 session_id: LCU14-500

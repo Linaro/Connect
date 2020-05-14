@@ -14,10 +14,8 @@ excerpt: 'DPDK (Data Plane Development Kit) is a set of libraries and drivers fo
   scenarios & platforms * The identified factors that may impact the DPDK performance
   * The fine tuning & code optimization for DPDK performance on Arm platforms'
 featured_image_name: HKG18-102.png
-image:
-  featured: true
-  file_name: HKG18-102.png
-  path: /assets/images/featured-images/HKG18-102.png
+image_name: HKG18-102.png
+image: /assets/images/featured-images/HKG18-102.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-102/
 post_format:
@@ -51,7 +49,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-102.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

@@ -14,10 +14,8 @@ excerpt: "Cover an outline of the AOSP Devboard effort with HiKey and now HiKey9
   a bit deeper on issues and will provide some context to the discussion had at Linux
   Plumbers."
 featured_image_name: SFO17-506.jpg
-image:
-  featured: true
-  file_name: SFO17-506.jpg
-  path: /assets/images/featured-images/SFO17-506.jpg
+image_name: SFO17-506.jpg
+image: /assets/images/featured-images/SFO17-506.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-506/
 post_format:

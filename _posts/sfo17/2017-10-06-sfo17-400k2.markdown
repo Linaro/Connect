@@ -17,10 +17,8 @@ excerpt: "Think back to the summer of 2007.  AWS was a few months old, the first
   at Packet (the leading bare metal cloud for developers), outlines Packet's vision
   for the infrastructure of tomorrow, and why hardware is the next innovation layer."
 featured_image_name: SFO17-400K2.jpg
-image:
-  featured: true
-  file_name: SFO17-400K2.jpg
-  path: /assets/images/featured-images/SFO17-400K2.jpg
+image_name: SFO17-400K2.jpg
+image: /assets/images/featured-images/SFO17-400K2.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-400k2/
 post_format:

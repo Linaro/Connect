@@ -16,10 +16,8 @@ excerpt: The presentation will show a reference design of containerized VNFs wit
   the progress of NFV on Arm and who have plan to deploy their containerized NFV solutions
   on Arm architecture.
 featured_image_name: HKG18-121.png
-image:
-  featured: true
-  file_name: HKG18-121.png
-  path: /assets/images/featured-images/HKG18-121.png
+image_name: HKG18-121.png
+image: /assets/images/featured-images/HKG18-121.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-121/
 post_format:
@@ -53,7 +51,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-121.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

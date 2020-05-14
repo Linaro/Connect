@@ -7,10 +7,8 @@ comments: true
 date: 2015-06-30 17:09:12
 excerpt: Overview of Ubuntu for Arm Servers
 featured_image_name: LCU14-305.jpg
-image:
-  featured: true
-  file_name: LCU14-305.jpg
-  path: /assets/images/featured-images/LCU14-305.jpg
+image_name: LCU14-305.jpg
+image: /assets/images/featured-images/LCU14-305.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-305-canonical-ubuntu-for-arm-servers/
 post_format:

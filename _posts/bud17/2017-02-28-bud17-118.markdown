@@ -11,10 +11,8 @@ excerpt: LHG has recently launched an AOSP TV lead project which is focused on s
   describe the current AOSP TV builds on 96Boards and the strategy for Android TV
   for members and the community.
 featured_image_file_name: BUD17-118.jpg
-image:
-  featured: true
-  file_name: BUD17-118.jpg
-  path: /assets/images/featured-images/BUD17-118.jpg
+image_name: BUD17-118.jpg
+image: /assets/images/featured-images/BUD17-118.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-118/
 post_format:

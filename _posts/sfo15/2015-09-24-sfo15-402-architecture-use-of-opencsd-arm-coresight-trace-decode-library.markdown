@@ -15,10 +15,8 @@ excerpt: "The openCSD project is developing an open source trace decode library 
   examples. The current status of the project and future plans will also be provided.
   \nThis will be followed a discussion / Q & A session."
 featured_image_name: SFO15402ArchitectureUseofopenCSDARMCoreSightTracedecodelibrary.jpg
-image:
-  featured: true
-  file_name: SFO15402ArchitectureUseofopenCSDARMCoreSightTracedecodelibrary.jpg
-  path: /assets/images/featured-images/SFO15402ArchitectureUseofopenCSDARMCoreSightTracedecodelibrary.jpg
+image_name: SFO15402ArchitectureUseofopenCSDARMCoreSightTracedecodelibrary.jpg
+image: /assets/images/featured-images/SFO15402ArchitectureUseofopenCSDARMCoreSightTracedecodelibrary.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-402-architecture-use-of-opencsd-arm-coresight-trace-decode-library/
 post_format:
@@ -47,18 +45,18 @@ Date: September 24, 2015
 ★ Session Description ★
 The openCSD project is developing an open source trace decode library for Arm CoreSight trace sources. When complete, this will provide trace decode for current Arm Cortex cores and associated trace protocols.
 
-We will provide a short presentation describing the library architecture and scope, along with use cases and outline examples. The current status of the project and future plans will also be provided. 
+We will provide a short presentation describing the library architecture and scope, along with use cases and outline examples. The current status of the project and future plans will also be provided.
 This will be followed a discussion / Q & A session.
 
-★ Resources ★ 
-Video: 
+★ Resources ★
+Video:
 Presentation:  http://www.slideshare.net/linaroorg/sfo15402-architecture-use-of-opencsd-arm-coresight-trace-decode-library
 Etherpad: pad.linaro.org/p/sfo15-402
-Pathable: https://sfo15.pathable.com/meetings/303073                                              
+Pathable: https://sfo15.pathable.com/meetings/303073
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

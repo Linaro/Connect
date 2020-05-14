@@ -12,10 +12,8 @@ excerpt: Thanks to an amazing community the Linux kernel is one of the most test
   projects, or is it? Do systems like kernelci.org provide value? What is the current
   state of kernelci.org? Is there more we can do?
 featured_image_name: SFO15206kernelciorgKernelTestingBoF.jpg
-image:
-  featured: true
-  file_name: SFO15206kernelciorgKernelTestingBoF.jpg
-  path: /assets/images/featured-images/SFO15206kernelciorgKernelTestingBoF.jpg
+image_name: SFO15206kernelciorgKernelTestingBoF.jpg
+image: /assets/images/featured-images/SFO15206kernelciorgKernelTestingBoF.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-206-kernelci-org-kernel-testing-bof/
 post_format:
@@ -42,15 +40,15 @@ Date: September 22, 2015
 ★ Session Description ★
 Thanks to an amazing community the Linux kernel is one of the most tested projects, or is it? Do systems like kernelci.org provide value? What is the current state of kernelci.org? Is there more we can do?
 
-★ Resources ★ 
+★ Resources ★
 Video: https://www.youtube.com/watch?v=OfFDiZYCMqE
 Presentation:  http://www.slideshare.net/linaroorg/sfo15206-kernelciorg-kernel-testing-bof
 Etherpad: pad.linaro.org/p/sfo15-206
-Pathable: https://sfo15.pathable.com/meetings/302838   
+Pathable: https://sfo15.pathable.com/meetings/302838
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

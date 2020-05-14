@@ -6,10 +6,8 @@ categories:
 comments: false
 date: 2017-10-06 16:55:31
 featured_image_name: SFO17-318.jpg
-image:
-  featured: true
-  file_name: SFO17-318.jpg
-  path: /assets/images/featured-images/SFO17-318.jpg
+image_name: SFO17-318.jpg
+image: /assets/images/featured-images/SFO17-318.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-318/
 post_format:
@@ -25,8 +23,8 @@ youtube_video_url: https://www.youtube.com/watch?v=pWRr90GgtDA
 
 Session ID: SFO17-318
 Session Name: BoF: Cross distribution discussion - SFO17-318
-Speaker: 
-Track: 
+Speaker:
+Track:
 
 
 ★ Session Summary ★
@@ -34,7 +32,7 @@ Track:
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-318/
-Presentation: 
+Presentation:
 Video: https://www.youtube.com/watch?v=pWRr90GgtDA
  ---------------------------------------------------
 
@@ -44,7 +42,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

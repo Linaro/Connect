@@ -16,10 +16,8 @@ excerpt: "Radically revamping the device development model for Carrier class ope
   Software Architect will provide insight into how its reinvented its technology stack
   and product line."
 featured_image_name: LCA14-200K1.jpg
-image:
-  featured: true
-  file_name: LCA14-200K2.jpg
-  path: /assets/images/featured-images/LCA14-200K2.jpg
+image_name: LCA14-200K2.jpg
+image: /assets/images/featured-images/LCA14-200K2.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lca14/tuesday-keynote-device-development-model-for-carrier-class-operators-open-network-environment-2/
 post_format:

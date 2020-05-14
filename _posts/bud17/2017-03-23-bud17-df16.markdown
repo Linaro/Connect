@@ -9,10 +9,8 @@ date: 2017-03-23 16:55:41
 excerpt: Highlights OpenFastPath using OpenDataPlane to leverage SoC hardware acceleration
   capabilities for IPSEC offload
 featured_image_file_name: BUD17-DF16.jpg
-image:
-  featured: true
-  file_name: BUD17-DF16.jpg
-  path: /assets/images/featured-images/BUD17-DF16.jpg
+image_name: BUD17-DF16.jpg
+image: /assets/images/featured-images/BUD17-DF16.jpg
 layout: resource-post
 link: http://connect.linaro.org/uncategorized/bud17-df16/
 post_format:

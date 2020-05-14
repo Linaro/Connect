@@ -7,10 +7,8 @@ categories:
 comments: false
 date: 2017-02-28 12:05:51
 featured_image_file_name: BUD17-422.jpg
-image:
-  featured: true
-  file_name: BUD17-422.jpg
-  path: /assets/images/featured-images/BUD17-422.jpg
+image_name: BUD17-422.jpg
+image: /assets/images/featured-images/BUD17-422.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-422/
 post_format:
@@ -30,8 +28,8 @@ youtube_video_url: https://youtu.be/mWpwAfpEY2o
 
 "Session ID: BUD17-422
 Session Name: BUD17-422 - TBC - BUD17-422
-Speaker: 
-Track: 
+Speaker:
+Track:
 
 
 ★ Session Summary ★
@@ -39,7 +37,7 @@ Track:
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-422/
-Presentation: 
+Presentation:
 Video: https://youtu.be/mWpwAfpEY2o
  ---------------------------------------------------
 
@@ -51,7 +49,7 @@ Erzsébet krt. 43-49,
 1073 Hungary
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 http://www.linaro.org
 http://connect.linaro.org
 ---------------------------------------------------

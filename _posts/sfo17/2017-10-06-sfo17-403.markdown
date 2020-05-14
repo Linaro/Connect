@@ -18,10 +18,8 @@ excerpt: A key drawback in the use of full system virtualization is the performa
   support legacy hardware through invasive modifications to Linux to support running
   the kernel in the hypervisor-specific CPU mode, EL2
 featured_image_name: SFO17-403.jpg
-image:
-  featured: true
-  file_name: SFO17-403.jpg
-  path: /assets/images/featured-images/SFO17-403.jpg
+image_name: SFO17-403.jpg
+image: /assets/images/featured-images/SFO17-403.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-403/
 post_format:

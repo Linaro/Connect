@@ -15,10 +15,8 @@ excerpt: It's not easy, perhaps not possible, to establish a common boot archite
   all interested attendees to meet and set the agenda for more specific discussions
   during the week.
 featured_image_name: SFO15101SecurityrequirementsonARMv8Abootarchitecture.jpg
-image:
-  featured: true
-  file_name: SFO15101SecurityrequirementsonARMv8Abootarchitecture.jpg
-  path: /assets/images/featured-images/SFO15101SecurityrequirementsonARMv8Abootarchitecture.jpg
+image_name: SFO15101SecurityrequirementsonARMv8Abootarchitecture.jpg
+image: /assets/images/featured-images/SFO15101SecurityrequirementsonARMv8Abootarchitecture.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-101-security-requirements-on-armv8-a-boot-architecture/
 post_format:
@@ -45,16 +43,16 @@ Date: September 21, 2015
 ★ Session Description ★
 It’s not easy, perhaps not possible, to establish a common boot architecture meeting the security needs of OS vendors, SoC vendors, BIOS vendors and OEMs across all market segments. This informal session evaluates the current boot architecture(s) and immediate security needs of the Armv8-A ecosystem. This is an opportunity for all interested attendees to meet and set the agenda for more specific discussions during the week.
 
-★ Resources ★ 
+★ Resources ★
 Video: https://www.youtube.com/watch?v=q5nF9tSrak4
 Presentation: NA
 Etherpad: pad.linaro.org/p/sfo15-101
-Pathable: https://sfo15.pathable.com/meetings/302650      
+Pathable: https://sfo15.pathable.com/meetings/302650
 
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

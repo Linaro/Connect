@@ -16,10 +16,8 @@ excerpt: 'This session is meant to look at Coresight in deeper details. The goal
   for trace decoding and the decoding of compressed streams themselves. The presentation
   will conclude with a use case example and it''s associated decoded trace stream.'
 featured_image_name: LCU14-105.jpg
-image:
-  featured: true
-  file_name: LCU14-105.jpg
-  path: /assets/images/featured-images/LCU14-105.jpg
+image_name: LCU14-105.jpg
+image: /assets/images/featured-images/LCU14-105.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-105-coresight-advanced-topics/
 post_format:

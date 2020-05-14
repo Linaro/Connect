@@ -18,10 +18,8 @@ excerpt: Userspace software is imperfect and everyone knows it but most of peopl
   fill this gap using rlimit-events concept. Last part is going to be a discussion
   on a presented idea and experience sharing.
 featured_image_name: SFO17-114.jpg
-image:
-  featured: true
-  file_name: SFO17-114.jpg
-  path: /assets/images/featured-images/SFO17-114.jpg
+image_name: SFO17-114.jpg
+image: /assets/images/featured-images/SFO17-114.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-114/
 post_format:

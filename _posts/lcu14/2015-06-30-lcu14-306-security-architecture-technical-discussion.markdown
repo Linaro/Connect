@@ -11,10 +11,8 @@ excerpt: 'In this discussion session, we will cover the plans Linaro have to enh
   IP / instructions (REQ-413 and REQ-421) PSCI support (REQ-415) Add ECC support for
   TEE Internal API 1.1 (REQ-419)'
 featured_image_name: LCU14-306.jpg
-image:
-  featured: true
-  file_name: LCU14-306.jpg
-  path: /assets/images/featured-images/LCU14-306.jpg
+image_name: LCU14-306.jpg
+image: /assets/images/featured-images/LCU14-306.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-306-security-architecture-technical-discussion/
 session_id: LCU14-306

@@ -12,10 +12,8 @@ excerpt: This presentation will examine the lifecycle of toolchain development f
   the behaviors of successful silicon vendors as well as behaviors of vendors that
   struggle to get their platform fully enabled in the GNU/Linux OS.
 featured_image_name: LAS16-106.png
-image:
-  featured: true
-  file_name: LAS16-106.png
-  path: /assets/images/featured-images/LAS16-106.png
+image_name: LAS16-106.png
+image: /assets/images/featured-images/LAS16-106.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-106/
 post_format:

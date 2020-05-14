@@ -15,10 +15,8 @@ excerpt: 'DynamIQ technology is the foundation for future Arm Cortex-A processor
   heterogeneous system. During this session, we will cover what are the impacts and
   how to enable its supports in the kernel.'
 featured_image_name: SFO17-104.jpg
-image:
-  featured: true
-  file_name: SFO17-104.jpg
-  path: /assets/images/featured-images/SFO17-104.jpg
+image_name: SFO17-104.jpg
+image: /assets/images/featured-images/SFO17-104.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-104/
 post_format:

@@ -14,10 +14,8 @@ excerpt: "The fifth generation mobile communications network (5G) is not your \u
   This keynote will explore this development, including how products and services
   are revolutionized and how many of today\u2019s value chains are being overthrown."
 featured_image_file_name: BUD17-300K1.jpg
-image:
-  featured: true
-  file_name: BUD17-300K1.jpg
-  path: /assets/images/featured-images/BUD17-300K1.jpg
+image_name: BUD17-300K1.jpg
+image: /assets/images/featured-images/BUD17-300K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-300k1/
 post_format:

@@ -13,10 +13,8 @@ excerpt: The OpenDataPlane project is now two years old and is beginning to see 
   will discuss recent developments in ODP and its uses and look at what lies ahead
   for this fast-growing open source project.
 featured_image_name: SFO15110ToolchainCollaboration.jpg
-image:
-  featured: true
-  file_name: SFO15110ToolchainCollaboration.jpg
-  path: /assets/images/featured-images/SFO15110ToolchainCollaboration.jpg
+image_name: SFO15110ToolchainCollaboration.jpg
+image: /assets/images/featured-images/SFO15110ToolchainCollaboration.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-110-toolchain-collaboration/
 post_format:
@@ -43,15 +41,15 @@ Date: September 21, 2015
 ★ Session Description ★
 Linaro and its members discuss the work they are doing in the GNU & LLVM Toolchains for Arm processors. Work done in the previous six months will be discussed, and also discussions about the priorities each member is looking at for the next six months.
 
-★ Resources ★ 
+★ Resources ★
 Video: https://www.youtube.com/watch?v=3BYl-1wGZg4
 Presentation:  http://www.slideshare.net/linaroorg/sfo15110-toolchain-collaboration
 Etherpad: pad.linaro.org/p/sfo15-110
-Pathable: https://sfo15.pathable.com/meetings/302660     
+Pathable: https://sfo15.pathable.com/meetings/302660
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

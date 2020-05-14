@@ -18,10 +18,8 @@ excerpt: Hardware and software will never stop evolving, yet many still choose t
   documents, convert formats, or refer to releases/versions when wondering if the
   document is going to work.
 featured_image_name: LAS16-506.png
-image:
-  featured: true
-  file_name: LAS16-506.png
-  path: /assets/images/featured-images/LAS16-506.png
+image_name: LAS16-506.png
+image: /assets/images/featured-images/LAS16-506.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-506/
 post_format:

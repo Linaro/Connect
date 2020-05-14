@@ -13,10 +13,8 @@ excerpt: Being able to see the performance and power impacts of changes in a rea
   and power in Android. The second half will cover the results of using these tests
   to compare the schedutil and interactive governors.
 featured_image_name: LAS16-307.png
-image:
-  featured: true
-  file_name: LAS16-307.png
-  path: /assets/images/featured-images/LAS16-307.png
+image_name: LAS16-307.png
+image: /assets/images/featured-images/LAS16-307.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-307/
 post_format:

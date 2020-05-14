@@ -9,10 +9,8 @@ date: 2018-04-11 14:11:12
 excerpt: This session is closed to any non-members of Linaro. We will be monitoring
   attendance at the door. Thank you.
 featured_image_name: HKG18-100.png
-image:
-  featured: true
-  file_name: HKG18-100.png
-  path: /assets/images/featured-images/HKG18-100.png
+image_name: HKG18-100.png
+image: /assets/images/featured-images/HKG18-100.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-100/
 post_format:
@@ -29,7 +27,7 @@ wordpress_id: 8686
 Session ID: HKG18-100
 Session Name: HKG18-100 - Ask Arm Anything BoF (MEMBERS ONLY)
 Speaker: Mark Hambleton
-Track: 
+Track:
 
 
 ## Session Summary
@@ -42,11 +40,11 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-100.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

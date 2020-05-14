@@ -13,10 +13,8 @@ excerpt: "This session is a sequel of the \u201CBus scaling QoS\u201D session fr
   some frameworks and introducing a new API. This session will give an update about
   the current status and the next steps."
 featured_image_file_name: BUD17-214.jpg
-image:
-  featured: true
-  file_name: BUD17-214.jpg
-  path: /assets/images/featured-images/BUD17-214.jpg
+image_name: BUD17-214.jpg
+image: /assets/images/featured-images/BUD17-214.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-214/
 post_format:

@@ -6,10 +6,8 @@ categories:
 comments: true
 date: 2015-06-30 17:09:33
 featured_image_name: LCU14-200a.jpg
-image:
-  featured: true
-  file_name: LCU14-200a.jpg
-  path: /assets/images/featured-images/LCU14-200a.jpg
+image_name: LCU14-200a.jpg
+image: /assets/images/featured-images/LCU14-200a.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-lhg-keynote-1/
 post_format:
@@ -51,7 +49,7 @@ Eatherpad: pad.linaro.org/p/lcu14-200a
 ---------------------------------------------------
 
 ★ Event Details ★
-Linaro Connect USA -  #LCU14 
+Linaro Connect USA -  #LCU14
 September 15-19th, 2014
 Hyatt Regency San Francisco Airport
 ---------------------------------------------------

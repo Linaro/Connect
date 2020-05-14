@@ -11,10 +11,8 @@ excerpt: Regular session taking place at Connect for developers working on Linux
   their experiences using Linux distributions on Arm. The goal of the discussion is
   to identify areas in which Linaro can help.
 featured_image_file_name: BUD17-311.jpg
-image:
-  featured: true
-  file_name: BUD17-311.jpg
-  path: /assets/images/featured-images/BUD17-311.jpg
+image_name: BUD17-311.jpg
+image: /assets/images/featured-images/BUD17-311.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-311/
 post_format:
@@ -46,7 +44,7 @@ Regular session taking place at Connect for developers working on Linux distribu
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-311/
-Presentation: 
+Presentation:
 Video: https://youtu.be/ZNEXNqJoe1U
  ---------------------------------------------------
 

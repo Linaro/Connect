@@ -5,10 +5,8 @@ categories:
 comments: true
 date: 2015-04-23 15:36:30
 featured_image_name: HKG15-400K1.jpg
-image:
-  featured: true
-  file_name: HKG15-400K1.jpg
-  path: /assets/images/featured-images/HKG15-400K1.jpg
+image_name: HKG15-400K1.jpg
+image: /assets/images/featured-images/HKG15-400K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-guest-keynote-warren-rehman-android-partner-engineering-manager-google/
 post_format:

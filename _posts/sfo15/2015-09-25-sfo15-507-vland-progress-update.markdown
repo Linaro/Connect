@@ -14,10 +14,8 @@ excerpt: "VLAND is a project to enable dynamic network configuration of various 
   for testing. In this session, we will review the current state of the project, next
   steps, and open it up for a discussion."
 featured_image_name: SFO15507VLANDprogressupdate.jpg
-image:
-  featured: true
-  file_name: SFO15507VLANDprogressupdate.jpg
-  path: /assets/images/featured-images/SFO15507VLANDprogressupdate.jpg
+image_name: SFO15507VLANDprogressupdate.jpg
+image: /assets/images/featured-images/SFO15507VLANDprogressupdate.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-507-vland-progress-update/
 post_format:
@@ -45,15 +43,15 @@ Date: September 25, 2015
 ★ Session Description ★
 VLAND is a project to enable dynamic network configuration of various switches. A communication protocol to interact with the daemon will be integrated into Linaro’s Automated Validation Architecture so that jobs can dynamically configure the network for testing. In this session, we will review the current state of the project, next steps, and open it up for a discussion.
 
-★ Resources ★ 
-Video: 
+★ Resources ★
+Video:
 Presentation:
 Etherpad: pad.linaro.org/p/sfo15-507
-Pathable:  https://sfo15.pathable.com/meetings/303099                                                             
+Pathable:  https://sfo15.pathable.com/meetings/303099
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

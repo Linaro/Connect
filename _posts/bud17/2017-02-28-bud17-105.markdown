@@ -16,7 +16,7 @@ excerpt: "Kernelci.org has been hailed as \u201Cthe most successful, public buil
   a part of the solution and help make the Linux kernel the best it can be!"
 featured_image_file_name: BUD17-105.jpg
 image:
-  path: /assets/images/featured-images/BUD17-105.jpg
+image: /assets/images/featured-images/BUD17-105.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-105/
 post_format:

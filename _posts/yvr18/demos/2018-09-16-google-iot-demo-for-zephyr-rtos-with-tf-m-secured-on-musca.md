@@ -4,10 +4,8 @@ categories:
 - yvr18
 comments: false
 date: '2018-09-16 09:00:00+00:00'
-image:
-  featured: true
-  file_name: yvr18-demo7.jpg
-  path: /assets/images/featured-images/yvr18-demo7.jpg
+image_name: yvr18-demo7.jpg
+image: /assets/images/featured-images/yvr18-demo7.jpg
 layout: resource-post-demo-interview
 session_track: Demo
 title: Google IoT Demo for Zephyr RTOS With TF-M Secured on Musca

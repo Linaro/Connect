@@ -13,10 +13,8 @@ excerpt: This session will provide an update on the status of the LLVMLinux proj
   compiler technology suite which is already commonplace from Android/Renderscript
   and OpenCL through to high performance computing clusters.
 featured_image_name: LCU14-209.jpg
-image:
-  featured: true
-  file_name: LCU14-209.jpg
-  path: /assets/images/featured-images/LCU14-209.jpg
+image_name: LCU14-209.jpg
+image: /assets/images/featured-images/LCU14-209.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-209-llvm-linux/
 post_format:

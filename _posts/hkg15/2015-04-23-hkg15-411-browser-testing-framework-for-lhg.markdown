@@ -12,10 +12,8 @@ excerpt: The purpose of this talk is to provide the audience with an introductio
   by using a series of benchmarks in key test categories. Sample browser results for
   both Android and RDK will be presented.
 featured_image_name: HKG15-411.jpg
-image:
-  featured: true
-  file_name: HKG15-411.jpg
-  path: /assets/images/featured-images/HKG15-411.jpg
+image_name: HKG15-411.jpg
+image: /assets/images/featured-images/HKG15-411.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-411-browser-testing-framework-for-lhg/
 post_format:
@@ -39,23 +37,23 @@ wordpress_id: 758
 youtube_video_url: https://www.youtube.com/watch?v=TtAMRnzB2nw
 ---
 
-HKG15-411: Browser Testing Framework for LHG 
---------------------------------------------------- 
-Speaker: Trevor Woerner, Will Chen 
-Date: February 12, 2015 
---------------------------------------------------- 
-★ Session Summary ★ 
-The purpose of this talk is to provide the audience with an introduction to the testing framework used in Web browser performance testing as implemented by LHG. The browser test suite is used to compare browser performance and compliance by using a series of benchmarks in key test categories. Sample browser results for both Android and RDK will be presented. 
--------------------------------------------------- 
-★ Resources ★ 
-Pathable: https://hkg15.pathable.com/meetings/250839 
-Presentation:  http://www.slideshare.net/linaroorg/hkg15411-browser-testing-framework-for-lhg  
-Etherpad: http://pad.linaro.org/p/hkg15-411 
---------------------------------------------------- 
-★ Event Details ★ 
-Linaro Connect Hong Kong 2015 - #HKG15 
-February 9-13th, 2015 
-Regal Airport Hotel Hong Kong Airport 
---------------------------------------------------- 
-http://www.linaro.org 
+HKG15-411: Browser Testing Framework for LHG
+---------------------------------------------------
+Speaker: Trevor Woerner, Will Chen
+Date: February 12, 2015
+---------------------------------------------------
+★ Session Summary ★
+The purpose of this talk is to provide the audience with an introduction to the testing framework used in Web browser performance testing as implemented by LHG. The browser test suite is used to compare browser performance and compliance by using a series of benchmarks in key test categories. Sample browser results for both Android and RDK will be presented.
+--------------------------------------------------
+★ Resources ★
+Pathable: https://hkg15.pathable.com/meetings/250839
+Presentation:  http://www.slideshare.net/linaroorg/hkg15411-browser-testing-framework-for-lhg
+Etherpad: http://pad.linaro.org/p/hkg15-411
+---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2015 - #HKG15
+February 9-13th, 2015
+Regal Airport Hotel Hong Kong Airport
+---------------------------------------------------
+http://www.linaro.org
 http://connect.linaro.org

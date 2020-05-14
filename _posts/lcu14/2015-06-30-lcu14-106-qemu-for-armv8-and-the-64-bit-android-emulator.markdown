@@ -14,10 +14,8 @@ excerpt: QEMU Armv8-A system emulation was completed shortly after LCA14 and has
   will explain the status and efforts coordinated between Google and Linaro, demo
   the working system, and show how developers can start playing with this.
 featured_image_name: LCU14-106.jpg
-image:
-  featured: true
-  file_name: LCU14-106.jpg
-  path: /assets/images/featured-images/LCU14-106.jpg
+image_name: LCU14-106.jpg
+image: /assets/images/featured-images/LCU14-106.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-106-qemu-for-armv8-and-the-64-bit-android-emulator/
 post_format:

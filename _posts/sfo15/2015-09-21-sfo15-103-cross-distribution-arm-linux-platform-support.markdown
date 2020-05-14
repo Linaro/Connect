@@ -13,10 +13,8 @@ excerpt: Regular session taking place at Connect for developers working on Linux
   their experiences using Linux distributions on Arm. The goal of the discussion is
   to identify areas in which Linaro can help.
 featured_image_name: SFO15103CrossdistributionARMLinuxplatformsupport.jpg
-image:
-  featured: true
-  file_name: SFO15103CrossdistributionARMLinuxplatformsupport.jpg
-  path: /assets/images/featured-images/SFO15103CrossdistributionARMLinuxplatformsupport.jpg
+image_name: SFO15103CrossdistributionARMLinuxplatformsupport.jpg
+image: /assets/images/featured-images/SFO15103CrossdistributionARMLinuxplatformsupport.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-103-cross-distribution-arm-linux-platform-support/
 post_format:
@@ -44,16 +42,16 @@ Date: September 21, 2015
 ★ Session Description ★
 Regular session taking place at Connect for developers working on Linux Distributions to share progress on Arm Linux platform support. Users are also welcome to share their experiences using Linux distributions on Arm. The goal of the discussion is to identify areas in which Linaro can help.
 
-★ Resources ★ 
+★ Resources ★
 Video: https://www.youtube.com/watch?v=YrwbxeGn-7o
 Presentation: http://www.slideshare.net/linaroorg/sfo15103-crossdistribution-arm-linux-platform-support-53572524
 Etherpad: pad.linaro.org/p/sfo15-103
-Pathable: https://sfo15.pathable.com/meetings/302652              
+Pathable: https://sfo15.pathable.com/meetings/302652
 
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

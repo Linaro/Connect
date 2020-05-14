@@ -14,10 +14,8 @@ excerpt: Due to team size and dynamics, the LAVA dispatcher refactoring has been
   the current state of the effort, see how current use cases will migrate and how
   new use cases can be adopted.
 featured_image_name: SFO15403CurrentstateoftheLAVAdispatcherRefactoring.jpg
-image:
-  featured: true
-  file_name: SFO15403CurrentstateoftheLAVAdispatcherRefactoring.jpg
-  path: /assets/images/featured-images/SFO15403CurrentstateoftheLAVAdispatcherRefactoring.jpg
+image_name: SFO15403CurrentstateoftheLAVAdispatcherRefactoring.jpg
+image: /assets/images/featured-images/SFO15403CurrentstateoftheLAVAdispatcherRefactoring.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-403-current-state-of-the-lava-dispatcher-refactoring/
 post_format:

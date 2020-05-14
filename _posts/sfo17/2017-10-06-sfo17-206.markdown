@@ -10,10 +10,8 @@ excerpt: LHG has been working on porting RDK with Westeros and WPE browser and o
   it on Dragonboard410c. This session discuss about the challenges w.r.t this work
   on DB410c and LHG contributions to RDK, Westeros and WPE.
 featured_image_name: SFO17-206.jpg
-image:
-  featured: true
-  file_name: SFO17-206.jpg
-  path: /assets/images/featured-images/SFO17-206.jpg
+image_name: SFO17-206.jpg
+image: /assets/images/featured-images/SFO17-206.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-206/
 post_format:
@@ -33,7 +31,7 @@ youtube_video_url: https://www.youtube.com/watch?v=4v2FFBmxOFs
 
 Session ID: SFO17-206
 Session Name: RDK/WPE Port on DB410C - SFO17-206
-Speaker: Sivasubramanian Patchaiperumal 
+Speaker: Sivasubramanian Patchaiperumal
 Track: LHG
 
 
@@ -52,7 +50,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

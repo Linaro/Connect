@@ -11,10 +11,8 @@ excerpt: We get lots of questions from members during initial HW design, SW impl
   and tuning of PM on their platforms. This session will address some of those questions
   and make general recommendations for new platforms.
 featured_image_name: SFO15-411.jpg
-image:
-  featured: true
-  file_name: SFO15-411.jpg
-  path: /assets/images/featured-images/SFO15-411.jpg
+image_name: SFO15-411.jpg
+image: /assets/images/featured-images/SFO15-411.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-411/
 post_format:

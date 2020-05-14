@@ -7,10 +7,8 @@ categories:
 comments: false
 date: 2017-02-28 12:05:51
 featured_image_file_name: BUD17-421.jpg
-image:
-  featured: true
-  file_name: BUD17-421.jpg
-  path: /assets/images/featured-images/BUD17-421.jpg
+image_name: BUD17-421.jpg
+image: /assets/images/featured-images/BUD17-421.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-421/
 post_format:
@@ -33,9 +31,9 @@ youtube_video_url: https://youtu.be/dPjSm_98rgo
 
 "Session ID: BUD17-421
 Session Name: What's happening with Arm Mali drivers - BUD17-421
-Speaker: John Reitan, 
+Speaker: John Reitan,
 Ketil Johnsen
-Track: 
+Track:
 
 
 ★ Session Summary ★
@@ -43,7 +41,7 @@ Ketil Johnsen and John Reitan from Arm will provide the latest update on Arm's M
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-421/
-Presentation: 
+Presentation:
 Video: https://youtu.be/dPjSm_98rgo
  ---------------------------------------------------
 

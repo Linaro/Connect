@@ -11,10 +11,8 @@ date: 2015-09-22 00:00:00
 excerpt: Alex Rames will discuss past accomplishments, techniques used to improve
   the Optimizing compiler in ART and then discuss upcoming plans
 featured_image_name: SFO15208ImprovingtheOptimizingCompilerinAndroidRuntimeARTplansstatus.jpg
-image:
-  featured: true
-  file_name: SFO15208ImprovingtheOptimizingCompilerinAndroidRuntimeARTplansstatus.jpg
-  path: /assets/images/featured-images/SFO15208ImprovingtheOptimizingCompilerinAndroidRuntimeARTplansstatus.jpg
+image_name: SFO15208ImprovingtheOptimizingCompilerinAndroidRuntimeARTplansstatus.jpg
+image: /assets/images/featured-images/SFO15208ImprovingtheOptimizingCompilerinAndroidRuntimeARTplansstatus.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-208-improving-the-optimizing-compiler-in-android-runtime-art-plans-status/
 post_format:
@@ -42,15 +40,15 @@ Date: September 22, 2015
 ★ Session Description ★
 Alex Rames will discuss past accomplishments, techniques used to improve the Optimizing compiler in ART and then discuss upcoming plans.
 
-★ Resources ★ 
+★ Resources ★
 Video: https://www.youtube.com/watch?v=wkrLRgIedCA
 Presentation:  http://www.slideshare.net/linaroorg/sfo15208-improving-the-optimizing-compiler-in-android-runtime-art-plans-status
 Etherpad: pad.linaro.org/p/sfo15-208
-Pathable: https://sfo15.pathable.com/meetings/302840                          
+Pathable: https://sfo15.pathable.com/meetings/302840
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

@@ -4,10 +4,8 @@ categories:
 - yvr18
 comments: false
 date: '2018-09-16 09:00:00+00:00'
-image:
-  featured: true
-  file_name: yvr18-demo9.jpg
-  path: /assets/images/featured-images/yvr18-demo9.jpg
+image_name: yvr18-demo9.jpg
+image: /assets/images/featured-images/yvr18-demo9.jpg
 layout: resource-post-demo-interview
 session_track: Demo
 title: Testing Arm with Arm with LAVA and 96Boards
