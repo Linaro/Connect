@@ -162,16 +162,7 @@
                             {% if post.image.thumb %}
                                 {% capture image_path %}assets/images/featured-images/{{ post.image.thumb }}{% endcapture %}
                                 {% capture full_path %}/assets/images/featured-images/{{ post.image.thumb }}{% endcapture %}
-                                {% responsive_image_block %}
-                                template: _includes/thumb.html
-                                path: {{ image_path }}
-                                fullpath: {{ full_path }}
-                                class: featured-product-image
-                                {% if post.title %}
-                                title: {{ post.title | slugify: "ascii"}}
-                                alt: {{ post.title | slugify: "ascii"}}
-                                {% endif %}
-                                {% endresponsive_image_block %}
+
                             {% elsif post.image.path contains "https://" %}
                                 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                     data-src="https://static.linaro.org/connect/{{post.categories[0] | downcase }}/images/300/{{post.session_id}}.jpg" alt="{{post.title}}"
@@ -179,29 +170,11 @@
                             {% elsif post.image.path %}
                                 {% capture image_path %}{{post.image.path | slice: 1,post.image.path.size}}{% endcapture %}
                                 {% capture full_path %}{{post.image.path}}{% endcapture %}
-                                {% responsive_image_block %}
-                                template: _includes/thumb.html
-                                path: {{ image_path }}
-                                fullpath: {{ full_path }}
-                                class: featured-product-image
-                                {% if post.title %}
-                                title: {{ post.title | slugify: "ascii"}}
-                                alt: {{ post.title | slugify: "ascii"}}
-                                {% endif %}
-                                {% endresponsive_image_block %}
+
                             {% elsif post.image.name %}
                                 {% capture image_path %}assets/images/featured-images/{{ post.image.name }}{% endcapture %}
                                 {% capture full_path %}/assets/images/featured-images/{{ post.image.name }}{% endcapture %}
-                                {% responsive_image_block %}
-                                template: _includes/thumb.html
-                                path: {{ image_path }}
-                                fullpath: {{ full_path }}
-                                class: featured-product-image
-                                {% if post.title %}
-                                title: {{ post.title | slugify: "ascii"}}
-                                alt: {{ post.title | slugify: "ascii"}}
-                                {% endif %}
-                                {% endresponsive_image_block %}
+
                             {% else %}
                                 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                     data-src="{{site.data.settings.placeholder}}"
@@ -253,29 +226,11 @@
                         {% if post.image.thumb %}
                             {% capture image_path %}assets/images/featured-images/{{ post.image.thumb }}{% endcapture %}
                             {% capture full_path %}/assets/images/featured-images/{{ post.image.thumb }}{% endcapture %}
-                            {% responsive_image_block %}
-                            template: _includes/thumb.html
-                            path: {{ image_path }}
-                            fullpath: {{ full_path }}
-                            class: featured-product-image
-                            {% if post.title %}
-                            title: {{ post.title | slugify: "ascii"}}
-                            alt: {{ post.title | slugify: "ascii"}}
-                            {% endif %}
-                            {% endresponsive_image_block %}
+
                         {% elsif post.image.name %}
                             {% capture image_path %}assets/images/featured-images/{{ post.image.name }}{% endcapture %}
                             {% capture full_path %}/assets/images/featured-images/{{ post.image.name }}{% endcapture %}
-                            {% responsive_image_block %}
-                            template: _includes/thumb.html
-                            path: {{ image_path }}
-                            fullpath: {{ full_path }}
-                            class: featured-product-image
-                            {% if post.title %}
-                            title: {{ post.title | slugify: "ascii"}}
-                            alt: {{ post.title | slugify: "ascii"}}
-                            {% endif %}
-                        {% endresponsive_image_block %}
+
                         {% else %}
                             <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                 data-src="{{site.data.settings.placeholder}}"
