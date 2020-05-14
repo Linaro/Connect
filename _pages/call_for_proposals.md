@@ -44,11 +44,9 @@ flow:
           title: Call for Proposals
           type: slider
         format: feature_block
-  - row: custom_include_row
-    source: common_topic_areas.html
 ---
 As a result of the Coronavirus, It is with great regret that we have decided to cancel the upcoming Linaro Connect which was due to be held on 23-27 March 2020 at the Corinthia Hotel in Budapest, Hungary. We will confirm the dates for the next Linaro Connect shortly.
 
-Linaro Connect provides a platform to discuss and learn about the leading software topics, challenges and opportunities in the Arm Ecosystem today. What are the problems, innovations and hands-on knowledge that today's Arm Developers are working on? From the smallest devices (IoT and embedded) to big data (enterprise), there is an Arm solution. 
+Linaro Connect provides a platform to discuss and learn about the leading software topics, challenges and opportunities in the Arm Ecosystem today. What are the problems, innovations and hands-on knowledge that today's Arm Developers are working on? From the smallest devices (IoT and embedded) to big data (enterprise), there is an Arm solution.
 
 Accepted speakers receive a free 5 day pass to Linaro Connect. If your submission is accepted, you will receive further instructions with slide deadlines, free speaker registration code, and session instructions. Due to a limited amount of session slots available, not all submissions can be selected for Linaro Connect.

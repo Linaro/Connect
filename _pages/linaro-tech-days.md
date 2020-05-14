@@ -4,7 +4,7 @@ description: |-
   Linaro Tech Days
   First series: 24-25 March 2020
   Second series: 31 March-2 April 2020
-  More sessions TBD 
+  More sessions TBD
 permalink: /linaro-tech-days/
 layout: flow
 jumbotron:
@@ -36,12 +36,11 @@ flow:
             url: 'https://www.eventbrite.co.uk/e/99529015966/'
         format: buttons
         style: text-center
-image:
-  path: /assets/images/content/techdays_sched_mobile_banner.png
+image: /assets/images/content/techdays_sched_mobile_banner.png
 ---
-Linaro Tech Days is a series of technical sessions that will be presented live online. 
+Linaro Tech Days is a series of technical sessions that will be presented live online.
 
-The first of Linaro Tech Days will be held on 24 and 25 March 2020. The second series will be held 31 March-2 April. These sessions are free and open to the public. 
+The first of Linaro Tech Days will be held on 24 and 25 March 2020. The second series will be held 31 March-2 April. These sessions are free and open to the public.
 
 **\*Please** [**REGISTER**](https://www.eventbrite.co.uk/e/99529015966/) **in order to begin building your personal agenda.***
 

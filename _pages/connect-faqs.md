@@ -11,8 +11,7 @@ jumbotron:
   description: ''
 flow:
   - row: main_content_row
-image:
-  path: /assets/images/social-media-image.png
+image: /assets/images/social-media-image.png
 ---
 # About Linaro Connect Budapest
 
