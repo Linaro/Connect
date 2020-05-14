@@ -14,9 +14,7 @@ excerpt: "David always enjoyed mathematics, but America's space program together
   before moving to Arm where he added tools experience. He's an Arm Fellow; which
   he says, \"really means that I'm a techno-dweeb with a wide freedom to meddle.\""
 featured_image_name: LCA14-500K1.jpg
-image:
-  featured: true
-  path: /assets/images/featured-images/LCA14-500K1.jpg
+image: /assets/images/featured-images/LCA14-500K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lca14/keynote-david-rusling/
 post_format:

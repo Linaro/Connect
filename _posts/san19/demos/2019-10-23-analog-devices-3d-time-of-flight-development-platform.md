@@ -3,9 +3,7 @@ title: Analog Devices 3D Time of Flight Development Platform
 categories:
 - san19
 date: '2019-10-23 09:00:00+00:00'
-image:
-  featured: true
-  path: /assets/images/featured-images/san19-demo-analog-devices.png
+image: /assets/images/featured-images/san19-demo-analog-devices.png
 layout: resource-post-demo-interview
 youtube_video_url: https://www.youtube.com/watch?v=ecsFx_lr_4E
 session_track: Demo

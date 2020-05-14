@@ -3,9 +3,7 @@ title: Remote Control Car with Dragonboard 410C and Mezzanine FPGA
 categories:
 - san19
 date: '2019-10-23 09:00:00+00:00'
-image:
-  featured: true
-  path: /assets/images/featured-images/arrow-demo-san19.png
+image: /assets/images/featured-images/arrow-demo-san19.png
 layout: resource-post-demo-interview
 youtube_video_url: https://www.youtube.com/watch?v=8v0UjPEq8bo
 session_track: Demo
