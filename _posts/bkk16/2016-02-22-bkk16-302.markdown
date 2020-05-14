@@ -11,10 +11,7 @@ excerpt: A tour of essential topics for working on the Android Optimizing Compil
   how to submit good patches, write Checker tests, analyse IR, take boot.oat measurements,
   and debug performance and execution issues with Streamline and GDB.
 featured_image_name: BKK16-302.jpg
-image:
-  featured: true
-  file_name: BKK16-302.jpg
-  path: /assets/images/featured-images/BKK16-302.jpg
+image: /assets/images/featured-images/BKK16-302.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-302/
 post_format:

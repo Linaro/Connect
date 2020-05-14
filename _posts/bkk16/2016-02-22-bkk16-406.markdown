@@ -7,10 +7,7 @@ comments: false
 date: 2016-02-22 17:20:52
 excerpt: Summary of B&B OpenEmbedded work and input from other groups/members.
 featured_image_name: BKK16-406.jpg
-image:
-  featured: true
-  file_name: BKK16-406.jpg
-  path: /assets/images/featured-images/BKK16-406.jpg
+image: /assets/images/featured-images/BKK16-406.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-406/
 post_format:

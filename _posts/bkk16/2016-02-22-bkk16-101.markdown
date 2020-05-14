@@ -5,10 +5,7 @@ comments: false
 date: 2016-02-22 17:20:33
 excerpt: Review the data and plans collected to date
 featured_image_name: BKK16-101.jpg
-image:
-  featured: true
-  file_name: BKK16-101.jpg
-  path: /assets/images/featured-images/BKK16-101.jpg
+image: /assets/images/featured-images/BKK16-101.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16-101/
 post_format:
