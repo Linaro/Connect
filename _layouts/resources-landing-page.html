@@ -10,7 +10,7 @@ js-package: resources-landing-page
     {% assign title = connect_data.long_name %}
     {% capture connect_jumbotron_desc %}Find resources from {{connect_data.id}} here.{% endcapture %}
     {% assign desc = connect_jumbotron_desc %}
-    {% include carousel-header.html images=connect_data.featured_images %}
+    {% include components/jumbotron.html %}
 {% else %}
     {% assign title = page.title %}
     {% assign desc =  page.description %}
