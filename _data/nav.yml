@@ -1,4 +1,4 @@
-universal-nav: true
+universal_nav: true
 search:
   enabled: true
   label: Connect
@@ -10,11 +10,6 @@ brand:
   text: Linaro Connect
   url: /
 pages:
-  - options:
-      - text: 'Linaro Tech Days '
-        url: /linaro-tech-days/
-    title: About
-    url: /about/
   - title: Linaro Tech Days
     url: '/linaro-tech-days/'
   - active_paths:
