@@ -6,9 +6,10 @@ title: Bringing the Arm ecosystem together
 description: |-
     Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect.
 jumbotron:
-  title: Bringing the Arm ecosystem together
-  description: ""
-  image: /assets/images/content/san19-group-photo.jpg
+  slider:
+    - darken: true
+      title: Bringing the Arm ecosystem together
+      image: /assets/images/content/san19-group-photo.jpg
 home: true
 redirect_from:
   - /keynotes/bkk19/
