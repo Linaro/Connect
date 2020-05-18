@@ -32,8 +32,8 @@ flow:
       - format: buttons
         style: text-center
         buttons_content:
-            - title: Linaro Tech Days
-              url: /linaro-tech-days/
+            - title: Linaro Tech Days Resources
+              url: /resources/ltd20/
               style: btn-primary
   - row: container_row
     sections:
