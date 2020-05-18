@@ -5,21 +5,11 @@ description: >-
   place to be to understand the latest developments and work directly with the
   most active engineers and maintainers in the ecosystem.
 permalink: /about/
-js-package: about
+# js-package: about
 css-package: about
 layout: flow
 jumbotron:
-  carousel-images:
-    - /assets/images/content/bkk19-group-photo.jpg
-    - /assets/images/content/lcu14.jpg
-    - /assets/images/content/lcu13.jpg
-    - /assets/images/content/lce13.jpg
-    - /assets/images/content/lca14.jpg
-    - /assets/images/content/lca13.jpg
-    - /assets/images/content/las16.jpg
-    - /assets/images/content/hkg15.jpg
-    - /assets/images/content/bud17.jpg
-    - /assets/images/content/bkk16.jpg
+  background_image: /assets/images/content/bkk19-group-photo.jpg
   title: About
   description: ''
 flow:
@@ -133,4 +123,3 @@ flow:
           sm_items: 2
           xs_items: 1
 ---
-

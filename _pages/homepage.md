@@ -1,35 +1,24 @@
 ---
 layout: flow
 css-package: home
-js-package: home
 permalink: /
 title: Bringing the Arm ecosystem together
 description: |-
     Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect.
-featured-images:
-  - /assets/images/content/hkg18-sponsor-thumb-1.jpg
-  - /assets/images/content/yvr18-sponsor-thumb-1.jpg
-  - /assets/images/content/yvr18-sponsor-thumb-2.jpg
 jumbotron:
   title: Bringing the Arm ecosystem together
-  include: jumbotron-home.html
-  title-class: big-title
   description: ""
-  video:
-    source:
-      mp4: https://static.linaro.org/connect/assets/videos/san19_promo_banner.mp4
-      ogv: https://static.linaro.org/connect/assets/videos/san19_promo_banner.ogv
-      webm: https://static.linaro.org/connect/assets/videos/san19_promo_banner.webm
-    poster: /assets/images/content/san19-group-photo.jpg
+  image: /assets/images/content/san19-group-photo.jpg
 home: true
 redirect_from:
   - /keynotes/bkk19/
   - /keynotes/
 flow:
   - row: container_row
-    style: corona_virus
+    style: bg-secondary
     sections:
       - format: title
+        style: text-center text-white
         title_content:
           size: h2
           text: Linaro Connect Budapest 2020 Cancelled
@@ -118,6 +107,7 @@ flow:
     #   background_image: /assets/images/content/bkk19-group-photo.jpg
     sections:
       - format: title
+        style: text-center
         title_content:
           size: h2
           text: Linaro Connect Resources
@@ -126,37 +116,31 @@ flow:
         block_section_content:
           item_width: 4
           blocks:
-            - title:
-                size: h3
-                text: SAN19 Photos
+            - title: SAN19 Photos
               url: https://www.flickr.com/photos/linaroorg/albums/72157710107995052
-              background_image: /assets/images/content/san19-group-photo.jpg
-              text_content:
-                text: View gallery of photos taken at SAN19 on Flickr.
+              image: /assets/images/content/san19-group-photo.jpg
+              background_image: true
+              description: View gallery of photos taken at SAN19 on Flickr.
               buttons:
                 - title: View on Flickr
                   url: https://www.flickr.com/photos/linaroorg/albums/72157710107995052
                   icon: fa fa-external-link
                   class: btn-primary
-            - title:
-                size: h3
-                text: SAN19 Resources
+            - title: SAN19 Resources
               url: /resources/san19/
-              background_image: /assets/images/content/san19-group-photo.jpg
-              text_content:
-                text: Each Connect 100+ educational resources are made available to the public. See the resources from BKK19.
+              image: /assets/images/content/san19-group-photo.jpg
+              background_image: true
+              description: Each Connect 100+ educational resources are made available to the public. See the resources from BKK19.
               buttons:
                 - title: View SAN19 Resources
                   url: /resources/san19/
                   icon: fa fa-slideshare
                   class: btn-primary
-            - title:
-                size: h3
-                text: View all resources
+            - title: View all resources
               url: /resources/
-              background_image: /assets/images/content/san19-group-photo.jpg
-              text_content:
-                text: View all of the Connect resources from the previous Linaro Connect events.
+              image: /assets/images/content/san19-group-photo.jpg
+              background_image: true
+              description: View all of the Connect resources from the previous Linaro Connect events.
               buttons:
                 - title: View all resources
                   url: /resources/

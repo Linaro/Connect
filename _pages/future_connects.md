@@ -4,7 +4,7 @@ permalink: /future-connects/
 description: >
     Here you can find details on upcoming Linaro Connect events.
 layout: jumbotron-container
-js-package: about
+# js-package: about
 css-package: about
 jumbotron:
     title: Future Connect Events
