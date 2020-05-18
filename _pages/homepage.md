@@ -113,8 +113,8 @@ flow:
           text: Linaro Connect Resources
       - format: block
         style: text-center text-white
+        item_width: 4
         block_section_content:
-          item_width: 4
           blocks:
             - title: SAN19 Photos
               url: https://www.flickr.com/photos/linaroorg/albums/72157710107995052
