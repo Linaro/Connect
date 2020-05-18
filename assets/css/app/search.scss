@@ -2,8 +2,8 @@
     z-index: 2;
     color: #fff;
     cursor: default;
-    background-color: $brand-primary;
-    border-color: $brand-primary;
+    background-color: $primary;
+    border-color: $primary;
 }
 #content-container .fessWrapper .pagination > li > a, #content-container .fessWrapper .pagination > li > span {
     position: relative;
@@ -17,7 +17,7 @@
     border: 1px solid #ddd;
 }
 #content-container .fessWrapper a {
-    color: $brand-primary;
+    color: $primary;
     text-decoration: none;
 }
 #content-container .fessWrapper #result .body cite {

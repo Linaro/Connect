@@ -4,7 +4,7 @@
 }
 
 #homepage-header p#buttons a {
-  background-color: $brand-primary;
+  background-color: $primary;
   color: #fff !important;
   font-weight: normal;
   margin-bottom: 50px;
@@ -46,7 +46,7 @@
     color: #c1c1c1;
     margin-top: 28px;
 }
-@media (max-width: $screen-sm-min) {
+@include media-breakpoint-down(sm){
   h1#home-page-title.white {
     font-size: 28px;
   }
@@ -212,7 +212,7 @@ div#content-container {
     display: -webkit-flex;
     display: flex;
 }
-@media(max-width: $screen-sm-min - 1){
+@include media-breakpoint-down(sm){
     .flex-row {
         display: block;
     }
