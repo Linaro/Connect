@@ -1,19 +1,19 @@
 ---
 title: Bangkok 2019 Sessions
-permalink: /resources/bkk19/sessions/
+permalink: /resources/bkk19/
 event_code: BKK19
-pagination:
-    sort_reverse: false
-    sort_field: 'session_id'
-    title: "Bangkok 2019 Sessions - Page :num"
-    enabled: true
-    trail:
-        before: 4
-        after: 4
-    category: bkk19
-    tag: session
-    per_page: 18
-layout: post-index-sessions
-css-package: resources-blog
-js-package: resources-blog
+layout: flow
+flow:
+    - row: container_row
+      sections:
+        # - format: custom_include
+        #   source: blog/post_search.html
+        #   payload:
+        #       name: url
+        #       data: /assets/json/posts.json
+        #       category: Blog
+          # category: News
+        - format: custom_include
+          source: blog/display_latest_posts.html
+          category: bkk19
 ---

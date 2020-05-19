@@ -2,17 +2,18 @@
 title: Hong Kong 2015 Resources
 permalink: /resources/hkg15/
 event_code: HKG15
-pagination:
-    sort_reverse: false
-    sort_field: 'title'
-    title: "Hong Kong 2015 Resources  - Page :num"
-    enabled: true
-    trail:
-        before: 4
-        after: 4
-    category: hkg15
-    per_page: 18
-layout: post-index-resources
-css-package: resources-blog
-js-package: resources-blog
+layout: flow
+flow:
+    - row: container_row
+      sections:
+        # - format: custom_include
+        #   source: blog/post_search.html
+        #   payload:
+        #       name: url
+        #       data: /assets/json/posts.json
+        #       category: Blog
+          # category: News
+        - format: custom_include
+          source: blog/display_latest_posts.html
+          category: hkg15
 ---
