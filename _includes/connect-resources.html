@@ -11,142 +11,146 @@
         {% endif %}
     {% endif %}
 {% endfor %}
-<div class="col-sm-6 no-padding">
-    <div class="video">
-        {% if using_json == "True" %}
-            <div id="video-holder" class="using_json" event-id="{{current_connect}}" session-id="{{page.session_id}}">
-                <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                    data-src="/assets/images/content/video_placeholder.png" />
-                <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="video-embed">
-                    <iframe class="hidden-iframe" data-src="" width="100%" height="500" frameborder="0" marginwidth="5"
-                        marginheight="5" scrolling="auto" id="youtube-iframe"></iframe>
-                        <!-- <embed src="" width="600" height="500" alt="pdf"
-                            pluginspage="http://www.adobe.com/products/acrobat/readstep2.html"> -->
+<div class="row">
+    <div class="col col-12 col-sm-6 no-padding">
+        <div class="video">
+            {% if using_json == "True" %}
+                <div id="video-holder" class="using_json" event-id="{{current_connect}}" session-id="{{page.session_id}}">
+                    <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                        data-src="/assets/images/content/video_placeholder.png" />
+                    <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="video-embed">
+                        <iframe class="hidden-iframe" data-src="" width="100%" height="500" frameborder="0" marginwidth="5"
+                            marginheight="5" scrolling="auto" id="youtube-iframe"></iframe>
+                            <!-- <embed src="" width="600" height="500" alt="pdf"
+                                pluginspage="http://www.adobe.com/products/acrobat/readstep2.html"> -->
+                    </div>
                 </div>
-            </div>
-        {% elsif page.amazon_s3_video_url %}
-            <div id="video-holder">
-                <img id="video-skeleton" class="img-responsive lazyload"
-                    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                    data-src="/assets/images/content/video_placeholder.png" />
-                <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="video-embed">
-                    <iframe class="hidden-iframe" data-src="{{page.amazon_s3_video_url}}" width="100%" height="500" frameborder="0" marginwidth="5" marginheight="5"
-                        scrolling="auto" id="youtube-iframe"></iframe>
+            {% elsif page.amazon_s3_video_url %}
+                <div id="video-holder">
+                    <img id="video-skeleton" class="img-responsive lazyload"
+                        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                        data-src="/assets/images/content/video_placeholder.png" />
+                    <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="video-embed">
+                        <iframe class="hidden-iframe" data-src="{{page.amazon_s3_video_url}}" width="100%" height="500" frameborder="0" marginwidth="5" marginheight="5"
+                            scrolling="auto" id="youtube-iframe"></iframe>
+                    </div>
                 </div>
-            </div>
-        {% elsif page.youtube_video_url and page.youtube_video_url != "None" %}
-            <div id="video-holder">
-                <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/content/video_placeholder.png" />
-                <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="video-embed">
-                    <iframe class="hidden-iframe" data-src="{{page.youtube_video_url}}" width="100%" height="500" frameborder="0"
-                    allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" marginwidth="5"
-                        marginheight="5" scrolling="auto" id="youtube-iframe"></iframe>
+            {% elsif page.youtube_video_url and page.youtube_video_url != "None" %}
+                <div id="video-holder">
+                    <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/content/video_placeholder.png" />
+                    <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="video-embed">
+                        <iframe class="hidden-iframe" data-src="{{page.youtube_video_url}}" width="100%" height="500" frameborder="0"
+                        allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" marginwidth="5"
+                            marginheight="5" scrolling="auto" id="youtube-iframe"></iframe>
+                    </div>
                 </div>
-            </div>
-        {% else %}
-            <div id="video-holder">
-                <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/content/video_placeholder.png"/>
-            </div>
-        {% endif %}
-    </div>
-    {% if using_json == "True" %}
-        <div class="s3-link">
-            <a class="btn btn-primary greyed s3-download video using_json">Not Available</a>
-        </div>
-    {% elsif page.amazon_s3_video_url and page.amazon_s3_video_url != "None" and page.amazon_s3_video_url != "n/a" %}
-        <div class="s3-link">
-            <a href="{{page.amazon_s3_video_url}}" class="btn btn-primary s3-download">Download Video</a>
-        </div>
-    {% else %}
-        <div class="s3-link">
-            <a class="btn btn-primary greyed s3-download">Not Available</a>
-        </div>
-    {% endif %}
-</div>
-<div class="col-sm-6 no-padding">
-    <div class="presentation">
-        {% if using_json == "True" %}
-            <div id="presentation-holder" class="using_json" event-id="{{current_connect}}" session-id="{{page.session_id}}">
-                <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                    data-src="/assets/images/content/presentation-placeholder.svg" />
-                <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="presentation-embed">
-                    <!-- <iframe class="hidden-iframe" data-src="" width="100%" height="500" frameborder="0" marginwidth="5"
-                        marginheight="5" scrolling="auto" id="presentation-iframe"></iframe> -->
-                        <embed type="application/pdf" id="presentation-data-embed" class="hidden-iframe" data-src="" width="100%" height="500" alt="pdf"
-                            pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
-
+            {% else %}
+                <div id="video-holder">
+                    <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/content/video_placeholder.png"/>
                 </div>
-            </div>
-        {% elsif page.amazon_s3_presentation_url and page.amazon_s3_presentation_url != "None" %}
-            {% assign presentation_url = page.amazon_s3_presentation_url %}
-            <div id="presentation-holder">
-                <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                data-src="/assets/images/content/presentation-placeholder.svg" />
-                <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="presentation-embed">
-                    <iframe class="hidden-iframe" data-src="{{presentation_url}}" width="100%" height="500" frameborder="0" marginwidth="5"
-                       allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" marginwidth="5"  marginheight="5" scrolling="auto" id="presentation-iframe"></iframe>
-                </div>
-            </div>
-        {% elsif page.slideshare_embed_url and page.slideshare_embed_url != "None" %}
-            {% assign presentation_url = page.slideshare_embed_url %}
-            <div id="presentation-holder">
-                <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                data-src="/assets/images/content/presentation-placeholder.svg" />
-                <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="presentation-embed">
-                    <iframe class="hidden-iframe" data-src="{{presentation_url}}" width="100%" height="500" frameborder="0" marginwidth="5"
-                        marginheight="5" scrolling="auto" id="presentation-iframe"></iframe>
-                </div>
-            </div>
-        {% else %}
-            <div id="presentation-holder">
-                <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                data-src="/assets/images/content/presentation-placeholder.svg" />
-            </div>
-        {% endif %}
-    </div>
-    {% if using_json == "True" %}
-        <div class="s3-link">
-            <a class="btn btn-primary greyed s3-download presentation using_json">Not Available</a>
-        </div>
-    {% elsif page.amazon_s3_presentation_url and page.amazon_s3_presentation_url != "None" and page.amazon_s3_presentation_url != "n/a" %}
-        <div class="s3-link">
-            <a href="{{page.amazon_s3_presentation_url}}" class="btn btn-primary s3-download">Download Presentation</a>
-        </div>
-    {% else %}
-        <div class="s3-link">
-            <a class="btn btn-primary greyed s3-download">Not Available</a>
-        </div>
-    {% endif %}
-</div>
-<div class="col-xs-12 no-padding">
-    {% if using_json == "True" %}
-    <div class="list-group" id="session_files">
-        <li class="list-group-item active">Session Files</li>
-    </div>
-    {% endif %}
-    {% if page.description %}
-    <h3>Session Abstract</h3>
-    <p>
-        {{page.description}}
-    </p>
-    {% endif %}
-    {% if page.session_speakers %}
-    <h2>Session Speakers</h2>
-        {% for speaker in page.session_speakers %}
-            <h3>{{speaker.speaker_name}}</h3>
-            {% assign speaker_url_size = speaker.speaker_url | size %}
-            {% if speaker.speaker_url != '' and speaker_url_size > 1 %}
-                {% if speaker.speaker_url contains 'http' %}
-                    {% assign speaker_url = speaker.speaker_url %}
-                {% else %}
-                    {% assign speaker_url = "https://" | append: speaker.speaker_url %}
-                {% endif %}
-                <a href="{{speaker_url}}">View website <span class="fa fa-globe"></span></a>
             {% endif %}
-            <h4>{{speaker.speaker_position}} {% if speaker.speaker_company != '' %}({{speaker.speaker_company}}){% endif %}</h4>
-            <p>
-                {{speaker.speaker_bio}}
-            </p>
-        {% endfor %}
-    {% endif %}
+        </div>
+        {% if using_json == "True" %}
+            <div class="s3-link">
+                <a class="btn btn-primary greyed s3-download video using_json">Not Available</a>
+            </div>
+        {% elsif page.amazon_s3_video_url and page.amazon_s3_video_url != "None" and page.amazon_s3_video_url != "n/a" %}
+            <div class="s3-link">
+                <a href="{{page.amazon_s3_video_url}}" class="btn btn-primary s3-download">Download Video</a>
+            </div>
+        {% else %}
+            <div class="s3-link">
+                <a class="btn btn-primary greyed s3-download">Not Available</a>
+            </div>
+        {% endif %}
+    </div>
+    <div class="col col-12 col-sm-6 no-padding">
+        <div class="presentation">
+            {% if using_json == "True" %}
+                <div id="presentation-holder" class="using_json" event-id="{{current_connect}}" session-id="{{page.session_id}}">
+                    <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                        data-src="/assets/images/content/presentation-placeholder.svg" />
+                    <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="presentation-embed">
+                        <!-- <iframe class="hidden-iframe" data-src="" width="100%" height="500" frameborder="0" marginwidth="5"
+                            marginheight="5" scrolling="auto" id="presentation-iframe"></iframe> -->
+                            <embed type="application/pdf" id="presentation-data-embed" class="hidden-iframe" data-src="" width="100%" height="500" alt="pdf"
+                                pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+
+                    </div>
+                </div>
+            {% elsif page.amazon_s3_presentation_url and page.amazon_s3_presentation_url != "None" %}
+                {% assign presentation_url = page.amazon_s3_presentation_url %}
+                <div id="presentation-holder">
+                    <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    data-src="/assets/images/content/presentation-placeholder.svg" />
+                    <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="presentation-embed">
+                        <iframe class="hidden-iframe" data-src="{{presentation_url}}" width="100%" height="500" frameborder="0" marginwidth="5"
+                        allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" marginwidth="5"  marginheight="5" scrolling="auto" id="presentation-iframe"></iframe>
+                    </div>
+                </div>
+            {% elsif page.slideshare_embed_url and page.slideshare_embed_url != "None" %}
+                {% assign presentation_url = page.slideshare_embed_url %}
+                <div id="presentation-holder">
+                    <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    data-src="/assets/images/content/presentation-placeholder.svg" />
+                    <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="presentation-embed">
+                        <iframe class="hidden-iframe" data-src="{{presentation_url}}" width="100%" height="500" frameborder="0" marginwidth="5"
+                            marginheight="5" scrolling="auto" id="presentation-iframe"></iframe>
+                    </div>
+                </div>
+            {% else %}
+                <div id="presentation-holder">
+                    <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    data-src="/assets/images/content/presentation-placeholder.svg" />
+                </div>
+            {% endif %}
+        </div>
+        {% if using_json == "True" %}
+            <div class="s3-link">
+                <a class="btn btn-primary greyed s3-download presentation using_json">Not Available</a>
+            </div>
+        {% elsif page.amazon_s3_presentation_url and page.amazon_s3_presentation_url != "None" and page.amazon_s3_presentation_url != "n/a" %}
+            <div class="s3-link">
+                <a href="{{page.amazon_s3_presentation_url}}" class="btn btn-primary s3-download">Download Presentation</a>
+            </div>
+        {% else %}
+            <div class="s3-link">
+                <a class="btn btn-primary greyed s3-download">Not Available</a>
+            </div>
+        {% endif %}
+    </div>
+</div>
+<div class="row">
+    <div class="col col-12 no-padding">
+        {% if using_json == "True" %}
+        <div class="list-group" id="session_files">
+            <li class="list-group-item active">Session Files</li>
+        </div>
+        {% endif %}
+        {% if page.description %}
+        <h3>Session Abstract</h3>
+        <p>
+            {{page.description}}
+        </p>
+        {% endif %}
+        {% if page.session_speakers %}
+        <h2>Session Speakers</h2>
+            {% for speaker in page.session_speakers %}
+                <h3>{{speaker.speaker_name}}</h3>
+                {% assign speaker_url_size = speaker.speaker_url | size %}
+                {% if speaker.speaker_url != '' and speaker_url_size > 1 %}
+                    {% if speaker.speaker_url contains 'http' %}
+                        {% assign speaker_url = speaker.speaker_url %}
+                    {% else %}
+                        {% assign speaker_url = "https://" | append: speaker.speaker_url %}
+                    {% endif %}
+                    <a href="{{speaker_url}}">View website <span class="fa fa-globe"></span></a>
+                {% endif %}
+                <h4>{{speaker.speaker_position}} {% if speaker.speaker_company != '' %}({{speaker.speaker_company}}){% endif %}</h4>
+                <p>
+                    {{speaker.speaker_bio}}
+                </p>
+            {% endfor %}
+        {% endif %}
+    </div>
 </div>
