@@ -14,14 +14,14 @@ js-package: resources-blog
 {% endfor %}
 <div class="col-md-9" id="main-resources-content" event-id="{{current_connect}}">
     <div class="row">
-        <div class="col-xs-12">
+        <div class="col col-12">
             {% include pagination/pagination-resources.html event_code=page.event_code end_path="/sessions/" %}
         </div>
     </div>
     <div class="row">
     {% if paginator.total_posts > 0 %}
     {% for post in paginator.posts %}
-        <div class="col-md-4 col-sm-4 col-xs-12">
+        <div class="col-md-4 col-sm-4 col col-12">
             <div class="resource-block">
             <a href="{{post.url}}">
                 <div class="resource">
@@ -73,30 +73,27 @@ js-package: resources-blog
                     {% endif %}
                 </div>
             {% if using_json == "True" %}
-            <!-- <div class="resource-info col-xs-12 no-padding using_json" session-id="{{post.session_id}}">
-
-            </div> -->
             {% if post.session_id %}
                 <span data-session-id="{{post.session_id}}" class="session_id">{{post.session_id}}</span>
             {% endif %}
-            <div class="resource-title col-xs-12 no-padding">
+            <div class="resource-title col col-12 no-padding">
                 <h3>{{post.title}}</h3>
             </div>
             {% if post.session_speakers %}
-            <div class="resource-speakers col-xs-12 no-padding">
+            <div class="resource-speakers col col-12 no-padding">
                 {% for speaker in post.session_speakers %}
                     <span class="speaker" data-toggle="tooltip" data-placement="top" title="{{speaker.speaker_bio}}"
                     data-speaker="{{speaker.speaker_name}}">{{speaker.speaker_name}}</span>
                 {% endfor %}
             </div>
             {% endif %}
-            <div class="resource-details col-xs-12 no-padding">
+            <div class="resource-details col col-12 no-padding">
                 {% if post.session_room %}
                     <span>{{post.session_room}}</span>
                 {% endif %}
             </div>
             {% else %}
-            <div class="resource-info col-xs-12 no-padding {% if using_json == "True" %}using_json{% endif %}"  {% if using_json == "True" %}session-id="{{post.session_id}}"{% endif %}>
+            <div class="resource-info col col-12 no-padding {% if using_json == "True" %}using_json{% endif %}"  {% if using_json == "True" %}session-id="{{post.session_id}}"{% endif %}>
                 <div class="video col-xs-6">
                     <i class="icon-youtube"></i> - {% if post.amazon_s3_video_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i> {% endif %}
                 </div>
@@ -104,7 +101,7 @@ js-package: resources-blog
                     <i class="icon-linkedin"></i> - {% if post.amazon_s3_presentation_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i>{% endif %}
                 </div>
             </div>
-            <div class="resource-title col-xs-12 no-padding">
+            <div class="resource-title col col-12 no-padding">
                 <h3>{{post.title}}</h3>
                 {% if post.session_id %}
                     <span data-session-id="{{post.session_id}}" class="session_id">{{post.session_id}}</span>
@@ -123,7 +120,7 @@ js-package: resources-blog
     </div>
     {% endfor %}
     {% else %}
-        <div class="col-xs-12">
+        <div class="col col-12">
             <p>
                 There are no session resources currently available/scheduled. Please check back after Connect has ended ({{end_date}})
                 for more resources; or subscribe to our <a href="https://www.youtube.com/user/LinaroOrg/videos">YouTube Channel</a>
@@ -133,8 +130,4 @@ js-package: resources-blog
     {% endif %}
     </div>
     {% include pagination/pagination-resources.html event_code=page.event_code end_path="/sessions/" %}
-</div>
-
-<div class="col-md-3 blog-sidebar">
-    {% include post-sidebar-resources.html event_code=page.event_code %}
 </div>

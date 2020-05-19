@@ -14,7 +14,7 @@ js-package: resources-blog
 <div class="col-md-9 no-padding" id="main-resources-content" event-id="{{current_connect}}">
     <div class="row">
     {% for post in paginator.posts %}
-        <div class="col-md-4 col-sm-4 col-xs-12">
+        <div class="col-md-4 col-sm-4 col col-12">
             <div class="resource-block">
             <a href="{{post.url}}">
                 <div class="resource">
@@ -45,13 +45,13 @@ js-package: resources-blog
                 </div>
             </a>
             {% if using_json == "True" %}
-            <div class="resource-info col-xs-12 no-padding using_json" session-id="{{post.session_id}}">
+            <div class="resource-info col col-12 no-padding using_json" session-id="{{post.session_id}}">
             </div>
-            <div class="resource-title col-xs-12 no-padding">
+            <div class="resource-title col col-12 no-padding">
                 <h3>{{post.title}}</h3>
             </div>
             {% else %}
-            <div class="resource-info col-xs-12 no-padding {% if using_json == "True" %}using_json{% endif %}"  {% if using_json == "True" %}session-id="{{post.session_id}}"{% endif %}>
+            <div class="resource-info col col-12 no-padding {% if using_json == "True" %}using_json{% endif %}"  {% if using_json == "True" %}session-id="{{post.session_id}}"{% endif %}>
                 <div class="video col-xs-6">
                     <i class="icon-youtube"></i> - {% if post.amazon_s3_video_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i> {% endif %}
                 </div>
@@ -59,7 +59,7 @@ js-package: resources-blog
                     <i class="icon-linkedin"></i> - {% if post.amazon_s3_presentation_url != "None" %}<i class="glyphicon glyphicon-ok-sign"></i>{% else %}<i class="glyphicon glyphicon-remove-sign"></i>{% endif %}
                 </div>
             </div>
-            <div class="resource-title col-xs-12 no-padding">
+            <div class="resource-title col col-12 no-padding">
                 <h3>{{post.title}}</h3>
             </div>
             {% endif %}
@@ -69,8 +69,4 @@ js-package: resources-blog
     {% endfor %}
     </div>
     {% include pagination/pagination-resources.html event_code=page.event_code end_path="/" %}
-</div>
-
-<div class="col-md-3 blog-sidebar">
-    {% include_cached post-sidebar-resources.html event_code=page.event_code %}
 </div>
