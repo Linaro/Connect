@@ -117,25 +117,23 @@ flow:
         item_width: 4
         block_section_content:
           blocks:
-            - title: SAN19 Photos
-              url: https://www.flickr.com/photos/linaroorg/albums/72157710107995052
+            - title: Connect Photos
+              url: https://www.flickr.com/photos/linaroorg/
               image: /assets/images/content/san19-group-photo.jpg
               background_image: true
-              description: View gallery of photos taken at SAN19 on Flickr.
+              description: View the gallery of photos taken at Connect on Flickr.
               buttons:
                 - title: View on Flickr
-                  url: https://www.flickr.com/photos/linaroorg/albums/72157710107995052
-                  icon: fa fa-external-link
+                  url: https://www.flickr.com/photos/linaroorg/
                   class: btn-primary
-            - title: SAN19 Resources
-              url: /resources/san19/
+            - title: LTD20 Resources
+              url: /resources/ltd20/
               image: /assets/images/content/san19-group-photo.jpg
               background_image: true
-              description: Each Connect 100+ educational resources are made available to the public. See the resources from BKK19.
+              description: View the resources from our latest virtual conference.
               buttons:
-                - title: View SAN19 Resources
-                  url: /resources/san19/
-                  icon: fa fa-slideshare
+                - title: View Resources
+                  url: /resources/ltd20/
                   class: btn-primary
             - title: View all resources
               url: /resources/
@@ -145,7 +143,6 @@ flow:
               buttons:
                 - title: View all resources
                   url: /resources/
-                  icon: fa fa-clock-o
                   class: btn-primary
   - row: custom_include_row
     source: homepage_video_modal.html

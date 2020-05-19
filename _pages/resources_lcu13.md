@@ -1,0 +1,18 @@
+---
+title: Linaro Connect USA 2013 Resources
+permalink: /resources/lcu13/
+event_code: LCU13
+pagination:
+    sort_reverse: false
+    sort_field: 'title'
+    title: "Linaro Connect USA 2013 Resources  - Page :num"
+    enabled: true
+    trail:
+        before: 4
+        after: 4
+    category: lcu13
+    per_page: 18
+layout: post-index-resources
+css-package: resources-blog
+js-package: resources-blog
+---

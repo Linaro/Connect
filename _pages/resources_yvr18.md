@@ -1,0 +1,19 @@
+---
+title: Vancouver 2018 Sessions
+permalink: /resources/yvr18/sessions/
+event_code: YVR18
+pagination:
+    sort_reverse: false
+    sort_field: 'title'
+    title: "Vancouver 2018 Session Resources  - Page :num"
+    enabled: true
+    trail:
+        before: 4
+        after: 4
+    category: yvr18
+    tag: session
+    per_page: 18
+layout: post-index-sessions
+css-package: resources-blog
+js-package: resources-blog
+---
