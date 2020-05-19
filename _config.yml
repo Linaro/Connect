@@ -26,6 +26,7 @@ exclude:
   - .asset-cache
   - _static-site
   - .sass-cache
+  - _site
   - staging.connect.linaro.org
   - production.connect.linaro.org
 sass:
