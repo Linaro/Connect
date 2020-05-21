@@ -40,7 +40,8 @@
 <div class="row" id="resources">
     {% assign resource_posts = site.posts | sort: 'date' | reverse %}
     {% for post in resource_posts %}
-        <div class="col col-12 col-sm-6 col-lg-3 blog-post-item-col p-3">
+        <div class="col col-12 col-sm-6 col-lg-3 blog-post-item-col p-3" data-type="{{post.tag}}"
+         data-event="{{post.categories[0]}}" data-track="{{post.session_track}}">
             <div class="card h-100 ">
                 <div class="blog_image_header">
                     {% if post.image %}
