@@ -4,8 +4,7 @@ description: >-
     Find resources from all of our previous Connect events here.
 permalink: /resources/
 layout: flow
-js-package: resources-search
-css_bundle: resources-landing-page
+js-package: resources
 jumbotron:
     title: Resources
     descriptions: >
