@@ -1,3 +1,87 @@
-<div class="col col-12">
+<div class="row" id="resourcesSearchAndFilter">
+    <div class="container">
+        <div class="col col-12">
+            <form class="form-inline">
+                <div class="form-group mb-2 w-100">
+                    <input type="text" class="form-control mr-sm-2 w-100" id="searchQuery" placeholder="Enter your search query...">
+                </div>
+                <div class="form-group">
+                    <label class="mr-sm-2" for="exampleFormControlSelect1">Event</label>
+                    <select class="form-control" id="exampleFormControlSelect1">
+                        {% assign unique_categories = site.posts | map: 'categories' | join: ',' | join: ',' | split: ',' | uniq | sort %}
+                        <option value=""> - </option>
+                        {% for cat in unique_categories %}
+                            <option value="{{cat}}">{{cat | upcase }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label class="mx-sm-2" for="exampleFormControlSelect1">Tracks</label>
+                    <select class="form-control" id="exampleFormControlSelect1">
+                        {% assign unique_tracks = site.posts | map: 'session_track' | join: ',' | join: ',' | split: ',' | uniq | sort %}
+                        {% for cat in unique_tracks %}
+                            <option value="{{cat}}">{{cat}}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label class="mx-sm-2" for="exampleFormControlSelect1">Type</label>
+                    <select class="form-control" id="exampleFormControlSelect1">
+                        <option value="">-</option>
+                        <option value="session">Session</option>
+                        <option value="interview">Interview</option>
+                        <option value="demo">Demo</option>
+                    </select>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="row" id="resources">
+    {% assign resource_posts = site.posts | sort: 'date' | reverse %}
+    {% for post in resource_posts %}
+        <div class="col col-12 col-sm-6 col-lg-3 blog-post-item-col p-3">
+            <div class="card h-100 ">
+                <div class="blog_image_header">
+                    {% if post.image %}
+                        {% assign block_image = post.image | remove_first: "/assets/images/" %}
+                        {% capture block_image_alt %}{{post.title}} image {% endcapture %}
+                    {% else %}
+                        {% assign block_image = site.post_placeholder | remove_first: "/assets/images/" %}
+                        {% capture block_image_alt %}Blog post placeholder image {% endcapture %}
+                    {% endif %}
+                    {% picture featured_blog_image {{block_image}} --alt {{block_image_alt}} %}
+                </div>
+                <div class="card-body">
 
+                    {% assign author = site.authors | where: "username", post.author | first %}
+                    {% assign author-url = author.url %}
+                    {% if author.image %}
+                        {% assign author_image = author.image | remove_first: "/assets/images/" %}
+                    {% else %}
+                        {% assign author_image = site.avatar_placeholder | remove_first: "/assets/images/" %}
+                    {% endif %}
+                    {% capture image_alt %}{{author.name}} profile image{% endcapture %}
+                    <div class="media align-items-center mb-3">
+                        <div class="media-body">
+                            <em class="mt-0">{{author.name}}</em>
+                        </div>
+                        {% picture author_thumbnail_small {{author_image}} --alt {{image_alt}} %}
+                    </div>
+                    <h5 class="card-title">{{post.title}}</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">{{ post.date | date: "%A, %B %-d, %Y"}}</h6>
+                    <p class="card-text">
+                        {% if post.description %}
+                            {{post.description | strip_html | truncatewords:30 }}
+                        {% else %}
+                            {{ post.content | strip_html | truncatewords:30 }}
+                        {% endif %}
+                    </p>
+                    <p class="card-text">
+                        <a href="{{post.url}}" class="btn btn-primary">Read</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+   {% endfor %}
 </div>
