@@ -11,8 +11,6 @@ jumbotron:
     descriptions: >
         Linaro's conferences have produced 1000's of hours of video content. You can find it all here!
 flow:
-    - row: container_row
-      sections:
-        - format: custom_include
-          source: resources/search.html
+    - row: custom_include_row
+      source: resources/search.html
 ---
