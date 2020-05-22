@@ -59,7 +59,7 @@ $(document).ready(() => {
           update_cols();
           console.log(resources_json);
         }
-      }, 400)
+      }, 900)
     );
     // Handle type select
     $("#typeSelect").on("change", function () {
