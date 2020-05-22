@@ -22,12 +22,13 @@ permalink: /assets/json/resources.json
             {% for speaker in post.speakers %}
                 {% assign speakers = speakers | push: speaker %}
             {% endfor%}
-        {% endif %} 
+        {% endif %}
         "event_id": "{{ event_id }}",
         {% if post.session_id %}"session_id": "{{ post.session_id }}",{% endif %}
         "url": "{{ site.url }}{{ post.url }}",
         "summary": "{{summary}}",
         "date_published": "{{ post.date }}",
+        "identifier": "{{ post.path }}",
         "speakers": [{% for speaker in speakers %}
         {
             {% if speaker.name %}
