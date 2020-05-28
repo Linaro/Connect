@@ -9,18 +9,24 @@
                     <label class="mr-sm-2" for="exampleFormControlSelect1">Event</label>
                     <select class="form-control" id="eventSelect">
                         {% assign unique_categories = site.posts | map: 'categories' | join: ',' | join: ',' | split: ',' | uniq | sort %}
-                        <option value="none">All</option>
+                        <option value="all">All</option>
                         {% for cat in unique_categories %}
                             <option value="{{cat}}">{{cat | upcase }}</option>
                         {% endfor %}
                     </select>
                 </div>
                 <div class="form-group">
-                    <label class="mx-sm-2" for="exampleFormControlSelect1">Tracks</label>
+                    <label class="mx-sm-2" for="exampleFormControlSelect1">Topics</label>
                     <select class="form-control" id="trackSelect">
+                        {% assign actual_unique_tracks = '' | split: ',' %}
                         {% assign unique_tracks = site.posts | map: 'session_track' | join: ',' | join: ',' | split: ',' | uniq | sort %}
-                        <option value="none">All</option>
-                        {% for cat in unique_tracks %}
+                        {% for tag in unique_tracks %}
+                            {% assign stripped_tag  = tag | strip %}
+                            {% assign actual_unique_tracks = actual_unique_tracks | push: stripped_tag %}
+                        {% endfor %}
+                        {% assign actual_unique_tracks = actual_unique_tracks | uniq | sort %}
+                        <option value="all">All</option>
+                        {% for cat in actual_unique_tracks %}
                             <option value="{{cat}}">{{cat}}</option>
                         {% endfor %}
                     </select>
@@ -28,7 +34,7 @@
                 <div class="form-group">
                     <label class="mx-sm-2" for="exampleFormControlSelect1">Type</label>
                     <select class="form-control" id="typeSelect">
-                        <option value="none">All</option>
+                        <option value="all">All</option>
                         <option value="session">Session</option>
                         <option value="interview">Interview</option>
                         <option value="demo">Demo</option>
@@ -44,7 +50,7 @@
         <div class="col col-12 col-sm-6 col-lg-3 blog-post-item-col p-3" data-identifier="{{post.path}}" data-type="{{post.tag}}"
          data-event="{{post.categories[0]}}" data-track="{{post.session_track}}">
          <div class="card h-100 ">
-                <a href="{{post.url}}" class="btn btn-primary card_img_link">
+                <a href="{{post.url}}" class="btn btn-primary card_img_link p-0">
                 <div class="blog_image_header">
                     {% if post.image %}
                         {% assign block_image = post.image | remove_first: "/assets/images/" %}
@@ -57,21 +63,6 @@
                 </div>
                 </a>
                 <div class="card-body">
-
-                    {% assign author = site.authors | where: "username", post.author | first %}
-                    {% assign author-url = author.url %}
-                    {% if author.image %}
-                        {% assign author_image = author.image | remove_first: "/assets/images/" %}
-                    {% else %}
-                        {% assign author_image = site.avatar_placeholder | remove_first: "/assets/images/" %}
-                    {% endif %}
-                    {% capture image_alt %}{{author.name}} profile image{% endcapture %}
-                    <div class="media align-items-center mb-3">
-                        <div class="media-body">
-                            <em class="mt-0">{{author.name}}</em>
-                        </div>
-                        {% picture author_thumbnail_small {{author_image}} --alt {{image_alt}} %}
-                    </div>
                     <h5 class="card-title">{{post.title}}</h5>
                     <h6 class="card-subtitle mb-2 text-muted">{{ post.date | date: "%A, %B %-d, %Y"}}</h6>
                     <p class="card-text">
@@ -82,7 +73,7 @@
                         {% endif %}
                     </p>
                     <p class="card-text">
-                        <a href="{{post.url}}" class="btn btn-primary">Read</a>
+                        <a href="{{post.url}}" class="btn btn-primary">View</a>
                     </p>
                 </div>
             </div>
