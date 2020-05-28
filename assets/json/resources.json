@@ -64,6 +64,8 @@ permalink: /assets/json/resources.json
         {% endif %}
         {% if post.session_track %}
         "tracks": "{{post.session_track}}",
+        {% else %}
+        "tracks": "Arm",
         {% endif %}
         {% if post.image.path %}
         "thumbnail": "{{site.url}}{{post.image.path}}",

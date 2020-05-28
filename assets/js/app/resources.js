@@ -25,15 +25,17 @@ function delay(callback, ms) {
   };
 }
 // Update the cols listed on the page using the resource page path
-// identfiiers
+// identifiers
 function update_cols() {
   // Hide all cols and display those in the resources json
   $("[data-identifier]").css("display", "none");
   var items_to_display = resources_json;
-  // Remove items that do not belong to the selected event.
+  // Fix for issue regarding filter function returning items that are not nested in the
+  // fuse.js item object.
   items_to_display.filter((item, index) => {
-    return item;
+    return true;
   });
+  // Remove items that do not belong to the selected event.
   for (var i = items_to_display.length - 1; i >= 0; i--) {
     // Filter Events
     if (current_event !== "all") {
@@ -44,7 +46,7 @@ function update_cols() {
     // Filter Tracks
     if (current_track !== "all") {
       items_to_display = items_to_display.filter((item, index) => {
-        return item.tracks.includes(current_track);
+        return item.tracks.indexOf(current_track) != -1 ? true : false;
       });
     }
     // Filter Types
@@ -54,11 +56,15 @@ function update_cols() {
       });
     }
   }
-  // Loop over results to show
-  for (var i = 0; i < items_to_display.length; i++) {
-    let selector =
-      '*[data-identifier="' + items_to_display[i]["identifier"] + '"]';
-    $(selector).css("display", "block");
+  console.log("Search results that will display: block:", items_to_display);
+  // Check that we have results first
+  if (items_to_display.length > 0) {
+    // Loop over results to display
+    for (var i = 0; i < items_to_display.length; i++) {
+      var identifier = items_to_display[i]["identifier"];
+      // Set display:block style for all results
+      $('*[data-identifier="' + identifier + '"]').css("display", "block");
+    }
   }
 }
 $(document).ready(function () {
@@ -80,10 +86,16 @@ $(document).ready(function () {
       delay(function (e) {
         if (this.value === "") {
           resources_json = data;
+          current_search_term = "";
           update_cols();
         } else {
           // Perform the search
-          resources_json = fuse.search(this.value);
+          let fuse_results = fuse.search(this.value);
+          var new_results = fuse_results.map((item) => {
+            return item.item;
+          });
+          resources_json = new_results;
+          console.log("Search results:", resources_json);
           // Update the cols based on results
           update_cols();
         }
