@@ -1,4 +1,7 @@
 var resources_json = [];
+var current_event = "all";
+var current_type = "all";
+var current_track = "all";
 // Get Data for a given url
 function getData(ajaxurl, callbackFunction) {
   return $.ajax({
@@ -26,14 +29,39 @@ function delay(callback, ms) {
 function update_cols() {
   // Hide all cols and display those in the resources json
   $("[data-identifier]").css("display", "none");
-  // Loop over results
-  for (var i = 0; i < resources_json.length; i++) {
+  var items_to_display = resources_json;
+  // Remove items that do not belong to the selected event.
+  items_to_display.filter((item, index) => {
+    return item;
+  });
+  for (var i = items_to_display.length - 1; i >= 0; i--) {
+    // Filter Events
+    if (current_event !== "all") {
+      items_to_display = items_to_display.filter((item, index) => {
+        return item.event_id == current_event.toUpperCase();
+      });
+    }
+    // Filter Tracks
+    if (current_track !== "all") {
+      items_to_display = items_to_display.filter((item, index) => {
+        return item.tracks.includes(current_track);
+      });
+    }
+    // Filter Types
+    if (current_type !== "all") {
+      items_to_display = items_to_display.filter((item, index) => {
+        return item.type == current_type;
+      });
+    }
+  }
+  // Loop over results to show
+  for (var i = 0; i < items_to_display.length; i++) {
     let selector =
-      '*[data-identifier="' + resources_json[i]["item"]["identifier"] + '"]';
+      '*[data-identifier="' + items_to_display[i]["identifier"] + '"]';
     $(selector).css("display", "block");
   }
 }
-$(document).ready(() => {
+$(document).ready(function () {
   // Fetch the local JSON output for all resources
   $.ajax({
     url: "/assets/json/resources.json",
@@ -51,27 +79,30 @@ $(document).ready(() => {
     $("#searchQuery").keyup(
       delay(function (e) {
         if (this.value === "") {
-          $("[data-identifier]").css("display", "block");
+          resources_json = data;
+          update_cols();
         } else {
           // Perform the search
           resources_json = fuse.search(this.value);
           // Update the cols based on results
           update_cols();
-          console.log(resources_json);
         }
       }, 900)
     );
     // Handle type select
     $("#typeSelect").on("change", function () {
-      alert(this.value);
+      current_type = this.value;
+      update_cols();
     });
     // Handle track select
     $("#trackSelect").on("change", function () {
-      alert(this.value);
+      current_track = this.value;
+      update_cols();
     });
     // Handle event select
     $("#eventSelect").on("change", function () {
-      alert(this.value);
+      current_event = this.value;
+      update_cols();
     });
   });
 });
