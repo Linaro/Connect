@@ -38,7 +38,7 @@ youtube_video_url: https://www.youtube.com/watch?v=HZFmqeKEJwI
 Session ID: HKG18-312
 Session Name: HKG18-312 - CMSIS-NN
 Speaker: Rod Crawford
-Track: LEG;Ecosystem Day
+Track: LEG
 
 
 ## Session Summary
@@ -55,7 +55,7 @@ hkg18
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------
-Keyword: LEG;Ecosystem Day
+Keyword: LEG
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

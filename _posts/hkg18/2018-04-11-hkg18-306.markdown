@@ -31,7 +31,7 @@ youtube_video_url: https://www.youtube.com/watch?v=HI2N7TGH0ys
 Session ID: HKG18-306
 Session Name: HKG18-306 - Overview of Qualcomm Snapdragon Neural Processing Engine
 Speaker: Mark Charlebois
-Track: Ecosystem Day;LMG
+Track: LMG
 
 
 ## Session Summary
@@ -48,7 +48,7 @@ hkg18
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------
-Keyword: Ecosystem Day;LMG
+Keyword: LMG
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

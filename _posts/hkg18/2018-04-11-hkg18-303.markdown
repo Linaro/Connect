@@ -26,7 +26,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-303/
 post_format:
 - Video
 session_id: HKG18-303
-session_track: Automotive;Ecosystem Day
+session_track: Automotive
 slideshare_presentation_url: None
 slug: hkg18-303
 speakers: 'Dan Cauchy '
@@ -40,7 +40,7 @@ youtube_video_url: https://www.youtube.com/watch?v=b17ZVJYBr2g
 Session ID: HKG18-303
 Session Name: HKG18-303 - Automotive Grade Linux (AGL)
 Speaker: Dan Cauchy
-Track: Automotive;Ecosystem Day
+Track: Automotive
 
 ## Session Summary
 The race to roll out new technology features, mobility services and autonomous vehicles continues to heat up across the tech and automotive industries. Over the past year, we’ve seen a flurry of M&A activity, partnerships and new alliances, as automakers and their suppliers realize that the software and hardware required for autonomous driving is too complex for any one company to develop alone.
@@ -58,7 +58,7 @@ hkg18
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------
-Keyword: Automotive;Ecosystem Day
+Keyword: Automotive
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

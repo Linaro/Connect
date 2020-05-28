@@ -38,7 +38,7 @@ youtube_video_url: https://www.youtube.com/watch?v=ocFRWAOeDCY
 Session ID: HKG18-302
 Session Name: HKG18-302 - Huawei HiAI : Unlock The Future
 Speaker: Zhou Hua
-Track: LEG AI;Ecosystem Day
+Track: LEG AI
 
 
 ## Session Summary
@@ -65,7 +65,7 @@ hkg18
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------
-Keyword: LEG AI;Ecosystem Day
+Keyword: LEG AI
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

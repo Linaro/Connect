@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-319/
 post_format:
 - Video
 session_id: HKG18-319
-session_track: LEG;Ecosystem Day
+session_track: LEG
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92327228
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18319-dr-tao-wang-gcc-step-into-green-computing-cornsortium
 slug: hkg18-319
@@ -36,7 +36,7 @@ youtube_video_url: https://www.youtube.com/watch?v=KMGswEPaf4k
 Session ID: HKG18-319
 Session Name: HKG18-319 - Dr. Tao Wang (GCC): Step into Green Computing Cornsortium
 Speaker: Not Available
-Track: LEG;Ecosystem Day
+Track: LEG
 
 
 ## Session Summary
@@ -53,7 +53,7 @@ hkg18
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------
-Keyword: LEG;Ecosystem Day
+Keyword: LEG
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------
