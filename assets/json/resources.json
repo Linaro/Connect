@@ -8,7 +8,7 @@ permalink: /assets/json/resources.json
             {% assign summary =  post.excerpt | strip_html | smartify  %}
         {% endif %}
         {% if post.event_id %}
-            {% assign event_id  = post.event_id %}
+            {% assign event_id  = post.event_id | upcase %}
         {% else %}
             {% assign event_id = post.categories[0] | upcase %}
         {% endif %}
@@ -29,6 +29,11 @@ permalink: /assets/json/resources.json
         "summary": "{{summary}}",
         "date_published": "{{ post.date }}",
         "identifier": "{{ post.path }}",
+        {% if post.tag %}
+        "type": "{{post.tag}}",
+        {% else %}
+        "type": "session",
+        {% endif %}
         "speakers": [{% for speaker in speakers %}
         {
             {% if speaker.name %}
