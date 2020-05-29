@@ -12,11 +12,11 @@
     {% endif %}
 {% endfor %}
 <div class="row">
-    <div class="col col-12 col-sm-6 no-padding">
+    <div class="col col-12 col-sm-6 no-padding mb-4">
         <div class="video">
             {% if using_json == "True" %}
                 <div id="video-holder" class="using_json" event-id="{{current_connect}}" session-id="{{page.session_id}}">
-                    <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    <img id="video-skeleton" class="img-fluid lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                         data-src="/assets/images/content/video_placeholder.png" />
                     <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="video-embed">
                         <iframe class="hidden-iframe" data-src="" width="100%" height="500" frameborder="0" marginwidth="5"
@@ -27,7 +27,7 @@
                 </div>
             {% elsif page.amazon_s3_video_url %}
                 <div id="video-holder">
-                    <img id="video-skeleton" class="img-responsive lazyload"
+                    <img id="video-skeleton" class="img-fluid lazyload"
                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                         data-src="/assets/images/content/video_placeholder.png" />
                     <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="video-embed">
@@ -37,7 +37,7 @@
                 </div>
             {% elsif page.youtube_video_url and page.youtube_video_url != "None" %}
                 <div id="video-holder">
-                    <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/content/video_placeholder.png" />
+                    <img id="video-skeleton" class="img-fluid lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/content/video_placeholder.png" />
                     <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="video-embed">
                         <iframe class="hidden-iframe" data-src="{{page.youtube_video_url}}" width="100%" height="500" frameborder="0"
                         allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" marginwidth="5"
@@ -46,29 +46,29 @@
                 </div>
             {% else %}
                 <div id="video-holder">
-                    <img id="video-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/content/video_placeholder.png"/>
+                    <img id="video-skeleton" class="img-fluid lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/content/video_placeholder.png"/>
                 </div>
             {% endif %}
         </div>
         {% if using_json == "True" %}
             <div class="s3-link">
-                <a class="btn btn-primary greyed s3-download video using_json">Not Available</a>
+                <a class="btn btn-primary mt-2 greyed s3-download video using_json">Not Available</a>
             </div>
         {% elsif page.amazon_s3_video_url and page.amazon_s3_video_url != "None" and page.amazon_s3_video_url != "n/a" %}
             <div class="s3-link">
-                <a href="{{page.amazon_s3_video_url}}" class="btn btn-primary s3-download">Download Video</a>
+                <a href="{{page.amazon_s3_video_url}}" class="btn btn-primary mt-2 s3-download">Download Video</a>
             </div>
         {% else %}
             <div class="s3-link">
-                <a class="btn btn-primary greyed s3-download">Not Available</a>
+                <a class="btn btn-primary mt-2 greyed s3-download">Not Available</a>
             </div>
         {% endif %}
     </div>
-    <div class="col col-12 col-sm-6 no-padding">
+    <div class="col col-12 col-sm-6 no-padding mb-4">
         <div class="presentation">
             {% if using_json == "True" %}
                 <div id="presentation-holder" class="using_json" event-id="{{current_connect}}" session-id="{{page.session_id}}">
-                    <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    <img id="presentation-skeleton" class="img-fluid lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                         data-src="/assets/images/content/presentation-placeholder.svg" />
                     <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="presentation-embed">
                         <!-- <iframe class="hidden-iframe" data-src="" width="100%" height="500" frameborder="0" marginwidth="5"
@@ -81,7 +81,7 @@
             {% elsif page.amazon_s3_presentation_url and page.amazon_s3_presentation_url != "None" %}
                 {% assign presentation_url = page.amazon_s3_presentation_url %}
                 <div id="presentation-holder">
-                    <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    <img id="presentation-skeleton" class="img-fluid lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                     data-src="/assets/images/content/presentation-placeholder.svg" />
                     <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="presentation-embed">
                         <iframe class="hidden-iframe" data-src="{{presentation_url}}" width="100%" height="500" frameborder="0" marginwidth="5"
@@ -91,7 +91,7 @@
             {% elsif page.slideshare_embed_url and page.slideshare_embed_url != "None" %}
                 {% assign presentation_url = page.slideshare_embed_url %}
                 <div id="presentation-holder">
-                    <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    <img id="presentation-skeleton" class="img-fluid lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                     data-src="/assets/images/content/presentation-placeholder.svg" />
                     <div class="embed-responsive embed-responsive-16by9 hidden-iframe" id="presentation-embed">
                         <iframe class="hidden-iframe" data-src="{{presentation_url}}" width="100%" height="500" frameborder="0" marginwidth="5"
@@ -100,22 +100,22 @@
                 </div>
             {% else %}
                 <div id="presentation-holder">
-                    <img id="presentation-skeleton" class="img-responsive lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    <img id="presentation-skeleton" class="img-fluid lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                     data-src="/assets/images/content/presentation-placeholder.svg" />
                 </div>
             {% endif %}
         </div>
         {% if using_json == "True" %}
             <div class="s3-link">
-                <a class="btn btn-primary greyed s3-download presentation using_json">Not Available</a>
+                <a class="btn btn-primary mt-2 greyed s3-download presentation using_json">Not Available</a>
             </div>
         {% elsif page.amazon_s3_presentation_url and page.amazon_s3_presentation_url != "None" and page.amazon_s3_presentation_url != "n/a" %}
             <div class="s3-link">
-                <a href="{{page.amazon_s3_presentation_url}}" class="btn btn-primary s3-download">Download Presentation</a>
+                <a href="{{page.amazon_s3_presentation_url}}" class="btn btn-primary mt-2 s3-download">Download Presentation</a>
             </div>
         {% else %}
             <div class="s3-link">
-                <a class="btn btn-primary greyed s3-download">Not Available</a>
+                <a class="btn btn-primary mt-2 greyed s3-download">Not Available</a>
             </div>
         {% endif %}
     </div>
