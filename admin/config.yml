@@ -476,7 +476,9 @@ collections:
               - {label: "Section Style", name: "style", widget: "select", options: ['zoom', 'grayscale', 'fixed', 'block_row', 'text-center', 'text-white', ], multiple: true, hint: "Add a style to your section.", required: false}
               - label: "Text Section Content"
                 name: "text_content"
-                widget: text
+                widget: object
+                fields:
+                  - {label: Text, name: text, widget: markdown, required: false}
                 hint: "The text for a text section"
                 required: false
               - label: "Blocks Section Content"
