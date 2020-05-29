@@ -1,19 +1,15 @@
 ---
-title: Bangkok 2016 Resources
+title: Linaro Connect Bangkok 2016
 permalink: /resources/bkk16/
-event_code: BKK16
 layout: flow
+js-package: resources
+jumbotron:
+    title: Linaro Connect Bangkok 2016
+    descriptions: >
+        Linaro's conferences have produced 1000's of hours of video content. You can find it all here!
 flow:
-    - row: container_row
-      sections:
-        # - format: custom_include
-        #   source: blog/post_search.html
-        #   payload:
-        #       name: url
-        #       data: /assets/json/posts.json
-        #       category: Blog
-          # category: News
-        - format: custom_include
-          source: blog/display_latest_posts.html
-          category: bkk16
+    - row: custom_include_row
+      source: resources/search.html
+      payload:
+        category: bkk16
 ---

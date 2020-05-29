@@ -1,19 +1,15 @@
 ---
-title: Linaro Connect USA 2014 Resources
+title: Linaro Connect USA 2014
 permalink: /resources/lcu14/
-event_code: LCU14
 layout: flow
+js-package: resources
+jumbotron:
+    title: Linaro Connect USA 2014
+    descriptions: >
+        Linaro's conferences have produced 1000's of hours of video content. You can find it all here!
 flow:
-    - row: container_row
-      sections:
-        # - format: custom_include
-        #   source: blog/post_search.html
-        #   payload:
-        #       name: url
-        #       data: /assets/json/posts.json
-        #       category: Blog
-          # category: News
-        - format: custom_include
-          source: blog/display_latest_posts.html
-          category: lcu14
+    - row: custom_include_row
+      source: resources/search.html
+      payload:
+        category: lcu14
 ---

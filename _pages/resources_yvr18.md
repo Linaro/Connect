@@ -1,19 +1,15 @@
 ---
-title: Vancouver 2018 Sessions
+title: Linaro Connect Vancouver 2018
 permalink: /resources/yvr18/
-event_code: YVR18
 layout: flow
+js-package: resources
+jumbotron:
+    title: Linaro Connect Vancouver 2018
+    descriptions: >
+        Linaro's conferences have produced 1000's of hours of video content. You can find it all here!
 flow:
-    - row: container_row
-      sections:
-        # - format: custom_include
-        #   source: blog/post_search.html
-        #   payload:
-        #       name: url
-        #       data: /assets/json/posts.json
-        #       category: Blog
-          # category: News
-        - format: custom_include
-          source: blog/display_latest_posts.html
-          category: yvr18
+    - row: custom_include_row
+      source: resources/search.html
+      payload:
+        category: yvr18
 ---

@@ -12,4 +12,6 @@ jumbotron:
 flow:
     - row: custom_include_row
       source: resources/search.html
+    #   payload:
+    #     category: Blog
 ---

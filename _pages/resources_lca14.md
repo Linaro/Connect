@@ -1,19 +1,15 @@
 ---
-title: Linaro Connect Asia 2014 Resources
+title: Linaro Connect Asia 2014
 permalink: /resources/lca14/
-event_code: LCA14
 layout: flow
+js-package: resources
+jumbotron:
+    title: Linaro Connect Asia 2014
+    descriptions: >
+        Linaro's conferences have produced 1000's of hours of video content. You can find it all here!
 flow:
-    - row: container_row
-      sections:
-        # - format: custom_include
-        #   source: blog/post_search.html
-        #   payload:
-        #       name: url
-        #       data: /assets/json/posts.json
-        #       category: Blog
-          # category: News
-        - format: custom_include
-          source: blog/display_latest_posts.html
-          category: lca14
+    - row: custom_include_row
+      source: resources/search.html
+      payload:
+        category: lca14
 ---
