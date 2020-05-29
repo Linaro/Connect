@@ -6,7 +6,7 @@ comments: false
 date: '2018-09-16 09:00:00+00:00'
 image_name: yvr18-interview10.jpg
 image: /assets/images/featured-images/yvr18-interview10.jpg
-layout: resource-post-demo-interview
+layout: resource-post
 session_track: Interview
 title: System76 wants to make a high-end Arm Laptop and Desktop
 youtube_video_url: https://www.youtube.com/watch?v=Fopa1Uoh87w

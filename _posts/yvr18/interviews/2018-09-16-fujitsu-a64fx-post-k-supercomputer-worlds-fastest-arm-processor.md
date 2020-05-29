@@ -6,7 +6,7 @@ comments: false
 date: '2018-09-16 09:00:00+00:00'
 image_name: yvr18-interview9.jpg
 image: /assets/images/featured-images/yvr18-interview9.jpg
-layout: resource-post-demo-interview
+layout: resource-post
 session_track: Interview
 title: "Fujitsu A64FX Post-K Supercomputer: World's Fastest Arm Processor"
 youtube_video_url: https://www.youtube.com/watch?v=fHb_L8Ht-hU

@@ -4,7 +4,7 @@ categories:
 - san19
 date: '2019-10-23 09:00:00+00:00'
 image: /assets/images/featured-images/alwaysai-object-detection-demo.png
-layout: resource-post-demo-interview
+layout: resource-post
 youtube_video_url: https://www.youtube.com/watch?v=TMthUsn5BEo
 session_track: Demo
 tag: demo

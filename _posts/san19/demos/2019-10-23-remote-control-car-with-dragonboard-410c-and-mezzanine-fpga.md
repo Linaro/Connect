@@ -4,7 +4,7 @@ categories:
 - san19
 date: '2019-10-23 09:00:00+00:00'
 image: /assets/images/featured-images/arrow-demo-san19.png
-layout: resource-post-demo-interview
+layout: resource-post
 youtube_video_url: https://www.youtube.com/watch?v=8v0UjPEq8bo
 session_track: Demo
 tag: demo

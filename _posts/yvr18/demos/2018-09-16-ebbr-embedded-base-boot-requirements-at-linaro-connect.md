@@ -6,7 +6,7 @@ comments: false
 date: '2018-09-16 09:00:00+00:00'
 image_name: yvr18-demo11.jpg
 image: /assets/images/featured-images/yvr18-demo11.jpg
-layout: resource-post-demo-interview
+layout: resource-post
 session_track: Demo
 speakers:
 - company: Linaro

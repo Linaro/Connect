@@ -6,7 +6,7 @@ comments: false
 date: '2018-09-16 09:00:00+00:00'
 image_name: yvr18-interview11.jpg
 image: /assets/images/featured-images/yvr18-interview11.jpg
-layout: resource-post-demo-interview
+layout: resource-post
 session_track: Interview
 title: Linux microPlatform, secure IoT updates with Foundries.io and Toradex
 youtube_video_url: https://www.youtube.com/watch?v=EoHEiODdbGk

@@ -6,7 +6,7 @@ comments: false
 date: '2018-09-16 09:00:00+00:00'
 image_name: yvr18-demo3.jpg
 image: /assets/images/featured-images/yvr18-demo3.jpg
-layout: resource-post-demo-interview
+layout: resource-post
 session_track: Demo
 title: Android Treble on Texas Instruments Beagle-X15 at Linaro Connect
 youtube_video_url: https://www.youtube.com/watch?v=22keOnUE0W0

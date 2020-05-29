@@ -6,7 +6,7 @@ date: '2019-10-17 09:00:00+00:00'
 image:
   name: san19-op-tee-moves-into-trusted-firmware-interview.png
 image: /assets/images/featured-images/san19-op-tee-moves-into-trusted-firmware-interview.png
-layout: resource-post-demo-interview
+layout: resource-post
 session_track: Interview
 speakers:
 - company: Linaro
