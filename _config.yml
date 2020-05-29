@@ -38,9 +38,9 @@ plugins:
   - jekyll_picture_tag
   - jekyll-tidy
 collections:
-    authors:
-        output: false
-        permalink: /author/:name/
+    # authors:
+    #     output: false
+    #     permalink: /author/:name/
 liquid:
   error_mode: strict
 
