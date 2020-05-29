@@ -10,6 +10,5 @@ jumbotron:
 flow:
     - row: custom_include_row
       source: resources/search.html
-      payload:
-        category: las16
+      category: las16
 ---

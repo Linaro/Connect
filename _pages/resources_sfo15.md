@@ -10,6 +10,5 @@ jumbotron:
 flow:
     - row: custom_include_row
       source: resources/search.html
-      payload:
-        category: sfo15
+      category: sfo15
 ---
