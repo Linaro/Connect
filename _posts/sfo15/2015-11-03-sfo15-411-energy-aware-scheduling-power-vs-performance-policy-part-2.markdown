@@ -17,7 +17,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-411-energy-aware-scheduling
 post_format:
 - Video
 session_id: SFO15-411
-session_track: Kernel Power Management
+session_track: Power Management
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53031975
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15411-energy-aware-scheduling-power-vs-performance-policy-part-2
 slug: sfo15-411-energy-aware-scheduling-power-vs-performance-policy-part-2

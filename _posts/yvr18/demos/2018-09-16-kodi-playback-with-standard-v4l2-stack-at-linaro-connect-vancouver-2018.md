@@ -10,6 +10,7 @@ image:
   path: /assets/images/featured-images/yvr18-demo10.jpg
 layout: resource-post-demo-interview
 session_track: Demo
+tag: demo
 title: Kodi Playback with Standard V4L2 Stack at Linaro Connect Vancouver 2018
 youtube_video_url: https://www.youtube.com/watch?v=wipB2_6OKus
 tag: demo

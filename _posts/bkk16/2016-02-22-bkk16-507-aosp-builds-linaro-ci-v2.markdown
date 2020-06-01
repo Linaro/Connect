@@ -19,7 +19,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-507-aosp-builds-linaro-ci-v
 post_format:
 - Video
 session_id: None
-session_track: B&B
+session_track: Builds & Baselines
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58207430
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16507-aosp-builds-of-linaro-with-ci-v2
 slug: bkk16-507-aosp-builds-linaro-ci-v2

@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-210-port-forwarding-daemon/
 post_format:
 - Video
 session_id: HKG15-210
-session_track: Validation
+session_track: Automation & CI
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44418115
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15210-port-forwarding-daemon
 slug: hkg15-210-port-forwarding-daemon

@@ -13,7 +13,8 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-500k4/
 post_format:
 - Video
 session_id: BKK16-500K4
-session_track: DEMO
+session_track: Demo
+tag: demo
 slug: bkk16-500k4
 speakers: Joe Bates
 title: 'BKK16-500K4: Demo w/ Lunch'

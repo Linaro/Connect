@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-tr01/
 post_format:
 - Video
 session_id: SFO17-TR01
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79886024
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/philosophy-of-open-source-sfo17tr01
 slug: sfo17-tr01

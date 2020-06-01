@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-311-op-tee-for-beginners-an
 post_format:
 - Video
 session_id: HKG15-311
-session_track: Security, Enterprise Server
+session_track: Security, Enterprise Servers
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44898792
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15311-optee-for-beginners-and-porting-review
 slug: hkg15-311-op-tee-for-beginners-and-porting-review

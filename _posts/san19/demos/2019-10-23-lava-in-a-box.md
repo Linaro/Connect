@@ -10,5 +10,6 @@ layout: resource-post-demo-interview
 youtube_video_url: https://www.youtube.com/watch?v=G9XlAtHsyFM
 session_track: Demo
 tag: demo
+tag: demo
 ---
 A stand alone system demonstrating working LAVA.

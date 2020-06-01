@@ -10,6 +10,7 @@ image:
   path: /assets/images/featured-images/yvr18-demo4.jpg
 layout: resource-post-demo-interview
 session_track: Demo
+tag: demo
 speakers:
 - company: Linaro
   name: Nicolas Pitre

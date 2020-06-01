@@ -28,7 +28,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-303/
 post_format:
 - Video
 session_id: HKG18-303
-session_track: Automotive;Ecosystem Day
+session_track: Autonomous Vehicles
 slideshare_presentation_url: None
 slug: hkg18-303
 speakers: 'Dan Cauchy '

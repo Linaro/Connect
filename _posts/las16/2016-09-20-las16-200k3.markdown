@@ -17,7 +17,7 @@ link: http://connect.linaro.org/resource/las16/las16-200k3/
 post_format:
 - Video
 session_id: LAS16-200K3
-session_track: None
+session_track: Other
 slideshare_presentation_url: None
 slug: las16-200k3
 speakers: Stephane Le Provost
