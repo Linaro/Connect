@@ -21,9 +21,10 @@ flow:
                 Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. To view slides or videos from the keynotes and sessions from previous Connects, please go to our [Resources page](/resources).
   - row: container_row
     sections:
-      - block_section_content:
+      - item_width: 4
+        block_section_content:
           blocks:
-            - background_image: /assets/images/content/bkk19-group-photo.jpg
+            - image: /assets/images/content/bkk19-group-photo.jpg
               buttons:
                 - class: btn-primary
                   icon: fa fa-book
@@ -36,7 +37,7 @@ flow:
                   attend how-to training sessions about the latest Arm software
                   developments.
               title: Collaborate & Learn
-            - background_image: /assets/images/content/bkk19-group-photo.jpg
+            - image: /assets/images/content/bkk19-group-photo.jpg
               buttons:
                 - class: btn-primary
                   icon: fa fa-slideshare
@@ -50,16 +51,15 @@ flow:
                   relevant you'd like to show off, consider participating in
                   Demo Friday.
               title: Contribute
-            - background_image: /assets/images/content/bkk19-group-photo.jpg
+            - image: /assets/images/content/bkk19-group-photo.jpg
               description: >
                   In addition to the regular breaks in the day and informal
                   hacking sessions, there are a range of evening events at which
                   you can network with your peers and get to know the other
                   attendees.
               title: Socialize
-          item_width: 4
         format: block
-        style: text-center text-white
+        style: text-center
     style: block_row
   - row: container_row
     sections:
@@ -79,39 +79,4 @@ flow:
             url: /code-of-conduct/
         format: buttons
         style: text-center
-  - row: full_width_row
-    sections:
-      - format: title
-        title_content:
-          size: h2
-          text: Highlights from SAN19
-      - format: slider
-        slider_content:
-          dots: false
-          items:
-            - title: Linaro Connect San Diego 2019 Highlight 1
-              image: /assets/images/content/san19_highlight_1.jpg
-            - title: Linaro Connect San Diego 2019 Highlight 2
-              image: /assets/images/content/san19_highlight_2.jpg
-            - title: Linaro Connect San Diego 2019 Highlight 3
-              image: /assets/images/content/san19_highlight_3.jpg
-            - title: Linaro Connect San Diego 2019 Highlight 4
-              image: /assets/images/content/san19_highlight_4.jpg
-            - title: Linaro Connect San Diego 2019 Highlight 5
-              image: /assets/images/content/san19_highlight_5.jpg
-            - title: Linaro Connect San Diego 2019 Highlight 6
-              image: /assets/images/content/san19_highlight_6.jpg
-            - title: Linaro Connect San Diego 2019 Highlight 7
-              image: /assets/images/content/san19_highlight_7.jpg
-            - title: Linaro Connect San Diego 2019 Highlight 8
-              image: /assets/images/content/san19_highlight_8.jpg
-            - title: Linaro Connect San Diego 2019 Highlight 9
-              image: /assets/images/content/san19_highlight_9.jpg
-          lg_items: 6
-          lightbox_enabled: true
-          md_items: 4
-          nav: true
-          seconds_per_slide: 5
-          sm_items: 2
-          xs_items: 1
 ---
