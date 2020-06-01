@@ -10,6 +10,7 @@ image:
   path: /assets/images/featured-images/yvr18-demo12.jpg
 layout: resource-post-demo-interview
 session_track: Demo
+tag: demo
 title: KernKonzept Open-Source Automobile Safety
 youtube_video_url: https://www.youtube.com/watch?v=59-tSDl2bMI
 tag: demo

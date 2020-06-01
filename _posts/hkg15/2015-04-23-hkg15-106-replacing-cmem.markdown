@@ -27,7 +27,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-106-replacing-cmem/
 post_format:
 - Video
 session_id: HKG15-106
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44452315
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15106-replacing-cmem-meeting-tis-soc-shared-buffer-allocation-management-and-address-translation-requirements
 slug: hkg15-106-replacing-cmem

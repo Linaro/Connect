@@ -19,7 +19,7 @@ link: http://connect.linaro.org/resource/las16/las16-103/
 post_format:
 - Video
 session_id: LAS16-103
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66323709
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16103-how-we-wound-up-hosting-releaseslinaroorg-on-aarch64
 slug: las16-103

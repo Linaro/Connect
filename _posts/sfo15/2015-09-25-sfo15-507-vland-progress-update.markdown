@@ -23,7 +23,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-507-vland-progress-update/
 post_format:
 - Video
 session_id: None
-session_track: Validation
+session_track: Automation & CI
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53895291
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15507-vland-progress-update
 slug: sfo15-507-vland-progress-update

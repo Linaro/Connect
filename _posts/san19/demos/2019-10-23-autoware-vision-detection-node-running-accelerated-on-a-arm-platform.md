@@ -10,5 +10,6 @@ layout: resource-post-demo-interview
 youtube_video_url: https://www.youtube.com/watch?v=gc6BPj5A1Zo
 session_track: Demo
 tag: demo
+tag: demo
 ---
 Autoware is a self-driving open source project. Arm shows that its vision detection node which is the most compute-intensive nodes can run at real-time frame rates on a low power arm based platform.

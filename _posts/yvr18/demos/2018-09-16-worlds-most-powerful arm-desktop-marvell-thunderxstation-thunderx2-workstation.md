@@ -10,6 +10,7 @@ image:
   path: /assets/images/featured-images/yvr18-demo2.jpg
 layout: resource-post-demo-interview
 session_track: Demo
+tag: demo
 title: "World's Most Powerful Arm Desktop: Marvell ThunderXStation ThunderX2 Workstation"
 youtube_video_url: https://www.youtube.com/watch?v=buIE0tA_IyM
 tag: demo

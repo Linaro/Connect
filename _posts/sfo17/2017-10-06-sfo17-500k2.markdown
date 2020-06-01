@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-500k2/
 post_format:
 - Video
 session_id: SFO17-500K2
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80734068
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/panel-arm-in-open-source-david-rusling-sfo17500k2
 slug: sfo17-500k2

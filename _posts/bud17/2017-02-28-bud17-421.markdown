@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-421/
 post_format:
 - Video
 session_id: BUD17-421
-session_track: None
+session_track: Other
 slideshare_presentation_url: None
 slug: bud17-421
 speakers: None

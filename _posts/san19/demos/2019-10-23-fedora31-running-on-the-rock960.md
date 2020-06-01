@@ -10,5 +10,6 @@ layout: resource-post-demo-interview
 youtube_video_url: https://www.youtube.com/watch?v=HZ4n6bopeg8
 session_track: Demo
 tag: demo
+tag: demo
 ---
 In this demo, we see Fedora31 running on the Rock960 using the open source Panfrost driver to run a fully accelerated desktop based on GNOME.

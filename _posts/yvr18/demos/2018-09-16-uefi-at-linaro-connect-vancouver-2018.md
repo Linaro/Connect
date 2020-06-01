@@ -10,6 +10,7 @@ image:
   path: /assets/images/featured-images/yvr18-demo5.jpg
 layout: resource-post-demo-interview
 session_track: Demo
+tag: demo
 title: UEFI at Linaro Connect Vancouver 2018
 youtube_video_url: https://www.youtube.com/watch?v=KezAjkGGbxI
 tag: demo

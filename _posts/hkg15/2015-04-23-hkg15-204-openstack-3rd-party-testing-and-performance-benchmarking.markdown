@@ -18,7 +18,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-204-openstack-3rd-party-tes
 post_format:
 - Video
 session_id: HKG15-204
-session_track: Enterprise Server
+session_track: Enterprise Servers
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44513965
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15204-openstack-3rd-party-testing-and-performance-benchmarking
 slug: hkg15-204-openstack-3rd-party-testing-and-performance-benchmarking

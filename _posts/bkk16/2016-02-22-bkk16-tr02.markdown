@@ -22,7 +22,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-tr02/
 post_format:
 - Video
 session_id: BKK16-TR02
-session_track: TRAINING
+session_track: Training
 slug: bkk16-tr02
 title: 'BKK16-TR02: Upstreaming 101'
 video_length: 00:00
