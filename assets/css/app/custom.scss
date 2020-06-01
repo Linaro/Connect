@@ -1,3 +1,6 @@
 #wrapper {
     overflow: hidden;
+    .blog_image_header::before {
+        content: "";
+    }
 }
