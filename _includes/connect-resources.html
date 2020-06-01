@@ -12,7 +12,7 @@
     {% endif %}
 {% endfor %}
 <div class="row">
-    <div class="col col-12 col-sm-6 no-padding mb-4">
+    <div class="col col-12 {% if page.amazon_s3_presentation_url and page.amazon_s3_presentation_url != "None" or page.slideshare_embed_url and page.slideshare_embed_url != "None" %}col-sm-6{% endif %} no-padding mb-4">
         <div class="video">
             {% if using_json == "True" %}
                 <div id="video-holder" class="using_json" event-id="{{current_connect}}" session-id="{{page.session_id}}">
@@ -25,7 +25,7 @@
                                 pluginspage="http://www.adobe.com/products/acrobat/readstep2.html"> -->
                     </div>
                 </div>
-            {% elsif page.amazon_s3_video_url %}
+            {% elsif page.amazon_s3_video_url and page.amazon_s3_video_url != "None" %}
                 <div id="video-holder">
                     <img id="video-skeleton" class="img-fluid lazyload"
                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -44,27 +44,15 @@
                             marginheight="5" scrolling="auto" id="youtube-iframe"></iframe>
                     </div>
                 </div>
-            {% else %}
-                <div id="video-holder">
-                    <img id="video-skeleton" class="img-fluid lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/content/video_placeholder.png"/>
-                </div>
             {% endif %}
         </div>
-        {% if using_json == "True" %}
-            <div class="s3-link">
-                <a class="btn btn-primary mt-2 greyed s3-download video using_json">Not Available</a>
-            </div>
-        {% elsif page.amazon_s3_video_url and page.amazon_s3_video_url != "None" and page.amazon_s3_video_url != "n/a" %}
+        {% if page.amazon_s3_video_url and page.amazon_s3_video_url != "None" and page.amazon_s3_video_url != "n/a" %}
             <div class="s3-link">
                 <a href="{{page.amazon_s3_video_url}}" class="btn btn-primary mt-2 s3-download">Download Video</a>
             </div>
-        {% else %}
-            <div class="s3-link">
-                <a class="btn btn-primary mt-2 greyed s3-download">Not Available</a>
-            </div>
         {% endif %}
     </div>
-    <div class="col col-12 col-sm-6 no-padding mb-4">
+    <div class="col col-12 {% if  page.amazon_s3_video_url and page.amazon_s3_video_url != "None" or page.youtube_video_url and page.youtube_video_url != "None" %}col-sm-6{% endif %} no-padding mb-4">
         <div class="presentation">
             {% if using_json == "True" %}
                 <div id="presentation-holder" class="using_json" event-id="{{current_connect}}" session-id="{{page.session_id}}">
@@ -98,30 +86,17 @@
                             marginheight="5" scrolling="auto" id="presentation-iframe"></iframe>
                     </div>
                 </div>
-            {% else %}
-                <div id="presentation-holder">
-                    <img id="presentation-skeleton" class="img-fluid lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                    data-src="/assets/images/content/presentation-placeholder.svg" />
-                </div>
             {% endif %}
         </div>
-        {% if using_json == "True" %}
-            <div class="s3-link">
-                <a class="btn btn-primary mt-2 greyed s3-download presentation using_json">Not Available</a>
-            </div>
-        {% elsif page.amazon_s3_presentation_url and page.amazon_s3_presentation_url != "None" and page.amazon_s3_presentation_url != "n/a" %}
+        {% if page.amazon_s3_presentation_url and page.amazon_s3_presentation_url != "None" and page.amazon_s3_presentation_url != "n/a" %}
             <div class="s3-link">
                 <a href="{{page.amazon_s3_presentation_url}}" class="btn btn-primary mt-2 s3-download">Download Presentation</a>
-            </div>
-        {% else %}
-            <div class="s3-link">
-                <a class="btn btn-primary mt-2 greyed s3-download">Not Available</a>
             </div>
         {% endif %}
     </div>
 </div>
 <div class="row">
-    <div class="col col-12 no-padding">
+    <div class="col col-12-padding">
         {% if using_json == "True" %}
         <div class="list-group" id="session_files">
             <li class="list-group-item active">Session Files</li>
