@@ -22,70 +22,25 @@ flow:
         style: text-center text-white
         title_content:
           size: h2
-          text: Linaro Connect Budapest 2020 Cancelled
+          text: Linaro Connect is going Virtual.
       - format: text
         style: text-center text-white
         text_content:
-          text: |-
-            As a result of the Coronavirus, It is with great regret that we have decided to cancel the upcoming Linaro Connect which was due to be held on 23-27 March 2020 at Corinthia Hotel in Budapest, Hungary. You can read the complete statement [here](https://www.linaro.org/blog/linaro-connect-budapest-2020-cancelled/).
+          text: |
+            Linaro Virtual Connect 2020 will be held September 22-24, 2020 online.
 
-            We had many great technical sessions scheduled and as such, want to do all we can to repurpose as much of the content as possible. We have created Linaro Tech Days - A livestream event of technical sessions on 24 and 25 March 2020.
+            Linaro Connect provides a platform to discuss and learn about the leading software topics, challenges and opportunities in the Arm Ecosystem today. What are the problems, innovations and hands-on knowledge that today’s Arm Developers are working on? From the smallest devices (IoT and embedded) to big data (enterprise), there is an Arm solution. Want to share what you’ve been working on? Submit your proposal today!
+
+            If your submission is accepted, you will receive further instructions with slide deadlines, registration code, and virtual session preparation instructions. Due to a limited amount of session slots available, not all submissions can be selected for Linaro Virtual Connect 2020.
+            do all we can to repurpose as much of the content as possible. We have created Linaro Tech Days - A livestream event of technical sessions on 24 and 25 March 2020.
       - format: buttons
         style: text-center
         buttons_content:
-            - title: Linaro Tech Days Resources
-              url: /resources/ltd20/
+            - title: Submit Proposal
+              url: https://sessionize.com/LVC20/
               style: btn-primary
   - row: container_row
     sections:
-      - format: feature_block
-        #   style: text-center text-white
-        feature_block_content:
-          position: left
-          type: slider
-          slider_content:
-            lightbox_enabled: true
-            seconds_per_slide: 5
-            nav: true
-            dots: false
-            xs_items: 1
-            sm_items: 1
-            md_items: 1
-            lg_items: 1
-            items:
-              - image: /assets/images/content/san19_image_1.jpg
-                title: SAN19 Image 1
-              - image: /assets/images/content/san19_image_2.jpg
-                title: SAN19 Image 2
-              - image: /assets/images/content/san19_image_3.jpg
-                title: SAN19 Image 3
-              - image: /assets/images/content/san19_image_4.jpg
-                title: SAN19 Image 4
-              - image: /assets/images/content/bkk19-sponsor-table.jpg
-                title: Sponsor table at Linaro Connect Bangkok 2019
-              - image: /assets/images/content/bkk19-packet-sponsored-food.jpg
-                title: Packet branded macaron's at Linaro Connect Bangkok 2019
-              - image: /assets/images/content/bkk19-li-gong-keynote.jpg
-                title: >-
-                  Linaro CEO, Li Gong, presenting the opening keynote at Linaro Connect
-                  Bangkok 2019
-              - image: /assets/images/content/bkk19-jacob-smith-packet-keynote.jpg
-                title: >-
-                  Jacob Smith from Packet presenting his keynote at Linaro Connect Bangkok 2019
-              - image: /assets/images/content/bkk19-google-keynote.jpg
-                title: Google's keynote at Linaro Connect Bangkok 2019
-              - image: /assets/images/content/bkk19-chris-royston-arm-developer-talk.jpg
-                title: >-
-                  Chris Royston from Arm talking about the new revision of developer.arm.com
-                  at Linaro Connect Bangkok 2019
-          title: About Linaro Connect
-          text: >
-            Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect.
-          buttons:
-            - title: Learn More
-              url: /about/
-              class: btn-primary
-              icon: fa fa-arrow-right
       - format: feature_block
         feature_block_content:
           position: right
