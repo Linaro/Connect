@@ -5,7 +5,6 @@ description: >-
   place to be to understand the latest developments and work directly with the
   most active engineers and maintainers in the ecosystem.
 permalink: /about/
-# js-package: about
 css-package: about
 layout: flow
 jumbotron:
@@ -17,7 +16,9 @@ flow:
     sections:
       - format: text
         style: text-center
-        text_content: "Map { \"text\": \"Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. To view slides or videos from the keynotes and sessions from previous Connects, please go to our\_[Resources page](https://connect.linaro.org/resources/).\\n\" }"
+        text_content:
+            text: |
+                Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. To view slides or videos from the keynotes and sessions from previous Connects, please go to our [Resources page](/resources).
   - row: container_row
     sections:
       - block_section_content:
@@ -28,43 +29,34 @@ flow:
                   icon: fa fa-book
                   title: View Resources
                   url: /resources/
-              text_content:
-                text: >
+              description: >
                   Collaborate with the engineers _leading_ open source software
                   development in the _Arm ecosystem_, have in-depth technical
                   conversations about real world issues and solutions, and
                   attend how-to training sessions about the latest Arm software
                   developments.
-              title:
-                size: h3
-                text: Collaborate & Learn
+              title: Collaborate & Learn
             - background_image: /assets/images/content/bkk19-group-photo.jpg
               buttons:
                 - class: btn-primary
                   icon: fa fa-slideshare
                   title: Submit a Demo
                   url: /demo-friday/
-              text_content:
-                text: >
+              description: >
                   Bring your knowledge and experience to influence and
                   contribute to Linaro's development work. Linaro Connect is a
                   unique opportunity to put your ideas forward face to face with
                   other contributors and maintainers. If you have something
                   relevant you'd like to show off, consider participating in
                   Demo Friday.
-              title:
-                size: h3
-                text: Contribute
+              title: Contribute
             - background_image: /assets/images/content/bkk19-group-photo.jpg
-              text_content:
-                text: >
+              description: >
                   In addition to the regular breaks in the day and informal
                   hacking sessions, there are a range of evening events at which
                   you can network with your peers and get to know the other
                   attendees.
-              title:
-                size: h3
-                text: Socialize
+              title: Socialize
           item_width: 4
         format: block
         style: text-center text-white
