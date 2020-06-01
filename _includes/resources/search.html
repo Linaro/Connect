@@ -27,7 +27,9 @@
                         {% assign unique_tracks = posts | map: 'session_track' | join: ',' | join: ',' | split: ',' | uniq | sort %}
                         {% for tag in unique_tracks %}
                             {% assign stripped_tag  = tag | strip %}
-                            {% assign actual_unique_tracks = actual_unique_tracks | push: stripped_tag %}
+                            {% if stripped_tag != "" %}
+                                {% assign actual_unique_tracks = actual_unique_tracks | push: stripped_tag %}
+                            {% endif %}
                         {% endfor %}
                         {% assign actual_unique_tracks = actual_unique_tracks | uniq | sort %}
                         <option value="all">All</option>
