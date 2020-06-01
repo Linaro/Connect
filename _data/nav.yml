@@ -10,6 +10,8 @@ brand:
   text: Linaro Connect
   url: /
 pages:
+  - title: About
+    url: /about/
   - active_paths:
       - /resources/
     options:
