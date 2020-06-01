@@ -16,7 +16,7 @@
                         {% assign unique_categories = posts | map: 'categories' | join: ',' | join: ',' | split: ',' | uniq | sort %}
                         <option value="all">All</option>
                         {% for cat in unique_categories %}
-                            <option value="{{cat}}">{{cat | upcase }}</option>
+                            <option value="{{cat}}">{{cat | upcase }} ({{site.categories[cat] | size}})</option>
                         {% endfor %}
                     </select>
                 </div>
@@ -87,7 +87,7 @@
         </div>
    {% endfor %}
    <div class="col col-12 text-center">
-       <a class="btn btn-primary" href="#" id="load_more">
+       <a class="btn btn-lg btn-primary my-4" href="#" id="load_more">
            Load More
        </a>
    </div>
