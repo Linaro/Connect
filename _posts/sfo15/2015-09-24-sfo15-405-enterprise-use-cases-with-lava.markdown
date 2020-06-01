@@ -17,7 +17,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-405-enterprise-use-cases-wi
 post_format:
 - Video
 session_id: None
-session_track: Validation
+session_track: Automation & CI
 slug: sfo15-405-enterprise-use-cases-with-lava
 speakers: Naresh Bhat, Fathi Boudra, Leif Lindholm, Dave Pigott, Neil Williams
 tags:

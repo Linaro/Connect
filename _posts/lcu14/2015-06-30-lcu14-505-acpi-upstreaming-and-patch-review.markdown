@@ -12,7 +12,7 @@ image: /assets/images/featured-images/LCU14-505.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-505-acpi-upstreaming-and-patch-review/
 session_id: LCU14-505
-session_track: Enterprise Server
+session_track: Enterprise Servers
 slug: lcu14-505-acpi-upstreaming-and-patch-review
 speakers: Al Stone, Hanjun Guo, Graeme Gregor
 tags:

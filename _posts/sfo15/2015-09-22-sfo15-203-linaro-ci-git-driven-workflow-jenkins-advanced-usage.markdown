@@ -20,7 +20,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-203-linaro-ci-git-driven-wo
 post_format:
 - Video
 session_id: None
-session_track: Validation
+session_track: Automation & CI
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53570010
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15203-linaro-ci-git-driven-workflow-jenkins-advanced-usage
 slug: sfo15-203-linaro-ci-git-driven-workflow-jenkins-advanced-usage

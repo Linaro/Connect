@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-215/
 post_format:
 - Video
 session_id: BKK16-215
-session_track: B&B
+session_track: Builds & Baselines
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58207166
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16-215-kernelciorg-beyond-boot-testing
 slug: bkk16-215

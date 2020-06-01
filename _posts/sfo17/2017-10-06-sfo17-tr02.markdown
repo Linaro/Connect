@@ -15,7 +15,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-tr02/
 post_format:
 - Video
 session_id: SFO17-TR02
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79886025
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/upstreaming-101-sfo17tr02
 slug: sfo17-tr02

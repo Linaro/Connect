@@ -29,7 +29,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-212/
 post_format:
 - Video
 session_id: HKG18-212
-session_track: Iot, Security
+session_track: IoT, Security
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92320886
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18212-trusted-firmware-m-introduction
 slug: hkg18-212

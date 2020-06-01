@@ -19,7 +19,7 @@ image: /assets/images/featured-images/LCU14-409.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-409-bof-kernel-testing-made-easy/
 session_id: LCU14-409
-session_track: Automation & Validation
+session_track: Automation & CI
 slug: lcu14-409-bof-kernel-testing-made-easy
 speakers: Grant Likely, Gaurav Minocha
 tags:

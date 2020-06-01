@@ -14,7 +14,7 @@ link: http://connect.linaro.org/resource/lcu14/lcu14-300c-ecosystem-day-lightnin
 post_format:
 - Video
 session_id: LCU14-300c
-session_track: None
+session_track: Other
 slideshare_presentation_url: None
 slug: lcu14-300c-ecosystem-day-lightning-talks
 speakers: Andrea Gallo

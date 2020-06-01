@@ -15,7 +15,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-200-openjdk-under-the-hood/
 post_format:
 - Video
 session_id: HKG15-200
-session_track: Enterprise Server
+session_track: Enterprise Servers
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44513730
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15200-openjdk-under-the-hood
 slug: hkg15-200-openjdk-under-the-hood

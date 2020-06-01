@@ -14,7 +14,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-tr4-server-ecosytem-day-par
 post_format:
 - Video
 session_id: None
-session_track: Enterprise Server
+session_track: Enterprise Servers
 slug: sfo15-tr4-server-ecosytem-day-part-4b-centos
 speakers: Andrea Gallo
 tags:

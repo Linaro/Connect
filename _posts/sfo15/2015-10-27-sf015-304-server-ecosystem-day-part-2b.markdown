@@ -15,7 +15,7 @@ link: http://connect.linaro.org/resource/sfo15/sf015-304-server-ecosystem-day-pa
 post_format:
 - Video
 session_id: SFO15-304
-session_track: Enterprise Server
+session_track: Enterprise Servers
 slideshare_presentation_url: None
 slug: sf015-304-server-ecosystem-day-part-2b
 speakers: David Abdurachmanov, Markus Levy

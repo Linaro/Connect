@@ -17,7 +17,7 @@ link: http://connect.linaro.org/resource/bud17/demo/bud17-df10/
 post_format:
 - Video
 session_id: BUD17-DF10
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73552205
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17df10-android-with-opteesvp-and-widevine
 slug: bud17-df10

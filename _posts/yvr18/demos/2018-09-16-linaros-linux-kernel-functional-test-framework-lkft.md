@@ -8,6 +8,7 @@ image_name: yvr18-demo6.jpg
 image: /assets/images/featured-images/yvr18-demo6.jpg
 layout: resource-post
 session_track: Demo
+tag: demo
 speakers:
 - company: Linaro
   name: Naresh Kamboju

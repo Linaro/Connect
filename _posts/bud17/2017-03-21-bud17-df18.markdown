@@ -15,7 +15,7 @@ link: http://connect.linaro.org/resource/bud17/demo/bud17-df18/
 post_format:
 - Video
 session_id: BUD17-DF18
-session_track: Dragonboard 410c/820c
+session_track: 96Boards
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73369189
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/dragonboard-410c820c
 slug: bud17-df18

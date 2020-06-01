@@ -15,7 +15,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-500-lava-101-lava-usage-and
 post_format:
 - Video
 session_id: HKG15-500
-session_track: Validation
+session_track: Automation & CI
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44899285
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15500-lava-101-lava-usage-and-result-management
 slug: hkg15-500-lava-101-lava-usage-and-result-management

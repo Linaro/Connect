@@ -24,7 +24,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-400k1/
 post_format:
 - Video
 session_id: BUD17-400K1
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73368184
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hhvm-on-aarch64-bud17400k1
 slug: bud17-400k1

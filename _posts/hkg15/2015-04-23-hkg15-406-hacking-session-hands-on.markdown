@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-406-hacking-session-hands-o
 post_format:
 - Video
 session_id: HKG15-406
-session_track: Validation
+session_track: Automation & CI
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44515179
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15406-hacking-session-hands-on
 slug: hkg15-406-hacking-session-hands-on

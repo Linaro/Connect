@@ -23,7 +23,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-508/
 post_format:
 - Video
 session_id: BUD17-508
-session_track: None
+session_track: Other
 slideshare_presentation_url: None
 slug: bud17-508
 speakers: Martin Stadtler, Graeme Gregory, Ard Biesheuvel, Engineer, Yang Zhang

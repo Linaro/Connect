@@ -15,7 +15,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-107-acpi-power-management-o
 post_format:
 - Video
 session_id: HKG15-107
-session_track: Power Management, Enterprise Server
+session_track: Power Management, Enterprise Servers
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44412845
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15-107-acpi-power-management-on-arm64-servers-v2
 slug: hkg15-107-acpi-power-management-on-arm64-servers

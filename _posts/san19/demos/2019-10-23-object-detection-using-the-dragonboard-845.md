@@ -8,5 +8,6 @@ layout: resource-post
 youtube_video_url: https://www.youtube.com/watch?v=TMthUsn5BEo
 session_track: Demo
 tag: demo
+tag: demo
 ---
 San Diego-based startup Always AI is developing a platform that will democratize computer vision at the edge. In this demo they showcase object detection using the Dragonboard 845.

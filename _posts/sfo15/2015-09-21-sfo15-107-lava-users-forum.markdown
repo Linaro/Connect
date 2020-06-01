@@ -20,7 +20,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-107-lava-users-forum/
 post_format:
 - Video
 session_id: None
-session_track: Validation
+session_track: Automation & CI
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52946383
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15107-lava-users-forum
 slug: sfo15-107-lava-users-forum

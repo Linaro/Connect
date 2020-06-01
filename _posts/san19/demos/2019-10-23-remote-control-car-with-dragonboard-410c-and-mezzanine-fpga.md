@@ -8,5 +8,6 @@ layout: resource-post
 youtube_video_url: https://www.youtube.com/watch?v=8v0UjPEq8bo
 session_track: Demo
 tag: demo
+tag: demo
 ---
 In this demo, Arrow showcase a remote control car with a Dragonboard 410C and Mezzanine FPGA. The Dragonboard is connecting to an app developed by the Arrow software team. A webcam has also been added so that you can watch the livestream of the remote control cars movements on the app.

@@ -19,7 +19,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-410-lava-lab-addressing-and
 post_format:
 - Video
 session_id: HKG15-410
-session_track: Validation
+session_track: Automation & CI
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44515843
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15410-lava-lab-addressing-and-ipv6
 slug: hkg15-410-lava-lab-addressing-and-ipv6

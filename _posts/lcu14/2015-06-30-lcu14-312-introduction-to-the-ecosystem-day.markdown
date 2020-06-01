@@ -14,7 +14,7 @@ link: http://connect.linaro.org/resource/lcu14/lcu14-312-introduction-to-the-eco
 post_format:
 - Video
 session_id: LCU14-312
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39670372
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-312introduction-to-the-ecosystem-day
 slug: lcu14-312-introduction-to-the-ecosystem-day

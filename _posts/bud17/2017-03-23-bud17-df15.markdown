@@ -15,7 +15,7 @@ link: http://connect.linaro.org/resource/bud17/demo/bud17-df15/
 post_format:
 - Video
 session_id: BUD17-DF15
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73552637
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17df15-optimized-android-n-mr1-49-kernel
 slug: bud17-df15

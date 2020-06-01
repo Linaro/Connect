@@ -19,7 +19,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-505-power-management-intera
 post_format:
 - Video
 session_id: HKG15-505
-session_track: Power, Security
+session_track: Power Management, Security
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44899635
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15-505-power-management-interactions-with-optee-repaired
 slug: hkg15-505-power-management-interactions-with-op-tee-and-trusted-firmware

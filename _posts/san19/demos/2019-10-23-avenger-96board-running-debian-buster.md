@@ -8,5 +8,6 @@ layout: resource-post
 youtube_video_url: https://www.youtube.com/watch?v=XEMhYkNnjQw
 session_track: Demo
 tag: demo
+tag: demo
 ---
 This demo showcases the Avenger 96Board running debian Buster. The following features can be seen in this demo: kernel version 4:19, full apt repository enabled, wayland weston GUI implementation and GUI with GPU HW acceleration.

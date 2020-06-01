@@ -8,6 +8,7 @@ image_name: yvr18-demo9.jpg
 image: /assets/images/featured-images/yvr18-demo9.jpg
 layout: resource-post
 session_track: Demo
+tag: demo
 title: Testing Arm with Arm with LAVA and 96Boards
 youtube_video_url: https://www.youtube.com/watch?v=5Y2TNiJPc40
 tag: demo
