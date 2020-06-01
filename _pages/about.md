@@ -14,13 +14,6 @@ jumbotron:
 flow:
   - row: container_row
     sections:
-      - format: text
-        style: text-center
-        text_content:
-            text: |
-                Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. To view slides or videos from the keynotes and sessions from previous Connects, please go to our [Resources page](/resources).
-  - row: container_row
-    sections:
       - format: feature_block
         feature_block_content:
           position: left
@@ -60,9 +53,8 @@ flow:
                 title: >-
                   Chris Royston from Arm talking about the new revision of developer.arm.com
                   at Linaro Connect Bangkok 2019
-          title: About Linaro Connect
           text: >
-            Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect.
+            Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. To view slides or videos from the keynotes and sessions from previous Connects, please go to our [Resources page](/resources).
           buttons:
             - title: Learn More
               url: /about/
