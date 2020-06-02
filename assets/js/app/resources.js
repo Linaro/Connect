@@ -31,16 +31,19 @@ function delay(callback, ms) {
 function load_more_items() {
   // Get items step
   if (items_to_display.length > current_number_of_items + items_step) {
-    var last_item_index = current_number_of_items - 1 + items_step;
+    var last_item_index = current_number_of_items + items_step - 2;
   } else {
     var last_item_index = items_to_display.length;
+    $("#load_more").show();
   }
   var items_to_show = items_to_display.slice(
-    current_number_of_items - 1,
+    current_number_of_items,
     last_item_index
   );
+  // Update the current number of items displayed.
+  current_number_of_items = last_item_index - 2;
   // Loop over results items_to_show display
-  for (var i = 0; i < items_to_show.length; i++) {
+  for (var i = 0; i <= items_to_show.length; i++) {
     var identifier = items_to_show[i]["identifier"];
     // Set display:block style for all results
     $('*[data-identifier="' + identifier + '"]').css("display", "block");
@@ -92,14 +95,53 @@ function update_cols() {
     } else {
       $("#load_more").hide();
       var loop_limit = items_to_display.length;
+      current_number_of_items = loop_limit;
     }
     // Loop over results to display
-    for (var i = 0; i < loop_limit.length; i++) {
+    for (var i = 0; i < loop_limit; i++) {
       var identifier = items_to_display[i]["identifier"];
       // Set display:block style for all results
       $('*[data-identifier="' + identifier + '"]').css("display", "block");
     }
   }
+}
+function update_select_menus() {
+  // Loop over each select menu option
+  $("#trackSelect > option").each(function (index, element) {
+    let track_val = element.value;
+    let track_count = 0;
+    if (element.value == "all") {
+      track_count = items_to_display.length;
+    } else {
+      for (var i = 0; i < items_to_display.length; i++) {
+        if (items_to_display[i]["tracks"].includes(track_val)) {
+          track_count += 1;
+        }
+      }
+    }
+    if (track_count == 0) {
+      $(element).css("display", "none");
+    } else {
+      $(element).css("display", "block");
+      element.text = element.value + " (" + track_count.toString() + ")";
+    }
+  });
+  $("#typeSelect > option").each(function (index, element) {
+    let select_val = element.value;
+    let select_option_count = 0;
+    if (element.value == "all") {
+      select_option_count = items_to_display.length;
+    } else {
+      for (var i = 0; i < items_to_display.length; i++) {
+        if (items_to_display[i]["type"] == select_val) {
+          select_option_count += 1;
+        }
+      }
+    }
+    element.text =
+      element.value.charAt(0).toUpperCase() + element.value.slice(1);
+    +" (" + select_option_count.toString() + ")";
+  });
 }
 $(document).ready(function () {
   // Fetch the local JSON output for all resources
@@ -107,8 +149,20 @@ $(document).ready(function () {
     url: "/assets/json/resources.json",
     type: "GET",
   }).done((data) => {
+    // Store the date received separately to show all again.
     resources_json = data;
-    console.log(resources_json);
+    if ($("#resourcesSearchAndFilter").data("event") != "all") {
+      resources_json = resources_json.filter((item, index) => {
+        return (
+          item.event_id ==
+          $("#resourcesSearchAndFilter").data("event").toUpperCase()
+        );
+      });
+    }
+    // Set the items_to_display to the initial JSON results.
+    items_to_display = resources_json;
+    // Update the select menus to include the counts
+    update_select_menus();
     // Set up the Fuse instance
     const fuse = new Fuse(resources_json, {
       keys: ["tracks", "event_id", "title", "summary", "speakers.name"],
@@ -154,6 +208,7 @@ $(document).ready(function () {
     $("#eventSelect").on("change", function () {
       current_event = this.value;
       update_cols();
+      update_select_menus();
     });
   });
 });
