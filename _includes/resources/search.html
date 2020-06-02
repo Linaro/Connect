@@ -10,16 +10,18 @@
                 <div class="form-group mb-2 w-100">
                     <input type="text" class="form-control mr-sm-2 w-100" id="searchQuery" placeholder="Enter your search query...">
                 </div>
+                {% unless include.object.category %}
                 <div class="form-group">
                     <label class="mr-sm-2" for="exampleFormControlSelect1">Event</label>
                     <select class="form-control" id="eventSelect">
                         {% assign unique_categories = posts | map: 'categories' | join: ',' | join: ',' | split: ',' | uniq | sort %}
-                        <option value="all">All</option>
+                        <option value="all">All ({{posts | size}})</option>
                         {% for cat in unique_categories %}
                             <option value="{{cat}}">{{cat | upcase }} ({{site.categories[cat] | size}})</option>
                         {% endfor %}
                     </select>
                 </div>
+                {% endunless %}
                 <div class="form-group">
                     <label class="mx-sm-2" for="exampleFormControlSelect1">Topics</label>
                     <select class="form-control" id="trackSelect">
