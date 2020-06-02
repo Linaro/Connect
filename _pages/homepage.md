@@ -38,25 +38,25 @@ flow:
             - title: Submit Proposal
               url: /cfp/
               style: btn-primary
-  - row: container_row
-    sections:
-      - format: feature_block
-        feature_block_content:
-          position: right
-          type: image
-          image_content_path: /assets/images/content/sponsor-cloud-image.png
-          title: Sponsor Linaro Connect
-          text: >
-            Hundreds of the world’s best Linux on Arm developers come to Linaro Connect each time because they know it is the leading place to meet with the global community and to learn about what is going on in the industry. Sponsorship of the event puts your brand in front of all the event attendees – both the 400+ on-site and all those who participate remotely, as well as the thousands who view the website and social media before, during and after the event.
-          buttons:
-            - title: Learn More
-              url: /sponsors/
-              class: btn-primary
-              icon: fa fa-arrow-right
-            - title: Download Prospectus
-              url: https://linaro.co/LinaroConnectSponsorshipProspectus
-              class: btn-primary
-              icon: fa fa-download
+#   - row: container_row
+#     sections:
+#       - format: feature_block
+#         feature_block_content:
+#           position: right
+#           type: image
+#           image_content_path: /assets/images/content/sponsor-cloud-image.png
+#           title: Sponsor Linaro Connect
+#           text: >
+#             Hundreds of the world’s best Linux on Arm developers come to Linaro Connect each time because they know it is the leading place to meet with the global community and to learn about what is going on in the industry. Sponsorship of the event puts your brand in front of all the event attendees – both the 400+ on-site and all those who participate remotely, as well as the thousands who view the website and social media before, during and after the event.
+#           buttons:
+#             - title: Learn More
+#               url: /sponsors/
+#               class: btn-primary
+#               icon: fa fa-arrow-right
+#             - title: Download Prospectus
+#               url: https://linaro.co/LinaroConnectSponsorshipProspectus
+#               class: btn-primary
+#               icon: fa fa-download
   - row: container_row
     style: block_row
     #   background_image: /assets/images/content/bkk19-group-photo.jpg
