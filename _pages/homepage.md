@@ -27,17 +27,16 @@ flow:
         style: text-center text-white
         text_content:
           text: |
-            Linaro Virtual Connect 2020 will be held September 22-24, 2020 online.
+            As a result of Covid-19 and concern for the safety of all attendees, we have cancelled all Linaro Connect events scheduled for 2020.
 
-            Linaro Connect provides a platform to discuss and learn about the leading software topics, challenges and opportunities in the Arm Ecosystem today. What are the problems, innovations and hands-on knowledge that today’s Arm Developers are working on? From the smallest devices (IoT and embedded) to big data (enterprise), there is an Arm solution. Want to share what you’ve been working on? Submit your proposal today!
+            We will be hosting Linaro Virtual Connect September 22-24, 2020 online. This event will be a 3 day series of technical keynotes, sessions, and more. Further details will be announced in late June 2020. The Call for Proposals is now open for those who are interested in presenting a session at Linaro Virtual Connect in September.
 
-            If your submission is accepted, you will receive further instructions with slide deadlines, registration code, and virtual session preparation instructions. Due to a limited amount of session slots available, not all submissions can be selected for Linaro Virtual Connect 2020.
-            do all we can to repurpose as much of the content as possible. We have created Linaro Tech Days - A livestream event of technical sessions on 24 and 25 March 2020.
+            The next in-person event is planned for March 2021 in Budapest, Hungary.
       - format: buttons
         style: text-center
         buttons_content:
             - title: Submit Proposal
-              url: https://sessionize.com/LVC20/
+              url: /cfp/
               style: btn-primary
   - row: container_row
     sections:
