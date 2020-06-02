@@ -3,7 +3,7 @@
 {% else %}
     {% assign posts = site.posts %}
 {% endif %}
-<div class="row" id="resourcesSearchAndFilter">
+<div class="row" id="resourcesSearchAndFilter" data-event="{% if include.object.category %}{{include.object.category}}{% else %}all{% endif%}">
     <div class="container">
         <div class="col col-12">
             <form class="form-inline" onsubmit="event.preventDefault();">
