@@ -9,10 +9,8 @@ date: 2017-02-28 12:05:47
 excerpt: A session in which we will specifically discuss the next steps and group
   interactions required in order to deliver a working (OP)NFV solution in 2017.
 featured_image_file_name: BUD17-401.jpg
-image:
-  featured: true
-  file_name: BUD17-401.jpg
-  path: /assets/images/featured-images/BUD17-401.jpg
+image_name: BUD17-401.jpg
+image: /assets/images/featured-images/BUD17-401.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-401/
 post_format:
@@ -43,7 +41,7 @@ A session in which we will specifically discuss the next steps and group interac
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-401/
-Presentation: 
+Presentation:
 Video: https://youtu.be/W_9MYw8bf5Q
  ---------------------------------------------------
 

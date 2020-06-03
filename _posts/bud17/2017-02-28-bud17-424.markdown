@@ -5,10 +5,8 @@ categories:
 comments: false
 date: 2017-02-28 12:05:53
 featured_image_file_name: BUD17-424.jpg
-image:
-  featured: true
-  file_name: BUD17-424.jpg
-  path: /assets/images/featured-images/BUD17-424.jpg
+image_name: BUD17-424.jpg
+image: /assets/images/featured-images/BUD17-424.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-424/
 post_format:

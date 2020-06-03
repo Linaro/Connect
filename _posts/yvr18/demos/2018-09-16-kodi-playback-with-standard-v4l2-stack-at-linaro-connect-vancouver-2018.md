@@ -4,11 +4,9 @@ categories:
 - yvr18
 comments: false
 date: '2018-09-16 09:00:00+00:00'
-image:
-  featured: true
-  file_name: yvr18-demo10.jpg
-  path: /assets/images/featured-images/yvr18-demo10.jpg
-layout: resource-post-demo-interview
+image_name: yvr18-demo10.jpg
+image: /assets/images/featured-images/yvr18-demo10.jpg
+layout: resource-post
 session_track: Demo
 tag: demo
 title: Kodi Playback with Standard V4L2 Stack at Linaro Connect Vancouver 2018

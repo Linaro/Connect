@@ -13,10 +13,8 @@ excerpt: In STMicroelectronics we developed a set of tools for an efficient expl
   framework (KPtrace, System Trace and Profiling Tool Kit) and a stepwise upstreaming
   plan.
 featured_image_file_name: BUD17-324.jpg
-image:
-  featured: true
-  file_name: BUD17-324.jpg
-  path: /assets/images/featured-images/BUD17-324.jpg
+image_name: BUD17-324.jpg
+image: /assets/images/featured-images/BUD17-324.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-324/
 post_format:
@@ -39,8 +37,8 @@ youtube_video_url: https://youtu.be/VE7TwbSsVB4
 
 "Session ID: BUD17-324
 Session Name: System Trace Tools - BUD17-324
-Speaker: Serge De-Paoli 
-Track: 
+Speaker: Serge De-Paoli
+Track:
 
 
 ★ Session Summary ★
@@ -48,7 +46,7 @@ In STMicroelectronics we developed a set of tools for an efficient exploitation 
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-324/
-Presentation: 
+Presentation:
 Video: https://youtu.be/VE7TwbSsVB4
  ---------------------------------------------------
 

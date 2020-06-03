@@ -8,10 +8,8 @@ date: 2015-06-30 17:11:12
 excerpt: "FLOSS - Free / Libre Open Source Software [1] \n\nWhat _is_ \"the community\"?\nWhat
   do they want from you?\nWhat do you get in return?\n[1] http://en.wikipedia.org/wiki/Free_and_open-source_software"
 featured_image_name: LCU14-112.jpg
-image:
-  featured: true
-  file_name: LCU14-112.jpg
-  path: /assets/images/featured-images/LCU14-112.jpg
+image_name: LCU14-112.jpg
+image: /assets/images/featured-images/LCU14-112.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-112-the-philosophy-of-open-source-development/
 post_format:

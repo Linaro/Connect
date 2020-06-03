@@ -11,10 +11,7 @@ excerpt: 'The linux kernel has two distinct ways of managing idle. The CPUidle f
   with a hierarchical structure, we are exploring extending runtime PM and genpd to
   CPUs so there is a unified framework for managing idle across all devices.'
 featured_image_name: BKK16-410.jpg
-image:
-  featured: true
-  file_name: BKK16-410.jpg
-  path: /assets/images/featured-images/BKK16-410.jpg
+image: /assets/images/featured-images/BKK16-410.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-410/
 post_format:

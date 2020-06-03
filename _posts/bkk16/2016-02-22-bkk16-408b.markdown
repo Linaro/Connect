@@ -14,10 +14,7 @@ excerpt: "This talk will provide an overview of typical Data Analysis tools and 
   Supervised Machine Learning algorithms including K-Nearest Neighbors, Linear & Logistic
   Regression, Bayesian Classifiers, Decision Trees, Bagging and Random Forests."
 featured_image_name: BKK16-408B.jpg
-image:
-  featured: true
-  file_name: BKK16-408B.jpg
-  path: /assets/images/featured-images/BKK16-408B.jpg
+image: /assets/images/featured-images/BKK16-408B.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-408b/
 post_format:

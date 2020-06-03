@@ -14,10 +14,8 @@ excerpt: Writing test cases for virtualization is always a daunting task because
   talk also covers our experience of integrating Avocado with Jenkins CI tools on
   Red Hat's internal testing infrastructure.
 featured_image_name: SFO17-502.jpg
-image:
-  featured: true
-  file_name: SFO17-502.jpg
-  path: /assets/images/featured-images/SFO17-502.jpg
+image_name: SFO17-502.jpg
+image: /assets/images/featured-images/SFO17-502.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-502/
 post_format:

@@ -10,10 +10,8 @@ excerpt: Hyperscaling applications can be difficult, but Kubernetes removes much
   the complexity. Learn how to take a simple web application, and create a highly
   available, horizontally scalable service with Kubernetes running on an Arm cluster.
 featured_image_file_name: BUD17-315.jpg
-image:
-  featured: true
-  file_name: BUD17-315.jpg
-  path: /assets/images/featured-images/BUD17-315.jpg
+image_name: BUD17-315.jpg
+image: /assets/images/featured-images/BUD17-315.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-315/
 post_format:

@@ -7,10 +7,8 @@ categories:
 comments: false
 date: 2015-09-25 00:00:00
 featured_image_name: SFO15500K3GuestKeynoteSecurityPanel.jpg
-image:
-  featured: true
-  file_name: SFO15500K3GuestKeynoteSecurityPanel.jpg
-  path: /assets/images/featured-images/SFO15500K3GuestKeynoteSecurityPanel.jpg
+image_name: SFO15500K3GuestKeynoteSecurityPanel.jpg
+image: /assets/images/featured-images/SFO15500K3GuestKeynoteSecurityPanel.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-500k3-guest-keynote-security-panel/
 post_format:
@@ -38,16 +36,16 @@ Date: September 25, 2015
 ★ Session Description ★
 Panel discussion
 
-★ Resources ★ 
-Google Event to Watch Live:  https://plus.google.com/u/1/events/coasmjfi28m5t0lo53qfuoghq18 
-Video: 
+★ Resources ★
+Google Event to Watch Live:  https://plus.google.com/u/1/events/coasmjfi28m5t0lo53qfuoghq18
+Video:
 Presentation:
-Etherpad: pad.linaro.org/p/sfo15-500k3 
-Pathable: https://sfo15.pathable.com/meetings/303103      
+Etherpad: pad.linaro.org/p/sfo15-500k3
+Pathable: https://sfo15.pathable.com/meetings/303103
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

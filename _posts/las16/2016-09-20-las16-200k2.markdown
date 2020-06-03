@@ -28,10 +28,8 @@ excerpt: "**Title: Corporate Open Source Fail**\n \n What makes companies with g
   American, Hispanic/Latin@, American Indian, Alaska Native, Native Hawaiian, or Pacific
   Islander."
 featured_image_name: LAS16-200K2.png
-image:
-  featured: true
-  file_name: LAS16-200K2.png
-  path: /assets/images/featured-images/LAS16-200K2.png
+image_name: LAS16-200K2.png
+image: /assets/images/featured-images/LAS16-200K2.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-200k2/
 post_format:

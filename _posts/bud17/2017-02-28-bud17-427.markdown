@@ -8,10 +8,8 @@ comments: false
 date: 2017-02-28 12:05:56
 excerpt: A discussion on the needs of Arm based Automotive software
 featured_image_file_name: BUD17-427.jpg
-image:
-  featured: true
-  file_name: BUD17-427.jpg
-  path: /assets/images/featured-images/BUD17-427.jpg
+image_name: BUD17-427.jpg
+image: /assets/images/featured-images/BUD17-427.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-427/
 post_format:
@@ -35,7 +33,7 @@ youtube_video_url: https://youtu.be/nEk472A7otU
 "Session ID: BUD17-427
 Session Name: OCTO BoF: Automotive - BUD17-427
 Speaker: David Rusling, Mark Hambleton
-Track: 
+Track:
 
 
 ★ Session Summary ★
@@ -43,7 +41,7 @@ A discussion on the needs of Arm based Automotive software
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-427/
-Presentation: 
+Presentation:
 Video: https://youtu.be/nEk472A7otU
  ---------------------------------------------------
 

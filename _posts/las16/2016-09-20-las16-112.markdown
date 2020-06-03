@@ -15,10 +15,8 @@ excerpt: "Arm mbed OS is an open source embedded operating system designed\nspec
   choice of toolchains including a complete command line build management and configuration
   tool mbed CLI, industry standard desktop IDEs or Arm\u2019s free online IDE."
 featured_image_name: LAS16-112.png
-image:
-  featured: true
-  file_name: LAS16-112.png
-  path: /assets/images/featured-images/LAS16-112.png
+image_name: LAS16-112.png
+image: /assets/images/featured-images/LAS16-112.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-112/
 post_format:

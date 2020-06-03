@@ -7,10 +7,8 @@ categories:
 comments: true
 date: 2015-06-30 17:07:53
 featured_image_name: LCU14-405.jpg
-image:
-  featured: true
-  file_name: LCU14-405.jpg
-  path: /assets/images/featured-images/LCU14-405.jpg
+image_name: LCU14-405.jpg
+image: /assets/images/featured-images/LCU14-405.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-405-emacs-users-bofs/
 session_id: LCU14-405

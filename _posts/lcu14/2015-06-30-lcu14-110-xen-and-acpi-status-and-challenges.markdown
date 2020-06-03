@@ -17,10 +17,8 @@ excerpt: In this development and hacking session, we will be working out develop
   of using the _STA methods to override hardware descriptors consumed or modified
   by Dom0.
 featured_image_name: LCU14-110.jpg
-image:
-  featured: true
-  file_name: LCU14-110.jpg
-  path: /assets/images/featured-images/LCU14-110.jpg
+image_name: LCU14-110.jpg
+image: /assets/images/featured-images/LCU14-110.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-110-xen-and-acpi-status-and-challenges/
 post_format:

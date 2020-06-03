@@ -7,7 +7,7 @@ speaker:
         Zane Wei is a Senior Director of Strategic Business Development Department under Intelligent Computing BU,responsible for creating an open ecosystem and joint solutions for all Huawei servers.He had served several senior roles in Huawei since joining Huawei in 1999,with over 20 years of experience in the IT industry,he has filed some PCT patents and strived for development of heterogeneous computing architecture.He earned MBA degree in Hongkong University of Science and Technology(HKUST) and received bachelor degree from University of Science and Technology of China(UESTC) in 1998.
 
 image:
-    path: /assets/images/speakers/bkk19/keynotes/zane-wei.jpg
+  image: /assets/images/speakers/bkk19/keynotes/zane-wei.jpg
     featured: true
 event: BKK19
 categories: Keynotes

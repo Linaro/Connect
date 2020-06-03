@@ -17,10 +17,8 @@ excerpt: "HHVM is a high-performance, open source PHP execution engine developed
   PHP frameworks like WordPress. Join us for an overview of HHVM, a quick demo, and
   some thoughts on where optimization efforts can go from here."
 featured_image_file_name: BUD17-400K1.jpg
-image:
-  featured: true
-  file_name: BUD17-400K1.jpg
-  path: /assets/images/featured-images/BUD17-400K1.jpg
+image_name: BUD17-400K1.jpg
+image: /assets/images/featured-images/BUD17-400K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-400k1/
 post_format:

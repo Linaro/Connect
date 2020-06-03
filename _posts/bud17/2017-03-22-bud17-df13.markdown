@@ -8,10 +8,8 @@ comments: false
 date: 2017-03-22 11:25:32
 excerpt: Armv8-M secure debug demo
 featured_image_file_name: BUD17-DF13.jpg
-image:
-  featured: true
-  file_name: BUD17-DF13.jpg
-  path: /assets/images/featured-images/BUD17-DF13.jpg
+image_name: BUD17-DF13.jpg
+image: /assets/images/featured-images/BUD17-DF13.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df13/
 post_format:
@@ -30,14 +28,14 @@ wordpress_id: 5677
 youtube_video_url: https://www.youtube.com/watch?v=9HgMuRMf0IU
 ---
 
-"The new generation for Arm Cortex-M23 and Cortex-M33, the first in the new 
-family of Armv8-M architecture, introduce optimized TrustZone security features 
+"The new generation for Arm Cortex-M23 and Cortex-M33, the first in the new
+family of Armv8-M architecture, introduce optimized TrustZone security features
 into small devices. The CoreLink SSE-200 subsystem combines all of the latest Arm IP to provide a foundation for building a secure IoT node. Those new processors and subsystems make it easier for developers to create secure and energy efficient IoT solutions for the interconnected IoT world.
-This demo shows a secret code, changing randomly every 10 seconds, via a 
+This demo shows a secret code, changing randomly every 10 seconds, via a
 secure LCD peripheral. A switch, configured as a secure peripheral, allows
-to change debug authentication permissions to grant or deny access to the secure space via the debugger. 
-The background of this demo shows the secure and non-secure code and memory partition, non-secure and secure code interaction via secure gateways, and the debug authentication feature of the processor to protect a secure space from the non authorized JTAG/debug access. 
-The audience is going to learn about the CoreLink SSE-200 secure features and 
+to change debug authentication permissions to grant or deny access to the secure space via the debugger.
+The background of this demo shows the secure and non-secure code and memory partition, non-secure and secure code interaction via secure gateways, and the debug authentication feature of the processor to protect a secure space from the non authorized JTAG/debug access.
+The audience is going to learn about the CoreLink SSE-200 secure features and
 how to build secure applications on it. In addition, the audience is going to see in action how the secure code and memory is protected against the debugger."
 
 Team: LITE

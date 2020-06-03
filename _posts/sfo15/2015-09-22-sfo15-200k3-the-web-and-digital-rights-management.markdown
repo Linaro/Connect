@@ -20,10 +20,8 @@ excerpt: "John\u2019s bio: John Simmons is the visionary who inspired Microsoft 
   EME without the use of proprietary software. At present John is the Media Platform
   Architect for Microsoft\u2019s Operating System Group."
 featured_image_name: SFO15200K3TheWebandDigitalRightsManagement.jpg
-image:
-  featured: true
-  file_name: SFO15200K3TheWebandDigitalRightsManagement.jpg
-  path: /assets/images/featured-images/SFO15200K3TheWebandDigitalRightsManagement.jpg
+image_name: SFO15200K3TheWebandDigitalRightsManagement.jpg
+image: /assets/images/featured-images/SFO15200K3TheWebandDigitalRightsManagement.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-200k3-the-web-and-digital-rights-management/
 post_format:
@@ -55,16 +53,16 @@ The introduction in 2011 of a global standard for DRM-interoperable encoding and
 This talk will cover the technical underpinnings of this highly disruptive, strategic inflection point, the interplay between open source and enhanced content protection and the implications for both commercial video and the Internet.
 John’s bio: John Simmons is the visionary who inspired Microsoft to play a leadership role in the creation of international media standards. In a 2008 internal memo John envisioned a RESTful, interoperable commercial media stack, predicting its impact on the Web. His efforts resulted in Microsoft publishing specs for DRM-interoperable encoding and adaptive streaming, which in turn culminated in the ISO MPEG standards for Common Encryption and Dynamic Adaptive Streaming over HTTP (DASH). He led the creation of an OAuth 2.0 TV Everywhere authorization standard, initiated the Google-Microsoft-Netflix contributions to W3C for HTML5 Encrypted Media Extensions (EME) and Media Source Extensions (MSE) and authored an open spec to enable embedded browsers to implement EME without the use of proprietary software. At present John is the Media Platform Architect for Microsoft’s Operating System Group.
 
-★ Resources ★ 
+★ Resources ★
 Google Event to Watch Live:  https://plus.google.com/u/1/events/cpd8iven7d60tidsvd7ntcnjl4k
-Pathable: https://sfo15.pathable.com/meetings/302830 
+Pathable: https://sfo15.pathable.com/meetings/302830
 Video: https://www.youtube.com/watch?v=14YnkW6ZsI0
 Presentation:
-Etherpad:  pad.linaro.org/p/sfo15-200k3 
+Etherpad:  pad.linaro.org/p/sfo15-200k3
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

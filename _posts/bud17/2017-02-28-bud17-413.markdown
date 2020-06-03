@@ -10,10 +10,8 @@ excerpt: A summary of important changes in UEFI land in general, especially in t
   area of open source platform code, and how Linaro intends to deal with Reference
   Platform firmware releases in the future.
 featured_image_file_name: BUD17-413.jpg
-image:
-  featured: true
-  file_name: BUD17-413.jpg
-  path: /assets/images/featured-images/BUD17-413.jpg
+image_name: BUD17-413.jpg
+image: /assets/images/featured-images/BUD17-413.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-413/
 post_format:

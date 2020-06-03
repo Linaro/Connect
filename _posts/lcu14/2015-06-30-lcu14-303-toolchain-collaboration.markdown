@@ -11,10 +11,8 @@ excerpt: 'This session will be working through the planned open source contribut
   plans for the next year. Projects to be included are: gcc, llvm, glibc, gold, gdb,
   binutils.'
 featured_image_name: LCU14-303.jpg
-image:
-  featured: true
-  file_name: LCU14-303.jpg
-  path: /assets/images/featured-images/LCU14-303.jpg
+image_name: LCU14-303.jpg
+image: /assets/images/featured-images/LCU14-303.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-303-toolchain-collaboration/
 post_format:

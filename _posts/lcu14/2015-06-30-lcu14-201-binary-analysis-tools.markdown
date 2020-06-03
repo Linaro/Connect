@@ -10,10 +10,8 @@ excerpt: 'This session will be a presentation about currently available binary a
   tools, including: Sanitizers, perf (a performance counter and tracing profiling
   tool), record/replay (a reverse debugging facility in GDB) and prelink rootfs.'
 featured_image_name: LCU14-201.jpg
-image:
-  featured: true
-  file_name: LCU14-201.jpg
-  path: /assets/images/featured-images/LCU14-201.jpg
+image_name: LCU14-201.jpg
+image: /assets/images/featured-images/LCU14-201.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-201-binary-analysis-tools/
 post_format:

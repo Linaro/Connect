@@ -14,10 +14,8 @@ excerpt: Discuss plans in the PM community to improve genpd, runtime PM and cous
   about dynamic power management for the whole SoC and would like to discuss problems
   faced currently.
 featured_image_name: SFO15109SoCidling.jpg
-image:
-  featured: true
-  file_name: SFO15109SoCidling.jpg
-  path: /assets/images/featured-images/SFO15109SoCidling.jpg
+image_name: SFO15109SoCidling.jpg
+image: /assets/images/featured-images/SFO15109SoCidling.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-109-soc-idling/
 post_format:
@@ -46,15 +44,15 @@ Date: September 21, 2015
 ★ Session Description ★
 Discuss plans in the PM community to improve genpd, runtime PM and cousins that will lead to better dynamic power management of peripherals, shared resources (e.g. caches) and reduce platform-specific code. Please attend if you want to learn about dynamic power management for the whole SoC and would like to discuss problems faced currently.
 
-★ Resources ★ 
+★ Resources ★
 Video: https://www.youtube.com/watch?v=bmU_3Z90NH0
 Presentation:  http://www.slideshare.net/linaroorg/sfo15109-soc-idling
 Etherpad: pad.linaro.org/p/sfo15-109
-Pathable: https://sfo15.pathable.com/meetings/302659      
+Pathable: https://sfo15.pathable.com/meetings/302659
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

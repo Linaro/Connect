@@ -8,10 +8,7 @@ excerpt: "As ODP enters its third year we are seeing increased maturity in its c
   since SFO15 and discusses what's ahead for ODP in 2016 as it enters production
   use."
 featured_image_name: BKK16-214.jpg
-image:
-  featured: true
-  file_name: BKK16-214.jpg
-  path: /assets/images/featured-images/BKK16-214.jpg
+image: /assets/images/featured-images/BKK16-214.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-214/
 post_format:

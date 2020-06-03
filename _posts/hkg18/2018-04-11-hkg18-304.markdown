@@ -13,10 +13,8 @@ excerpt: Current hardware set on AI application have been dominated by GPGPU. We
   server with superior power efficiency to existing hardware set. The scalability
   of this AI server will make AI inference process similar to Index searching.
 featured_image_name: HKG18-304.png
-image:
-  featured: true
-  file_name: HKG18-304.png
-  path: /assets/images/featured-images/HKG18-304.png
+image_name: HKG18-304.png
+image: /assets/images/featured-images/HKG18-304.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-304/
 post_format:
@@ -37,7 +35,7 @@ youtube_video_url: https://www.youtube.com/watch?v=HhJAISa2ap0
 Session ID: HKG18-304
 Session Name: HKG18-304 - Scalable AI server
 Speaker: Shuichi Yamane
-Track: LEG AI;Ecosystem Day
+Track: LEG AI
 
 
 ## Session Summary
@@ -50,11 +48,11 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-304.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------
-Keyword: LEG AI;Ecosystem Day
+Keyword: LEG AI
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

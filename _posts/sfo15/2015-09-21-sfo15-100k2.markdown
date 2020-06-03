@@ -9,10 +9,8 @@ categories:
 comments: false
 date: 2015-09-21 00:00:00
 featured_image_name: SFO15100K2GuestKeynoteSimonSegarsARMCEO.jpg
-image:
-  featured: true
-  file_name: SFO15100K2GuestKeynoteSimonSegarsARMCEO.jpg
-  path: /assets/images/featured-images/SFO15100K2GuestKeynoteSimonSegarsARMCEO.jpg
+image_name: SFO15100K2GuestKeynoteSimonSegarsARMCEO.jpg
+image: /assets/images/featured-images/SFO15100K2GuestKeynoteSimonSegarsARMCEO.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-100k2/
 post_format:

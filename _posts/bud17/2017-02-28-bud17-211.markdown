@@ -10,10 +10,8 @@ excerpt: This session will detail and respond to questions regarding the latest 
   in the MMC/SD stack and how we are moving forward with block multiqueueing (blk-mq)
   and the Budget Fair Queueing (BFQ) patch set
 featured_image_file_name: BUD17-211.jpg
-image:
-  featured: true
-  file_name: BUD17-211.jpg
-  path: /assets/images/featured-images/BUD17-211.jpg
+image_name: BUD17-211.jpg
+image: /assets/images/featured-images/BUD17-211.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-211/
 post_format:

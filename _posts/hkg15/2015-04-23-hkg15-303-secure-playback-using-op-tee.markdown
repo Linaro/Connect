@@ -15,10 +15,8 @@ excerpt: 'Give high level overview of the components involved in a DRM/Secure. P
 
 '
 featured_image_name: HKG15-303.jpg
-image:
-  featured: true
-  file_name: HKG15-303.jpg
-  path: /assets/images/featured-images/HKG15-303.jpg
+image_name: HKG15-303.jpg
+image: /assets/images/featured-images/HKG15-303.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-303-secure-playback-using-op-tee/
 post_format:
@@ -42,23 +40,23 @@ wordpress_id: 735
 youtube_video_url: https://www.youtube.com/watch?v=WJS5ygNGaO8
 ---
 
-HKG15-303: Secure Playback using OP-TEE 
---------------------------------------------------- 
-Speaker: Viswanath Puttagunta 
-Date: February 11, 2015 
---------------------------------------------------- 
-★ Session Summary ★ 
-Give high level overview of the components involved in a DRM/Secure. Playback use case. Presentation discusses about how Client device obtains License Keys using W3C-EME implementation of any particular DRM like Widevine, how content is decrypted, decoded and rendered and how the buffers are allocated, secured and shared among various elements in the secure playback chain. 
--------------------------------------------------- 
-★ Resources ★ 
-Pathable: https://hkg15.pathable.com/meetings/250807 
-Presentation:  http://www.slideshare.net/linaroorg/hkg15303-secure-playback-using-optee 
-Etherpad: http://pad.linaro.org/p/hkg15-303 
---------------------------------------------------- 
-★ Event Details ★ 
-Linaro Connect Hong Kong 2015 - #HKG15 
-February 9-13th, 2015 
-Regal Airport Hotel Hong Kong Airport 
---------------------------------------------------- 
-http://www.linaro.org 
+HKG15-303: Secure Playback using OP-TEE
+---------------------------------------------------
+Speaker: Viswanath Puttagunta
+Date: February 11, 2015
+---------------------------------------------------
+★ Session Summary ★
+Give high level overview of the components involved in a DRM/Secure. Playback use case. Presentation discusses about how Client device obtains License Keys using W3C-EME implementation of any particular DRM like Widevine, how content is decrypted, decoded and rendered and how the buffers are allocated, secured and shared among various elements in the secure playback chain.
+--------------------------------------------------
+★ Resources ★
+Pathable: https://hkg15.pathable.com/meetings/250807
+Presentation:  http://www.slideshare.net/linaroorg/hkg15303-secure-playback-using-optee
+Etherpad: http://pad.linaro.org/p/hkg15-303
+---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2015 - #HKG15
+February 9-13th, 2015
+Regal Airport Hotel Hong Kong Airport
+---------------------------------------------------
+http://www.linaro.org
 http://connect.linaro.org

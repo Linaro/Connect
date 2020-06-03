@@ -11,10 +11,8 @@ excerpt: This session will be a walk-through of TCWG benchmarking infrastructure
   aimed at developers interested in performance benchmarking in general, and toolchain
   benchmarking in particular.
 featured_image_name: SFO17-312.jpg
-image:
-  featured: true
-  file_name: SFO17-312.jpg
-  path: /assets/images/featured-images/SFO17-312.jpg
+image_name: SFO17-312.jpg
+image: /assets/images/featured-images/SFO17-312.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-312/
 post_format:
@@ -53,7 +51,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

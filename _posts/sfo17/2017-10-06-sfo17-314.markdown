@@ -11,10 +11,8 @@ excerpt: It is a guide to Arm64 GoLang assembly. It introduces how to write a Ar
   When we get to know the go assembly, we can do some optimization to improve performance.
   We will also show case with an example of SHA optimization.
 featured_image_name: SFO17-314.jpg
-image:
-  featured: true
-  file_name: SFO17-314.jpg
-  path: /assets/images/featured-images/SFO17-314.jpg
+image_name: SFO17-314.jpg
+image: /assets/images/featured-images/SFO17-314.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-314/
 post_format:

@@ -14,10 +14,8 @@ excerpt: KVM for arm/arm64 is maturing and reaching its goal of feature parity w
   performance monitors. Any pressing development issues at the time of the conference
   will be covered in this session.
 featured_image_name: LCU14-506.jpg
-image:
-  featured: true
-  file_name: LCU14-506.jpg
-  path: /assets/images/featured-images/LCU14-506.jpg
+image_name: LCU14-506.jpg
+image: /assets/images/featured-images/LCU14-506.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-506-kvm-development-status/
 session_id: LCU14-506

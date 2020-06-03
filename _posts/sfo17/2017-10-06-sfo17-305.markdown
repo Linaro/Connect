@@ -14,10 +14,8 @@ excerpt: The Moby and LinuxKit are the projects announced on April in DockerCon 
   on Arm64 platforms, plus some typical usage scenarios in data center with those
   technologies.
 featured_image_name: SFO17-305.jpg
-image:
-  featured: true
-  file_name: SFO17-305.jpg
-  path: /assets/images/featured-images/SFO17-305.jpg
+image_name: SFO17-305.jpg
+image: /assets/images/featured-images/SFO17-305.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-305/
 post_format:

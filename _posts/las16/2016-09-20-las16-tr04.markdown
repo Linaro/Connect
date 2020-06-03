@@ -15,10 +15,8 @@ excerpt: 'The Energy Aware Scheduler relies on a power model, rather than on heu
   ways to improve this decision making. This talk will offer a practical introduction
   to using these trace tools.'
 featured_image_name: LAS16-TR04.png
-image:
-  featured: true
-  file_name: LAS16-TR04.png
-  path: /assets/images/featured-images/LAS16-TR04.png
+image_name: LAS16-TR04.png
+image: /assets/images/featured-images/LAS16-TR04.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-tr04/
 post_format:

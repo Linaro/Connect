@@ -17,10 +17,8 @@ excerpt: "The European Space Agency\u2019s (ESA) current mission Gaia and upcomi
   and storage services provided directly by the archive (where the data reside), and
   easily share all this with other scientists they\u2019re collaborating with."
 featured_image_file_name: BUD17-200K1.jpg
-image:
-  featured: true
-  file_name: BUD17-200K1.jpg
-  path: /assets/images/featured-images/BUD17-200K1.jpg
+image_name: BUD17-200K1.jpg
+image: /assets/images/featured-images/BUD17-200K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-200k1/
 post_format:

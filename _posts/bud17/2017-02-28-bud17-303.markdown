@@ -18,10 +18,8 @@ excerpt: Sensory swarms of an IoT can be wirelessly interconnected to interact w
   broker developed by USP in partnership with UC Berkeley. An special focus will be
   given to the 96Boards program.
 featured_image_file_name: BUD17-303.jpg
-image:
-  featured: true
-  file_name: BUD17-303.jpg
-  path: /assets/images/featured-images/BUD17-303.jpg
+image_name: BUD17-303.jpg
+image: /assets/images/featured-images/BUD17-303.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-303/
 post_format:
@@ -53,7 +51,7 @@ Sensory swarms of an IoT can be wirelessly interconnected to interact with the e
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-303/
-Presentation: 
+Presentation:
 Video: https://youtu.be/_n7mg3mfMJY
  ---------------------------------------------------
 

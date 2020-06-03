@@ -8,10 +8,7 @@ excerpt: Linaro is building an OpenStack based Developer Cloud. Here we present 
   was required to bring OpenStack to 64-bit Arm, the pitfalls, successes and lessons
   learnt; what's missing and what's next.
 featured_image_name: BKK16-408A.jpg
-image:
-  featured: true
-  file_name: BKK16-408A.jpg
-  path: /assets/images/featured-images/BKK16-408A.jpg
+image: /assets/images/featured-images/BKK16-408A.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-408a/
 post_format:

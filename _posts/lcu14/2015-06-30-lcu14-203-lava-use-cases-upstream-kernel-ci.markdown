@@ -10,10 +10,8 @@ excerpt: This session will provide a short summary on how Linaro teams are autom
   upstream Kernel CI with a goal to improve the overall Linux on Arm ecosystem. The
   second half of the session will be general Q&A
 featured_image_name: LCU14-203.jpg
-image:
-  featured: true
-  file_name: LCU14-203.jpg
-  path: /assets/images/featured-images/LCU14-203.jpg
+image_name: LCU14-203.jpg
+image: /assets/images/featured-images/LCU14-203.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-203-lava-use-cases-upstream-kernel-ci/
 post_format:

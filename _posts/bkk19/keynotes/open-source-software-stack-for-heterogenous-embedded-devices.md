@@ -4,7 +4,7 @@ speaker:
     name: Tomas Evensen
     job-title: CTO Embedded Software at Xilinx
 image:
-    path: /assets/images/speakers/Tomas Evensen.jpg
+  image: /assets/images/speakers/Tomas Evensen.jpg
     featured: true
 event: BKK19
 description: >

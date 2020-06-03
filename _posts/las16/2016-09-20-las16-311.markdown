@@ -15,10 +15,8 @@ excerpt: Continuing the discussion from Linaro Connect Bangkok 2016, we discuss 
   governor. Examination of individual use cases in detail as well as how to handle
   migration and potential caveats of a windowing scheme are discussed.
 featured_image_name: LAS16-311.png
-image:
-  featured: true
-  file_name: LAS16-311.png
-  path: /assets/images/featured-images/LAS16-311.png
+image_name: LAS16-311.png
+image: /assets/images/featured-images/LAS16-311.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-311/
 post_format:

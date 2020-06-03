@@ -8,10 +8,8 @@ categories:
 comments: false
 date: 2015-10-27 17:29:39
 featured_image_name: SFO15-304.jpg
-image:
-  featured: true
-  file_name: SFO15-304.jpg
-  path: /assets/images/featured-images/SFO15-304.jpg
+image_name: SFO15-304.jpg
+image: /assets/images/featured-images/SFO15-304.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sf015-304-server-ecosystem-day-part-2b/
 post_format:

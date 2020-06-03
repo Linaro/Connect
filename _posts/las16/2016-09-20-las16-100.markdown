@@ -16,10 +16,8 @@ excerpt: This session will give an overview of Zephyr Project. Zephyr is a small
   is to allow commercial and open source developers alike to define and develop IoT
   solutions best suited for their needs.
 featured_image_name: LAS16-100.png
-image:
-  featured: true
-  file_name: LAS16-100.png
-  path: /assets/images/featured-images/LAS16-100.png
+image_name: LAS16-100.png
+image: /assets/images/featured-images/LAS16-100.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-100/
 post_format:

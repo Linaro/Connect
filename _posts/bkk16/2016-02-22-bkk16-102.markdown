@@ -9,10 +9,7 @@ excerpt: "The session will cover the steps needed to prepare and use new workloa
   for Workload Automation tool. The talk is based on the use case of preparing the
   \u2018applaunch + I/O' test case for benchmarking I/O schedulers."
 featured_image_name: BKK16-102.jpg
-image:
-  featured: true
-  file_name: BKK16-102.jpg
-  path: /assets/images/featured-images/BKK16-102.jpg
+image: /assets/images/featured-images/BKK16-102.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-102/
 post_format:

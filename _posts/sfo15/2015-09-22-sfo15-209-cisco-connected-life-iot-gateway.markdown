@@ -12,10 +12,8 @@ excerpt: 'Abstract: Experiences productizing the gateway (from hobby to product)
   the challenges for IoT deployment scenarios: Home security, Home automation, Home
   healthcare, and Enterprise IoT (smart manufacturing).'
 featured_image_name: SFO15209CiscoConnectedLifeIoTGateway.jpg
-image:
-  featured: true
-  file_name: SFO15209CiscoConnectedLifeIoTGateway.jpg
-  path: /assets/images/featured-images/SFO15209CiscoConnectedLifeIoTGateway.jpg
+image_name: SFO15209CiscoConnectedLifeIoTGateway.jpg
+image: /assets/images/featured-images/SFO15209CiscoConnectedLifeIoTGateway.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-209-cisco-connected-life-iot-gateway/
 post_format:
@@ -43,14 +41,14 @@ Date: September 22, 2015
 ★ Session Description ★
 Experiences productizing the gateway (from hobby to product) and the challenges for IoT deployment scenarios: Home security, Home automation, Home healthcare, and Enterprise IoT (smart manufacturing).
 
-★ Resources ★ 
-Presentation:  
+★ Resources ★
+Presentation:
 Etherpad: pad.linaro.org/p/sfo15-209
-Pathable: https://sfo15.pathable.com/meetings/302841   
-                   
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+Pathable: https://sfo15.pathable.com/meetings/302841
+
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

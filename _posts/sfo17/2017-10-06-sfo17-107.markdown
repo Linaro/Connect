@@ -8,10 +8,8 @@ comments: false
 date: 2017-10-06 16:53:43
 excerpt: A session run by users for users of LAVA. Ask us.
 featured_image_name: SFO17-107.jpg
-image:
-  featured: true
-  file_name: SFO17-107.jpg
-  path: /assets/images/featured-images/SFO17-107.jpg
+image_name: SFO17-107.jpg
+image: /assets/images/featured-images/SFO17-107.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-107/
 post_format:
@@ -31,7 +29,7 @@ youtube_video_url: https://www.youtube.com/watch?v=DxHGHmrNdpg
 
 Session ID: SFO17-107
 Session Name: LAVA Users Forum - SFO17-107
-Speaker: Steve McIntyre 
+Speaker: Steve McIntyre
 Track: LAVA
 
 
@@ -50,7 +48,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

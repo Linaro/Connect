@@ -12,10 +12,8 @@ excerpt: Updates on the status of the 96Boards program, development of the hardw
   ecosystem and how Linaro is helping to achieve better upstream coverage both in
   software code and documentation.
 featured_image_name: SFO1510096Boardsthecourseupstream.jpg
-image:
-  featured: true
-  file_name: SFO1510096Boardsthecourseupstream.jpg
-  path: /assets/images/featured-images/SFO1510096Boardsthecourseupstream.jpg
+image_name: SFO1510096Boardsthecourseupstream.jpg
+image: /assets/images/featured-images/SFO1510096Boardsthecourseupstream.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-100-96boards-the-course-upstream/
 post_format:
@@ -44,15 +42,15 @@ Date: September 21, 2015
 ★ Session Description ★
 Updates on the status of the 96Boards program, development of the hardware ecosystem and how Linaro is helping to achieve better upstream coverage both in software code and documentation.
 
-★ Resources ★ 
+★ Resources ★
 Video: https://www.youtube.com/watch?v=rXinHp5ctz8
 Presentation: http://www.slideshare.net/linaroorg/sfo15100-96boards-the-course-upstream
 Etherpad: pad.linaro.org/p/sfo15-100
-Pathable: https://sfo15.pathable.com/meetings/302649 
+Pathable: https://sfo15.pathable.com/meetings/302649
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

@@ -12,10 +12,8 @@ excerpt: '[Note: this is a joint Security/Power Management session) Understand w
 
 '
 featured_image_name: HKG15-505.jpg
-image:
-  featured: true
-  file_name: HKG15-505.jpg
-  path: /assets/images/featured-images/HKG15-505.jpg
+image_name: HKG15-505.jpg
+image: /assets/images/featured-images/HKG15-505.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-505-power-management-interactions-with-op-tee-and-trusted-firmware/
 post_format:
@@ -39,23 +37,23 @@ wordpress_id: 765
 youtube_video_url: https://www.youtube.com/watch?v=hQ2ITjHZY4s
 ---
 
-HKG15-505: Power Management interactions with OP-TEE and Trusted Firmware 
---------------------------------------------------- 
-Speaker: Jorge Ramirez-Ortiz 
-Date: February 13, 2015 
---------------------------------------------------- 
-★ Session Summary ★ 
-[Note: this is a joint Security/Power Management session) Understand what use cases related to Power Management have to interact with Trusted Firmware via Secure calls. Walk through some key use cases like CPU Suspend and explain how PM Linux drivers interacts with Trusted Firmware / PSCI 
--------------------------------------------------- 
-★ Resources ★ 
-Pathable: https://hkg15.pathable.com/meetings/250855 
+HKG15-505: Power Management interactions with OP-TEE and Trusted Firmware
+---------------------------------------------------
+Speaker: Jorge Ramirez-Ortiz
+Date: February 13, 2015
+---------------------------------------------------
+★ Session Summary ★
+[Note: this is a joint Security/Power Management session) Understand what use cases related to Power Management have to interact with Trusted Firmware via Secure calls. Walk through some key use cases like CPU Suspend and explain how PM Linux drivers interacts with Trusted Firmware / PSCI
+--------------------------------------------------
+★ Resources ★
+Pathable: https://hkg15.pathable.com/meetings/250855
 Presentation:  http://www.slideshare.net/linaroorg/hkg15-505-power-management-interactions-with-optee-repaired
-Etherpad: http://pad.linaro.org/p/hkg15-505 
---------------------------------------------------- 
-★ Event Details ★ 
-Linaro Connect Hong Kong 2015 - #HKG15 
-February 9-13th, 2015 
-Regal Airport Hotel Hong Kong Airport 
---------------------------------------------------- 
-http://www.linaro.org 
+Etherpad: http://pad.linaro.org/p/hkg15-505
+---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2015 - #HKG15
+February 9-13th, 2015
+Regal Airport Hotel Hong Kong Airport
+---------------------------------------------------
+http://www.linaro.org
 http://connect.linaro.org

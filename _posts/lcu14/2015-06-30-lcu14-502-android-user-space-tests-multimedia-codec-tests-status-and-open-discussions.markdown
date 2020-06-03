@@ -17,10 +17,8 @@ excerpt: 'Android provides CTS - Compatibility Test Suite, written in java and r
   being run as part of Linaro''s monthly release. This will be followed by an open
   discussio'
 featured_image_name: LCU14-502.jpg
-image:
-  featured: true
-  file_name: LCU14-502.jpg
-  path: /assets/images/featured-images/LCU14-502.jpg
+image_name: LCU14-502.jpg
+image: /assets/images/featured-images/LCU14-502.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-502-android-user-space-tests-multimedia-codec-tests-status-and-open-discussions/
 session_id: LCU14-502

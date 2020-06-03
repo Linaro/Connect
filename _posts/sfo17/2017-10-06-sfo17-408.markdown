@@ -17,10 +17,8 @@ excerpt: 'Some platforms have the capability to configure the performance state 
   of the device and this needs to change in order to reuse the power-domain framework
   for active state management of the devices.'
 featured_image_name: SFO17-408.jpg
-image:
-  featured: true
-  file_name: SFO17-408.jpg
-  path: /assets/images/featured-images/SFO17-408.jpg
+image_name: SFO17-408.jpg
+image: /assets/images/featured-images/SFO17-408.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-408/
 post_format:
@@ -62,7 +60,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

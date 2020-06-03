@@ -12,10 +12,8 @@ excerpt: (Mandarin) This session is a short introductory course on Linux kernel 
   rather than the minute details of each tool we can cover a lot of topics in a short
   space of time, providing a springboard for further independent study by trainees.
 featured_image_file_name: BUD17-TR07.jpg
-image:
-  featured: true
-  file_name: BUD17-TR07.jpg
-  path: /assets/images/featured-images/BUD17-TR07.jpg
+image_name: BUD17-TR07.jpg
+image: /assets/images/featured-images/BUD17-TR07.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-tr07/
 post_format:
@@ -38,8 +36,8 @@ youtube_video_url: https://youtu.be/a0aeQQPjoJc
 
 "Session ID: BUD17-TR07
 Session Name: Kernel Debug Stories (in Mandarin) - BUD17-TR07
-Speaker: 
-Track: 
+Speaker:
+Track:
 
 
 ★ Session Summary ★
@@ -47,7 +45,7 @@ Track:
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-tr07/
-Presentation: 
+Presentation:
 Video: https://youtu.be/a0aeQQPjoJc
  ---------------------------------------------------
 

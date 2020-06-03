@@ -8,10 +8,8 @@ categories:
 comments: false
 date: 2015-11-03 13:38:51
 featured_image_name: SFO15-201.jpg
-image:
-  featured: true
-  file_name: SFO15-201.jpg
-  path: /assets/images/featured-images/SFO15-201.jpg
+image_name: SFO15-201.jpg
+image: /assets/images/featured-images/SFO15-201.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-201-boot-architecture-for-rdk/
 post_format:

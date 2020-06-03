@@ -7,10 +7,8 @@ categories:
 comments: true
 date: 2015-06-30 17:07:43
 featured_image_name: LCU14-500z.jpg
-image:
-  featured: true
-  file_name: LCU14-500z.jpg
-  path: /assets/images/featured-images/LCU14-500z.jpg
+image_name: LCU14-500z.jpg
+image: /assets/images/featured-images/LCU14-500z.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-500z-jim-zemlin-linux-foundation/
 session_id: LCU14-500z
@@ -52,7 +50,7 @@ Eatherpad: pad.linaro.org/p/lcu14-500z
 ---------------------------------------------------
 
 ★ Event Details ★
-Linaro Connect USA -  #LCU14 
+Linaro Connect USA -  #LCU14
 September 15-19th, 2014
 Hyatt Regency San Francisco Airport
 ---------------------------------------------------

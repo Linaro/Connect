@@ -17,10 +17,8 @@ excerpt: 'Explains about implementation of Secure boot and DRI (disaster recover
   DRI is UEFI executable which provides HTTP /HTTPS method to download RDK Image  and
   store the image in Flash memory.'
 featured_image_name: SFO17-401.jpg
-image:
-  featured: true
-  file_name: SFO17-401.jpg
-  path: /assets/images/featured-images/SFO17-401.jpg
+image_name: SFO17-401.jpg
+image: /assets/images/featured-images/SFO17-401.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-401/
 post_format:
@@ -63,7 +61,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

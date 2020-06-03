@@ -11,10 +11,8 @@ excerpt: Tiger Moth is the latest Long Term Support release of OpenDataPlane (OD
   including IPsec support. This talk provides an update on the ODP project and where
   it is going.
 featured_image_name: HKG18-106.png
-image:
-  featured: true
-  file_name: HKG18-106.png
-  path: /assets/images/featured-images/HKG18-106.png
+image_name: HKG18-106.png
+image: /assets/images/featured-images/HKG18-106.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-106/
 post_format:
@@ -47,7 +45,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-106.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

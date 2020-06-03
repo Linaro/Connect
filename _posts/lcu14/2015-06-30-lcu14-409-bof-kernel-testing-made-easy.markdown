@@ -14,10 +14,8 @@ excerpt: Testing is like ice cream, there is always room for more. We can always
   run, and Grant Likely will lead a discussion on ways we can make kernel testing
   as easy as typing "make test".
 featured_image_name: LCU14-409.jpg
-image:
-  featured: true
-  file_name: LCU14-409.jpg
-  path: /assets/images/featured-images/LCU14-409.jpg
+image_name: LCU14-409.jpg
+image: /assets/images/featured-images/LCU14-409.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-409-bof-kernel-testing-made-easy/
 session_id: LCU14-409

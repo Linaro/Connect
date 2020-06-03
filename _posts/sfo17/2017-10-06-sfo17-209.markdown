@@ -13,10 +13,8 @@ excerpt: Realtime applications have traditionally used interrupt latency as the 
   (TSN) ensure single digit microsecond level jitter in a LAN. The networking driver
   and stack jitter measurements are presented and analyzed.
 featured_image_name: SFO17-209.jpg
-image:
-  featured: true
-  file_name: SFO17-209.jpg
-  path: /assets/images/featured-images/SFO17-209.jpg
+image_name: SFO17-209.jpg
+image: /assets/images/featured-images/SFO17-209.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-209/
 post_format:
@@ -36,7 +34,7 @@ youtube_video_url: https://www.youtube.com/watch?v=xvra6Lzl0fg
 
 Session ID: SFO17-209
 Session Name: Realtime Performance of Networking Stack - SFO17-209
-Speaker: Ivan Khoronzhuk - Pekka Varis  
+Speaker: Ivan Khoronzhuk - Pekka Varis
 Track: LNG
 
 
@@ -55,7 +53,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

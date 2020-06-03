@@ -8,10 +8,8 @@ comments: false
 date: 2017-03-21 15:31:37
 excerpt: RDK ports on 96Boards
 featured_image_file_name: BUD17-DF08.jpg
-image:
-  featured: true
-  file_name: BUD17-DF08.jpg
-  path: /assets/images/featured-images/BUD17-DF08.jpg
+image_name: BUD17-DF08.jpg
+image: /assets/images/featured-images/BUD17-DF08.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df08/
 post_format:

@@ -23,10 +23,8 @@ excerpt: "Updating remotely an IoT device condenses solid knowledge of server-si
   mode update developed by Kynetics as a robust and efficient strategy to update safely
   embedded devices integrated with Eclipse Hawkbit"
 featured_image_name: SFO17-415.jpg
-image:
-  featured: true
-  file_name: SFO17-415.jpg
-  path: /assets/images/featured-images/SFO17-415.jpg
+image_name: SFO17-415.jpg
+image: /assets/images/featured-images/SFO17-415.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-415/
 post_format:

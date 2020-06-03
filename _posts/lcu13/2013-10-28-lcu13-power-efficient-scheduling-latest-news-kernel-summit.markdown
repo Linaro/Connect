@@ -7,10 +7,8 @@ categories:
 comments: false
 date: 2013-10-28 14:16:11
 featured_image_name: LCU13Powerefficientschedulingandthelatestnewsfromthekernelsummit.jpg
-image:
-  featured: true
-  file_name: LCU13Powerefficientschedulingandthelatestnewsfromthekernelsummit.jpg
-  path: /assets/images/featured-images/LCU13Powerefficientschedulingandthelatestnewsfromthekernelsummit.jpg
+image_name: LCU13Powerefficientschedulingandthelatestnewsfromthekernelsummit.jpg
+image: /assets/images/featured-images/LCU13Powerefficientschedulingandthelatestnewsfromthekernelsummit.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu13/lcu13-power-efficient-scheduling-latest-news-kernel-summit/
 post_format:

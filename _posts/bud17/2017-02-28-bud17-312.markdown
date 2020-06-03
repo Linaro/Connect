@@ -11,10 +11,8 @@ excerpt: "Open discussion on Linux networking and IO.\n Expected topics to be co
   \ - IOvisor status on Arm\n  - Automotive \u201Cfoundational blocks\u201D: LSK-RT,
   static partitioning with open source OpenAMP or Jailhouse"
 featured_image_file_name: BUD17-312.jpg
-image:
-  featured: true
-  file_name: BUD17-312.jpg
-  path: /assets/images/featured-images/BUD17-312.jpg
+image_name: BUD17-312.jpg
+image: /assets/images/featured-images/BUD17-312.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-312/
 post_format:

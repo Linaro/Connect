@@ -10,10 +10,8 @@ excerpt: In this session, Remi, an ST assignee, will review how he is using LAVA
   he has created for artifact publishing and reporducing LAVA failures using CARE
   (an extension to PRoot).
 featured_image_name: LCU14-211.jpg
-image:
-  featured: true
-  file_name: LCU14-211.jpg
-  path: /assets/images/featured-images/LCU14-211.jpg
+image_name: LCU14-211.jpg
+image: /assets/images/featured-images/LCU14-211.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-211-lava-use-cases-sw-testing-reproducing-a-lava-failures-locally-using-care/
 post_format:

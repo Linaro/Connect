@@ -20,10 +20,8 @@ excerpt: 'Linaro Developer Cloud, update and plans.
   part of the cloud infrastructure such as OpenStack CI and Kolla. Finally, we will
   do a quick FAQ session.'
 featured_image_name: HKG18-307.png
-image:
-  featured: true
-  file_name: HKG18-307.png
-  path: /assets/images/featured-images/HKG18-307.png
+image_name: HKG18-307.png
+image: /assets/images/featured-images/HKG18-307.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-307/
 post_format:
@@ -61,7 +59,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-307.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

@@ -3,10 +3,8 @@ title: Avenger 96Board running debian Buster
 categories:
 - san19
 date: '2019-10-23 09:00:00+00:00'
-image:
-  featured: true
-  path: /assets/images/featured-images/san19-demo-avenger96.png
-layout: resource-post-demo-interview
+image: /assets/images/featured-images/san19-demo-avenger96.png
+layout: resource-post
 youtube_video_url: https://www.youtube.com/watch?v=XEMhYkNnjQw
 session_track: Demo
 tag: demo

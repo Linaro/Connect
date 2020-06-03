@@ -8,10 +8,8 @@ comments: false
 date: 2017-10-06 16:54:50
 excerpt: TBU
 featured_image_name: SFO17-220.jpg
-image:
-  featured: true
-  file_name: SFO17-220.jpg
-  path: /assets/images/featured-images/SFO17-220.jpg
+image_name: SFO17-220.jpg
+image: /assets/images/featured-images/SFO17-220.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-220/
 post_format:

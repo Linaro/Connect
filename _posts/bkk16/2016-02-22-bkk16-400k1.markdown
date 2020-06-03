@@ -4,10 +4,7 @@ categories: "bkk16"
 comments: false
 date: 2016-02-22 17:20:49
 featured_image_name: BKK16-400K1.jpg
-image:
-  featured: true
-  file_name: BKK16-400K1.jpg
-  path: /assets/images/featured-images/BKK16-400K1.jpg
+image: /assets/images/featured-images/BKK16-400K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-400k1/
 post_format:

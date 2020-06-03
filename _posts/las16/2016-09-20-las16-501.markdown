@@ -13,10 +13,8 @@ excerpt: "Deep dive into LLVM internals, middle/back-ends, libraries, sanitizers
   they\u2019re not familiar with. This presentation also touches on frequent LLVM-specific
   errors, so GCC users may find useful, if they\u2019re moving to LLVM."
 featured_image_name: LAS16-501.png
-image:
-  featured: true
-  file_name: LAS16-501.png
-  path: /assets/images/featured-images/LAS16-501.png
+image_name: LAS16-501.png
+image: /assets/images/featured-images/LAS16-501.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-501/
 post_format:

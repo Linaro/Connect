@@ -14,10 +14,8 @@ excerpt: Android runtime (ART) has evolved from an AOT compiler (in Android L & 
   to have a deeper understanding of ART in Android N, and to help them face the challenges
   of the new behaviors of Android runtime.
 featured_image_name: LAS16-201.png
-image:
-  featured: true
-  file_name: LAS16-201.png
-  path: /assets/images/featured-images/LAS16-201.png
+image_name: LAS16-201.png
+image: /assets/images/featured-images/LAS16-201.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-201/
 post_format:

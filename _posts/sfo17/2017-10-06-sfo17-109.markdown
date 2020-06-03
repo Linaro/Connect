@@ -18,10 +18,8 @@ excerpt: "Kubernetes and DPDK are the biggest hype for NFV solution today. While
   container-based infrastructure for NFV use cases, particularly on the network edge
   based on Arm servers will be illustrated."
 featured_image_name: SFO17-109.jpg
-image:
-  featured: true
-  file_name: SFO17-109.jpg
-  path: /assets/images/featured-images/SFO17-109.jpg
+image_name: SFO17-109.jpg
+image: /assets/images/featured-images/SFO17-109.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-109/
 post_format:

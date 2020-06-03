@@ -40,10 +40,8 @@ excerpt: 'Because all modern general-purpose CPUs support small-scale SIMD
 
   SIMD-related activities.'
 featured_image_name: SFO17-216.jpg
-image:
-  featured: true
-  file_name: SFO17-216.jpg
-  path: /assets/images/featured-images/SFO17-216.jpg
+image_name: SFO17-216.jpg
+image: /assets/images/featured-images/SFO17-216.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-216/
 post_format:

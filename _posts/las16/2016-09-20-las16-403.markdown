@@ -12,10 +12,8 @@ excerpt: The presentation will look at the ways in which GDB can be enhanced whe
   the current work being undertaken in this area by the ST landing team, a demo and
   potential future work.
 featured_image_name: LAS16-403.png
-image:
-  featured: true
-  file_name: LAS16-403.png
-  path: /assets/images/featured-images/LAS16-403.png
+image_name: LAS16-403.png
+image: /assets/images/featured-images/LAS16-403.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-403/
 post_format:

@@ -32,10 +32,8 @@ excerpt: 'The Arm ecosystem is large and still growing, with Linaro a key focus 
   right patches, of the right quality and at the right time to improve both Android
   and the products and applications that use it ?'
 featured_image_name: LCU14-108.jpg
-image:
-  featured: true
-  file_name: LCU14-108.jpg
-  path: /assets/images/featured-images/LCU14-108.jpg
+image_name: LCU14-108.jpg
+image: /assets/images/featured-images/LCU14-108.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-108-panel-faster-better-and-more-open-aosp-support/
 post_format:

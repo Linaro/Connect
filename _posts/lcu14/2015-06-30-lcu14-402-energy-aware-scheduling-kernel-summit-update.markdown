@@ -29,10 +29,8 @@ excerpt: 'Scene setting (Morten)
 
   - Feature roadmap'
 featured_image_name: LCU14-402.jpg
-image:
-  featured: true
-  file_name: LCU14-402.jpg
-  path: /assets/images/featured-images/LCU14-402.jpg
+image_name: LCU14-402.jpg
+image: /assets/images/featured-images/LCU14-402.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-402-energy-aware-scheduling-kernel-summit-update/
 session_id: LCU14-402

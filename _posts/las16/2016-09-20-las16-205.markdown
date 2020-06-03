@@ -12,10 +12,8 @@ excerpt: 'This session will cover the state of android-4.4: total patch count or
   (e.g. siockilladdr, switch class etc) or they are obsolete and no longer used in
   AOSP (e.g. uid, n/w activity stat etc).'
 featured_image_name: LAS16-205.png
-image:
-  featured: true
-  file_name: LAS16-205.png
-  path: /assets/images/featured-images/LAS16-205.png
+image_name: LAS16-205.png
+image: /assets/images/featured-images/LAS16-205.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-205/
 post_format:

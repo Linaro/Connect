@@ -14,7 +14,7 @@ excerpt: "Short updates on various LMG initiatives, including boottime reduction
   Herring)\n  \n - PPP Effort Update (Sam Protsenko)"
 featured_image_file_name: BUD17-106.jpg
 image:
-  path: /assets/images/featured-images/BUD17-106.jpg
+image: /assets/images/featured-images/BUD17-106.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-106/
 post_format:

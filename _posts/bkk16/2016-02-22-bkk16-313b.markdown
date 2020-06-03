@@ -7,10 +7,7 @@ excerpt: Arm in HPC /  This session will cover current Arm HPC software ecosyste
   and roadmap, as well as HPC market potential and how it intersects big data software
   stacks.
 featured_image_name: BKK16-313B.jpg
-image:
-  featured: true
-  file_name: BKK16-313B.jpg
-  path: /assets/images/featured-images/BKK16-313B.jpg
+image: /assets/images/featured-images/BKK16-313B.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-313b/
 post_format:

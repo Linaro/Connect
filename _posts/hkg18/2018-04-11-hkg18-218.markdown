@@ -22,10 +22,8 @@ excerpt: 'With LoRa gaining more traction in recent times and seeing LoRa gatewa
   o A few people already showed interest, more people around here? o Project setup
   (vger mailing list, patchwork, github, korg tree hosting, etc)'
 featured_image_name: HKG18-218.png
-image:
-  featured: true
-  file_name: HKG18-218.png
-  path: /assets/images/featured-images/HKG18-218.png
+image_name: HKG18-218.png
+image: /assets/images/featured-images/HKG18-218.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-218/
 post_format:
@@ -59,7 +57,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-218.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

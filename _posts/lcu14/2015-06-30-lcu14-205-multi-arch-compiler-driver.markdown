@@ -12,10 +12,8 @@ excerpt: This session will provide an overview of the foundations of a multi-arc
   driver that has a common set of feature flags that can invoke the desired compiler,
   which will then generate consistent results between compilers.
 featured_image_name: LCU14-205.jpg
-image:
-  featured: true
-  file_name: LCU14-205.jpg
-  path: /assets/images/featured-images/LCU14-205.jpg
+image_name: LCU14-205.jpg
+image: /assets/images/featured-images/LCU14-205.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-205-multi-arch-compiler-driver/
 post_format:

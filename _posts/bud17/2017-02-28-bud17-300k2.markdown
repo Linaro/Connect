@@ -19,10 +19,8 @@ excerpt: Around the year 2000, the convergence on Linux and commodity x86_64 pro
   LHC experiments and the more recent progress done by ATLAS, CernVM and CMS teams
   on using Armv8 64-bit/AArch64.
 featured_image_file_name: BUD17-300K2.jpg
-image:
-  featured: true
-  file_name: BUD17-300K2.jpg
-  path: /assets/images/featured-images/BUD17-300K2.jpg
+image_name: BUD17-300K2.jpg
+image: /assets/images/featured-images/BUD17-300K2.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-300k2/
 post_format:
@@ -49,7 +47,7 @@ youtube_video_url: https://www.youtube.com/watch?v=71Yco-mTaYI
 "Session ID: BUD17-300K2
 Session Name: High Energy Physics and Armv8 64-bit? Investigating The Future of Computing at CERN - BUD17-300K2
 Speaker: Jakob Blomer, David Abdurachmanov
-Track: 
+Track:
 
 
 ★ Session Summary ★

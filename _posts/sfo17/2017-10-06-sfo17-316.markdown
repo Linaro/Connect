@@ -11,10 +11,8 @@ excerpt: Since the introduction of Armv8 and 64bit AArch64 architecture 2013, th
   iOS with 64bit only support.  By June 2018, all apps in Mac Store must support 64bit
   and Mac OS will be 64bit only as well.
 featured_image_name: SFO17-316.jpg
-image:
-  featured: true
-  file_name: SFO17-316.jpg
-  path: /assets/images/featured-images/SFO17-316.jpg
+image_name: SFO17-316.jpg
+image: /assets/images/featured-images/SFO17-316.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-316/
 post_format:
@@ -42,7 +40,7 @@ Since the introduction of Armv8 and 64bit AArch64 architecture 2013, the world h
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-316/
-Presentation: 
+Presentation:
 Video: https://www.youtube.com/watch?v=X7hBsIP2eDw
  ---------------------------------------------------
 
@@ -52,7 +50,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

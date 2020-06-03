@@ -6,7 +6,7 @@ description: |-
 permalink: /sitemap/
 ---
 <div class="row">
-<div class="col-xs-12 col-sm-6" markdown="1">
+<div class="col col-12 col-sm-6" markdown="1">
 # Authors
 <ul class="list-unstyled">
 {% for author in site.authors %}
@@ -35,7 +35,7 @@ permalink: /sitemap/
 {% endfor %}
 </ul>
 </div>
-<div class="col-xs-12 col-sm-6" markdown="1">
+<div class="col col-12 col-sm-6" markdown="1">
 # Posts
 {% for category in site.categories %}
 {% capture category_name %}{{ category | first }}{% endcapture %}
@@ -50,8 +50,3 @@ permalink: /sitemap/
 {% endfor %}
 </div>
 </div>
-
-
-
-
-

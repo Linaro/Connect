@@ -27,10 +27,8 @@ excerpt: 'The concept of ''time'' in Linux is encoded in many different ways, bu
 
 '
 featured_image_name: HKG15-206.jpg
-image:
-  featured: true
-  file_name: HKG15-206.jpg
-  path: /assets/images/featured-images/HKG15-206.jpg
+image_name: HKG15-206.jpg
+image: /assets/images/featured-images/HKG15-206.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-206-solving-the-year-2038-problem-in-linux/
 post_format:
@@ -54,24 +52,24 @@ wordpress_id: 721
 youtube_video_url: https://www.youtube.com/watch?v=ILiMzjN71zM
 ---
 
-HKG15-206: Solving the year 2038 problem in Linux 
---------------------------------------------------- 
-Speaker: Arnd Bergmann, Tina Ruchandanit 
-Date: February 10, 2015 
---------------------------------------------------- 
-★ Session Summary ★ 
-The concept of ‘time’ in Linux is encoded in many different ways, but the most common one is based on the ‘time_t’ type that counts the number of seconds that have passed since Jan 1, 1970. This type is currently defined as ‘long’, which on 32-bit systems is a signed 32-bit number that will overflow on Jan 19 2038 and likely cause all systems existing today to stop working. 
-In our presentation, we give an introduction to range of problems that we see across user space and kernel, and we talk about the work that we are doing to address some of these issues. 
--------------------------------------------------- 
-★ Resources ★ 
-Pathable: https://hkg15.pathable.com/meetings/250787 
-Presentation:  http://www.slideshare.net/linaroorg/hkg15206-solving-the-year-2038-problem-in-linux 
-Etherpad: http://pad.linaro.org/p/hkg15-206 
---------------------------------------------------- 
-★ Event Details ★ 
-Linaro Connect Hong Kong 2015 - #HKG15 
-February 9-13th, 2015 
-Regal Airport Hotel Hong Kong Airport 
---------------------------------------------------- 
-http://www.linaro.org 
+HKG15-206: Solving the year 2038 problem in Linux
+---------------------------------------------------
+Speaker: Arnd Bergmann, Tina Ruchandanit
+Date: February 10, 2015
+---------------------------------------------------
+★ Session Summary ★
+The concept of ‘time’ in Linux is encoded in many different ways, but the most common one is based on the ‘time_t’ type that counts the number of seconds that have passed since Jan 1, 1970. This type is currently defined as ‘long’, which on 32-bit systems is a signed 32-bit number that will overflow on Jan 19 2038 and likely cause all systems existing today to stop working.
+In our presentation, we give an introduction to range of problems that we see across user space and kernel, and we talk about the work that we are doing to address some of these issues.
+--------------------------------------------------
+★ Resources ★
+Pathable: https://hkg15.pathable.com/meetings/250787
+Presentation:  http://www.slideshare.net/linaroorg/hkg15206-solving-the-year-2038-problem-in-linux
+Etherpad: http://pad.linaro.org/p/hkg15-206
+---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2015 - #HKG15
+February 9-13th, 2015
+Regal Airport Hotel Hong Kong Airport
+---------------------------------------------------
+http://www.linaro.org
 http://connect.linaro.org

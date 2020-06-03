@@ -10,10 +10,8 @@ excerpt: This sessions will discuss the latest status on SBSA/SBBR specification
   compliance test and program. It will also discuss the standardization effort on
   the server management.
 featured_image_name: SFO17-117.jpg
-image:
-  featured: true
-  file_name: SFO17-117.jpg
-  path: /assets/images/featured-images/SFO17-117.jpg
+image_name: SFO17-117.jpg
+image: /assets/images/featured-images/SFO17-117.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-117/
 post_format:
@@ -52,7 +50,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

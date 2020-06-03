@@ -14,10 +14,8 @@ excerpt: Ceph is a unified, distributed storage system designed for excellent pe
   Ceph cluster, reduce the data transmission latency and reduce the CPU cost. It will
   make Ceph cluster profit from multi-core advantage on AArch64 platform.
 featured_image_name: HKG18-112.png
-image:
-  featured: true
-  file_name: HKG18-112.png
-  path: /assets/images/featured-images/HKG18-112.png
+image_name: HKG18-112.png
+image: /assets/images/featured-images/HKG18-112.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-112/
 post_format:
@@ -51,7 +49,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-112.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

@@ -11,10 +11,8 @@ excerpt: Arm Trusted Firmware has established itself as a key part of the Armv8-
   to enterprise, is challenging. This session discusses the latest developments, including
   extension into the 32-bit space.
 featured_image_name: LAS16-402.png
-image:
-  featured: true
-  file_name: LAS16-402.png
-  path: /assets/images/featured-images/LAS16-402.png
+image_name: LAS16-402.png
+image: /assets/images/featured-images/LAS16-402.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-402/
 post_format:

@@ -24,10 +24,8 @@ excerpt: 'This informal BoF session will be held in an ad hoc manner and is open
 
   6. How Linaro can make help to improve OpenEmbedded'
 featured_image_name: LCU14-508.jpg
-image:
-  featured: true
-  file_name: LCU14-508.jpg
-  path: /assets/images/featured-images/LCU14-508.jpg
+image_name: LCU14-508.jpg
+image: /assets/images/featured-images/LCU14-508.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-508-bof-openembedded/
 session_id: LCU14-508
@@ -79,7 +77,7 @@ Eatherpad: pad.linaro.org/p/lcu14-508
 ---------------------------------------------------
 
 ★ Event Details ★
-Linaro Connect USA -  #LCU14 
+Linaro Connect USA -  #LCU14
 September 15-19th, 2014
 Hyatt Regency San Francisco Airport
 ---------------------------------------------------

@@ -16,10 +16,8 @@ excerpt: This session is an advanced course on Linux kernel upstreaming fundamen
   management terminology and the git SCM tool as well as a good technical understanding
   of the Linux kernel itself.
 featured_image_name: LCU14-114.jpg
-image:
-  featured: true
-  file_name: LCU14-114.jpg
-  path: /assets/images/featured-images/LCU14-114.jpg
+image_name: LCU14-114.jpg
+image: /assets/images/featured-images/LCU14-114.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-114-upstreaming-201/
 post_format:
@@ -65,7 +63,7 @@ Eatherpad: pad.linaro.org/p/lcu14-114
 ---------------------------------------------------
 
 ★ Event Details ★
-Linaro Connect USA -  #LCU14 
+Linaro Connect USA -  #LCU14
 September 15-19th, 2014
 Hyatt Regency San Francisco Airport
 ---------------------------------------------------

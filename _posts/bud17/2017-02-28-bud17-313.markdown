@@ -13,10 +13,8 @@ excerpt: Device Tree is well established in the Linux kernel. But since there co
   to also make use and modify the Device Tree blobs before handing them over to Linux
   kernel. With this BoF session we would like to get started a gather ideas etc.
 featured_image_file_name: BUD17-313.jpg
-image:
-  featured: true
-  file_name: BUD17-313.jpg
-  path: /assets/images/featured-images/BUD17-313.jpg
+image_name: BUD17-313.jpg
+image: /assets/images/featured-images/BUD17-313.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-313/
 post_format:

@@ -20,10 +20,8 @@ excerpt: The Internet of Things (IoT) consists in the integration of networked c
   implementation and its status. The advances in the integration of constrained devices
   into the Swarm and the semantic engine architecture will be presented.
 featured_image_name: SFO17-501.jpg
-image:
-  featured: true
-  file_name: SFO17-501.jpg
-  path: /assets/images/featured-images/SFO17-501.jpg
+image_name: SFO17-501.jpg
+image: /assets/images/featured-images/SFO17-501.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-501/
 post_format:
@@ -41,7 +39,7 @@ youtube_video_url: https://www.youtube.com/watch?v=B_adzqmjdBg
 
 Session ID: SFO17-501
 Session Name: The Swarm on the Edge : key aspects to make it real - SFO17-501
-Speaker: Laisa Costa De Biase 
+Speaker: Laisa Costa De Biase
 Track: LITE
 
 
@@ -50,7 +48,7 @@ The Internet of Things (IoT) consists in the integration of networked computing 
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-501/
-Presentation: 
+Presentation:
 Video: https://www.youtube.com/watch?v=B_adzqmjdBg
  ---------------------------------------------------
 
@@ -60,7 +58,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

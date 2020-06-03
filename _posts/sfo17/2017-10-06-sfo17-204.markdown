@@ -20,10 +20,8 @@ excerpt: "In areas such as automotive where faulty software could lead to a risk
   it to cover components derived from open source.\n \n The content assumes no prior
   knowledge of functional safety, the technical focus is on development process."
 featured_image_name: SFO17-204.jpg
-image:
-  featured: true
-  file_name: SFO17-204.jpg
-  path: /assets/images/featured-images/SFO17-204.jpg
+image_name: SFO17-204.jpg
+image: /assets/images/featured-images/SFO17-204.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-204/
 post_format:
@@ -43,20 +41,20 @@ youtube_video_url: https://www.youtube.com/watch?v=wf4KppZ5L9g
 
 Session ID: SFO17-204
 Session Name: Functional Safety and development tools - SFO17-204
-Speaker: Peter Smith 
+Speaker: Peter Smith
 Track: Toolchain
 
 
 ★ Session Summary ★
 In areas such as automotive where faulty software could lead to a risk to human safety, software development is often covered by functional safety standards such as ISO 26262.
- 
+
  The Development tools used to produce software are themselves complex pieces of software that are far from bug free. In the worst case a development tool can silently inject a fault into the output of its customer's software or give false assurances by failing to detect a diagnoseable error in the input. The functional safety standards used in these markets require the developer's tool choice and specific usage of it to be justified against a standard risk assessment schema, a process known as 'qualification'.
- 
+
  In this presentation I will present:
  - Introduction to functional safety concepts
  - How these are applied to development tools
  - Arm's experience in producing the Arm Compiler Qualification Kit and how we adapted it to cover components derived from open source.
- 
+
  The content assumes no prior knowledge of functional safety, the technical focus is on development process.
 ---------------------------------------------------
 ★ Resources ★
@@ -71,7 +69,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

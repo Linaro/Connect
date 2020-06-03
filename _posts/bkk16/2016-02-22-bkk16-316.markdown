@@ -18,10 +18,7 @@ excerpt: '-- Current state of ACPI on Arm
 
   go sort thru the archive for more details, if they''d like.'
 featured_image_name: BKK16-316.jpg
-image:
-  featured: true
-  file_name: BKK16-316.jpg
-  path: /assets/images/featured-images/BKK16-316.jpg
+image: /assets/images/featured-images/BKK16-316.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-316/
 post_format:

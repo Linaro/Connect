@@ -12,10 +12,8 @@ excerpt: "Today\u2019s world of devices connected to clouds looks set to evolve 
   we will look at some potential futures made possible by the emergence of the fog
   and its implications for the segments that it embraces."
 featured_image_name: HKG18-200K1.png
-image:
-  featured: true
-  file_name: HKG18-200K1.png
-  path: /assets/images/featured-images/HKG18-200K1.png
+image_name: HKG18-200K1.png
+image: /assets/images/featured-images/HKG18-200K1.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-200k1/
 post_format:
@@ -49,7 +47,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-200k1.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

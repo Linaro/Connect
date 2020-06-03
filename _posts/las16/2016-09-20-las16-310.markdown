@@ -10,10 +10,8 @@ excerpt: This presentation will discuss the hardware and software features of th
   Poplar TV platform board. The capabilities and use cases that can be exercised will
   be highlighted.
 featured_image_name: LAS16-310.png
-image:
-  featured: true
-  file_name: LAS16-310.png
-  path: /assets/images/featured-images/LAS16-310.png
+image_name: LAS16-310.png
+image: /assets/images/featured-images/LAS16-310.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-310/
 post_format:

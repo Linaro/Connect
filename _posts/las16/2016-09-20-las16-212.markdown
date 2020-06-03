@@ -8,10 +8,8 @@ comments: false
 date: 2016-09-20 17:10:46
 excerpt: Stephane Le Provost will show in more depth the X20 MediaTek board.
 featured_image_name: LAS16-212.png
-image:
-  featured: true
-  file_name: LAS16-212.png
-  path: /assets/images/featured-images/LAS16-212.png
+image_name: LAS16-212.png
+image: /assets/images/featured-images/LAS16-212.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-212/
 post_format:

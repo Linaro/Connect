@@ -10,10 +10,7 @@ excerpt: An overview of collaborative effort done by Builds and Baselines, LMG, 
   AOSP common.git branches, cross kernel/bootloader feature work that provides more
   form-factor like integration not commonly found on devboards, lessons learned, etc.
 featured_image_name: BKK16-310.jpg
-image:
-  featured: true
-  file_name: BKK16-310.jpg
-  path: /assets/images/featured-images/BKK16-310.jpg
+image: /assets/images/featured-images/BKK16-310.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-310/
 post_format:

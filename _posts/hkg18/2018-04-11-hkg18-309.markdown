@@ -11,16 +11,14 @@ excerpt: Having been around for so long already, many who view keynotes and sess
   of Linaro and 96Boards back to basics. Focusing on the what, why, and how things
   get done within these two segments at a very high level.
 featured_image_name: HKG18-309.png
-image:
-  featured: true
-  file_name: HKG18-309.png
-  path: /assets/images/featured-images/HKG18-309.png
+image_name: HKG18-309.png
+image: /assets/images/featured-images/HKG18-309.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-309/
 post_format:
 - Video
 session_id: HKG18-309
-session_track: 96Boards;Ecosystem Day
+session_track: 96Boards
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92948181
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18309-introduction-to-linaro-and-96boards-for-engineers
 slug: hkg18-309
@@ -35,7 +33,7 @@ youtube_video_url: https://www.youtube.com/watch?v=OtsXNCWfmVw
 Session ID: HKG18-309
 Session Name: HKG18-309 - Introduction to Linaro and 96Boards for Engineers
 Speaker: Robert Wolff
-Track: 96Boards;Ecosystem Day
+Track: 96Boards
 
 
 ## Session Summary
@@ -48,11 +46,11 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-309.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------
-Keyword: 96Boards;Ecosystem Day
+Keyword: 96Boards
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

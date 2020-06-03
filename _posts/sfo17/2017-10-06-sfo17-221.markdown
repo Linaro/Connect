@@ -9,10 +9,8 @@ date: 2017-10-06 16:54:50
 excerpt: Discussion on the various common kernel efforts in Linaro.  What are we doing
   now and how should this evolve?
 featured_image_name: SFO17-221.jpg
-image:
-  featured: true
-  file_name: SFO17-221.jpg
-  path: /assets/images/featured-images/SFO17-221.jpg
+image_name: SFO17-221.jpg
+image: /assets/images/featured-images/SFO17-221.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-221/
 post_format:

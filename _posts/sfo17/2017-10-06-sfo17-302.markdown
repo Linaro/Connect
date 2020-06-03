@@ -19,10 +19,8 @@ excerpt: "The BFQ I/O scheduler has been finally ported to blk-mq, and merged\n 
   of BFQ, and of the latency issues that still affect many,\n if not most Linux-based
   systems"
 featured_image_name: SFO17-302.jpg
-image:
-  featured: true
-  file_name: SFO17-302.jpg
-  path: /assets/images/featured-images/SFO17-302.jpg
+image_name: SFO17-302.jpg
+image: /assets/images/featured-images/SFO17-302.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-302/
 post_format:

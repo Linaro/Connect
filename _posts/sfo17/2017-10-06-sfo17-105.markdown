@@ -13,10 +13,8 @@ excerpt: MINCS is a small container engine written in shell script. This present
   It can be useful for testing cross-built rootfs and importing new applications on
   your platform.
 featured_image_name: SFO17-105.jpg
-image:
-  featured: true
-  file_name: SFO17-105.jpg
-  path: /assets/images/featured-images/SFO17-105.jpg
+image_name: SFO17-105.jpg
+image: /assets/images/featured-images/SFO17-105.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-105/
 post_format:
@@ -36,8 +34,8 @@ youtube_video_url: https://www.youtube.com/watch?v=b9IUaeL39o4
 Session ID: SFO17-105
 Session Name: MINCS - The Container in The Shell Script
  - SFO17-105
-Speaker: Masami Hiramatsu 
-Track: 
+Speaker: Masami Hiramatsu
+Track:
 
 
 ★ Session Summary ★
@@ -56,7 +54,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

@@ -13,10 +13,7 @@ excerpt: 'Last year, to provide at least a stop-gap solution to the problem of g
   well as providing a bit of an update about what is going on with getting platform
   code with EDK2 solved upstream.'
 featured_image_name: BKK16-309A.jpg
-image:
-  featured: true
-  file_name: BKK16-309A.jpg
-  path: /assets/images/featured-images/BKK16-309A.jpg
+image: /assets/images/featured-images/BKK16-309A.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-309a/
 post_format:

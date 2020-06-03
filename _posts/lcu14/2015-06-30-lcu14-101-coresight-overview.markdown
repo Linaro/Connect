@@ -15,10 +15,8 @@ excerpt: Coresight is the name given to a set of IP blocks providing hardware as
   We will conclude with a status of our current upstreaming efforts and how we see
   the coming months unfolding.
 featured_image_name: LCU14-101.jpg
-image:
-  featured: true
-  file_name: LCU14-101.jpg
-  path: /assets/images/featured-images/LCU14-101.jpg
+image_name: LCU14-101.jpg
+image: /assets/images/featured-images/LCU14-101.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-101-coresight-overview/
 post_format:

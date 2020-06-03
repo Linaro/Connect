@@ -7,10 +7,8 @@ categories:
 comments: true
 date: 2015-04-23 15:36:16
 featured_image_name: HKG15-904.jpg
-image:
-  featured: true
-  file_name: HKG15-904.jpg
-  path: /assets/images/featured-images/HKG15-904.jpg
+image_name: HKG15-904.jpg
+image: /assets/images/featured-images/HKG15-904.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-904-scrum-and-kanban-101/
 post_format:
@@ -31,23 +29,23 @@ wordpress_id: 745
 youtube_video_url: https://www.youtube.com/watch?v=o0w8AXW832c
 ---
 
-HKG15-904: Scrum and Kanban 101 
---------------------------------------------------- 
-Speaker: Amro Hassaan 
-Date: February 11, 2015 
---------------------------------------------------- 
-★ Session Summary ★ 
-An introduction to the Agile Methodologies of Scrum and Kanban frameworks. First a review of each framework and then a comparison of each. 
--------------------------------------------------- 
-★ Resources ★ 
-Pathable: https://hkg15.pathable.com/meetings/250819 
-Presentation:  http://www.slideshare.net/linaroorg/hkg15904-scrum-and-kanban-101 
-Etherpad: N/A 
---------------------------------------------------- 
-★ Event Details ★ 
-Linaro Connect Hong Kong 2015 - #HKG15 
-February 9-13th, 2015 
-Regal Airport Hotel Hong Kong Airport 
---------------------------------------------------- 
-http://www.linaro.org 
+HKG15-904: Scrum and Kanban 101
+---------------------------------------------------
+Speaker: Amro Hassaan
+Date: February 11, 2015
+---------------------------------------------------
+★ Session Summary ★
+An introduction to the Agile Methodologies of Scrum and Kanban frameworks. First a review of each framework and then a comparison of each.
+--------------------------------------------------
+★ Resources ★
+Pathable: https://hkg15.pathable.com/meetings/250819
+Presentation:  http://www.slideshare.net/linaroorg/hkg15904-scrum-and-kanban-101
+Etherpad: N/A
+---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2015 - #HKG15
+February 9-13th, 2015
+Regal Airport Hotel Hong Kong Airport
+---------------------------------------------------
+http://www.linaro.org
 http://connect.linaro.org

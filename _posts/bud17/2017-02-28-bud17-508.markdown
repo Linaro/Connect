@@ -16,10 +16,8 @@ excerpt: The Arm ecosystem needs full stack development tools, currently you nee
   cloud/baremetal instances for production testing.  This session is to gather requirements
   and review options that can be provided/developed.
 featured_image_file_name: BUD17-508.jpg
-image:
-  featured: true
-  file_name: BUD17-508.jpg
-  path: /assets/images/featured-images/BUD17-508.jpg
+image_name: BUD17-508.jpg
+image: /assets/images/featured-images/BUD17-508.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-508/
 post_format:

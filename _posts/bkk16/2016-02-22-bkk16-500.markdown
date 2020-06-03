@@ -8,10 +8,7 @@ date: 2016-02-22 17:20:54
 excerpt: What's fundamentally different and requires upstream framework modifications.
   What's low-hanging fruit and just needs someone to attend to it.  Plan of attack
 featured_image_name: BKK16-500.jpg
-image:
-  featured: true
-  file_name: BKK16-500.jpg
-  path: /assets/images/featured-images/BKK16-500.jpg
+image: /assets/images/featured-images/BKK16-500.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-500/
 post_format:

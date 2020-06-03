@@ -13,10 +13,8 @@ excerpt: "An introductory session of a system-level overview at Power State Coor
   in qemu (and/or 96Boards)\n* The specifications are very dynamic - what\u2019s onging
   for ACPI and PSCI"
 featured_image_name: SFO15TR9PSCIACPIandUEFItoboot.jpg
-image:
-  featured: true
-  file_name: SFO15TR9PSCIACPIandUEFItoboot.jpg
-  path: /assets/images/featured-images/SFO15TR9PSCIACPIandUEFItoboot.jpg
+image_name: SFO15TR9PSCIACPIandUEFItoboot.jpg
+image: /assets/images/featured-images/SFO15TR9PSCIACPIandUEFItoboot.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr9-psci-acpi-and-uefi-to-boot/
 post_format:
@@ -42,21 +40,21 @@ Speaker:   Bill Fletcher
 Date: September 24, 2015
 
 ★ Session Description ★
-An introductory session of a system-level overview at Power State Coordination 
+An introductory session of a system-level overview at Power State Coordination
 - Focus on Armv8
 - Goes top-down from ACPI
 - A demo based on the current code in qemu
 - The specifications are very dynamic - what’s onging for ACPI and PSCI
 
-★ Resources ★ 
-Video: 
+★ Resources ★
+Video:
 Presentation:  http://www.slideshare.net/linaroorg/sfo15tr9-psci-acpi-and-uefi-to-boot
 Etherpad: pad.linaro.org/p/sfo15-tr9
-Pathable:  https://sfo15.pathable.com/meetings/303087                                                      
+Pathable:  https://sfo15.pathable.com/meetings/303087
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

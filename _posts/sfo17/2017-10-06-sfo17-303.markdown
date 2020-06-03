@@ -12,10 +12,8 @@ excerpt: This talk presents a highly flexible framework being developed to suppo
   still supporting application binary compatibility across an Instruction Set Architecture
   (ISA) as well as static bindings suitable for deep embedded use.
 featured_image_name: SFO17-303.jpg
-image:
-  featured: true
-  file_name: SFO17-303.jpg
-  path: /assets/images/featured-images/SFO17-303.jpg
+image_name: SFO17-303.jpg
+image: /assets/images/featured-images/SFO17-303.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-303/
 post_format:
@@ -35,7 +33,7 @@ youtube_video_url: https://www.youtube.com/watch?v=msPgXoJ7BK4
 
 Session ID: SFO17-303
 Session Name: A Modular Framework for Componentization - SFO17-303
-Speaker: Yi He 
+Speaker: Yi He
 Track: LNG
 
 
@@ -54,7 +52,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

@@ -12,10 +12,8 @@ excerpt: 'What is the history and culture of Open Source?
   Our presenters have experienced the good, bad and ugly of working with Open Source
   software and will share their wisdom and hard won tips.'
 featured_image_name: SFO17-TR01.jpg
-image:
-  featured: true
-  file_name: SFO17-TR01.jpg
-  path: /assets/images/featured-images/SFO17-TR01.jpg
+image_name: SFO17-TR01.jpg
+image: /assets/images/featured-images/SFO17-TR01.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-tr01/
 post_format:

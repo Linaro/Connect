@@ -7,10 +7,8 @@ categories:
 comments: false
 date: 2016-09-20 17:10:26
 featured_image_name: LAS16-100K2.png
-image:
-  featured: true
-  file_name: LAS16-100K2.png
-  path: /assets/images/featured-images/LAS16-100K2.png
+image_name: LAS16-100K2.png
+image: /assets/images/featured-images/LAS16-100K2.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-100k2/
 post_format:

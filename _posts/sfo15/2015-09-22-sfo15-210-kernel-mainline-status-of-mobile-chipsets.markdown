@@ -20,10 +20,8 @@ excerpt: "In this session, Tim Bird will discuss the mainline status of several 
   needed maintainer assistance\n\nIt is hoped that discussion will ensue about ways
   to continue enhancing this work, to get more SoC code mainlined."
 featured_image_name: SFO15210KernelMainlineStatusofMobileChipsets.jpg
-image:
-  featured: true
-  file_name: SFO15210KernelMainlineStatusofMobileChipsets.jpg
-  path: /assets/images/featured-images/SFO15210KernelMainlineStatusofMobileChipsets.jpg
+image_name: SFO15210KernelMainlineStatusofMobileChipsets.jpg
+image: /assets/images/featured-images/SFO15210KernelMainlineStatusofMobileChipsets.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-210-kernel-mainline-status-of-mobile-chipsets/
 post_format:
@@ -48,22 +46,22 @@ Speaker:  Tim Bird
 Date: September 22, 2015
 
 ★ Session Description ★
-In this session, Tim Bird will discuss the mainline status of several Arm SoCs used in mobile products. The average phone uses kernel software that is 3 years old, 20 versions behind mainline, and has 1 to 3 million lines of code out-of-tree. Tim will describe the “Device Mainlining” project of the Linux foundation CE Workgroup, which seeks to address this problem. Some of the activities of this project are: 
-* publishing tools for mainline analysis 
-* finding big areas where multiple vendors have code out of tree 
-* identifying institutional barriers to corporate developer mainlining, and addressing them through education, training, and collaboration 
+In this session, Tim Bird will discuss the mainline status of several Arm SoCs used in mobile products. The average phone uses kernel software that is 3 years old, 20 versions behind mainline, and has 1 to 3 million lines of code out-of-tree. Tim will describe the “Device Mainlining” project of the Linux foundation CE Workgroup, which seeks to address this problem. Some of the activities of this project are:
+* publishing tools for mainline analysis
+* finding big areas where multiple vendors have code out of tree
+* identifying institutional barriers to corporate developer mainlining, and addressing them through education, training, and collaboration
 * working with upstream to address deficient sub-systems or needed maintainer assistance
 It is hoped that discussion will ensue about ways to continue enhancing this work, to get more SoC code mainlined.
 
-★ Resources ★ 
+★ Resources ★
 Video: https://www.youtube.com/watch?v=-r5yBvqCuSQ
 Presentation:  http://www.slideshare.net/linaroorg/sfo15210-kernel-mainline-status-of-mobile-chipsets
 Etherpad: pad.linaro.org/p/sfo15-210
-Pathable: https://sfo15.pathable.com/meetings/302842                           
+Pathable: https://sfo15.pathable.com/meetings/302842
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

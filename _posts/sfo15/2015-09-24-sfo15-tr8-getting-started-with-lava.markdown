@@ -15,10 +15,8 @@ excerpt: Both the Field and more recently the LAVA lab have worked on HOWTOs to 
   in a VM. The target audience is member engineers or managers who are aware of LAVA
   and would consider to evaluate a pilot local installation
 featured_image_name: SFO15-TR8.jpg
-image:
-  featured: true
-  file_name: SFO15-TR8.jpg
-  path: /assets/images/featured-images/SFO15-TR8.jpg
+image_name: SFO15-TR8.jpg
+image: /assets/images/featured-images/SFO15-TR8.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr8-getting-started-with-lava/
 post_format:
@@ -46,11 +44,11 @@ Date: September 24, 2015
 ★ Session Description ★
 Both the Field and more recently the LAVA lab have worked on HOWTOs to fill a need for a getting-up-and-running thread of documentation alongside the more mature reference information. Using material from both of these the session proposes to show how an evaluation installation of LAVA along with a qemu target can be assembled in a VM. The target audience is member engineers or managers who are aware of LAVA and would consider to evaluate a pilot local installation.
 
-★ Resources ★ 
-Video: 
+★ Resources ★
+Video:
 Presentation: http://www.slideshare.net/linaroorg/sfo15tr8-getting-started-with-lava
 Etherpad: pad.linaro.org/p/sfo15-tr8
-Pathable:  https://sfo15.pathable.com/meetings/303086                                                      
+Pathable:  https://sfo15.pathable.com/meetings/303086
 
 (1) a short Youtube video tutorial:
 
@@ -59,9 +57,9 @@ https://youtu.be/0FlfRMxwC00
 (2) some (large) files in a directory on my people.linaro.org page:
 
 http://people.linaro.org/~bill.fletcher/SFO15-TR8_Getting_Started_With_LAVA_supporting_material/
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

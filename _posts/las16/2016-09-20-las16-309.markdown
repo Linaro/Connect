@@ -28,10 +28,8 @@ excerpt: "Abstract Xen on Arm: The Xen port is exploiting this set of new hardwa
   challenges of porting\nto AArch64, and address the progress of the porting effort
   and the\nnext steps."
 featured_image_name: LAS16-309.png
-image:
-  featured: true
-  file_name: LAS16-309.png
-  path: /assets/images/featured-images/LAS16-309.png
+image_name: LAS16-309.png
+image: /assets/images/featured-images/LAS16-309.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-309/
 post_format:

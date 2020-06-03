@@ -10,10 +10,8 @@ excerpt: "Discuss how the Systems team wound up hosting releases.linaro.org in t
   Austin Colo, how its holding up, and what other services might we \u201Cdogfood\u201D
   in the future."
 featured_image_name: LAS16-103.png
-image:
-  featured: true
-  file_name: LAS16-103.png
-  path: /assets/images/featured-images/LAS16-103.png
+image_name: LAS16-103.png
+image: /assets/images/featured-images/LAS16-103.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-103/
 post_format:

@@ -16,10 +16,8 @@ excerpt: "Building a totally secure boot system goes through establishing a full
   two reference open-source implementations of the Arm Trusted Board Boot Requirement
   and UEFI Secure Boot specifications respectively."
 featured_image_name: SFO17-201.jpg
-image:
-  featured: true
-  file_name: SFO17-201.jpg
-  path: /assets/images/featured-images/SFO17-201.jpg
+image_name: SFO17-201.jpg
+image: /assets/images/featured-images/SFO17-201.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-201/
 post_format:
@@ -40,7 +38,7 @@ youtube_video_url: https://www.youtube.com/watch?v=MZ0PpzKPM5Q
 
 Session ID: SFO17-201
 Session Name: Secure Boot on Arm systems – Building a complete Chain of Trust upon existing industry standards using open-source firmware - SFO17-201
-Speaker: Matteo Carlini 
+Speaker: Matteo Carlini
 Track: Security
 
 
@@ -60,7 +58,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

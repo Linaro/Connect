@@ -9,10 +9,8 @@ categories:
 comments: false
 date: 2015-09-21 00:00:00
 featured_image_name: SFO15106LMGLightningTalks.jpg
-image:
-  featured: true
-  file_name: SFO15106LMGLightningTalks.jpg
-  path: /assets/images/featured-images/SFO15106LMGLightningTalks.jpg
+image_name: SFO15106LMGLightningTalks.jpg
+image: /assets/images/featured-images/SFO15106LMGLightningTalks.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-106-lmg-lightning-talks/
 post_format:
@@ -44,16 +42,16 @@ Status of OpenCL 1.2 in Shamrock
 Introducing the ART Team
 Status on hwcomposer reference implementation.
 
-★ Resources ★ 
+★ Resources ★
 Video: https://www.youtube.com/watch?v=El0jw1n36Ik
 Presentation:  http://www.slideshare.net/linaroorg/sfo15106-lmg-lightning-talks
 Etherpad: pad.linaro.org/p/sfo15-106
-Pathable: https://sfo15.pathable.com/meetings/302655            
+Pathable: https://sfo15.pathable.com/meetings/302655
 
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

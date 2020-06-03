@@ -7,10 +7,8 @@ categories:
 comments: true
 date: 2015-04-23 15:38:31
 featured_image_name: HKG15-109.jpg
-image:
-  featured: true
-  file_name: HKG15-109.jpg
-  path: /assets/images/featured-images/HKG15-109.jpg
+image_name: HKG15-109.jpg
+image: /assets/images/featured-images/HKG15-109.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-109-96boards-software-requirements/
 post_format:

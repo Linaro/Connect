@@ -11,10 +11,7 @@ excerpt: Running Linux in EL2 offers potentially important performance benefits 
   taken so far, an analysis of the benefits, and discusses challenges with upstreaming
   this approach.
 featured_image_name: BKK16-504.jpg
-image:
-  featured: true
-  file_name: BKK16-504.jpg
-  path: /assets/images/featured-images/BKK16-504.jpg
+image: /assets/images/featured-images/BKK16-504.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-504/
 post_format:

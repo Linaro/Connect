@@ -12,10 +12,8 @@ excerpt: This session will present a workflow of analyzing application or benchm
   dumps, reducing optimization problems using compiler debug counters, and submitting
   optimization request/bug report to compiler developers
 featured_image_name: HKG15-501.jpg
-image:
-  featured: true
-  file_name: HKG15-501.jpg
-  path: /assets/images/featured-images/HKG15-501.jpg
+image_name: HKG15-501.jpg
+image: /assets/images/featured-images/HKG15-501.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-501-toolchain-performance-analysis-and-investigations/
 post_format:
@@ -38,23 +36,23 @@ wordpress_id: 762
 youtube_video_url: https://www.youtube.com/watch?v=qTDBHJsWDHw
 ---
 
-HKG15-501: Toolchain Performance Analysis and Investigations 
---------------------------------------------------- 
-Speaker: Maxim Kuvyrkov 
-Date: February 13, 2015 
---------------------------------------------------- 
-★ Session Summary ★ 
-This session will present a workflow of analyzing application or benchmark performance and ways investigate how performance can be increased by improving the toolchain. The session will cover use of profiling tools, reading of compiler optimization dumps, reducing optimization problems using compiler debug counters, and submitting optimization request/bug report to compiler developers 
--------------------------------------------------- 
-★ Resources ★ 
-Pathable: https://hkg15.pathable.com/meetings/250851 
+HKG15-501: Toolchain Performance Analysis and Investigations
+---------------------------------------------------
+Speaker: Maxim Kuvyrkov
+Date: February 13, 2015
+---------------------------------------------------
+★ Session Summary ★
+This session will present a workflow of analyzing application or benchmark performance and ways investigate how performance can be increased by improving the toolchain. The session will cover use of profiling tools, reading of compiler optimization dumps, reducing optimization problems using compiler debug counters, and submitting optimization request/bug report to compiler developers
+--------------------------------------------------
+★ Resources ★
+Pathable: https://hkg15.pathable.com/meetings/250851
 Presentation:  http://www.slideshare.net/linaroorg/hkg15501-toolchain-performance-analysis-and-investigations
-Etherpad: http://pad.linaro.org/p/hkg15-501 
---------------------------------------------------- 
-★ Event Details ★ 
-Linaro Connect Hong Kong 2015 - #HKG15 
-February 9-13th, 2015 
-Regal Airport Hotel Hong Kong Airport 
---------------------------------------------------- 
-http://www.linaro.org 
+Etherpad: http://pad.linaro.org/p/hkg15-501
+---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2015 - #HKG15
+February 9-13th, 2015
+Regal Airport Hotel Hong Kong Airport
+---------------------------------------------------
+http://www.linaro.org
 http://connect.linaro.org

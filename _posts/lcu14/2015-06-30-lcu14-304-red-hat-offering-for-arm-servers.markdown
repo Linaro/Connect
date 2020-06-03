@@ -8,10 +8,8 @@ comments: true
 date: 2015-06-30 17:09:15
 excerpt: Overview of Red Hat for Arm Servers
 featured_image_name: LCU14-304.jpg
-image:
-  featured: true
-  file_name: LCU14-304.jpg
-  path: /assets/images/featured-images/LCU14-304.jpg
+image_name: LCU14-304.jpg
+image: /assets/images/featured-images/LCU14-304.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-304-red-hat-offering-for-arm-servers/
 post_format:

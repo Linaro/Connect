@@ -14,10 +14,7 @@ excerpt: The RP Enterprise Kernel is the combination of Reference Platform topic
   will be rebased to the next developement kernel.  In the case of this example, rebase
   from 4.4 to 4.5.
 featured_image_name: BKK16-313A.jpg
-image:
-  featured: true
-  file_name: BKK16-313A.jpg
-  path: /assets/images/featured-images/BKK16-313A.jpg
+image: /assets/images/featured-images/BKK16-313A.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-313a/
 post_format:

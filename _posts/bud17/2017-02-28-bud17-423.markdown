@@ -9,10 +9,8 @@ excerpt: Having been around for so long already, many who view keynotes and sess
   of Linaro and 96Boards back to basics. Focusing on the what, why, and how things
   get done within these two segments at a very high level.
 featured_image_file_name: BUD17-423.jpg
-image:
-  featured: true
-  file_name: BUD17-423.jpg
-  path: /assets/images/featured-images/BUD17-423.jpg
+image_name: BUD17-423.jpg
+image: /assets/images/featured-images/BUD17-423.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17-423/
 post_format:

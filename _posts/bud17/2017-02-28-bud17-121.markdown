@@ -10,10 +10,8 @@ excerpt: This session will cover getting, and using newer tools such as gcc6 to 
   when building distribution components or 3rd party software for various improvements,
   while maintaining compatibility with the base distribution.
 featured_image_file_name: BUD17-121.jpg
-image:
-  featured: true
-  file_name: BUD17-121.jpg
-  path: /assets/images/featured-images/BUD17-121.jpg
+image_name: BUD17-121.jpg
+image: /assets/images/featured-images/BUD17-121.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-121/
 post_format:

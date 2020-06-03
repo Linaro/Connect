@@ -7,10 +7,8 @@ categories:
 comments: false
 date: 2017-10-06 16:55:02
 featured_image_name: SFO17-300K2.jpg
-image:
-  featured: true
-  file_name: SFO17-300K2.jpg
-  path: /assets/images/featured-images/SFO17-300K2.jpg
+image_name: SFO17-300K2.jpg
+image: /assets/images/featured-images/SFO17-300K2.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-300k2/
 post_format:

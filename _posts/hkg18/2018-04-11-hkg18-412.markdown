@@ -11,10 +11,8 @@ excerpt: Sharing what Linaro has learned through experience, covers background o
   have found confusing or surprising. Additionally there is somespace to cover and
   discuss ideas for how some process issues might be improved.
 featured_image_name: HKG18-412.png
-image:
-  featured: true
-  file_name: HKG18-412.png
-  path: /assets/images/featured-images/HKG18-412.png
+image_name: HKG18-412.png
+image: /assets/images/featured-images/HKG18-412.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-412/
 post_format:
@@ -48,7 +46,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-412.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

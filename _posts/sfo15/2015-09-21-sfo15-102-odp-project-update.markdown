@@ -13,10 +13,8 @@ excerpt: The OpenDataPlane project is now two years old and is beginning to see 
   will discuss recent developments in ODP and its uses and look at what lies ahead
   for this fast-growing open source project.
 featured_image_name: SFO15102ODPProjectUpdate.jpg
-image:
-  featured: true
-  file_name: SFO15102ODPProjectUpdate.jpg
-  path: /assets/images/featured-images/SFO15102ODPProjectUpdate.jpg
+image_name: SFO15102ODPProjectUpdate.jpg
+image: /assets/images/featured-images/SFO15102ODPProjectUpdate.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-102-odp-project-update/
 post_format:
@@ -43,16 +41,16 @@ Date: September 21, 2015
 ★ Session Description ★
 The OpenDataPlane project is now two years old and is beginning to see widespread interest on the part of both application writers and platform providers. This talk will discuss recent developments in ODP and its uses and look at what lies ahead for this fast-growing open source project.
 
-★ Resources ★ 
+★ Resources ★
 Video: https://www.youtube.com/watch?v=QxK3waNaVEQ
 Presentation:  http://www.slideshare.net/linaroorg/sfo15102odp-project-update
 Etherpad: pad.linaro.org/p/sfo15-102
-Pathable: https://sfo15.pathable.com/meetings/302651        
+Pathable: https://sfo15.pathable.com/meetings/302651
 
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org
