@@ -8,16 +8,14 @@ comments: false
 date: 2017-03-23 16:44:51
 excerpt: IRQ based next event prediction
 featured_image_file_name: BUD17-DF17.jpg
-image:
-  featured: true
-  file_name: BUD17-DF17.jpg
-  path: /assets/images/featured-images/BUD17-DF17.jpg
+image_name: BUD17-DF17.jpg
+image: /assets/images/featured-images/BUD17-DF17.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df17/
 post_format:
 - Video
 session_id: BUD17-DF17
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73369124
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/next-event-prediction
 slug: bud17-df17

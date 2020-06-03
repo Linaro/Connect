@@ -13,16 +13,14 @@ excerpt: This session will be a chance for LAVA users to discuss things that are
   and hopefully address some of their concerns later in the week with the dispatcher
   refactoring session.
 featured_image_name: SFO15107LAVAUsersForum.jpg
-image:
-  featured: true
-  file_name: SFO15107LAVAUsersForum.jpg
-  path: /assets/images/featured-images/SFO15107LAVAUsersForum.jpg
+image_name: SFO15107LAVAUsersForum.jpg
+image: /assets/images/featured-images/SFO15107LAVAUsersForum.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-107-lava-users-forum/
 post_format:
 - Video
 session_id: None
-session_track: Validation
+session_track: Automation & CI
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52946383
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15107-lava-users-forum
 slug: sfo15-107-lava-users-forum
@@ -44,16 +42,16 @@ Date: September 21, 2015
 ★ Session Description ★
 This session will be a chance for LAVA users to discuss things that are going right and things that are more challenging when using LAVA. The LAVA team will attend and hopefully address some of their concerns later in the week with the dispatcher refactoring session.
 
-★ Resources ★ 
+★ Resources ★
 Video: https://www.youtube.com/watch?v=BTtFzclVGfg
 Presentation:  http://www.slideshare.net/linaroorg/sfo15107-lava-users-forum
 Etherpad: pad.linaro.org/p/sfo15-107
-Pathable: https://sfo15.pathable.com/meetings/302656    
+Pathable: https://sfo15.pathable.com/meetings/302656
 
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

@@ -16,7 +16,7 @@ excerpt: The TI SimpleLink CC32xx family of MCUs provides an SoC and supporting 
   into Zephyr.
 featured_image_file_name: BUD17-112.jpg
 image:
-  path: /assets/images/featured-images/BUD17-112.jpg
+image: /assets/images/featured-images/BUD17-112.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-112/
 post_format:

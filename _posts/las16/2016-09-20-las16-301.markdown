@@ -16,10 +16,8 @@ excerpt: OpenStack is powering the next generation of the opensource cloud on a 
   interoperability important for OpenStack? And What is Linaro doing to improve the
   interoperability of OpenStack?
 featured_image_name: LAS16-301.png
-image:
-  featured: true
-  file_name: LAS16-301.png
-  path: /assets/images/featured-images/LAS16-301.png
+image_name: LAS16-301.png
+image: /assets/images/featured-images/LAS16-301.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-301/
 post_format:

@@ -11,16 +11,14 @@ excerpt: The time_t type in 32-bit Linux overflows in January 2038, which breaks
   kernel, in glibc and in distributions, what problem are still unsolved, and the
   various ways in which even 64-bit systems are still affected.
 featured_image_file_name: BUD17-512.jpg
-image:
-  featured: true
-  file_name: BUD17-512.jpg
-  path: /assets/images/featured-images/BUD17-512.jpg
+image_name: BUD17-512.jpg
+image: /assets/images/featured-images/BUD17-512.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-512/
 post_format:
 - Video
 session_id: 'BUD17-512 '
-session_track: None
+session_track: Other
 slideshare_presentation_url: None
 slug: bud17-512
 speakers: None
@@ -36,7 +34,7 @@ youtube_video_url: https://www.youtube.com/watch?v=wCdR59kY2Dc
 "Session ID: BUD17-512
 Session Name: 2038 Linux Problem BoF - BUD17-512
 Speaker: Arnd Bergmann
-Track: 
+Track:
 
 
 ★ Session Summary ★
@@ -44,7 +42,7 @@ Track:
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-512/
-Presentation: 
+Presentation:
 Video: https://youtu.be/wCdR59kY2Dc
  ---------------------------------------------------
 

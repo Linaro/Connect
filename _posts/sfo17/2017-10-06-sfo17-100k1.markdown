@@ -8,10 +8,8 @@ comments: false
 date: 2017-10-06 16:53:33
 excerpt: 'Keynote: George Grey (Linaro)'
 featured_image_name: SFO17-100K1.jpg
-image:
-  featured: true
-  file_name: SFO17-100K1.jpg
-  path: /assets/images/featured-images/SFO17-100K1.jpg
+image_name: SFO17-100K1.jpg
+image: /assets/images/featured-images/SFO17-100K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-100k1/
 post_format:

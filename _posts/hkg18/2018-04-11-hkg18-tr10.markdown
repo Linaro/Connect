@@ -20,10 +20,8 @@ excerpt: Experience with automation of test devices in Linaro extends over seven
   in the future. We describe some device design features as hard requirements to enable
   successful automation, and some which are guaranteed to block automation.
 featured_image_name: HKG18-TR10.png
-image:
-  featured: true
-  file_name: HKG18-TR10.png
-  path: /assets/images/featured-images/HKG18-TR10.png
+image_name: HKG18-TR10.png
+image: /assets/images/featured-images/HKG18-TR10.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-tr10/
 post_format:
@@ -57,7 +55,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr10.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

@@ -9,3 +9,7 @@ destination: production.connect.linaro.org
 production: true
 # GitHub branch for netlify CMS config.yml file.
 branch: master
+# Google Analytics / Tag Manager configuration
+google_analytics:
+  enabled: false
+  code: GTM-T9KN28Q

@@ -38,16 +38,14 @@ excerpt: |-
   and an overview of how it works. Then we'll shift into an introduction of Gen-Z,
   and how it can reshape the architecture of computing in the years to come.
 featured_image_file_name: BUD17-503.jpg
-image:
-  featured: true
-  file_name: BUD17-503.jpg
-  path: /assets/images/featured-images/BUD17-503.jpg
+image_name: BUD17-503.jpg
+image: /assets/images/featured-images/BUD17-503.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-503z/
 post_format:
 - Video
 session_id: BUD17-503
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73213778
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/the-hpe-machine-and-genz-bud17503
 slug: bud17-503z
@@ -64,9 +62,9 @@ youtube_video_url: https://www.youtube.com/watch?v=1BVtChDQVyQ
 
 "Session ID: BUD17-503
 Session Name: The HPE Machine and Gen-Z - BUD17-503
-Speaker: 
+Speaker:
 Grant Likely
-Track: 
+Track:
 
 
 ★ Session Summary ★
@@ -80,7 +78,7 @@ This session will cover two topics. It will start with a status update on The Ma
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-503/
-Presentation: 
+Presentation:
 Video: https://youtu.be/1BVtChDQVyQ
  ---------------------------------------------------
 

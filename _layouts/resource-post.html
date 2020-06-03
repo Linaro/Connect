@@ -1,7 +1,40 @@
 ---
-layout: post
+layout: base
 js-package: resources-blog
 css-package: resources-blog
 ---
-{% include connect-resources.html %}
-{{content}}
+<div itemscope="" itemtype="http://schema.org/BlogPosting">
+    <div class="jumbotron d-flex align-items-center jumbotron-fluid {% if page.image %}background_image{% endif%}">
+        {% if page.image %}
+        {% assign image_path = page.image | remove_first: "/assets/images/" %}
+        {% picture header_image {{image_path}} %}
+        {% endif %}
+        <div class="container text-center">
+            <div class="inner_content_wrapper">
+                <h1 class="" itemprop="name headline">{{page.title}}</h1>
+                <p>
+                    <time datetime="{{page.date}}"
+                        itemprop="datePublished">{{page.date |  date: "%A, %B %-d, %Y"}}</time>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid main_content">
+        <div class="row">
+            <div class="container">
+                <div class="row justify-content-sm-center">
+                    <div class="col col-12 col-lg-10 py-4  blog-content">
+                        <article>
+                            {% include connect-resources.html %}
+                            {{content}}
+                        </article>
+                        {% include blog/disqus_comments.html %}
+                    </div>
+                    <div class="col col-12 col-lg-10 py-4 blog-sidebar ">
+                        {% include_cached blog/post_sidebar.html %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

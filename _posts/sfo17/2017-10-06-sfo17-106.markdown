@@ -19,10 +19,8 @@ excerpt: "One of the key features of QEMU is the ability to emulate foreign comp
   to provide user stories of QEMU from Linaro member companies to help direct our
   efforts."
 featured_image_name: SFO17-106.jpg
-image:
-  featured: true
-  file_name: SFO17-106.jpg
-  path: /assets/images/featured-images/SFO17-106.jpg
+image_name: SFO17-106.jpg
+image: /assets/images/featured-images/SFO17-106.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-106/
 post_format:

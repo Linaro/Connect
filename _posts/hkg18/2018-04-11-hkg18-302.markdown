@@ -16,10 +16,8 @@ excerpt: "Huawei HiAI is one of the world's first mobile AI computing platforms 
   HiAI foundation, HiAI engine and HiAI service ,\n\n(In this part Will introduce
   what are the objectives and goals of HiAI Engine and What is it expect to achieve)"
 featured_image_name: HKG18-302.png
-image:
-  featured: true
-  file_name: HKG18-302.png
-  path: /assets/images/featured-images/HKG18-302.png
+image_name: HKG18-302.png
+image: /assets/images/featured-images/HKG18-302.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-302/
 post_format:
@@ -40,7 +38,7 @@ youtube_video_url: https://www.youtube.com/watch?v=ocFRWAOeDCY
 Session ID: HKG18-302
 Session Name: HKG18-302 - Huawei HiAI : Unlock The Future
 Speaker: Zhou Hua
-Track: LEG AI;Ecosystem Day
+Track: LEG AI
 
 
 ## Session Summary
@@ -63,11 +61,11 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-302.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------
-Keyword: LEG AI;Ecosystem Day
+Keyword: LEG AI
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

@@ -9,10 +9,8 @@ date: 2015-06-30 17:08:48
 excerpt: Cisco to present their experience using ODP to provide portable accelerated
   access to crypto functions on various SoCs.
 featured_image_name: LCU14-310.jpg
-image:
-  featured: true
-  file_name: LCU14-310.jpg
-  path: /assets/images/featured-images/LCU14-310.jpg
+image_name: LCU14-310.jpg
+image: /assets/images/featured-images/LCU14-310.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-310-cisco-odp-presentation/
 post_format:

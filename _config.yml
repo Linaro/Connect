@@ -1,95 +1,48 @@
-# Website title - used in the <title> tag of the <head> section of the website.
 title: Linaro Connect
-# Name of the site - used to identify the site for setting the active class in the universal nav
-name: Linaro Connect
-# GitHub branch for netlify CMS config.yml file.
-branch: develop
-# Description of the website used in the Meta Description.
-description: > # this means to ignore newlines until "baseurl:"
+url: https://connect.linaro.org
+baseurl: ""
+description: |-
   Hundreds of the world’s best Linux on Arm developers come to Linaro Connect each time because they know it is the leading place to meet with the global community and to learn about what is going on in the industry.
-# Destination of the Jekyll site upon build of site.
 destination: _site
-# Code of current connect.
-connect-code: SAN19
-connect-text: Linaro Connect San Diego 2019
-previous-connect-code: BKK19
-email: contact@linaro.org
-# Status of current Connect
-connect-status: post
-# Include the Linaro Jekyll Theme
-theme: jumbo-jekyll-theme
-# Permalink for the blog posts of the Jekyll website.
 permalink: /resources/:categories/:slug/
-# Syntax highlighter for 96boards blog
+theme: jumbo-jekyll-theme
 highlighter: rouge
-# Markdown version
 markdown: kramdown
-blog_images_dir: assets/images/content/
-# production status for robots.txt and files alike.
-production: false
 kramdown:
   input: GFM
-  syntax_highlighter: rouge # Syntax highlighter for Kramdown.
-# Encoding of the files being included in the Jekyll Build.
+  syntax_highlighter: rouge
 encoding: utf-8
-# Jekyll configuration for running the site in "Safe" mode.
 safe: false
-# Search label setting for site search with e.g. search/?fields.label=96Boards
-search-label: Linaro
-# Disqus Comments settings.
-disqus: true
-disqus_shortname: 'linaroconnect'
-# This is the url that is used when your site is built for canonicals etc.
-url: "https://connect.linaro.org"
-# Make sure that Liquid errors stop the build
-liquid:
-    error_mode: strict
-# Shema.org Setup -> used in the schema.html include.
-schema:
-    organisation:
-        name: Linaro Connect
-        url: https://www.connect.linaro.org
-        sameAs:
-            - https://twitter.com/linaroorg
-            - https://www.facebook.com/LinaroOrg
-            - https://www.linkedin.com/company/1026961/
-            - https://plus.google.com/+LinaroOnAir
-            - https://github.com/Linaro
-            - https://www.slideshare.net/linaroorg
-        address:
-            street: Harston Mill, Royston Rd
-            town: Harston
-            county: Cambridge
-            post_code: CB22 7GG
-            country_code: UK
-# Files that should be excluded from the Jekyll build.
 exclude:
-  - _site
-  - staging.connect.linaro.org
-  - production.connect.linaro.org
+  - Gemfile
+  - Gemfile.lock
+  - .asset_pipeline
   - build-site.sh
   - check-links.sh
   - CODEOWNERS
-  - Gemfile
-  - Gemfile.lock
   - README.md
-  - vendor
-
-# Google Tag mangager site wide setting - for deployment of site to China.
-google-tag-manager: true
-
-# Social Configuration for the Jekyll SEO plugin.
-social:
-  name: Linaro
-  links:
-    - https://twitter.com/linaroorg
-    - https://www.facebook.com/LinaroOrg
-    - https://www.linkedin.com/company/1026961/
-    - https://plus.google.com/+LinaroOnAir
-    - https://github.com/Linaro
-    - https://www.slideshare.net/linaroorg
-twitter:
-    username: linaroorg
+  - .gitignore
+  - .git
+  - .asset-cache
+  - _static-site
+  - .sass-cache
+  - _site
+  - staging.connect.linaro.org
+  - production.connect.linaro.org
+sass:
+  style: compressed
+  load_paths:
+    - assets/css
+plugins:
+  - japr
+  - jekyll_picture_tag
+  - jekyll-tidy
+collections:
+    # authors:
+    #     output: false
+    #     permalink: /author/:name/
+liquid:
+  error_mode: strict
 
 defaults:
   - scope:
@@ -112,140 +65,113 @@ defaults:
         author: connect
         comments: true
   - scope:
-        path: "/sitemap.xml"
-    values:
-        redirect_from: /sitemap/
-  - scope:
       path: ""
     values:
       image: /assets/images/social-media-image.png
 
-# Gems that should be included in the Jekyll builld of this site.
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-readme-index
-  - uglifier
-  - jekyll-assets
-  - jekyll-tidy
-  - jekyll-data
-  - jekyll-responsive-image
-  - jekyll-redirect-from
-  - autoprefixer-rails
-  - jekyll-paginate-v2
-  - jekyll-include-cache
-
-# Compress the html and beau2tify it.
-jekyll_tidy: # Compress the html and beautify it.
-    compress_html: true
-    exclude: [robots.txt, admin/config.yml] # Exclude the robots.txt file from removal of whitespace
-
-# Jekyll Assets plugin - set js and css to true so it compresses on jekyll build
-assets:
-  compress:
-        js: true
-  autoprefixer:
-      browsers: ["last 2 versions","> 5%","IE 9"]
-  sources:
-    - assets/js/
-    - assets/js/vendor/
-    - assets/js/app/
-    - assets/images
-    - assets/images/sponsors
-    - assets/images/featured-images
-    - assets/images/people
-    - assets/images/speakers
-    - assets/images/content
-    - assets/images/blog
-    - assets/css/
-
-# Sass configuration - compressed and sass_dir of the root Jekyll assets folder.
-sass:
-    style: compressed
-    load_paths:
-        - assets/css
-#paginate_path: /:categories/:num/
-
-# Jekyll Pagination V2 Configuration
-pagination:
-    permalink: '/:num/'
+include: ["_pages"]
+# ----------- THEME / WEBSITE CONFIG ---------------------
+# Blog images/thumbs dir
+blog_images_dir: assets/images/content/
+# Email
+email: connect@linaro.org
+# Company Address
+address:
+  - Harston Mill
+  - Royston Rd, Harston
+  - Cambridge, United Kingdom
+  - CB22 7GG
+# Support for http2 preload features
+http2_resources:
+  - rel: preload
+    as: font
+    type: font/woff2
+    href: /assets/fonts/lato/Lato-regular.woff2
+google_analytics:
+  enabled: true
+  code: GTM-XXXXXX
+# Set the site-wide default social media share image.
+social_media_share_image: /assets/images/social-media-image.png
+# Set the default favicon
+favicon: /assets/images/favicon.png
+# Site Name - your brand name
+name: Linaro Connect
+# The blog filler element
+blog_filler_element: blog/blog_filler_element.html
+# Placeholder avatar
+avatar_placeholder: /assets/images/avatar-placeholder.jpg
+# Blog Post Image Placeholder
+post_placeholder: /assets/images/content/linaro-logo.png
+# Social Media Links
+social_media_channels:
+  github:
+    url: https://github.com/Linaro
+  linkedin:
+    url: https://www.linkedin.com/company/1026961
+  facebook:
+    url: http://facebook.com/LinaroOrg
+  youtube:
+    url: https://www.youtube.com/linaroorg
+  twitter:
+    url: https://twitter.com/linaroorg
+  instagram:
+    url: https://instagram.com/linaroorg
+# Disqus Comments Setup
+disqus:
     enabled: true
-    per_page: 10
-    trail:
-        before: 2
-        after: 2
-    sort_reverse: true
-    sort_field: 'date'
-
-# Jekyll pagination v2 autopages configuration.
-autopages:
-  enabled: false
-using_assets: true
-# Jekyll Collections configuration - Projects, Products and Documentation.
-collections:
-    authors:
-        output: false
-        permalink: /author/:name/
-# Jeykyll Responsive Image Configuration
-responsive_image:
-  cache: false
-  # [Required]
-  # Path to the image template.
-  template: _includes/images/responsive-image.html
-
-  # [Optional, Default: 85]
-  # Quality to use when resizing images.
-  default_quality: 90
-
-  # [Optional, Default: []]
-  # An array of resize configuration objects. Each object must contain at least
-  # a `width` value.
-  sizes:
-    - width: 400  # [Required] How wide the resized image will be.
-      quality: 70 # [Optional] Overrides default_quality for this size.
-    - width: 800
-      quality: 70
-
-  # [Optional, Default: false]
-  # Rotate resized images depending on their EXIF rotation attribute. Useful for
-  # working with JPGs directly from digital cameras and smartphones
-  auto_rotate: false
-
-  # [Optional, Default: false]
-  # Strip EXIF and other JPEG profiles. Helps to minimize JPEG size and win friends
-  # at Google PageSpeed.
-  strip: false
-
-  # [Optional, Default: assets]
-  # The base directory where assets are stored. This is used to determine the
-  # `dirname` value in `output_path_format` below.
-  base_path: assets
-
-  # [Optional, Default: assets/resized/%{filename}-%{width}x%{height}.%{extension}]
-  # The template used when generating filenames for resized images. Must be a
-  # relative path.
-  #
-  # Parameters available are:
-  #   %{dirname}     Directory of the file relative to `base_path` (assets/sub/dir/some-file.jpg => sub/dir)
-  #   %{basename}    Basename of the file (assets/some-file.jpg => some-file.jpg)
-  #   %{filename}    Basename without the extension (assets/some-file.jpg => some-file)
-  #   %{extension}   Extension of the file (assets/some-file.jpg => jpg)
-  #   %{width}       Width of the resized image
-  #   %{height}      Height of the resized image
-  #
-  output_path_format: assets/resized/%{width}/%{basename}
-
-  # [Optional, Default: true]
-  # Whether or not to save the generated assets into the source folder.
-  save_to_source: false
-
-  # [Optional, Default: []]
-  # By default, only images referenced by the responsive_image and responsive_image_block
-  # tags are resized. Here you can set a list of paths or path globs to resize other
-  # images. This is useful for resizing images which will be referenced from stylesheets.
-  extra_images:
-    - assets/foo/bar.png
-    - assets/bgs/*.png
-    - assets/avatars/*.{jpeg,jpg}
-
-include: ['_pages']
+    shortname: linaroconnect
+# Edit on GitHub Settings
+edit-on-github:
+    enabled: true
+    repo: https://www.github.com/Linaro/connect
+# Shema.org settings used in the schema.html include.
+schema:
+  "@type": "Corporation"
+  "name": "Linaro"
+  "url": "https://connect.linaro.org"
+  "logo": "https://www.linaro.org/assets/images/content/linaro-logo.png"
+  "contactPoint":
+    "@type": "ContactPoint"
+    "telephone": "01223 400060"
+    "contactType": "customer service"
+    "availableLanguage": "en"
+  "sameAs":
+    - "https://facebook.com/LinaroOrg"
+    - "https://twitter.com/LinaroOrg"
+    - "https://instagram.com/LinaroOrg"
+    - "https://www.linkedin.com/company/1026961/"
+    - "https://youtube.com/LinaroOrg"
+    - "https://github.com/linaro"
+    - "https://www.linaro.org"
+# FESS search label
+search_label: Linaro
+# ----------- JEKYLL PLUGINS ---------------------
+# -------- jekyll-tidy --------
+jekyll_tidy:
+  # Toggle compression of HTML
+  compress_html: true
+  # JS Path added to exclude to stop errors.
+  exclude: ["assets/**/*.js", "robots.txt", "admin/config.yml"]
+# -------- jekyll_relative_links --------
+jekyll_relative_links:
+  process_all_collections: true
+  verbose: 1
+relative_links:
+  enabled: true
+  collections: false
+# -------- jekyll_relative_links --------
+readme_index:
+  enabled: true
+  remove_originals: false
+# -------- jekyll_picture_tag --------
+picture:
+  nomarkdown: false
+  source: "assets/images"
+  output: "assets/images"
+  relative_url: true
+# -------- japr --------
+asset_pipeline:
+  bundle: true
+  compress: true
+  output_path: assets/js
+  gzip: true

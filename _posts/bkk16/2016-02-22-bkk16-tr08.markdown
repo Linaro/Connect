@@ -12,16 +12,13 @@ excerpt: Generating a specific power model for the platform is a pre-requirement
   rough values for the EAS and IPA power models using nothing but this easily observable
   data. We will not rely on any information provided by OEM or SoC vendor.
 featured_image_name: BKK16-TR08.jpg
-image:
-  featured: true
-  file_name: BKK16-TR08.jpg
-  path: /assets/images/featured-images/BKK16-TR08.jpg
+image: /assets/images/featured-images/BKK16-TR08.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-tr08/
 post_format:
 - Video
 session_id: BKK16-TR08
-session_track: TRAINING
+session_track: Training
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58737759
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16tr08-how-to-generate-power-models-for-eas-and-ipa
 slug: bkk16-tr08

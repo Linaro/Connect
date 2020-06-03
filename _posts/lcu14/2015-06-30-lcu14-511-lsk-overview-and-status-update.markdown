@@ -10,10 +10,8 @@ excerpt: This session will provide a summary of the current status of LSK, an in
   for those not familiar with it and provide a forum for discussion of the status
   and direction with members.
 featured_image_name: LCU14-511.jpg
-image:
-  featured: true
-  file_name: LCU14-511.jpg
-  path: /assets/images/featured-images/LCU14-511.jpg
+image_name: LCU14-511.jpg
+image: /assets/images/featured-images/LCU14-511.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-511-lsk-overview-and-status-update/
 session_id: LCU14-511
@@ -56,7 +54,7 @@ Eatherpad: pad.linaro.org/p/lcu14-511
 ---------------------------------------------------
 
 ★ Event Details ★
-Linaro Connect USA -  #LCU14 
+Linaro Connect USA -  #LCU14
 September 15-19th, 2014
 Hyatt Regency San Francisco Airport
 ---------------------------------------------------

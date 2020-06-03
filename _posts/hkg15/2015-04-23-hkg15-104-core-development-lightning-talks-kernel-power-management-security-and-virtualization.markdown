@@ -20,10 +20,8 @@ excerpt: "After an entire year of full time involvement of Linaro in the CoreSig
   open to opinion or suggestions that can help make CoreSight a better sub-system
   usable by everyone."
 featured_image_name: HKG15-104.jpg
-image:
-  featured: true
-  file_name: HKG15-104.jpg
-  path: /assets/images/featured-images/HKG15-104.jpg
+image_name: HKG15-104.jpg
+image: /assets/images/featured-images/HKG15-104.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-104-core-development-lightning-talks-kernel-power-management-security-and-virtualization/
 post_format:
@@ -45,23 +43,23 @@ wordpress_id: 705
 youtube_video_url: https://www.youtube.com/watch?v=osn1WaOEK9A
 ---
 
-HKG15-104: Core Development Lightning Talks - Kernel, Power Management, Security and Virtualization 
---------------------------------------------------- 
-Speaker: Agustín Benito Bethencourt 
-Date: February 9, 2015 
---------------------------------------------------- 
-★ Session Summary ★ 
-Discussion on Linaro’s core development on Kernel, Power Management, Security and Virtualization 
--------------------------------------------------- 
-★ Resources ★ 
-Pathable: https://hkg15.pathable.com/meetings/250764 
+HKG15-104: Core Development Lightning Talks - Kernel, Power Management, Security and Virtualization
+---------------------------------------------------
+Speaker: Agustín Benito Bethencourt
+Date: February 9, 2015
+---------------------------------------------------
+★ Session Summary ★
+Discussion on Linaro’s core development on Kernel, Power Management, Security and Virtualization
+--------------------------------------------------
+★ Resources ★
+Pathable: https://hkg15.pathable.com/meetings/250764
 Presentation:  http://www.slideshare.net/linaroorg/hkg15104-what-is-linaro-working-on-core-development-lightning-talks
-Etherpad: http://pad.linaro.org/p/hkg15-104 
---------------------------------------------------- 
-★ Event Details ★ 
-Linaro Connect Hong Kong 2015 - #HKG15 
-February 9-13th, 2015 
-Regal Airport Hotel Hong Kong Airport 
---------------------------------------------------- 
-http://www.linaro.org 
+Etherpad: http://pad.linaro.org/p/hkg15-104
+---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2015 - #HKG15
+February 9-13th, 2015
+Regal Airport Hotel Hong Kong Airport
+---------------------------------------------------
+http://www.linaro.org
 http://connect.linaro.org

@@ -19,10 +19,8 @@ excerpt: 'GPGPUs (General Purpose Graphics Processing Unit) are becoming a relev
   see its performance impact. The engineers that implemented this system will be at
   the session to support detailed technical questions.'
 featured_image_file_name: BUD17-502.jpg
-image:
-  featured: true
-  file_name: BUD17-502.jpg
-  path: /assets/images/featured-images/BUD17-502.jpg
+image_name: BUD17-502.jpg
+image: /assets/images/featured-images/BUD17-502.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-502/
 post_format:

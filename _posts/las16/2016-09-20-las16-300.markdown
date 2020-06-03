@@ -14,10 +14,8 @@ excerpt: SoC Vendors, board vendors, software middle layers, scripting languages
   what kinda tooling might exist from different vendors, what we could utilize (device
   tree) and what issues that creates.
 featured_image_name: LAS16-300.png
-image:
-  featured: true
-  file_name: LAS16-300.png
-  path: /assets/images/featured-images/LAS16-300.png
+image_name: LAS16-300.png
+image: /assets/images/featured-images/LAS16-300.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-300/
 post_format:

@@ -9,10 +9,7 @@ excerpt: This presentation provides the background for the requirements of the l
   96Boards TV Platform specification.  It describes the range of set-top features
   that can be delivered and focuses on the key software and firmware support.
 featured_image_name: BKK16-303.jpg
-image:
-  featured: true
-  file_name: BKK16-303.jpg
-  path: /assets/images/featured-images/BKK16-303.jpg
+image: /assets/images/featured-images/BKK16-303.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-303/
 post_format:

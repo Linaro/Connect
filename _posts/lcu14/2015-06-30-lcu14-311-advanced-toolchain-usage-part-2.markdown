@@ -35,10 +35,8 @@ excerpt: 'This set of sessions will go into detail on many toolchain topics and 
 
   Debugging binaries compiled with optimizations.'
 featured_image_name: LCU14-311.jpg
-image:
-  featured: true
-  file_name: LCU14-311.jpg
-  path: /assets/images/featured-images/LCU14-311.jpg
+image_name: LCU14-311.jpg
+image: /assets/images/featured-images/LCU14-311.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-311-advanced-toolchain-usage-part-2/
 post_format:

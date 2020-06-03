@@ -14,10 +14,8 @@ excerpt: The 96Boards Consumer Edition specification was launched at Linaro Conn
   Enterprise Edition specification face to face and determine key directions for the
   software platform that will run across these new boards.
 featured_image_name: SFO1510896BoardsEnterpriseEditionIntroduction.jpg
-image:
-  featured: true
-  file_name: SFO1510896BoardsEnterpriseEditionIntroduction.jpg
-  path: /assets/images/featured-images/SFO1510896BoardsEnterpriseEditionIntroduction.jpg
+image_name: SFO1510896BoardsEnterpriseEditionIntroduction.jpg
+image: /assets/images/featured-images/SFO1510896BoardsEnterpriseEditionIntroduction.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-108-96boards-enterprise-edition-introduction/
 post_format:
@@ -45,16 +43,16 @@ Date: September 21, 2015
 ★ Session Description ★
 The 96Boards Consumer Edition specification was launched at Linaro Connect Hong Kong 2015 in February and the Enterprise Edition specification was publicly released at the end of June. This session is the first opportunity to discuss the Enterprise Edition specification face to face and determine key directions for the software platform that will run across these new boards.
 
-★ Resources ★ 
+★ Resources ★
 Video: https://www.youtube.com/watch?v=cTGpTAEPMv4
 Presentation:  http://www.slideshare.net/linaroorg/sfo15108-96boards-enterprise-edition-introduction
 Etherpad: pad.linaro.org/p/sfo15-108
-Pathable: https://sfo15.pathable.com/meetings/302658   
+Pathable: https://sfo15.pathable.com/meetings/302658
 
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

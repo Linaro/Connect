@@ -7,10 +7,8 @@ comments: false
 date: 2017-10-06 16:54:55
 excerpt: Find out more about the Purism line of laptops and new Kickstarter phone.
 featured_image_name: SFO17-222.jpg
-image:
-  featured: true
-  file_name: SFO17-222.jpg
-  path: /assets/images/featured-images/SFO17-222.jpg
+image_name: SFO17-222.jpg
+image: /assets/images/featured-images/SFO17-222.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-222/
 post_format:
@@ -28,7 +26,7 @@ youtube_video_url: https://www.youtube.com/watch?v=xPxpoPyo_Qk
 Session ID: SFO17-222
 Session Name: Purism BoF - SFO17-222
 Speaker: Steve Taylor -Todd Weaver
-Track: 
+Track:
 
 
 ★ Session Summary ★
@@ -36,7 +34,7 @@ Find out more about the Purism line of laptops and new Kickstarter phone.
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-222/
-Presentation: 
+Presentation:
 Video: https://www.youtube.com/watch?v=xPxpoPyo_Qk
  ---------------------------------------------------
 
@@ -46,7 +44,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

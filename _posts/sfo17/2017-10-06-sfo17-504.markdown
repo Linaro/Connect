@@ -10,10 +10,8 @@ excerpt: "A lot of people may be curious about what is happening on the (e)MMC/S
   front, let\u2019s gather up and talk to the maintainers and hear out what has been
   going on and what is happening next."
 featured_image_name: SFO17-504.jpg
-image:
-  featured: true
-  file_name: SFO17-504.jpg
-  path: /assets/images/featured-images/SFO17-504.jpg
+image_name: SFO17-504.jpg
+image: /assets/images/featured-images/SFO17-504.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-504/
 post_format:

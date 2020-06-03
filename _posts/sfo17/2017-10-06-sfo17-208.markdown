@@ -12,10 +12,8 @@ excerpt: "AOSP TV could benefit from having direct access to DVB TV and radio st
   access DVB tuners - and a connection into AOSP and into IP streaming. This presentation
   introduces the library, its API, and its possible uses with AOSP TV."
 featured_image_name: SFO17-208.jpg
-image:
-  featured: true
-  file_name: SFO17-208.jpg
-  path: /assets/images/featured-images/SFO17-208.jpg
+image_name: SFO17-208.jpg
+image: /assets/images/featured-images/SFO17-208.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-208/
 post_format:
@@ -35,7 +33,7 @@ youtube_video_url: https://www.youtube.com/watch?v=BMmqtyqwmaM
 
 Session ID: SFO17-208
 Session Name: AOSP TV Input Framework: DVB & IP video sources - SFO17-208
-Speaker: Bero Rosenkränzer 
+Speaker: Bero Rosenkränzer
 Track: LHG
 
 
@@ -54,7 +52,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

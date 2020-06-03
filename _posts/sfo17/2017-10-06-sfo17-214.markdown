@@ -15,10 +15,8 @@ excerpt: "qa-reports.linaro.org is a new service that can provide QA dashboards 
   to find an existing solution that would serve our needs. SQUAD is written in Python
   and licensed under the GPLv3."
 featured_image_name: SFO17-214.jpg
-image:
-  featured: true
-  file_name: SFO17-214.jpg
-  path: /assets/images/featured-images/SFO17-214.jpg
+image_name: SFO17-214.jpg
+image: /assets/images/featured-images/SFO17-214.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-214/
 post_format:

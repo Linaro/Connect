@@ -23,10 +23,8 @@ excerpt: '- Secure Key Store (SKS) - PKCS#11 based client library to be used wit
 
   - - Relations with Gatekeeper?'
 featured_image_name: HKG18-HK07.png
-image:
-  featured: true
-  file_name: HKG18-HK07.png
-  path: /assets/images/featured-images/HKG18-HK07.png
+image_name: HKG18-HK07.png
+image: /assets/images/featured-images/HKG18-HK07.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-hk07/
 post_format:
@@ -65,7 +63,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-hk07.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

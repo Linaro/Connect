@@ -18,10 +18,8 @@ excerpt: "The 2016.12 release includes sufficient support that all teams should 
   cannot support V1 and V2 simultaneously. The timetable of how V1 support will be
   removed during 2017 will be outlined."
 featured_image_file_name: BUD17-317.jpg
-image:
-  featured: true
-  file_name: BUD17-317.jpg
-  path: /assets/images/featured-images/BUD17-317.jpg
+image_name: BUD17-317.jpg
+image: /assets/images/featured-images/BUD17-317.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-317/
 post_format:
@@ -50,7 +48,7 @@ Track: LAVA
 
 ★ Session Summary ★
 The 2016.12 release includes sufficient support that all teams should now be able to port all their test jobs to LAVA V2. Some changes to the test definitions may be useful to make better use of V2 and to increase the portability of the test definitions in line with QA recommendations.
- 
+
 This presentation will showcase the current examples of how to migrate V1 MultiNode Android test jobs to V2 LXC and how to use V2 Secondary Media to support deployments on Juno. Details will also be included about the LAVA team can help test writers migrate their test jobs as the number of V2 devices increases and the number of V1 devices decreases. Details of how the Cambridge lab will migrate will also be covered as some device-types cannot support V1 and V2 simultaneously. The timetable of how V1 support will be removed during 2017 will be outlined.
 ---------------------------------------------------
 ★ Resources ★

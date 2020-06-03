@@ -9,10 +9,8 @@ date: 2017-10-06 16:55:11
 excerpt: The bootloader is where it all begins. This session sums up our experiences
   with various signature types, data formats, implementations and how to choose.
 featured_image_name: SFO17-306.jpg
-image:
-  featured: true
-  file_name: SFO17-306.jpg
-  path: /assets/images/featured-images/SFO17-306.jpg
+image_name: SFO17-306.jpg
+image: /assets/images/featured-images/SFO17-306.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-306/
 post_format:
@@ -51,7 +49,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

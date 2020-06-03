@@ -1,5 +1,5 @@
 ---
-title: Linux Code of Conduct            
+title: Linux Code of Conduct
 speaker:
     name: Mishi Choudhary
     job-title: Legal Director at Software Freedom Law Center (SFLC)
@@ -30,7 +30,7 @@ speaker:
         member of the Aspen Global Leadership Network.In 2017, she won a Digital
         Women Award in the “Social Impact” category for her work with SFLC.in.
 image:
-    path: /assets/images/speakers/bkk19/keynotes/mishi-choudhary.jpg
+  image: /assets/images/speakers/bkk19/keynotes/mishi-choudhary.jpg
     featured: true
 event: BKK19
 # slot:

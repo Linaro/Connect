@@ -8,10 +8,8 @@ comments: false
 date: 2016-09-20 17:10:32
 excerpt: Feedback and support for and by users of LAVA
 featured_image_name: LAS16-107.png
-image:
-  featured: true
-  file_name: LAS16-107.png
-  path: /assets/images/featured-images/LAS16-107.png
+image_name: LAS16-107.png
+image: /assets/images/featured-images/LAS16-107.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-107/
 post_format:

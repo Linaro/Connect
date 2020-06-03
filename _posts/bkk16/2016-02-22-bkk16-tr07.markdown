@@ -13,16 +13,13 @@ excerpt: The complexity of the tools and working environments is very high in IT
   come together and discuss hardware/software setups for our workspaces and learn
   from each other.
 featured_image_name: BKK16-TR07.jpg
-image:
-  featured: true
-  file_name: BKK16-TR07.jpg
-  path: /assets/images/featured-images/BKK16-TR07.jpg
+image: /assets/images/featured-images/BKK16-TR07.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-tr07/
 post_format:
 - Video
 session_id: BKK16-TR07
-session_track: TRAINING
+session_track: Training
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59652418
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16tr07-workspace-setup-tips-and-tricks?qid=7dfc7e34-166e-4d6e-a1e8-e4d0998b2fdc&v=&b=&from_search=1
 slug: bkk16-tr07

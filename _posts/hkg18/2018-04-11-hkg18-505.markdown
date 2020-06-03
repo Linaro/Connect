@@ -22,10 +22,8 @@ excerpt: 'UEFI is a firmware specification created by Intel with portability in 
   architecture''s function call ABIs on the fly and learn how to integrate all of
   this into a working firmware, running on real hardware, driving a real PCIe adapter.'
 featured_image_name: HKG18-505.png
-image:
-  featured: true
-  file_name: HKG18-505.png
-  path: /assets/images/featured-images/HKG18-505.png
+image_name: HKG18-505.png
+image: /assets/images/featured-images/HKG18-505.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-505/
 post_format:
@@ -61,7 +59,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-505.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

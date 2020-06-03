@@ -33,10 +33,8 @@ excerpt: 'Arm Linux has traditionally been the the operating system of choice fo
 
   invest more time in these systems?'''
 featured_image_name: LCU14-109.jpg
-image:
-  featured: true
-  file_name: LCU14-109.jpg
-  path: /assets/images/featured-images/LCU14-109.jpg
+image_name: LCU14-109.jpg
+image: /assets/images/featured-images/LCU14-109.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-109-embedded-systems-how-low-can-you-go/
 post_format:

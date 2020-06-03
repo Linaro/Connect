@@ -9,10 +9,8 @@ date: 2016-09-20 17:10:39
 excerpt: Review of the direction the Reference Software Platform is taking for each
   of the variants
 featured_image_name: LAS16-202.png
-image:
-  featured: true
-  file_name: LAS16-202.png
-  path: /assets/images/featured-images/LAS16-202.png
+image_name: LAS16-202.png
+image: /assets/images/featured-images/LAS16-202.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-202/
 post_format:

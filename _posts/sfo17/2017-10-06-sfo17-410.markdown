@@ -18,10 +18,8 @@ excerpt: Nested virtualization is increasingly important because of the need to 
   nested virtualization. We will present performance results and discuss future techniques
   to improve performance.
 featured_image_name: SFO17-410.jpg
-image:
-  featured: true
-  file_name: SFO17-410.jpg
-  path: /assets/images/featured-images/SFO17-410.jpg
+image_name: SFO17-410.jpg
+image: /assets/images/featured-images/SFO17-410.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-410/
 post_format:

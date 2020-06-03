@@ -14,7 +14,7 @@ excerpt: "A proposal to add ODP based support for PCI-e Endpoint mode of operati
   TX SoC"
 featured_image_file_name: BUD17-107.jpg
 image:
-  path: /assets/images/featured-images/BUD17-107.jpg
+image: /assets/images/featured-images/BUD17-107.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-107/
 post_format:

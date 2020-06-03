@@ -11,10 +11,8 @@ excerpt: Present Thundersoft current practices on Linux based Infotainment syste
   time, share some of common concerns, such as fast boot, early RVC, real-time supporting
   & security related topics
 featured_image_name: SFO17-213.jpg
-image:
-  featured: true
-  file_name: SFO17-213.jpg
-  path: /assets/images/featured-images/SFO17-213.jpg
+image_name: SFO17-213.jpg
+image: /assets/images/featured-images/SFO17-213.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-213/
 post_format:
@@ -53,7 +51,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

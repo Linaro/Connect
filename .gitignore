@@ -11,3 +11,4 @@ production.connect.linaro.org
 resources/yvr18/resources.json
 staging.connect.linaro.org
 Gemfile.lock
+.asset_pipeline/

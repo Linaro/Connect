@@ -13,10 +13,8 @@ excerpt: "LMG team, in collaboration with Toolchains team, has worked on multipl
   Getting AOSP to build with gcc 6/7\n \n - Building kernels with clang\n\n - Native
   AOSP builds and development"
 featured_image_file_name: BUD17-202.jpg
-image:
-  featured: true
-  file_name: BUD17-202.jpg
-  path: /assets/images/featured-images/BUD17-202.jpg
+image_name: BUD17-202.jpg
+image: /assets/images/featured-images/BUD17-202.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-202/
 post_format:

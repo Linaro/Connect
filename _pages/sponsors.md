@@ -2,7 +2,7 @@
 title: Sponsor Connect
 description: Sponsor the event where leading hardware and software Arm ecosystem players come together.
 permalink: /sponsors/
-js-package: sponsor
+# js-package: sponsor
 css-package: sponsor
 layout: flow
 jumbotron:

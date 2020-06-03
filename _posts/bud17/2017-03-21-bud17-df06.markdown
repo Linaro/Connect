@@ -8,16 +8,14 @@ comments: false
 date: 2017-03-21 15:16:42
 excerpt: Apache Ambari and Big data components on AARCH64
 featured_image_file_name: BUD17-DF06.jpg
-image:
-  featured: true
-  file_name: BUD17-DF06.jpg
-  path: /assets/images/featured-images/BUD17-DF06.jpg
+image_name: BUD17-DF06.jpg
+image: /assets/images/featured-images/BUD17-DF06.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df06/
 post_format:
 - Video
 session_id: BUD17-DF06
-session_track: Apache Ambari and Big data components on AARCH64
+session_track: Big Data
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73368246
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/apache-ambari-and-big-data-components-on-aarch64
 slug: bud17-df06
@@ -25,6 +23,7 @@ speakers: LEG Bigdata
 title: Apache Ambari and Big data components on AARCH64-BUD17-DF06
 video_length: 08:41
 video_thumbnail: None
+tag: demo
 wordpress_id: 5641
 youtube_video_url: https://www.youtube.com/watch?v=64l5CM9AJi4
 ---

@@ -11,10 +11,8 @@ excerpt: Describe step by step what components a packet goes through and details
   the definite presentation to understand fundamental differences with DPDK and how
   ODP solves low end and high end networking issues.
 featured_image_file_name: BUD17-300.jpg
-image:
-  featured: true
-  file_name: BUD17-300.jpg
-  path: /assets/images/featured-images/BUD17-300.jpg
+image_name: BUD17-300.jpg
+image: /assets/images/featured-images/BUD17-300.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-300/
 post_format:

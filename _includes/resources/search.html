@@ -1,0 +1,96 @@
+{% if include.object.category %}
+    {% assign posts = site.categories[include.object.category] %}
+{% else %}
+    {% assign posts = site.posts %}
+{% endif %}
+<div class="row" id="resourcesSearchAndFilter" data-event="{% if include.object.category %}{{include.object.category}}{% else %}all{% endif%}">
+    <div class="container">
+        <div class="col col-12">
+            <form class="form-inline" onsubmit="event.preventDefault();">
+                <div class="form-group mb-2 w-100">
+                    <input type="text" class="form-control mr-sm-2 w-100" id="searchQuery" placeholder="Enter your search query...">
+                </div>
+                {% unless include.object.category %}
+                <div class="form-group">
+                    <label class="mr-sm-2" for="exampleFormControlSelect1">Event</label>
+                    <select class="form-control" id="eventSelect">
+                        {% assign unique_categories = posts | map: 'categories' | join: ',' | join: ',' | split: ',' | uniq | sort %}
+                        <option value="all">All ({{posts | size}})</option>
+                        {% for cat in unique_categories %}
+                            <option value="{{cat}}">{{cat | upcase }} ({{site.categories[cat] | size}})</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                {% endunless %}
+                <div class="form-group">
+                    <label class="mx-sm-2" for="exampleFormControlSelect1">Topics</label>
+                    <select class="form-control" id="trackSelect">
+                        {% assign actual_unique_tracks = '' | split: ',' %}
+                        {% assign unique_tracks = posts | map: 'session_track' | join: ',' | join: ',' | split: ',' | uniq | sort %}
+                        {% for tag in unique_tracks %}
+                            {% assign stripped_tag  = tag | strip %}
+                            {% if stripped_tag != "" %}
+                                {% assign actual_unique_tracks = actual_unique_tracks | push: stripped_tag %}
+                            {% endif %}
+                        {% endfor %}
+                        {% assign actual_unique_tracks = actual_unique_tracks | uniq | sort %}
+                        <option value="all">All</option>
+                        {% for cat in actual_unique_tracks %}
+                            <option value="{{cat}}">{{cat}}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label class="mx-sm-2" for="exampleFormControlSelect1">Type</label>
+                    <select class="form-control" id="typeSelect">
+                        <option value="all">All</option>
+                        <option value="session">Session</option>
+                        <option value="interview">Interview</option>
+                        <option value="demo">Demo</option>
+                    </select>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="row" id="resources">
+    {% assign resource_posts = posts | sort: 'date' | reverse %}
+    {% for post in resource_posts %}
+        <div class="col col-12 col-sm-6 col-lg-3 blog-post-item-col p-3" data-identifier="{{post.path}}" data-type="{{post.tag}}"
+         data-event="{{post.categories[0]}}" data-track="{{post.session_track}}" {% if forloop.index < 13 %}style="display:block"{% else %}style="display:none"{% endif %}>
+         <div class="card h-100 ">
+                <a href="{{post.url}}" class="btn btn-primary card_img_link p-0">
+                <div class="blog_image_header">
+                    {% if post.image %}
+                        {% assign block_image = post.image | remove_first: "/assets/images/" %}
+                        {% capture block_image_alt %}{{post.title}} image {% endcapture %}
+                    {% else %}
+                        {% assign block_image = site.post_placeholder | remove_first: "/assets/images/" %}
+                        {% capture block_image_alt %}Blog post placeholder image {% endcapture %}
+                    {% endif %}
+                    {% picture featured_blog_image {{block_image}} --alt {{block_image_alt}} %}
+                </div>
+                </a>
+                <div class="card-body">
+                    <h5 class="card-title">{{post.title}}</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">{{ post.date | date: "%A, %B %-d, %Y"}}</h6>
+                    <p class="card-text">
+                        {% if post.description %}
+                            {{post.description | strip_html | truncatewords:30 }}
+                        {% else %}
+                            {{ post.content | strip_html | truncatewords:30 }}
+                        {% endif %}
+                    </p>
+                    <p class="card-text">
+                        <a href="{{post.url}}" class="btn btn-primary">View</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+   {% endfor %}
+   <div class="col col-12 text-center">
+       <a class="btn btn-lg btn-primary my-4" href="#" id="load_more">
+           Load More
+       </a>
+   </div>
+</div>

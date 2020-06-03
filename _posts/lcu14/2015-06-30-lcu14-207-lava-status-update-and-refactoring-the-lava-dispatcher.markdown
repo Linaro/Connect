@@ -9,10 +9,8 @@ date: 2015-06-30 17:09:23
 excerpt: The LAVA team will present the current status of the LAVA product and highlight
   the the in-progress dispatcher re-factoring.
 featured_image_name: LCU14-207.jpg
-image:
-  featured: true
-  file_name: LCU14-207.jpg
-  path: /assets/images/featured-images/LCU14-207.jpg
+image_name: LCU14-207.jpg
+image: /assets/images/featured-images/LCU14-207.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-207-lava-status-update-and-refactoring-the-lava-dispatcher/
 post_format:

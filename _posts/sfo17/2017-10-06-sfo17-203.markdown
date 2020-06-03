@@ -11,10 +11,8 @@ excerpt: This presentation gives an updated RAS architecture on Arm64 base on RA
   PI-SMM.  Will talk about all the components of the new RAS architecture on Arm64,
   gives audience the current status and the next step of development.
 featured_image_name: SFO17-203.jpg
-image:
-  featured: true
-  file_name: SFO17-203.jpg
-  path: /assets/images/featured-images/SFO17-203.jpg
+image_name: SFO17-203.jpg
+image: /assets/images/featured-images/SFO17-203.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-203/
 post_format:

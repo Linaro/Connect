@@ -21,7 +21,7 @@ excerpt: "\"Delivering a well working distribution is hard. There are a lot of d
   it for Arm specific use cases.\""
 featured_image_file_name: BUD17-113.jpg
 image:
-  path: /assets/images/featured-images/BUD17-113.jpg
+image: /assets/images/featured-images/BUD17-113.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-113/
 post_format:

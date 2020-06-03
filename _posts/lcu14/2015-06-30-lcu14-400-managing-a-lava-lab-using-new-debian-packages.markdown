@@ -11,10 +11,8 @@ excerpt: This session will provide a summary of the process to install, update a
   is managed and any thoughts or problems we know were experienced when the LAB upgraded
   from Ubuntu 12.04 to Debian Jessie.
 featured_image_name: LCU14-400.jpg
-image:
-  featured: true
-  file_name: LCU14-400.jpg
-  path: /assets/images/featured-images/LCU14-400.jpg
+image_name: LCU14-400.jpg
+image: /assets/images/featured-images/LCU14-400.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-400-managing-a-lava-lab-using-new-debian-packages/
 session_id: LCU14-400

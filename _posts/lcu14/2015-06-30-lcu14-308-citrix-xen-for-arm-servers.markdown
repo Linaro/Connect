@@ -8,10 +8,8 @@ comments: true
 date: 2015-06-30 17:09:10
 excerpt: Overview of Xen for Arm Servers
 featured_image_name: LCU14-308.jpg
-image:
-  featured: true
-  file_name: LCU14-308.jpg
-  path: /assets/images/featured-images/LCU14-308.jpg
+image_name: LCU14-308.jpg
+image: /assets/images/featured-images/LCU14-308.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-308-citrix-xen-for-arm-servers/
 post_format:

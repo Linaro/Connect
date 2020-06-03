@@ -9,16 +9,14 @@ date: 2017-02-28 12:05:41
 excerpt: "Discuss IPsec offload from:\n Application perspective\n Application developer
   perspective\n Implementation perspective"
 featured_image_file_name: BUD17-306.jpg
-image:
-  featured: true
-  file_name: BUD17-306.jpg
-  path: /assets/images/featured-images/BUD17-306.jpg
+image_name: BUD17-306.jpg
+image: /assets/images/featured-images/BUD17-306.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-306/
 post_format:
 - Video
 session_id: BUD17-306
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73170768
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17306-odp-ipsec-offload-panel
 slug: bud17-306
@@ -38,7 +36,7 @@ youtube_video_url: https://youtu.be/EZXiHRU2uZM
 Session Name: ODP IPsec offload panel - BUD17-306
 Speaker: Bill Fischofer, Bala Manoharan,
 Nikhil Agarwal, Bogdan Pricope, Petri Savolainen
-Track: 
+Track:
 
 
 ★ Session Summary ★

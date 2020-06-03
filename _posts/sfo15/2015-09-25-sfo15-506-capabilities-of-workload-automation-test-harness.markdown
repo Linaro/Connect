@@ -11,16 +11,14 @@ date: 2015-09-25 00:00:00
 excerpt: "Show off current capabilities (benchmarking, power measurements), discuss
   Linaro\u2019s use of the Workload Automation (WA), suite and invite feedback"
 featured_image_name: SFO15506CapabilitiesofWorkloadAutomationtestharness.jpg
-image:
-  featured: true
-  file_name: SFO15506CapabilitiesofWorkloadAutomationtestharness.jpg
-  path: /assets/images/featured-images/SFO15506CapabilitiesofWorkloadAutomationtestharness.jpg
+image_name: SFO15506CapabilitiesofWorkloadAutomationtestharness.jpg
+image: /assets/images/featured-images/SFO15506CapabilitiesofWorkloadAutomationtestharness.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-506-capabilities-of-workload-automation-test-harness/
 post_format:
 - Video
 session_id: None
-session_track: Validation
+session_track: Automation & CI
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53134430
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15506-capabilities-of-workload-automation-test-harness-53134430
 slug: sfo15-506-capabilities-of-workload-automation-test-harness

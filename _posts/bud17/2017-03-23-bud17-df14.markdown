@@ -8,16 +8,14 @@ comments: false
 date: 2017-03-23 16:48:50
 excerpt: Optimized Android N MR1 + 4.4 Kernel
 featured_image_file_name: BUD17-DF14.jpg
-image:
-  featured: true
-  file_name: BUD17-DF14.jpg
-  path: /assets/images/featured-images/BUD17-DF14.jpg
+image_name: BUD17-DF14.jpg
+image: /assets/images/featured-images/BUD17-DF14.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df14/
 post_format:
 - Video
 session_id: BUD17-DF14
-session_track: Optimized Android N MR1 + 4.4 Kernel
+session_track: Android, Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73368884
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/optimized-android-n-mr1-44-kernel
 slug: bud17-df14

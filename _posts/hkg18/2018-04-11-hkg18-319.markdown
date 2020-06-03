@@ -14,16 +14,14 @@ excerpt: As the earliest industry alliance based on Arm64, GCC is working on pro
   and tasks, organizational structure and related business progress. We are looking
   forward to enhance the cooperation between GCC and Linaro in the future.
 featured_image_name: HKG18-319.jpg
-image:
-  featured: true
-  file_name: HKG18-319.jpg
-  path: /assets/images/featured-images/HKG18-319.jpg
+image_name: HKG18-319.jpg
+image: /assets/images/featured-images/HKG18-319.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-319/
 post_format:
 - Video
 session_id: HKG18-319
-session_track: LEG;Ecosystem Day
+session_track: LEG
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92327228
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18319-dr-tao-wang-gcc-step-into-green-computing-cornsortium
 slug: hkg18-319
@@ -38,7 +36,7 @@ youtube_video_url: https://www.youtube.com/watch?v=KMGswEPaf4k
 Session ID: HKG18-319
 Session Name: HKG18-319 - Dr. Tao Wang (GCC): Step into Green Computing Cornsortium
 Speaker: Not Available
-Track: LEG;Ecosystem Day
+Track: LEG
 
 
 ## Session Summary
@@ -51,11 +49,11 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-319.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------
-Keyword: LEG;Ecosystem Day
+Keyword: LEG
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

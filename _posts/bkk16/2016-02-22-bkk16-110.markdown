@@ -15,10 +15,7 @@ excerpt: "Smart connected devices such as mobile phones, tablets and Digital TVs
   trusted boot software manages the secure boot of an Arm platform. Finally, it gives
   some pointers on how to get started with OP-TEE."
 featured_image_name: BKK16-110.jpg
-image:
-  featured: true
-  file_name: BKK16-110.jpg
-  path: /assets/images/featured-images/BKK16-110.jpg
+image: /assets/images/featured-images/BKK16-110.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-110/
 post_format:

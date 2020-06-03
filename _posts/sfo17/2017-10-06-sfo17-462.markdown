@@ -5,10 +5,8 @@ categories:
 comments: false
 date: 2017-09-29 19:03:52
 featured_image_name: SFO17-462.png
-image:
-  featured: true
-  file_name: SFO17-462.png
-  path: /assets/images/featured-images/SFO17-462.png
+image_name: SFO17-462.png
+image: /assets/images/featured-images/SFO17-462.png
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-462/
 post_format:
@@ -24,7 +22,7 @@ wordpress_id: 6864
 
 Session ID: SFO17-462
 Session Name: TBD - SFO17-462
-Speaker: 
+Speaker:
 Track: LEG
 
 
@@ -33,8 +31,8 @@ Track: LEG
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-462/
-Presentation: 
-Video: 
+Presentation:
+Video:
  ---------------------------------------------------
 
 ★ Event Details ★
@@ -43,7 +41,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

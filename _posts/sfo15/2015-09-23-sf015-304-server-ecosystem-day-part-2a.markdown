@@ -7,16 +7,14 @@ categories:
 comments: false
 date: 2015-09-23 00:00:00
 featured_image_name: SF015304ServerEcosystemDayPart2a.jpg
-image:
-  featured: true
-  file_name: SF015304ServerEcosystemDayPart2a.jpg
-  path: /assets/images/featured-images/SF015304ServerEcosystemDayPart2a.jpg
+image_name: SF015304ServerEcosystemDayPart2a.jpg
+image: /assets/images/featured-images/SF015304ServerEcosystemDayPart2a.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sf015-304-server-ecosystem-day-part-2a/
 post_format:
 - Video
 session_id: None
-session_track: Enterprise Server
+session_track: Enterprise Servers
 slug: sf015-304-server-ecosystem-day-part-2a
 speakers: Andrea Gallo
 tags:

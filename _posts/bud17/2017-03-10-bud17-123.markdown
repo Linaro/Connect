@@ -8,16 +8,14 @@ comments: false
 date: 2017-03-10 21:16:16
 excerpt: The Engineering Review Board (ERB) Process
 featured_image_file_name: BUD17-123.jpg
-image:
-  featured: true
-  file_name: BUD17-123.jpg
-  path: /assets/images/featured-images/BUD17-123.jpg
+image_name: BUD17-123.jpg
+image: /assets/images/featured-images/BUD17-123.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-123/
 post_format:
 - Video
 session_id: BUD17-123
-session_track: None
+session_track: Other
 slideshare_presentation_url: None
 slug: bud17-123
 speakers: David Zinman

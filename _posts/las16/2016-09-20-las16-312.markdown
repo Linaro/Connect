@@ -16,10 +16,8 @@ excerpt: "How Linaro and the Arm Partners can drive contributions to the OCP Eco
   upcoming contributions and what is still needed.\n \n Amber welcomes your questions
   ahead of time and hopes to cover the above and more at Linaro Connect."
 featured_image_name: LAS16-312.png
-image:
-  featured: true
-  file_name: LAS16-312.png
-  path: /assets/images/featured-images/LAS16-312.png
+image_name: LAS16-312.png
+image: /assets/images/featured-images/LAS16-312.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-312/
 post_format:

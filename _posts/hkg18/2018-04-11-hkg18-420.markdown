@@ -16,10 +16,8 @@ excerpt: Device-tree overlay feature allows for runtime modification of flattene
   maintain device-tree source code in multiple repositories and merge their binary
   forms together during build.
 featured_image_name: HKG18-420.png
-image:
-  featured: true
-  file_name: HKG18-420.png
-  path: /assets/images/featured-images/HKG18-420.png
+image_name: HKG18-420.png
+image: /assets/images/featured-images/HKG18-420.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-420/
 post_format:
@@ -51,7 +49,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-420.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

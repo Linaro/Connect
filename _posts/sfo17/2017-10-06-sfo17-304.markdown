@@ -36,10 +36,8 @@ excerpt: "The current trend of IoT market segment is expected to enable and depl
   framework to decouple the chosen RoT capability for various OSes and the Cloud security
   frameworks."
 featured_image_name: SFO17-304.jpg
-image:
-  featured: true
-  file_name: SFO17-304.jpg
-  path: /assets/images/featured-images/SFO17-304.jpg
+image_name: SFO17-304.jpg
+image: /assets/images/featured-images/SFO17-304.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-304/
 post_format:

@@ -12,10 +12,8 @@ excerpt: 'The session will cover: Means to collect the data from Jenkins and LAV
   to show the currently implemented solution and collect feedback/requests from current
   and potential users.'
 featured_image_name: LCU14-509.jpg
-image:
-  featured: true
-  file_name: LCU14-509.jpg
-  path: /assets/images/featured-images/LCU14-509.jpg
+image_name: LCU14-509.jpg
+image: /assets/images/featured-images/LCU14-509.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-509-overview-of-qa-reports/
 session_id: LCU14-509
@@ -58,7 +56,7 @@ Eatherpad: pad.linaro.org/p/lcu14-509
 ---------------------------------------------------
 
 ★ Event Details ★
-Linaro Connect USA -  #LCU14 
+Linaro Connect USA -  #LCU14
 September 15-19th, 2014
 Hyatt Regency San Francisco Airport
 ---------------------------------------------------

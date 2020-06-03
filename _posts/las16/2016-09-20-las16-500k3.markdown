@@ -11,16 +11,14 @@ excerpt: Two Linux pioneers, David Rusling (Linaro) and Linus Torvalds (Linux Fo
   Questions submitted before hand will also be answered. Question submittal information
   coming soon.
 featured_image_name: LAS16-500K3.png
-image:
-  featured: true
-  file_name: LAS16-500K3.png
-  path: /assets/images/featured-images/LAS16-500K3.png
+image_name: LAS16-500K3.png
+image: /assets/images/featured-images/LAS16-500K3.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-500k3/
 post_format:
 - Video
 session_id: LAS16-500K3
-session_track: None
+session_track: Other
 slideshare_presentation_url: None
 slug: las16-500k3
 speakers: David and Linus

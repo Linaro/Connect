@@ -6,14 +6,12 @@ categories:
 comments: true
 date: 2015-06-30 17:07:30
 featured_image_name: LCU14-501.jpg
-image:
-  featured: true
-  file_name: LCU14-501.jpg
-  path: /assets/images/featured-images/LCU14-501.jpg
+image_name: LCU14-501.jpg
+image: /assets/images/featured-images/LCU14-501.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-501-openstack-and-elastic-scaling/
 session_id: LCU14-501
-session_track: Enterprise Server
+session_track: Enterprise Servers
 slug: lcu14-501-openstack-and-elastic-scaling
 speakers: Andrew McDermott, Michael Hudson-Doyle
 tags:

@@ -11,10 +11,8 @@ excerpt: Making NEON shine simply requires following a few tips. In this present
   on the Skia graphics library (used in Chromium, Firefox, Android) and share a number
   of tips.
 featured_image_name: LCU14-504.jpg
-image:
-  featured: true
-  file_name: LCU14-504.jpg
-  path: /assets/images/featured-images/LCU14-504.jpg
+image_name: LCU14-504.jpg
+image: /assets/images/featured-images/LCU14-504.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-504-taming-armv8-neon-from-theory-to-benchmark-results/
 session_id: LCU14-504

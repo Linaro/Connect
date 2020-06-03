@@ -8,7 +8,7 @@ permalink: /assets/json/resources.json
             {% assign summary =  post.excerpt | strip_html | smartify  %}
         {% endif %}
         {% if post.event_id %}
-            {% assign event_id  = post.event_id %}
+            {% assign event_id  = post.event_id | upcase %}
         {% else %}
             {% assign event_id = post.categories[0] | upcase %}
         {% endif %}
@@ -22,12 +22,18 @@ permalink: /assets/json/resources.json
             {% for speaker in post.speakers %}
                 {% assign speakers = speakers | push: speaker %}
             {% endfor%}
-        {% endif %} 
+        {% endif %}
         "event_id": "{{ event_id }}",
         {% if post.session_id %}"session_id": "{{ post.session_id }}",{% endif %}
         "url": "{{ site.url }}{{ post.url }}",
         "summary": "{{summary}}",
         "date_published": "{{ post.date }}",
+        "identifier": "{{ post.path }}",
+        {% if post.tag %}
+        "type": "{{post.tag}}",
+        {% else %}
+        "type": "session",
+        {% endif %}
         "speakers": [{% for speaker in speakers %}
         {
             {% if speaker.name %}
@@ -58,6 +64,8 @@ permalink: /assets/json/resources.json
         {% endif %}
         {% if post.session_track %}
         "tracks": "{{post.session_track}}",
+        {% else %}
+        "tracks": "Arm",
         {% endif %}
         {% if post.image.path %}
         "thumbnail": "{{site.url}}{{post.image.path}}",

@@ -10,10 +10,8 @@ date: 2015-07-24 14:05:53
 excerpt: In his keynote George will discuss the implications and the opportunities
   for Linaro to support and benefit its members over the coming months
 featured_image_name: LCA14-100K1.jpg
-image:
-  featured: true
-  file_name: LCA14-100K1.jpg
-  path: /assets/images/featured-images/LCA14-100K1.jpg
+image_name: LCA14-100K1.jpg
+image: /assets/images/featured-images/LCA14-100K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lca14/opening-keynote/
 post_format:

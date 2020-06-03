@@ -7,16 +7,14 @@ categories:
 comments: false
 date: 2015-09-23 00:00:00
 featured_image_name: SFO15TR4ServerEcosytemDayPart4bCentOS.jpg
-image:
-  featured: true
-  file_name: SFO15TR4ServerEcosytemDayPart4bCentOS.jpg
-  path: /assets/images/featured-images/SFO15TR4ServerEcosytemDayPart4bCentOS.jpg
+image_name: SFO15TR4ServerEcosytemDayPart4bCentOS.jpg
+image: /assets/images/featured-images/SFO15TR4ServerEcosytemDayPart4bCentOS.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-tr4-server-ecosytem-day-part-4b-centos/
 post_format:
 - Video
 session_id: None
-session_track: Enterprise Server
+session_track: Enterprise Servers
 slug: sfo15-tr4-server-ecosytem-day-part-4b-centos
 speakers: Andrea Gallo
 tags:

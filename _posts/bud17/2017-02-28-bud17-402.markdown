@@ -19,10 +19,8 @@ excerpt: "Cross compiling (building software for one machine type on another) is
   He will talk about the ongoing work to make building test binaries for foreign architectures
   in QEMU as simple as a make invocation."
 featured_image_file_name: BUD17-402.jpg
-image:
-  featured: true
-  file_name: BUD17-402.jpg
-  path: /assets/images/featured-images/BUD17-402.jpg
+image_name: BUD17-402.jpg
+image: /assets/images/featured-images/BUD17-402.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-402/
 post_format:

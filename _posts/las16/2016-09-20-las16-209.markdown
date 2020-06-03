@@ -12,10 +12,8 @@ excerpt: 'This survey of topics covers the engineering output of recent Android 
   upstream development as well as a quick overview of some upcoming topics. Kernel
   possible topics: Generic Build: where we are at'
 featured_image_name: LAS16-209.png
-image:
-  featured: true
-  file_name: LAS16-209.png
-  path: /assets/images/featured-images/LAS16-209.png
+image_name: LAS16-209.png
+image: /assets/images/featured-images/LAS16-209.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-209/
 post_format:

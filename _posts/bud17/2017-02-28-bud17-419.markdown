@@ -13,10 +13,8 @@ excerpt: The timekeeping code in the Linux kernel is used by nearly everything f
   cpu-idle, POSIX clocks, etc. and how we keep things working when these abstractions
   break down with the tick-broadcast mechanism.
 featured_image_file_name: BUD17-419.jpg
-image:
-  featured: true
-  file_name: BUD17-419.jpg
-  path: /assets/images/featured-images/BUD17-419.jpg
+image_name: BUD17-419.jpg
+image: /assets/images/featured-images/BUD17-419.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-419/
 post_format:
@@ -49,7 +47,7 @@ The timekeeping code in the Linux kernel is used by nearly everything from the l
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-419/
-Presentation: 
+Presentation:
 Video: https://youtu.be/E1uyXn0kBAc
  ---------------------------------------------------
 

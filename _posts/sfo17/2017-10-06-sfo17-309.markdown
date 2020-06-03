@@ -10,10 +10,8 @@ excerpt: The last release of OP-TEE includes big updates to secure storage. Inte
   protection is improved and the entire secure storage space is saved as one snapshot
   on each update.
 featured_image_name: SFO17-309.jpg
-image:
-  featured: true
-  file_name: SFO17-309.jpg
-  path: /assets/images/featured-images/SFO17-309.jpg
+image_name: SFO17-309.jpg
+image: /assets/images/featured-images/SFO17-309.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-309/
 post_format:
@@ -53,7 +51,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

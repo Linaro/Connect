@@ -8,10 +8,8 @@ comments: false
 date: 2017-10-06 16:54:59
 excerpt: Advanced Upstreaming techniques
 featured_image_name: SFO17-TR03.jpg
-image:
-  featured: true
-  file_name: SFO17-TR03.jpg
-  path: /assets/images/featured-images/SFO17-TR03.jpg
+image_name: SFO17-TR03.jpg
+image: /assets/images/featured-images/SFO17-TR03.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-tr03/
 post_format:
@@ -34,7 +32,7 @@ youtube_video_url: https://www.youtube.com/watch?v=VXtkiALgsF0
 Session ID: SFO17-TR03
 Session Name: Upstreaming 201 - SFO17-TR03
 Speaker: Mathieu Poirier
-Track: 
+Track:
 
 
 ★ Session Summary ★

@@ -22,10 +22,8 @@ excerpt: 'The uptake of Linux in modern cars is on the rise. It is very hard to 
 
   good at while providing the safety that the Auto world demands.'
 featured_image_name: SFO17-416.jpg
-image:
-  featured: true
-  file_name: SFO17-416.jpg
-  path: /assets/images/featured-images/SFO17-416.jpg
+image_name: SFO17-416.jpg
+image: /assets/images/featured-images/SFO17-416.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-416/
 post_format:
@@ -72,7 +70,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

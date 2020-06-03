@@ -13,10 +13,8 @@ excerpt: Several open source test frameworks for Linux exist and are being activ
   can share infrastructure and interoperate.  This include standards for results formats,
   interfaces to commonly-used utility programs, and for board control hardware.
 featured_image_name: SFO17-116.jpg
-image:
-  featured: true
-  file_name: SFO17-116.jpg
-  path: /assets/images/featured-images/SFO17-116.jpg
+image_name: SFO17-116.jpg
+image: /assets/images/featured-images/SFO17-116.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-116/
 post_format:

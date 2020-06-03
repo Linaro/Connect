@@ -16,10 +16,8 @@ excerpt: "On a device it\u2019s not uncommon to share power domains between secu
   latency when communicating with PSCI. In this session we would like to highlight
   those and discuss what the short and long term plans are."
 featured_image_file_name: BUD17-510.jpg
-image:
-  featured: true
-  file_name: BUD17-510.jpg
-  path: /assets/images/featured-images/BUD17-510.jpg
+image_name: BUD17-510.jpg
+image: /assets/images/featured-images/BUD17-510.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-510/
 post_format:

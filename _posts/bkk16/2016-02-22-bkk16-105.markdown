@@ -7,10 +7,7 @@ comments: false
 date: 2016-02-22 17:20:34
 excerpt: Discuss the details of proposed lead project 1
 featured_image_name: BKK16-105.jpg
-image:
-  featured: true
-  file_name: BKK16-105.jpg
-  path: /assets/images/featured-images/BKK16-105.jpg
+image: /assets/images/featured-images/BKK16-105.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-105/
 post_format:

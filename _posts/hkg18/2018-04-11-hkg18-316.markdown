@@ -17,16 +17,14 @@ excerpt: "Despite many respectable attempts made in past years, the IoT operatin
   ecosystems, and rich runtime and tooling feature set, and how it serves as an integrated
   piece of Alibaba group\u2019s overall IoT strategy."
 featured_image_name: HKG18-316.jpg
-image:
-  featured: true
-  file_name: HKG18-316.jpg
-  path: /assets/images/featured-images/HKG18-316.jpg
+image_name: HKG18-316.jpg
+image: /assets/images/featured-images/HKG18-316.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-316/
 post_format:
 - Video
 session_id: HKG18-316
-session_track: IoT;Ecosystem Day
+session_track: IoT
 slug: hkg18-316
 speakers: Henry Xie
 title: HKG18-316 - AliOS Things - The New Generation of IoT Operating System to Power
@@ -40,13 +38,13 @@ youtube_video_url: https://www.youtube.com/watch?v=FzvdMefpF4Y
 Session ID: HKG18-316
 Session Name: HKG18-316 - AliOS Things - The New Generation of IoT Operating System to Power Billions of Intelligent Things
 Speaker: Henry Xie
-Track: IoT;Ecosystem Day
+Track: IoT
 
 
 ## Session Summary
-Despite many respectable attempts made in past years, the IoT operating system market remains fragile as it emerges, which has been well recognized as one of major pains for the whole IoT community. 
+Despite many respectable attempts made in past years, the IoT operating system market remains fragile as it emerges, which has been well recognized as one of major pains for the whole IoT community.
 
-AliOS Things, the little brother of Alibaba group’s OS product portfolio, is the new generation of IoT operating system dedicatedly designed to address the situation, which has been released in 2017 after years of internal development and already attracted lots of attention from the whole ecosystem since that. 
+AliOS Things, the little brother of Alibaba group’s OS product portfolio, is the new generation of IoT operating system dedicatedly designed to address the situation, which has been released in 2017 after years of internal development and already attracted lots of attention from the whole ecosystem since that.
 
 In my talk, I will give out the comprehensive introduction of AliOS Things, including its vision, design philosophy, target markets, ecosystems, and rich runtime and tooling feature set, and how it serves as an integrated piece of Alibaba group’s overall IoT strategy.
 ---------------------------------------------------
@@ -57,11 +55,11 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-316.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------
-Keyword: IoT;Ecosystem Day
+Keyword: IoT
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

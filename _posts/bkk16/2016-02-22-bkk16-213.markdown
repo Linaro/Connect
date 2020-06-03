@@ -13,10 +13,7 @@ excerpt: Linaro has multiple labs and board farms with varying purposes. This se
   of the farm locations. Finally, the session will provide pointers to any respective
   documentation, user guides, etc. for each of the locations.
 featured_image_name: BKK16-213.jpg
-image:
-  featured: true
-  file_name: BKK16-213.jpg
-  path: /assets/images/featured-images/BKK16-213.jpg
+image: /assets/images/featured-images/BKK16-213.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-213/
 post_format:

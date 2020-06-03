@@ -8,10 +8,7 @@ excerpt: 'Discussion about various methods put forward to reduce the
 
   Linux kernel binary to make it suitable for small IoT applications.'
 featured_image_name: BKK16-211.jpg
-image:
-  featured: true
-  file_name: BKK16-211.jpg
-  path: /assets/images/featured-images/BKK16-211.jpg
+image: /assets/images/featured-images/BKK16-211.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-211/
 post_format:

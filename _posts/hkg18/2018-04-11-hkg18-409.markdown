@@ -14,10 +14,8 @@ excerpt: ODP is designed as an abstraction layer for hardware accelerators for S
   all the available Arm platforms. This presentation aims to explore the current differences
   between ODP and DPDK.
 featured_image_name: HKG18-409.png
-image:
-  featured: true
-  file_name: HKG18-409.png
-  path: /assets/images/featured-images/HKG18-409.png
+image_name: HKG18-409.png
+image: /assets/images/featured-images/HKG18-409.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-409/
 post_format:
@@ -37,7 +35,7 @@ youtube_video_url: https://www.youtube.com/watch?v=Q1RRq8cwfHM
 Session ID: HKG18-409
 Session Name: HKG18-409 - DPDK vs ODP: A comparison
 Speaker: Honnappa Nagarahalli
-Track: 
+Track:
 
 
 ## Session Summary
@@ -50,11 +48,11 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-409.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

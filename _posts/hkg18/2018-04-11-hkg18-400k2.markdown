@@ -20,10 +20,8 @@ excerpt: 'Clear governance, a shared understanding of process and rules, is key 
   For the last 10 minutes of Shane''s keynote, Lucien Cheng-hsia Lin will discuss
   License Compliance in Asia.'
 featured_image_name: HKG18-400K2.png
-image:
-  featured: true
-  file_name: HKG18-400K2.png
-  path: /assets/images/featured-images/HKG18-400K2.png
+image_name: HKG18-400K2.png
+image: /assets/images/featured-images/HKG18-400K2.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-400k2/
 post_format:

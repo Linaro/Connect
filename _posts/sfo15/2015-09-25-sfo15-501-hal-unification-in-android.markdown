@@ -10,10 +10,8 @@ comments: false
 date: 2015-09-25 00:00:00
 excerpt: Presentation and discussion to advance lead project on Android HAL unification.
 featured_image_name: SFO15501HALUnificationinAndroid.jpg
-image:
-  featured: true
-  file_name: SFO15501HALUnificationinAndroid.jpg
-  path: /assets/images/featured-images/SFO15501HALUnificationinAndroid.jpg
+image_name: SFO15501HALUnificationinAndroid.jpg
+image: /assets/images/featured-images/SFO15501HALUnificationinAndroid.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-501-hal-unification-in-android/
 post_format:

@@ -12,10 +12,8 @@ excerpt: Today the remoteproc & rpmsg code available in mainline serves as a bas
   set of topics shows up between the various trees. This talk serves to give an insight
   into these discussions, ongoing work and connect people with interest in these subsystems.
 featured_image_name: LAS16-TR06.png
-image:
-  featured: true
-  file_name: LAS16-TR06.png
-  path: /assets/images/featured-images/LAS16-TR06.png
+image_name: LAS16-TR06.png
+image: /assets/images/featured-images/LAS16-TR06.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-tr06/
 post_format:

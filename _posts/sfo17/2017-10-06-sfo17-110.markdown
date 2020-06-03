@@ -13,10 +13,8 @@ excerpt: This session is going to focus on getting started as an LLVM developer.
   your day-to-day life, how to write tests for your code and how to interact with
   the community.
 featured_image_name: SFO17-110.jpg
-image:
-  featured: true
-  file_name: SFO17-110.jpg
-  path: /assets/images/featured-images/SFO17-110.jpg
+image_name: SFO17-110.jpg
+image: /assets/images/featured-images/SFO17-110.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-110/
 post_format:
@@ -37,7 +35,7 @@ youtube_video_url: https://www.youtube.com/watch?v=ATNGKXzFVAA
 Session ID: SFO17-110
 Session Name: Getting started with LLVM - the TL;DR version
  - SFO17-110
-Speaker: Diana Picus 
+Speaker: Diana Picus
 Track: Toolchain
 
 
@@ -56,7 +54,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

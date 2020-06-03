@@ -13,10 +13,8 @@ excerpt: "The Per Entity Load Tracking (PELT) is a key stone in tasks placement 
   will show the improvement reached since the last connect and the LPC as well as
   the next ones. We will also looks at the RT class which lacks a good load tracking."
 featured_image_file_name: BUD17-218.jpg
-image:
-  featured: true
-  file_name: BUD17-218.jpg
-  path: /assets/images/featured-images/BUD17-218.jpg
+image_name: BUD17-218.jpg
+image: /assets/images/featured-images/BUD17-218.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-218/
 post_format:

@@ -16,10 +16,8 @@ excerpt: Deep learning algorithms are gaining popularity in IoT edge devices, be
   present NN architecture exploration, using keyword spotting application as an example,
   to develop light-weight models suitable for resource constrained systems.
 featured_image_name: HKG18-312.png
-image:
-  featured: true
-  file_name: HKG18-312.png
-  path: /assets/images/featured-images/HKG18-312.png
+image_name: HKG18-312.png
+image: /assets/images/featured-images/HKG18-312.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-312/
 post_format:
@@ -40,7 +38,7 @@ youtube_video_url: https://www.youtube.com/watch?v=HZFmqeKEJwI
 Session ID: HKG18-312
 Session Name: HKG18-312 - CMSIS-NN
 Speaker: Rod Crawford
-Track: LEG;Ecosystem Day
+Track: LEG
 
 
 ## Session Summary
@@ -53,11 +51,11 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-312.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------
-Keyword: LEG;Ecosystem Day
+Keyword: LEG
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

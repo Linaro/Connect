@@ -7,16 +7,14 @@ categories:
 comments: true
 date: 2015-06-30 17:07:50
 featured_image_name: LCU14-400a.jpg
-image:
-  featured: true
-  file_name: LCU14-400a.jpg
-  path: /assets/images/featured-images/LCU14-400a.jpg
+image_name: LCU14-400a.jpg
+image: /assets/images/featured-images/LCU14-400a.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-400a-lng-keynote-1-nfv-empowering-the-network/
 post_format:
 - Video
 session_id: LCU14-400a
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39247643
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/nfv-linaro-conference-sep2014kolias
 slug: lcu14-400a-lng-keynote-1-nfv-empowering-the-network

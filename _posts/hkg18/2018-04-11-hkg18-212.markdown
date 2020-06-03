@@ -22,16 +22,14 @@ excerpt: 'Trusted Firmware M
   Linaro Connect. The implementation should be considered a prototype until the PSA
   specifications reach release state and the code aligns.'
 featured_image_name: HKG18-212.png
-image:
-  featured: true
-  file_name: HKG18-212.png
-  path: /assets/images/featured-images/HKG18-212.png
+image_name: HKG18-212.png
+image: /assets/images/featured-images/HKG18-212.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-212/
 post_format:
 - Video
 session_id: HKG18-212
-session_track: Iot, Security
+session_track: IoT, Security
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92320886
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18212-trusted-firmware-m-introduction
 slug: hkg18-212
@@ -63,7 +61,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-212.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

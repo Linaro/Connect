@@ -13,10 +13,8 @@ excerpt: "Interviewer: Mike Levine, Director Global Talent Acquisition\n  \n Pan
   practices to communicate with a global team.\n - Staying motivated while working
   remote.\n - Handling distractions and staying focused."
 featured_image_name: LCA14-400K1.jpg
-image:
-  featured: true
-  file_name: LCA14-400K1.jpg
-  path: /assets/images/featured-images/LCA14-400K1.jpg
+image_name: LCA14-400K1.jpg
+image: /assets/images/featured-images/LCA14-400K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lca14/thursday-keynote-distributed-working-at-linaro/
 post_format:

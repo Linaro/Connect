@@ -10,10 +10,8 @@ excerpt: "What is Secure96 and why? In this session we will give an introduction
   Secure96, a daughter board for engineers work with symmetric, asymmetric IC\u2019s
   as well as TPM chip."
 featured_image_name: SFO17-111.jpg
-image:
-  featured: true
-  file_name: SFO17-111.jpg
-  path: /assets/images/featured-images/SFO17-111.jpg
+image_name: SFO17-111.jpg
+image: /assets/images/featured-images/SFO17-111.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-111/
 post_format:
@@ -53,7 +51,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

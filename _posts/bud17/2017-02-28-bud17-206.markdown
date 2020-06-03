@@ -12,10 +12,8 @@ excerpt: "This session will talk about efforts around increasing Android testing
   \n - More kernel focused testing & integrating community tests into android\n \n
   - \u201CSharding\u201D CTS test runs in the cloud for faster results"
 featured_image_file_name: BUD17-206.jpg
-image:
-  featured: true
-  file_name: BUD17-206.jpg
-  path: /assets/images/featured-images/BUD17-206.jpg
+image_name: BUD17-206.jpg
+image: /assets/images/featured-images/BUD17-206.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-206/
 post_format:

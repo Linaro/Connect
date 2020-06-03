@@ -13,10 +13,8 @@ excerpt: "Adding support for IEEE 802.15.4 and 6LoWPAN to an embedded Linux syst
   support, how to enable and configure the\n  subsystems to use it and how to communicate
   between Linux and IoT operating\n  systems like RIOT, Contiki or Zephyr."
 featured_image_file_name: BUD17-120.jpg
-image:
-  featured: true
-  file_name: BUD17-120.jpg
-  path: /assets/images/featured-images/BUD17-120.jpg
+image_name: BUD17-120.jpg
+image: /assets/images/featured-images/BUD17-120.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-120/
 post_format:

@@ -8,10 +8,8 @@ comments: false
 date: 2017-02-28 12:05:48
 excerpt: TBD
 featured_image_file_name: BUD17-406.jpg
-image:
-  featured: true
-  file_name: BUD17-406.jpg
-  path: /assets/images/featured-images/BUD17-406.jpg
+image_name: BUD17-406.jpg
+image: /assets/images/featured-images/BUD17-406.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-406/
 post_format:

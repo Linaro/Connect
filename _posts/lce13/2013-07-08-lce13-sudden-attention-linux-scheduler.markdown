@@ -7,15 +7,13 @@ categories:
 comments: false
 date: 2013-07-08 15:01:58
 featured_image_name: LCE13WhyallthissuddenattentionontheLinuxScheduler.jpg
-image:
-  featured: true
-  path: /assets/images/featured-images/LCE13WhyallthissuddenattentionontheLinuxScheduler.jpg
+image: /assets/images/featured-images/LCE13WhyallthissuddenattentionontheLinuxScheduler.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lce13/lce13-sudden-attention-linux-scheduler/
 post_format:
 - Video
 session_id: None
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/32577275
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lce13-whyattentiononschedulertalk
 slug: lce13-sudden-attention-linux-scheduler

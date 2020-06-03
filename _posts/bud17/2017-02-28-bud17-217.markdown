@@ -13,10 +13,8 @@ excerpt: Virtual Open Sytems has demonstrated OPNFV Colorado integration of its 
   that we conquered during the process. At the end, the next steps and the future
   plans will be outlined.
 featured_image_file_name: BUD17-217.jpg
-image:
-  featured: true
-  file_name: BUD17-217.jpg
-  path: /assets/images/featured-images/BUD17-217.jpg
+image_name: BUD17-217.jpg
+image: /assets/images/featured-images/BUD17-217.jpg
 layout: resource-post
 link: http://connect.linaro.org/blog/bud17-217/
 post_format:

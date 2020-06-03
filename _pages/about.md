@@ -5,83 +5,100 @@ description: >-
   place to be to understand the latest developments and work directly with the
   most active engineers and maintainers in the ecosystem.
 permalink: /about/
-js-package: about
 css-package: about
 layout: flow
 jumbotron:
-  carousel-images:
-    - /assets/images/content/bkk19-group-photo.jpg
-    - /assets/images/content/lcu14.jpg
-    - /assets/images/content/lcu13.jpg
-    - /assets/images/content/lce13.jpg
-    - /assets/images/content/lca14.jpg
-    - /assets/images/content/lca13.jpg
-    - /assets/images/content/las16.jpg
-    - /assets/images/content/hkg15.jpg
-    - /assets/images/content/bud17.jpg
-    - /assets/images/content/bkk16.jpg
+  background_image: /assets/images/content/bkk19-group-photo.jpg
   title: About
   description: ''
 flow:
   - row: container_row
     sections:
-      - format: text
-        style: text-center
-        text_content: "Map { \"text\": \"Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. To view slides or videos from the keynotes and sessions from previous Connects, please go to our\_[Resources page](https://connect.linaro.org/resources/).\\n\" }"
-  - row: container_row
-    sections:
-      - block_section_content:
+      - format: feature_block
+        feature_block_content:
+          position: left
+          type: slider
+          slider_content:
+            lightbox_enabled: true
+            seconds_per_slide: 5
+            nav: true
+            dots: false
+            xs_items: 1
+            sm_items: 1
+            md_items: 1
+            lg_items: 1
+            items:
+              - image: /assets/images/content/san19_image_1.jpg
+                title: SAN19 Image 1
+              - image: /assets/images/content/san19_image_2.jpg
+                title: SAN19 Image 2
+              - image: /assets/images/content/san19_image_3.jpg
+                title: SAN19 Image 3
+              - image: /assets/images/content/san19_image_4.jpg
+                title: SAN19 Image 4
+              - image: /assets/images/content/bkk19-sponsor-table.jpg
+                title: Sponsor table at Linaro Connect Bangkok 2019
+              - image: /assets/images/content/bkk19-packet-sponsored-food.jpg
+                title: Packet branded macaron's at Linaro Connect Bangkok 2019
+              - image: /assets/images/content/bkk19-li-gong-keynote.jpg
+                title: >-
+                  Linaro CEO, Li Gong, presenting the opening keynote at Linaro Connect
+                  Bangkok 2019
+              - image: /assets/images/content/bkk19-jacob-smith-packet-keynote.jpg
+                title: >-
+                  Jacob Smith from Packet presenting his keynote at Linaro Connect Bangkok 2019
+              - image: /assets/images/content/bkk19-google-keynote.jpg
+                title: Google's keynote at Linaro Connect Bangkok 2019
+              - image: /assets/images/content/bkk19-chris-royston-arm-developer-talk.jpg
+                title: >-
+                  Chris Royston from Arm talking about the new revision of developer.arm.com
+                  at Linaro Connect Bangkok 2019
+          text: >
+            Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. To view slides or videos from the keynotes and sessions from previous Connects, please go to our [Resources page](/resources).
+      - item_width: 4
+        block_section_content:
           blocks:
-            - background_image: /assets/images/content/bkk19-group-photo.jpg
+            - image: /assets/images/content/bkk19-group-photo.jpg
               buttons:
                 - class: btn-primary
                   icon: fa fa-book
                   title: View Resources
                   url: /resources/
-              text_content:
-                text: >
+              description: >
                   Collaborate with the engineers _leading_ open source software
                   development in the _Arm ecosystem_, have in-depth technical
                   conversations about real world issues and solutions, and
                   attend how-to training sessions about the latest Arm software
                   developments.
-              title:
-                size: h3
-                text: Collaborate & Learn
-            - background_image: /assets/images/content/bkk19-group-photo.jpg
+              title: Collaborate & Learn
+            - image: /assets/images/content/bkk19-group-photo.jpg
               buttons:
                 - class: btn-primary
                   icon: fa fa-slideshare
                   title: Submit a Demo
                   url: /demo-friday/
-              text_content:
-                text: >
+              description: >
                   Bring your knowledge and experience to influence and
                   contribute to Linaro's development work. Linaro Connect is a
                   unique opportunity to put your ideas forward face to face with
                   other contributors and maintainers. If you have something
                   relevant you'd like to show off, consider participating in
                   Demo Friday.
-              title:
-                size: h3
-                text: Contribute
-            - background_image: /assets/images/content/bkk19-group-photo.jpg
-              text_content:
-                text: >
+              title: Contribute
+            - image: /assets/images/content/bkk19-group-photo.jpg
+              description: >
                   In addition to the regular breaks in the day and informal
                   hacking sessions, there are a range of evening events at which
                   you can network with your peers and get to know the other
                   attendees.
-              title:
-                size: h3
-                text: Socialize
-          item_width: 4
+              title: Socialize
         format: block
-        style: text-center text-white
+        style: text-center
     style: block_row
   - row: container_row
     sections:
       - format: title
+        style: text-center
         title_content:
           size: h2
           text: Code of Conduct
@@ -97,40 +114,4 @@ flow:
             url: /code-of-conduct/
         format: buttons
         style: text-center
-  - row: full_width_row
-    sections:
-      - format: title
-        title_content:
-          size: h2
-          text: Highlights from SAN19
-      - format: slider
-        slider_content:
-          dots: false
-          items:
-            - title: Linaro Connect San Diego 2019 Highlight 1
-              image: /assets/images/content/san19_highlight_1.jpg
-            - title: Linaro Connect San Diego 2019 Highlight 2
-              image: /assets/images/content/san19_highlight_2.jpg
-            - title: Linaro Connect San Diego 2019 Highlight 3
-              image: /assets/images/content/san19_highlight_3.jpg
-            - title: Linaro Connect San Diego 2019 Highlight 4
-              image: /assets/images/content/san19_highlight_4.jpg
-            - title: Linaro Connect San Diego 2019 Highlight 5
-              image: /assets/images/content/san19_highlight_5.jpg
-            - title: Linaro Connect San Diego 2019 Highlight 6
-              image: /assets/images/content/san19_highlight_6.jpg
-            - title: Linaro Connect San Diego 2019 Highlight 7
-              image: /assets/images/content/san19_highlight_7.jpg
-            - title: Linaro Connect San Diego 2019 Highlight 8
-              image: /assets/images/content/san19_highlight_8.jpg
-            - title: Linaro Connect San Diego 2019 Highlight 9
-              image: /assets/images/content/san19_highlight_9.jpg
-          lg_items: 6
-          lightbox_enabled: true
-          md_items: 4
-          nav: true
-          seconds_per_slide: 5
-          sm_items: 2
-          xs_items: 1
 ---
-

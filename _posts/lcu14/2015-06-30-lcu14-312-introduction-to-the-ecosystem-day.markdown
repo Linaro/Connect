@@ -7,16 +7,14 @@ categories:
 comments: true
 date: 2015-06-30 17:08:45
 featured_image_name: LCU14-312.jpg
-image:
-  featured: true
-  file_name: LCU14-312.jpg
-  path: /assets/images/featured-images/LCU14-312.jpg
+image_name: LCU14-312.jpg
+image: /assets/images/featured-images/LCU14-312.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-312-introduction-to-the-ecosystem-day/
 post_format:
 - Video
 session_id: LCU14-312
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39670372
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-312introduction-to-the-ecosystem-day
 slug: lcu14-312-introduction-to-the-ecosystem-day

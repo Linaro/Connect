@@ -11,10 +11,8 @@ excerpt: The new LAVA dispatcher allows explicit control of starting/controlling
   of libvirt etc. Share experiences in using V2 dispatcher in general. Plan support
   for migration and other advanced multinode tests.
 featured_image_name: LAS16-211.png
-image:
-  featured: true
-  file_name: LAS16-211.png
-  path: /assets/images/featured-images/LAS16-211.png
+image_name: LAS16-211.png
+image: /assets/images/featured-images/LAS16-211.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-211/
 post_format:

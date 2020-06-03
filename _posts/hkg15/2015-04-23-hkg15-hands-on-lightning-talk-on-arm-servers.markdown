@@ -5,10 +5,8 @@ categories:
 comments: true
 date: 2015-04-23 15:36:59
 featured_image_name: HKG15-200K2.jpg
-image:
-  featured: true
-  file_name: HKG15-200K2.jpg
-  path: /assets/images/featured-images/HKG15-200K2.jpg
+image_name: HKG15-200K2.jpg
+image: /assets/images/featured-images/HKG15-200K2.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-hands-on-lightning-talk-on-arm-servers/
 post_format:

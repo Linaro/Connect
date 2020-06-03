@@ -15,10 +15,8 @@ excerpt: The CPUidle is one component of the power management framework. It beha
   the next wake up event with a better accuracy, leading, under some circumstances,
   to 100% right predictions.
 featured_image_file_name: BUD17-309.jpg
-image:
-  featured: true
-  file_name: BUD17-309.jpg
-  path: /assets/images/featured-images/BUD17-309.jpg
+image_name: BUD17-309.jpg
+image: /assets/images/featured-images/BUD17-309.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-309/
 post_format:

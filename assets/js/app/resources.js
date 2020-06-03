@@ -1,209 +1,214 @@
-$(function() {
-  function count($this) {
-    var current = parseInt($this.html(), 10);
-    $this.html(++current);
-    if (current !== $this.data("count")) {
-      setTimeout(function() {
-        count($this);
-      }, 1);
-    }
-  }
-  $("span.count-to-number").each(function() {
-    $(this).data("count", parseInt($(this).html(), 10));
-    $(this).html("0");
-    count($(this));
+var resources_json = [];
+var items_to_display = [];
+var current_event = "all";
+var current_type = "all";
+var current_track = "all";
+var current_number_of_items = 12;
+const items_step = 12;
+// Get Data for a given url
+function getData(ajaxurl, callbackFunction) {
+  return $.ajax({
+    url: ajaxurl,
+    type: "GET",
+    success: function (data) {
+      callbackFunction(data);
+    },
   });
-});
-// This global array stores the concatenated and sorted jsonp data
-var allConnectResourcesData = [];
-// The counter variable counts the number of times results are added to the allJSONData array
-// so we know when to process the concatenated data.
-var counter = 0;
-// Define the sources to append the jsonp script elements and retreive the data.
-var event_data_sources = [""];
-var allJSONData = [];
-// Stores the URLS for the JSON data file of each Connect
-var connectJSONSources = [];
-// Get the connects.json file then pa.titlerse and loop through each connect adding the jsonp script
-function connects(connectsJSON) {
-  // Loop through the connects.json index JSON file.
-  for (i = 0; i < connectsJSON.length; i++) {
-    // Get the URL of the Connect Resources JSON file
-    var jsonp_url =
-      event_data_sources[0] +
-      "/assets/json/" +
-      connectsJSON[i].id.toLowerCase() +
-      "/data.json?callback=connectResources";
-    // Add the new array to the connectJSONSourcs Array
-    connectJSONSources.push(jsonp_url);
-    // Create a new script element and set the type and src
-    script = document.createElement("script");
-    script.type = "text/javascript";
-    script.src = jsonp_url;
-    // Append the new script element to the head.
-    $("head").append(script);
-  }
 }
-// This function takes the JSONP data for a specific conncet and concatenates the data.
-function connectResources(connectJSON) {
-  // Check to see if this is the last source to be loaded in.
-  if (counter == connectJSONSources.length - 1) {
-    console.log(counter);
-    // Concat the final data source to the master JSON array
-    allConnectResourcesData = allConnectResourcesData.concat(connectJSON);
-    // Sort the data by the date
-    // Add the resources to the HTML
-    listResults(allConnectResourcesData);
-    allJSONData = allConnectResourcesData;
-    // Add the size of the results
-    $("#size").html(allJSONData.length);
-    // Run function on each keyup event triggered by the search input
+// Delay function for waiting a set number of ms after the user stops typing.
+function delay(callback, ms) {
+  var timer = 0;
+  return function () {
+    var context = this,
+      args = arguments;
+    clearTimeout(timer);
+    timer = setTimeout(function () {
+      callback.apply(context, args);
+    }, ms || 0);
+  };
+}
+// Load more items when the load_more button is clicked.
+function load_more_items() {
+  // Get items step
+  if (items_to_display.length > current_number_of_items + items_step) {
+    var last_item_index = current_number_of_items + items_step - 2;
   } else {
-    allConnectResourcesData = allConnectResourcesData.concat(connectJSON);
-    counter += 1;
-    console.log(counter);
+    var last_item_index = items_to_display.length;
+    $("#load_more").show();
+  }
+  var items_to_show = items_to_display.slice(
+    current_number_of_items,
+    last_item_index
+  );
+  // Update the current number of items displayed.
+  current_number_of_items = last_item_index - 2;
+  // Loop over results items_to_show display
+  for (var i = 0; i <= items_to_show.length; i++) {
+    var identifier = items_to_show[i]["identifier"];
+    // Set display:block style for all results
+    $('*[data-identifier="' + identifier + '"]').css("display", "block");
   }
 }
-function extractDateString(dateString) {
-  var rx = /(\d\d\d\d)\-(\d\d)\-(\d\d)/g;
-  var arr = rx.exec(dateString);
-  return arr[0];
-}
-// Sort function which takes the data array, property to sort by and an asc boolean.
-function sort_by_date(a, b) {
-  return (
-    new Date(b.date_published).getTime() - new Date(a.date_published).getTime()
-  );
-}
-// Fuzzy search function - this takes the JSON data and then lists results based on the search query from #search-query input.
-function listResults(json_data) {
-  console.log("Data input:", json_data);
-  // Define the underscore.js template settings.
-  _.templateSettings = {
-    interpolate: /\{\{(.+?)\}\}/g
-  };
-  // Specify a new html _.template
-  // Title, Summary, Tracks, Speakers, Video, Presentation, Event ID, Date Published, View Resource
-  var listItemTemplate = _.template(
-    "<tr>" +
-      '<td data-toggle="tooltip" data-container="body" data-placement="top" title="{{resource_title_full}}">{{resource_title}}</td>' +
-      '<td data-toggle="tooltip" data-container="body" data-placement="top" title="{{resource_summary_full}}">{{resource_summary}}</td>' +
-      "<td>{{resource_tracks}}</td>" +
-      "<td>{{resource_video}}</td>" +
-      "<td>{{resource_presentation}}</td>" +
-      "<td>{{resource_event}}</td>" +
-      "<td>{{resource_date_published}}</td>" +
-      '<td><a href="{{resource_url}}">View Resource</a></td>' +
-      "</tr>"
-  );
-  // Get the search query val which we are searching for.
-  var search = $("#search-query").val();
-  // Fuzzy search options
-  var options = {
-    pre: "<b>",
-    post: "</b>",
-    // Each element in the data is an object, not a string. We can pass in a
-    // function that is called on each element in the array to extract the
-    // string to fuzzy search against. In this case, element.dir
-    extract: function(entry) {
-      return entry.title + "::" + entry.summary;
-    }
-  };
-  // Filter!
-  var filtered = fuzzy.filter(search, allConnectResourcesData, options);
-  // Map the results to the html we want generated
-  var results = filtered.map(function(result) {
-    // Split the search items
-    // These are the items that are used to match search queries against
-    var items = result.string.split("::");
 
-    // Set the resource vars to None by default
-    var resource_video = "None";
-    var resource_presentation = "None";
-    // Get the presentation resource link if available
-    if (result.original.amazon_s3_presentation_url) {
-      resource_presentation = result.original.amazon_s3_presentation_url;
-    } else if (result.original.slideshare_presentation_url) {
-      resource_presentation = result.original.slideshare_presentation_url;
+// Update the cols listed on the page using the resource page path
+// identifiers
+function update_cols() {
+  $("#load_more").show();
+  // reset the items to show variable.
+  current_number_of_items = 12;
+  // Hide all cols and display those in the resources json
+  $("[data-identifier]").css("display", "none");
+  items_to_display = resources_json;
+  // Fix for issue regarding filter function returning items that are not nested in the
+  // fuse.js item object.
+  items_to_display.filter((item, index) => {
+    return true;
+  });
+  // Remove items that do not belong to the selected event.
+  for (var i = items_to_display.length - 1; i >= 0; i--) {
+    // Filter Events
+    if (current_event !== "all") {
+      items_to_display = items_to_display.filter((item, index) => {
+        return item.event_id == current_event.toUpperCase();
+      });
     }
-    // Get the video resource link if available
-    if (result.original.youtube_video_url) {
-      resource_video = result.original.youtube_video_url;
-    } else if (result.original.amazon_s3_video_url) {
-      resource_video = result.original.amazon_s3_video_url;
+    // Filter Tracks
+    if (current_track !== "all") {
+      items_to_display = items_to_display.filter((item, index) => {
+        return item.tracks.indexOf(current_track) != -1 ? true : false;
+      });
     }
-
-    // Get the session tracks
-    var session_tracks = "";
-    if (result.original.tracks !== "") {
-      session_tracks = result.original.tracks;
+    // Filter Types
+    if (current_type !== "all") {
+      items_to_display = items_to_display.filter((item, index) => {
+        return item.type == current_type;
+      });
+    }
+  }
+  console.log("Search results that will display: block:", items_to_display);
+  // Check that we have results first
+  if (items_to_display.length > 0) {
+    // Check if items_to_display is greater than the initial items num.
+    // If less current_number_of_items var then hide the load more button
+    if (items_to_display.length > current_number_of_items) {
+      var loop_limit = current_number_of_items;
     } else {
-      session_tracks = "None";
+      $("#load_more").hide();
+      var loop_limit = items_to_display.length;
+      current_number_of_items = loop_limit;
     }
-    // Get the resource speakers
-    var resource_speakers = "None";
-    // Check to see if the speakers property exists
-    if (result.original.speakers) {
-      // Fetch all speakers
-      for (i = 0; i < result.original.speakers.length; i++) {
-        resource_speakers =
-          resource_speakers + result.original.speakers[i].name + " ";
+    // Loop over results to display
+    for (var i = 0; i < loop_limit; i++) {
+      var identifier = items_to_display[i]["identifier"];
+      // Set display:block style for all results
+      $('*[data-identifier="' + identifier + '"]').css("display", "block");
+    }
+  }
+}
+function update_select_menus() {
+  // Loop over each select menu option
+  $("#trackSelect > option").each(function (index, element) {
+    let track_val = element.value;
+    let track_count = 0;
+    if (element.value == "all") {
+      track_count = items_to_display.length;
+    } else {
+      for (var i = 0; i < items_to_display.length; i++) {
+        if (items_to_display[i]["tracks"].includes(track_val)) {
+          track_count += 1;
+        }
       }
     }
-    var trimmed_title = items[0].substring(0, 30);
-    var trimmed_summary = items[1].substring(0, 40);
-    // Title, Summary, Tracks, Speakers, Video, Presentation, Event ID, Date Published, View Resource
-    return listItemTemplate({
-      resource_url: result.original.url,
-      resource_title: trimmed_title,
-      resource_summary: trimmed_summary,
-      resource_title_full: items[0],
-      resource_summary_full: items[1],
-      resource_tracks: session_tracks,
-      resource_speakers: resource_speakers,
-      resource_presentation: resource_presentation,
-      resource_video: resource_video,
-      resource_event: result.original.event_id,
-      resource_date_published: extractDateString(result.original.date_published)
+    if (track_count == 0) {
+      $(element).css("display", "none");
+    } else {
+      $(element).css("display", "block");
+      element.text = element.value + " (" + track_count.toString() + ")";
+    }
+  });
+  $("#typeSelect > option").each(function (index, element) {
+    let select_val = element.value;
+    let select_option_count = 0;
+    if (element.value == "all") {
+      select_option_count = items_to_display.length;
+    } else {
+      for (var i = 0; i < items_to_display.length; i++) {
+        if (items_to_display[i]["type"] == select_val) {
+          select_option_count += 1;
+        }
+      }
+    }
+    element.text =
+      element.value.charAt(0).toUpperCase() + element.value.slice(1);
+    +" (" + select_option_count.toString() + ")";
+  });
+}
+$(document).ready(function () {
+  // Fetch the local JSON output for all resources
+  $.ajax({
+    url: "/assets/json/resources.json",
+    type: "GET",
+  }).done((data) => {
+    // Store the date received separately to show all again.
+    resources_json = data;
+    if ($("#resourcesSearchAndFilter").data("event") != "all") {
+      resources_json = resources_json.filter((item, index) => {
+        return (
+          item.event_id ==
+          $("#resourcesSearchAndFilter").data("event").toUpperCase()
+        );
+      });
+    }
+    // Set the items_to_display to the initial JSON results.
+    items_to_display = resources_json;
+    // Update the select menus to include the counts
+    update_select_menus();
+    // Set up the Fuse instance
+    const fuse = new Fuse(resources_json, {
+      keys: ["tracks", "event_id", "title", "summary", "speakers.name"],
+      threshold: 0.3,
+      findAllMatches: true,
+    });
+    // Handle load more button click
+    $("#load_more").click(function (e) {
+      e.preventDefault();
+      load_more_items();
+    });
+    // Handle search input keyup
+    $("#searchQuery").keyup(
+      delay(function (e) {
+        if (this.value === "") {
+          resources_json = data;
+          current_search_term = "";
+          update_cols();
+        } else {
+          // Perform the search
+          let fuse_results = fuse.search(this.value);
+          var new_results = fuse_results.map((item) => {
+            return item.item;
+          });
+          resources_json = new_results;
+          console.log("Search results:", resources_json);
+          // Update the cols based on results
+          update_cols();
+        }
+      }, 900)
+    );
+    // Handle type select
+    $("#typeSelect").on("change", function () {
+      current_type = this.value;
+      update_cols();
+    });
+    // Handle track select
+    $("#trackSelect").on("change", function () {
+      current_track = this.value;
+      update_cols();
+    });
+    // Handle event select
+    $("#eventSelect").on("change", function () {
+      current_event = this.value;
+      update_cols();
+      update_select_menus();
     });
   });
-  // Append results to the results html container
-  $("#result_size").html(filtered.length);
-  $("#results").html(results.join(""));
-}
-var delay = (function() {
-  var timer = 0;
-  return function(callback, ms) {
-    clearTimeout(timer);
-    timer = setTimeout(callback, ms);
-  };
-})();
-
-// Check to see if the document has loaded
-$(document).ready(function() {
-  // Check to see if the div we are adding to exists
-  if ($("#results").length > 0) {
-    // Get the JSONP url of the main connects.json file.
-    var jsonp_url =
-      event_data_sources[0] + "/assets/json/connects.json?callback=connects";
-    // Add the JSONP to a script element
-    // Create a new script element and set the type and src
-    script = document.createElement("script");
-    script.type = "text/javascript";
-    script.src = jsonp_url;
-    // Append the new script element to the head.
-    $("head").append(script);
-    // Detect when the user has stopped typing then show the results.
-    $("#search-query").keyup(function() {
-      delay(function() {
-        listResults(allConnectResourcesData);
-      }, 1000);
-    });
-    // Enable Bootstrap tooltips for displaying details of resources
-    $(function() {
-      $('[data-toggle="tooltip"]').tooltip({ container: "body" });
-    });
-  } else {
-    console.log("Not defined!");
-  }
 });

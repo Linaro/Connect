@@ -14,10 +14,8 @@ excerpt: The Kernel Consolidation 2.0 lead project aims to identify and work on 
   how we are going to organize and coordinate this work in conjunction with other
   efforts in the community.
 featured_image_name: SFO15306KernelConsolidation20Letsmakeithappen.jpg
-image:
-  featured: true
-  file_name: SFO15306KernelConsolidation20Letsmakeithappen.jpg
-  path: /assets/images/featured-images/SFO15306KernelConsolidation20Letsmakeithappen.jpg
+image_name: SFO15306KernelConsolidation20Letsmakeithappen.jpg
+image: /assets/images/featured-images/SFO15306KernelConsolidation20Letsmakeithappen.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-306-kernel-consolidation-2-0-lets-make-it-happen/
 post_format:

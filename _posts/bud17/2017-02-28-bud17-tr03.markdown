@@ -8,16 +8,14 @@ comments: false
 date: 2017-02-28 12:05:38
 excerpt: Advanced Upstreaming techniques
 featured_image_file_name: BUD17-TR03.jpg
-image:
-  featured: true
-  file_name: BUD17-TR03.jpg
-  path: /assets/images/featured-images/BUD17-TR03.jpg
+image_name: BUD17-TR03.jpg
+image: /assets/images/featured-images/BUD17-TR03.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-tr03/
 post_format:
 - Video
 session_id: BUD17-TR03
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786331
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17tr03-upstreaming-201
 slug: bud17-tr03

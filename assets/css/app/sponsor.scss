@@ -61,7 +61,7 @@ li.list-group-item.divider {
   margin-top: 0px;
 }
 
-@media (max-width: $screen-sm-min - 1) {
+@include media-breakpoint-down(sm){
   .col-md-6 h3 {
     text-align: center;
     margin-bottom: 30px;
@@ -72,7 +72,7 @@ li.list-group-item.divider {
 .flex-row {
     display: flex;
 }
-@media(max-width: $screen-sm-min - 1){
+@include media-breakpoint-down(sm){
     .flex-row {
         display: block;
     }
@@ -212,7 +212,7 @@ div#resources-header {
     border-bottom:0px;
     border-bottom-color: transparent;
     border: 0 !important;
-    background-color: $brand-primary !important;
+    background-color: $primary !important;
 }
 
 #sponsor-table thead tr:first-child {
@@ -235,14 +235,14 @@ div#resources-header {
 #sponsor-table thead tr:nth-child(2) th {
     color: white;
     font-weight: normal;
-    background-color: $brand-primary;
+    background-color: $primary;
     font-style: italic;
     font-size: 28px;
     padding:2px;
 }
 
 span.tickets {
-    background-color: $brand-primary;
+    background-color: $primary;
     border-radius: 50%;
     height: 40px;
     width: 40px;
@@ -268,7 +268,7 @@ span.tickets {
     display: inline-block;
     width: 40px;
     height: 40px;
-    background-color: $brand-primary;
+    background-color: $primary;
     color: white;
     border-radius: 50%;
 }
@@ -288,14 +288,14 @@ span.tickets {
 }
 
 #sponsor-table {
-    background-color: $brand-primary !important;
+    background-color: $primary !important;
     box-shadow:
         inset 0px 11px 8px -10px #5d6062,
         inset 0px -11px 8px -10px #5d6062;
     background-position: center center;
     background-size: cover;
     background-repeat: repeat-y;
-    @media(max-width: $screen-sm-min){
+    @include media-breakpoint-down(sm){
         background-image:none !important;
     }
 }

@@ -10,10 +10,8 @@ excerpt: Progress, difficulties and questions surrounding the creation of bootab
   410c, Bubblegum-96, Poplar, Mediatek X20) are presented. Focus is kernel and bootloaders
   as well as openSUSE specific tools.
 featured_image_file_name: BUD17-500.jpg
-image:
-  featured: true
-  file_name: BUD17-500.jpg
-  path: /assets/images/featured-images/BUD17-500.jpg
+image_name: BUD17-500.jpg
+image: /assets/images/featured-images/BUD17-500.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-500/
 post_format:

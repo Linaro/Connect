@@ -14,10 +14,8 @@ excerpt: User space I/O offers significant speedup potential for data plane and 
   provide "mini drivers" to handle the performance I/O paths in user space while leaving
   control operations in the kernel.
 featured_image_name: HKG18-110.png
-image:
-  featured: true
-  file_name: HKG18-110.png
-  path: /assets/images/featured-images/HKG18-110.png
+image_name: HKG18-110.png
+image: /assets/images/featured-images/HKG18-110.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-110/
 post_format:

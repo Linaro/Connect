@@ -27,10 +27,8 @@ excerpt: 'Task scheduling on big.Little targets is a known challenge in the comm
 
   - Results, if any.'
 featured_image_name: LCU14-406.jpg
-image:
-  featured: true
-  file_name: LCU14-406.jpg
-  path: /assets/images/featured-images/LCU14-406.jpg
+image_name: LCU14-406.jpg
+image: /assets/images/featured-images/LCU14-406.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-406-a-quic-take-on-energy-aware-scheduling/
 session_id: LCU14-406

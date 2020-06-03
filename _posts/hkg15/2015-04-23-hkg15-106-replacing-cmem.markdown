@@ -18,16 +18,14 @@ excerpt: "CMEM is an API and kernel driver for managing one or more blocks of ph
   can meet these requirements instead using UMM (cenalloc/dma-buf), DRM, CMA or other
   mainline Linux mechanisms existing or under development.\n"
 featured_image_name: HKG15-106.jpg
-image:
-  featured: true
-  file_name: HKG15-106.jpg
-  path: /assets/images/featured-images/HKG15-106.jpg
+image_name: HKG15-106.jpg
+image: /assets/images/featured-images/HKG15-106.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-106-replacing-cmem/
 post_format:
 - Video
 session_id: HKG15-106
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44452315
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15106-replacing-cmem-meeting-tis-soc-shared-buffer-allocation-management-and-address-translation-requirements
 slug: hkg15-106-replacing-cmem
@@ -42,24 +40,24 @@ wordpress_id: 707
 youtube_video_url: https://www.youtube.com/watch?v=j0BhqQlOPQ0
 ---
 
-HKG15-106: Replacing CMEM: Meeting TI's SoC shared buffer allocation, management, and address translation requirements 
---------------------------------------------------- 
-Speaker: Gil Pitney + UMM team 
-Date: February 9, 2015 
---------------------------------------------------- 
-★ Session Summary ★ 
+HKG15-106: Replacing CMEM: Meeting TI's SoC shared buffer allocation, management, and address translation requirements
+---------------------------------------------------
+Speaker: Gil Pitney + UMM team
+Date: February 9, 2015
+---------------------------------------------------
+★ Session Summary ★
 Replacing CMEM:  Meeting TI's SoC shared buffer allocation, management, and address translation requirements.
 http://processors.wiki.ti.com/index.php/CMEM_Overview
--------------------------------------------------- 
-★ Resources ★ 
-Pathable: https://hkg15.pathable.com/meetings/250766 
+--------------------------------------------------
+★ Resources ★
+Pathable: https://hkg15.pathable.com/meetings/250766
 Presentation:  http://www.slideshare.net/linaroorg/hkg15106-replacing-cmem-meeting-tis-soc-shared-buffer-allocation-management-and-address-translation-requirements
-Etherpad: http://pad.linaro.org/p/hkg15-106 
---------------------------------------------------- 
-★ Event Details ★ 
-Linaro Connect Hong Kong 2015 - #HKG15 
-February 9-13th, 2015 
-Regal Airport Hotel Hong Kong Airport 
---------------------------------------------------- 
-http://www.linaro.org 
+Etherpad: http://pad.linaro.org/p/hkg15-106
+---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2015 - #HKG15
+February 9-13th, 2015
+Regal Airport Hotel Hong Kong Airport
+---------------------------------------------------
+http://www.linaro.org
 http://connect.linaro.org

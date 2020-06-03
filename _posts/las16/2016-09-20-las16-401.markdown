@@ -12,10 +12,8 @@ excerpt: OpenDataPlane provides a portable framework for data plane acceleration
   like the open source NGiNX web server. This talk discusses experiences using these
   tools with a focus on the performance and scaling benefits of using ODP and OFP.
 featured_image_name: LAS16-401.png
-image:
-  featured: true
-  file_name: LAS16-401.png
-  path: /assets/images/featured-images/LAS16-401.png
+image_name: LAS16-401.png
+image: /assets/images/featured-images/LAS16-401.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-401/
 post_format:

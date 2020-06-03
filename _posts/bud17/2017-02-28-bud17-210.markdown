@@ -11,10 +11,8 @@ excerpt: "By definition, \u2018unplanned\u2019 session for people to come and di
   - AOSP for Linux developers (an intro to the AOSP codebase for regular Linux guys?\n
   \n - OP-TEE/Security\n \n - AOSP TV\n \n - Perhaps Completely open graphics stack"
 featured_image_file_name: BUD17-210.jpg
-image:
-  featured: true
-  file_name: BUD17-210.jpg
-  path: /assets/images/featured-images/BUD17-210.jpg
+image_name: BUD17-210.jpg
+image: /assets/images/featured-images/BUD17-210.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-210/
 post_format:

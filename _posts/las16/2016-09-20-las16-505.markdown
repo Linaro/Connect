@@ -10,10 +10,8 @@ excerpt: "This presentation will discuss issues and common mistakes when migrati
   assemblers and linkers. The presentation will also make fun of bad practices and
   quick hacks that project porters sometimes use to \u201Cmake-it-compile\u201D."
 featured_image_name: LAS16-505.png
-image:
-  featured: true
-  file_name: LAS16-505.png
-  path: /assets/images/featured-images/LAS16-505.png
+image_name: LAS16-505.png
+image: /assets/images/featured-images/LAS16-505.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-505/
 post_format:

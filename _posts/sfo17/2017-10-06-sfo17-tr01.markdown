@@ -12,16 +12,14 @@ excerpt: 'What is the history and culture of Open Source?
   Our presenters have experienced the good, bad and ugly of working with Open Source
   software and will share their wisdom and hard won tips.'
 featured_image_name: SFO17-TR01.jpg
-image:
-  featured: true
-  file_name: SFO17-TR01.jpg
-  path: /assets/images/featured-images/SFO17-TR01.jpg
+image_name: SFO17-TR01.jpg
+image: /assets/images/featured-images/SFO17-TR01.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-tr01/
 post_format:
 - Video
 session_id: SFO17-TR01
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79886024
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/philosophy-of-open-source-sfo17tr01
 slug: sfo17-tr01

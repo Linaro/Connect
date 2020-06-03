@@ -14,16 +14,14 @@ excerpt: "There has been recent work upstream to enable the LKP tests to build a
   presentation will provide a brief overview of the LKP results that have been obtained.
   It will also demonstrate useful way to compare the data."
 featured_image_name: SFO15303LinuxKernelPerformanceLKPProjectonARM.jpg
-image:
-  featured: true
-  file_name: SFO15303LinuxKernelPerformanceLKPProjectonARM.jpg
-  path: /assets/images/featured-images/SFO15303LinuxKernelPerformanceLKPProjectonARM.jpg
+image_name: SFO15303LinuxKernelPerformanceLKPProjectonARM.jpg
+image: /assets/images/featured-images/SFO15303LinuxKernelPerformanceLKPProjectonARM.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-303-linux-kernel-performance-lkp-project-on-arm/
 post_format:
 - Video
 session_id: None
-session_track: Validation
+session_track: Automation & CI
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53570171
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15303-linux-kernel-performance-lkp-project-on-arm
 slug: sfo15-303-linux-kernel-performance-lkp-project-on-arm
@@ -45,15 +43,15 @@ Date: September 23, 2015
 ★ Session Description ★
 There has been recent work upstream to enable the LKP tests to build and execute on Arm platforms. The QA team has been involved with the integration of these tests into Linaro’s Automated Validation Architecture, and this presentation will provide a brief overview of the LKP results that have been obtained. It will also demonstrate useful way to compare the data.
 
-★ Resources ★ 
-Video: 
+★ Resources ★
+Video:
 Presentation: http://www.slideshare.net/linaroorg/sfo15303-linux-kernel-performance-lkp-project-on-arm
 Etherpad: pad.linaro.org/p/sfo15-303
-Pathable: https://sfo15.pathable.com/meetings/302935                                  
+Pathable: https://sfo15.pathable.com/meetings/302935
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

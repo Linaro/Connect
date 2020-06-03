@@ -6,10 +6,7 @@ comments: false
 date: 2016-02-22 17:20:51
 excerpt: Developers only discussion on the implementation of PCI on Arm64
 featured_image_name: BKK16-404A.jpg
-image:
-  featured: true
-  file_name: BKK16-404A.jpg
-  path: /assets/images/featured-images/BKK16-404A.jpg
+image: /assets/images/featured-images/BKK16-404A.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-404a/
 post_format:

@@ -17,10 +17,8 @@ excerpt: "The Arm\u2019s System Control and Management Interface (SCMI) is a set
   demonstrate the execution of this test suite run on Juno Arm Development Platform
   (ADP) using LAVA."
 featured_image_name: SFO17-319.jpg
-image:
-  featured: true
-  file_name: SFO17-319.jpg
-  path: /assets/images/featured-images/SFO17-319.jpg
+image_name: SFO17-319.jpg
+image: /assets/images/featured-images/SFO17-319.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-319/
 post_format:

@@ -11,10 +11,8 @@ date: 2015-09-23 00:00:00
 excerpt: 'ConfigFS: what can it do, real life examples, how it is used in Android,
   existing issues, and remaining Android things to upstream.'
 featured_image_name: SFO15311ConfigFSGadgetAnIntroduction.jpg
-image:
-  featured: true
-  file_name: SFO15311ConfigFSGadgetAnIntroduction.jpg
-  path: /assets/images/featured-images/SFO15311ConfigFSGadgetAnIntroduction.jpg
+image_name: SFO15311ConfigFSGadgetAnIntroduction.jpg
+image: /assets/images/featured-images/SFO15311ConfigFSGadgetAnIntroduction.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-311-configfs-gadget-an-introduction/
 post_format:

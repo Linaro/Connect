@@ -12,16 +12,14 @@ excerpt: 'A discussion on embedded Graphics, likely code bases, use cases and mi
 
 '
 featured_image_file_name: BUD17-321.jpg
-image:
-  featured: true
-  file_name: BUD17-321.jpg
-  path: /assets/images/featured-images/BUD17-321.jpg
+image_name: BUD17-321.jpg
+image: /assets/images/featured-images/BUD17-321.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-321/
 post_format:
 - Video
 session_id: BUD17-321
-session_track: None
+session_track: Other
 slideshare_presentation_url: None
 slug: bud17-321
 speakers: Andrea Gallo
@@ -39,7 +37,7 @@ youtube_video_url: https://youtu.be/dewTuy--DuU
 "Session ID: BUD17-321
 Session Name: OCTO BoF: Embedded Graphics - BUD17-321
 Speaker: Andrea Gallo
-Track: 
+Track:
 
 
 ★ Session Summary ★
@@ -47,7 +45,7 @@ A discussion on embedded Graphics, likely code bases, use cases and minimum requ
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-321/
-Presentation: 
+Presentation:
 Video: https://youtu.be/dewTuy--DuU
  ---------------------------------------------------
 

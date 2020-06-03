@@ -8,10 +8,8 @@ comments: false
 date: 2017-10-06 16:55:37
 excerpt: 'Keynote: Iliyan Malchev (Google)'
 featured_image_name: SFO17-400K1.jpg
-image:
-  featured: true
-  file_name: SFO17-400K1.jpg
-  path: /assets/images/featured-images/SFO17-400K1.jpg
+image_name: SFO17-400K1.jpg
+image: /assets/images/featured-images/SFO17-400K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-400k1/
 post_format:

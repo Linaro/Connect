@@ -27,10 +27,8 @@ excerpt: "Suresh\u2019s bio: Dr. Suresh Gopalakrishnan is the corporate vice pre
   of Idaho and has completed the Advanced Executive Program at Northwestern University\u2019s
   Kellogg School of Management. He is based in Sunnyvale, California."
 featured_image_name: SFO15300K2SureshGopalakrishnanAMD.jpg
-image:
-  featured: true
-  file_name: SFO15300K2SureshGopalakrishnanAMD.jpg
-  path: /assets/images/featured-images/SFO15300K2SureshGopalakrishnanAMD.jpg
+image_name: SFO15300K2SureshGopalakrishnanAMD.jpg
+image: /assets/images/featured-images/SFO15300K2SureshGopalakrishnanAMD.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-300k2-suresh-gopalakrishnan-amd/
 post_format:
@@ -61,16 +59,16 @@ Suresh’s bio: Dr. Suresh Gopalakrishnan is the corporate vice president and ge
 Prior to Extreme Networks, Dr. Gopalakrishnan held a variety of leadership positions at Riverstone Networks/Cabletron Systems, ZSP Corporation, Sun Microsystems and HP.
 Dr. Gopalakrishnan holds a Ph.D. in Electrical Engineering from the University of Idaho and has completed the Advanced Executive Program at Northwestern University’s Kellogg School of Management. He is based in Sunnyvale, California.
 
-★ Resources ★ 
+★ Resources ★
 Google Event to Watch Live:  https://plus.google.com/u/1/events/c7o1b0q6f861sb2h5bs4rac16og
-Pathable: https://sfo15.pathable.com/meetings/302930 
+Pathable: https://sfo15.pathable.com/meetings/302930
 Video: ttps://www.youtube.com/watch?v=apMkjg8tubw
 Presentation:  http://www.slideshare.net/linaroorg/sfo15300k2-suresh-gopalakrishnan-amd
 Etherpad:  pad.linaro.org/p/sfo15-300k2
 
-★ Event Details ★ 
-Linaro Connect San Francisco 2015 - #SFO15 
-September 21-25, 2015 
-Hyatt Regency Hotel 
+★ Event Details ★
+Linaro Connect San Francisco 2015 - #SFO15
+September 21-25, 2015
+Hyatt Regency Hotel
 http://www.linaro.org
 http://connect.linaro.org

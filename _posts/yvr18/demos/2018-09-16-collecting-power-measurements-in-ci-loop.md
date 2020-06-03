@@ -4,12 +4,11 @@ categories:
 - yvr18
 comments: false
 date: '2018-09-16 09:00:00+00:00'
-image:
-  featured: true
-  file_name: yvr18-demo1.jpg
-  path: /assets/images/featured-images/yvr18-demo1.jpg
-layout: resource-post-demo-interview
+image_name: yvr18-demo1.jpg
+image: /assets/images/featured-images/yvr18-demo1.jpg
+layout: resource-post
 session_track: Demo
+tag: demo
 speakers:
 - company: Linaro
   name: Lisa Nguyen

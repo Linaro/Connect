@@ -12,10 +12,8 @@ excerpt: GDB target description is of XML format to describe the registers and t
   emerges. I'll present the work to address the inflexibility in GDB target  description
   to better support various architectures, and their variants and extensions.
 featured_image_name: SFO17-210.jpg
-image:
-  featured: true
-  file_name: SFO17-210.jpg
-  path: /assets/images/featured-images/SFO17-210.jpg
+image_name: SFO17-210.jpg
+image: /assets/images/featured-images/SFO17-210.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-210/
 post_format:
@@ -55,7 +53,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

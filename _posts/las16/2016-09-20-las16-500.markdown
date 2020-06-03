@@ -25,10 +25,8 @@ excerpt: 'KVM/Arm has grown up. While the initial implementation of virtualizati
   since Linux v4.7. In this talk we will cover the evolution of this software project
   and give an overview of the state of the project as it is today.'
 featured_image_name: LAS16-500.png
-image:
-  featured: true
-  file_name: LAS16-500.png
-  path: /assets/images/featured-images/LAS16-500.png
+image_name: LAS16-500.png
+image: /assets/images/featured-images/LAS16-500.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-500/
 post_format:

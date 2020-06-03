@@ -17,10 +17,8 @@ excerpt: AArch64 is now a first class citizen with Apache Bigtop community. Apac
   areas of code fixes, challenges of porting.and walk through of setup and installation
   process. Naresh Bhat - Sandbox and Smoke Tests
 featured_image_name: HKG18-220.png
-image:
-  featured: true
-  file_name: HKG18-220.png
-  path: /assets/images/featured-images/HKG18-220.png
+image_name: HKG18-220.png
+image: /assets/images/featured-images/HKG18-220.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-220/
 post_format:
@@ -54,7 +52,7 @@ Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-220.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
 ---------------------------------------------------

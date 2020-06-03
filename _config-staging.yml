@@ -9,3 +9,7 @@ destination: staging.connect.linaro.org
 production: false
 # GitHub branch for netlify CMS config.yml file.
 branch: develop
+# Google Analytics / Tag Manager configuration
+google_analytics:
+  enabled: false
+  code: GTM-T9KN28Q

@@ -10,16 +10,14 @@ excerpt: 'This is a demo of Android running with OPTEE and Secure Video Playback
   the Widevine DRM. The Secure Video Path is using secure video buffers generated
   by the ION secure memory allocator.'
 featured_image_file_name: BUD17-DF10.jpg
-image:
-  featured: true
-  file_name: BUD17-DF10.jpg
-  path: /assets/images/featured-images/BUD17-DF10.jpg
+image_name: BUD17-DF10.jpg
+image: /assets/images/featured-images/BUD17-DF10.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df10/
 post_format:
 - Video
 session_id: BUD17-DF10
-session_track: None
+session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73552205
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17df10-android-with-opteesvp-and-widevine
 slug: bud17-df10

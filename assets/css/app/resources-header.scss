@@ -109,7 +109,7 @@ div#why-join-container {
   z-index: 99999;
   position: relative;
 }
-@media (max-width: $screen-sm-min) {
+@include media-breakpoint-down(sm){
   h1.fly.center-block {
     font-size: 25px;
   }

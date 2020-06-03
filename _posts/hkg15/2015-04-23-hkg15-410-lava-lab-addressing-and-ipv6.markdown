@@ -12,16 +12,14 @@ excerpt: 'Currently the majority of DUTs in the Lab are allocated an IP address 
   The proposal is that, where devices have a stable, fixed MAC address, they should
   be mapped to a fixed IP by the DHCP daemon in a selected '
 featured_image_name: HKG15-410.jpg
-image:
-  featured: true
-  file_name: HKG15-410.jpg
-  path: /assets/images/featured-images/HKG15-410.jpg
+image_name: HKG15-410.jpg
+image: /assets/images/featured-images/HKG15-410.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-410-lava-lab-addressing-and-ipv6/
 post_format:
 - Video
 session_id: HKG15-410
-session_track: Validation
+session_track: Automation & CI
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44515843
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15410-lava-lab-addressing-and-ipv6
 slug: hkg15-410-lava-lab-addressing-and-ipv6
@@ -39,23 +37,23 @@ wordpress_id: 757
 youtube_video_url: https://www.youtube.com/watch?v=XUQ0sisGfF0
 ---
 
-HKG15-410: LAVA Lab addressing and IPV6 
---------------------------------------------------- 
-Speaker: Dave Pigott and Ed Deacon 
-Date: February 12, 2015 
---------------------------------------------------- 
-★ Session Summary ★ 
-In the medium to long term we are also going to be adding IPV6 support both in and out of the Lab, which will have a knock on affect to Hacking Sessions and Port Forwarding. We will outline our thoughts and gather feedback to firm up our timescales and plans. 
--------------------------------------------------- 
-★ Resources ★ 
-Pathable: https://hkg15.pathable.com/meetings/250838 
+HKG15-410: LAVA Lab addressing and IPV6
+---------------------------------------------------
+Speaker: Dave Pigott and Ed Deacon
+Date: February 12, 2015
+---------------------------------------------------
+★ Session Summary ★
+In the medium to long term we are also going to be adding IPV6 support both in and out of the Lab, which will have a knock on affect to Hacking Sessions and Port Forwarding. We will outline our thoughts and gather feedback to firm up our timescales and plans.
+--------------------------------------------------
+★ Resources ★
+Pathable: https://hkg15.pathable.com/meetings/250838
 Presentation:  http://www.slideshare.net/linaroorg/hkg15410-lava-lab-addressing-and-ipv6
-Etherpad: http://pad.linaro.org/p/hkg15-410 
---------------------------------------------------- 
-★ Event Details ★ 
-Linaro Connect Hong Kong 2015 - #HKG15 
-February 9-13th, 2015 
-Regal Airport Hotel Hong Kong Airport 
---------------------------------------------------- 
-http://www.linaro.org 
+Etherpad: http://pad.linaro.org/p/hkg15-410
+---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2015 - #HKG15
+February 9-13th, 2015
+Regal Airport Hotel Hong Kong Airport
+---------------------------------------------------
+http://www.linaro.org
 http://connect.linaro.org

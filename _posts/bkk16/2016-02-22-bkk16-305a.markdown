@@ -17,10 +17,7 @@ excerpt: 'The Armv8 Server Lab has been up and running for more than a year sinc
   address of the status of the Lab from the managers, followed by a discussion between
   the attendees.'
 featured_image_name: BKK16-305A.jpg
-image:
-  featured: true
-  file_name: BKK16-305A.jpg
-  path: /assets/images/featured-images/BKK16-305A.jpg
+image: /assets/images/featured-images/BKK16-305A.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-305a/
 post_format:

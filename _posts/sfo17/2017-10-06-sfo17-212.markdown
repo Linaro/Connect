@@ -14,10 +14,8 @@ excerpt: The automotive industry has fallen behind the smartphone in terms of fe
   Dan Cauchy will discuss this transformation and provide insight into why automakers
   like Toyota are adopting AGL.
 featured_image_name: SFO17-212.jpg
-image:
-  featured: true
-  file_name: SFO17-212.jpg
-  path: /assets/images/featured-images/SFO17-212.jpg
+image_name: SFO17-212.jpg
+image: /assets/images/featured-images/SFO17-212.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-212/
 post_format:
@@ -46,7 +44,7 @@ The automotive industry has fallen behind the smartphone in terms of features an
 ---------------------------------------------------
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-212/
-Presentation: 
+Presentation:
 Video: https://www.youtube.com/watch?v=XSk4oeIRRyU
  ---------------------------------------------------
 
@@ -56,7 +54,7 @@ Linaro Connect San Francisco 2017 (SFO17)
 Hyatt Regency San Francisco Airport
 
 ---------------------------------------------------
-Keyword: 
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
 ---------------------------------------------------

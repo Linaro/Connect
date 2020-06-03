@@ -9,10 +9,8 @@ date: 2017-10-06 16:56:25
 excerpt: In this session I will talk about what has happened in the past year on the
   OpenJDK project, for both in Linaro and further afield.
 featured_image_name: SFO17-503.jpg
-image:
-  featured: true
-  file_name: SFO17-503.jpg
-  path: /assets/images/featured-images/SFO17-503.jpg
+image_name: SFO17-503.jpg
+image: /assets/images/featured-images/SFO17-503.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-503/
 post_format:

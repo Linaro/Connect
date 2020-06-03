@@ -11,10 +11,7 @@ excerpt: 'Session will discuss the design and work done to get S2I working on th
   Show performance numbers for latency and power consumption for S2I vs S2R (if available).
   Highlight possible improvements to decrease latency for S2I.'
 featured_image_name: BKK16-502.jpg
-image:
-  featured: true
-  file_name: BKK16-502.jpg
-  path: /assets/images/featured-images/BKK16-502.jpg
+image: /assets/images/featured-images/BKK16-502.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-502/
 post_format:

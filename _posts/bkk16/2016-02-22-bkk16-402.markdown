@@ -9,16 +9,13 @@ excerpt: Regular session taking place at Connect for developers working on Linux
   their experiences using Linux distributions on Arm. The goal of the discussion is
   to identify areas in which Linaro can help.
 featured_image_name: BKK16-402.jpg
-image:
-  featured: true
-  file_name: BKK16-402.jpg
-  path: /assets/images/featured-images/BKK16-402.jpg
+image: /assets/images/featured-images/BKK16-402.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-402/
 post_format:
 - Video
 session_id: BKK16-402
-session_track: B&B
+session_track: Builds & Baselines
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58207759
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16402-cross-distro-bof
 slug: bkk16-402

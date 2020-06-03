@@ -14,16 +14,14 @@ excerpt: Representing the historical progress of work represented in JIRA has be
   the automation is the ease of which it will build a history of status for ongoing
   analysis.
 featured_image_file_name: BUD17-119.jpg
-image:
-  featured: true
-  file_name: BUD17-119.jpg
-  path: /assets/images/featured-images/BUD17-119.jpg
+image_name: BUD17-119.jpg
+image: /assets/images/featured-images/BUD17-119.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-119/
 post_format:
 - Video
 session_id: BUD17-119
-session_track: None
+session_track: Other
 slideshare_presentation_url: None
 slug: bud17-119
 speakers: None

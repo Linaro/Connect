@@ -9,10 +9,8 @@ date: 2015-06-30 17:09:25
 excerpt: Technical session featuring a deep dive into the Chromium-Blink migration
   implementing Ozone-Aura graphics framework
 featured_image_name: LCU14-208.jpg
-image:
-  featured: true
-  file_name: LCU14-208.jpg
-  path: /assets/images/featured-images/LCU14-208.jpg
+image_name: LCU14-208.jpg
+image: /assets/images/featured-images/LCU14-208.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-208-chromium-blink-migration-for-rdk/
 post_format:

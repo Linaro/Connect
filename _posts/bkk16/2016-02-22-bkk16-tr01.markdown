@@ -6,16 +6,13 @@ date: 2016-02-22 17:20:58
 excerpt: "FLOSS - Free / Libre Open Source Software What _is_ \u201Cthe community\u201D?
   What do they want from you? What do you get in return?"
 featured_image_name: BKK16-TR01.jpg
-image:
-  featured: true
-  file_name: BKK16-TR01.jpg
-  path: /assets/images/featured-images/BKK16-TR01.jpg
+image: /assets/images/featured-images/BKK16-TR01.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-tr01/
 post_format:
 - Video
 session_id: BKK16-TR01
-session_track: TRAINING
+session_track: Training
 slug: bkk16-tr01
 title: 'BKK16-TR01: The Philosophy of Open Source Development'
 video_length: 00:00

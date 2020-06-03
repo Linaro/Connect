@@ -17,10 +17,7 @@ excerpt: '- What we mean by EAS core and how it''s distinct from the other compo
   struct sched_group_energy., , - How we are structuring things to ease upstream acceptance.  What''s
   helping, what''s not, where partners can help.'
 featured_image_name: BKK16-311.jpg
-image:
-  featured: true
-  file_name: BKK16-311.jpg
-  path: /assets/images/featured-images/BKK16-311.jpg
+image: /assets/images/featured-images/BKK16-311.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-311/
 post_format:

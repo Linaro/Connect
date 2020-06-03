@@ -13,10 +13,8 @@ excerpt: Linaro has been refining the secure storage solution in OP-TEE and in t
   to know about the implementation details, design decisions and what algorithms that
   has been used.
 featured_image_name: SFO15503SecurestorageinOPTEE.jpg
-image:
-  featured: true
-  file_name: SFO15503SecurestorageinOPTEE.jpg
-  path: /assets/images/featured-images/SFO15503SecurestorageinOPTEE.jpg
+image_name: SFO15503SecurestorageinOPTEE.jpg
+image: /assets/images/featured-images/SFO15503SecurestorageinOPTEE.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-503-secure-storage-in-op-tee/
 post_format:

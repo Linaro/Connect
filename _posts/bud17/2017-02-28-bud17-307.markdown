@@ -15,10 +15,8 @@ excerpt: "After deadline scheduling for processes (SCHED_DEADLINE scheduling pol
   frequency scaling, bandwidth reclaiming, coupling with clock frequency selection
   and cgroups support."
 featured_image_file_name: BUD17-307.jpg
-image:
-  featured: true
-  file_name: BUD17-307.jpg
-  path: /assets/images/featured-images/BUD17-307.jpg
+image_name: BUD17-307.jpg
+image: /assets/images/featured-images/BUD17-307.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-307/
 post_format:
@@ -47,7 +45,7 @@ Track: Power Management
 
 ★ Session Summary ★
 After deadline scheduling for processes (SCHED_DEADLINE scheduling policy) has been merged in the Linux kernel in Mar-2014 (version 3.14) a considerable effort has been put into actively maintaining it, but no further development really happened after that date, until recently.
- 
+
 In this presentation, Juri Lelli, after giving a (very briefly) review of the current set of features, will deep dive into the details of all the new features currently under development: CPU capacity and clock frequency scaling, bandwidth reclaiming, coupling with clock frequency selection and cgroups support.
 ---------------------------------------------------
 ★ Resources ★

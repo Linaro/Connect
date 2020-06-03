@@ -13,7 +13,7 @@ excerpt: "A proposal to add ODP based compression/decompression API to provide p
   will target Cavium OCTEON TX SoC to accelerate IP Compression (IPComp)"
 featured_image_file_name: BUD17-103.jpg
 image:
-  path: /assets/images/featured-images/BUD17-103.jpg
+image: /assets/images/featured-images/BUD17-103.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-103/
 post_format:
