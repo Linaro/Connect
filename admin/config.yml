@@ -350,6 +350,7 @@ collections:
       preview: false
     preview_path: "{{slug}}"
     create: true
+    summary: "{{fields.title}} - {{fields.permalink}}"
     description: >
       This collection allows you to add/edit/delete pages.
     slug: "{{permalink}}"
