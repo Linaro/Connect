@@ -33,8 +33,8 @@ permalink: /assets/json/bkk19/data.json
         {% if post.session_track %}
         "tracks": "{{post.session_track}}",
         {% endif %}
-        {% if post.image.path %}
-        "thumbnail": "{{site.url}}{{post.image.path}}",
+        {% if post.image %}
+        "thumbnail": "{{site.url}}{{post.image}}",
         {% endif %}
         "title": {{ post.title | smartify | jsonify }}
     }{% unless forloop.last == true %},{% endunless %}{% endfor %}]

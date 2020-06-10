@@ -67,8 +67,8 @@ permalink: /assets/json/resources.json
         {% else %}
         "tracks": "Arm",
         {% endif %}
-        {% if post.image.path %}
-        "thumbnail": "{{site.url}}{{post.image.path}}",
+        {% if post.image %}
+        "thumbnail": "{{site.url}}{{post.image}}",
         {% endif %}
         "title": {{ post.title | smartify | jsonify }}
     }{% unless forloop.last == true %},{% endunless %}{% endfor %}]
