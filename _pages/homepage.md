@@ -30,8 +30,6 @@ flow:
             As a result of Covid-19 and concern for the safety of all attendees, we have cancelled all Linaro Connect events scheduled for 2020.
 
             We will be hosting Linaro Virtual Connect September 22-24, 2020 online. This event will be a 3 day series of technical keynotes, sessions, and more. Further details will be announced in late June 2020. The Call for Proposals is now open for those who are interested in presenting a session at Linaro Virtual Connect in September.
-
-            The next in-person event is planned for March 2021 in Budapest, Hungary.
       - format: buttons
         style: text-center
         buttons_content:

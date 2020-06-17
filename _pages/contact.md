@@ -2,7 +2,6 @@
 title: Contact
 description: |-
   Get in contact and we will help the best we can.
-layout: base
 permalink: /contact/
 css-package: contact
 layout: flow
