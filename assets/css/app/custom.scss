@@ -12,3 +12,22 @@
     right: 0;
     margin: 20px;
 }
+// Mailchimp Signup form.
+div#mailchimp_signup {
+    padding: 50px 0;
+    background-color: #f2f2f2;
+}
+div#mc_embed_signup {
+    background: transparent;
+}
+div#mc_embed_signup form input.email{
+    height:40px;
+    color: $brand-primary;
+    border-radius: 2px !important;
+}
+input#mc-embedded-subscribe {
+    height: 40px !important;
+}
+#mailchimp_signup .col-xs-12.text-center h3, #mailchimp_signup .col-xs-12.text-center p {
+    color: #313131;
+}
