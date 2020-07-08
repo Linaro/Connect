@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: linaro/connect
-  branch: develop
+  branch: master
   preview_context: "Deploy preview"
   accept_roles:
     - admin
