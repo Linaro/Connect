@@ -1,9 +1,4 @@
 <div class="col col-12">
-    {% assign ltd20_sessions = site.categories["ltd20"] | sort: 'session_slot.end_time' %}
-    <div class="list-group">
-        <li class="list-group-item active">LTD20 Sessions - 24th - 25th March</li>
-        {% for session in ltd20_sessions %}
-            <a href="{{session.url}}" class="list-group-item" style="overflow:auto;">{{session.title}} <span class="pull-right">{{session.session_slot.start_time | date: "%e %B" }} - {{session.session_slot.start_time | date: "  %H:%M %p" }} - {{session.session_slot.end_time | date: "%H:%M %p"}}</span></a>
-        {% endfor %}
-    </div>
+    <a id="sched-embed" href="//lvc20.sched.com/">View the Linaro Virtual Connect 2020 schedule & directory.</a>
+    <script type="text/javascript" src="//lvc20.sched.com/js/embed.js"></script>
 </div>
