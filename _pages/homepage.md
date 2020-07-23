@@ -9,7 +9,8 @@ jumbotron:
   slider:
     - darken: true
       title: Bringing the Arm ecosystem together
-      image: /assets/images/content/san19-group-photo.jpg
+      custom_include: connect_logo_insert.html
+      image: /assets/images/content/virtual_meeting.jpg
 home: true
 redirect_from:
   - /keynotes/bkk19/
