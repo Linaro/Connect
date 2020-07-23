@@ -4,7 +4,7 @@
   long_name: Linaro Virtual Connect 2020
   start_date: 2020-09-22 09:00:00
   end_date: 2020-09-24 09:00:00
-  using_json: true
+  using_json: "True"
 - id: LTD20
   featured_images:
     - /assets/images/content/techdays_mailchimp_banner.png
