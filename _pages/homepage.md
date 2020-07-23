@@ -8,8 +8,10 @@ description: |-
 jumbotron:
   slider:
     - darken: true
+      inner_class: text-center
       title: Bringing the Arm ecosystem together
       custom_include: connect_logo_insert.html
+      title-class: font-weight-bold
       image: /assets/images/content/virtual_meeting.jpg
 home: true
 redirect_from:
@@ -19,46 +21,36 @@ flow:
   - row: container_row
     style: bg-secondary
     sections:
-      - format: title
-        style: text-center text-white
-        title_content:
-          size: h2
-          text: Linaro Connect is going Virtual.
       - format: text
         style: text-center text-white
         text_content:
           text: |
             As a result of Covid-19 and concern for the safety of all attendees, we have cancelled all Linaro Connect events scheduled for 2020.
 
-            We will be hosting Linaro Virtual Connect September 22-24, 2020 online. This event will be a 3 day series of technical keynotes, sessions, and more. Further details will be announced in late June 2020. The Call for Proposals is now open for those who are interested in presenting a session at Linaro Virtual Connect in September.
+            **However, we will be hosting Linaro Virtual Connect September 22-24, 2020 online. This event will be a 3 day series of technical keynotes, sessions and more.**
+
+            You can view the schedule below. More information about Linaro is available at [linaro.org](https://www.linaro.org)
+
+            Please note live seminars will not be available to view unless you register for this event, so please register today!.
       - format: buttons
         style: text-center
         buttons_content:
-            - title: Submit Proposal
+            - title: Register Today!
               url: /cfp/
-              style: btn-primary
-#   - row: container_row
-#     sections:
-#       - format: feature_block
-#         feature_block_content:
-#           position: right
-#           type: image
-#           image_content_path: /assets/images/content/sponsor-cloud-image.png
-#           title: Sponsor Linaro Connect
-#           text: >
-#             Hundreds of the world’s best Linux on Arm developers come to Linaro Connect each time because they know it is the leading place to meet with the global community and to learn about what is going on in the industry. Sponsorship of the event puts your brand in front of all the event attendees – both the 400+ on-site and all those who participate remotely, as well as the thousands who view the website and social media before, during and after the event.
-#           buttons:
-#             - title: Learn More
-#               url: /sponsors/
-#               class: btn-primary
-#               icon: fa fa-arrow-right
-#             - title: Download Prospectus
-#               url: https://linaro.co/LinaroConnectSponsorshipProspectus
-#               class: btn-primary
-#               icon: fa fa-download
+              style: btn-primary text-uppercase font-weight-bold
+  - row: container_row
+    style: bg-white
+    sections:
+      - format: custom_include
+        source: schedule.html
+      - format: buttons
+        style: text-center
+        buttons_content:
+            - title: Register Today!
+              url: /cfp/
+              style: btn-primary text-uppercase font-weight-bold
   - row: container_row
     style: block_row
-    #   background_image: /assets/images/content/bkk19-group-photo.jpg
     sections:
       - format: title
         style: text-center
@@ -92,7 +84,7 @@ flow:
               url: /resources/
               image: /assets/images/content/san19-group-photo.jpg
               background_image: true
-              description: View all of the Connect resources from the previous Linaro Connect events.
+              description: View Connect resources from the previous Linaro Connect events.
               buttons:
                 - title: View all resources
                   url: /resources/
