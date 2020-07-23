@@ -1,22 +1,39 @@
 #wrapper {
-    overflow: hidden;
-    .blog_image_header::before {
-        content: "";
+  overflow: hidden;
+  .blog_image_header::before {
+    content: "";
+  }
+  a {
+    color: #11809f;
+    &:hover {
+      color: #99cc33;
     }
+  }
+  #universal_nav {
+    .nav-item {
+      &.active {
+        a.nav-link {
+          color: #fff;
+        }
+      }
+      a.nav-link {
+        color: #000;
+      }
+    }
+  }
 }
 #gdpr-cookie-message {
-    top: 0;
-    bottom: unset;
-    left: 0;
-    max-width: 100%;
-    right: 0;
-    margin: 20px;
+  top: 0;
+  bottom: unset;
+  left: 0;
+  max-width: 100%;
+  right: 0;
+  margin: 20px;
 }
-// Mailchimp Signup form.
 div#mailchimp_signup {
-    padding: 50px 0;
-    background-color: #f2f2f2;
+  padding: 50px 0;
+  background-color: #f2f2f2;
 }
 div#mc_embed_signup {
-    background: transparent;
+  background: transparent;
 }
