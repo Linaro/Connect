@@ -3,11 +3,20 @@
   .blog_image_header::before {
     content: "";
   }
+  .jumbotron .header_background_image {
+    filter: brightness(0.3);
+  }
+  .hidden-iframe {
+      display:none;
+  }
   a {
     color: #11809f;
     &:hover {
       color: #99cc33;
     }
+  }
+  .btn.btn-primary {
+    color: #000;
   }
   #universal_nav {
     .nav-item {
