@@ -12,10 +12,17 @@ css-package: resources-blog
         <div class="container text-center">
             <div class="inner_content_wrapper">
                 <h1 class="" itemprop="name headline">{{page.title}}</h1>
-                <p>
-                    <time datetime="{{page.date}}"
-                        itemprop="datePublished">{{page.date |  date: "%A, %B %-d, %Y"}}</time>
-                </p>
+                {% if page.session_slot.start_time and page.session_slot.end_time %}
+                    <p>
+                        <time datetime="{{page.session_slot.start_time}}"
+                            itemprop="datePublished">{{page.session_slot.start_time |  date: "%A, %B %-d, %Y %H:%M" }} - {{page.session_slot.end_time |  date: "%A, %B %-d, %Y %H:%M"}}</time>
+                    </p>
+                {% else %}
+                    <p>
+                        <time datetime="{{page.date}}"
+                            itemprop="datePublished">{{page.date |  date: "%A, %B %-d, %Y" }}</time>
+                    </p>
+                {% endif %}
             </div>
         </div>
     </div>
