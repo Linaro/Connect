@@ -36,7 +36,7 @@ flow:
         style: text-center
         buttons_content:
             - title: Register Today!
-              url: /cfp/
+              url: https://www.eventbrite.co.uk/e/linaro-virtual-connect-2020-tickets-112995398278
               style: btn-primary text-uppercase font-weight-bold
   - row: container_row
     style: bg-white
@@ -47,7 +47,7 @@ flow:
         style: text-center
         buttons_content:
             - title: Register Today!
-              url: /cfp/
+              url: https://www.eventbrite.co.uk/e/linaro-virtual-connect-2020-tickets-112995398278
               style: btn-primary text-uppercase font-weight-bold
   - row: container_row
     style: block_row
