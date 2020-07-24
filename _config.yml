@@ -166,8 +166,10 @@ readme_index:
 # -------- jekyll_picture_tag --------
 picture:
   nomarkdown: false
-  source: "assets/images"
+  source: ""
   output: "assets/images"
+  fast_build: true
+  suppress_warnings: true
   relative_url: true
 # -------- japr --------
 asset_pipeline:

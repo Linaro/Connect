@@ -150,7 +150,6 @@ $(window).on("load", function () {
       connectCode.toString().toLowerCase() +
       "/resources.json";
     // var resources_json_url = "http://localhost:4002/resources.json";
-    console.log(resources_json_url);
     // GET the JSON response
     $.ajax({
       url: resources_json_url,
@@ -160,7 +159,6 @@ $(window).on("load", function () {
         // Find the corresponding key in the JSON data
         $.each(jsonData, function (idx, obj) {
           // Get the current Connect code
-          // console.log(obj.session_id.toString().toLowerCase() + " vs " + sessionId.toString().toLowerCase() );
           if (
             obj.session_id.toString().toLowerCase() ==
             sessionId.toString().toLowerCase()
@@ -168,9 +166,6 @@ $(window).on("load", function () {
             // Grab the main presentation URL
             if (obj.s3_presentation_url.toString().length > 1) {
               if (obj.s3_presentation_url[0].length > 1) {
-                console.log("array of videos");
-                console.log(obj.s3_presentation_url);
-                console.log(obj.s3_presentation_url[0]);
                 // Add all files to the session_files
                 $.each(obj.s3_presentation_url, function (index, object) {
                   session_files.push(object);
@@ -189,7 +184,6 @@ $(window).on("load", function () {
             // Add other files to the session files array.
             if (obj.other_files.toString().length > 1) {
               if (obj.other_files[0].length > 1) {
-                console.log(obj.other_files);
                 // Add all files to the session_files
                 $.each(obj.other_files, function (index, object) {
                   session_files.push(object);
@@ -246,8 +240,6 @@ $(window).on("load", function () {
 
   $(document).ajaxStop(function () {
     if (session_files.length > 0) {
-      console.log("Adding session files...");
-      console.log(session_files);
       var elements = "";
       $.each(session_files, function (index, object) {
         var object_type = "File";
@@ -270,8 +262,6 @@ $(window).on("load", function () {
         elements += new_element;
       });
       $("#session_files").append(elements);
-    } else {
-      console.log("No sessio files.");
     }
   });
 });
