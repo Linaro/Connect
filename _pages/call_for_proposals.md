@@ -7,6 +7,7 @@ jumbotron:
   background-image: /assets/images/content/connect-banner-image-1.jpg
   title: Call for Proposals
   description: ''
+published: false
 flow:
   - row: main_content_row
   - row: container_row
