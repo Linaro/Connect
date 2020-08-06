@@ -226,13 +226,6 @@ $(document).ready(function () {
   // COOKIES CONFIG
   // Cookie Consent Setup
   if ($("meta[name=analytics_code]")) {
-    var privacy_url = $("meta[name=privacy_url]").attr("content");
-    var cookies_popup_title = $("meta[name=cookies_popup_title]").attr(
-      "content"
-    );
-    var cookies_popup_description = $(
-      "meta[name=cookies_popup_description]"
-    ).attr("content");
     var ga_code = $("meta[name=analytics_code]").attr("content");
 
     // Options for the Cookie Dialog
@@ -262,27 +255,6 @@ $(document).ready(function () {
     // Enabled Google Analytics if cookie to allow us to collect is set.
     function init_ga() {
       if ($.fn.ihavecookies.preference("analytics")) {
-        // (function (i, s, o, g, r, a, m) {
-        //   i["GoogleAnalyticsObject"] = r;
-        //   (i[r] =
-        //     i[r] ||
-        //     function () {
-        //       (i[r].q = i[r].q || []).push(arguments);
-        //     }),
-        //     (i[r].l = 1 * new Date());
-        //   (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
-        //   a.async = 1;
-        //   a.src = g;
-        //   m.parentNode.insertBefore(a, m);
-        // })(
-        //   window,
-        //   document,
-        //   "script",
-        //   "https://www.google-analytics.com/analytics.js",
-        //   "ga"
-        // );
-        // ga("create", ga_code, "auto");
-        // ga("send", "pageview");
         (function (w, d, s, l, i) {
           w[l] = w[l] || [];
           w[l].push({
