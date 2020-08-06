@@ -11,5 +11,5 @@ production: true
 branch: master
 # Google Analytics / Tag Manager configuration
 google_analytics:
-  enabled: false
+  enabled: true
   code: GTM-T9KN28Q
