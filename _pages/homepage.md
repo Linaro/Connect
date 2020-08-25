@@ -34,23 +34,13 @@ flow:
             Please note live seminars will not be available to view unless you register for this event, so please register today!.
       - format: custom_include
         source: register_popup.html
-      - format: buttons
-        style: text-center
-        buttons_content:
-          - title: Register Today!
-            url: https://www.eventbrite.co.uk/e/linaro-virtual-connect-2020-tickets-112995398278
-            style: btn-primary text-uppercase font-weight-bold
   - row: container_row
     style: bg-white
     sections:
       - format: custom_include
         source: schedule.html
-      - format: buttons
-        style: text-center
-        buttons_content:
-          - title: Register Today!
-            url: https://www.eventbrite.co.uk/e/linaro-virtual-connect-2020-tickets-112995398278
-            style: btn-primary text-uppercase font-weight-bold
+      - format: custom_include
+        source: register_popup.html
   - row: container_row
     style: block_row
     sections:
