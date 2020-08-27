@@ -9,10 +9,7 @@
     <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
 
     <script type="text/javascript">
-        var exampleCallback = function () { console.log('Order complete!'); }
-
-            ;
-
+        var exampleCallback = function () { dataLayer.push({'event': 'form_submit'}) };
         window.EBWidgets.createWidget(
             { widgetType: 'checkout', eventId: '112995398278', modal: true, modalTriggerElementId: 'eventbrite-widget-modal-trigger-112995398278', onOrderComplete: exampleCallback }
 
