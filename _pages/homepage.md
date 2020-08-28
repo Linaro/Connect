@@ -4,7 +4,7 @@ css-package: home
 permalink: /
 title: Bringing the Arm ecosystem together
 description: |-
-    Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect.
+  Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect.
 jumbotron:
   slider:
     - darken: true
@@ -32,23 +32,15 @@ flow:
             You can view the schedule below. More information about Linaro is available at [linaro.org](https://www.linaro.org)
 
             Please note live seminars will not be available to view unless you register for this event, so please register today!.
-      - format: buttons
-        style: text-center
-        buttons_content:
-            - title: Register Today!
-              url: https://www.eventbrite.co.uk/e/linaro-virtual-connect-2020-tickets-112995398278
-              style: btn-primary text-uppercase font-weight-bold
+      - format: custom_include
+        source: register_popup.html
   - row: container_row
     style: bg-white
     sections:
       - format: custom_include
         source: schedule.html
-      - format: buttons
-        style: text-center
-        buttons_content:
-            - title: Register Today!
-              url: https://www.eventbrite.co.uk/e/linaro-virtual-connect-2020-tickets-112995398278
-              style: btn-primary text-uppercase font-weight-bold
+      - format: custom_include
+        source: register_popup.html
   - row: container_row
     style: block_row
     sections:
