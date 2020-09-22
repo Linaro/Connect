@@ -168,7 +168,7 @@ picture:
   nomarkdown: false
   source: ""
   output: "assets/images"
-  fast_build: true
+  fast_build: false
   suppress_warnings: true
   relative_url: true
 # -------- japr --------
