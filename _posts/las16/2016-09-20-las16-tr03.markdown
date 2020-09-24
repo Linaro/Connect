@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Tuesday/LAS16-TR03%20-%20Upstreaming%20201.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Tuesday/LAS16-TR03%20Upstreaming%20201.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/las16/Presentations/Tuesday/LAS16-TR03%20-%20Upstreaming%20201.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Tuesday/LAS16-TR03%20Upstreaming%20201.mp4
 author: connect
 categories:
 - las16

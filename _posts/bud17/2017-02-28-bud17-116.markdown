@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-116-Zephyr-on-Beetle.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Monday/BUD17-116%20Zephyr%20on%20Beetle.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-116-Zephyr-on-Beetle.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Monday/BUD17-116%20Zephyr%20on%20Beetle.mp4
 author: connect
 categories:
 - bud17

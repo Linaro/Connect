@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-318%20-%20Navigating%20the%20ABI%20for%20the%20Arm%20Architecture.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Wednesday/Bud17-318%20Navigating%20the%20ABI%20for%20the%20Arm%20Architecture.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-318%20-%20Navigating%20the%20ABI%20for%20the%20Arm%20Architecture.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Wednesday/Bud17-318%20Navigating%20the%20ABI%20for%20the%20Arm%20Architecture.mp4
 author: connect
 categories:
 - bud17

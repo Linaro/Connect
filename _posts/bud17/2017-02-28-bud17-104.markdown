@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-104%20-%20Scripting%20Languages%20in%20IoT.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Monday/BUD17-104%20Scripting%20Languages%20in%20IoT%20%20Challenge%20and%20Approaches.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-104%20-%20Scripting%20Languages%20in%20IoT.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Monday/BUD17-104%20Scripting%20Languages%20in%20IoT%20%20Challenge%20and%20Approaches.mp4
 author: connect
 categories:
 - bud17

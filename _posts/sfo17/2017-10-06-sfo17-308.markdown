@@ -1,5 +1,5 @@
 ---
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-308%20AArch64%20Vector%20Optimizations%20for%20Glibc.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-308%20AArch64%20Vector%20Optimizations%20for%20Glibc.mp4
 author: connect
 categories:
 - sfo17

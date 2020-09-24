@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-201%20Secure%20Boot%20on%20Arm%20systems.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-201%20Secure%20Boot%20on%20Arm%20systems%20-%20Building%20a....mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Presentations/SFO17-201%20Secure%20Boot%20on%20Arm%20systems.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-201%20Secure%20Boot%20on%20Arm%20systems%20-%20Building%20a....mp4
 author: connect
 categories:
 - sfo17

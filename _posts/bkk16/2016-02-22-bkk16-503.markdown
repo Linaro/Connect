@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bkk16/Presentations/Friday/BKK16-503.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bkk16/Videos/Friday/BKK16-503%20Undefined%20Behavior%20and%20Compiler%20Optimizations%20-%20Why%20Your%20Program%20Stopped%20Working%20With%20A%20Newer%20Compiler.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bkk16/Presentations/Friday/BKK16-503.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bkk16/Videos/Friday/BKK16-503%20Undefined%20Behavior%20and%20Compiler%20Optimizations%20-%20Why%20Your%20Program%20Stopped%20Working%20With%20A%20Newer%20Compiler.mp4
 author: connect
 categories: bkk16
 comments: false

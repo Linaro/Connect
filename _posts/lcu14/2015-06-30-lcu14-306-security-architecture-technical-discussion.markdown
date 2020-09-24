@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg15/Videos/09-17-Wednesday/LCU14-306.pdf
+amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/09-17-Wednesday/LCU14-306.pdf
 author: connect
 categories:
 - lcu14

@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg15/Videos/09-15-Monday/LCU14-100.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/lcu14/videos/09-15-Monday/LCU14-100-+Dalvik+is+Dead%252C+Long+Live+Dalvik%2521+OR+Tuning+ART.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/09-15-Monday/LCU14-100.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-15-Monday/LCU14-100-+Dalvik+is+Dead%252C+Long+Live+Dalvik%2521+OR+Tuning+ART.mp4
 author: connect
 categories:
 - lcu14

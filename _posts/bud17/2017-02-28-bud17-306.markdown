@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-306%20-%20ODP%20IPsec%20Offload%20Panel.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Wednesday/Bud17-306%20ODP%20IPsec%20offload%20panel.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-306%20-%20ODP%20IPsec%20Offload%20Panel.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Wednesday/Bud17-306%20ODP%20IPsec%20offload%20panel.mp4
 author: connect
 categories:
 - bud17

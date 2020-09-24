@@ -1,7 +1,7 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-25-Friday/SFO15-502-
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-25-Friday/SFO15-502-
   Generic cpuidle driver.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Videos/09-25-Friday/SFO15-502
+amazon_s3_video_url: https://static.linaro.org/connect/sfo15/Videos/09-25-Friday/SFO15-502
   Using generic cpuidle framework for Arm  Arm64 in your driver.mp4
 author: connect
 categories:

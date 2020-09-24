@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/hkg18/presentations/hkg18-tr11.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr11.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-tr11.mp4
 author: connect
 categories:
   - hkg18
@@ -44,8 +44,8 @@ The LAVA on your desk BoF is aimed at individual kernel engineers, subsystem mai
 ## Resources
 
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-tr11/
-Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr11.pdf
-Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr11.mp4
+Presentation: https://static.linaro.org/connect/hkg18/presentations/hkg18-tr11.pdf
+Video: https://static.linaro.org/connect/hkg18/videos/hkg18-tr11.mp4
 
 ---
 

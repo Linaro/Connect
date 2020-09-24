@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-112%20-%20Enabling%20TCP-IP%20Offload%20in%20Zephyr%20%20with%20TI%20SimpleLink.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Monday/BUD17-112%20Enabling%20TCP%20%20IP%20Offload%20in%20Zephyr%20with%20TI%20SimpleLink%20WiFi.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-112%20-%20Enabling%20TCP-IP%20Offload%20in%20Zephyr%20%20with%20TI%20SimpleLink.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Monday/BUD17-112%20Enabling%20TCP%20%20IP%20Offload%20in%20Zephyr%20with%20TI%20SimpleLink%20WiFi.mp4
 author: connect
 categories:
 - bud17

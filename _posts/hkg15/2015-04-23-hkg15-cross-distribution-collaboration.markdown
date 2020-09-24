@@ -1,5 +1,5 @@
 ---
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg15/Videos/02-11-Wednesday/Cross-distribution+Collaboration.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-11-Wednesday/Cross-distribution+Collaboration.mp4
 author: connect
 categories:
 - hkg15

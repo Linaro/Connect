@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-204.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-204.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/hkg18/presentations/hkg18-204.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-204.mp4
 author: connect
 categories:
 - hkg18
@@ -39,8 +39,8 @@ Badges will be checked at the door.
 ---------------------------------------------------
 ## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-204/
-Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-204.pdf
-Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-204.mp4
+Presentation: https://static.linaro.org/connect/hkg18/presentations/hkg18-204.pdf
+Video: https://static.linaro.org/connect/hkg18/videos/hkg18-204.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18

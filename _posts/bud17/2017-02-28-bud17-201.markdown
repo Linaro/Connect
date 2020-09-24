@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Tuesday/BUD17-201%20Arm%20Server%20Standards%20%20The%20Next%20Generation.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Tuesday/BUD17-201%20Arm%20Server%20Standards%20%20The%20Next%20Generation.mp4
 author: connect
 categories:
 - bud17

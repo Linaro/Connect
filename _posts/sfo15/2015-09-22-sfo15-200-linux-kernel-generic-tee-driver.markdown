@@ -1,7 +1,7 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-22-Tuesday/SFO15-200-
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-22-Tuesday/SFO15-200-
   TEE kernel driver.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Videos/09-22-Tuesday/SFO15-200
+amazon_s3_video_url: https://static.linaro.org/connect/sfo15/Videos/09-22-Tuesday/SFO15-200
   Linux kernel generic TEE driver.mp4
 author: connect
 categories:

@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-24-Thursday/SFO15-BF02-ReducingArmLinuxKernelSize.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Videos/09-23-Wednesday/SFO15
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-24-Thursday/SFO15-BF02-ReducingArmLinuxKernelSize.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/sfo15/Videos/09-23-Wednesday/SFO15
   BFO2 Reducing the arm linux kernel size without losing your mind.mp4
 author: connect
 categories:

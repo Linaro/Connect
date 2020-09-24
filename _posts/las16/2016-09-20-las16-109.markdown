@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Monday/LAS16-109%20-%20The%20status%20quo%20and%20the%20future%20of%2096Boards.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Monday/LAS16-109%20The%20status%20quo%20and%20the%20future%20of%2096Boards.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/las16/Presentations/Monday/LAS16-109%20-%20The%20status%20quo%20and%20the%20future%20of%2096Boards.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Monday/LAS16-109%20The%20status%20quo%20and%20the%20future%20of%2096Boards.mp4
 author: connect
 categories:
 - las16

@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bkk16/Presentations/Thursday/BKK16-400A.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bkk16/Videos/Thursday/bkk16-400k2%20The%20Networked%20Society%20and%205G.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bkk16/Presentations/Thursday/BKK16-400A.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bkk16/Videos/Thursday/bkk16-400k2%20The%20Networked%20Society%20and%205G.mp4
 author: connect
 categories: bkk16
 comments: false

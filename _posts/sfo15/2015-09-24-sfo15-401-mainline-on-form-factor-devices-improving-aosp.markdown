@@ -1,7 +1,7 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-24-Thursday/SFO15-401-
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-24-Thursday/SFO15-401-
   Mainline on form-factor devices - Improving AOSP.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Videos/09-24-Thursday/SFO15-401
+amazon_s3_video_url: https://static.linaro.org/connect/sfo15/Videos/09-24-Thursday/SFO15-401
   Mainline on form-factor devices  Improving AOSP.mp4
 author: connect
 categories:

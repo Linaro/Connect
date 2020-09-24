@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-408%20%20Active%20state%20management%20of%20power%20domains.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-408%20-%20Active%20State%20Management%20of%20Power%20Domains.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Presentations/SFO17-408%20%20Active%20state%20management%20of%20power%20domains.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-408%20-%20Active%20State%20Management%20of%20Power%20Domains.mp4
 author: connect
 categories:
 - sfo17

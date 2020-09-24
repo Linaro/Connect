@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-24-Thursday/SFO15-411-EnergyAware
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-24-Thursday/SFO15-411-EnergyAware
   Scheduling Part 2.pdf
 amazon_s3_video_url: None
 author: connect
@@ -45,9 +45,9 @@ Pathable: [https://sfo15.pathable.com/meetings/303083](https://sfo15.pathable.co
 Video on server (if unable to view on YouTube):
 
 Presentation on server (if unable to view on Slideshare):
-[http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-24-Thursday/SFO15-411-Energy Aware Scheduling- Power vs. Performance policy -part 1.pdf](http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-24-Thursday/SFO15-411-Energy%20Aware Scheduling- Power vs. Performance policy -part 1.pdf)
+[https://static.linaro.org/connect/sfo15/Presentations/09-24-Thursday/SFO15-411-Energy Aware Scheduling- Power vs. Performance policy -part 1.pdf](https://static.linaro.org/connect/sfo15/Presentations/09-24-Thursday/SFO15-411-Energy%20Aware Scheduling- Power vs. Performance policy -part 1.pdf)
 
-[http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-24-Thursday/SFO15-411-EnergyAware Scheduling Part 2.pdf](http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-24-Thursday/SFO15-411-EnergyAware%20Scheduling Part 2.pdf)
+[https://static.linaro.org/connect/sfo15/Presentations/09-24-Thursday/SFO15-411-EnergyAware Scheduling Part 2.pdf](https://static.linaro.org/connect/sfo15/Presentations/09-24-Thursday/SFO15-411-EnergyAware%20Scheduling Part 2.pdf)
 
 ★ Event Details ★
 Linaro Connect San Francisco 2015 - #SFO15

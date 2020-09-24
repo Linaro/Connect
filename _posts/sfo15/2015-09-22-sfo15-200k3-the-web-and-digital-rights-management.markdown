@@ -1,7 +1,7 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-22-Tuesday/SFO15-200K3-
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-22-Tuesday/SFO15-200K3-
   Web and Digital Rights Management - Simmons.PDF
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Videos/09-22-Tuesday/SFO15-200K3
+amazon_s3_video_url: https://static.linaro.org/connect/sfo15/Videos/09-22-Tuesday/SFO15-200K3
   - The Web and Digital Rights Management.mp4
 author: connect
 categories:

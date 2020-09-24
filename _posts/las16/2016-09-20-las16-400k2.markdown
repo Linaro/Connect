@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Thursday/LAS16-400K2%20-%20tianocore%20linaro%20connect%202016.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Thursday/LAS16-400K2-%20Keynote-TianoCore%20Open%20Source%20UEFI%20Community%20Update.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/las16/Presentations/Thursday/LAS16-400K2%20-%20tianocore%20linaro%20connect%202016.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Thursday/LAS16-400K2-%20Keynote-TianoCore%20Open%20Source%20UEFI%20Community%20Update.mp4
 author: connect
 categories:
 - las16

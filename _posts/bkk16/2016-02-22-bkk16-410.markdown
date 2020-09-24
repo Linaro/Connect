@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bkk16/Presentations/Thursday/BKK16-410.pdf
+amazon_s3_presentation_url: https://static.linaro.org/connect/bkk16/Presentations/Thursday/BKK16-410.pdf
 author: connect
 categories: bkk16
 comments: false

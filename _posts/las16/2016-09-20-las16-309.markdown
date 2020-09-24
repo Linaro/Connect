@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Wednesday/LAS16-309%20-%20From%20Big%20Iron%20to%20IoT.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Wednesday/LAS16-309%20Server%20Ecosystem%20%20Xen%20on%20Arm%2C%20from%20Big%20Iron%20to%20IoT.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/las16/Presentations/Wednesday/LAS16-309%20-%20From%20Big%20Iron%20to%20IoT.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Wednesday/LAS16-309%20Server%20Ecosystem%20%20Xen%20on%20Arm%2C%20from%20Big%20Iron%20to%20IoT.mp4
 author: connect
 categories:
 - las16
@@ -55,7 +55,7 @@ Speakers: Ryan Arnold, Steve Capper, Julien Grall, Zheng Xu
 Date: September 28, 2016
 
 Second presentation:  [http://www.slideshare.net/linaroorg/las16-309-lua-jit-arm64-port-status
-D](http://www.slideshare.net/linaroorg/las16-309-lua-jit-arm64-port-status)ownload second presentation; [ http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Wednesday/LAS16-309%20-%20LuaJIT%20Arm64%20Port%20-%20Status.pdf](http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Wednesday/LAS16-309%20-%20LuaJIT%20Arm64%20Port%20-%20Status.pdf)
+D](http://www.slideshare.net/linaroorg/las16-309-lua-jit-arm64-port-status)ownload second presentation; [ https://static.linaro.org/connect/las16/Presentations/Wednesday/LAS16-309%20-%20LuaJIT%20Arm64%20Port%20-%20Status.pdf](https://static.linaro.org/connect/las16/Presentations/Wednesday/LAS16-309%20-%20LuaJIT%20Arm64%20Port%20-%20Status.pdf)
 
 ★ Session Description ★
 Abstract Xen on Arm: The Xen port is exploiting this set of new hardware capabilities to run guest VMs in the most efficient way possible while keeping Arm specific changes to Xen and Linux to a minimum. Arm virtualization is set to be increasingly relevant for the embedded industry in the coming years.

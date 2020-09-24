@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Wednesday/LAS16-TR05%20-%20Getting%20Started%20in%20LAVA%20V2%20%281%29.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Wednesday/LAS16-TR05%20Getting%20Started%20in%20LAVA%20v2.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/las16/Presentations/Wednesday/LAS16-TR05%20-%20Getting%20Started%20in%20LAVA%20V2%20%281%29.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Wednesday/LAS16-TR05%20Getting%20Started%20in%20LAVA%20v2.mp4
 author: connect
 categories:
 - las16

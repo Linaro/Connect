@@ -1,7 +1,7 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/lca14/presentations/LCA14
+amazon_s3_presentation_url: https://static.linaro.org/connect/lca14/presentations/LCA14
   Keynote -George Grey.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/lca14/videos/03-03-Monday/LCA14-OpeningKeynote.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/lca14/videos/03-03-Monday/LCA14-OpeningKeynote.mp4
 author: connect
 categories:
 - lca14

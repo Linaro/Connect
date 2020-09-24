@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg15/Videos/02-10-Tuesday/HKG15-208.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg15/Videos/02-10-Tuesday/HKG15-208+ACPI+State+of+the+Server.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-10-Tuesday/HKG15-208.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-10-Tuesday/HKG15-208+ACPI+State+of+the+Server.mp4
 author: connect
 categories:
 - hkg15

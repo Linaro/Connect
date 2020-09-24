@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Monday/LAS16-111%20-%20Raspberry%20Pi3%2C%20OP-TEE%20and%20JTAG%20debugging.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Monday/LAS16-111%20Easing%20Access%20to%20Arm%20TrustZone%20-%20OP-TEE%20and%20Raspberry%20Pi%203.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/las16/Presentations/Monday/LAS16-111%20-%20Raspberry%20Pi3%2C%20OP-TEE%20and%20JTAG%20debugging.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Monday/LAS16-111%20Easing%20Access%20to%20Arm%20TrustZone%20-%20OP-TEE%20and%20Raspberry%20Pi%203.mp4
 author: connect
 categories:
 - las16

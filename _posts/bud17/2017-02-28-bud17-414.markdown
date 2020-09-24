@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Thursday/BUD17-414%20AOSP%20BoF.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Thursday/BUD17-414%20AOSP%20BoF.mp4
 author: connect
 categories:
 - bud17

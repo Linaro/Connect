@@ -1,5 +1,5 @@
 ---
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/lca14/videos/03-07-Friday/Keynote-+David+Rusling.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/lca14/videos/03-07-Friday/Keynote-+David+Rusling.mp4
 author: connect
 categories:
 - lca14

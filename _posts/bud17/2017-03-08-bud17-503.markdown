@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-503%20The%20HPE%20Machine%20and%20Gen%20Z.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Friday/BUD17-503%20The%20HPE%20Machine%20and%20Gen-Z.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-503%20The%20HPE%20Machine%20and%20Gen%20Z.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Friday/BUD17-503%20The%20HPE%20Machine%20and%20Gen-Z.mp4
 author: connect
 categories:
 - bud17

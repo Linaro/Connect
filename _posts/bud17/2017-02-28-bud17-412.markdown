@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-412%20-%20OpenSDK%20OE%20Builds%20on%2096Boards.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Thursday/BUD17-412%20OpenSDK%20OE%20Builds%20on%2096Boards.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-412%20-%20OpenSDK%20OE%20Builds%20on%2096Boards.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Thursday/BUD17-412%20OpenSDK%20OE%20Builds%20on%2096Boards.mp4
 author: connect
 categories:
 - bud17

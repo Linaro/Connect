@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Friday/LAS16-502%2096Boards%20Community%20Panel.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Friday/LAS16-502%2096Boards%20Community%20Panel.mp4
 author: connect
 categories:
 - las16

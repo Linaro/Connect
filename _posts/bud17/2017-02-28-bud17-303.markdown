@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Wednesday/Bud17-303%20The%20Swarm%20on%20the%20Edge%20%20Pushing%20IoT%20to%20the%20next%20step.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Wednesday/Bud17-303%20The%20Swarm%20on%20the%20Edge%20%20Pushing%20IoT%20to%20the%20next%20step.mp4
 author: connect
 categories:
 - bud17

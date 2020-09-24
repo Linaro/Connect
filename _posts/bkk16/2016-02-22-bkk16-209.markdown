@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bkk16/Presentations/Tuesday/BKK16-209.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bkk16/Videos/Tuesday/BKK16-209%20Chromium%20with%20V4L2%20playback%20-%20is%20it%20ready%20today.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bkk16/Presentations/Tuesday/BKK16-209.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bkk16/Videos/Tuesday/BKK16-209%20Chromium%20with%20V4L2%20playback%20-%20is%20it%20ready%20today.mp4
 author: connect
 categories: bkk16
 comments: false

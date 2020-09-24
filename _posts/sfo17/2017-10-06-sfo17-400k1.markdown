@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-400K1-Project-Treble.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/Google%2527s%20Project%20Treble%20Update%20%257C%20Internet%20in%2010yrs%20%2526%20Hardware%20is%20the%20Next%20Innovation%20Layer%20%2523SFO17.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Presentations/SFO17-400K1-Project-Treble.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/Google%2527s%20Project%20Treble%20Update%20%257C%20Internet%20in%2010yrs%20%2526%20Hardware%20is%20the%20Next%20Innovation%20Layer%20%2523SFO17.mp4
 author: connect
 categories:
 - sfo17

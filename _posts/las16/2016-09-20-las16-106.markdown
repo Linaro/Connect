@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Monday/LAS16-106%20-%20GNU%20Toolchain%20Development%20Lifecycle.pptx
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Monday/LAS16-106%20GNU%20Toolchain%20Development%20Lifecycle.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/las16/Presentations/Monday/LAS16-106%20-%20GNU%20Toolchain%20Development%20Lifecycle.pptx
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Monday/LAS16-106%20GNU%20Toolchain%20Development%20Lifecycle.mp4
 author: connect
 categories:
 - las16

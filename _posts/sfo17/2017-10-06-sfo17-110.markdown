@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-110-%20Getting%20started%20with%20LLVM%20-%20the%20TL%3BDR%20version.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-110%20-%20Getting%20started%20with%20LLVM%20-%20the%20TL%3BDR%20version.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Presentations/SFO17-110-%20Getting%20started%20with%20LLVM%20-%20the%20TL%3BDR%20version.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-110%20-%20Getting%20started%20with%20LLVM%20-%20the%20TL%3BDR%20version.mp4
 author: connect
 categories:
 - sfo17

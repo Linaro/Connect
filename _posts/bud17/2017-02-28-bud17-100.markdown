@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-100%20-%20mcuboot%20bootloader%20for%20Zephyr.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Monday/BUD17-100%20mcuboot%20A%20shared%20bootloader%20for%20IoT.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-100%20-%20mcuboot%20bootloader%20for%20Zephyr.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Monday/BUD17-100%20mcuboot%20A%20shared%20bootloader%20for%20IoT.mp4
 author: connect
 categories:
 - bud17

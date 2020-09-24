@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg15/Videos/09-15-Monday/LCU14-103.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/lcu14/videos/09-15-Monday/LCU14-103+How+to+create+and+run+Trusted+Applications+on+OP-TEE.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/09-15-Monday/LCU14-103.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-15-Monday/LCU14-103+How+to+create+and+run+Trusted+Applications+on+OP-TEE.mp4
 author: connect
 categories:
 - lcu14

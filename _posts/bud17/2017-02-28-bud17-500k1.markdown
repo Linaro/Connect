@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-500K1-Corbet-maint.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Friday/BUD17-500K1The%20kernels%20limits%20to%20growth%20-%20Jonathan%20Corbet%20from%20LWN%20-%20BUD17-500K1.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-500K1-Corbet-maint.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Friday/BUD17-500K1The%20kernels%20limits%20to%20growth%20-%20Jonathan%20Corbet%20from%20LWN%20-%20BUD17-500K1.mp4
 author: connect
 categories:
 - bud17

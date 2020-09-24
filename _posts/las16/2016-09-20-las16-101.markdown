@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Monday/LAS16-101%20-%20Efficient_kernel_backporting.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Monday/LAS16-101%20Efficient%20kernel%20Backporting.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/las16/Presentations/Monday/LAS16-101%20-%20Efficient_kernel_backporting.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Monday/LAS16-101%20Efficient%20kernel%20Backporting.mp4
 author: connect
 categories:
 - las16

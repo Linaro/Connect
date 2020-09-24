@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-505.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-505.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/hkg18/presentations/hkg18-505.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-505.mp4
 author: connect
 categories:
 - hkg18
@@ -54,8 +54,8 @@ Join me in exploring the depth of UEFI binary interfaces, marshalling between di
 ---------------------------------------------------
 ## Resources
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-505/
-Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-505.pdf
-Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-505.mp4
+Presentation: https://static.linaro.org/connect/hkg18/presentations/hkg18-505.pdf
+Video: https://static.linaro.org/connect/hkg18/videos/hkg18-505.mp4
  ---------------------------------------------------
 ## Event Details
 hkg18

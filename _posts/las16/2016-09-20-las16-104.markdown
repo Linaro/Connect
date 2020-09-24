@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Monday/LAS16-104%20MyNewt%20technical%20Overview.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Monday/LAS16-104%20MyNewt%20technical%20Overview.mp4
 author: connect
 categories:
 - las16

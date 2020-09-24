@@ -1,7 +1,7 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-24-Thursday/SFO15-TR8-
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-24-Thursday/SFO15-TR8-
   Getting Started With LAVA.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Videos/09-24-Thursday/SFO15-TR8
+amazon_s3_video_url: https://static.linaro.org/connect/sfo15/Videos/09-24-Thursday/SFO15-TR8
   Getting started with LAVA.mp4
 author: connect
 categories:

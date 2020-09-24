@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-120%20-%20Linux-wpan-%20IEEE%20802.15.4%20and%206LoWPAN%20in%20the%20Linux%20Kernel.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Monday/BUD17-120%20Linux-wpan%20%20IEEE%20802.15.4%20and%206LoWP.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-120%20-%20Linux-wpan-%20IEEE%20802.15.4%20and%206LoWPAN%20in%20the%20Linux%20Kernel.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Monday/BUD17-120%20Linux-wpan%20%20IEEE%20802.15.4%20and%206LoWP.mp4
 author: connect
 categories:
 - bud17

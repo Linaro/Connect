@@ -1,7 +1,7 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-23-Wednesday/SFO15-309-
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-23-Wednesday/SFO15-309-
   Set-top Security Panel Discussion.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Videos/09-23-Wednesday/SFO15-305
+amazon_s3_video_url: https://static.linaro.org/connect/sfo15/Videos/09-23-Wednesday/SFO15-305
   Expanding security choices  DRM & CA interoperability.mp4
 author: connect
 categories:
@@ -50,9 +50,9 @@ Etherpad: pad.linaro.org/p/sfo15-305
 Pathable: https://sfo15.pathable.com/meetings/302938
 
 Video on server (if unable to view on YouTube):
-http://connect.linaro.org.s3.amazonaws.com/sfo15/Videos/09-23-Wednesday/SFO15-305 Expanding security choices DRM & CA interoperability.mp4
+https://static.linaro.org/connect/sfo15/Videos/09-23-Wednesday/SFO15-305 Expanding security choices DRM & CA interoperability.mp4
 
-Presentation on server (if unable to view on Slideshare): http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-23-Wednesday/SFO15-305%20Linaro%20Conference%202015%20-%20Verimatrix%20(final).pdf
+Presentation on server (if unable to view on Slideshare): https://static.linaro.org/connect/sfo15/Presentations/09-23-Wednesday/SFO15-305%20Linaro%20Conference%202015%20-%20Verimatrix%20(final).pdf
 
 ★ Event Details ★
 Linaro Connect San Francisco 2015 - #SFO15

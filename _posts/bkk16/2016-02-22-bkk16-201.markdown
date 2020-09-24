@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bkk16/Presentations/Tuesday/BKK16-201.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bkk16/Videos/Tuesday/BKK16-201%20PlayReady%20OPTEE%20Integration%20with%20Secure%20Video%20Path%20v3.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bkk16/Presentations/Tuesday/BKK16-201.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bkk16/Videos/Tuesday/BKK16-201%20PlayReady%20OPTEE%20Integration%20with%20Secure%20Video%20Path%20v3.mp4
 author: connect
 categories: bkk16
 comments: false

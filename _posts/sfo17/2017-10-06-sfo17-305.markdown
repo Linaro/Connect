@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-305-Moby-linukit-on-aarch64%20-%20v3.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-305%20-%20Moby%20and%20LinuxKit%20on%20Arm64%20Server.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Presentations/SFO17-305-Moby-linukit-on-aarch64%20-%20v3.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-305%20-%20Moby%20and%20LinuxKit%20on%20Arm64%20Server.mp4
 author: connect
 categories:
 - sfo17

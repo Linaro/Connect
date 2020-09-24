@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Thursday/LAS16-409%20-%20Time%20Sensitive%20Networking%20-%20kernel%20modifications%20for%20automotive-industrial.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Thursday/LAS16-409%20Time%20Sensitive%20Networking%20kernel%20modifications%20for%20automotive%20%20industrial.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/las16/Presentations/Thursday/LAS16-409%20-%20Time%20Sensitive%20Networking%20-%20kernel%20modifications%20for%20automotive-industrial.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Thursday/LAS16-409%20Time%20Sensitive%20Networking%20kernel%20modifications%20for%20automotive%20%20industrial.mp4
 author: connect
 categories:
 - las16

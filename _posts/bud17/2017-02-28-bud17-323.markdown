@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-323%20-%20DynInst%20on%20arm64%20%E2%80%93%20Status.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Wednesday/BUD17-323%20DynInst%20on%20Arm64%20-%20Status.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-323%20-%20DynInst%20on%20arm64%20%E2%80%93%20Status.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Wednesday/BUD17-323%20DynInst%20on%20Arm64%20-%20Status.mp4
 author: connect
 categories:
 - bud17

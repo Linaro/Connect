@@ -1,5 +1,5 @@
 ---
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-316%20Arm%20Binary%20Translator%20-%20Towards%20a%2064bit%20Only%20World.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-316%20Arm%20Binary%20Translator%20-%20Towards%20a%2064bit%20Only%20World.mp4
 author: connect
 categories:
 - sfo17

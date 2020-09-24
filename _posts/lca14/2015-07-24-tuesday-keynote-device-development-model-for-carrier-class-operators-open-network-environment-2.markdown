@@ -1,7 +1,7 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/lca14/presentations/LCA14
+amazon_s3_presentation_url: https://static.linaro.org/connect/lca14/presentations/LCA14
   Sree Kotay Keynote.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/lca14/videos/03-04-Tuesday/Tuesday+Keynote+-+Device+development+model+for+Carrier+Class+operators+%2526+Open+Network+Environment.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/lca14/videos/03-04-Tuesday/Tuesday+Keynote+-+Device+development+model+for+Carrier+Class+operators+%2526+Open+Network+Environment.mp4
 author: connect
 categories:
 - lca14

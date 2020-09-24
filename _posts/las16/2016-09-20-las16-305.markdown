@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Wednesday/LAS16-305%20-%20Big%20Data%20usecase%20demo%20and%20Big%20Data%20Benchmarking%20Standards.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Wednesday/LAS16-305%20Upstream%2C%20porting%2C%20performance%20testing%20and.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/las16/Presentations/Wednesday/LAS16-305%20-%20Big%20Data%20usecase%20demo%20and%20Big%20Data%20Benchmarking%20Standards.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Wednesday/LAS16-305%20Upstream%2C%20porting%2C%20performance%20testing%20and.mp4
 author: connect
 categories:
 - las16

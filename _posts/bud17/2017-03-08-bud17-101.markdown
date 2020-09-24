@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Monday/BUD17-101%20ILP32%20on%20Arm64.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Monday/BUD17-101%20ILP32%20on%20Arm64.mp4
 author: connect
 categories:
 - bud17

@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Thursday/LAS16-410%20-%20Don%27t%20waste%20power%20when%20idle%20with%20runtime%20PM.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Thursday/LAS16-410%20Don%27t%20waste%20power%20when%20idle%20with%20runtime%20PM.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/las16/Presentations/Thursday/LAS16-410%20-%20Don%27t%20waste%20power%20when%20idle%20with%20runtime%20PM.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Thursday/LAS16-410%20Don%27t%20waste%20power%20when%20idle%20with%20runtime%20PM.mp4
 author: connect
 categories:
 - las16
