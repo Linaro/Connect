@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-200K2-%20corporate-foss-fail-sarah-sharp-notes.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Tuesday/LAS16-200K2-%20Keynote-%20Corporate%20Open%20Source%20Fail%20Sarah%20Sharp.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Tuesday/LAS16-200K2-%20corporate-foss-fail-sarah-sharp-notes.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Tuesday/LAS16-200K2-%20Keynote-%20Corporate%20Open%20Source%20Fail%20Sarah%20Sharp.mp4
 author: connect
 categories:
 - las16

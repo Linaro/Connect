@@ -1,5 +1,5 @@
 ---
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lca14/videos/03-05-Wednesday/Wednesday+Keynote+-+%2527Profiling+server+workload+for+Arm64%2527+%2526+%2527Cole+Crawford+Keynote%2527.mp4
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/lca14/videos/03-05-Wednesday/Wednesday+Keynote+-+%2527Profiling+server+workload+for+Arm64%2527+%2526+%2527Cole+Crawford+Keynote%2527.mp4
 author: connect
 categories:
 - lca14

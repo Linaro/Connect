@@ -1,7 +1,7 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-22-Tuesday/SFO15-203-
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-22-Tuesday/SFO15-203-
   Linaro CI - git driven workflow and Jenkins advanced usage.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-22-Tuesday/SFO15-203
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Videos/09-22-Tuesday/SFO15-203
   Linaro Cl - git driven workflow & Jenkins advanced usage.mp4
 author: connect
 categories:

@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Tuesday/BUD17-200K2%20Big%20data%20big%20challenges%20for%20ESA%20missions%20Archives.mp4
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Tuesday/BUD17-200K2%20Big%20data%20big%20challenges%20for%20ESA%20missions%20Archives.mp4
 author: connect
 categories:
 - bud17

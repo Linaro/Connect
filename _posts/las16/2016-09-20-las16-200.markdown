@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-200%20-%20Firmware%20Summit%20-%20RAS%20What%20is%20it-%20Why%20do%20we%20need%20it.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Tuesday/LAS16-200%20MiniConference1%20Firmware%20Summit.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Tuesday/LAS16-200%20-%20Firmware%20Summit%20-%20RAS%20What%20is%20it-%20Why%20do%20we%20need%20it.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Tuesday/LAS16-200%20MiniConference1%20Firmware%20Summit.mp4
 author: connect
 categories:
 - las16
@@ -128,28 +128,28 @@ Notetaker: Graeme Gregory
 Title: SCMI - System Management and Control Interface
 Abstract: In this session we present a new standard proposal for system control and management. The industry, both in high end mobile and enterprise, is trending towards the use of power and system controllers. In most cases the controllers have very similar communication mechanisms between application processors and controllers. In addition, these controllers generally provide very similar functions, e.g. DVFS, power domain management, sensor management. This standard proposal provides an extensible, OS agnostic, and virtualizable interface to access these functions.
 **Slideshare:**  [http://www.slideshare.net/linaroorg/las16200-scmi-system-management-and-control-interface](http://www.slideshare.net/linaroorg/las16200-scmi-system-management-and-control-interface)
-**Download from Amazon:**  [ http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-200%20--%20%20SCMI%20-%20System%20Management%20and%20Control%20Interface.pdf](http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-200%20--%20%20SCMI%20-%20System%20Management%20and%20Control%20Interface.pdf)
+**Download from Amazon:**  [ http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Tuesday/LAS16-200%20--%20%20SCMI%20-%20System%20Management%20and%20Control%20Interface.pdf](http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Tuesday/LAS16-200%20--%20%20SCMI%20-%20System%20Management%20and%20Control%20Interface.pdf)
 Speaker(s):Charles Garcia-Tobin
 Notetaker:
 
 Title: Tianocore Progress and Status
 A brief update on the progress of Arm64 support in EDK2 and OpenPlatformPkg. Also covering the next steps. Followed by a discussion period.
 **Slideshare:**  [http://www.slideshare.net/linaroorg/las16200-firmware-summit-tianocore-progress-and-status
-](http://www.slideshare.net/linaroorg/las16200-firmware-summit-tianocore-progress-and-status)**Download from Amazon**: [ http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-200%20Firmware%20Summit%20-%20Tianocore%20Progress%20and%20Status.pdf](http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-200%20-Tianocore%20Update%20%281%29.pdf)
+](http://www.slideshare.net/linaroorg/las16200-firmware-summit-tianocore-progress-and-status)**Download from Amazon**: [ http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Tuesday/LAS16-200%20Firmware%20Summit%20-%20Tianocore%20Progress%20and%20Status.pdf](http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Tuesday/LAS16-200%20-Tianocore%20Update%20%281%29.pdf)
 Speaker: Leif Lindholm
 Notetaker: Graeme Gregory
 
 Title: Secure Boot
 A 101 style introduction to what Secure Boot is as Secure means different things to different people. Covering the current status, what features are implemented currently on Arm64 and what features should be implemented in the future. Followed by a discussion period.
 **Slideshare:**  [http://www.slideshare.net/linaroorg/las16200-firmware-summit-uefi-secure-boot
-](http://www.slideshare.net/linaroorg/las16200-firmware-summit-uefi-secure-boot)**Download from Amazon:**  [http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-200%20-%20Firmware%20Summit%20-%20UEFI%20Secure%20Boot.pdf](http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-200%20-%20Firmware%20Summit%20-%20UEFI%20Secure%20Boot.pdf)
+](http://www.slideshare.net/linaroorg/las16200-firmware-summit-uefi-secure-boot)**Download from Amazon:**  [http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Tuesday/LAS16-200%20-%20Firmware%20Summit%20-%20UEFI%20Secure%20Boot.pdf](http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Tuesday/LAS16-200%20-%20Firmware%20Summit%20-%20UEFI%20Secure%20Boot.pdf)
 Speaker: Ard Biesheuvel
 Notetaker: Graeme Gregory
 
 Title: RAS What is it? Why do we need it?
 A 101 style introduction to RAS, its purpose and how we use it on Arm64. Covering current status of implementation in ASWG specs and Linux kernel. Plans for future features that are essential for Arm64. Followed by a discussion period.
 **Slideshare**:[ http://www.slideshare.net/linaroorg/las16-200-firmware-summit-ras-what-is-it-why-do-we-need-it-66348163
-](http://www.slideshare.net/linaroorg/las16-200-firmware-summit-ras-what-is-it-why-do-we-need-it-66348163)**Download from Amazon**:  [http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-200%20-%20Firmware%20Summit%20-%20RAS%20What%20is%20it-%20Why%20do%20we%20need%20it.pdf](http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-200%20-%20Firmware%20Summit%20-%20RAS%20What%20is%20it-%20Why%20do%20we%20need%20it.pdf)
+](http://www.slideshare.net/linaroorg/las16-200-firmware-summit-ras-what-is-it-why-do-we-need-it-66348163)**Download from Amazon**:  [http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Tuesday/LAS16-200%20-%20Firmware%20Summit%20-%20RAS%20What%20is%20it-%20Why%20do%20we%20need%20it.pdf](http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Tuesday/LAS16-200%20-%20Firmware%20Summit%20-%20RAS%20What%20is%20it-%20Why%20do%20we%20need%20it.pdf)
 Speaker: Yazen Ghannam, Fu Wei
 Notetaker: Graeme Gregory
 

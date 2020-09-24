@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Tuesday/BKK16-200.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Tuesday/BKK16-200%20Designing%20security%20into%20constrained%20IoT%20systems.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bkk16/Presentations/Tuesday/BKK16-200.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bkk16/Videos/Tuesday/BKK16-200%20Designing%20security%20into%20constrained%20IoT%20systems.mp4
 author: connect
 categories: bkk16
 comments: false

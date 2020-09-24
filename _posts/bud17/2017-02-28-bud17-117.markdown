@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-117%20Auto-vectorization-support-in-OpenJDK9-Hotspot-C2-compiler.pptx.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Monday/BUD17-117%20Auto%20vectorization%20support%20in%20OpenJDK9%20AArch64%20Hotspot%20C2%20compiler.mp4
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Monday/BUD17-117%20Auto%20vectorization%20support%20in%20OpenJDK9%20AArch64%20Hotspot%20C2%20compiler.mp4
 author: connect
 categories:
 - bud17

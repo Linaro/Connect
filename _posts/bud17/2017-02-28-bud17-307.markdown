@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-307%20-%20SCHED_DEADLINE-%20ongoing%20development%20and%20new%20features.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-307%20SCHED_DEADLINE%20%20ongoing%20development%20and%20new%20features.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-307%20-%20SCHED_DEADLINE-%20ongoing%20development%20and%20new%20features.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Wednesday/Bud17-307%20SCHED_DEADLINE%20%20ongoing%20development%20and%20new%20features.mp4
 author: connect
 categories:
 - bud17

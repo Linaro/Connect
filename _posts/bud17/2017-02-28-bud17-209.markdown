@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-209%20-Reliability%2C%20Availability%2C%20and%20Serviceability%28RAS%29%20on%20Arm64.pdf
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-209%20-Reliability%2C%20Availability%2C%20and%20Serviceability%28RAS%29%20on%20Arm64.pdf
 amazon_s3_video_url: None
 author: connect
 categories:

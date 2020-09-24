@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-417%20Decentralized%20Apps%20and%20Elastos%20Runtime.mp4
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Thursday/BUD17-417%20Decentralized%20Apps%20and%20Elastos%20Runtime.mp4
 author: connect
 categories:
 - bud17

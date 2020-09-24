@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-12-Thursday/HKG15-400.pdf
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg15/Videos/02-12-Thursday/HKG15-400.pdf
 author: connect
 categories:
 - hkg15

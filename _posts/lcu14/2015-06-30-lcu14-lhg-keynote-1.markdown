@@ -1,5 +1,5 @@
 ---
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-16-Tuesday/LCU14+-+LHG+Keynote+1.mp4
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/lcu14/videos/09-16-Tuesday/LCU14+-+LHG+Keynote+1.mp4
 author: connect
 categories:
 - lcu14

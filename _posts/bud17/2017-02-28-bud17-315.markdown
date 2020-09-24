@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/-BUD17-315%20-%20Drone%20Mapping-%20Hyperscaling%20a%20service%20with%20Kubernetes%20on%20Arm.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/BUD17-315%20Drone%20Mapping%20%20Hyperscaling%20a%20service%20with%20Kubernetes%20on%20Arm.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/-BUD17-315%20-%20Drone%20Mapping-%20Hyperscaling%20a%20service%20with%20Kubernetes%20on%20Arm.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Wednesday/BUD17-315%20Drone%20Mapping%20%20Hyperscaling%20a%20service%20with%20Kubernetes%20on%20Arm.mp4
 author: connect
 categories:
 - bud17

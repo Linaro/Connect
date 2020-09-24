@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-24-Thursday/SFO15-TR7
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-24-Thursday/SFO15-TR7
   OSS Compliance 101 for Developers.pdf
 amazon_s3_video_url: None
 author: connect
@@ -43,7 +43,7 @@ Pathable: [https://sfo15.pathable.com/meetings/303085](https://sfo15.pathable.co
 
 Video on server (if unable to view on YouTube):
 
-Presentation on server (if unable to view on Slideshare): [https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-24-Thursday/SFO15-TR7 OSS Compliance 101 for Developers.pdf](https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-24-Thursday/SFO15-TR7 OSS Compliance 101 for Developers.pdf)
+Presentation on server (if unable to view on Slideshare): [http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-24-Thursday/SFO15-TR7 OSS Compliance 101 for Developers.pdf](http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-24-Thursday/SFO15-TR7 OSS Compliance 101 for Developers.pdf)
 
 ★ Event Details ★
 Linaro Connect San Francisco 2015 - #SFO15

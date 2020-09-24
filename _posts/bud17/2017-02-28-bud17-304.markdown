@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/P4%20to%20OpenDataPlane%20Compiler%20-%20BUD17-304.pptx
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-304%20P4%20to%20Open%20Data%20Plane%20compiler.mp4
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Wednesday/Bud17-304%20P4%20to%20Open%20Data%20Plane%20compiler.mp4
 author: connect
 categories:
 - bud17

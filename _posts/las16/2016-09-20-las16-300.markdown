@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-300-%20Device%20Configuration%20.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-300%20Mini%20Conference%202%20Cortex-M%20Software%20-%20Device%20Configuration.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Wednesday/LAS16-300-%20Device%20Configuration%20.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Wednesday/LAS16-300%20Mini%20Conference%202%20Cortex-M%20Software%20-%20Device%20Configuration.mp4
 author: connect
 categories:
 - las16

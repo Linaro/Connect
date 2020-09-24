@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-301%20-%20KVM-Arm%20Nested%20Virtualization.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-301%20KVM%20%20Arm%20Nested%20Virtualization.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-301%20-%20KVM-Arm%20Nested%20Virtualization.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Wednesday/Bud17-301%20KVM%20%20Arm%20Nested%20Virtualization.mp4
 author: connect
 categories:
 - bud17

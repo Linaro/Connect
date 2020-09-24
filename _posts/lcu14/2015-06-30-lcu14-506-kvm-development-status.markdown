@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-19-Friday/LCU14-506.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-19-Friday/LCU14-506-+KVM+Development+Status.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg15/Videos/09-19-Friday/LCU14-506.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/lcu14/videos/09-19-Friday/LCU14-506-+KVM+Development+Status.mp4
 author: connect
 categories:
 - lcu14

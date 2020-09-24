@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-209%20-%20Finished%20and%20Upcoming%20Projects%20in%20LMG.pdf
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Tuesday/LAS16-209%20-%20Finished%20and%20Upcoming%20Projects%20in%20LMG.pdf
 amazon_s3_video_url: None
 author: connect
 categories:

@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Friday/BKK16-507.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Friday/BKK16-507%20AOSP%20builds%20of%20Linaro%20with%20CI%20v2.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bkk16/Presentations/Friday/BKK16-507.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bkk16/Videos/Friday/BKK16-507%20AOSP%20builds%20of%20Linaro%20with%20CI%20v2.mp4
 author: connect
 categories: bkk16
 comments: false

@@ -1,5 +1,5 @@
 ---
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lca14/videos/03-06-Thursday/Thursday+Keynote-+Distributed+Working+At+Linaro.mp4
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/lca14/videos/03-06-Thursday/Thursday+Keynote-+Distributed+Working+At+Linaro.mp4
 author: connect
 categories:
 - lca14

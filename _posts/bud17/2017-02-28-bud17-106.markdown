@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Monday/BUD17-106%20LMG%20Lightning%20Talks%20v2.mp4
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Monday/BUD17-106%20LMG%20Lightning%20Talks%20v2.mp4
 author: connect
 categories:
 - bud17

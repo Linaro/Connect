@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Thursday/BKK16-401.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Thursday/BKK16-401%20Enhancing%20Application%20Performance%20with%20ODP.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bkk16/Presentations/Thursday/BKK16-401.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bkk16/Videos/Thursday/BKK16-401%20Enhancing%20Application%20Performance%20with%20ODP.mp4
 author: connect
 categories: bkk16
 comments: false

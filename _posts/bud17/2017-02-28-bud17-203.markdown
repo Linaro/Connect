@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-203%20-%20Universal%20Keyring%20-%20The%20Time%20has%20Come.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Tuesday/BUD17-203%20Universal%20Keyring%20-%20The%20time%20has%20come.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-203%20-%20Universal%20Keyring%20-%20The%20Time%20has%20Come.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Tuesday/BUD17-203%20Universal%20Keyring%20-%20The%20time%20has%20come.mp4
 author: connect
 categories:
 - bud17

@@ -1,7 +1,7 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-23-Wednesday/SFO15-300
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-23-Wednesday/SFO15-300
   Big Data on Arm.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-23-Wednesday/SF015-300
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Videos/09-23-Wednesday/SF015-300
   Server Ecosystem Day (Part 1).mp4
 author: connect
 categories:

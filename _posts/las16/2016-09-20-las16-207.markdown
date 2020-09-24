@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-207%20-%20Bus%20scaling%20QoS.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Tuesday/LAS16-207%20Bus%20scaling%20QoS.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Tuesday/LAS16-207%20-%20Bus%20scaling%20QoS.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Tuesday/LAS16-207%20Bus%20scaling%20QoS.mp4
 author: connect
 categories:
 - las16

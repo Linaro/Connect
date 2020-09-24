@@ -1,7 +1,7 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-22-Tuesday/SFO15-210-
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-22-Tuesday/SFO15-210-
   Kernel-mainline-status.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-22-Tuesday/SFO15-210
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Videos/09-22-Tuesday/SFO15-210
   Kernel Mainline Status of Mobile.mp4
 author: connect
 categories:

@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-11-Wednesday/HKG15-303.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-11-Wednesday/HKG15-303+Secure+Playback+using+OP-TEE.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg15/Videos/02-11-Wednesday/HKG15-303.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg15/Videos/02-11-Wednesday/HKG15-303+Secure+Playback+using+OP-TEE.mp4
 author: connect
 categories:
 - hkg15

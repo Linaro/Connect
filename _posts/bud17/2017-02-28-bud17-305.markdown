@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-305%20-%20Implement%20contiguous%20page%20hint%20for%20anonymous%20page%20in%20user%20space%20%281%29.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-305%20Implementing%20contiguous%20page%20hint%20for%20anonymous%20pages%20in%20user%20space.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-305%20-%20Implement%20contiguous%20page%20hint%20for%20anonymous%20page%20in%20user%20space%20%281%29.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Wednesday/Bud17-305%20Implementing%20contiguous%20page%20hint%20for%20anonymous%20pages%20in%20user%20space.mp4
 author: connect
 categories:
 - bud17

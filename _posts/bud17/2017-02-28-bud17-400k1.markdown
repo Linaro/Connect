@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-400K1%20-%20HHVM%20on%20AArch64.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-400K1%20HHVM%20on%20AArch64%20Max%20Wang%20Facebook.mp4
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Thursday/BUD17-400K1%20HHVM%20on%20AArch64%20Max%20Wang%20Facebook.mp4
 author: connect
 categories:
 - bud17

@@ -1,6 +1,6 @@
 ---
 author: connect
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-113%3A+Distribution+CI+using+QEMU+and+OpenQA.pdf
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-113%3A+Distribution+CI+using+QEMU+and+OpenQA.pdf
 amazon_s3_video_url: None
 youtube_video_url: None
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/key/z6UyxwImy0wWog

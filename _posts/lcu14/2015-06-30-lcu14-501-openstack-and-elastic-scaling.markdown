@@ -1,5 +1,5 @@
 ---
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-19-Friday/LCU14-501-+OpenStack+and+elastic+scaling.mp4
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/lcu14/videos/09-19-Friday/LCU14-501-+OpenStack+and+elastic+scaling.mp4
 author: connect
 categories:
 - lcu14

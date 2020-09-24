@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-421%20What%27s%20happening%20with%20Arm%20Mali%20drivers.mp4
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Thursday/BUD17-421%20What%27s%20happening%20with%20Arm%20Mali%20drivers.mp4
 author: connect
 categories:
 - bud17

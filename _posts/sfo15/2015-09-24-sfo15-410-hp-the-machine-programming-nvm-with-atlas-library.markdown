@@ -1,5 +1,5 @@
 ---
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-24-Thursday/SFO15-410
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Videos/09-24-Thursday/SFO15-410
   HP The Machine  Programming NVM with Atlas library.mp4
 author: connect
 categories:

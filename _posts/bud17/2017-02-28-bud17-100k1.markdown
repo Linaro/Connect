@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-100K1.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Monday/George%20Grey%20Welcome%20Keynote%20-%20BUD17-100K1.mp4
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Monday/George%20Grey%20Welcome%20Keynote%20-%20BUD17-100K1.mp4
 author: connect
 categories:
 - bud17

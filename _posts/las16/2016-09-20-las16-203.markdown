@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Tuesday/LAS16-203%20Platform%20security%20architecture%20for%20embedded%20devices%201.3.pptx
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Tuesday/LAS16-203%20Platform%20security%20architecture%20for%20embedded%20devices.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/las16/Presentations/Tuesday/LAS16-203%20Platform%20security%20architecture%20for%20embedded%20devices%201.3.pptx
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/las16/Videos/Tuesday/LAS16-203%20Platform%20security%20architecture%20for%20embedded%20devices.mp4
 author: connect
 categories:
 - las16

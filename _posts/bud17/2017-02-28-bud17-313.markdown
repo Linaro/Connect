@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-313%20-%20BoF%20-%20Device%20Tree%20and%20Secure%20Firmware.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-313%20BoF%20-%20Device%20Tree%20and%20Secure%20Firmware.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-313%20-%20BoF%20-%20Device%20Tree%20and%20Secure%20Firmware.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Wednesday/Bud17-313%20BoF%20-%20Device%20Tree%20and%20Secure%20Firmware.mp4
 author: connect
 categories:
 - bud17

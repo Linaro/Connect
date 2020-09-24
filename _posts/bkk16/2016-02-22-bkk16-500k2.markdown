@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Friday/BKK16-500K2.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Friday/BKK16-500K2%20David%20Rusling%20keynote.mp4
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bkk16/Presentations/Friday/BKK16-500K2.pdf
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/bkk16/Videos/Friday/BKK16-500K2%20David%20Rusling%20keynote.mp4
 author: connect
 categories: bkk16
 comments: false

@@ -1,7 +1,7 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-22-Tuesday/SFO15-209-Internet
+amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Presentations/09-22-Tuesday/SFO15-209-Internet
   of Everything.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-22-Tuesday/SFO15-209
+amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo15/Videos/09-22-Tuesday/SFO15-209
   Cisco Connected Life IoT Gateway.mp4
 author: connect
 categories:
