@@ -9,7 +9,7 @@ jumbotron:
   slider:
     - darken: true
       inner_class: text-center
-      title: Bringing the Arm ecosystem together
+      title: ""
       custom_include: connect_logo_insert.html
       title-class: font-weight-bold
       image: /assets/images/content/virtual_meeting.jpg
@@ -21,26 +21,28 @@ flow:
   - row: container_row
     style: bg-secondary
     sections:
+      - format: title
+        style: text-center
+        title_content:
+          size: h2
+          text: Linaro Virtual Connect 2020 has now ended.
       - format: text
         style: text-center text-white
         text_content:
           text: |
-            As a result of Covid-19 and concern for the safety of all attendees, we have cancelled all Linaro Connect events scheduled for 2020.
+            Thank you so much to those that attended. We hope you enjoyed our event and found the content engaging and useful.
 
-            **However, we will be hosting Linaro Virtual Connect September 22-24, 2020 online. This event will be a 3 day series of technical keynotes, sessions and more.**
+            We would again, like to thank all of our speakers and our sponsors Arrow and Arm.
 
-            You can view the schedule below. More information about Linaro is available at [linaro.org](https://www.linaro.org)
+            The next Linaro Connect will be held in March 2021. Please watch this space for full details which will be released by the end of this year.
 
-            Please note live seminars will not be available to view unless you register for this event, so please register today!.
-      - format: custom_include
-        source: register_popup.html
-  - row: container_row
-    style: bg-white
-    sections:
-      - format: custom_include
-        source: schedule.html
-      - format: custom_include
-        source: register_popup.html
+            In the meantime all of the content from LVC20 is available here.
+      - buttons_content:
+          - icon: fa fa-arrow-right
+            title: LVC20 Resources
+            url: /resources/lvc20/
+        format: buttons
+        style: text-center
   - row: container_row
     style: block_row
     sections:
