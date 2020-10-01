@@ -22,7 +22,7 @@ flow:
     style: bg-secondary
     sections:
       - format: title
-        style: text-center
+        style: text-center text-white
         title_content:
           size: h2
           text: Linaro Virtual Connect 2020 has now ended.
