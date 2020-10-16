@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Friday/BUD17-508%20Arm%20Developer%20Systems%20%20Tools.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Friday/BUD17-508%20ARM%20Developer%20Systems%20%20Tools.mp4
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:58
-excerpt: The Arm ecosystem needs full stack development tools, currently you need
+excerpt:
+  The Arm ecosystem needs full stack development tools, currently you need
   an Intel machine to develop for Arm. This makes developing for Arm a 2nd class citizen.
   The need is shown greatly in the datacenter where we need developers and engineers
   to start working on Arm as a 1st class citizen. To enable this developers need access
@@ -21,18 +22,18 @@ image: /assets/images/featured-images/BUD17-508.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-508/
 post_format:
-- Video
+  - Video
 session_id: BUD17-508
 session_track: Other
 slideshare_presentation_url: None
 slug: bud17-508
 speakers: Martin Stadtler, Graeme Gregory, Ard Biesheuvel, Engineer, Yang Zhang
 tags:
-- Arm
-- developer-system
-- Tools
+  - Arm
+  - developer-system
+  - Tools
 title: Arm Developer Systems/Tools - BUD17-508
-video_length: '30:07'
+video_length: "30:07"
 video_thumbnail: None
 wordpress_id: 4727
 youtube_video_url: https://youtu.be/Ol0o5_Md3Ww
@@ -45,12 +46,15 @@ Track:
 
 ★ Session Summary ★
 The Arm ecosystem needs full stack development tools, currently you need an Intel machine to develop for Arm. This makes developing for Arm a 2nd class citizen. The need is shown greatly in the datacenter where we need developers and engineers to start working on Arm as a 1st class citizen. To enable this developers need access to Armv8 based development systems with UEFI and ACPI capability. From small NUC like devices (with expandable memory and SATA ssd/disk), to Arm powered notebooks and workstations (that provide PCIe, SATA and DIMM). Finally Arm server access as cloud/baremetal instances for production testing. This session is to gather requirements and review options that can be provided/developed.
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-508/
 Presentation:
 Video: https://youtu.be/Ol0o5_Md3Ww
----------------------------------------------------
+
+---
 
 ★ Event Details ★
 bud17
@@ -59,10 +63,12 @@ Corinthia Hotel, Budapest,
 Erzsébet krt. 43-49,
 1073 Hungary
 
----------------------------------------------------
+---
+
 Keyword: Arm, tools, developer-system
 
----------------------------------------------------
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

@@ -3,24 +3,25 @@ amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Presentation
 amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-104%20Enabling%20Arm%20DynamIQ%20support.mp4
 author: connect
 categories:
-- sfo17
+  - sfo17
 comments: false
 date: 2017-10-06 16:53:39
-excerpt: 'DynamIQ technology is the foundation for future Arm Cortex-A processors.
+excerpt:
+  "DynamIQ technology is the foundation for future Arm Cortex-A processors.
   This session discusses the software impact of DynamIQ and how to get the most out
   of it, with particular reference to Arm Trusted Firmware and EAS.
 
 
   Last March, Arm announced DynamiQ which gives a new level of flexibility in designing
   heterogeneous system. During this session, we will cover what are the impacts and
-  how to enable its supports in the kernel.'
+  how to enable its supports in the kernel."
 featured_image_name: SFO17-104.jpg
 image_name: SFO17-104.jpg
 image: /assets/images/featured-images/SFO17-104.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-104/
 post_format:
-- Video
+  - Video
 session_id: SFO17-104
 session_track: Power Management
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79982339
@@ -28,7 +29,7 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/getting-the-mo
 slug: sfo17-104
 speakers: Dan Handley (Arm) -  Ionela Voinescu (Arm) - Vincent Guittot (Linaro)
 title: Getting the most out of DynamIQ & Enabling support of DynamiQ - SFO17-104
-video_length: '52:14'
+video_length: "52:14"
 video_thumbnail: None
 wordpress_id: 5922
 youtube_video_url: https://www.youtube.com/watch?v=CAoDi4j-gtE
@@ -43,24 +44,28 @@ Track: Power Management
 ★ Session Summary ★
 DynamIQ technology is the foundation for future Arm Cortex-A processors. This session discusses the software impact of DynamIQ and how to get the most out of it, with particular reference to Arm Trusted Firmware and EAS.
 
-Last March, Arm announced DynamiQ which gives a new level of flexibility in designing heterogeneous system. During this session, we will cover what are the impacts and how to enable its supports in the kernel.
----------------------------------------------------
+## Last March, Arm announced DynamiQ which gives a new level of flexibility in designing heterogeneous system. During this session, we will cover what are the impacts and how to enable its supports in the kernel.
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-104/
 Presentation: https://www.slideshare.net/linaroorg/getting-the-most-out-of-dynamiq-enabling-support-of-dynamiq-sfo17104
 Video: https://www.youtube.com/watch?v=CAoDi4j-gtE
----------------------------------------------------
+
+---
 
 ★ Event Details ★
 Linaro Connect San Francisco 2017 (SFO17)
 25-29 September 2017
 Hyatt Regency San Francisco Airport
 
----------------------------------------------------
+---
+
 Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

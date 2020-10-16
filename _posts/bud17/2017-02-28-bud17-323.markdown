@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-323%20-%20DynInst%20on%20arm64%20%E2%80%93%20Status.pdf
-amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Wednesday/BUD17-323%20DynInst%20on%20Arm64%20-%20Status.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Wednesday/BUD17-323%20DynInst%20on%20ARM64%20-%20Status.mp4
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:44
-excerpt: The DynInst package (https://github.com/dyninst/dyninst) provides an API
+excerpt:
+  The DynInst package (https://github.com/dyninst/dyninst) provides an API
   for program binary analysis and instrumentation. In this technical session, after
   a brief general introduction of the package itself, the recent arm64 porting work
   and the bug fixes needed to make the package work on a recent upstream kernel with
@@ -19,7 +20,7 @@ image: /assets/images/featured-images/BUD17-323.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-323/
 post_format:
-- Video
+  - Video
 session_id: BUD17-323
 session_track: LEG
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73469445
@@ -27,11 +28,11 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/dyninst-on-arm
 slug: bud17-323
 speakers: Itaru Kitayama
 tags:
-- Arm64
-- Dynlnst
-- LEG
+  - Arm64
+  - Dynlnst
+  - LEG
 title: DynInst on arm64 - Status - BUD17-323
-video_length: '22:14'
+video_length: "22:14"
 video_thumbnail: None
 wordpress_id: 4684
 youtube_video_url: https://youtu.be/qJ5upJRKNqA
@@ -44,12 +45,15 @@ Track: LEG
 
 ★ Session Summary ★
 The DynInst package (https://github.com/dyninst/dyninst) provides an API for program binary analysis and instrumentation. In this technical session, after a brief general introduction of the package itself, the recent arm64 porting work and the bug fixes needed to make the package work on a recent upstream kernel with the binary utilities will be explained in detail. The talk will conclude explaining the key features currently missing on arm64, namely code generation and relocation, to be implemented in 2017.
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-323/
 Presentation: https://www.slideshare.net/linaroorg/dyninst-on-arm64-status-bud17323
 Video: https://youtu.be/qJ5upJRKNqA
----------------------------------------------------
+
+---
 
 ★ Event Details ★
 bud17
@@ -58,10 +62,13 @@ Corinthia Hotel, Budapest,
 Erzsébet krt. 43-49,
 1073 Hungary
 
----------------------------------------------------
+---
+
 Keyword: LEG, Dynlnst, Arm64
 http://www.linaro.org
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

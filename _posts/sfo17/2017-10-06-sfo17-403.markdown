@@ -1,12 +1,13 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Presentations/SFO17-403%20Optimizing%20the%20Design%20and%20Implementation%20of%20KVM_Arm.pdf
-amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-403%20-%20Optimizing%20the%20Design%20and%20Implementation%20of%20KVM-Arm.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Presentations/SFO17-403%20Optimizing%20the%20Design%20and%20Implementation%20of%20KVM_ARM.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-403%20-%20Optimizing%20the%20Design%20and%20Implementation%20of%20KVM-ARM.mp4
 author: connect
 categories:
-- sfo17
+  - sfo17
 comments: false
 date: 2017-10-06 16:55:45
-excerpt: A key drawback in the use of full system virtualization is the performance
+excerpt:
+  A key drawback in the use of full system virtualization is the performance
   penalty introduced by hypervisors. This problem is especially present on Arm, which
   has significantly higher overhead for some workloads compared to x86, due to differences
   in the hardware virtualization support. The key reason for the overhead on Arm is
@@ -23,7 +24,7 @@ image: /assets/images/featured-images/SFO17-403.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-403/
 post_format:
-- Video
+  - Video
 session_id: SFO17-403
 session_track: Virtualization
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/81026985
@@ -31,7 +32,7 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/optimizing-the
 slug: sfo17-403
 speakers: Christoffer Dall
 title: Optimizing the Design and Implementation of KVM/Arm - SFO17-403
-video_length: '19:51'
+video_length: "19:51"
 video_thumbnail: None
 wordpress_id: 6049
 youtube_video_url: https://www.youtube.com/watch?v=foRxjfKQeas
@@ -44,23 +45,29 @@ Track: Virtualization
 
 ★ Session Summary ★
 A key drawback in the use of full system virtualization is the performance penalty introduced by hypervisors. This problem is especially present on Arm, which has significantly higher overhead for some workloads compared to x86, due to differences in the hardware virtualization support. The key reason for the overhead on Arm is the need to multiplex kernel mode state between the hypervisor and VMs, which each run their own kernel. This talk will cover how we have redesigned and optimized KVM/Arm, resulting in an order of magnitude reduction in overhead, and resulted in less overhead than x86 on key hypervisor operations. Our optimizations rely on new hardware support in Armv8.1, the Virtualization Host Extensions (VHE), but also support legacy hardware through invasive modifications to Linux to support running the kernel in the hypervisor-specific CPU mode, EL2
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-403/
 Presentation:
 Video: https://www.youtube.com/watch?v=foRxjfKQeas
----------------------------------------------------
+
+---
 
 ★ Event Details ★
 Linaro Connect San Francisco 2017 (SFO17)
 25-29 September 2017
 Hyatt Regency San Francisco Airport
 
----------------------------------------------------
+---
+
 Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

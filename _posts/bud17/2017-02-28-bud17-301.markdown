@@ -1,12 +1,13 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-301%20-%20KVM-Arm%20Nested%20Virtualization.pdf
-amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Wednesday/Bud17-301%20KVM%20%20Arm%20Nested%20Virtualization.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-301%20-%20KVM-ARM%20Nested%20Virtualization.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Wednesday/Bud17-301%20KVM%20%20ARM%20Nested%20Virtualization.mp4
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:39
-excerpt: Nested virtualization, the ability to run a virtual machine inside another
+excerpt:
+  Nested virtualization, the ability to run a virtual machine inside another
   virtual machine, is increasingly important because of the need to deploy virtual
   machines running software stacks on top of virtualized cloud infrastructure, as
   well as for prototyping and testing. As Arm servers make inroads in various deployment
@@ -24,7 +25,7 @@ image: /assets/images/featured-images/BUD17-301.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-301/
 post_format:
-- Video
+  - Video
 session_id: BUD17-301
 session_track: Virtualization
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786421
@@ -32,9 +33,9 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17301-zenos
 slug: bud17-301
 speakers: Christoffer Dall
 tags:
-- Arm
-- KVM
-- Virtualization
+  - Arm
+  - KVM
+  - Virtualization
 title: KVM/Arm Nested Virtualization - BUD17-301
 video_length: 00:00
 video_thumbnail: None
@@ -47,15 +48,17 @@ Session Name: KVM/Arm Nested Virtualization - BUD17-301
 Speaker: Christoffer Dall
 Track: Virtualization
 
-
 ★ Session Summary ★
 Nested virtualization, the ability to run a virtual machine inside another virtual machine, is increasingly important because of the need to deploy virtual machines running software stacks on top of virtualized cloud infrastructure, as well as for prototyping and testing. As Arm servers make inroads in various deployment scenarios, being able to support nested virtualization on Arm is a key requirement, which has been met recently with the introduction of nested virtualization support in the latest Armv8.3 revision of the architecture. I will present the initial effort to introduce Arm nested virtualization support to KVM/Arm, which involves adding significant logic to core KVM/Arm code, MMU support, timers, and the GIC emulation. I will also briefly discuss a paravirtualization approach we have used to prototype and evaluate the implementation on current Armv8 hardware without hardware support for nested virtualization.
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-301/
 Presentation: https://www.slideshare.net/linaroorg/bud17301-zenos-paradox-optimizing-kvmarm
 Video: https://youtu.be/Mqh9J83xFxo
- ---------------------------------------------------
+
+---
 
 ★ Event Details ★
 bud17
@@ -64,11 +67,14 @@ Corinthia Hotel, Budapest,
 Erzsébet krt. 43-49,
 1073 Hungary
 
----------------------------------------------------
+---
+
 Keyword: virtualization, KVM, Arm
 http://www.linaro.org
 http://connect.linaro.org
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

@@ -1,12 +1,13 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-213%20libvirt%20integration%20and%20testing%20for%20enterprise%20KVM%252FArm.pdf
-amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Tuesday/BUD17-213%20libvert%20integration%20and%20testing%20for%20enterprise%20KVM%20%20Arm.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-213%20libvirt%20integration%20and%20testing%20for%20enterprise%20KVM%252FARM.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Tuesday/BUD17-213%20libvert%20integration%20and%20testing%20for%20enterprise%20KVM%20%20ARM.mp4
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:35
-excerpt: This technical discussion will highlight on-going Red Hat activities for
+excerpt:
+  This technical discussion will highlight on-going Red Hat activities for
   the integration of an Enterprise Virtualization stack and present a vision of an
   enterprise guest.   The status of features such as live migration, device assignment,
   H52PCIe topology, large guest support, and more will be presented. The status will
@@ -22,7 +23,7 @@ image: /assets/images/featured-images/BUD17-213.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-213/
 post_format:
-- Video
+  - Video
 session_id: BUD17-213
 session_track: LEG
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73262432
@@ -30,10 +31,10 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/libvirt-integr
 slug: bud17-213
 speakers: Drew Jones, Eric Auger
 tags:
-- Arm
-- KVM
-- LEG
-- Testing
+  - Arm
+  - KVM
+  - LEG
+  - Testing
 title: libvirt integration and testing for enterprise KVM/Arm - BUD17-213
 video_length: 00:00
 video_thumbnail: None
@@ -48,12 +49,15 @@ Track: LEG
 
 ★ Session Summary ★
 This technical discussion will highlight on-going Red Hat activities for the integration of an Enterprise Virtualization stack and present a vision of an enterprise guest. The status of features such as live migration, device assignment, H52PCIe topology, large guest support, and more will be presented. The status will cover the integration up to the libvirt level of the stack, and exhibit that components above libvirt can """"just work"""", even when development, to this time, has been predominately focused on other architectures. As feature parity with x86 is a goal, the remaining gaps with x86 wil also be highlighted. Finally, the status of the verification efforts, specifically those involving the Avocado and kvm-unit-tests frameworks, will be presented.
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-213/
 Presentation: https://www.slideshare.net/linaroorg/libvirt-integration-and-testing-for-enterprise-kvmarm-bud17213
 Video: https://youtu.be/HJA1h5hgPFU
----------------------------------------------------
+
+---
 
 ★ Event Details ★
 bud17
@@ -62,11 +66,14 @@ Corinthia Hotel, Budapest,
 Erzsébet krt. 43-49,
 1073 Hungary
 
----------------------------------------------------
+---
+
 Keyword: LEG, KVM, Arm, testing
 http://www.linaro.org
 http://connect.linaro.org
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg
