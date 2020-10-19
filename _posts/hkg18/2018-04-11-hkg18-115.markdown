@@ -1,12 +1,13 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg18/presentations/hkg18-115.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-115.mp4
 author: connect
 categories:
-- hkg18
+  - hkg18
 comments: false
 date: 2018-04-11 14:11:12
-excerpt: The open source hypervisor Jailhouse provides hard partitioning of multicore
+excerpt:
+  The open source hypervisor Jailhouse provides hard partitioning of multicore
   systems to co-locate multiple Linux or RTOS instances side by side. It aims at low
   complexity and minimal footprint to achieve deterministic behavior and enable certifications
   according to safety or security standards. In this session, we would like to look
@@ -19,7 +20,7 @@ image: /assets/images/featured-images/HKG18-115.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-115/
 post_format:
-- Video
+  - Video
 session_id: HKG18-115
 session_track: Security
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92947728
@@ -27,7 +28,7 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18-115-part
 slug: hkg18-115
 speakers: Jan Kiszka
 title: HKG18-115 - Partitioning Arm Systems with the Jailhouse Hypervisor
-video_length: '56:25'
+video_length: "56:25"
 video_thumbnail: None
 wordpress_id: 8714
 youtube_video_url: https://www.youtube.com/watch?v=sispV-vf_9I
@@ -38,25 +39,32 @@ Session Name: HKG18-115 - Partitioning Arm Systems with the Jailhouse Hypervisor
 Speaker: Jan Kiszka
 Track: Security
 
-
 ## Session Summary
-The open source hypervisor Jailhouse provides hard partitioning of multicore systems to co-locate multiple Linux or RTOS instances side by side. It aims at low complexity and minimal footprint to achieve deterministic behavior and enable certifications according to safety or security standards. In this session, we would like to look at the Arm-specific status of Jailhouse and discuss applications, to-dos and possible collaborations around it with the Arm community. The session is intended to be half presentation, half Q&A; / discussion.
----------------------------------------------------
+
+## The open source hypervisor Jailhouse provides hard partitioning of multicore systems to co-locate multiple Linux or RTOS instances side by side. It aims at low complexity and minimal footprint to achieve deterministic behavior and enable certifications according to safety or security standards. In this session, we would like to look at the Arm-specific status of Jailhouse and discuss applications, to-dos and possible collaborations around it with the Arm community. The session is intended to be half presentation, half Q&A; / discussion.
+
 ## Resources
+
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-115/
-Presentation: https://static.linaro.org/connect/hkg18/presentations/hkg18-115.pdf
+Presentation: None
 Video: https://static.linaro.org/connect/hkg18/videos/hkg18-115.mp4
- ---------------------------------------------------
+
+---
+
 ## Event Details
+
 hkg18
 19-23 March 2018
 Regal Airport Hotel Hong Kong
 
----------------------------------------------------
+---
+
 Keyword: Security
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1

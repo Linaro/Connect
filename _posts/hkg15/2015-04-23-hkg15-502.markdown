@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-13-Friday/HKG15-502.pdf
-amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-13-Friday/170106+HKG15+502+Arm+Trusted+Firmware+Evolution.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-13-Friday/170106%20HKG15%20502%20ARM%20Trusted%20Firmware%20Evolution.mp4
 author: connect
 categories:
-- hkg15
+  - hkg15
 comments: true
 date: 2015-04-23 15:36:23
-excerpt: This session will cover Comcast's experience of migrating RDK to the OpenEmbedded
+excerpt:
+  This session will cover Comcast's experience of migrating RDK to the OpenEmbedded
   build framework. It will cover the porting of Comcast specific devices and the impact
   on the software design, as well as what was involved in porting efforts - both good
   and bad. Attendees will be able to gather a list of best practices for OE and a
@@ -17,7 +18,7 @@ excerpt: This session will cover Comcast's experience of migrating RDK to the Op
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-502/
 post_format:
-- Video
+  - Video
 session_id: HKG15-502
 session_track: Digital Home
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44899399
@@ -25,12 +26,13 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15502-arm-tr
 slug: hkg15-502
 speakers: Andrew Thoelke
 tags:
-- Andrew Thoelke
-- Digital Home
-- hkg15
-- HKG15-502
-title: 'HKG15-502 : Comcast - Lessons learned from migrating the RDK code base to
-  the OpenEmbedded/Yocto build framework'
+  - Andrew Thoelke
+  - Digital Home
+  - hkg15
+  - HKG15-502
+title:
+  "HKG15-502 : Comcast - Lessons learned from migrating the RDK code base to
+  the OpenEmbedded/Yocto build framework"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 763

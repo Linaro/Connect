@@ -1,12 +1,12 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/hkg18/presentations/hkg18-415.pdf
-amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-415.mp4
+amazon_s3_video_url: None
 author: connect
 categories:
-- hkg18
+  - hkg18
 comments: false
 date: 2018-04-11 14:14:39
-excerpt: 'This talk describes the overall system configuration requirements for
+excerpt: "This talk describes the overall system configuration requirements for
 
   adding Time Sensitive Networking (TSN) support to the Linux kernel. It
 
@@ -14,14 +14,14 @@ excerpt: 'This talk describes the overall system configuration requirements for
 
   other important parts of a TSN system based on Linux interfaces, and a
 
-  generic approach for configuring and managing TSN nodes.'
+  generic approach for configuring and managing TSN nodes."
 featured_image_name: HKG18-415.png
 image_name: HKG18-415.png
 image: /assets/images/featured-images/HKG18-415.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-415/
 post_format:
-- Video
+  - Video
 session_id: HKG18-415
 session_track: Networking
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92158620
@@ -39,29 +39,38 @@ Session Name: HKG18-415 - Time Sensitive Networking (TSN) and Linux
 Speaker: Ivan Khoronzhuk
 Track: Networking
 
-
 ## Session Summary
+
 This talk describes the overall system configuration requirements for
 adding Time Sensitive Networking (TSN) support to the Linux kernel. It
 includes information about traffic mapping, shaper configuration, and
 other important parts of a TSN system based on Linux interfaces, and a
 generic approach for configuring and managing TSN nodes.
----------------------------------------------------
+
+---
+
 ## Resources
+
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-415/
 Presentation: https://static.linaro.org/connect/hkg18/presentations/hkg18-415.pdf
-Video: https://static.linaro.org/connect/hkg18/videos/hkg18-415.mp4
- ---------------------------------------------------
+Video: None
+
+---
+
 ## Event Details
+
 hkg18
 19-23 March 2018
 Regal Airport Hotel Hong Kong
 
----------------------------------------------------
+---
+
 Keyword: Networking
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1

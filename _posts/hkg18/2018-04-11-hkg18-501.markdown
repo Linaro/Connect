@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/hkg18/presentations/hkg18-501.pdf
-amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-501.mp4
+amazon_s3_video_url: None
 author: connect
 categories:
-- hkg18
+  - hkg18
 comments: false
 date: 2018-04-11 14:14:39
-excerpt: This session will introduce the changes to EAS planned for 4.14 kernel, and
+excerpt:
+  This session will introduce the changes to EAS planned for 4.14 kernel, and
   how Arm hopes that EAS will develop in future. EAS has already evolved from an Arm/Linaro
   joint project to involving a much wider community of SoC vendors, Google and interested
   device manufacturers. We will highlight the product-specific pieces remaining in
@@ -20,7 +21,7 @@ image: /assets/images/featured-images/HKG18-501.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-501/
 post_format:
-- Video
+  - Video
 session_id: HKG18-501
 session_track: Mobile, Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/99755989
@@ -28,7 +29,7 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18501-eas-o
 slug: hkg18-501
 speakers: Chris Redpath
 title: HKG18-501 - EAS on Common Kernel 4.14 and getting (much) closer to mainline
-video_length: '51:07'
+video_length: "51:07"
 video_thumbnail: None
 wordpress_id: 8834
 youtube_video_url: https://www.youtube.com/watch?v=Pv23RQgfn18
@@ -40,23 +41,31 @@ Speaker: Chris Redpath
 Track: Mobile, Kernel
 
 ## Session Summary
-This session will introduce the changes to EAS planned for 4.14 kernel, and how Arm hopes that EAS will develop in future. EAS has already evolved from an Arm/Linaro joint project to involving a much wider community of SoC vendors, Google and interested device manufacturers. We will highlight the product-specific pieces remaining in the Android Common Kernel EAS implementation, and our plans to provide an upstreaming plan for each product feature. In particular, the new 'simplified energy model' is designed to provide mainline-friendliness and comparable performance using a simple DT expression of cpu power/performance.
----------------------------------------------------
+
+## This session will introduce the changes to EAS planned for 4.14 kernel, and how Arm hopes that EAS will develop in future. EAS has already evolved from an Arm/Linaro joint project to involving a much wider community of SoC vendors, Google and interested device manufacturers. We will highlight the product-specific pieces remaining in the Android Common Kernel EAS implementation, and our plans to provide an upstreaming plan for each product feature. In particular, the new 'simplified energy model' is designed to provide mainline-friendliness and comparable performance using a simple DT expression of cpu power/performance.
+
 ## Resources
+
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-501/
 Presentation: https://static.linaro.org/connect/hkg18/presentations/hkg18-501.pdf
-Video: https://static.linaro.org/connect/hkg18/videos/hkg18-501.mp4
----------------------------------------------------
+Video: None
+
+---
+
 ## Event Details
+
 hkg18
 19-23 March 2018
 Regal Airport Hotel Hong Kong
 
----------------------------------------------------
+---
+
 Keyword: Mobile, Kernel
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1

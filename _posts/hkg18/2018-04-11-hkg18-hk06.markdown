@@ -1,30 +1,30 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg18/presentations/hkg18-hk06.pdf
-amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-hk06.mp4
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
 author: connect
 categories:
-- hkg18
+  - hkg18
 comments: false
 date: 2018-04-11 14:15:25
-excerpt: '- What has been done?
+excerpt: "- What has been done?
 
   - What is not working in the current implementation?
 
   - - Shared memory for benchmark data.
 
-  - What benchmark features would we want to see in OP-TEE in the future?'
+  - What benchmark features would we want to see in OP-TEE in the future?"
 featured_image_name: HKG18-HK06.png
 image_name: HKG18-HK06.png
 image: /assets/images/featured-images/HKG18-HK06.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-hk06/
 post_format:
-- Video
+  - Video
 session_id: HKG18-HK06
 session_track: Security
 slug: hkg18-hk06
 speakers: Igor Opaniuk
-title: 'HKG18-HK06 - SWG Hacking: OP-TEE Benchmark framework'
+title: "HKG18-HK06 - SWG Hacking: OP-TEE Benchmark framework"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 8858
@@ -35,29 +35,37 @@ Session Name: HKG18-HK06 - SWG Hacking: OP-TEE Benchmark framework
 Speaker: Igor Opaniuk
 Track: Security
 
-
 ## Session Summary
+
 - What has been done?
 - What is not working in the current implementation?
 - - Shared memory for benchmark data.
 - What benchmark features would we want to see in OP-TEE in the future?
 
----------------------------------------------------
+---
+
 ## Resources
+
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-hk06/
-Presentation: https://static.linaro.org/connect/hkg18/presentations/hkg18-hk06.pdf
-Video: https://static.linaro.org/connect/hkg18/videos/hkg18-hk06.mp4
- ---------------------------------------------------
+Presentation: None
+Video: None
+
+---
+
 ## Event Details
+
 hkg18
 19-23 March 2018
 Regal Airport Hotel Hong Kong
 
----------------------------------------------------
+---
+
 Keyword: Security
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1

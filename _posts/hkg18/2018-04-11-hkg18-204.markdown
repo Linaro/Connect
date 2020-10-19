@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/hkg18/presentations/hkg18-204.pdf
-amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-204.mp4
+amazon_s3_video_url: None
 author: connect
 categories:
-- hkg18
+  - hkg18
 comments: false
 date: 2018-04-11 14:11:54
-excerpt: "*Open to employees of Linaro  and Linaro Members Only* \nBadges will be
+excerpt:
+  "*Open to employees of Linaro  and Linaro Members Only* \nBadges will be
   checked at the door."
 featured_image_name: HKG18-204.png
 image_name: HKG18-204.png
@@ -14,13 +15,14 @@ image: /assets/images/featured-images/HKG18-204.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-204/
 post_format:
-- Video
+  - Video
 session_id: HKG18-204
 session_track: Security
 slideshare_presentation_url: https://www.slideshare.net/secret/6dPpvbX1Um2YRi
 slug: hkg18-204
 speakers: David Rusling
-title: HKG18-204 - *Linaro Members Only* Cross team component discussion on the impact
+title:
+  HKG18-204 - *Linaro Members Only* Cross team component discussion on the impact
   of security vulnerabilities
 video_length: 00:00
 video_thumbnail: None
@@ -28,30 +30,39 @@ wordpress_id: 9063
 ---
 
 Session ID: HKG18-204
-Session Name: HKG18-204 - *Linaro Members Only* Cross team component discussion on the impact of security vulnerabilities
+Session Name: HKG18-204 - _Linaro Members Only_ Cross team component discussion on the impact of security vulnerabilities
 Speaker: David Rusling
 Track: Security
 
-
 ## Session Summary
-*Open to employees of Linaro  and Linaro Members Only*
+
+_Open to employees of Linaro and Linaro Members Only_
 Badges will be checked at the door.
----------------------------------------------------
+
+---
+
 ## Resources
+
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-204/
 Presentation: https://static.linaro.org/connect/hkg18/presentations/hkg18-204.pdf
-Video: https://static.linaro.org/connect/hkg18/videos/hkg18-204.mp4
- ---------------------------------------------------
+Video: None
+
+---
+
 ## Event Details
+
 hkg18
 19-23 March 2018
 Regal Airport Hotel Hong Kong
 
----------------------------------------------------
+---
+
 Keyword: Security
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1

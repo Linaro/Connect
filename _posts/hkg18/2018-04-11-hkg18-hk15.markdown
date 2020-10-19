@@ -1,26 +1,26 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg18/presentations/hkg18-hk15.pdf
-amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-hk15.mp4
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
 author: connect
 categories:
-- hkg18
+  - hkg18
 comments: false
 date: 2018-04-11 14:15:50
-excerpt: 'Power domain perf state for DSU dynamiQ and device notification
+excerpt: "Power domain perf state for DSU dynamiQ and device notification
 
-  DynamiQ update and next step'
+  DynamiQ update and next step"
 featured_image_name: HKG18-HK15.png
 image_name: HKG18-HK15.png
 image: /assets/images/featured-images/HKG18-HK15.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-hk15/
 post_format:
-- Video
+  - Video
 session_id: HKG18-HK15
 session_track: Power Management
 slug: hkg18-hk15
 speakers: Vincent Guittot,Viresh Kumar
-title: 'HKG18-HK15 - PMWG Hacking: Perf State and DynamiQ Update'
+title: "HKG18-HK15 - PMWG Hacking: Perf State and DynamiQ Update"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 8865
@@ -31,26 +31,35 @@ Session Name: HKG18-HK15 - PMWG Hacking: Perf State and DynamiQ Update
 Speaker: Vincent Guittot,Viresh Kumar
 Track: Power Management
 
-
 ## Session Summary
+
 Power domain perf state for DSU dynamiQ and device notification
 DynamiQ update and next step
----------------------------------------------------
+
+---
+
 ## Resources
+
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-hk15/
-Presentation: https://static.linaro.org/connect/hkg18/presentations/hkg18-hk15.pdf
-Video: https://static.linaro.org/connect/hkg18/videos/hkg18-hk15.mp4
- ---------------------------------------------------
+Presentation: None
+Video: None
+
+---
+
 ## Event Details
+
 hkg18
 19-23 March 2018
 Regal Airport Hotel Hong Kong
 
----------------------------------------------------
+---
+
 Keyword: Power Management
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1

@@ -1,6 +1,6 @@
 ---
 author: connect
-amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-113%3A+Distribution+CI+using+QEMU+and+OpenQA.pdf
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-113%3A%20Distribution%20CI%20using%20QEMU%20and%20OpenQA.pdf
 amazon_s3_video_url: None
 youtube_video_url: None
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/key/z6UyxwImy0wWog
@@ -36,6 +36,6 @@ video_thumbnail: None
 wordpress_id: 4626
 ---
 
-"Delivering a well working distribution is hard. There are a lot of different hardware platforms that need to be verified and the software stack is in a big flux during development phases. In rolling releases, this gets even worse, as nothing ever stands still.    The only sane answer to that problem are working Continuous Integration tests. The SUSE way to check whether any change breaks normal distribution behavior is OpenQA. Using OpenQA we can automatically run tests that hard working QA people did manually in the old days. That way we have fast enough turnaround times to find and reject breaking changes    This session shows how OpenQA works, what pitfalls we had to make Arm work with OpenQA and what we're doing to improve it for Arm specific use cases."
+"Delivering a well working distribution is hard. There are a lot of different hardware platforms that need to be verified and the software stack is in a big flux during development phases. In rolling releases, this gets even worse, as nothing ever stands still. The only sane answer to that problem are working Continuous Integration tests. The SUSE way to check whether any change breaks normal distribution behavior is OpenQA. Using OpenQA we can automatically run tests that hard working QA people did manually in the old days. That way we have fast enough turnaround times to find and reject breaking changes This session shows how OpenQA works, what pitfalls we had to make Arm work with OpenQA and what we're doing to improve it for Arm specific use cases."
 
 Event Date: March 7, 2017

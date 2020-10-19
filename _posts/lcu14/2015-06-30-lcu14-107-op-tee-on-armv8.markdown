@@ -1,12 +1,13 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/09-15-Monday/LCU14-107.pdf
-amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-15-Monday/LCU14-107-+OP-TEE+on+Armv8.mp4
+amazon_s3_presentation_url: None
+amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-15-Monday/LCU14-107-%20OP-TEE%20on%20ARMv8.mp4
 author: connect
 categories:
-- lcu14
+  - lcu14
 comments: true
 date: 2015-06-30 17:11:20
-excerpt: SWG is porting OP-TEE to Armv8 using Fixed Virtual Platform. Initially OP-TEE
+excerpt:
+  SWG is porting OP-TEE to Armv8 using Fixed Virtual Platform. Initially OP-TEE
   is running secure world in aarch32 mode, but with the normal world code running
   in aarch64 mode. Since Armv8 uses Arm Trusted Firmware we have patched it with an
   OP-TEE dispatcher to be able to communicate between secure and normal world.
@@ -16,7 +17,7 @@ image: /assets/images/featured-images/LCU14-107.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-107-op-tee-on-armv8/
 post_format:
-- Video
+  - Video
 session_id: LCU14-107
 session_track: Security
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38846644
@@ -24,12 +25,12 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-107-optee
 slug: lcu14-107-op-tee-on-armv8
 speakers: Jens Wiklander
 tags:
-- Jens Wiklander
-- lcu14
-- LCU14-107
-- Security
-title: 'LCU14-107: OP-TEE on Armv8'
-video_length: '17:31'
+  - Jens Wiklander
+  - lcu14
+  - LCU14-107
+  - Security
+title: "LCU14-107: OP-TEE on Armv8"
+video_length: "17:31"
 video_thumbnail: None
 wordpress_id: 1511
 youtube_video_url: https://www.youtube.com/watch?v=JViplz-ah9M
@@ -37,32 +38,33 @@ youtube_video_url: https://www.youtube.com/watch?v=JViplz-ah9M
 
 LCU14-107: OP-TEE on Armv8
 
----------------------------------------------------
+---
 
 Speaker: Jens Wiklander
 Track: Security
 Location: Grand Peninsula C, Hyatt Regency San Francisco Airport, Burlingame, CA, United States
----------------------------------------------------
+
+---
 
 ★ Session Summary ★
 SWG is porting OP-TEE to Armv8 using Fixed Virtual Platform. Initially OP-TEE is running secure world in aarch32 mode, but with the normal world code running in aarch64 mode. Since Armv8 uses Arm Trusted Firmware we have patched it with an OP-TEE dispatcher to be able to communicate between secure and normal world.
 
----------------------------------------------------
+---
 
 ★ Resources ★
 Zerista: http://lcu14.zerista.com/event/member/137710
 Google Event: 
 Presentation: 
 Video: 
-Eatherpad: pad.linaro.org/p/lcu14-107 
+Eatherpad: pad.linaro.org/p/lcu14-107
 
----------------------------------------------------
+---
 
 ★ Event Details ★
 Linaro Connect USA - #LCU14
 September 15-19th, 2014
 Hyatt Regency San Francisco Airport
----------------------------------------------------
 
-> http://www.linaro.org
-> http://connect.linaro.org
+---
+
+> http://www.linaro.org > http://connect.linaro.org

@@ -1,10 +1,11 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/09-17-Wednesday/LCU14-309.pdf
-amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-17-Wednesday/LCU14-309-+Introducing+Android+NDK+for+64bit+Armv8+SOCs.mp4
+amazon_s3_presentation_url: None
+amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-17-Wednesday/LCU14-309-%20Introducing%20Android%20NDK%20for%2064bit%20ARMv8%20SOCs.mp4
 author: connect
 comments: true
 date: 2015-06-30 17:08:50+00:00
-excerpt: Android Native Developer Kit (NDK) enables application developers leverage
+excerpt:
+  Android Native Developer Kit (NDK) enables application developers leverage
   the hardware features and differentiate. In this presentation, the Android NDK changes
   in latest NDK release for AArch64 is discussed, advantages of using NDK compiled
   with Linaro toolchains and validating NDK apps provided as part of Android is discussed.
@@ -13,7 +14,7 @@ link: http://connect.linaro.org/resource/lcu14/1546/
 session_id: LCU14-309
 session_track: Android
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-309-introducing-android-ndk-for-64bit-ar-mv8-socs
-slug: '1546'
+slug: "1546"
 speakers: Bernhard Rosenkranzer
 title: No Content Found
 video_length: 00:00
@@ -21,14 +22,14 @@ video_thumbnail: None
 wordpress_id: 1546
 youtube_video_url: https://www.youtube.com/watch?v=vuZFcUY_W-M
 categories:
-- lcu14
+  - lcu14
 post_format:
-- Video
+  - Video
 tags:
-- Android
-- Bernhard Rosenkranzer
-- lcu14
-- LCU14-309
+  - Android
+  - Bernhard Rosenkranzer
+  - lcu14
+  - LCU14-309
 ---
 
 No Content Found

@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Wednesday/Bud17-324%20System%20Trace%20Tools.mp4https://static.linaro.org/connect/bud17/Videos/Wednesday/Bud17-324%20System%20Trace%20Tools.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Wednesday/Bud17-324%20System%20Trace%20Tools.mp4
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:44
-excerpt: In STMicroelectronics we developed a set of tools for an efficient exploitation
+excerpt:
+  In STMicroelectronics we developed a set of tools for an efficient exploitation
   of application system trace under Linux, which we decided to make open source. The
   presentation will focus first on the current OSS tool offer, show which improvements
   can be made, then present ST proposed solutions compatible with Linaro Coresight
@@ -18,16 +19,16 @@ image: /assets/images/featured-images/BUD17-324.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-324/
 post_format:
-- Video
+  - Video
 session_id: BUD17-324
 session_track: Other
 slideshare_presentation_url: None
 slug: bud17-324
 speakers: Serge De-Paoli
 tags:
-- coresight
-- Linux
-- System-trace-tools
+  - coresight
+  - Linux
+  - System-trace-tools
 title: System Trace Tools - BUD17-324
 video_length: 00:00
 video_thumbnail: None
@@ -40,15 +41,17 @@ Session Name: System Trace Tools - BUD17-324
 Speaker: Serge De-Paoli
 Track:
 
-
 ★ Session Summary ★
 In STMicroelectronics we developed a set of tools for an efficient exploitation of application system trace under Linux, which we decided to make open source. The presentation will focus first on the current OSS tool offer, show which improvements can be made, then present ST proposed solutions compatible with Linaro Coresight framework (KPtrace, System Trace and Profiling Tool Kit) and a stepwise upstreaming plan.
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-324/
 Presentation:
 Video: https://youtu.be/VE7TwbSsVB4
- ---------------------------------------------------
+
+---
 
 ★ Event Details ★
 bud17
@@ -57,11 +60,14 @@ Corinthia Hotel, Budapest,
 Erzsébet krt. 43-49,
 1073 Hungary
 
----------------------------------------------------
+---
+
 Keyword: System-trace-tools, coresight, linux
 http://www.linaro.org
 http://connect.linaro.org
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

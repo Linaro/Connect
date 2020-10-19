@@ -1,5 +1,5 @@
 ---
-amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-09-Monday/HKG15-102+LMG+Lightning+Talks.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-09-Monday/HKG15-102%20LMG%20Lightning%20Talks.mp4
 author: connect
 categories:
 - hkg15

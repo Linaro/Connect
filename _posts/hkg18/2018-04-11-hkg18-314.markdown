@@ -1,9 +1,9 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg18/presentations/hkg18-314.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-314.mp4
 author: connect
 categories:
-- hkg18
+  - hkg18
 comments: false
 date: 2018-04-11 14:12:48
 excerpt: HPC BoF to discuss about the future of the HPC-SIG and Arm HPC in general
@@ -13,13 +13,13 @@ image: /assets/images/featured-images/HKG18-314.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-314/
 post_format:
-- Video
+  - Video
 session_id: HKG18-314
 session_track: LEG HPC
 slug: hkg18-314
 speakers: Renato Golin
 title: HKG18-314 - HPC BoF Discussion
-video_length: '42:14'
+video_length: "42:14"
 video_thumbnail: None
 wordpress_id: 8794
 youtube_video_url: https://www.youtube.com/watch?v=qPqBP96IZik
@@ -30,25 +30,32 @@ Session Name: HKG18-314 - HPC BoF Discussion
 Speaker: Renato Golin
 Track: LEG HPC
 
-
 ## Session Summary
-HPC BoF to discuss about the future of the HPC-SIG and Arm HPC in general
----------------------------------------------------
+
+## HPC BoF to discuss about the future of the HPC-SIG and Arm HPC in general
+
 ## Resources
+
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-314/
-Presentation: https://static.linaro.org/connect/hkg18/presentations/hkg18-314.pdf
+Presentation: None
 Video: https://static.linaro.org/connect/hkg18/videos/hkg18-314.mp4
- ---------------------------------------------------
+
+---
+
 ## Event Details
+
 hkg18
 19-23 March 2018
 Regal Airport Hotel Hong Kong
 
----------------------------------------------------
+---
+
 Keyword: LEG HPC
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1

@@ -1,9 +1,9 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-12-Thursday/HKG15-404.pdf
-amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-12-Thursday/HKG15-404+Standardizing+Linux+Kernel+Power+mgmt+on+Arm+32+64+bit.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-12-Thursday/HKG15-404%20Standardizing%20Linux%20Kernel%20Power%20mgmt%20on%20ARM%2032%2064%20bit.mp4
 author: connect
 categories:
-- hkg15
+  - hkg15
 comments: true
 date: 2015-04-23 15:36:33
 featured_image_name: HKG15-404.jpg
@@ -12,16 +12,16 @@ image: /assets/images/featured-images/HKG15-404.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-404-standardizing-linux-kernel-power-management-on-arm-3264-bit/
 post_format:
-- Video
+  - Video
 session_id: HKG15-404
 slug: hkg15-404-standardizing-linux-kernel-power-management-on-arm-3264-bit
 speakers: Lorenzo Pieralisi
 tags:
-- hkg15
-- HKG15-404
-- Lorenzo Pieralisi
-title: 'HKG15-404: Standardizing Linux Kernel Power Management on Arm 32/64-bit'
-video_length: '42:54'
+  - hkg15
+  - HKG15-404
+  - Lorenzo Pieralisi
+title: "HKG15-404: Standardizing Linux Kernel Power Management on Arm 32/64-bit"
+video_length: "42:54"
 video_thumbnail: None
 wordpress_id: 751
 youtube_video_url: https://www.youtube.com/watch?v=YB7W-v1At4o

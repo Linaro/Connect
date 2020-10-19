@@ -1,13 +1,13 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-24-Thursday/SFO15-411-
-  Energy Aware Scheduling- Power vs. Performance policy -part 1.pdf
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-24-Thursday/SFO15-411-%20Energy%20Aware%20Scheduling-%20Power%20vs.%20Performance%20policy%20-part%201.pdf
 amazon_s3_video_url: None
 author: connect
 categories:
-- sfo15
+  - sfo15
 comments: false
 date: 2015-09-24 00:00:00
-excerpt: We get lots of questions from members during initial HW design, SW implementation
+excerpt:
+  We get lots of questions from members during initial HW design, SW implementation
   and tuning of PM on their platforms. This session will address some of those questions
   and make general recommendations for new platforms.
 featured_image_name: SFO15-411.jpg
@@ -16,7 +16,7 @@ image: /assets/images/featured-images/SFO15-411.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-411/
 post_format:
-- Video
+  - Video
 session_id: SFO15-411
 session_track: Power Management
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53031884
@@ -24,8 +24,8 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15411-energy
 slug: sfo15-411
 speakers: Vincent Guittot
 tags:
-- Power Management
-title: 'SFO15-411 : Energy Aware Scheduling: Power vs. Performance policy'
+  - Power Management
+title: "SFO15-411 : Energy Aware Scheduling: Power vs. Performance policy"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 2877
