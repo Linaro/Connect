@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-13-Friday/HKG15-501.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-13-Friday/160030%20HKG%2015%20501%20Toolchain%20Performance%20analysis%20and%20Investigations.mp4
 author: connect
 categories:

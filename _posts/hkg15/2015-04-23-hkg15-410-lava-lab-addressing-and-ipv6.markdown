@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-12-Thursday/HKG15-410.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-12-Thursday/HKG15-410%20LAVA%20Lab%20addressing%20and%20IPV6.mp4
 author: connect
 categories:

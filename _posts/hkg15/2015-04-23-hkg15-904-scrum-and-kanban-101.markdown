@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-11-Wednesday/HKG15-904.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-11-Wednesday/HKG15-904%20Scrum%20and%20Kanban%20101.mp4
 author: connect
 categories:

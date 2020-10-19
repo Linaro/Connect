@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-11-Wednesday/HKG15-308.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-11-Wednesday/HKG15-308%20Kick-start%20your%2064-bit%20AOSP%20build%20engines.mp4
 author: connect
 categories:

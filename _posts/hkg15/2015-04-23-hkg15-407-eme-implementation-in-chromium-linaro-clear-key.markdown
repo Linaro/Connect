@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-12-Thursday/HKG15-407.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-12-Thursday/HKG15-407%20EME%20implementation%20in%20Chromium%20Linaro%20Clear%20Key.mp4
 author: connect
 categories:

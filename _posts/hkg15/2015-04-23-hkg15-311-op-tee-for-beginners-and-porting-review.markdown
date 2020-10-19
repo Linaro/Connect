@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-11-Wednesday/HKG15-311.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-11-Wednesday/HKG15-311%20OP-TEE%20for%20Beginners%20and%20Porting%20Review.mp4
 author: connect
 categories:

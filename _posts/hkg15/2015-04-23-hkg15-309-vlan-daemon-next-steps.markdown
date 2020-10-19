@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-11-Wednesday/HKG15-309.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-11-Wednesday/HKG15-309%20VLAN%20daemon%20next%20steps.mp4
 author: connect
 categories:

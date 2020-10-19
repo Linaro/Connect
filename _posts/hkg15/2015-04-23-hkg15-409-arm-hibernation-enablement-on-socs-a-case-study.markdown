@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-12-Thursday/HKG15-409.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-12-Thursday/HKG15-409%20ARM%20Hibernation%20enablement%20on%20SoCs%20-%20a%20case%20study.mp4
 author: connect
 categories:

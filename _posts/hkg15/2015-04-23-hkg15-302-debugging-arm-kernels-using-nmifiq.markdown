@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-11-Wednesday/HKG15-302.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-11-Wednesday/HKG15-302%20Debugging%20ARM%20kernels%20using%20NMIFIQ.mp4
 author: connect
 categories:

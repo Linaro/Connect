@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-13-Friday/HKG15-502.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-13-Friday/170106%20HKG15%20502%20ARM%20Trusted%20Firmware%20Evolution.mp4
 author: connect
 categories:

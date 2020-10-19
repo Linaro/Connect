@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-10-Tuesday/HKG15-204.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-10-Tuesday/HKG15-204%20OpenStack%203rd%20party%20testing%20and%20performance%20benchmarking.mp4
 author: connect
 categories:

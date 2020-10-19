@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-11-Wednesday/HKG15-306.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-11-Wednesday/HKG15-306%20Introducing%20Aster%20-%20a%20tool%20for%20remote%20GUI%20testing%20on%20AOSP.mp4
 author: connect
 categories:

@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-12-Thursday/HKG15-402.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-12-Thursday/HKG15-402%20Orphan%20hacking%20sessions.mp4
 author: connect
 categories:

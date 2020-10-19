@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-13-Friday/HKG15-500.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-13-Friday/152027%20HKG%2015%20500%20LAVA%20Usage%20and%20Result%20Mgmt.mp4
 author: connect
 categories:

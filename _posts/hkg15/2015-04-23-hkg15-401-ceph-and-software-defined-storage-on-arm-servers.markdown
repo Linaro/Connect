@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-12-Thursday/HKG15-401.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-12-Thursday/HKG15-401%20Ceph%20and%20Software%20Defined%20Storage%20on%20ARM%20servers.mp4
 author: connect
 categories:

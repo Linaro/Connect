@@ -1,11 +1,12 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-12-Thursday/HKG15-403.pdf
+amazon_s3_presentation_url: None
 author: connect
 categories:
-- hkg15
+  - hkg15
 comments: true
 date: 2015-04-23 15:36:33
-excerpt: Linaro and STM implemented an integration layer between Chromium and Wayland/Gstreamer.
+excerpt:
+  Linaro and STM implemented an integration layer between Chromium and Wayland/Gstreamer.
   The solution allows HW accelerated video playback, high performance GPU accelerated
   HTML5 rendering. The approach uses hole punching mechanism to compose the UI layer
   on the top of the video content. The Gstreamer Chromium plugin is implemented trough
@@ -14,23 +15,24 @@ excerpt: Linaro and STM implemented an integration layer between Chromium and Wa
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-403/
 post_format:
-- Video
+  - Video
 session_id: HKG15-403
 session_track: Digital Home
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44514830
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15403-chromium-blink-on-wayland-with-hw-accelerated-video-playback-using-gstreamer
 slug: hkg15-403
-speakers: 'Zoltan Kuscsik, PhD
+speakers: "Zoltan Kuscsik, PhD
 
-  Christophe Priouzeau'
+  Christophe Priouzeau"
 tags:
-- Digital Home
-- hkg15
-- HKG15-403
-- PhD Christophe Priouzeau
-- Zoltan Kuscsik
-title: 'HKG15-403 : Chromium Blink on Wayland with HW accelerated video playback using
-  Gstreamer'
+  - Digital Home
+  - hkg15
+  - HKG15-403
+  - PhD Christophe Priouzeau
+  - Zoltan Kuscsik
+title:
+  "HKG15-403 : Chromium Blink on Wayland with HW accelerated video playback using
+  Gstreamer"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 750

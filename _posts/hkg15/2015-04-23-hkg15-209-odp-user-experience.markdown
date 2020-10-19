@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-10-Tuesday/HKG15-209.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-10-Tuesday/HKG15-209%20ODP%20User%20experience.mp4
 author: connect
 categories:

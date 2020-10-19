@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-10-Tuesday/HKG15-211.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-10-Tuesday/HKG15-211%20Advanced%20Toolchain%20Usage%20Part%204.mp4
 author: connect
 categories:

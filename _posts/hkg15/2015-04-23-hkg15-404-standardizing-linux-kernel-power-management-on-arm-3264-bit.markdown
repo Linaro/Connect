@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/hkg15/Videos/02-12-Thursday/HKG15-404.pdf
+amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-12-Thursday/HKG15-404%20Standardizing%20Linux%20Kernel%20Power%20mgmt%20on%20ARM%2032%2064%20bit.mp4
 author: connect
 categories:
