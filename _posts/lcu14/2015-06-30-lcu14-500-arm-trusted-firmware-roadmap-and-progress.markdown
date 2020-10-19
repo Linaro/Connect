@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-19-Friday/LCU14-500-%20Arm%20Trusted%20Firmware%20roadmap%20and%20progress.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-19-Friday/LCU14-500-%20ARM%20Trusted%20Firmware%20roadmap%20and%20progress.mp4
 author: connect
 categories:
   - lcu14
