@@ -1,7 +1,7 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-25-Friday/SFO15-500K2
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-25-Friday/SFO15-500K2
   Sandler-Keynote.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-25-Friday/SFO15-500K2
+amazon_s3_video_url: https://static.linaro.org/connect/sfo15/Videos/09-25-Friday/SFO15-500K2
   - Ideology in Open Source Compliance.mp4
 author: connect
 categories:

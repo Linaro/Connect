@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-103%20CompressionODP.pdf
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-103%20CompressionODP.pdf
 amazon_s3_video_url: https://youtu.be/9L5T5UdDG-A
 author: connect
 categories:

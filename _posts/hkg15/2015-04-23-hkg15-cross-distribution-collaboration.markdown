@@ -1,8 +1,8 @@
 ---
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-11-Wednesday/Cross-distribution+Collaboration.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-11-Wednesday/Cross-distribution%20Collaboration.mp4
 author: connect
 categories:
-- hkg15
+  - hkg15
 comments: true
 date: 2015-04-23 15:36:18
 featured_image_name: HKG15.jpg
@@ -11,13 +11,13 @@ image: /assets/images/featured-images/HKG15.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-cross-distribution-collaboration/
 post_format:
-- Video
+  - Video
 session_id: HKG15
 slug: hkg15-cross-distribution-collaboration
 speakers: Riku Voipio
 tags:
-- hkg15
-- Riku Voipio
+  - hkg15
+  - Riku Voipio
 title: HKG15 Cross-distribution Collaboration
 video_length: 01:02:02
 video_thumbnail: None

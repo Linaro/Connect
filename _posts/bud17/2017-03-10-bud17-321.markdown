@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/BUD17-321%20OCTO%20BoF%20%20Embedded%20Graphics.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Wednesday/BUD17-321%20OCTO%20BoF%20%20Embedded%20Graphics.mp4
 author: connect
 categories:
 - bud17

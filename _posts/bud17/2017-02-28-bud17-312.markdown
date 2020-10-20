@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-312%20-%20Linux%20Networking%20and%20IO%20BoF.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/BUD17-312%20Linux%20networking%20and%20I%20%20O%20-%20BoF.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-312%20-%20Linux%20Networking%20and%20IO%20BoF.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Wednesday/BUD17-312%20Linux%20networking%20and%20I%20%20O%20-%20BoF.mp4
 author: connect
 categories:
 - bud17

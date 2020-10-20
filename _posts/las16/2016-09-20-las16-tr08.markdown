@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Thursday/LAS16-TR08%20-%20Hardware%20Assisted%20Tracing%20on%20Arm%20with%20CoreSight%20and%20OpenCSD%20%5BMandarin%5D.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Thursday/LAS16-TR08%20Hardware%20Assisted%20Tracing%20on%20Arm%20with%20CoreSight%20and%20OpenCSD%20%28Mandarin%29.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/las16/Presentations/Thursday/LAS16-TR08%20-%20Hardware%20Assisted%20Tracing%20on%20ARM%20with%20CoreSight%20and%20OpenCSD%20%5BMandarin%5D.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Thursday/LAS16-TR08%20Hardware%20Assisted%20Tracing%20on%20ARM%20with%20CoreSight%20and%20OpenCSD%20%28Mandarin%29.mp4
 author: connect
 categories:
 - las16

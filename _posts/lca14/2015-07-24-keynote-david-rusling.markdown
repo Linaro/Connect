@@ -1,11 +1,12 @@
 ---
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lca14/videos/03-07-Friday/Keynote-+David+Rusling.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/lca14/videos/03-07-Friday/Keynote-%20David%20Rusling.mp4
 author: connect
 categories:
-- lca14
+  - lca14
 comments: true
 date: 2015-07-24 14:04:06
-excerpt: "David always enjoyed mathematics, but America's space program together with
+excerpt:
+  "David always enjoyed mathematics, but America's space program together with
   'Star Trek' made him think that computers were really interesting and so he graduated
   in 1982 with a degree in Computer Science. The future turns out to have less flashing
   lights than he expected. At Digital Equipment Corporation he got involved in the
@@ -18,17 +19,17 @@ image: /assets/images/featured-images/LCA14-500K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lca14/keynote-david-rusling/
 post_format:
-- Video
+  - Video
 session_id: LCA14-500K1
 session_track: Keynote
 slug: keynote-david-rusling
 speakers: David Rusling
 tags:
-- David Rusling
-- Keynote
-- 'LCA14-500K1: Keynote / Housekeeping'
-title: 'Keynote: David Rusling'
-video_length: '32:21'
+  - David Rusling
+  - Keynote
+  - "LCA14-500K1: Keynote / Housekeeping"
+title: "Keynote: David Rusling"
+video_length: "32:21"
 video_thumbnail: None
 wordpress_id: 2137
 youtube_video_url: https://www.youtube.com/watch?v=AQRVNO4NEaM

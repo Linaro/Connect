@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-105%20-%20KernelCI-%20Road%20to%20LAVA%20v2.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Monday/BUD17-105%20The%20road%20to%20LAVA%20v2.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-105%20-%20KernelCI-%20Road%20to%20LAVA%20v2.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Monday/BUD17-105%20The%20road%20to%20LAVA%20v2.mp4
 author: connect
 categories:
 - bud17

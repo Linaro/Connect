@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-116%20Test-Standards-LC-2017%20.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-116%20Test%20standards%20-%20can%20Fuego%2C%20LAVA%20and%20others%20agree.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Presentations/SFO17-116%20Test-Standards-LC-2017%20.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-116%20Test%20standards%20-%20can%20Fuego%2C%20LAVA%20and%20others%20agree.mp4
 author: connect
 categories:
 - sfo17

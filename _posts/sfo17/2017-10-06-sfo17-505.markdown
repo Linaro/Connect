@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-505%20Deadline%20Scheduling%20Accounting%2C%20CPUset%20and%20CPUhotplug.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-505%20-%20Deadline%20Scheduling%20Accounting%252C%20CPUsets%20and%20CPUhotplug.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Presentations/SFO17-505%20Deadline%20Scheduling%20Accounting%2C%20CPUset%20and%20CPUhotplug.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-505%20-%20Deadline%20Scheduling%20Accounting%252C%20CPUsets%20and%20CPUhotplug.mp4
 author: connect
 categories:
 - sfo17

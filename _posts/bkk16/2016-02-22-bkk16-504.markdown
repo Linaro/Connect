@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Friday/BKK16-504.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Friday/BKK16-504%20Running%20Linux%20in%20EL2.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bkk16/Presentations/Friday/BKK16-504.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bkk16/Videos/Friday/BKK16-504%20Running%20Linux%20in%20EL2.mp4
 author: connect
 categories: bkk16
 comments: false

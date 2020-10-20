@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/02-13-Friday/HKG15-505.pdf
+amazon_s3_presentation_url: None
 author: connect
 categories:
 - hkg15
@@ -37,23 +37,31 @@ wordpress_id: 765
 youtube_video_url: https://www.youtube.com/watch?v=hQ2ITjHZY4s
 ---
 
-HKG15-505: Power Management interactions with OP-TEE and Trusted Firmware
----------------------------------------------------
+## HKG15-505: Power Management interactions with OP-TEE and Trusted Firmware
+
 Speaker: Jorge Ramirez-Ortiz
 Date: February 13, 2015
----------------------------------------------------
+
+---
+
 ★ Session Summary ★
 [Note: this is a joint Security/Power Management session) Understand what use cases related to Power Management have to interact with Trusted Firmware via Secure calls. Walk through some key use cases like CPU Suspend and explain how PM Linux drivers interacts with Trusted Firmware / PSCI
---------------------------------------------------
+
+---
+
 ★ Resources ★
 Pathable: https://hkg15.pathable.com/meetings/250855
-Presentation:  http://www.slideshare.net/linaroorg/hkg15-505-power-management-interactions-with-optee-repaired
+Presentation: http://www.slideshare.net/linaroorg/hkg15-505-power-management-interactions-with-optee-repaired
 Etherpad: http://pad.linaro.org/p/hkg15-505
----------------------------------------------------
+
+---
+
 ★ Event Details ★
 Linaro Connect Hong Kong 2015 - #HKG15
 February 9-13th, 2015
 Regal Airport Hotel Hong Kong Airport
----------------------------------------------------
+
+---
+
 http://www.linaro.org
 http://connect.linaro.org

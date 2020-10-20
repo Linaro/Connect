@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-404%20-%20UEFI-EDK2%20for%20RDK%20on%20HiKey.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-404%20UEFI%20%20EDK2%20for%20RDK%20on%20HiKey.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-404%20-%20UEFI-EDK2%20for%20RDK%20on%20HiKey.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Thursday/BUD17-404%20UEFI%20%20EDK2%20for%20RDK%20on%20HiKey.mp4
 author: connect
 categories:
 - bud17

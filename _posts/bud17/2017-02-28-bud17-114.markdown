@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-114%20-%20Making%20Arm%20the%20Best%20Platform%20for%20Android.pdf
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-114%20-%20Making%20ARM%20the%20Best%20Platform%20for%20Android.pdf
 amazon_s3_video_url: None
 author: connect
 categories:
@@ -32,10 +32,6 @@ youtube_video_url: None
 
 "An update on the ART team's efforts in making Arm the best platform for Android.
 
-
-
 Topics covered will include instruction scheduling, integration of a new 32-bit VIXL programmatic assembler, performance profiling of JIT/AOT compilation, 32-bit optimisations, stable tree backporting, CI, build and test infrastructure improvements, and performance benchmarking.
-
-
 
 Linaro members are welcome to join the Linaro ART team and help make a better Android Runtime for everyone on Arm."

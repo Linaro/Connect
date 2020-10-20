@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-107%20PCI-e%20EndPoint%20mode.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Monday/BUD17-107%20PCI-e%20EndPoint%20mode%20of%20operation%20in%20OpenDataPlane%20%28ODP%29.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-107%20PCI-e%20EndPoint%20mode.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Monday/BUD17-107%20PCI-e%20EndPoint%20mode%20of%20operation%20in%20OpenDataPlane%20%28ODP%29.mp4
 author: connect
 categories:
 - bud17

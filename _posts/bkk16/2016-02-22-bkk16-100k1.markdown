@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-100K1.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Monday/BKK16-10K1%20GG%20Keynote.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bkk16/Presentations/Monday/BKK16-100K1.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bkk16/Videos/Monday/BKK16-100K1%20GG%20Keynote.mp4
 author: connect
 categories: bkk16
 comments: false
@@ -10,15 +10,15 @@ image: /assets/images/featured-images/BKK16-100K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-100k1/
 post_format:
-- Video
+  - Video
 session_id: BKK16-100K1
 session_track: Keynote
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59189001
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16100k1-george-grey-linaro-ceo-opening-keynote
 slug: bkk16-100k1
 speakers: George Grey
-title: 'BKK16-100K1: Welcome Keynote: George Grey, Linaro CEO'
-video_length: '40:37'
+title: "BKK16-100K1: Welcome Keynote: George Grey, Linaro CEO"
+video_length: "40:37"
 video_thumbnail: None
 wordpress_id: 3306
 youtube_video_url: https://www.youtube.com/watch?v=IwPsZOBSQTc

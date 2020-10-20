@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tc04.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tc04.mp4
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
 author: connect
 comments: false
 date: 2018-04-11 14:16:13+00:00
@@ -10,14 +10,14 @@ session_id: HKG18-TC04
 session_track: Tools
 slug: hkg18-tc04
 speakers: Kristof Beyls
-title: 'HKG18-TC04 - TCWG Hacking Topics: Importance of LTO and PGO'
+title: "HKG18-TC04 - TCWG Hacking Topics: Importance of LTO and PGO"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 9289
 categories:
-- hkg18
+  - hkg18
 post_format:
-- Video
+  - Video
 ---
 
 Session ID: HKG18-TC04
@@ -25,25 +25,32 @@ Session Name: HKG18-TC04 - TCWG Hacking Topics: Importance of LTO and PGO
 Speaker: Kristof Beyls
 Track: Tools
 
-
 ## Session Summary
 
----------------------------------------------------
+---
+
 ## Resources
+
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-tc04/
-Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tc04.pdf
-Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tc04.mp4
- ---------------------------------------------------
+Presentation: None
+Video: None
+
+---
+
 ## Event Details
+
 hkg18
-19-23 March 2018 
+19-23 March 2018
 Regal Airport Hotel Hong Kong
 
----------------------------------------------------
+---
+
 Keyword: Tools
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1
@@ -52,5 +59,3 @@ https://www.linkedin.com/company/1026961
 **Speakers**: Kristof Beyls
 
 **Speaker Positions**: Principal Engineer
-
-

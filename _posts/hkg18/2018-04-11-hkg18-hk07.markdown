@@ -1,12 +1,13 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-hk07.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-hk07.mp4
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
 author: connect
 categories:
-- hkg18
+  - hkg18
 comments: false
 date: 2018-04-11 14:15:25
-excerpt: '- Secure Key Store (SKS) - PKCS#11 based client library to be used with
+excerpt:
+  "- Secure Key Store (SKS) - PKCS#11 based client library to be used with
   OP-TEE.
 
   - - Overview of what has been done.
@@ -21,19 +22,19 @@ excerpt: '- Secure Key Store (SKS) - PKCS#11 based client library to be used wit
 
   - - Leverage SKS?
 
-  - - Relations with Gatekeeper?'
+  - - Relations with Gatekeeper?"
 featured_image_name: HKG18-HK07.png
 image_name: HKG18-HK07.png
 image: /assets/images/featured-images/HKG18-HK07.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-hk07/
 post_format:
-- Video
+  - Video
 session_id: HKG18-HK07
 session_track: Security
 slug: hkg18-hk07
 speakers: Etienne Carriere,Victor Chong
-title: 'HKG18-HK07 - SWG Hacking: Key management in OP-TEE'
+title: "HKG18-HK07 - SWG Hacking: Key management in OP-TEE"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 8859
@@ -44,8 +45,8 @@ Session Name: HKG18-HK07 - SWG Hacking: Key management in OP-TEE
 Speaker: Etienne Carriere,Victor Chong
 Track: Security
 
-
 ## Session Summary
+
 - Secure Key Store (SKS) - PKCS#11 based client library to be used with OP-TEE.
 - - Overview of what has been done.
 - - What is the current scope?
@@ -55,22 +56,30 @@ Track: Security
 - - Leverage SKS?
 - - Relations with Gatekeeper?
 
----------------------------------------------------
+---
+
 ## Resources
+
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-hk07/
-Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-hk07.pdf
-Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-hk07.mp4
- ---------------------------------------------------
+Presentation: None
+Video: None
+
+---
+
 ## Event Details
+
 hkg18
 19-23 March 2018
 Regal Airport Hotel Hong Kong
 
----------------------------------------------------
+---
+
 Keyword: Security
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1

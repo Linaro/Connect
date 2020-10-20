@@ -1,12 +1,12 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-416.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-416.mp4
+amazon_s3_presentation_url: None
+amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-416.mp4
 author: connect
 categories:
-- hkg18
+  - hkg18
 comments: false
 date: 2018-04-11 14:14:39
-excerpt: 'BFQ has greatly improved over the last months.  Now it handles I/O at
+excerpt: "BFQ has greatly improved over the last months.  Now it handles I/O at
 
   up to 400+ KIOPS with commodity CPUs, and extends its close-to-optimal
 
@@ -16,7 +16,7 @@ excerpt: 'BFQ has greatly improved over the last months.  Now it handles I/O at
 
   and:
 
-  - show how the work ''around'' BFQ also influenced the benchmarking
+  - show how the work 'around' BFQ also influenced the benchmarking
 
   arena: from the consolidation of a responsiveness (application
 
@@ -34,14 +34,14 @@ excerpt: 'BFQ has greatly improved over the last months.  Now it handles I/O at
 
   - list the next important challenges for letting BFQ enter the
 
-  server&cloud world too.'
+  server&cloud world too."
 featured_image_name: HKG18-416.png
 image_name: HKG18-416.png
 image: /assets/images/featured-images/HKG18-416.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-416/
 post_format:
-- Video
+  - Video
 session_id: HKG18-416
 session_track: Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92951488
@@ -49,7 +49,7 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18416-im-bf
 slug: hkg18-416
 speakers: Paolo Valente
 title: HKG18-416 - I'm BFQ, I'm dynamite (or almost ...)
-video_length: '31:45'
+video_length: "31:45"
 video_thumbnail: None
 wordpress_id: 8822
 youtube_video_url: https://www.youtube.com/watch?v=FPtbiZtIflU
@@ -60,39 +60,49 @@ Session Name: HKG18-416 - I'm BFQ, I'm dynamite (or almost ...)
 Speaker: Paolo Valente
 Track: Kernel
 
-
 ## Session Summary
-BFQ has greatly improved over the last months.  Now it handles I/O at
+
+BFQ has greatly improved over the last months. Now it handles I/O at
 up to 400+ KIOPS with commodity CPUs, and extends its close-to-optimal
 responsiveness guarantees on any single-queue storage medium, from
-eMMC to fast SSDs.  In this presentation we show these improvements,
+eMMC to fast SSDs. In this presentation we show these improvements,
 and:
+
 - show how the work 'around' BFQ also influenced the benchmarking
-arena: from the consolidation of a responsiveness (application
-start-up time) test in the Phoronix benchmark suite, to the entry of
-the same test in the MMtests suite;
+  arena: from the consolidation of a responsiveness (application
+  start-up time) test in the Phoronix benchmark suite, to the entry of
+  the same test in the MMtests suite;
 - prove the good match between BFQ and the new blk-mq support in mmc
-(Ulf&Linus; work), with demos and graphs;
+  (Ulf&Linus; work), with demos and graphs;
 - provide an update on the status of the proposal of BFQ as the
-default I/O scheduler for all single-queue storage;
+  default I/O scheduler for all single-queue storage;
 - list the next important challenges for letting BFQ enter the
-server&cloud; world too.
----------------------------------------------------
+  server&cloud; world too.
+
+---
+
 ## Resources
+
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-416/
-Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-416.pdf
-Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-416.mp4
- ---------------------------------------------------
+Presentation: None
+Video: https://static.linaro.org/connect/hkg18/videos/hkg18-416.mp4
+
+---
+
 ## Event Details
+
 hkg18
 19-23 March 2018
 Regal Airport Hotel Hong Kong
 
----------------------------------------------------
+---
+
 Keyword: Kernel
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1

@@ -1,7 +1,7 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-21-Monday/SFO15-103-
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-21-Monday/SFO15-103-
   Cross-Distribution BoF - Riku Voipio.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-21-Monday/SFO15-103
+amazon_s3_video_url: https://static.linaro.org/connect/sfo15/Videos/09-21-Monday/SFO15-103
   Cross Distribution BoF.mp4
 author: connect
 categories:

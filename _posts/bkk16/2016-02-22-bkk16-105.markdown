@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Presentations/Monday/BKK16-105.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bkk16/Videos/Monday/BKK16-105%20HAL%20Plans.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bkk16/Presentations/Monday/BKK16-105.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bkk16/Videos/Monday/BKK16-105%20HAL%20Plans.mp4
 author: connect
 categories: bkk16
 comments: false

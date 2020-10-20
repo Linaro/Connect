@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Friday/BUD17-512%202038%20Linux%20Problem%20BoF.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Friday/BUD17-512%202038%20Linux%20Problem%20BoF.mp4
 author: connect
 categories:
 - bud17

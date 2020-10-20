@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-207%20Understanding%20RT%20linux.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-207%20Understanding%20Real%20Time%20kernel.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Presentations/SFO17-207%20Understanding%20RT%20linux.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-207%20Understanding%20Real%20Time%20kernel.mp4
 author: connect
 categories:
 - sfo17

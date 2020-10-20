@@ -1,7 +1,7 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-21-Monday/SFO15-110-
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-21-Monday/SFO15-110-
   Toolchain Collaboration.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-21-Monday/SFO15-110
+amazon_s3_video_url: https://static.linaro.org/connect/sfo15/Videos/09-21-Monday/SFO15-110
   Toolchain Collaboration.mp4
 author: connect
 categories:

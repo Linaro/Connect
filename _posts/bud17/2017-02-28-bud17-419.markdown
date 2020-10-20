@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/bud17/Presentations/BUD17-419%20Timekeeping%20in%20the%20Linux%20Kernel.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Thursday/BUD17-419%20Timekeeping%20in%20the%20Linux%20Kernel.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-419%20Timekeeping%20in%20the%20Linux%20Kernel.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Thursday/BUD17-419%20Timekeeping%20in%20the%20Linux%20Kernel.mp4
 author: connect
 categories:
 - bud17

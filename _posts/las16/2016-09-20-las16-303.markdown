@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Wednesday/LAS16-303%20-%20Kernel%20Testing%20with%20KernelCI.org.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-303%20Kernel%20Testing%20with%20KernelCI%20dot%20org.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/las16/Presentations/Wednesday/LAS16-303%20-%20Kernel%20Testing%20with%20KernelCI.org.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Wednesday/LAS16-303%20Kernel%20Testing%20with%20KernelCI%20dot%20org.mp4
 author: connect
 categories:
 - las16

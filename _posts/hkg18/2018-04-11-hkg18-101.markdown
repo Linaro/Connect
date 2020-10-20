@@ -1,22 +1,23 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-101.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-101.mp4
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
 author: connect
 categories:
-- hkg18
+  - hkg18
 comments: false
 date: 2018-04-11 14:11:12
-excerpt: 'TSC Sponsored BoF: Dong Wei, senior director and lead platform architect
+excerpt:
+  "TSC Sponsored BoF: Dong Wei, senior director and lead platform architect
   at Arm, will give an overview of the EBBR history and to see if additional changes
   are needed to bring this specification to v1.0 release and design the roadmap moving
-  forward.'
+  forward."
 featured_image_name: HKG18-101.png
 image_name: HKG18-101.png
 image: /assets/images/featured-images/HKG18-101.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-101/
 post_format:
-- Video
+  - Video
 session_id: HKG18-101
 session_track: Mobile
 slug: hkg18-101
@@ -32,26 +33,34 @@ Session Name: HKG18-101 - Arm EBBR (TSC sponsored BoF)
 Speaker: Dong Wei
 Track: Mobile
 
-
 ## Session Summary
+
 TSC Sponsored BoF: Dong Wei, senior director and lead platform architect at Arm, will give an overview of the EBBR history and to see if additional changes are needed to bring this specification to v1.0 release and design the roadmap moving forward.
 
----------------------------------------------------
+---
+
 ## Resources
+
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-101/
-Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-101.pdf
-Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-101.mp4
- ---------------------------------------------------
+Presentation: None
+Video: None
+
+---
+
 ## Event Details
+
 hkg18
 19-23 March 2018
 Regal Airport Hotel Hong Kong
 
----------------------------------------------------
+---
+
 Keyword: Mobile
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1

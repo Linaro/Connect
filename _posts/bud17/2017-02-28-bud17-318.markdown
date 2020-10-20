@@ -1,12 +1,13 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-318%20-%20Navigating%20the%20ABI%20for%20the%20Arm%20Architecture.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-318%20Navigating%20the%20ABI%20for%20the%20Arm%20Architecture.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-318%20-%20Navigating%20the%20ABI%20for%20the%20ARM%20Architecture.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Wednesday/Bud17-318%20Navigating%20the%20ABI%20for%20the%20ARM%20Architecture.mp4
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:44
-excerpt: "The ABI for a platform is defined by a multi-layered series of documents,
+excerpt:
+  "The ABI for a platform is defined by a multi-layered series of documents,
   with the Arm specific parts are largely defined by the ABI for the Arm architecture.
   This presentation will describe the structure of the ABI documentation and some
   of the design principles used in its construction.\n \nThis presentation is aimed
@@ -18,7 +19,7 @@ image: /assets/images/featured-images/BUD17-318.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-318/
 post_format:
-- Video
+  - Video
 session_id: BUD17-318
 session_track: Toolchain
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786746
@@ -26,9 +27,9 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17318-navig
 slug: bud17-318
 speakers: Peter Smith
 tags:
-- ABI
-- Arm
-- Toolchain
+  - ABI
+  - Arm
+  - Toolchain
 title: Navigating the ABI for the Arm Architecture - BUD17-318
 video_length: 00:00
 video_thumbnail: None
@@ -41,17 +42,17 @@ Session Name: Navigating the ABI for the Arm Architecture - BUD17-318
 Speaker: Peter Smith
 Track: Toolchain
 
-
 ★ Session Summary ★
 The ABI for a platform is defined by a multi-layered series of documents, with the Arm specific parts are largely defined by the ABI for the Arm architecture. This presentation will describe the structure of the ABI documentation and some of the design principles used in its construction.
 
-This presentation is aimed at software developers wanting to understand how to find information about the ABI, what they can rely upon and what they can extend
----------------------------------------------------
+## This presentation is aimed at software developers wanting to understand how to find information about the ABI, what they can rely upon and what they can extend
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-318/
 Presentation: https://www.slideshare.net/linaroorg/bud17318-navigating-the-abi-for-the-arm-architecture
 Video: https://youtu.be/shlvgwdI1vE
- ---------------------------------------------------
+
+---
 
 ★ Event Details ★
 bud17
@@ -60,11 +61,14 @@ Corinthia Hotel, Budapest,
 Erzsébet krt. 43-49,
 1073 Hungary
 
----------------------------------------------------
+---
+
 Keyword: toolchain, ABI, Arm
 http://www.linaro.org
 http://connect.linaro.org
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

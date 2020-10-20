@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/las16/Presentations/Thursday/LAS16-401-%20Accelerating%20applications%20with%20OFP%2BODP-%20highlighting%20NGINX%2C%20OpenSSL%20and%20L3FWD.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Thursday/LAS16-401%20Accelerating%20applications%20with%20OFP%2BODP%20%20highlighting%20NGINX%2C%20OpenSSL%20and%20L3FWD.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/las16/Presentations/Thursday/LAS16-401-%20Accelerating%20applications%20with%20OFP%2BODP-%20highlighting%20NGINX%2C%20OpenSSL%20and%20L3FWD.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Thursday/LAS16-401%20Accelerating%20applications%20with%20OFP%2BODP%20%20highlighting%20NGINX%2C%20OpenSSL%20and%20L3FWD.mp4
 author: connect
 categories:
 - las16

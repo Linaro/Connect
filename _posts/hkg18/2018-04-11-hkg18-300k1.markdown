@@ -1,12 +1,13 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-300k1.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-300k1.mp4
+amazon_s3_presentation_url: None
+amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-300k1.mp4
 author: connect
 categories:
-- hkg18
+  - hkg18
 comments: false
 date: 2018-04-11 14:12:48
-excerpt: "At scale everything changes. It is one thing to operate a datacenter of
+excerpt:
+  "At scale everything changes. It is one thing to operate a datacenter of
   10K nodes, it\u2019s an entirely different thing to operate millions of nodes across
   100\u2019s of datacenters around the world.  What works well for enterprises doesn\u2019t
   necessarily work at scale."
@@ -16,14 +17,15 @@ image: /assets/images/featured-images/HKG18-300K1.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-300k1/
 post_format:
-- Video
+  - Video
 session_id: HKG18-300K1
 session_track: Keynote
 slug: hkg18-300k1
 speakers: Leendert van Doorn
-title: "HKG18-300K1 - Keynote &#58; Leendert van Doorn Microsoft Azure &#58; Operating
+title:
+  "HKG18-300K1 - Keynote &#58; Leendert van Doorn Microsoft Azure &#58; Operating
   at Hyper-Scale"
-video_length: '29:13'
+video_length: "29:13"
 video_thumbnail: None
 wordpress_id: 8770
 youtube_video_url: https://www.youtube.com/watch?v=1yrCO5_KGk0
@@ -34,26 +36,34 @@ Session Name: HKG18-300K1 - Keynote: Leendert van Doorn “Microsoft Azure: Oper
 Speaker: Leendert van Doorn
 Track: Keynote
 
-
 ## Session Summary
-At scale everything changes. It is one thing to operate a datacenter of 10K nodes, it’s an entirely different thing to operate millions of nodes across 100’s of datacenters around the world.  What works well for enterprises doesn’t necessarily work at scale.
 
----------------------------------------------------
+At scale everything changes. It is one thing to operate a datacenter of 10K nodes, it’s an entirely different thing to operate millions of nodes across 100’s of datacenters around the world. What works well for enterprises doesn’t necessarily work at scale.
+
+---
+
 ## Resources
+
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-300k1/
-Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-300k1.pdf
-Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-300k1.mp4
- ---------------------------------------------------
+Presentation: None
+Video: https://static.linaro.org/connect/hkg18/videos/hkg18-300k1.mp4
+
+---
+
 ## Event Details
+
 hkg18
 19-23 March 2018
 Regal Airport Hotel Hong Kong
 
----------------------------------------------------
+---
+
 Keyword: Keynote
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1

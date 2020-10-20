@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Tuesday/LAS16-200K3-%20Introducing%20the%20MediaTek%20X20%20Board.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Tuesday/LAS16-200K3-%20Introducing%20the%20MediaTek%20X20%20Board.mp4
 author: connect
 categories:
 - las16

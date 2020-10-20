@@ -1,5 +1,5 @@
 ---
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-501%20-%20The%20Swarm%20on%20the%20Edge%20-%20key%20aspects%20to%20make%20it%20real.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-501%20-%20The%20Swarm%20on%20the%20Edge%20-%20key%20aspects%20to%20make%20it%20real.mp4
 author: connect
 categories:
 - sfo17

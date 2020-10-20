@@ -1,12 +1,13 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-310%20-%20Introducing%20LLDB%20for%20Linux%20on%20Arm%20and%20AArch64.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Wednesday/Bud17-310%20Introducing%20LLDB%20for%20Linux%20on%20Arm%20and%20AArch64.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-310%20-%20Introducing%20LLDB%20for%20Linux%20on%20Arm%20and%20AArch64.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Wednesday/Bud17-310%20Introducing%20LLDB%20for%20Linux%20on%20ARM%20and%20AArch64.mp4
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:43
-excerpt: This session provides an introduction of LLDB - Debugger from LLVM project
+excerpt:
+  This session provides an introduction of LLDB - Debugger from LLVM project
   and its status on Arm and AArch64 Linux.  A brief overview of various components
   in LLDB will be presented with a focus on LLDB commandline and how LLDB can provide
   debugging experience similar or different from GDB.
@@ -16,7 +17,7 @@ image: /assets/images/featured-images/BUD17-310.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-310/
 post_format:
-- Video
+  - Video
 session_id: BUD17-310
 session_track: Toolchain
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786593
@@ -24,10 +25,10 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17310-intro
 slug: bud17-310
 speakers: Omair Javaid
 tags:
-- AArch64
-- Arm
-- LLDB
-- Toolchain
+  - AArch64
+  - Arm
+  - LLDB
+  - Toolchain
 title: Introducing LLDB for linux on Arm and AArch64 - BUD17-310
 video_length: 00:00
 video_thumbnail: None
@@ -40,15 +41,17 @@ Session Name: Introducing LLDB for linux on Arm and AArch64 - BUD17-310
 Speaker: Omair Javaid
 Track: Toolchain
 
-
 ★ Session Summary ★
-This session provides an introduction of LLDB - Debugger from LLVM project and its status on Arm and AArch64 Linux.  A brief overview of various components in LLDB will be presented with a focus on LLDB commandline and how LLDB can provide debugging experience similar or different from GDB.
----------------------------------------------------
+This session provides an introduction of LLDB - Debugger from LLVM project and its status on Arm and AArch64 Linux. A brief overview of various components in LLDB will be presented with a focus on LLDB commandline and how LLDB can provide debugging experience similar or different from GDB.
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-310/
 Presentation: https://www.slideshare.net/linaroorg/bud17310-introducing-lldb-for-linux-on-arm-and-aarch64
 Video: https://youtu.be/6q1KfQPX4zs
- ---------------------------------------------------
+
+---
 
 ★ Event Details ★
 bud17
@@ -57,11 +60,14 @@ Corinthia Hotel, Budapest,
 Erzsébet krt. 43-49,
 1073 Hungary
 
----------------------------------------------------
+---
+
 Keyword: toolchain, AArch64, LLDB, Arm
 http://www.linaro.org
 http://connect.linaro.org
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

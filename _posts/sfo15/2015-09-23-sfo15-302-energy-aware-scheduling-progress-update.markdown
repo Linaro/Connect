@@ -1,7 +1,7 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-23-Wednesday/SFO15-302
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-23-Wednesday/SFO15-302
   EAS_Linaro2.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-23-Wednesday/SFO15-302
+amazon_s3_video_url: https://static.linaro.org/connect/sfo15/Videos/09-23-Wednesday/SFO15-302
   Energy Aware Scheduling Progress Update.mp4
 author: connect
 categories:

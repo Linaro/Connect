@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-TR02%20-%20Upstreaming%20101.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Tuesday/BUD17-TR02%20Upstreaming%20101.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-TR02%20-%20Upstreaming%20101.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Tuesday/BUD17-TR02%20Upstreaming%20101.mp4
 author: connect
 categories:
 - bud17

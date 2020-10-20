@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: "http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-102%20-%20Update%20on%20CPU%20cluster%20idling.pdf"
-amazon_s3_video_url: "http://connect.linaro.org.s3.amazonaws.com/bud17/Videos/Monday/BUD17-102%20Update%20on%20CPU%20cluster%20idling.mp4"
+amazon_s3_presentation_url: "https://static.linaro.org/connect/bud17/Presentations/BUD17-102%20-%20Update%20on%20CPU%20cluster%20idling.pdf"
+amazon_s3_video_url: "https://static.linaro.org/connect/bud17/Videos/Monday/BUD17-102%20Update%20on%20CPU%20cluster%20idling.mp4"
 author: connect
 categories:
   - bud17

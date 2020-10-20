@@ -1,12 +1,12 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/hkg15/Videos/09-18-Thursday/LCU14-402.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/lcu14/videos/09-18-Thursday/LCU14-402-+Energy+Aware+Scheduling-+Kernel+summit+update.mp4
+amazon_s3_presentation_url: None
+amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-18-Thursday/LCU14-402-%20Energy%20Aware%20Scheduling-%20Kernel%20summit%20update.mp4
 author: connect
 categories:
-- lcu14
+  - lcu14
 comments: true
 date: 2015-06-30 17:07:45
-excerpt: 'Scene setting (Morten)
+excerpt: "Scene setting (Morten)
 
   Workshop scheduled session wise update by attendees that ran/participated-in those
   sessions (Mike, Daniel, Nico, Morten, Dietmar).
@@ -27,7 +27,7 @@ excerpt: 'Scene setting (Morten)
 
   - Current status
 
-  - Feature roadmap'
+  - Feature roadmap"
 featured_image_name: LCU14-402.jpg
 image_name: LCU14-402.jpg
 image: /assets/images/featured-images/LCU14-402.jpg
@@ -38,19 +38,20 @@ session_track: Power Management
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39262924
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-402-kernel-summitupdatefinal-39262924
 slug: lcu14-402-energy-aware-scheduling-kernel-summit-update
-speakers: "Dietmar Eggemann, \nAmit Kucheria, \nPitre Nico, \nMorten Rasmussen, \nMichael
+speakers:
+  "Dietmar Eggemann, \nAmit Kucheria, \nPitre Nico, \nMorten Rasmussen, \nMichael
   Turquette"
 tags:
-- Amit Kucheria
-- Dietmar Eggemann
-- lcu14
-- LCU14-402
-- Michael Turquette
-- Morten Rasmussen
-- Pitre Nico
-- Power Management
-title: 'LCU14-402: Energy Aware Scheduling: Kernel summit update'
-video_length: '52:47'
+  - Amit Kucheria
+  - Dietmar Eggemann
+  - lcu14
+  - LCU14-402
+  - Michael Turquette
+  - Morten Rasmussen
+  - Pitre Nico
+  - Power Management
+title: "LCU14-402: Energy Aware Scheduling: Kernel summit update"
+video_length: "52:47"
 video_thumbnail: None
 wordpress_id: 1553
 youtube_video_url: https://www.youtube.com/watch?v=UhmfeCqQrxU
@@ -58,7 +59,7 @@ youtube_video_url: https://www.youtube.com/watch?v=UhmfeCqQrxU
 
 LCU14-402: Energy Aware Scheduling: Kernel summit update
 
----------------------------------------------------
+---
 
 Speaker: Dietmar Eggemann, 
 Amit Kucheria, 
@@ -67,7 +68,8 @@ Morten Rasmussen, 
 Michael Turquette
 Track: Power Management
 Location: Grand Peninsula B, Hyatt Regency San Francisco Airport, Burlingame, CA, United States
----------------------------------------------------
+
+---
 
 ★ Session Summary ★
 Scene setting (Morten)
@@ -81,7 +83,8 @@ Tools supporting EAS
   - Idlestat, rtapp (Amit and Vincent)
      - Current status
      - Feature roadmap
----------------------------------------------------
+
+---
 
 ★ Resources ★
 Zerista: http://lcu14.zerista.com/event/member/137769
@@ -89,13 +92,14 @@ Google Event: 
 Presentation: 
 Video: 
 Eatherpad: pad.linaro.org/p/lcu14-402
----------------------------------------------------
+
+---
 
 ★ Event Details ★
 Linaro Connect USA - #LCU14
 September 15-19th, 2014
 Hyatt Regency San Francisco Airport
----------------------------------------------------
 
-> http://www.linaro.org
-> http://connect.linaro.org
+---
+
+> http://www.linaro.org > http://connect.linaro.org

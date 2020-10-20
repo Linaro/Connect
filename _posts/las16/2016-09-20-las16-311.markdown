@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/las16/Videos/Wednesday/LAS16-311%20Window%20Based%20Load%20Tracking%20%28WALT%29%20versus%20PELT%20utilization.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Wednesday/LAS16-311%20Window%20Based%20Load%20Tracking%20%28WALT%29%20versus%20PELT%20utilization.mp4
 author: connect
 categories:
 - las16

@@ -1,12 +1,13 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Presentations/SFO17-109%20Containerized%20VNFs%20with%20Data%20Plane%20Acceleration%20on%20Arm%20platform.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/SFO17-109%20-%20Containerized%20VNFs%20with%20Data%20Plane%20Acceleration%20on%20Arm-based%20NFV%20infrastructure.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Presentations/SFO17-109%20Containerized%20VNFs%20with%20Data%20Plane%20Acceleration%20on%20ARM%20platform.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-109%20-%20Containerized%20VNFs%20with%20Data%20Plane%20Acceleration%20on%20ARM-based%20NFV%20infrastructure.mp4
 author: connect
 categories:
-- sfo17
+  - sfo17
 comments: false
 date: 2017-10-06 16:53:48
-excerpt: "Kubernetes and DPDK are the biggest hype for NFV solution today. While container
+excerpt:
+  "Kubernetes and DPDK are the biggest hype for NFV solution today. While container
   provides high scale, low latency and low startup time, and it changes the virtualization
   model. Also, Kubernetes is the best container orchestration platform, from the test
   result about containerized VNFs and the community feedback, although there still
@@ -23,16 +24,17 @@ image: /assets/images/featured-images/SFO17-109.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-109/
 post_format:
-- Video
+  - Video
 session_id: SFO17-109
 session_track: LNG
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/81009212
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/sfo17-109-containerized-vn-fs-with-data-plane-acceleration-on-arm-platform
 slug: sfo17-109
 speakers: Bin Lu - Jianbo Liu
-title: Containerized VNFs with Data Plane Acceleration on Arm-based NFV infrastructure
+title:
+  Containerized VNFs with Data Plane Acceleration on Arm-based NFV infrastructure
   - SFO17-109
-video_length: '29:43'
+video_length: "29:43"
 video_thumbnail: None
 wordpress_id: 5932
 youtube_video_url: https://www.youtube.com/watch?v=2_fm85W-mRc
@@ -47,23 +49,29 @@ Track: LNG
 ★ Session Summary ★
 Kubernetes and DPDK are the biggest hype for NFV solution today. While container provides high scale, low latency and low startup time, and it changes the virtualization model. Also, Kubernetes is the best container orchestration platform, from the test result about containerized VNFs and the community feedback, although there still has some problems to solve. DPDK provides a fast data-path. It’s the necessary component for NFV.
 This presentation will show our work of leveraging lightweight, efficient modern container technology to build Arm-based NFV infrastructure. It also describes the deployment of containerized VNFs with DPDK data plane acceleration with high performance and low latency networking design. The benefits of leveraging container-based infrastructure for NFV use cases, particularly on the network edge based on Arm servers will be illustrated.
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-109/
 Presentation:
 Video: https://www.youtube.com/watch?v=2_fm85W-mRc
----------------------------------------------------
+
+---
 
 ★ Event Details ★
 Linaro Connect San Francisco 2017 (SFO17)
 25-29 September 2017
 Hyatt Regency San Francisco Airport
 
----------------------------------------------------
+---
+
 Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

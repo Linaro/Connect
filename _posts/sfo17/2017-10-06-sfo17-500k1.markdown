@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/sfo17/Videos/Swarms%202.0%20The%20Living%20Network%20of%20Everyone%20and%20Everything%20%257C%20Panel-%207%20Years%20of%20Linaro%20%2523SFO17.mp4
+amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/Swarms%202.0%20The%20Living%20Network%20of%20Everyone%20and%20Everything%20%257C%20Panel-%207%20Years%20of%20Linaro%20%2523SFO17.mp4
 author: connect
 categories:
 - sfo17

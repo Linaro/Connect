@@ -1,7 +1,7 @@
 ---
-amazon_s3_presentation_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Presentations/09-23-Wednesday/SFO15-306-
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-23-Wednesday/SFO15-306-
   Kernel Reloaded - Let's Make it Happen.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/sfo15/Videos/09-23-Wednesday/SFO15-306
+amazon_s3_video_url: https://static.linaro.org/connect/sfo15/Videos/09-23-Wednesday/SFO15-306
   Kernel Consolidation 2.0 - Let's make it happen!.mp4
 author: connect
 categories:

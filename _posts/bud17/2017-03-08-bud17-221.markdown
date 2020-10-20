@@ -1,6 +1,6 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-221%20What%27s%20new%20in%20QEMU.pdf
-amazon_s3_video_url: https://s3.amazonaws.com/connect.linaro.org/bud17/Videos/Tuesday/BUD17-221%20What%27s%20new%20in%20QEMU.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-221%20What%27s%20new%20in%20QEMU.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Tuesday/BUD17-221%20What%27s%20new%20in%20QEMU.mp4
 author: connect
 categories:
 - bud17

@@ -1,12 +1,12 @@
 ---
-amazon_s3_presentation_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-hk05.pdf
-amazon_s3_video_url: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-hk05.mp4
+amazon_s3_presentation_url: None
+amazon_s3_video_url: None
 author: connect
 categories:
-- hkg18
+  - hkg18
 comments: false
 date: 2018-04-11 14:15:25
-excerpt: '- Builds/releases strategy/directions
+excerpt: "- Builds/releases strategy/directions
 
   - - Release frequency/cycle
 
@@ -20,19 +20,19 @@ excerpt: '- Builds/releases strategy/directions
 
   - - /dev/tee* permission
 
-  - - Moving artifacts to /vendor'
+  - - Moving artifacts to /vendor"
 featured_image_name: HKG18-HK05.png
 image_name: HKG18-HK05.png
 image: /assets/images/featured-images/HKG18-HK05.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-hk05/
 post_format:
-- Video
+  - Video
 session_id: HKG18-HK05
 session_track: Security
 slug: hkg18-hk05
 speakers: Victor Chong,Yongqin Liu
-title: 'HKG18-HK05 - SWG Hacking: AOSP and OP-TEE'
+title: "HKG18-HK05 - SWG Hacking: AOSP and OP-TEE"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 8857
@@ -43,33 +43,41 @@ Session Name: HKG18-HK05 - SWG Hacking: AOSP and OP-TEE
 Speaker: Victor Chong,Yongqin Liu
 Track: Security
 
-
 ## Session Summary
+
 - Builds/releases strategy/directions
 - - Release frequency/cycle
 - - Version matrix
 - - Just use LCR?
 - Upstream integration issues
 - - Coexistence with other TEEs
-- - /dev/tee* permission
+- - /dev/tee\* permission
 - - Moving artifacts to /vendor
 
----------------------------------------------------
+---
+
 ## Resources
+
 Event Page: http://connect.linaro.org/resource/hkg18/hkg18-hk05/
-Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-hk05.pdf
-Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-hk05.mp4
- ---------------------------------------------------
+Presentation: None
+Video: None
+
+---
+
 ## Event Details
+
 hkg18
 19-23 March 2018
 Regal Airport Hotel Hong Kong
 
----------------------------------------------------
+---
+
 Keyword: Security
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://www.youtube.com/user/linaroorg?sub_confirmation=1

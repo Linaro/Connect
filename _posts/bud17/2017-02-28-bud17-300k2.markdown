@@ -1,12 +1,13 @@
 ---
-amazon_s3_presentation_url: http://s3.amazonaws.com/connect.linaro.org/bud17/Presentations/BUD17-300K2%20-%20High%20Energy%20Physics%20and%20Armv8%2064-bit%20keynote.pdf
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-300K2%20-%20High%20Energy%20Physics%20and%20ARMv8%2064-bit%20keynote.pdf
 amazon_s3_video_url: None
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:38
-excerpt: Around the year 2000, the convergence on Linux and commodity x86_64 processors
+excerpt:
+  Around the year 2000, the convergence on Linux and commodity x86_64 processors
   provided a homogeneous scientific computing platform which enabled the construction
   of the Worldwide LHC Computing Grid (WLCG) for LHC data processing. This allowed
   the High Energy Physics (HEP) community to use a homogeneous software model utilizing
@@ -24,7 +25,7 @@ image: /assets/images/featured-images/BUD17-300K2.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-300k2/
 post_format:
-- Video
+  - Video
 session_id: BUD17-300K2
 session_track: Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72924313
@@ -32,13 +33,14 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17300k2-hig
 slug: bud17-300k2
 speakers: Jakob Blomer, David Abdurachmanov
 tags:
-- 64-bit
-- Armv8
-- CERN
-- physics
-title: High Energy Physics and Armv8 64-bit? Investigating The Future of Computing
+  - 64-bit
+  - Armv8
+  - CERN
+  - physics
+title:
+  High Energy Physics and Armv8 64-bit? Investigating The Future of Computing
   at CERN - BUD17-300K2
-video_length: '32:19'
+video_length: "32:19"
 video_thumbnail: None
 wordpress_id: 4665
 youtube_video_url: https://www.youtube.com/watch?v=71Yco-mTaYI
@@ -49,15 +51,17 @@ Session Name: High Energy Physics and Armv8 64-bit? Investigating The Future of 
 Speaker: Jakob Blomer, David Abdurachmanov
 Track:
 
-
 ★ Session Summary ★
 Around the year 2000, the convergence on Linux and commodity x86_64 processors provided a homogeneous scientific computing platform which enabled the construction of the Worldwide LHC Computing Grid (WLCG) for LHC data processing. This allowed the High Energy Physics (HEP) community to use a homogeneous software model utilizing the x86_64 architecture. LHC experiments at CERN, in particular ATLAS and CMS, started investigating Armv8 64-bit (AArch64) architecture for HEP needs. A journey which started in 2013. The LHC community faces a great challenge regarding computing needs in 10 years and has started exploring public clouds, volunteer computing (e.g., LHC@home) and HPC facilities to increase peak computation capacity. This talk will contain information about future (a timeline of 10 years) computation needs for LHC experiments and the more recent progress done by ATLAS, CernVM and CMS teams on using Armv8 64-bit/AArch64.
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-300k2/
 Presentation: https://www.slideshare.net/linaroorg/bud17300k2-high-energy-physics-and-armv8-64bit-investigating-the-future-of-computing-at-cern
 Video: https://www.youtube.com/watch?v=71Yco-mTaYI
- ---------------------------------------------------
+
+---
 
 ★ Event Details ★
 bud17
@@ -66,11 +70,14 @@ Corinthia Hotel, Budapest,
 Erzsébet krt. 43-49,
 1073 Hungary
 
----------------------------------------------------
+---
+
 Keyword: Armv8, CERN, physics, 64-bit
 http://www.linaro.org
 http://connect.linaro.org
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg
