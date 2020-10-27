@@ -1,0 +1,6 @@
+AWS_STATIC_SITE_PROFILE=connect-linaro-org-buildbot
+AWS_STATIC_SITE_URL=production-connect-linaro-org
+CF_DIST_ID_STATIC_LO=EK9ZGJH8KRCHL
+CLOUDFRONT_ADD_SECURITY_HEADERS_ARN=arn:aws:lambda:us-east-1:691071635361:function:cloudfront-add-security-headers:8
+JEKYLL_ENV=production
+SITE_URL=production.connect.linaro.org
