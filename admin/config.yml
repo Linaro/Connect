@@ -8,8 +8,8 @@ backend:
     - editor
 publish_mode: editorial_workflow
 logo_url: https://www.linaro.org/assets/images/content/Linaro-Logo.svg
-site_url: https://staging.connect.linaro.org
-display_url: https://staging.connect.linaro.org
+site_url: https://connect.linaro.org
+display_url: https://connect.linaro.org
 show_preview_links: false
 slug:
   encoding: "ascii"
