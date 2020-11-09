@@ -1,7 +1,19 @@
 ---
-permalink: /assets/json/resources.json
+permalink: /assets/json/toolchain.json
 ---
-[{% for post in site.posts %}{
+{% assign related_posts = "" |  split: ',' %}
+{% assign associated_tracks = "CTT,Toolchain" | split: "," %}
+{% for post in site.posts %}
+    {% if post.session_track %}
+        {% for track in associated_tracks %}
+            {% if post.session_track == track %}
+                {% assign related_posts = related_posts | push: post %}
+                {% break %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+[{% for post in related_posts %}{
         {% if post.description %}
             {% assign summary = post.description | strip_html | smartify  %}
         {% else %}
