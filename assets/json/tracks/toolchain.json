@@ -2,7 +2,7 @@
 permalink: /assets/json/toolchain.json
 ---
 {% assign related_posts = "" |  split: ',' %}
-{% assign associated_tracks = "CTT,Toolchain" | split: "," %}
+{% assign associated_tracks = "CTT,Toolchain,Tools" | split: "," %}
 {% for post in site.posts %}
     {% if post.session_track %}
         {% for track in associated_tracks %}

@@ -2,7 +2,7 @@
 permalink: /assets/json/hpc.json
 ---
 {% assign related_posts = "" |  split: ',' %}
-{% assign associated_tracks = "HPC" | split: "," %}
+{% assign associated_tracks = "HPC,Big Data" | split: "," %}
 {% for post in site.posts %}
     {% if post.session_track %}
         {% for track in associated_tracks %}
