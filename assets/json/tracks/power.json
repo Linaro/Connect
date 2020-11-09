@@ -1,0 +1,86 @@
+---
+permalink: /assets/json/power.json
+---
+{% assign related_posts = "" |  split: ',' %}
+{% assign associated_tracks = "Power Management,Power,PMWG,EAS" | split: "," %}
+{% for post in site.posts %}
+    {% if post.session_track %}
+        {% for track in associated_tracks %}
+            {% if post.session_track == track %}
+                {% assign related_posts = related_posts | push: post %}
+                {% break %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+[{% for post in related_posts %}{
+        {% if post.description %}
+            {% assign summary = post.description | strip_html | smartify  %}
+        {% else %}
+            {% assign summary =  post.excerpt | strip_html | smartify  %}
+        {% endif %}
+        {% if post.event_id %}
+            {% assign event_id  = post.event_id | upcase %}
+        {% else %}
+            {% assign event_id = post.categories[0] | upcase %}
+        {% endif %}
+        {% if post.session_speakers %}
+            {% assign speakers = "" | split: "" %}
+            {% for speaker in post.session_speakers %}
+                {% assign speakers = speakers | push: speaker %}
+            {% endfor%}
+        {% else %}
+            {% assign speakers = "" | split: "" %}
+            {% for speaker in post.speakers %}
+                {% assign speakers = speakers | push: speaker %}
+            {% endfor%}
+        {% endif %}
+        "event_id": "{{ event_id }}",
+        {% if post.session_id %}"session_id": "{{ post.session_id }}",{% endif %}
+        "url": "{{ site.url }}{{ post.url }}",
+        "summary": "{{summary}}",
+        "date_published": "{{ post.date }}",
+        "identifier": "{{ post.path }}",
+        {% if post.tag %}
+        "type": "{{post.tag}}",
+        {% else %}
+        "type": "session",
+        {% endif %}
+        "speakers": [{% for speaker in speakers %}
+        {
+            {% if speaker.name %}
+            "name": "{{speaker.name | smartify}}",
+            "job-title": "{{speaker.job-title | smartify }}",
+            "company": "{{speaker.company | smartify }}"
+            {% elsif speaker.speaker_name %}
+            "name": "{{speaker.speaker_name | smartify}}",
+            "job-title": "{{speaker.speaker_position | smartify }}",
+            "company": "{{speaker.speaker_company | smartify }}"
+            {% else %}
+            "name": "{{speaker | smartify }}"
+            {% endif %}
+        }
+        {% unless forloop.last == true %},{% endunless %}
+        {% endfor %}],
+        {% if post.slideshare_presentation_url != "None" %}
+        "slideshare_presentation_url": "{{post.slideshare_presentation_url}}",
+        {% endif %}
+        {% if post.youtube_video_url != "None"  %}
+        "youtube_video_url": "{{post.youtube_video_url}}",
+        {% endif %}
+        {% if post.amazon_s3_presentation_url != "None" and post.amazon_s3_presentation_url != "" %}
+        "amazon_s3_presentation_url": "{{post.amazon_s3_presentation_url}}",
+        {% endif %}
+        {% if post.amazon_s3_video_url != "None" and post.amazon_s3_video_url != "" %}
+        "amazon_s3_video_url": "{{post.amazon_s3_video_url}}",
+        {% endif %}
+        {% if post.session_track %}
+        "tracks": "{{post.session_track}}",
+        {% else %}
+        "tracks": "Arm",
+        {% endif %}
+        {% if post.image %}
+        "thumbnail": "{{site.url}}{{post.image}}",
+        {% endif %}
+        "title": {{ post.title | smartify | jsonify }}
+    }{% unless forloop.last == true %},{% endunless %}{% endfor %}]
