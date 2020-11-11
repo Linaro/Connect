@@ -21,28 +21,28 @@ flow:
   - row: container_row
     style: bg-secondary
     sections:
-      - format: title
-        style: text-center text-white
-        title_content:
-          size: h2
-          text: Linaro Virtual Connect 2020 has now ended.
       - format: text
         style: text-center text-white
         text_content:
           text: |
-            Thank you so much to those that attended. We hope you enjoyed our event and found the content engaging and useful.
+            Linaro Connect is an event that runs twice a year that brings together the Arm Ecosystem.
 
-            We would again, like to thank all of our speakers and our sponsors Arrow and Arm.
+            This is the **ONLY** event where developers, maintainers of both hardware and software can
 
-            The next Linaro Connect will be held in March 2021. Please watch this space for full details which will be released by the end of this year.
+            openly discuss and collaborate across common problems.
 
-            In the meantime all of the content from LVC20 is available here.
-      - buttons_content:
-          - icon: fa fa-arrow-right
-            title: LVC20 Resources
-            url: /resources/lvc20/
-        format: buttons
+            Due to the current climate we are running these events virtually with great success.
+            The next Linaro Connect will be held in March 2021. Please watch this space for full details
+            which will be released by the end of this year.
+  - row: container_row
+    sections:
+      - format: title
         style: text-center
+        title_content:
+          size: h2
+          text: LVC20 stats (during the 3 days of the event)
+      - format: custom_include
+        source: stats_section.html
   - row: container_row
     style: block_row
     sections:
