@@ -7,7 +7,7 @@
     filter: brightness(0.3);
   }
   .hidden-iframe {
-      display:none;
+    display: none;
   }
   a {
     color: #11809f;
@@ -17,6 +17,9 @@
   }
   .btn.btn-primary {
     color: #000;
+  }
+  .svg_icon {
+    height: 120px;
   }
   #universal_nav {
     .nav-item {
