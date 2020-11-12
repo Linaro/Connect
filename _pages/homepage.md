@@ -12,17 +12,16 @@ jumbotron:
       title: ""
       custom_include: connect_logo_insert.html
       title-class: font-weight-bold
-      image: /assets/images/content/virtual_meeting.jpg
+      image: /assets/images/content/many_screens.jpg
 home: true
 redirect_from:
   - /keynotes/bkk19/
   - /keynotes/
 flow:
   - row: container_row
-    style: bg-secondary
     sections:
       - format: text
-        style: text-center text-white
+        style: text-center
         text_content:
           text: |
             Linaro Connect is an event that runs twice a year that brings together the Arm Ecosystem.
@@ -35,9 +34,10 @@ flow:
             The next Linaro Connect will be held in March 2021. Please watch this space for full details
             which will be released by the end of this year.
   - row: container_row
+    style: bg-secondary text-white
     sections:
       - format: title
-        style: text-center
+        style: text-center text-white
         title_content:
           size: h2
           text: LVC20 stats (during the 3 days of the event)
