@@ -12,37 +12,37 @@ jumbotron:
       title: ""
       custom_include: connect_logo_insert.html
       title-class: font-weight-bold
-      image: /assets/images/content/virtual_meeting.jpg
+      image: /assets/images/content/many_screens.jpg
 home: true
 redirect_from:
   - /keynotes/bkk19/
   - /keynotes/
 flow:
   - row: container_row
-    style: bg-secondary
+    sections:
+      - format: text
+        style: text-center
+        text_content:
+          text: |
+            Linaro Connect is an event that runs twice a year that brings together the Arm Ecosystem.
+
+            This is the **ONLY** event where developers, maintainers of both hardware and software can
+
+            openly discuss and collaborate across common problems.
+
+            Due to the current climate we are running these events virtually with great success.
+            The next Linaro Connect will be held in March 2021. Please watch this space for full details
+            which will be released by the end of this year.
+  - row: container_row
+    style: bg-secondary text-white
     sections:
       - format: title
         style: text-center text-white
         title_content:
           size: h2
-          text: Linaro Virtual Connect 2020 has now ended.
-      - format: text
-        style: text-center text-white
-        text_content:
-          text: |
-            Thank you so much to those that attended. We hope you enjoyed our event and found the content engaging and useful.
-
-            We would again, like to thank all of our speakers and our sponsors Arrow and Arm.
-
-            The next Linaro Connect will be held in March 2021. Please watch this space for full details which will be released by the end of this year.
-
-            In the meantime all of the content from LVC20 is available here.
-      - buttons_content:
-          - icon: fa fa-arrow-right
-            title: LVC20 Resources
-            url: /resources/lvc20/
-        format: buttons
-        style: text-center
+          text: LVC20 stats (during the 3 days of the event)
+      - format: custom_include
+        source: stats_section.html
   - row: container_row
     style: block_row
     sections:

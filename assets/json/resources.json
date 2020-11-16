@@ -53,13 +53,13 @@ permalink: /assets/json/resources.json
         {% if post.slideshare_presentation_url != "None" %}
         "slideshare_presentation_url": "{{post.slideshare_presentation_url}}",
         {% endif %}
-        {% if post.youtube_video_url != "None" %}
+        {% if post.youtube_video_url != "None"  %}
         "youtube_video_url": "{{post.youtube_video_url}}",
         {% endif %}
-        {% if post.amazon_s3_presentation_url != "None" %}
+        {% if post.amazon_s3_presentation_url != "None" and post.amazon_s3_presentation_url != "" %}
         "amazon_s3_presentation_url": "{{post.amazon_s3_presentation_url}}",
         {% endif %}
-        {% if post.amazon_s3_video_url != "None" %}
+        {% if post.amazon_s3_video_url != "None" and post.amazon_s3_video_url != "" %}
         "amazon_s3_video_url": "{{post.amazon_s3_video_url}}",
         {% endif %}
         {% if post.session_track %}

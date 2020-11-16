@@ -5,7 +5,7 @@ description: |-
   Hundreds of the world’s best Linux on Arm developers come to Linaro Connect each time because they know it is the leading place to meet with the global community and to learn about what is going on in the industry.
 destination: _site
 permalink: /resources/:categories/:slug/
-theme: jumbo-jekyll-theme
+theme: linaro-jekyll-theme
 highlighter: rouge
 markdown: kramdown
 kramdown:
@@ -38,32 +38,36 @@ plugins:
   - jekyll_picture_tag
   - jekyll-tidy
 collections:
-    # authors:
-    #     output: false
-    #     permalink: /author/:name/
+  # authors:
+  #     output: false
+  #     permalink: /author/:name/
 liquid:
   error_mode: strict
 
 defaults:
   - scope:
-        path: "_posts/yvr18/sessions"
+      path: "_posts/yvr18/sessions"
     values:
-        permalink: /resources/:categories/sessions/:slug/
+      permalink: /resources/:categories/sessions/:slug/
   - scope:
-        path: "_posts/yvr18/demos"
+      path: "_posts/yvr18/demos"
     values:
-        permalink: /resources/:categories/demos/:slug/
+      permalink: /resources/:categories/demos/:slug/
   - scope:
-        path: "_posts/yvr18/interviews"
+      path: "_posts/yvr18/interviews"
     values:
-        permalink: /resources/:categories/interviews/:slug/
+      permalink: /resources/:categories/interviews/:slug/
   - scope:
-        path: ""
-        type: "posts"
+      path: ""
+      type: "posts"
     values:
-        layout: resource-post
-        author: connect
-        comments: true
+      layout: resource-post
+      author: connect
+      comments: true
+  - scope:
+      path: "assets/json/"
+    values:
+      permalink: /assets/json/:name:output_ext
   - scope:
       path: ""
     values:
@@ -118,15 +122,16 @@ social_media_channels:
     url: https://instagram.com/linaroorg
 # Disqus Comments Setup
 disqus:
-    enabled: true
-    shortname: linaroconnect
+  enabled: true
+  shortname: linaroconnect
 # Edit on GitHub Settings
 edit-on-github:
-    enabled: true
-    repo: https://www.github.com/Linaro/connect
+  enabled: true
+  repo: https://www.github.com/Linaro/connect
 # Shema.org settings used in the schema.html include.
 schema:
-  "@type": "Corporation"
+  "@context": "http://schema.org"
+  "@type": "Organization"
   "name": "Linaro"
   "url": "https://connect.linaro.org"
   "logo": "https://www.linaro.org/assets/images/content/linaro-logo.png"
@@ -135,14 +140,7 @@ schema:
     "telephone": "01223 400060"
     "contactType": "customer service"
     "availableLanguage": "en"
-  "sameAs":
-    - "https://facebook.com/LinaroOrg"
-    - "https://twitter.com/LinaroOrg"
-    - "https://instagram.com/LinaroOrg"
-    - "https://www.linkedin.com/company/1026961/"
-    - "https://youtube.com/LinaroOrg"
-    - "https://github.com/linaro"
-    - "https://www.linaro.org"
+  "sameAs": "https://www.linaro.org"
 # FESS search label
 search_label: Linaro
 # ----------- JEKYLL PLUGINS ---------------------
