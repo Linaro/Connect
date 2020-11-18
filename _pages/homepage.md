@@ -1,10 +1,11 @@
 ---
-layout: flow
-css-package: home
-permalink: /
 title: Bringing the Arm ecosystem together
-description: |-
-  Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect.
+description: Every six months, over 300 of the world's leading open source
+  engineers working on Arm get together for a full week of engineering sessions
+  and hacking at Linaro Connect.
+permalink: /
+css-package: home
+layout: flow
 jumbotron:
   slider:
     - darken: true
@@ -19,15 +20,21 @@ flow:
       - format: text
         style: text-center
         text_content:
-          text: |
-            Linaro Connect is an event that runs twice a year that brings together the Arm Ecosystem.
+          text: >
+            Linaro Connect is an event that runs twice a year that brings
+            together the Arm Ecosystem. Test.
+
 
             This is the **ONLY** event where developers, maintainers of both hardware and software can
 
+
             openly discuss and collaborate across common problems.
 
+
             Due to the current climate we are running these events virtually with great success.
+
             The next Linaro Connect will be held in March 2021. Please watch this space for full details
+
             which will be released by the end of this year.
   - row: container_row
     style: bg-secondary text-white
