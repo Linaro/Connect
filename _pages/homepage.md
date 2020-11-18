@@ -31,7 +31,7 @@ flow:
             Due to the current climate we are running these events virtually. The next Linaro Connect will be held March 23-25, 2021.
 
 
-            We are now accepting proposals for sessions at LVC21. Visit our CFP page for more information.
+            We are now accepting proposals for sessions at LVC21. Visit our [CFP page](https://connect.linaro.org/cfp/) for more information.
   - row: container_row
     style: bg-secondary text-white
     sections:
