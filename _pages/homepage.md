@@ -60,7 +60,7 @@ flow:
               buttons:
                 - title: View on Flickr
                   url: https://www.flickr.com/photos/linaroorg/
-                  class: btn-primary
+                  style: btn-primary
             - title: LTD20 Resources
               url: /resources/ltd20/
               image: /assets/images/content/san19-group-photo.jpg
@@ -69,7 +69,7 @@ flow:
               buttons:
                 - title: View Resources
                   url: /resources/ltd20/
-                  class: btn-primary
+                  style: btn-primary
             - title: View all resources
               url: /resources/
               image: /assets/images/content/san19-group-photo.jpg
@@ -78,7 +78,7 @@ flow:
               buttons:
                 - title: View all resources
                   url: /resources/
-                  class: btn-primary
+                  style: btn-primary
   - row: custom_include_row
     source: homepage_video_modal.html
 ---
