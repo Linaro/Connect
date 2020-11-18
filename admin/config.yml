@@ -395,6 +395,11 @@ collections:
                 required: false
                 widget: "string"
                 hint: "Adds a css style to the title. Leave blank if unsure."
+              - label: "Inner Class"
+                name: "inner_class"
+                required: false
+                widget: "string"
+                hint: "Adds a class to the inner content container. Leave blank if unsure."
               - label: "Slide Style"
                 name: "slide-class"
                 widget: string
@@ -410,6 +415,11 @@ collections:
                 widget: "image"
                 required: false
                 hint: "Adds the background image for your slide."
+              - label: "Custom Include"
+                name: "custom_include"
+                widget: "string"
+                required: false
+                hint: "Add the path to a jekyll include to display above the main content."
               - label: "Slide Buttons"
                 name: "buttons"
                 widget: list
