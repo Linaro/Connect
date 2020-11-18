@@ -13,10 +13,6 @@ jumbotron:
       custom_include: connect_logo_insert.html
       title-class: font-weight-bold
       image: /assets/images/content/many_screens.jpg
-home: true
-redirect_from:
-  - /keynotes/bkk19/
-  - /keynotes/
 flow:
   - row: container_row
     sections:
