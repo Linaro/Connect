@@ -749,7 +749,7 @@ collections:
                     widget: string
                     required: false
           - label: "Background Image"
-            name: "background-image"
+            name: "image"
             widget: "image"
             required: false
             media_library:
