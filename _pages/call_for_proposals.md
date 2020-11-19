@@ -1,10 +1,12 @@
 ---
 title: Call for Proposals
-description: 'Call for Proposals for Linaro Virtual Connect 2020 '
+description: |-
+  Call for Proposals for Linaro Virtual Connect 2021
+  March 23-25, 2021 
 permalink: /cfp/
 layout: flow
 jumbotron:
-  background-image: /assets/images/content/connect-banner-image-1.jpg
+  background-image: /assets/images/content/virtual_meeting.jpg
   title: Call for Proposals
   description: ''
 flow:
@@ -15,22 +17,21 @@ flow:
           buttons: []
           position: right
           slider_content:
-            dots: false
             items:
               - title: Jacob Smith from Packet presenting at Linaro Connect
                 image: /assets/images/content/bkk19-jacob-smith-packet-keynote.jpg
               - title: Presentation at Linaro Connect
                 image: /assets/images/content/ab.jpg
               - title: Chris Royston from Arm presenting at Linaro Connect
-                image: >-
-                  /assets/images/content/bkk19-chris-royston-arm-developer-talk.jpg
-            lg_items: 1
+                image: /assets/images/content/bkk19-chris-royston-arm-developer-talk.jpg
+            nav: true
+            dots: false
+            seconds_per_slide: 5
             lightbox_enabled: true
             md_items: 1
-            nav: true
-            seconds_per_slide: 5
             sm_items: 1
             xs_items: 1
+            lg_items: 1
           text: >
             Linaro Connect provides a platform to discuss and learn about the
             leading software topics, challenges and opportunities in the Arm
@@ -43,10 +44,16 @@ flow:
           type: slider
         format: feature_block
 ---
-Linaro Connect is going virtual! Linaro Virtual Connect 2020 will be held September 22-24, 2020 online.
+Linaro Virtual Connect 2021 will be held March 23-25 online. 
 
-Linaro Connect provides a platform to discuss and learn about the leading software topics, challenges and opportunities in the Arm Ecosystem today. What are the problems, innovations and hands-on knowledge that today's Arm Developers are working on? From the smallest devices (IoT and embedded) to big data (enterprise), there is an Arm solution. Want to share what you've been working on? Submit your proposal today!
+Linaro Connect provides a platform to discuss and learn about the leading software topics, challenges and opportunities in the Arm Ecosystem today. What are the problems, innovations and hands-on knowledge that today's Arm Developers are working on? From the smallest devices (IoT and embedded) to big data (enterprise), there is an Arm solution. Want to share what you've been working on? [Submit ](https://sessionize.com/LVC21/)your proposal today!
 
-[**SUBMIT HERE**](https://sessionize.com/LVC20/)
+**[SUBMIT PROPSAL HERE](https://sessionize.com/LVC21/)**
 
-If your submission is accepted, you will receive further instructions with slide deadlines, registration code, and virtual session preparation instructions. Due to a limited amount of session slots available, not all submissions can be selected for Linaro Virtual Connect 2020.
+CFP Timeline:
+
+* Deadline to [submit proposals](https://sessionize.com/LVC21/) Tuesday 12 Jan 2021 
+* Notifications of acceptance by 19 Jan 2021 
+* Full schedule announced 26 January 2021
+
+If your submission is accepted, you will receive further instructions with scheduled date and time for your session, slide deadlines, and virtual session preparation instructions. Due to a limited amount of session slots available, not all submissions can be selected for Linaro Virtual Connect 2021.
