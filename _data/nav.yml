@@ -14,7 +14,7 @@ pages:
     url: /about/
     options:
       - text: "Call for Proposals LVC21 "
-        url: https://connect.linaro.org/cfp/
+        url: /cfp/
   - active_paths:
       - /resources/
     options:
