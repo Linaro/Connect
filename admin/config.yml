@@ -651,6 +651,13 @@ collections:
           widget: "string",
         }
       - {
+          label: "Published",
+          name: "published",
+          widget: "boolean",
+          default: true,
+          hint: "Set to false if you want to hide this page on the website.",
+        }
+      - {
           label: "Custom JS Package",
           name: "js-package",
           widget: hidden,
