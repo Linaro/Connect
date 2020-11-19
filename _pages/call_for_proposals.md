@@ -6,7 +6,7 @@ description: |-
 permalink: /cfp/
 layout: flow
 jumbotron:
-  background-image: /assets/images/content/virtual_meeting.jpg
+  image: /assets/images/content/virtual_meeting.jpg
   title: Call for Proposals
   description: ''
 flow:
