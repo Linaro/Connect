@@ -651,6 +651,13 @@ collections:
           widget: "string",
         }
       - {
+          label: "Published",
+          name: "published",
+          widget: "boolean",
+          default: true,
+          hint: "Set to false if you want to hide this page on the website.",
+        }
+      - {
           label: "Custom JS Package",
           name: "js-package",
           widget: hidden,
@@ -742,7 +749,7 @@ collections:
                     widget: string
                     required: false
           - label: "Background Image"
-            name: "background-image"
+            name: "image"
             widget: "image"
             required: false
             media_library:
