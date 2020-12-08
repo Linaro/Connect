@@ -4,6 +4,7 @@ description: Every six months, over 300 of the world's leading open source
   engineers working on Arm get together for a full week of engineering sessions
   and hacking at Linaro Connect.
 permalink: /
+published: true
 css-package: home
 layout: flow
 jumbotron:
@@ -64,8 +65,8 @@ flow:
                 - title: View on Flickr
                   url: https://www.flickr.com/photos/linaroorg/
                   style: btn-primary
-            - title: LTD20 Resources
-              url: /resources/ltd20/
+            - title: LVC20 Resources
+              url: /resources/lvc20/
               image: /assets/images/content/san19-group-photo.jpg
               background_image: true
               description: View the resources from our latest virtual conference.
