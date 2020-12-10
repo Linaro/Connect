@@ -72,7 +72,7 @@ flow:
               description: View the resources from our latest virtual conference.
               buttons:
                 - title: View Resources
-                  url: /resources/ltd20/
+                  url: /resources/lvc20/
                   style: btn-primary
             - title: View all resources
               url: /resources/
