@@ -40,7 +40,7 @@ flow:
                 Connect will be held **March 23-25, 2021**.
             - style: text-dark
               description: >
-                We are now accepting proposals for sessions at LVC21. Visit our [CFP page](/cfp/) for more information.
+                The full schedule will be announced and registration will open on 26 January
   - row: container_row
     style: bg-secondary text-white
     sections:
