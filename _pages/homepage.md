@@ -29,7 +29,7 @@ flow:
           text: >
             This is the ONLY event where developers, maintainers of both hardware and software can collaborate and discuss common problems.
       - format: block
-        style: text-center text-dark organisation-section
+        style: text-center text-dark connect_blocks
         item_width: "6"
         block_section_content:
           blocks:
