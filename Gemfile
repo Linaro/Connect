@@ -1,7 +1,7 @@
 
 source "https://rubygems.org"
 # Jumbo Jekyll Theme
-gem 'linaro-jekyll-theme', "4.1.5"
+gem 'linaro-jekyll-theme', "4.3.0"
 # Jekyll Plugins
 group :jekyll_plugins do
    gem "nokogiri"
