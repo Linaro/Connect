@@ -154,11 +154,12 @@ $(document).ready(function () {
   });
 
   //   Multi-level dropdowns
-  $(".navbar .dropdown-menu > li:not(.dropdown-item)").on("click", function (
-    e
-  ) {
-    e.stopPropagation();
-  });
+  $(".navbar .dropdown-menu > li:not(.dropdown-item)").on(
+    "click",
+    function (e) {
+      e.stopPropagation();
+    }
+  );
   $(".navbar .dropdown-item").on("click", function (e) {
     var $el = $(this).children(".dropdown-toggle");
     var $parent = $el.offsetParent(".dropdown-menu");
