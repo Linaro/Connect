@@ -3,12 +3,9 @@ search:
   enabled: true
   label: Connect
 brand:
-  image:
-    enabled: true
-    name: connect-logo-horizontal.html
-    svg: true
-  text: Linaro Connect
-  url: /
+  # custom_include: nav/brand.html
+  path: /assets/images/content/Generic_Connect_Logo.svg
+  alt: Linaro logo
 pages:
   - title: About
     url: /about/
