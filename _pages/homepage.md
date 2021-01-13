@@ -1,11 +1,11 @@
 ---
 title: Bringing the Arm ecosystem together
-description: Every six months, over 300 of the world's leading open source
+description: >
+  Every six months, over 300 of the world's leading open source
   engineers working on Arm get together for a full week of engineering sessions
   and hacking at Linaro Connect.
 permalink: /
 published: true
-css-package: home
 layout: flow
 jumbotron:
   slider:
@@ -19,20 +19,28 @@ flow:
   - row: container_row
     sections:
       - format: text
+        style: large_text text-center
+        text_content: 
+          text: >
+            Linaro Connect is an event that runs twice a year that brings together the Arm Ecosystem.
+      - format: text
         style: text-center
         text_content:
-          text: >-
-            Linaro Connect is an event that runs twice a year that brings
-            together the Arm Ecosystem.
-
-
-            This is the **ONLY** event where developers, maintainers of both hardware and software can collaborate on and discuss common problems.
-
-
-            Due to the current climate we are running these events virtually. The next Linaro Connect will be held March 23-25, 2021.
-
-
-            We are now accepting proposals for sessions at LVC21. Visit our [CFP page](/cfp/) for more information.
+          text: >
+            This is the ONLY event where developers, maintainers of both hardware and software can collaborate and discuss common problems.
+      - format: block
+        style: text-center text-dark organisation-section
+        item_width: "6"
+        block_section_content:
+          blocks:
+            - style: text-dark
+              description: >
+                Due to the current climate we will be running
+                the next event virtually. The next Linaro
+                Connect will be held **March 23-25, 2021**.
+            - style: text-dark
+              description: >
+                We are now accepting proposals for sessions at LVC21. Visit our [CFP page](/cfp/) for more information.
   - row: container_row
     style: bg-secondary text-white
     sections:
@@ -46,43 +54,12 @@ flow:
   - row: container_row
     style: block_row
     sections:
-      - format: title
+      - format: buttons
         style: text-center
-        title_content:
-          size: h2
-          text: Linaro Connect Resources
-      - format: block
-        style: text-center text-white
-        item_width: 4
-        block_section_content:
-          blocks:
-            - title: Connect Photos
-              url: https://www.flickr.com/photos/linaroorg/
-              image: /assets/images/content/san19-group-photo.jpg
-              background_image: true
-              description: View the gallery of photos taken at Connect on Flickr.
-              buttons:
-                - title: View on Flickr
-                  url: https://www.flickr.com/photos/linaroorg/
-                  style: btn-primary
-            - title: LVC20 Resources
-              url: /resources/lvc20/
-              image: /assets/images/content/san19-group-photo.jpg
-              background_image: true
-              description: View the resources from our latest virtual conference.
-              buttons:
-                - title: View Resources
-                  url: /resources/lvc20/
-                  style: btn-primary
-            - title: View all resources
-              url: /resources/
-              image: /assets/images/content/san19-group-photo.jpg
-              background_image: true
-              description: View Connect resources from the previous Linaro Connect events.
-              buttons:
-                - title: View all resources
-                  url: /resources/
-                  style: btn-primary
+        buttons_content:
+          - title: View LVC20 Resources
+            url: /resources/lvc20/
+            style: btn-primary
   - row: custom_include_row
     source: homepage_video_modal.html
 ---
