@@ -1,4 +1,8 @@
 #wrapper {
+  .large_text {
+    font-size: 3rem;
+    font-weight: bolder;
+  }
   overflow: hidden;
   .blog_image_header::before {
     content: "";
