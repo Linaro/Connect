@@ -31,17 +31,26 @@ function delay(callback, ms) {
 function load_more_items() {
   // Get items step
   if (items_to_display.length > current_number_of_items + items_step) {
-    var last_item_index = current_number_of_items + items_step - 2;
+    var last_item_index = current_number_of_items + items_step;
   } else {
     var last_item_index = items_to_display.length;
     $("#load_more").show();
   }
+  // console.log("last item index: ", last_item_index);
+  // console.log("current number of items: ", current_number_of_items);
+  // console.log("items_to_display: ", items_to_display);
+  // console.log("items_to_display length: ", items_to_display.length);
   var items_to_show = items_to_display.slice(
     current_number_of_items,
     last_item_index
   );
+  // console.log("items_to_show: ", items_to_show);
+  // console.log("items_to_show: ", items_to_show.length);
+  if (items_to_show.length < items_step) {
+    $("#load_more").hide();
+  }
   // Update the current number of items displayed.
-  current_number_of_items = last_item_index - 2;
+  current_number_of_items = last_item_index;
   // Loop over results items_to_show display
   for (var i = 0; i <= items_to_show.length; i++) {
     var identifier = items_to_show[i]["identifier"];
@@ -159,6 +168,16 @@ $(document).ready(function () {
         );
       });
     }
+    // Ensure results are sorted by title.
+    resources_json.sort(function compare(a, b) {
+      if (a.session_id < b.session_id) {
+        return -1;
+      }
+      if (a.session_id > b.session_id) {
+        return 1;
+      }
+      return 0;
+    });
     // Set the items_to_display to the initial JSON results.
     items_to_display = resources_json;
     // Update the select menus to include the counts
