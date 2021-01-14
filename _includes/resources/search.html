@@ -54,7 +54,7 @@
     </div>
 </div>
 <div class="row" id="resources">
-    {% assign resource_posts = posts | sort: 'date' | reverse %}
+    {% assign resource_posts = posts | sort: 'session_id'  %}
     {% for post in resource_posts %}
         <div class="col col-12 col-sm-6 col-lg-3 blog-post-item-col p-3" data-identifier="{{post.path}}" data-type="{{post.tag}}"
          data-event="{{post.categories[0]}}" data-track="{{post.session_track}}" {% if forloop.index < 13 %}style="display:block"{% else %}style="display:none"{% endif %}>
