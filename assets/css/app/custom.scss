@@ -1,4 +1,13 @@
 #wrapper {
+  .connect_blocks {
+    .card {
+      border: 10px solid #deeec8;
+    }
+  }
+  .large_text {
+    font-size: 2.4rem;
+    font-weight: bolder;
+  }
   overflow: hidden;
   .blog_image_header::before {
     content: "";
