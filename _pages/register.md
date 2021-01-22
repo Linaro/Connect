@@ -1,9 +1,10 @@
 ---
-title: Register for Linaro Connect Budapest 2020
+title: Register for Linaro Connect
 description: >
-  Register for Linaro Connect and join hundreds of the world's leading Arm Open
-  Source Engineers.
+  Register for Linaro Virtual Connect 2021 and join hundreds of the world's
+  leading Arm Open Source Engineers.
 permalink: /register/
+published: true
 css-package: about
 layout: flow
 jumbotron:
@@ -15,5 +16,29 @@ jumbotron:
 flow:
   - row: main_content_row
 ---
+Registration for Linaro Virtual Connect is open. 
 
-As a result of the Coronavirus, it is with great regret that we have decided to cancel the upcoming Linaro Connect which was due to be held on 23-27 March 2020 at the Corinthia Hotel in Budapest, Hungary. You can read the complete statement [here](https://www.linaro.org/blog/linaro-connect-budapest-2020-cancelled/).
+Register for your free ticket below. 
+
+
+
+<div id="eventbrite-widget-container-137804379609"></div>
+
+<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '137804379609',
+        iframeContainerId: 'eventbrite-widget-container-137804379609',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
