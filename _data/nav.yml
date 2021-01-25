@@ -3,15 +3,19 @@ search:
   enabled: true
   label: Connect
 brand:
-  # custom_include: nav/brand.html
   path: /assets/images/content/Generic_Connect_Logo.svg
   alt: Linaro logo
+  image:
+    enabled: true
+  text: Nav
 pages:
   - title: About
     url: /about/
     options:
       - text: "Call for Proposals LVC21 "
         url: /cfp/
+      - text: "Register for LVC21 "
+        url: /register/
   - active_paths:
       - /resources/
     options:
