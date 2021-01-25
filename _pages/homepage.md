@@ -1,9 +1,9 @@
 ---
 title: Bringing the Arm ecosystem together
 description: >
-  Every six months, over 300 of the world's leading open source
-  engineers working on Arm get together for a full week of engineering sessions
-  and hacking at Linaro Connect.
+  Every six months, over 300 of the world's leading open source engineers
+  working on Arm get together for a full week of engineering sessions and
+  hacking at Linaro Connect.
 permalink: /
 published: true
 layout: flow
@@ -20,27 +20,28 @@ flow:
     sections:
       - format: text
         style: large_text text-center
-        text_content: 
+        text_content:
           text: >
-            Linaro Connect is an event that runs twice a year that brings together the Arm Ecosystem.
+            Linaro Connect is an event that runs twice a year that brings
+            together the Arm Ecosystem.
       - format: text
         style: text-center
         text_content:
           text: >
-            This is the ONLY event where developers, maintainers of both hardware and software can collaborate and discuss common problems.
+            This is the ONLY event where developers, maintainers of both
+            hardware and software can collaborate and discuss common problems.
       - format: block
         style: text-center text-dark connect_blocks
         item_width: "6"
         block_section_content:
           blocks:
             - style: text-dark
-              description: >
-                Due to the current climate we will be running
-                the next event virtually. The next Linaro
-                Connect will be held **March 23-25, 2021**.
+              description: Due to the current climate we will be running the next event
+                virtually. The next Linaro Connect will be held online from
+                **March 23-25, 2021**.
             - style: text-dark
-              description: >
-                The full schedule and registration will be announced January 26, 2021
+              description: Registration is now open. View the full schedule and complete your
+                free registration [here](https://connect.linaro.org/register/).
   - row: container_row
     style: bg-secondary text-white
     sections:
