@@ -12,10 +12,12 @@ pages:
   - title: About
     url: /about/
     options:
-      - text: "Call for Proposals LVC21 "
-        url: /cfp/
-      - text: "Register for LVC21 "
+      - text: Registration
         url: /register/
+      - text: Schedule
+        url: /schedule/
+      - text: Call for Proposals
+        url: /cfp/
   - active_paths:
       - /resources/
     options:
