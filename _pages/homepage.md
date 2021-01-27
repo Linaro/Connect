@@ -40,8 +40,9 @@ flow:
                 virtually. The next Linaro Connect will be held online from
                 **March 23-25, 2021**.
             - style: text-dark
-              description: Registration is now open. View the full schedule and complete your
-                free registration [here](https://connect.linaro.org/register/).
+              description: Registration is now open. View the full [schedule
+                ](https://connect.linaro.org/schedule/)and complete your free
+                [registration](https://connect.linaro.org/register/).
   - row: container_row
     style: bg-secondary text-white
     sections:
