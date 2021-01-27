@@ -1,8 +1,11 @@
 ---
 title: Register for Linaro Connect
-description: >
+description: >-
   Register for Linaro Virtual Connect 2021 and join hundreds of the world's
   leading Arm Open Source Engineers.
+
+
+  LVC21 will run from March 23-25, 2021. 
 permalink: /register/
 published: true
 css-package: about
