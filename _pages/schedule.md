@@ -12,8 +12,7 @@ jumbotron:
   animation: fade
   background-image: /assets/images/content/virtual_meeting.jpg
 flow:
-  - row: custom_include_row
-    source: schedule.html
+  - row: main_content_row
 ---
 Below is the schedule for Linaro Virtual Connect 2021. 
 
