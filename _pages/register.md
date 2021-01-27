@@ -16,11 +16,9 @@ jumbotron:
 flow:
   - row: main_content_row
 ---
-Registration for Linaro Virtual Connect (LVC21) is open. 
+Registration for Linaro Virtual Connect is open. View the full schedule [here](https://connect.linaro.org/schedule/). 
 
-LVC21 will run for 3 days from March 23-25, 2021. 
-
-Once you register, you will receive an invitation to our event site. 
+Once you register, you will receive an email invitation two weeks before the event to begin building your agenda in our event site called PINE tool. 
 
 Register for your free ticket below:
 
