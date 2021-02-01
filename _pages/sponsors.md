@@ -1,8 +1,9 @@
 ---
 title: Sponsor Connect
-description: Sponsor the event where leading hardware and software Arm ecosystem players come together.
+description: Sponsor the event where leading hardware and software Arm ecosystem
+  players come together.
 permalink: /sponsors/
-# js-package: sponsor
+published: true
 css-package: sponsor
 layout: flow
 jumbotron:
@@ -10,7 +11,7 @@ jumbotron:
   buttons:
     - class: btn btn-primary fa fa-download
       title: Download Prospectus
-      url: "https://linaro.co/prospectus"
+      url: https://drive.google.com/file/d/1CVyt5G1Z3HK9RL5GjS6kd-6rwhQ5yzbc/view?usp=sharing
   carousel-images:
     - /assets/images/content/hkg18-sponsor-bg-1.jpg
     - /assets/images/content/yvr18-sponsor-bg-1.jpg
@@ -18,52 +19,30 @@ jumbotron:
   title: Sponsor Connect
   title-class: big-title
   description: ""
-flow:
-  - row: custom_include_row
-    source: sponsorship_testimonials.html
-  - row: container_row
-    sections:
-      - feature_block_content:
-          buttons:
-            - icon: fa fa-envelope
-              title: Get in Touch
-              url: "mailto:connect@linaro.org"
-            - icon: fa fa-download
-              title: Download Prospectus
-              url: "https://linaro.co/prospectus"
-          position: left
-          slider_content:
-            dots: false
-            items:
-              - title: HGK18 Sponsor Photo
-                image: /assets/images/content/hkg18-sponsor-thumb-1.jpg
-              - title: YVR18 Sponsor Photo 1
-                image: /assets/images/content/yvr18-sponsor-thumb-1.jpg
-              - title: YVR18 Sponsor Photo 2
-                image: /assets/images/content/yvr18-sponsor-bg-2.jpg
-            lg_items: 1
-            lightbox_enabled: true
-            md_items: 1
-            nav: true
-            seconds_per_slide: 5
-            sm_items: 1
-            xs_items: 1
-          text: >-
-            Hundreds of the world’s leading Linux on
-            Arm developers come to Linaro Connect to share ideas with fellow
-            experts, plan future engineering work and learn what is going on in
-            the industry. Sponsorship of the event puts your brand in front of
-            all the event attendees – both the hundreds of attendees on-site as
-            well as the thousands who view the website and social media before,
-            during and after the event.
-
-
-            If you'd like to sponsor, have a look at our sponsorship options
-            below. Alternatively, if you have something specific in mind or
-            would like to create a custom package please get in touch!
-          title: Why sponsor Linaro Connect?
-          type: slider
-        format: feature_block
-  - row: custom_include_row
-    source: sponsorship_benefits.html
+flow: []
 ---
+**Why sponsor Linaro Connect?**
+
+\- Connect is the ONLY place where all of the Arm ecosystem - both hardware and software - come together.
+
+\-Raise your profile in front of hundreds of Open Source maintainers and engineers
+
+\-Put your brand in front of all the event attendees working on the latest Open Source software stacks and toolchains before during and after the event
+
+\-Promote your brand to highlight your technology, hardware, tools, services and other solutions.            
+
+\    
+
+**Statistics from the Previous Linaro Virtual Connect:**  
+
+\-1,500 registrations from over 100 companies in 30 countries
+
+\-4,295 session views and over 1,000 hours of content consumed during the 3 day event
+
+
+
+**Package options:** 
+
+We're offering 3 packages for LVC21: In USD: Gold ($10,000), Silver ($8,000), and Bronze ($6,000). 
+
+Please [download the prospectus](https://drive.google.com/drive/u/1/folders/1WoNuyYrbaNMTp5qF4hGSYvhxSf3dwsUx) to view the full package details.
