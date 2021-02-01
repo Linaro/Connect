@@ -18,6 +18,8 @@ pages:
         url: /schedule/
       - text: Call for Proposals
         url: /cfp/
+      - text: "Sponsor "
+        url: /sponsors/
   - active_paths:
       - /resources/
     options:
