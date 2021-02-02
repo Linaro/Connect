@@ -19,7 +19,8 @@ jumbotron:
   title: Sponsor Connect
   title-class: big-title
   description: ""
-flow: []
+flow:
+  - row: main_content_row
 ---
 **Why sponsor Linaro Connect?**
 
