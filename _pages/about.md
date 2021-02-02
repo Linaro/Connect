@@ -54,7 +54,7 @@ flow:
                   Chris Royston from Arm talking about the new revision of developer.arm.com
                   at Linaro Connect Bangkok 2019
           text: >
-            Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. To view slides or videos from the keynotes and sessions from previous Connects, please go to our [Resources page](/resources).
+            Every six months, over 300 of the world's leading open source engineers working on Arm get together for a full week of engineering sessions and hacking at Linaro Connect. To view slides or videos from the keynotes and sessions from previous Connects, please go to our [Resources page](/resources/).
       - item_width: 4
         block_section_content:
           blocks:
