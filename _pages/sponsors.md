@@ -32,7 +32,6 @@ flow:
 
 \-Promote your brand to highlight your technology, hardware, tools, services and other solutions.            
 
-\    
 
 **Statistics from the Previous Linaro Virtual Connect:**  
 
