@@ -13,9 +13,7 @@ speaker:
         (www.enterprise-iot.org). As Conference Chair of the Bosch ConnectedWorld, Dirk helps shaping the
         IoT strategy of Bosch. He holds an MBA from IMD Lausanne as well as a Diploma Degree in
         Computer Science from TU Berlin.
-image:
-  image: /assets/images/speakers/bkk19/keynotes/dirk-slama.jpg
-    featured: true
+image: /assets/images/speakers/bkk19/keynotes/dirk-slama.jpg
 event: BKK19
 # slot:
 #     day: Monday

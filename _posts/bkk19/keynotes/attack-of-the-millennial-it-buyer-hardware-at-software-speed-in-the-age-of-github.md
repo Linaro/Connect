@@ -11,9 +11,7 @@ speaker:
         At Packet, Jacob directs revenue marketing, ecosystem outreach, and strategic alliances. In 2017, he worked with Arm to create the WorksOnArm ecosystem enablement program.
 
         A classical bassoonist by training, Jacob performed as a professional opera musician and ran a digital marketing firm before starting Packet with his twin brother Zac in 2014. He lives in Vermont with his wife Meghan, and sons Rory and Duncan.
-image:
-  image: /assets/images/speakers/bkk19/keynotes/jacob-smith.jpg
-    featured: true
+image: /assets/images/speakers/bkk19/keynotes/jacob-smith.jpg
 event: BKK19
 description: >
     The emergence of a new Enterprise buyer aligns with a number of other shifts that are reshaping our $1 trillion technology ecosystem - the move to a disaggregated architecture, a rise in developer power, the growing influence of open source, and massive investments in silicon, data centers, and wireless. This talk will explore the opportunities and risks, and why ecosystem chops are more important than ever.
