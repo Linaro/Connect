@@ -2,11 +2,10 @@
 amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-316%20ARM%20Binary%20Translator%20-%20Towards%20a%2064bit%20Only%20World.mp4
 author: connect
 categories:
-  - sfo17
+- sfo17
 comments: false
 date: 2017-10-06 16:55:26
-excerpt:
-  Since the introduction of Armv8 and 64bit AArch64 architecture 2013, the
+excerpt: Since the introduction of Armv8 and 64bit AArch64 architecture 2013, the
   world has been gradually moving from adopting 64bit, to co-existence of 32bit/64bit,
   and to a 64bit only future. In this month, the official iOS 11 will be the first
   iOS with 64bit only support.  By June 2018, all apps in Mac Store must support 64bit
@@ -17,13 +16,13 @@ image: /assets/images/featured-images/SFO17-316.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-316/
 post_format:
-  - Video
+- Video
 session_id: SFO17-316
-session_track: Toolchain,Kernel
+session_track: Toolchain
 slug: sfo17-316
 speakers: Jun Sun
 title: Arm Binary Translator - Towards a 64bit Only World - SFO17-316
-video_length: "53:10"
+video_length: '53:10'
 video_thumbnail: None
 wordpress_id: 6033
 youtube_video_url: https://www.youtube.com/watch?v=X7hBsIP2eDw

@@ -3,7 +3,7 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-11-Wednesday/HKG15-308%20Kick-start%20your%2064-bit%20AOSP%20build%20engines.mp4
 author: connect
 categories:
-  - hkg15
+- hkg15
 comments: true
 date: 2015-04-23 15:36:45
 featured_image_name: HKG15-308.jpg
@@ -12,19 +12,19 @@ image: /assets/images/featured-images/HKG15-308.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-308-kick-start-your-64-bit-aosp-build-engines/
 post_format:
-  - Video
+- Video
 session_id: HKG15-308
-session_track: Other
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44413716
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15308-kickstart-your-64bit-aosp-build-engines
 slug: hkg15-308-kick-start-your-64-bit-aosp-build-engines
 speakers: Amit Pundir
 tags:
-  - Amit Pundir
-  - hkg15
-  - HKG15-308
-title: "HKG15-308: Kick-start your 64-bit AOSP build engines"
-video_length: "33:51"
+- Amit Pundir
+- hkg15
+- HKG15-308
+title: 'HKG15-308: Kick-start your 64-bit AOSP build engines'
+video_length: '33:51'
 video_thumbnail: None
 wordpress_id: 741
 youtube_video_url: https://www.youtube.com/watch?v=xTvpjwqYAEQ

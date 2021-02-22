@@ -3,11 +3,10 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-15-Monday/LCU14-101-%20Coresight%20Overview.mp4
 author: connect
 categories:
-  - lcu14
+- lcu14
 comments: true
 date: 2015-06-30 17:11:29
-excerpt:
-  Coresight is the name given to a set of IP blocks providing hardware assisted
+excerpt: Coresight is the name given to a set of IP blocks providing hardware assisted
   tracing for Arm based SoCs. This presentation will give an introduction to the technology,
   how it works and offer a glimpse of the capabilities it offers. More specifically
   we will go over the components that are part of the architecture and how they are
@@ -21,7 +20,7 @@ image: /assets/images/featured-images/LCU14-101.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-101-coresight-overview/
 post_format:
-  - Video
+- Video
 session_id: LCU14-101
 session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38845936
@@ -29,12 +28,12 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-101-cores
 slug: lcu14-101-coresight-overview
 speakers: Pancham Tumkur
 tags:
-  - lcu14
-  - LCU14-101
-  - Linux Kernel
-  - Pancham Tumkur
-title: "LCU14-101: Coresight Overview"
-video_length: "50:01"
+- lcu14
+- LCU14-101
+- Linux Kernel
+- Pancham Tumkur
+title: 'LCU14-101: Coresight Overview'
+video_length: '50:01'
 video_thumbnail: None
 wordpress_id: 1506
 youtube_video_url: https://www.youtube.com/watch?v=NzKPd3FByxI

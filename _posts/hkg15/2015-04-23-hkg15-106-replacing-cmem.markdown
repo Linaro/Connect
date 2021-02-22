@@ -3,11 +3,10 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-09-Monday/HKG15-106%20Replacing%20CMEM%20Meeting%20TI%27s%20SoC.mp4
 author: connect
 categories:
-  - hkg15
+- hkg15
 comments: true
 date: 2015-04-23 15:38:27
-excerpt:
-  "CMEM is an API and kernel driver for managing one or more blocks of physically
+excerpt: "CMEM is an API and kernel driver for managing one or more blocks of physically
   contiguous memory. It also provides address translation services (e.g. virtual to
   physical translation) and user-mode cache management APIs. \nSee : http://processors.wiki.ti.com/index.php/CMEM_Overview\nCMEM
   allows TI to share buffers between user space (Arm) and the DSP (or other remote
@@ -24,18 +23,18 @@ image: /assets/images/featured-images/HKG15-106.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-106-replacing-cmem/
 post_format:
-  - Video
+- Video
 session_id: HKG15-106
-session_track: Other
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44452315
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15106-replacing-cmem-meeting-tis-soc-shared-buffer-allocation-management-and-address-translation-requirements
 slug: hkg15-106-replacing-cmem
 speakers: None
 tags:
-  - hkg15
-  - HKG15-106
-title: "HKG15-106: Replacing CMEM"
-video_length: "50:26"
+- hkg15
+- HKG15-106
+title: 'HKG15-106: Replacing CMEM'
+video_length: '50:26'
 video_thumbnail: None
 wordpress_id: 707
 youtube_video_url: https://www.youtube.com/watch?v=j0BhqQlOPQ0

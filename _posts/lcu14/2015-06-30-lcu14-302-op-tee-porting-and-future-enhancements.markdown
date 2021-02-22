@@ -3,11 +3,10 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-17-Wednesday/LCU14-302-%20OP-TEE%20Porting%20and%20Future%20Enhancements.mp4
 author: connect
 categories:
-  - lcu14
+- lcu14
 comments: true
 date: 2015-06-30 17:08:29
-excerpt:
-  OP-TEE (Open Portable Trusted Execution Environment) is the source code for
+excerpt: OP-TEE (Open Portable Trusted Execution Environment) is the source code for
   the TEE in Linux using the Arm Trustzone technology. This component meets the Global
   Platform TEE System Architecture specification. Most of the code is generic. However,
   a number of platform specific characteristics are addressed, such as memory layout
@@ -26,12 +25,12 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-302-how-t
 slug: lcu14-302-op-tee-porting-and-future-enhancements
 speakers: Sun Yangbang
 tags:
-  - lcu14
-  - LCU14-302
-  - Security
-  - Sun Yangbang
-title: "LCU14-302: OP-TEE Porting and Future Enhancements"
-video_length: "51:51"
+- lcu14
+- LCU14-302
+- Security
+- Sun Yangbang
+title: 'LCU14-302: OP-TEE Porting and Future Enhancements'
+video_length: '51:51'
 video_thumbnail: None
 wordpress_id: 1538
 youtube_video_url: https://www.youtube.com/watch?v=QgaGJow7hws

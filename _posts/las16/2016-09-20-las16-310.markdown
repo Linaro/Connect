@@ -17,7 +17,7 @@ link: http://connect.linaro.org/resource/las16/las16-310/
 post_format:
 - Video
 session_id: LAS16-310
-session_track: LHG
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357599
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16310-introducing-the-first-96boards-tv-platform-poplar-by-hisilicon
 slug: las16-310

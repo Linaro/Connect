@@ -22,7 +22,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-122/
 post_format:
 - Video
 session_id: BUD17-122
-session_track: QA
+session_track: Automation & CI
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72785944
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17122-linaro-test-suites-example-usage
 slug: bud17-122

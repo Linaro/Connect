@@ -35,7 +35,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-417/
 post_format:
 - Video
 session_id: SFO17-417
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80298586
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/using-math-to-prevent-linux-in-your-car-from-killing-you-the-open-source-sel4-kernel-sfo17417
 slug: sfo17-417

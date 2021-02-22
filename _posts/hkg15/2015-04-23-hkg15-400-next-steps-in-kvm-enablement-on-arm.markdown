@@ -2,7 +2,7 @@
 amazon_s3_presentation_url: None
 author: connect
 categories:
-  - hkg15
+- hkg15
 comments: true
 date: 2015-04-23 15:36:29
 featured_image_name: HKG15-400.jpg
@@ -11,18 +11,18 @@ image: /assets/images/featured-images/HKG15-400.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-400-next-steps-in-kvm-enablement-on-arm/
 post_format:
-  - Video
+- Video
 session_id: HKG15-400
 session_track: Virtualization
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/45178884
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15400-next-steps-in-kvm-enablement-on-arm
 slug: hkg15-400-next-steps-in-kvm-enablement-on-arm
 tags:
-  - hkg15
-  - HKG15-400
-  - Virtualization
-title: "HKG15-400: Next steps in KVM enablement on Arm"
-video_length: "50:36"
+- hkg15
+- HKG15-400
+- Virtualization
+title: 'HKG15-400: Next steps in KVM enablement on Arm'
+video_length: '50:36'
 video_thumbnail: None
 wordpress_id: 747
 youtube_video_url: https://www.youtube.com/watch?v=g8noeSpWVDY

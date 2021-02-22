@@ -3,11 +3,10 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Tuesday/BUD17-201%20ARM%20Server%20Standards%20%20The%20Next%20Generation.mp4
 author: connect
 categories:
-  - bud17
+- bud17
 comments: false
 date: 2017-02-28 12:05:30
-excerpt:
-  We have recently achieved a critical milestone of having core enablement
+excerpt: We have recently achieved a critical milestone of having core enablement
   for SBSA (Server Base System Architecture) and SBBR (Server Base Boot Requirements)
   in upstream kernels "out of the box". These initial standards address minimal functionality
   and will soon undergo additional development as we seek to cover more complex use
@@ -20,18 +19,18 @@ image: /assets/images/featured-images/BUD17-201.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-201/
 post_format:
-  - Video
+- Video
 session_id: BUD17-201
-session_track: LEG
+session_track: Enterprise
 slideshare_presentation_url: None
 slug: bud17-201
 speakers: Jon Masters
 tags:
-  - Arm
-  - Server
-  - server-standards
-title: "BUD17-201 - Arm Server Standards: The Next Generation - BUD17-201"
-video_length: "26:49"
+- Arm
+- Server
+- server-standards
+title: 'BUD17-201 - Arm Server Standards: The Next Generation - BUD17-201'
+video_length: '26:49'
 video_thumbnail: None
 wordpress_id: 4640
 youtube_video_url: https://youtu.be/c592IkfWp7w

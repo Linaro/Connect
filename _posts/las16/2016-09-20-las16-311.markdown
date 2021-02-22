@@ -22,7 +22,7 @@ link: http://connect.linaro.org/resource/las16/las16-311/
 post_format:
 - Video
 session_id: LAS16-311
-session_track: Core Development
+session_track: Linux Kernel
 slideshare_presentation_url: None
 slug: las16-311
 speakers: Vikram Mulukutla

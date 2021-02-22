@@ -10,14 +10,14 @@ session_id: HKG18-TC08
 session_track: Tools
 slug: hkg18-tc08
 speakers: Ramana Radhakrishnan
-title: "HKG18-TC08 - TCWG Hacking Topics: Pointer signing in Armv8.3-A"
+title: 'HKG18-TC08 - TCWG Hacking Topics: Pointer signing in Armv8.3-A'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 9292
 categories:
-  - hkg18
+- hkg18
 post_format:
-  - Video
+- Video
 ---
 
 Session ID: HKG18-TC08

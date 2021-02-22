@@ -3,11 +3,10 @@ amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentation
 amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Wednesday/Bud17-301%20KVM%20%20ARM%20Nested%20Virtualization.mp4
 author: connect
 categories:
-  - bud17
+- bud17
 comments: false
 date: 2017-02-28 12:05:39
-excerpt:
-  Nested virtualization, the ability to run a virtual machine inside another
+excerpt: Nested virtualization, the ability to run a virtual machine inside another
   virtual machine, is increasingly important because of the need to deploy virtual
   machines running software stacks on top of virtualized cloud infrastructure, as
   well as for prototyping and testing. As Arm servers make inroads in various deployment
@@ -25,7 +24,7 @@ image: /assets/images/featured-images/BUD17-301.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-301/
 post_format:
-  - Video
+- Video
 session_id: BUD17-301
 session_track: Virtualization
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786421
@@ -33,9 +32,9 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17301-zenos
 slug: bud17-301
 speakers: Christoffer Dall
 tags:
-  - Arm
-  - KVM
-  - Virtualization
+- Arm
+- KVM
+- Virtualization
 title: KVM/Arm Nested Virtualization - BUD17-301
 video_length: 00:00
 video_thumbnail: None

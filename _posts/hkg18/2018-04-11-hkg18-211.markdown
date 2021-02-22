@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-211/
 post_format:
 - Video
 session_id: HKG18-211
-session_track: Mobile
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/91396427
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18211-android-common-kernel-and-out-of-mainline-patchset-status
 slug: hkg18-211

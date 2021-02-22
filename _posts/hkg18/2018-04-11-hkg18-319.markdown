@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-319/
 post_format:
 - Video
 session_id: HKG18-319
-session_track: LEG
+session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92327228
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18319-dr-tao-wang-gcc-step-into-green-computing-cornsortium
 slug: hkg18-319

@@ -6,14 +6,15 @@ categories:
 - las16
 comments: false
 date: 2016-09-20 17:10:34
-excerpt: "Arm mbed OS is an open source embedded operating system designed\nspecifically
-  for the \u201Cthings\u201D in the Internet of Things. It includes all the features
+excerpt: 'Arm mbed OS is an open source embedded operating system designed
+
+  specifically for the “things” in the Internet of Things. It includes all the features
   you need to develop a connected product based on very small memory footprint Arm
   Cortex-M microcontrollers, including security,connectivity, an RTOS, and drivers
   for sensors and I/O devices. You can start developing with mbed OS 5.1.0 today using
   a choice of 40 different development boards from 11 different providers and a wide
   choice of toolchains including a complete command line build management and configuration
-  tool mbed CLI, industry standard desktop IDEs or Arm\u2019s free online IDE."
+  tool mbed CLI, industry standard desktop IDEs or Arm’s free online IDE.'
 featured_image_name: LAS16-112.png
 image_name: LAS16-112.png
 image: /assets/images/featured-images/LAS16-112.png
@@ -22,7 +23,7 @@ link: http://connect.linaro.org/resource/las16/las16-112/
 post_format:
 - Video
 session_id: LAS16-112
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66443081
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16112-mbed-os-technical-overview
 slug: las16-112

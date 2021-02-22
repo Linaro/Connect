@@ -3,11 +3,10 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: None
 author: connect
 categories:
-  - hkg18
+- hkg18
 comments: false
 date: 2018-04-11 14:14:39
-excerpt:
-  An overview of Fedora Atomic for IoT running on Arm (aarch64 and Armv7) platforms
+excerpt: An overview of Fedora Atomic for IoT running on Arm (aarch64 and Armv7) platforms
   acting as a gateway to Zephyr devices. An overview of atomic and how OSTree, the
   underlying technology of Fedora Atomic, makes IoT useful for stress free upgrades.
 featured_image_name: HKG18-508.png
@@ -16,13 +15,13 @@ image: /assets/images/featured-images/HKG18-508.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-508/
 post_format:
-  - Video
+- Video
 session_id: HKG18-508
-session_track: IoT, Embedded
+session_track: Embedded
 slug: hkg18-508
 speakers: Peter Robinson
 title: HKG18-508 - An overview of Fedora Atomic for IoT running on Arm
-video_length: "24:03"
+video_length: '24:03'
 video_thumbnail: None
 wordpress_id: 8845
 youtube_video_url: https://www.youtube.com/watch?v=tp_9C_VDbzY

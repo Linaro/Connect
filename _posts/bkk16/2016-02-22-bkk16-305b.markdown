@@ -17,7 +17,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-305b/
 post_format:
 - Video
 session_id: BKK16-305B
-session_track: LEG
+session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59658885
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16305b-ilp32-performance-on-aarch64
 slug: bkk16-305b

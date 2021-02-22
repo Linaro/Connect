@@ -3,11 +3,10 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-09-Monday/HKG15-103%20OpenEmbedded%20BoF.mp4
 author: connect
 categories:
-  - hkg15
+- hkg15
 comments: true
 date: 2015-04-23 15:38:26
-excerpt:
-  In this BoF (birds of a feather) session we welcome general questions about
+excerpt: In this BoF (birds of a feather) session we welcome general questions about
   OE in general and the meta-linaro layer. The discussion will focus on Linaro
 featured_image_name: HKG15-103.jpg
 image_name: HKG15-103.jpg
@@ -15,7 +14,7 @@ image: /assets/images/featured-images/HKG15-103.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-103-openembedded-bof/
 post_format:
-  - Video
+- Video
 session_id: HKG15-103
 session_track: Builds & Baselines
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44403639
@@ -23,12 +22,12 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15-103-open-
 slug: hkg15-103-openembedded-bof
 speakers: Trevor Woerner
 tags:
-  - Builds &amp; Baselines
-  - hkg15
-  - HKG15-103
-  - Trevor Woerner
-title: "HKG15-103: OpenEmbedded BoF"
-video_length: "48:11"
+- Builds &amp; Baselines
+- hkg15
+- HKG15-103
+- Trevor Woerner
+title: 'HKG15-103: OpenEmbedded BoF'
+video_length: '48:11'
 video_thumbnail: None
 wordpress_id: 704
 youtube_video_url: https://www.youtube.com/watch?v=fDJm8ckzh20

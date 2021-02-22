@@ -6,11 +6,11 @@ categories:
 - hkg18
 comments: false
 date: 2018-04-11 14:11:54
-excerpt: "Today\u2019s world of devices connected to clouds looks set to evolve with
-  more intelligence and processing being pushed to the edge or migrating between the
-  cloud and the edge. The very definition of edge is evolving too. In this presentation
+excerpt: Today’s world of devices connected to clouds looks set to evolve with more
+  intelligence and processing being pushed to the edge or migrating between the cloud
+  and the edge. The very definition of edge is evolving too. In this presentation
   we will look at some potential futures made possible by the emergence of the fog
-  and its implications for the segments that it embraces."
+  and its implications for the segments that it embraces.
 featured_image_name: HKG18-200K1.png
 image_name: HKG18-200K1.png
 image: /assets/images/featured-images/HKG18-200K1.png
@@ -19,7 +19,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-200k1/
 post_format:
 - Video
 session_id: HKG18-200K1
-session_track: Keynote
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92320882
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18200k1-keynote-mark-hambleton-the-fog
 slug: hkg18-200k1
@@ -29,6 +29,8 @@ video_length: '27:02'
 video_thumbnail: None
 wordpress_id: 8732
 youtube_video_url: https://www.youtube.com/watch?v=PG588wXC-CY
+tags:
+- Keynote
 ---
 
 Session ID: HKG18-200K1

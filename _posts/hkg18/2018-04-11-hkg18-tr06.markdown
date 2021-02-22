@@ -10,14 +10,14 @@ session_id: HKG18-TR06
 session_track: Tools
 slug: hkg18-tr06
 speakers: Renato Golin
-title: "HKG18-TR06 - TCWG Hacking Topics: Code quality checkers"
+title: 'HKG18-TR06 - TCWG Hacking Topics: Code quality checkers'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 9298
 categories:
-  - hkg18
+- hkg18
 post_format:
-  - Video
+- Video
 ---
 
 Session ID: HKG18-TR06

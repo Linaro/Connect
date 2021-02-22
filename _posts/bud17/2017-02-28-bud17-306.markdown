@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-306/
 post_format:
 - Video
 session_id: BUD17-306
-session_track: Other
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73170768
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17306-odp-ipsec-offload-panel
 slug: bud17-306

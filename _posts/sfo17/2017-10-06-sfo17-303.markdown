@@ -19,7 +19,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-303/
 post_format:
 - Video
 session_id: SFO17-303
-session_track: LNG
+session_track: IoT Fog/Gateway/Edge Computing
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79885322
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/a-modular-framework-for-componentization-sfo17303
 slug: sfo17-303

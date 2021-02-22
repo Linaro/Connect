@@ -13,7 +13,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-111/
 post_format:
 - Video
 session_id: BUD17-111
-session_track: LNG
+session_track: IoT Fog/Gateway/Edge Computing
 slideshare_presentation_url: None
 slug: bud17-111
 speakers: None

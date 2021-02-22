@@ -21,20 +21,19 @@ excerpt: "The current trend of IoT market segment is expected to enable and depl
   to the user Applications. This poses a serious issue and challenges the one-size
   fits all RoT solution model.\n \n Arm has taken on this challenge head on to come
   up with a microcontroller security architecture solution that caters to the various
-  IoT devices constraints, by offering Arm Cortex-M family of processors. Arm\u2019s
-  flexible and scalable architecture solution will allow an OEM or Silicon partner
-  to adapt the base security architecture and to extend it in a seamless way. This
-  caters to the requirements of different market segments through add-on hardware,
-  firmware and software security enhancements. \n \n The session will present the
-  Arm\u2019s base security system and software architecture based on the upcoming
-  Cortex V8M solution that will provide a hardware and firmware assisted Trust Zone
-  based Security RoT aka TBSA-M for a range of markets, to include the highly constrained
-  IoT devices. Furthermore, the session will discuss about how the base RoT capability
-  can be extended in a seamless way with additional hardware assisted mechanisms to
-  offer high levels of functionality and/or robustness for less constrained IoT devises
-  with options like TBSA-M+, TBSA-HSM and platform level security software abstraction
-  framework to decouple the chosen RoT capability for various OSes and the Cloud security
-  frameworks."
+  IoT devices constraints, by offering Arm Cortex-M family of processors. Arm’s flexible
+  and scalable architecture solution will allow an OEM or Silicon partner to adapt
+  the base security architecture and to extend it in a seamless way. This caters to
+  the requirements of different market segments through add-on hardware, firmware
+  and software security enhancements. \n \n The session will present the Arm’s base
+  security system and software architecture based on the upcoming Cortex V8M solution
+  that will provide a hardware and firmware assisted Trust Zone based Security RoT
+  aka TBSA-M for a range of markets, to include the highly constrained IoT devices.
+  Furthermore, the session will discuss about how the base RoT capability can be extended
+  in a seamless way with additional hardware assisted mechanisms to offer high levels
+  of functionality and/or robustness for less constrained IoT devises with options
+  like TBSA-M+, TBSA-HSM and platform level security software abstraction framework
+  to decouple the chosen RoT capability for various OSes and the Cloud security frameworks."
 featured_image_name: SFO17-304.jpg
 image_name: SFO17-304.jpg
 image: /assets/images/featured-images/SFO17-304.jpg
@@ -43,7 +42,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-304/
 post_format:
 - Video
 session_id: SFO17-304
-session_track: LHG,LITE
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/83555369
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/sfo17-304-demystifying-ro-tfinallc-83555369
 slug: sfo17-304

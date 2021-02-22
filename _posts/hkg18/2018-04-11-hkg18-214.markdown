@@ -3,11 +3,10 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-214.mp4
 author: connect
 categories:
-  - hkg18
+- hkg18
 comments: false
 date: 2018-04-11 14:11:54
-excerpt:
-  As a Common Accelerator Framework for User Space Applications was brought
+excerpt: As a Common Accelerator Framework for User Space Applications was brought
   up at last Connect SFO 2017 by Kenneth Lee, we have done a series of work to support
   user applications better. DMA mapping for accelerators in multiple processes and
   SVM(Share Virtual Memory) without page fault are running okay on our D06 board,
@@ -22,15 +21,15 @@ image: /assets/images/featured-images/HKG18-214.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-214/
 post_format:
-  - Video
+- Video
 session_id: HKG18-214
-session_track: Networking
+session_track: IoT Fog/Gateway/Edge Computing
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/93548001
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18-214-progress-of-wrapdrive
 slug: hkg18-214
 speakers: Zaibo Xu
 title: HKG18-214 - Progress of WrapDrive
-video_length: "26:32"
+video_length: '26:32'
 video_thumbnail: None
 wordpress_id: 8752
 youtube_video_url: https://www.youtube.com/watch?v=TCHck3XRZxo

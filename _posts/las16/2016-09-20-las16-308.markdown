@@ -6,7 +6,7 @@ categories:
 - las16
 comments: false
 date: 2016-09-20 17:10:51
-excerpt: "For connected embedded systems we can broadly consider security across four
+excerpt: 'For connected embedded systems we can broadly consider security across four
   different areas: Security within a cloud application/platform. Lifecycle security
   for large deployments of embedded devices. Communication security between internet
   connected systems. Local device security implemented within end nodes. Each connected
@@ -14,13 +14,13 @@ excerpt: "For connected embedded systems we can broadly consider security across
   according to application needs. It is not scalable (or secure or productive) to
   start from scratch, implementing all of these aspects for each development. It is
   also not a good idea to implement static, closed, proprietary security systems which
-  rely more on \u201Csecurity by obscurity\u201D than on thorough, continuous and
-  open validation of security implementations. Developers need comprehensive and flexible
-  SW security frameworks with strong links to MCU HW security features that enable
-  them to efficiently implement, validate and deploy \u201Cright sized\u201D security
-  solutions. This session will discuss the solutions that are available today, how
-  to reason effectively about application security requirements and opportunities
-  to evolve embedded security solutions in the future."
+  rely more on “security by obscurity” than on thorough, continuous and open validation
+  of security implementations. Developers need comprehensive and flexible SW security
+  frameworks with strong links to MCU HW security features that enable them to efficiently
+  implement, validate and deploy “right sized” security solutions. This session will
+  discuss the solutions that are available today, how to reason effectively about
+  application security requirements and opportunities to evolve embedded security
+  solutions in the future.'
 featured_image_name: LAS16-308.png
 image_name: LAS16-308.png
 image: /assets/images/featured-images/LAS16-308.png
@@ -29,7 +29,7 @@ link: http://connect.linaro.org/resource/las16/las16-308/
 post_format:
 - Video
 session_id: LAS16-308
-session_track: Mini-Conference
+session_track: None/Other
 slideshare_presentation_url: None
 slug: las16-308
 speakers: Paul Bakker

@@ -25,11 +25,11 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-215/
 post_format:
 - Video
 session_id: HKG18-215
-session_track: Mobile
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/91396433
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18215-aosp-toolchains-where-we-are-with-building-kernels-bootloaders-and-aosp-with-clang
 slug: hkg18-215
-speakers: "Bernhard \"Bero\" Rosenkr\xE4nzer,Minseong Kim"
+speakers: Bernhard "Bero" Rosenkränzer,Minseong Kim
 title: 'HKG18-215 - AOSP Toolchains: Where we are with building kernels, bootloaders
   and AOSP with Clang'
 video_length: '21:55'

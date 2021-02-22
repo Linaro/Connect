@@ -11,14 +11,14 @@ date: 2015-09-22 00:00:00
 excerpt: "In this session, Tim Bird will discuss the mainline status of several Arm
   SoCs used in mobile products. The average phone uses kernel software that is 3 years
   old, 20 versions behind mainline, and has 1 to 3 million lines of code out-of-tree.
-  Tim will describe the \u201CDevice Mainlining\u201D project of the Linux Foundation
-  CE Workgroup, which seeks to address this problem. Some of the activities of this
-  project are: \n* publishing tools for mainline analysis \n* finding big areas where
-  multiple vendors have code out of tree \n* identifying institutional barriers to
-  corporate developer mainlining, and addressing them through education, training,
-  and collaboration \n* working with upstream to address deficient sub-systems or
-  needed maintainer assistance\n\nIt is hoped that discussion will ensue about ways
-  to continue enhancing this work, to get more SoC code mainlined."
+  Tim will describe the “Device Mainlining” project of the Linux Foundation CE Workgroup,
+  which seeks to address this problem. Some of the activities of this project are:
+  \n* publishing tools for mainline analysis \n* finding big areas where multiple
+  vendors have code out of tree \n* identifying institutional barriers to corporate
+  developer mainlining, and addressing them through education, training, and collaboration
+  \n* working with upstream to address deficient sub-systems or needed maintainer
+  assistance\n\nIt is hoped that discussion will ensue about ways to continue enhancing
+  this work, to get more SoC code mainlined."
 featured_image_name: SFO15210KernelMainlineStatusofMobileChipsets.jpg
 image_name: SFO15210KernelMainlineStatusofMobileChipsets.jpg
 image: /assets/images/featured-images/SFO15210KernelMainlineStatusofMobileChipsets.jpg
@@ -27,7 +27,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-210-kernel-mainline-status-
 post_format:
 - Video
 session_id: None
-session_track: Kernel
+session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53082150
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15210-kernel-mainline-status-of-mobile-chipsets
 slug: sfo15-210-kernel-mainline-status-of-mobile-chipsets

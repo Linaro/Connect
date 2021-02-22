@@ -4,27 +4,26 @@ amazon_s3_video_url: None
 author: connect
 comments: false
 date: 2018-04-11 14:16:35+00:00
-excerpt: "- What are the missing pieces?
+excerpt: '- What are the missing pieces?
 
   - What is the state of the Security WG ION work?
 
-  - How to deploy the solutions in real devices. What to think about (licenses)?"
+  - How to deploy the solutions in real devices. What to think about (licenses)?'
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-hk-10/
 session_id: HKG18-HK-10
 session_track: Security
 slug: hkg18-hk-10
 speakers: Peter Griffin
-title:
-  "HKG18-HK-10 - SWG Hacking: LHG PlayReady/Widevine integrations on Android
-  and Linux"
+title: 'HKG18-HK-10 - SWG Hacking: LHG PlayReady/Widevine integrations on Android
+  and Linux'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 9300
 categories:
-  - hkg18
+- hkg18
 post_format:
-  - Video
+- Video
 ---
 
 Session ID: HKG18-HK-10

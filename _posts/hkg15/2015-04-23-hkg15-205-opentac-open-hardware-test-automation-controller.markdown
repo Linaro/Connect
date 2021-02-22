@@ -17,7 +17,7 @@ excerpt: 'Power distribution automation and serial console controller on an Arm 
   the 4 channel variant for a small Arm server (e.g. cubietruck) with a SATA drive,
   making it ideal as a desktop or demonstrator unit. http://wiki.vero-apparatus.com/OpenTAC
 
-'
+  '
 featured_image_name: HKG15-205.jpg
 image_name: HKG15-205.jpg
 image: /assets/images/featured-images/HKG15-205.jpg
@@ -26,7 +26,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-205-opentac-open-hardware-t
 post_format:
 - Video
 session_id: HKG15-205
-session_track: LAVA, Validation
+session_track: LAVA
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44417836
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15205-opentac-open-hardware-test-automation-controller
 slug: hkg15-205-opentac-open-hardware-test-automation-controller

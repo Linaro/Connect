@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-309b/
 post_format:
 - Video
 session_id: BKK16-309B
-session_track: LEG
+session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59679382
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16-309b-enterprise-firmware-the-gold-standard-and-how-to-get-there
 slug: bkk16-309b

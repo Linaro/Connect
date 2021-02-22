@@ -20,14 +20,13 @@ excerpt: "\"Delivering a well working distribution is hard. There are a lot of d
   what pitfalls we had to make Arm work with OpenQA and what we're doing to improve
   it for Arm specific use cases.\""
 featured_image_file_name: BUD17-113.jpg
-image:
 image: /assets/images/featured-images/BUD17-113.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-113/
 post_format:
 - Video
 session_id: BUD17-113
-session_track: LEG
+session_track: Enterprise
 slug: bud17-113
 speakers: Alexander Graf
 title: Distribution CI using QEMU and OpenQA - BUD17-113

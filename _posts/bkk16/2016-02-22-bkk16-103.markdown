@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-103/
 post_format:
 - Video
 session_id: BKK16-103
-session_track: Kernel
+session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58769780
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16103-opencsd-open-for-business
 slug: bkk16-103

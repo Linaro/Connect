@@ -15,13 +15,13 @@ link: http://connect.linaro.org/resource/bud17/demo/bud17-df09/
 post_format:
 - Video
 session_id: BUD17-DF09
-session_track: OpenCV & Robot Framework
+session_track: Open Source Development
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73368527
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/opencv-robot-framework
 slug: bud17-df09
 speakers: LHG
 title: OpenCV & Robot Framework-BUD17-DF09
-video_length: "03:57"
+video_length: 03:57
 video_thumbnail: None
 wordpress_id: 5656
 youtube_video_url: https://www.youtube.com/watch?v=_eklI09Vmi8

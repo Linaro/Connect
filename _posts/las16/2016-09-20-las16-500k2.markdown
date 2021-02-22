@@ -32,13 +32,14 @@ link: http://connect.linaro.org/resource/las16/las16-500k2/
 post_format:
 - Video
 session_id: LAS16-500K2
-session_track: Keynote
+session_track: None/Other
 slideshare_presentation_url: None
 slug: las16-500k2
 speakers: Jono Bacon
 tags:
+- Keynote
 - Community
-title: "LAS16-500K2: Community Management \u2013 Jono Bacon"
+title: 'LAS16-500K2: Community Management – Jono Bacon'
 video_length: '36:30'
 video_thumbnail: None
 wordpress_id: 3856

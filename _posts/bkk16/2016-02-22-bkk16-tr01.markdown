@@ -1,10 +1,10 @@
 ---
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:58
-excerpt: "FLOSS - Free / Libre Open Source Software What _is_ \u201Cthe community\u201D?
-  What do they want from you? What do you get in return?"
+excerpt: FLOSS - Free / Libre Open Source Software What _is_ “the community”? What
+  do they want from you? What do you get in return?
 featured_image_name: BKK16-TR01.jpg
 image: /assets/images/featured-images/BKK16-TR01.jpg
 layout: resource-post

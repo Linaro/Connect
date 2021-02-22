@@ -17,7 +17,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-101/
 post_format:
 - Video
 session_id: SFO17-101
-session_track: LHG
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79808073
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/uhd-and-hdr-sfo17101
 slug: sfo17-101

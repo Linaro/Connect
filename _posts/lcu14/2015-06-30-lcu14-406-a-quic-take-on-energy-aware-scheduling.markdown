@@ -3,18 +3,17 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-18-Thursday/LCU14-406-%20A%20QuIC%20Take%20on%20Energy-Aware%20Scheduling.mp4
 author: connect
 categories:
-  - lcu14
+- lcu14
 comments: true
 date: 2015-06-30 17:08:26
-excerpt:
-  "Task scheduling on big.Little targets is a known challenge in the community.
-  A commercial grade solution exists with Arm's Global Task Scheduler and there is
+excerpt: 'Task scheduling on big.Little targets is a known challenge in the community.
+  A commercial grade solution exists with Arm''s Global Task Scheduler and there is
   a second solution being developed by Arm to solve this problem in a more generic,
   upstream-friendly way. The HMP scheduler extensions developed at Qualcomm Innovation
   Center (QuIC) were created to achieve many of the same benefits being sought in
   the power-aware scheduler in current development upstream, along with perhaps some
   additional ones. This presentation will cover the features, design and status of
-  QuIC's HMP scheduler extensions.
+  QuIC''s HMP scheduler extensions.
 
 
   Some areas of interest from Arm-Linaro perspective:
@@ -26,7 +25,7 @@ excerpt:
 
   - Pain points from an upstream integration PoV.
 
-  - Results, if any."
+  - Results, if any.'
 featured_image_name: LCU14-406.jpg
 image_name: LCU14-406.jpg
 image: /assets/images/featured-images/LCU14-406.jpg
@@ -39,12 +38,12 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-406-a-qui
 slug: lcu14-406-a-quic-take-on-energy-aware-scheduling
 speakers: Stephen Muckle
 tags:
-  - lcu14
-  - LCU14-406
-  - Power Management
-  - Stephen Muckle
-title: "LCU14-406: A QuIC Take on Energy-Aware Scheduling"
-video_length: "53:26"
+- lcu14
+- LCU14-406
+- Power Management
+- Stephen Muckle
+title: 'LCU14-406: A QuIC Take on Energy-Aware Scheduling'
+video_length: '53:26'
 video_thumbnail: None
 wordpress_id: 1556
 youtube_video_url: https://www.youtube.com/watch?v=2xb0vOV-E6E

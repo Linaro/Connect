@@ -14,10 +14,11 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-500k3-guest-keynote-securit
 post_format:
 - Video
 session_id: None
-session_track: Keynote
+session_track: None/Other
 slug: sfo15-500k3-guest-keynote-security-panel
 speakers: Grant Likely
 tags:
+- Keynote
 - Arm
 - Linaro
 - Linux

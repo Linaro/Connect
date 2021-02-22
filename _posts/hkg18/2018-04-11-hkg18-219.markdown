@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-219/
 post_format:
 - Video
 session_id: HKG18-219
-session_track: IoT, Security
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/91396451
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18219-threat-modeling-for-iot
 slug: hkg18-219

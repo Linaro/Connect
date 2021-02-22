@@ -6,15 +6,15 @@ categories:
 - las16
 comments: false
 date: 2016-09-20 17:10:51
-excerpt: "In composing RTOS-based images to run on embedded systems, there are number
+excerpt: In composing RTOS-based images to run on embedded systems, there are number
   of different issues that come into play that are different from building a root
   fs for Linux. Issues such as how third-party libraries and code link with the OS,
   how we pull down the code, etc. Additionally, such systems may also need to support
   the creation of filesystem-based images. There are several options that exist today
-  (\u201Cnewt\" - a tool from the Apache Mynewt project in the Apache Software Foundation;
-  \u201Cyotta\" - from Arm mbed; the Yocto Project; and more). This session will discuss
+  (“newt" - a tool from the Apache Mynewt project in the Apache Software Foundation;
+  “yotta" - from Arm mbed; the Yocto Project; and more). This session will discuss
   required features, compare and contrast project approaches, and potential additions
-  and changes that are needed in this space."
+  and changes that are needed in this space.
 featured_image_name: LAS16-304.png
 image_name: LAS16-304.png
 image: /assets/images/featured-images/LAS16-304.png
@@ -23,7 +23,7 @@ link: http://connect.linaro.org/resource/las16/las16-304/
 post_format:
 - Video
 session_id: LAS16-304
-session_track: Mini-Conference
+session_track: None/Other
 slideshare_presentation_url: None
 slug: las16-304
 speakers: None

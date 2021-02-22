@@ -6,11 +6,11 @@ categories:
 - sfo17
 comments: false
 date: 2017-10-06 16:55:58
-excerpt: "ION has undergone a lot of change upstream in its bid to be de-staged. We\u2019d
-  give a brief update on what\u2019s changed, the proposed libion changes, and then
-  we\u2019d like to discuss:\n - [Actionable] feedback from members about what additional
-  features does the upstream ION need to still support\n - How can we encourage them
-  to submit changes\n - Any other ideas around ION in mainline."
+excerpt: "ION has undergone a lot of change upstream in its bid to be de-staged. We’d
+  give a brief update on what’s changed, the proposed libion changes, and then we’d
+  like to discuss:\n - [Actionable] feedback from members about what additional features
+  does the upstream ION need to still support\n - How can we encourage them to submit
+  changes\n - Any other ideas around ION in mainline."
 featured_image_name: SFO17-412.jpg
 image_name: SFO17-412.jpg
 image: /assets/images/featured-images/SFO17-412.jpg
@@ -19,7 +19,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-412/
 post_format:
 - Video
 session_id: SFO17-412
-session_track: LMG
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80643745
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bof-ion-sfo17412
 slug: sfo17-412

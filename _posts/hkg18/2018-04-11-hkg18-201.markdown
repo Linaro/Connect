@@ -24,7 +24,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-201/
 post_format:
 - Video
 session_id: HKG18-201
-session_track: Mobile
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/91396363
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18201-lkft-remote-labs
 slug: hkg18-201

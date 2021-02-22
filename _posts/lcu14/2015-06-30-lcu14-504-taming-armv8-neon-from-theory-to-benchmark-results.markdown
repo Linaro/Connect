@@ -2,11 +2,10 @@
 amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-19-Friday/LCU14-504-%20Taming%20ARMv8%20NEON-%20from%20theory%20to%20benchmark%20results.mp4
 author: connect
 categories:
-  - lcu14
+- lcu14
 comments: true
 date: 2015-06-30 17:07:34
-excerpt:
-  Making NEON shine simply requires following a few tips. In this presentation,
+excerpt: Making NEON shine simply requires following a few tips. In this presentation,
   I'll first introduce NEON and do a comparison between Armv8 and Armv7 NEON before
   we explore the key factors to a successful use of NEON. I'll present work I've done
   on the Skia graphics library (used in Chromium, Firefox, Android) and share a number
@@ -17,16 +16,16 @@ image: /assets/images/featured-images/LCU14-504.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-504-taming-armv8-neon-from-theory-to-benchmark-results/
 session_id: LCU14-504
-session_track: Android
+session_track: Android Ecosystem
 slug: lcu14-504-taming-armv8-neon-from-theory-to-benchmark-results
 speakers: Kevin Petit
 tags:
-  - Android
-  - Kevin Petit
-  - lcu14
-  - LCU14-504
-title: "LCU14-504: Taming Armv8 NEON: from theory to benchmark results"
-video_length: "41:26"
+- Android
+- Kevin Petit
+- lcu14
+- LCU14-504
+title: 'LCU14-504: Taming Armv8 NEON: from theory to benchmark results'
+video_length: '41:26'
 video_thumbnail: None
 wordpress_id: 1565
 youtube_video_url: https://www.youtube.com/watch?v=ixuDntaSnHI

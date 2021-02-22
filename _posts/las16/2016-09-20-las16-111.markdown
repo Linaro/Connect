@@ -3,11 +3,10 @@ amazon_s3_presentation_url: https://static.linaro.org/connect/las16/Presentation
 amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Monday/LAS16-111%20Easing%20Access%20to%20ARM%20TrustZone%20-%20OP-TEE%20and%20Raspberry%20Pi%203.mp4
 author: connect
 categories:
-  - las16
+- las16
 comments: false
 date: 2016-09-20 17:10:34
-excerpt:
-  "Arm TrustZone is a critical technology for securing IoT devices and systems.
+excerpt: "Arm TrustZone is a critical technology for securing IoT devices and systems.
   But awareness of TrustZone and its benefits lags within the maker community as well
   as among enterprises. The first step to solving this problem is lowering the cost
   of access. Sequitur Labs and Linaro have joined forces to address this problem by
@@ -17,11 +16,11 @@ excerpt:
   Awareness of mature, proven technologies such as Arm TrustZone is very low among
   the Maker community as well as among enterprises. As a result this foundational
   technology is largely being ignored as a security solution. Sequitur Labs and Linaro
-  have taken an innovative approach combining an Open Source solution \u2013 OP-TEE
-  with Raspberry Pi 3. The Raspberry Pi 3 is one of the world\u2019s most popular
-  platforms among device makers. Its value as an educational tool for learning about
-  embedded systems development is proven.\n  \n Sequitur Labs have also enabled bare
-  metal debugging via JTag on the Pi 3 enhancing the value of the Pi 3 as an educational
+  have taken an innovative approach combining an Open Source solution – OP-TEE with
+  Raspberry Pi 3. The Raspberry Pi 3 is one of the world’s most popular platforms
+  among device makers. Its value as an educational tool for learning about embedded
+  systems development is proven.\n  \n Sequitur Labs have also enabled bare metal
+  debugging via JTag on the Pi 3 enhancing the value of the Pi 3 as an educational
   tool for embedded systems development.\n  \n The presentation will focus on\n  \n
   * Arm v8a architecture and instruction set\n * Arm Trusted Firmware\n * TrustZone
   and OP-TEE basics\n * JTAG and bare metal debugging the Raspberry Pi 3"
@@ -31,17 +30,17 @@ image: /assets/images/featured-images/LAS16-111.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-111/
 post_format:
-  - Video
+- Video
 session_id: LAS16-111
-session_track: Core Development
+session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66347806
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16111-easing-access-to-arm-trustzone-optee-and-raspberry-pi-3
 slug: las16-111
 speakers: None
 tags:
-  - Community
-  - Security
-title: "LAS16-111: Raspberry Pi3, OP-TEE and JTAG debugging"
+- Community
+- Security
+title: 'LAS16-111: Raspberry Pi3, OP-TEE and JTAG debugging'
 video_length: 01:01:57
 video_thumbnail: None
 wordpress_id: 3804

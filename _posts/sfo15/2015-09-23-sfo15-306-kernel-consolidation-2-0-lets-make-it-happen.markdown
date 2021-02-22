@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-306-kernel-consolidation-2-
 post_format:
 - Video
 session_id: None
-session_track: Kernel
+session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52896116
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15306-kernel-consolidation-20-lets-make-it-happen
 slug: sfo15-306-kernel-consolidation-2-0-lets-make-it-happen

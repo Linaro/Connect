@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-106-lmg-lightning-talks/
 post_format:
 - Video
 session_id: None
-session_track: Mobile
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52946312
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15106-lmg-lightning-talks
 slug: sfo15-106-lmg-lightning-talks

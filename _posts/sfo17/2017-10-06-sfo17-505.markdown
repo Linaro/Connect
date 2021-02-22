@@ -19,7 +19,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-505/
 post_format:
 - Video
 session_id: SFO17-505
-session_track: Kernel
+session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79886022
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/deadline-scheduling-accounting-cpusets-and-cpuhotplug-sfo17505
 slug: sfo17-505

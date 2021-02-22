@@ -15,7 +15,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-400k1/
 post_format:
 - Video
 session_id: SFO17-400K1
-session_track: Keynote
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80262688
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/keynote-iliyan-malchev-google-sfo17400k1
 slug: sfo17-400k1
@@ -25,6 +25,8 @@ video_length: '54:26'
 video_thumbnail: None
 wordpress_id: 6042
 youtube_video_url: https://www.youtube.com/watch?v=Ksegw928gUM
+tags:
+- Keynote
 ---
 
 Session ID: SFO17-400K1

@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/las16/las16-414/
 post_format:
 - Video
 session_id: LAS16-414
-session_track: Other
+session_track: None/Other
 slideshare_presentation_url: None
 slug: las16-414
 speakers: Bill Fletcher, Guillaume Tucker

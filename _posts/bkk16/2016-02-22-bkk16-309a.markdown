@@ -19,7 +19,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-309a/
 post_format:
 - Video
 session_id: BKK16-309A
-session_track: LEG
+session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59679260
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16309a-open-platform-support-in-uefi
 slug: bkk16-309a

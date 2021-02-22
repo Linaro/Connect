@@ -1,6 +1,6 @@
 ---
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:58
 excerpt: This session is an introductory course on Linux kernel upstreaming fundamentals.

@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-212/
 post_format:
 - Video
 session_id: SFO17-212
-session_track: LITE
+session_track: IoT and Embedded
 slug: sfo17-212
 speakers: Dan Cauchy
 title: 'Open Source Automotive: How Shared Development will Drive the Industry Forward

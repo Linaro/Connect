@@ -11,14 +11,13 @@ excerpt: LHG has recently launched an AOSP TV lead project which is focused on s
   describe the current AOSP TV builds on 96Boards and the strategy for Android TV
   for members and the community.
 featured_image_file_name: BUD17-114.jpg
-image:
 image: /assets/images/featured-images/BUD17-114.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-114/
 post_format:
 - Video
 session_id: BUD17-114
-session_track: LMG
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72785845
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17114-making-arm-the-best-platform-for-android
 slug: bud17-114

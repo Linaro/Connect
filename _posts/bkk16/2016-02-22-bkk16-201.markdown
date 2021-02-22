@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-201/
 post_format:
 - Video
 session_id: BKK16-201
-session_track: LHG
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58687260
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16201-play-ready-optee-integration-with-secure-video-path-lhg1
 slug: bkk16-201

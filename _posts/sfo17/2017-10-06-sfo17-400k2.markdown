@@ -9,8 +9,8 @@ date: 2017-10-06 16:55:41
 excerpt: "Think back to the summer of 2007.  AWS was a few months old, the first iPhone
   had just been released, and Uber was still two years away from its founding. \n\nNow
   look the other way: ten years into the future.  A future standing on the shoulders
-  of today\u2019s nearly 20 million software developers (which may double in the next
-  five years), a mature ecosystem of venture funded firms around the world, and dozens
+  of today’s nearly 20 million software developers (which may double in the next five
+  years), a mature ecosystem of venture funded firms around the world, and dozens
   of major companies dumping massive resources into everything from new data centers,
   cloud services, VR, 5G, robotics, autonomy, space travel, and a huge variety of
   software of all stripes and flavors.\n\nAaron Welch, co-founder and SVP of Product
@@ -24,7 +24,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-400k2/
 post_format:
 - Video
 session_id: SFO17-400K2
-session_track: Keynote
+session_track: None/Other
 slideshare_presentation_url: None
 slug: sfo17-400k2
 speakers: Aaron Welch
@@ -33,6 +33,8 @@ video_length: '54:26'
 video_thumbnail: None
 wordpress_id: 6044
 youtube_video_url: https://www.youtube.com/watch?v=Q-mLNgN86sQ
+tags:
+- Keynote
 ---
 
 Session ID: SFO17-400K2

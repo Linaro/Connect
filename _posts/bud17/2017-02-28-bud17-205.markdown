@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-205/
 post_format:
 - Video
 session_id: BUD17-205
-session_track: LEG
+session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72904246
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17205-updates-on-server-base-system-architecture-and-boot-requirements
 slug: bud17-205

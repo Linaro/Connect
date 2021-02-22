@@ -14,16 +14,18 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-300k2/
 post_format:
 - Video
 session_id: SFO17-300K2
-session_track: Keynote
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80701031
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/keynote-heather-meeker-omelveny-myers-llp-sfo17300k2
 slug: sfo17-300k2
 speakers: Heather Meeker
-title: "Keynote: Heather Meeker (O\u2019Melveny & Myers LLP) - SFO17-300K2"
+title: 'Keynote: Heather Meeker (O’Melveny & Myers LLP) - SFO17-300K2'
 video_length: '53:34'
 video_thumbnail: None
 wordpress_id: 6002
 youtube_video_url: https://www.youtube.com/watch?v=vwZlLESlnOo
+tags:
+- Keynote
 ---
 
 Session ID: SFO17-300K2

@@ -20,11 +20,11 @@ link: http://connect.linaro.org/resource/bud17/bud17-202/
 post_format:
 - Video
 session_id: BUD17-202
-session_track: LMG
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72946733
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17202-aosp-toolchains
 slug: bud17-202
-speakers: "Bero Rsenkr\xE4nzer, Renato Golin"
+speakers: Bero Rsenkränzer, Renato Golin
 tags:
 - AOSP
 - LMG

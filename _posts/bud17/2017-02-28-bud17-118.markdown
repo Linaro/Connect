@@ -18,12 +18,12 @@ link: http://connect.linaro.org/resource/bud17/bud17-118/
 post_format:
 - Video
 session_id: BUD17-118
-session_track: LMG
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73033229
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17118-status-of-android-aosp-tv
 slug: bud17-118
 speakers: Khasim Syed Mohammed
-title: "Status of Android \u201CAOSP\u201D TV - BUD17-118"
+title: Status of Android “AOSP” TV - BUD17-118
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4631

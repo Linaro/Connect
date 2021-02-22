@@ -20,7 +20,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-124/
 post_format:
 - Video
 session_id: HKG18-124
-session_track: Mobile
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/91264387
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18124-android-verified-boot-20-and-uboot
 slug: hkg18-124

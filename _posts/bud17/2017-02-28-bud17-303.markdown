@@ -25,15 +25,15 @@ link: http://connect.linaro.org/resource/bud17/bud17-303/
 post_format:
 - Video
 session_id: BUD17-303
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_presentation_url: None
 slug: bud17-303
-speakers: "Marcelo Kn\xF6rich Zuffo"
+speakers: Marcelo Knörich Zuffo
 tags:
 - IoT
 - LITE
 - Swarm
-title: "The Swarm on the Edge: Pushing \u201CIoT\u201D to the next step - BUD17-303"
+title: 'The Swarm on the Edge: Pushing “IoT” to the next step - BUD17-303'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4669

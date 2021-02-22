@@ -17,7 +17,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-302/
 post_format:
 - Video
 session_id: BKK16-302
-session_track: LMG
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58680872
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16302-android-optimizing-compiler-new-member-assimilation-guide
 slug: bkk16-302

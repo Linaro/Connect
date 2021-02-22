@@ -4,15 +4,14 @@ amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-308.mp
 author: connect
 comments: false
 date: 2018-04-11 14:11:12+00:00
-excerpt:
-  In age of AI, the way human interacts with machines swift from mouse/keyboard,
+excerpt: In age of AI, the way human interacts with machines swift from mouse/keyboard,
   touch to more nature methods, like voice, gesture, video. Baidu announces DuerOS
   in 2017 which is an speech based intelligent conversational OS for TV, mobile, speaker,
   vehicles etc.
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-308/
 session_id: HKG18-308
-session_track: Ecosystem Day
+session_track: None/Other
 slug: hkg18-308
 speakers: Zhou Hua,hua zhou
 title: HKG18-308 - DuerOS
@@ -20,9 +19,9 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 9376
 categories:
-  - hkg18
+- hkg18
 post_format:
-  - Video
+- Video
 ---
 
 Session ID: HKG18-308

@@ -6,23 +6,22 @@ categories:
 - bud17
 comments: false
 date: 2017-02-28 12:05:24
-excerpt: "Kernelci.org has been hailed as \u201Cthe most successful, public build
-  and test system for Linux, in the world\". To keep that reputation, there is a need
-  to do more testing faster, and we believe LAVA v2 will help us get there. Come learn
-  about the effort underway to transition the testing system from LAVA v1 to LAVA
-  v2, and the benefits that it will bring. \n \n In this session will we review the
-  new architecture for distributed testing that LAVA v2 will enable. Also, providing
-  status of what\u2019s working currently, and what is still in progress. Come be
-  a part of the solution and help make the Linux kernel the best it can be!"
+excerpt: "Kernelci.org has been hailed as “the most successful, public build and test
+  system for Linux, in the world\". To keep that reputation, there is a need to do
+  more testing faster, and we believe LAVA v2 will help us get there. Come learn about
+  the effort underway to transition the testing system from LAVA v1 to LAVA v2, and
+  the benefits that it will bring. \n \n In this session will we review the new architecture
+  for distributed testing that LAVA v2 will enable. Also, providing status of what’s
+  working currently, and what is still in progress. Come be a part of the solution
+  and help make the Linux kernel the best it can be!"
 featured_image_file_name: BUD17-105.jpg
-image:
 image: /assets/images/featured-images/BUD17-105.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-105/
 post_format:
 - Video
 session_id: BUD17-105
-session_track: LTD
+session_track: ''
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72785749
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17105-kernelciorg-the-road-to-lava-v2
 slug: bud17-105

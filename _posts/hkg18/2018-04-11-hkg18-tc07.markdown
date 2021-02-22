@@ -10,14 +10,14 @@ session_id: HKG18-TC07
 session_track: Tools
 slug: hkg18-tc07
 speakers: Peter Smith
-title: "HKG18-TC07 - TCWG Hacking Topics: Cross-compilation with Clang bots"
+title: 'HKG18-TC07 - TCWG Hacking Topics: Cross-compilation with Clang bots'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 9291
 categories:
-  - hkg18
+- hkg18
 post_format:
-  - Video
+- Video
 ---
 
 Session ID: HKG18-TC07

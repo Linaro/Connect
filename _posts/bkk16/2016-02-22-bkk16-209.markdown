@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-209/
 post_format:
 - Video
 session_id: BKK16-209
-session_track: LHG
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58228223
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16209-chromium-with-v4l2-playback-is-it-ready-today
 slug: bkk16-209

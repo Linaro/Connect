@@ -12,14 +12,14 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-guest-keynote-warren-rehman
 post_format:
 - Video
 session_id: HKG15-400K1
-session_track: General
+session_track: None/Other
 slug: hkg15-guest-keynote-warren-rehman-android-partner-engineering-manager-google
 tags:
 - General
 - hkg15
 - HKG15-400K1
-title: "HKG15 : Guest Keynote - Warren Rehman \u2013 Android Partner Engineering Manager,
-  Google"
+title: 'HKG15 : Guest Keynote - Warren Rehman – Android Partner Engineering Manager,
+  Google'
 video_length: '32:43'
 video_thumbnail: None
 wordpress_id: 746

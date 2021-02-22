@@ -6,11 +6,11 @@ categories:
 - sfo17
 comments: false
 date: 2017-10-06 16:55:34
-excerpt: "Recently Hikey960 is released with big.LITTLE architecture and has been
-  enabled power management features on AOSP kernel 4.4/4.9; On the other hand, EAS
-  is continuing evolution to v1.3 on AOSP 4.4/4.9. At current stage it\u2019s smooth
-  to joint EAS on Hikey960, this session mainly introduces EASv1.3 profiling on Hikey960
-  and try to give hints for later deployment and optimization."
+excerpt: Recently Hikey960 is released with big.LITTLE architecture and has been enabled
+  power management features on AOSP kernel 4.4/4.9; On the other hand, EAS is continuing
+  evolution to v1.3 on AOSP 4.4/4.9. At current stage it’s smooth to joint EAS on
+  Hikey960, this session mainly introduces EASv1.3 profiling on Hikey960 and try to
+  give hints for later deployment and optimization.
 featured_image_name: SFO17-TR05.jpg
 image_name: SFO17-TR05.jpg
 image: /assets/images/featured-images/SFO17-TR05.jpg

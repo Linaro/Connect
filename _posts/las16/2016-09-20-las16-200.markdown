@@ -93,7 +93,7 @@ link: http://connect.linaro.org/resource/las16/las16-200/
 post_format:
 - Video
 session_id: LAS16-200
-session_track: Mini-Conference
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66348163
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16-200-firmware-summit-ras-what-is-it-why-do-we-need-it-66348163
 slug: las16-200

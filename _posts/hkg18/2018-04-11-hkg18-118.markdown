@@ -20,7 +20,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-118/
 post_format:
 - Video
 session_id: HKG18-118
-session_track: Networking
+session_track: IoT Fog/Gateway/Edge Computing
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/91264370
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18118-automated-testing-using-travis-and-shippable-91264370
 slug: hkg18-118

@@ -12,7 +12,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-462/
 post_format:
 - Video
 session_id: SFO17-462
-session_track: LEG
+session_track: Enterprise
 slug: sfo17-462
 title: TBD - SFO17-462
 video_length: 00:00

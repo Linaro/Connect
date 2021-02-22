@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-502/
 post_format:
 - Video
 session_id: SFO17-502
-session_track: LEG
+session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80864386
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/avocado-auto-testing-for-aarch64-virtualization-sfo17502
 slug: sfo17-502

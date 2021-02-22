@@ -26,7 +26,7 @@ session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92876219
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18tr08-upstreaming-sve-in-qemu-92876219
 slug: hkg18-tr08
-speakers: "Alex Benn\xE9e,Richard Henderson"
+speakers: Alex Bennée,Richard Henderson
 title: HKG18-TR08 - Upstreaming SVE in QEMU
 video_length: '48:29'
 video_thumbnail: None

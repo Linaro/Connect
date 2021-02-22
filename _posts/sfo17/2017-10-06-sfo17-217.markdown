@@ -14,7 +14,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-217/
 post_format:
 - Video
 session_id: SFO17-217
-session_track: LTD
+session_track: ''
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80733700
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/introducing-jobserv-a-new-ci-system-built-with-containers-and-container-orchestration-technologies-in-mind-sfo17217
 slug: sfo17-217

@@ -19,7 +19,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-206-kernelci-org-kernel-tes
 post_format:
 - Video
 session_id: None
-session_track: Product
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53031213
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15206-kernelciorg-kernel-testing-bof
 slug: sfo15-206-kernelci-org-kernel-testing-bof

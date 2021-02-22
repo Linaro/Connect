@@ -6,12 +6,12 @@ categories:
 - las16
 comments: false
 date: 2016-09-20 17:11:06
-excerpt: "Deep dive into LLVM internals, middle/back-ends, libraries, sanitizers,
-  linker, debugger and overall compilation process. The focus is to show how LLVM
-  works under the hood, which is useful for GCC compiler engineers getting into LLVM
-  development, as well as for other engineers to learn more about parts of the toolchain
-  they\u2019re not familiar with. This presentation also touches on frequent LLVM-specific
-  errors, so GCC users may find useful, if they\u2019re moving to LLVM."
+excerpt: Deep dive into LLVM internals, middle/back-ends, libraries, sanitizers, linker,
+  debugger and overall compilation process. The focus is to show how LLVM works under
+  the hood, which is useful for GCC compiler engineers getting into LLVM development,
+  as well as for other engineers to learn more about parts of the toolchain they’re
+  not familiar with. This presentation also touches on frequent LLVM-specific errors,
+  so GCC users may find useful, if they’re moving to LLVM.
 featured_image_name: LAS16-501.png
 image_name: LAS16-501.png
 image: /assets/images/featured-images/LAS16-501.png
@@ -20,7 +20,7 @@ link: http://connect.linaro.org/resource/las16/las16-501/
 post_format:
 - Video
 session_id: LAS16-501
-session_track: Core Development
+session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66358119
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16501-introduction-to-llvm-projects-components-integration-internals
 slug: las16-501

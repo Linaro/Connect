@@ -11,7 +11,7 @@ excerpt: 6WIND’s packet processing software helps Telcos deploy Arm servers as
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-458/
 session_id: SFO17-458
-session_track: LEG
+session_track: Enterprise
 slug: sfo17-458
 speakers: Keith
 title: 6WIND High Performance Networking Software for Arm Servers - SFO17-458
@@ -59,4 +59,4 @@ Event Date: 29 Sept 2017
 
 Speakers: Keith
 
-Position: 
+Position:

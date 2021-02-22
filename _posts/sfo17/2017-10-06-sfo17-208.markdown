@@ -6,11 +6,11 @@ categories:
 - sfo17
 comments: false
 date: 2017-10-06 16:54:27
-excerpt: "AOSP TV could benefit from having direct access to DVB TV and radio streams
-  - both for improved testing and actual use in products. Given AOSP\u2019s dislike
-  of using anything (L)GPL, we\u2019ve developed a new Apache licensed library to
-  access DVB tuners - and a connection into AOSP and into IP streaming. This presentation
-  introduces the library, its API, and its possible uses with AOSP TV."
+excerpt: AOSP TV could benefit from having direct access to DVB TV and radio streams
+  - both for improved testing and actual use in products. Given AOSP’s dislike of
+  using anything (L)GPL, we’ve developed a new Apache licensed library to access DVB
+  tuners - and a connection into AOSP and into IP streaming. This presentation introduces
+  the library, its API, and its possible uses with AOSP TV.
 featured_image_name: SFO17-208.jpg
 image_name: SFO17-208.jpg
 image: /assets/images/featured-images/SFO17-208.jpg
@@ -19,11 +19,11 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-208/
 post_format:
 - Video
 session_id: SFO17-208
-session_track: LHG
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79884903
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/aosp-tv-input-framework-dvb-ip-video-sources-sfo17208
 slug: sfo17-208
-speakers: "Bero Rosenkr\xE4nzer"
+speakers: Bero Rosenkränzer
 title: 'AOSP TV Input Framework: DVB & IP video sources - SFO17-208'
 video_length: '19:19'
 video_thumbnail: None

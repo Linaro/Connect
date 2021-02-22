@@ -15,7 +15,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-408/
 post_format:
 - Video
 session_id: SFO15-408
-session_track: Networking
+session_track: IoT Fog/Gateway/Edge Computing
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53891809
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15-408-odpdpdk-platform-performance
 slug: sfo15-408

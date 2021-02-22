@@ -11,7 +11,7 @@ excerpt: Server chips based on the Arm v8A architecture deliver greater core den
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-454/
 session_id: SFO17-454
-session_track: LEG
+session_track: Enterprise
 slug: sfo17-454
 speakers: Simon Ritter
 title: 'Arm v8A and java 8: Shifting The Datacenter Balance - SFO17-454'
@@ -59,4 +59,4 @@ Event Date: 28 Sept 2017
 
 Speakers: Simon Ritter
 
-Position: 
+Position:

@@ -12,7 +12,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-400k2/
 post_format:
 - Video
 session_id: BKK16-400K2
-session_track: Keynote
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59678339
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16400k2-the-networked-society-and-5g
 slug: bkk16-400k2
@@ -22,6 +22,8 @@ video_length: '33:26'
 video_thumbnail: None
 wordpress_id: 3364
 youtube_video_url: https://youtu.be/s09kjutkKmg
+tags:
+- Keynote
 ---
 
 Event Date: March 10, 2016

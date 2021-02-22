@@ -14,7 +14,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-408a/
 post_format:
 - Video
 session_id: BKK16-408A
-session_track: LEG
+session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58210680
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16408a-running-openstack-on-aarch64
 slug: bkk16-408a

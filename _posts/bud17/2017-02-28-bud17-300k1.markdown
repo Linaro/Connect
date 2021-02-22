@@ -6,13 +6,13 @@ categories:
 - bud17
 comments: false
 date: 2017-02-28 12:05:38
-excerpt: "The fifth generation mobile communications network (5G) is not your \u201Ctraditional
-  telecom network\u201D but optimized for connected and intelligent machines, having
-  distributed cloud capacity and supporting devices ranging from gigabits per second
-  to multi-year battery life. Software, connectivity and digitalization are reshaping
-  both industries and society at an ever increasing rate and 5G is a strong catalyst.
-  This keynote will explore this development, including how products and services
-  are revolutionized and how many of today\u2019s value chains are being overthrown."
+excerpt: The fifth generation mobile communications network (5G) is not your “traditional
+  telecom network” but optimized for connected and intelligent machines, having distributed
+  cloud capacity and supporting devices ranging from gigabits per second to multi-year
+  battery life. Software, connectivity and digitalization are reshaping both industries
+  and society at an ever increasing rate and 5G is a strong catalyst. This keynote
+  will explore this development, including how products and services are revolutionized
+  and how many of today’s value chains are being overthrown.
 featured_image_file_name: BUD17-300K1.jpg
 image_name: BUD17-300K1.jpg
 image: /assets/images/featured-images/BUD17-300K1.jpg
@@ -21,11 +21,11 @@ link: http://connect.linaro.org/resource/bud17/bud17-300k1/
 post_format:
 - Video
 session_id: BUD17-300K1
-session_track: Other
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72946075
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17300k1-human-communication-a-niche-use-case-in-5g
 slug: bud17-300k1
-speakers: "Bj\xF6rn Ekelund"
+speakers: Björn Ekelund
 tags:
 - 5G
 - Bjorn-Ekelund

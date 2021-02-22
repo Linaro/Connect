@@ -30,7 +30,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-415/
 post_format:
 - Video
 session_id: SFO17-415
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80656816
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/update-remotely-iot-devices-using-eclipse-hawkbit-and-swupdate-sfo17415
 slug: sfo17-415

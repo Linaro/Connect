@@ -14,7 +14,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-200k2-neil-trevett-open-sta
 post_format:
 - Video
 session_id: SFO15-200K2
-session_track: Keynote
+session_track: None/Other
 slideshare_presentation_url: None
 slug: sfo15-200k2-neil-trevett-open-standards-and-open-source-together-how-khronos-apis-accelerat
 speakers: Neil Trevett
@@ -24,6 +24,8 @@ video_length: '48:45'
 video_thumbnail: None
 wordpress_id: 3023
 youtube_video_url: https://www.youtube.com/watch?v=S3YMBLOTXSI
+tags:
+- Keynote
 ---
 
 Speaker: Neil Trevett

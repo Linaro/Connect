@@ -14,7 +14,7 @@ link: http://connect.linaro.org/resource/lcu13/lcu13-power-efficient-scheduling-
 post_format:
 - Video
 session_id: None
-session_track: Other
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/32664534
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu13-pwr-effsched
 slug: lcu13-power-efficient-scheduling-latest-news-kernel-summit

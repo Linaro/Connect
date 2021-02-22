@@ -15,7 +15,7 @@ link: http://connect.linaro.org/resource/bud17/demo/bud17-df14/
 post_format:
 - Video
 session_id: BUD17-DF14
-session_track: Android, Linux Kernel
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73368884
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/optimized-android-n-mr1-44-kernel
 slug: bud17-df14

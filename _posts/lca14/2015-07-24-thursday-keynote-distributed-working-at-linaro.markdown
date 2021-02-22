@@ -2,11 +2,10 @@
 amazon_s3_video_url: https://static.linaro.org/connect/lca14/videos/03-06-Thursday/Thursday%20Keynote-%20Distributed%20Working%20At%20Linaro.mp4
 author: connect
 categories:
-  - lca14
+- lca14
 comments: true
 date: 2015-07-24 14:04:50
-excerpt:
-  "Interviewer: Mike Levine, Director Global Talent Acquisition\n  \n Panel:\n
+excerpt: "Interviewer: Mike Levine, Director Global Talent Acquisition\n  \n Panel:\n
   Deepak Saxena, Tech Lead Linaro Working Group\n Matt Porter, Broadcom Landing Team
   Tech Lead\n Benjamin Gaignard, Senior Engineer Graphics Working Group\n Linus Walleij,
   Senior Kernel Engineer\n Rob Savoye, Toolchain Engineer \n  \n - Panel discussion
@@ -19,17 +18,17 @@ image: /assets/images/featured-images/LCA14-400K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lca14/thursday-keynote-distributed-working-at-linaro/
 post_format:
-  - Video
+- Video
 session_id: LCA14-400K1
-session_track: Keynote
+session_track: None/Other
 slug: thursday-keynote-distributed-working-at-linaro
 speakers: Mike Levine
 tags:
-  - Keynote
-  - "LCA14-400K1: Panel Discussion"
-  - Mike Levine
-title: "Thursday Keynote: Distributed Working At Linaro"
-video_length: "33:41"
+- Keynote
+- 'LCA14-400K1: Panel Discussion'
+- Mike Levine
+title: 'Thursday Keynote: Distributed Working At Linaro'
+video_length: '33:41'
 video_thumbnail: None
 wordpress_id: 2118
 youtube_video_url: https://www.youtube.com/watch?v=8UdqAjAoD3A

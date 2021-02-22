@@ -3,11 +3,10 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-218.mp4
 author: connect
 categories:
-  - hkg18
+- hkg18
 comments: false
 date: 2018-04-11 14:11:54
-excerpt:
-  "With LoRa gaining more traction in recent times and seeing LoRa gateways
+excerpt: 'With LoRa gaining more traction in recent times and seeing LoRa gateways
   being based on Linux one could wonder why there is no work on integrating the LoRa
   layers into the Linux networking stack directly. To make use of its solid protocol
   stacks and constant improvements and innovations. Solutions where the data coming
@@ -21,22 +20,22 @@ excerpt:
   o PHY/MAC layer and LoRaWAN o Share code with existing subsystems where possible
   (link layer security with ieee802154, 6lowpan) o 1 transceiver driver already posted
   o A few people already showed interest, more people around here? o Project setup
-  (vger mailing list, patchwork, github, korg tree hosting, etc)"
+  (vger mailing list, patchwork, github, korg tree hosting, etc)'
 featured_image_name: HKG18-218.png
 image_name: HKG18-218.png
 image: /assets/images/featured-images/HKG18-218.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-218/
 post_format:
-  - Video
+- Video
 session_id: HKG18-218
-session_track: Networking
+session_track: IoT Fog/Gateway/Edge Computing
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92872639
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg1218-bootstrapping-a-lora-linux-project
 slug: hkg18-218
 speakers: Stefan Schmidt
 title: HKG18-218 - Bootstrapping a LoRa Linux project
-video_length: "17:31"
+video_length: '17:31'
 video_thumbnail: None
 wordpress_id: 8758
 youtube_video_url: https://www.youtube.com/watch?v=dq6BJLh3u88

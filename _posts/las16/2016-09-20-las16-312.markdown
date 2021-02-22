@@ -23,7 +23,7 @@ link: http://connect.linaro.org/resource/las16/las16-312/
 post_format:
 - Video
 session_id: LAS16-312
-session_track: LEG
+session_track: Enterprise
 slideshare_presentation_url: None
 slug: las16-312
 speakers: Amber Graner

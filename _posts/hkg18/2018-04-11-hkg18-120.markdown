@@ -22,7 +22,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-120/
 post_format:
 - Video
 session_id: HKG18-120
-session_track: Kernel
+session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92871911
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18120-devicetree-schema-documentation-and-validation
 slug: hkg18-120

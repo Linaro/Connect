@@ -15,7 +15,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-123/
 post_format:
 - Video
 session_id: BUD17-123
-session_track: Other
+session_track: None/Other
 slideshare_presentation_url: None
 slug: bud17-123
 speakers: David Zinman

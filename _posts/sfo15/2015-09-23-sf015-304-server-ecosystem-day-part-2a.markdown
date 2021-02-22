@@ -14,7 +14,7 @@ link: http://connect.linaro.org/resource/sfo15/sf015-304-server-ecosystem-day-pa
 post_format:
 - Video
 session_id: None
-session_track: Enterprise Servers
+session_track: Enterprise
 slug: sf015-304-server-ecosystem-day-part-2a
 speakers: Andrea Gallo
 tags:
