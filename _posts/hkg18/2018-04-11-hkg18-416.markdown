@@ -3,10 +3,10 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-416.mp4
 author: connect
 categories:
-  - hkg18
+- hkg18
 comments: false
 date: 2018-04-11 14:14:39
-excerpt: "BFQ has greatly improved over the last months.  Now it handles I/O at
+excerpt: 'BFQ has greatly improved over the last months.  Now it handles I/O at
 
   up to 400+ KIOPS with commodity CPUs, and extends its close-to-optimal
 
@@ -16,7 +16,7 @@ excerpt: "BFQ has greatly improved over the last months.  Now it handles I/O at
 
   and:
 
-  - show how the work 'around' BFQ also influenced the benchmarking
+  - show how the work ''around'' BFQ also influenced the benchmarking
 
   arena: from the consolidation of a responsiveness (application
 
@@ -34,22 +34,22 @@ excerpt: "BFQ has greatly improved over the last months.  Now it handles I/O at
 
   - list the next important challenges for letting BFQ enter the
 
-  server&cloud world too."
+  server&cloud world too.'
 featured_image_name: HKG18-416.png
 image_name: HKG18-416.png
 image: /assets/images/featured-images/HKG18-416.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-416/
 post_format:
-  - Video
+- Video
 session_id: HKG18-416
-session_track: Kernel
+session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92951488
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18416-im-bfq-im-dynamite-or-almost
 slug: hkg18-416
 speakers: Paolo Valente
 title: HKG18-416 - I'm BFQ, I'm dynamite (or almost ...)
-video_length: "31:45"
+video_length: '31:45'
 video_thumbnail: None
 wordpress_id: 8822
 youtube_video_url: https://www.youtube.com/watch?v=FPtbiZtIflU

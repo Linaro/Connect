@@ -15,7 +15,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-100/
 post_format:
 - Video
 session_id: BUD17-100
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72784317
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17100-mcuboot-a-shared-bootloader-for-zephyr
 slug: bud17-100

@@ -17,11 +17,11 @@ link: http://connect.linaro.org/resource/bud17/bud17-500/
 post_format:
 - Video
 session_id: BUD17-500
-session_track: LEG
+session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72787944
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17-500-open-suse96boardsfinal
 slug: bud17-500
-speakers: "Andreas F\xE4rber"
+speakers: Andreas Färber
 title: 96Boards enablement for openSUSE - BUD17-500
 video_length: 00:00
 video_thumbnail: None

@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-110/
 post_format:
 - Video
 session_id: HKG18-110
-session_track: Networking
+session_track: IoT Fog/Gateway/Edge Computing
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/91264363
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18110-netmdev-fast-path-user-space-io
 slug: hkg18-110

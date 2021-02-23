@@ -17,7 +17,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-211/
 post_format:
 - Video
 session_id: BUD17-211
-session_track: Kernel
+session_track: Linux Kernel
 slideshare_presentation_url: None
 slug: bud17-211
 speakers: Ulf Hansson, Linus Walleij

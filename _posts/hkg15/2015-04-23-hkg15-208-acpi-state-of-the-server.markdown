@@ -3,7 +3,7 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-19-Friday/LCU14-500-%20ARM%20Trusted%20Firmware%20roadmap%20and%20progress.mp4
 author: connect
 categories:
-  - hkg15
+- hkg15
 comments: true
 date: 2015-04-23 15:37:03
 featured_image_name: HKG15-208.jpg
@@ -12,22 +12,22 @@ image: /assets/images/featured-images/HKG15-208.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-208-acpi-state-of-the-server/
 post_format:
-  - Video
+- Video
 session_id: HKG15-208
-session_track: Enterprise Servers
+session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44514221
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15208-acpi-state-of-the-server
 slug: hkg15-208-acpi-state-of-the-server
 speakers: Al Stone, Hanjun Guo, Graeme Gregory
 tags:
-  - Al Stone
-  - Enterprise Server
-  - Graeme Gregory
-  - Hanjun Guo
-  - hkg15
-  - HKG15-208
-title: "HKG15-208: ACPI: State of the Server"
-video_length: "27:05"
+- Al Stone
+- Enterprise Server
+- Graeme Gregory
+- Hanjun Guo
+- hkg15
+- HKG15-208
+title: 'HKG15-208: ACPI: State of the Server'
+video_length: '27:05'
 video_thumbnail: None
 wordpress_id: 723
 youtube_video_url: https://www.youtube.com/watch?v=R6m4-VWkqR0

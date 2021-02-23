@@ -25,7 +25,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-100/
 post_format:
 - Video
 session_id: SFO17-100
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80525172
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/internet-of-tiny-linux-iotl-episode-iv-sfo17100
 slug: sfo17-100

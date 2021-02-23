@@ -18,7 +18,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-512/
 post_format:
 - Video
 session_id: 'BUD17-512 '
-session_track: Other
+session_track: None/Other
 slideshare_presentation_url: None
 slug: bud17-512
 speakers: None

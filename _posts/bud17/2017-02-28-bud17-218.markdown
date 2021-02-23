@@ -6,12 +6,12 @@ categories:
 - bud17
 comments: false
 date: 2017-02-28 12:05:36
-excerpt: "The Per Entity Load Tracking (PELT) is a key stone in tasks placement of
-  the scheduler but suffers of some weakness when it\u2019s not just bugs. During
-  the last LPC, it has been decided to fix all pending issues of PELT before starting
-  to consider another load tracking mechanism for scheduler and/or EAS. This session
-  will show the improvement reached since the last connect and the LPC as well as
-  the next ones. We will also looks at the RT class which lacks a good load tracking."
+excerpt: The Per Entity Load Tracking (PELT) is a key stone in tasks placement of
+  the scheduler but suffers of some weakness when it’s not just bugs. During the last
+  LPC, it has been decided to fix all pending issues of PELT before starting to consider
+  another load tracking mechanism for scheduler and/or EAS. This session will show
+  the improvement reached since the last connect and the LPC as well as the next ones.
+  We will also looks at the RT class which lacks a good load tracking.
 featured_image_file_name: BUD17-218.jpg
 image_name: BUD17-218.jpg
 image: /assets/images/featured-images/BUD17-218.jpg

@@ -9,7 +9,7 @@ categories:
 comments: false
 date: 2015-09-25 00:00:00
 excerpt: "VLAND is a project to enable dynamic network configuration of various switches.
-  A communication protocol to interact with the daemon will be integrated into Linaro\x89\u2019s
+  A communication protocol to interact with the daemon will be integrated into Linaro\x89’s
   Automated Validation Architecture so that jobs can dynamically configure the network
   for testing. In this session, we will review the current state of the project, next
   steps, and open it up for a discussion."

@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-405/
 post_format:
 - Video
 session_id: BUD17-405
-session_track: LTD
+session_track: ''
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786877
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17405-building-a-reference-iot-product-with-zephyr
 slug: bud17-405

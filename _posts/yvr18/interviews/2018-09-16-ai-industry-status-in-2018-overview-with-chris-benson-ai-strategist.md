@@ -7,14 +7,16 @@ date: '2018-09-16 09:00:00+00:00'
 image_name: yvr18-interview13.jpg
 image: /assets/images/featured-images/yvr18-interview13.jpg
 layout: resource-post
-session_track: Interview
+session_track: None/Other
 speakers:
 - name: Chris Benson
-  job-title: AI & digital transformation strategist, solution architect, and keynote speaker / evangelist
+  job-title: AI & digital transformation strategist, solution architect, and keynote
+    speaker / evangelist
 title: AI Industry Status in 2018, overview with Chris Benson AI Strategist
 youtube_video_url: https://www.youtube.com/watch?v=ir4TG7_Xqrk
 tag: interview
 ---
+
 Chris Benson is an AI & digital transformation strategist, solution architect, and keynote speaker / evangelist who specializes in deep learning – the neural computation technology that is driving the artificial intelligence revolution.
 
 He was a member of Accenture’s first dedicated AI Team, and went on to create and build Honeywell’s first dedicated AI Team.

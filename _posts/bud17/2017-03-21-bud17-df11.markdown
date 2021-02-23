@@ -15,13 +15,13 @@ link: http://connect.linaro.org/resource/bud17/demo/bud17-df11/
 post_format:
 - Video
 session_id: BUD17-DF11
-session_track: Mcuboot for IoT
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73368638
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/mcuboot-for-iot
 slug: bud17-df11
 speakers: LITE
 title: Mcuboot for IoT- BUD17-DF11
-video_length: "05:40"
+video_length: 05:40
 video_thumbnail: None
 wordpress_id: 5660
 youtube_video_url: https://www.youtube.com/watch?v=t3THQ_wt8uk

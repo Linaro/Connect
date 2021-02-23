@@ -2,7 +2,7 @@
 amazon_s3_presentation_url: None
 author: connect
 categories:
-  - hkg15
+- hkg15
 comments: true
 date: 2015-04-23 15:38:34
 featured_image_name: HKG15-100K1.jpg
@@ -11,19 +11,19 @@ image: /assets/images/featured-images/HKG15-100K1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-opening-keynote-george-grey-linaro-ceo/
 post_format:
-  - Video
+- Video
 session_id: HKG15-100K1
-session_track: General
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44451942
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15-george-grey-keynote
 slug: hkg15-opening-keynote-george-grey-linaro-ceo
 speakers: George Grey
 tags:
-  - General
-  - George Grey
-  - hkg15
-  - HKG15-100K1
-title: "HKG15 : Opening Keynote - George Grey, Linaro CEO"
+- General
+- George Grey
+- hkg15
+- HKG15-100K1
+title: 'HKG15 : Opening Keynote - George Grey, Linaro CEO'
 video_length: 01:06:36
 video_thumbnail: None
 wordpress_id: 700

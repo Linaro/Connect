@@ -22,7 +22,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-119/
 post_format:
 - Video
 session_id: SFO17-119
-session_track: LNG
+session_track: IoT Fog/Gateway/Edge Computing
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80642732
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/performance-evaluation-for-containerized-nfvi-on-arm-via-opnfv-yardstick-sfo17119
 slug: sfo17-119

@@ -8,7 +8,7 @@ comments: false
 date: 2016-09-20 17:10:48
 excerpt: "**Title: IoT Zephyr**\n Overview of IoT Zephyr\n \n **Bio**\n Geoff Thorpe
   heads up security within the Microcontroller group of NXP, where the intersection
-  of device security and network security gives him a headache commonly known as \u201CIoT\u201D.
+  of device security and network security gives him a headache commonly known as “IoT”.
   His early experience with security topics was very software-centric, as a long-standing
   member of the OpenSSL team and a contributor to related open source projects. After
   many years veering off into semiconductors and hardware architecture, his software-bias
@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/las16/las16-300k2/
 post_format:
 - Video
 session_id: LAS16-300K2
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66521412
 slideshare_presentation_url: http://www.slideshare.net/ShovanSargunam/las16300k2-geoff-thorpe-iot-zephyr
 slug: las16-300k2

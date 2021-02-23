@@ -7,7 +7,7 @@ excerpt: Learn how to build, store and use fat manifests (for Docker images) to 
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-463/
 session_id: SFO17-463
-session_track: LEG
+session_track: Enterprise
 slug: sfo17-463
 title: OS and architecture agnostic Docker Images - SFO17-463
 video_length: 00:00
@@ -54,4 +54,4 @@ Event Date: 29 Sept 2017
 
 Speakers: 
 
-Position: 
+Position:

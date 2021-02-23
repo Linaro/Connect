@@ -12,7 +12,7 @@ excerpt: 'The size of big data even the data sets to be processed individually i
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-453/
 session_id: SFO17-453
-session_track: LEG
+session_track: Enterprise
 slug: sfo17-453
 title: Hyper scaling concept server - SFO17-453
 video_length: 00:00
@@ -61,4 +61,4 @@ Event Date: 28 Sept 2017
 
 Speakers: 
 
-Position: 
+Position:

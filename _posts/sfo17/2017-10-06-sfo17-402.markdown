@@ -8,7 +8,7 @@ comments: false
 date: 2017-10-06 16:55:45
 excerpt: "Often an embedded WLAN chip is connected via an SDIO bus. During a system
   suspend/resume the SDIO card (WLAN chip) gets re-initialized unconditionally, even
-  when it\u2019s not needed.\n \n The re-initialization of an SDIO card often consumes
+  when it’s not needed.\n \n The re-initialization of an SDIO card often consumes
   several hundreds of milliseconds, as also shown by real measurements. Unfortunate
   this time adds up to the total suspend/resume time for the system.\n \n In this
   session the problem is being described and a solution being explored."

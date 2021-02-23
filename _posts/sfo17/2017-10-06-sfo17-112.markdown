@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-112/
 post_format:
 - Video
 session_id: SFO17-112
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80689129
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/sfo17-112-using-so-c-vendor-hals-in-the-zephyr-project
 slug: sfo17-112

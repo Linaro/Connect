@@ -3,11 +3,10 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-15-Monday/LCU14-109-%20Embedded%20Systems-%20How%20Low%20Can%20You%20Go%3F.mp4
 author: connect
 categories:
-  - lcu14
+- lcu14
 comments: true
 date: 2015-06-30 17:11:17
-excerpt:
-  'Arm Linux has traditionally been the the operating system of choice for
+excerpt: 'Arm Linux has traditionally been the the operating system of choice for
   the very low end of embedded systems, with very low power consumption and tight
   constraints on memory size and CPU speed.
 
@@ -39,7 +38,7 @@ image: /assets/images/featured-images/LCU14-109.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-109-embedded-systems-how-low-can-you-go/
 post_format:
-  - Video
+- Video
 session_id: LCU14-109
 session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38846937
@@ -47,12 +46,12 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-109-embed
 slug: lcu14-109-embedded-systems-how-low-can-you-go
 speakers: Arnd Bergmann
 tags:
-  - Arnd Bergmann
-  - lcu14
-  - LCU14-109
-  - Linux Kernel
-title: "LCU14-109: Embedded Systems: How Low Can You Go?"
-video_length: "50:56"
+- Arnd Bergmann
+- lcu14
+- LCU14-109
+- Linux Kernel
+title: 'LCU14-109: Embedded Systems: How Low Can You Go?'
+video_length: '50:56'
 video_thumbnail: None
 wordpress_id: 1513
 youtube_video_url: https://www.youtube.com/watch?v=TvM1wcJT0p0

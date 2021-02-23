@@ -5,15 +5,15 @@ author: connect
 categories: bkk16
 comments: false
 date: 2016-02-22 17:20:36
-excerpt: "Smart connected devices such as mobile phones, tablets and Digital TVs are
+excerpt: Smart connected devices such as mobile phones, tablets and Digital TVs are
   required to handle data with strong security and confidentiality requirements. A
-  \u201CTrusted Execution Environment\u201D (TEE) provides an environment for processing
-  data securely, protected from normal platform applications. This talk is intended
-  as an introduction to Trusted Execution, and the open-source Trusted Execution Environment
+  “Trusted Execution Environment” (TEE) provides an environment for processing data
+  securely, protected from normal platform applications. This talk is intended as
+  an introduction to Trusted Execution, and the open-source Trusted Execution Environment
   OP-TEE in particular. It introduces the GlobalPlatform TEE Specifications, explains
   how Trusted Execution is implemented by Arm TrustZone and OP-TEE, and outlines how
   trusted boot software manages the secure boot of an Arm platform. Finally, it gives
-  some pointers on how to get started with OP-TEE."
+  some pointers on how to get started with OP-TEE.
 featured_image_name: BKK16-110.jpg
 image: /assets/images/featured-images/BKK16-110.jpg
 layout: resource-post

@@ -3,11 +3,10 @@ amazon_s3_presentation_url: https://static.linaro.org/connect/hkg18/presentation
 amazon_s3_video_url: None
 author: connect
 categories:
-  - hkg18
+- hkg18
 comments: false
 date: 2018-04-11 14:12:48
-excerpt:
-  "Key Takeaways: \n\nWith the drive to increase integration, reduce system
+excerpt: "Key Takeaways: \n\nWith the drive to increase integration, reduce system
   costs, accelerate performance, and enhance reliability, software developers are
   discovering the processor they would like to target is simply not fast enough.  This
   session will help you the system architect or software developer understand how
@@ -27,17 +26,16 @@ image: /assets/images/featured-images/HKG18-301.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-301/
 post_format:
-  - Video
+- Video
 session_id: HKG18-301
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92327087
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18301-dramatically-accelerate-96board-software-via-an-fpga-with-integrated-processors
 slug: hkg18-301
 speakers: Glenn Steiner
-title:
-  HKG18-301 - Dramatically Accelerate 96Board Software via an FPGA with Integrated
+title: HKG18-301 - Dramatically Accelerate 96Board Software via an FPGA with Integrated
   Processors
-video_length: "58:52"
+video_length: '58:52'
 video_thumbnail: None
 wordpress_id: 8774
 youtube_video_url: https://www.youtube.com/watch?v=ZYXubMrgTfU

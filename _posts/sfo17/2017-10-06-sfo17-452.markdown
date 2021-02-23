@@ -11,7 +11,7 @@ excerpt: Ceph block I/O performance is the basis for achieving database and virt
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-452/
 session_id: SFO17-452
-session_track: LEG
+session_track: Enterprise
 slug: sfo17-452
 speakers: Chris Marsh
 title: A Validation of Ceph Block Performance for Random I/O Applications - SFO17-452
@@ -60,4 +60,4 @@ Event Date: 28 Sept 2017
 
 Speakers: Chris Marsh
 
-Position: 
+Position:

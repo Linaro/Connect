@@ -18,7 +18,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-213/
 post_format:
 - Video
 session_id: SFO17-213
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80525687
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/linux-based-infotainment-systems-thundersoft-case-study-sfo17213
 slug: sfo17-213

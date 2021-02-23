@@ -15,14 +15,13 @@ excerpt: The TI SimpleLink CC32xx family of MCUs provides an SoC and supporting 
   and in particular, evaluates options for integrating the TI SimpleLink WiFi stack
   into Zephyr.
 featured_image_file_name: BUD17-112.jpg
-image:
 image: /assets/images/featured-images/BUD17-112.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-112/
 post_format:
 - Video
 session_id: BUD17-112
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72785787
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17112-porting-the-ti-simplelink-cc32xx-wifi-stack-to-the-zephyr-iot-os
 slug: bud17-112

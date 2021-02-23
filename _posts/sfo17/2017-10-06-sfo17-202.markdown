@@ -6,12 +6,17 @@ categories:
 - sfo17
 comments: false
 date: 2017-10-06 16:54:12
-excerpt: "The ACPI PM domain supports the so called direct_complete path during system
+excerpt: 'The ACPI PM domain supports the so called direct_complete path during system
   sleep in a way to avoid wasting power, but also to decrease the system suspend/resume
-  time.\n\nHowever, the direct_complete path has limitations and doesn\u2019t perform
-  well in all scenarios. The so called, runtime PM centric path, often offers a better
-  option.\n\nThis session compares the two concepts and gives an update on the related
-  work for ACPI PM domain."
+  time.
+
+
+  However, the direct_complete path has limitations and doesn’t perform well in all
+  scenarios. The so called, runtime PM centric path, often offers a better option.
+
+
+  This session compares the two concepts and gives an update on the related work for
+  ACPI PM domain.'
 featured_image_name: SFO17-202.jpg
 image_name: SFO17-202.jpg
 image: /assets/images/featured-images/SFO17-202.jpg

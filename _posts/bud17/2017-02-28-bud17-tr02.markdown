@@ -15,7 +15,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-tr02/
 post_format:
 - Video
 session_id: BUD17-TR02
-session_track: Other
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786293
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17tr02-upstreaming-101
 slug: bud17-tr02

@@ -1,6 +1,6 @@
 ---
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:39
 featured_image_name: BKK16-204.jpg
@@ -10,7 +10,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-204/
 post_format:
 - Video
 session_id: BKK16-204
-session_track: Arm
+session_track: None/Other
 slug: bkk16-204
 speakers: Robin Randhawa
 title: 'BKK16-204: Unified Performance Management'

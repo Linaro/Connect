@@ -18,7 +18,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-412/
 post_format:
 - Video
 session_id: HKG18-412
-session_track: Mobile
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92158614
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18412-androidaosp-workflow
 slug: hkg18-412

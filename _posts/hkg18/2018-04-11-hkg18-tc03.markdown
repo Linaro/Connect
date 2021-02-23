@@ -10,14 +10,14 @@ session_id: HKG18-TC03
 session_track: Tools
 slug: hkg18-tc03
 speakers: Richard Henderson
-title: "HKG18-TC03 - TCWG Hacking Topics: QEMU decode tree"
+title: 'HKG18-TC03 - TCWG Hacking Topics: QEMU decode tree'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 9288
 categories:
-  - hkg18
+- hkg18
 post_format:
-  - Video
+- Video
 ---
 
 Session ID: HKG18-TC03

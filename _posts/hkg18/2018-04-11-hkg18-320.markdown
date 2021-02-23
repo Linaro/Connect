@@ -24,7 +24,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-320/
 post_format:
 - Video
 session_id: HKG18-320
-session_track: Ecosystem Day
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92327232
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18320-the-practical-application-of-ifaa-standard
 slug: hkg18-320

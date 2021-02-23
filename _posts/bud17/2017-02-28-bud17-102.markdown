@@ -1,23 +1,22 @@
 ---
-amazon_s3_presentation_url: "https://static.linaro.org/connect/bud17/Presentations/BUD17-102%20-%20Update%20on%20CPU%20cluster%20idling.pdf"
-amazon_s3_video_url: "https://static.linaro.org/connect/bud17/Videos/Monday/BUD17-102%20Update%20on%20CPU%20cluster%20idling.mp4"
+amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-102%20-%20Update%20on%20CPU%20cluster%20idling.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Monday/BUD17-102%20Update%20on%20CPU%20cluster%20idling.mp4
 author: connect
 categories:
-  - bud17
+- bud17
 comments: false
 date: 2017-02-28 12:05:23
-excerpt: "Even if the CPU-Idle framework has improved significantly over the last
-  years, with important consolidation efforts, the framework doesn't scale for
-  multi-cluster SMP systems and heterogeneous systems like big.LITTLE. Therefore Linaro
-  have been working on a solution that unifies idle management for all kind of devices,
-  including CPUs. This sessions provides the audience an update of this work"
+excerpt: Even if the CPU-Idle framework has improved significantly over the last years,
+  with important consolidation efforts, the framework doesn't scale for multi-cluster
+  SMP systems and heterogeneous systems like big.LITTLE. Therefore Linaro have been
+  working on a solution that unifies idle management for all kind of devices, including
+  CPUs. This sessions provides the audience an update of this work
 featured_image_file_name: BUD17-102.jpg
-image:
 image: /assets/images/featured-images/BUD17-102.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-102/
 post_format:
-  - Video
+- Video
 session_id: BUD17-102
 session_track: Power Management
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72784407
@@ -25,8 +24,8 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17102-updat
 slug: bud17-102
 speakers: Ulf Hansson
 tags:
-  - CPU
-  - CPU-idle
+- CPU
+- CPU-idle
 title: Update on CPU cluster Idling - BUD17-102
 video_length: 00:00
 video_thumbnail: None

@@ -10,7 +10,7 @@ excerpt: 'A discussion on embedded Graphics, likely code bases, use cases and mi
   requirements in the IoT device world.
 
 
-'
+  '
 featured_image_file_name: BUD17-321.jpg
 image_name: BUD17-321.jpg
 image: /assets/images/featured-images/BUD17-321.jpg
@@ -19,7 +19,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-321/
 post_format:
 - Video
 session_id: BUD17-321
-session_track: Other
+session_track: None/Other
 slideshare_presentation_url: None
 slug: bud17-321
 speakers: Andrea Gallo

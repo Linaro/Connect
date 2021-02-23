@@ -23,7 +23,7 @@ session_track: Virtualization
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72946878
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17221-whats-new-in-qemu
 slug: bud17-221
-speakers: "Alex Benn\xE9e"
+speakers: Alex Bennée
 tags:
 - QEMU
 - Virtualization

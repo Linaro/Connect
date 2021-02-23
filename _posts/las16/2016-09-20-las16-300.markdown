@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/las16/las16-300/
 post_format:
 - Video
 session_id: LAS16-300
-session_track: Mini-Conference
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357348
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16300-mini-conference-2-cortexm-software-device-configuration
 slug: las16-300

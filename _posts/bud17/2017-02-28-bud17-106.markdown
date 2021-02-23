@@ -13,14 +13,13 @@ excerpt: "Short updates on various LMG initiatives, including boottime reduction
   - Whats new in android-4.9 (Amit Pundir)\n  \n - Intro to Serial Device Bus (Rob
   Herring)\n  \n - PPP Effort Update (Sam Protsenko)"
 featured_image_file_name: BUD17-106.jpg
-image:
 image: /assets/images/featured-images/BUD17-106.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-106/
 post_format:
 - Video
 session_id: BUD17-106
-session_track: LMG
+session_track: Android Ecosystem
 slideshare_presentation_url: None
 slug: bud17-106
 speakers: None

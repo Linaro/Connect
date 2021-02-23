@@ -15,7 +15,7 @@ link: http://connect.linaro.org/resource/bud17/demo/bud17-df20/
 post_format:
 - Video
 session_id: BUD17-DF20
-session_track: Other
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73369355
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/st-96boards-demo
 slug: bud17-df20

@@ -3,11 +3,10 @@ amazon_s3_presentation_url: https://static.linaro.org/connect/las16/Presentation
 amazon_s3_video_url: https://static.linaro.org/connect/las16/Videos/Wednesday/LAS16-309%20Server%20Ecosystem%20%20Xen%20on%20ARM%2C%20from%20Big%20Iron%20to%20IoT.mp4
 author: connect
 categories:
-  - las16
+- las16
 comments: false
 date: 2016-09-20 17:10:53
-excerpt:
-  "Abstract Xen on Arm: The Xen port is exploiting this set of new hardware
+excerpt: "Abstract Xen on Arm: The Xen port is exploiting this set of new hardware
   capabilities to run guest VMs in the most efficient way possible while keeping Arm
   specific changes to Xen and Linux to a minimum. Arm virtualization is set to be
   increasingly relevant for the embedded industry in the coming years. \nWhilst Xen
@@ -34,18 +33,17 @@ image: /assets/images/featured-images/LAS16-309.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-309/
 post_format:
-  - Video
+- Video
 session_id: LAS16-309
-session_track: LEG
+session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357564
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16309-server-ecosystem-xen-on-arm-from-big-iron-to-iot-luajit-status-on-aarch64
 slug: las16-309
 speakers: Ryan Arnold, Steve Capper, Julien Grall
 tags:
-  - Enterprise
-title:
-  "LAS16-309: Server Ecosystem: Xen on Arm, from Big Iron to IoT & LuaJIT status
-  on Aarch64"
+- Enterprise
+title: 'LAS16-309: Server Ecosystem: Xen on Arm, from Big Iron to IoT & LuaJIT status
+  on Aarch64'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3833

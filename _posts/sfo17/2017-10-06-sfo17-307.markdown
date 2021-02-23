@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-307/
 post_format:
 - Video
 session_id: SFO17-307
-session_track: LMG
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80656330
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/walt-vs-pelt-redux-sfo17307
 slug: sfo17-307

@@ -14,7 +14,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-405/
 post_format:
 - Video
 session_id: BKK16-405
-session_track: LNG
+session_track: IoT Fog/Gateway/Edge Computing
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58686993
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16405-lng-future-directions
 slug: bkk16-405

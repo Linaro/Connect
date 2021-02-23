@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-407/
 post_format:
 - Video
 session_id: HKG18-407
-session_track: IoT, Embedded
+session_track: Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92158585
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18407-hypervisors-and-iot-iot-secret-storage
 slug: hkg18-407

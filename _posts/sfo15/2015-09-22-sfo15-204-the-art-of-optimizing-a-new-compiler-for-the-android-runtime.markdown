@@ -7,13 +7,12 @@ categories:
 - sfo15
 comments: false
 date: 2015-09-22 00:00:00
-excerpt: "One of the features introduced by the Android Runtime (ART) is an Ahead-Of-Time
-  (AOT) compiler, named \u201CQuick\u201D, officially released with Android 5.0 Lollipop
-  last year. The next release of the system due this year, Android M, features a new
-  compiler, called \u201COptimizing\u201D, fully developed in the Android Open Source
-  Project (AOSP). Roland and Calin will present this new compiler, its design and
-  implementation, the benefits brought by Optimizing, and some issues we faced during
-  its development"
+excerpt: One of the features introduced by the Android Runtime (ART) is an Ahead-Of-Time
+  (AOT) compiler, named “Quick”, officially released with Android 5.0 Lollipop last
+  year. The next release of the system due this year, Android M, features a new compiler,
+  called “Optimizing”, fully developed in the Android Open Source Project (AOSP).
+  Roland and Calin will present this new compiler, its design and implementation,
+  the benefits brought by Optimizing, and some issues we faced during its development
 featured_image_name: SFO15204TheArtofOptimizingANewCompilerfortheAndroidRuntime.jpg
 image_name: SFO15204TheArtofOptimizingANewCompilerfortheAndroidRuntime.jpg
 image: /assets/images/featured-images/SFO15204TheArtofOptimizingANewCompilerfortheAndroidRuntime.jpg
@@ -22,7 +21,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-204-the-art-of-optimizing-a
 post_format:
 - Video
 session_id: None
-session_track: Mobile
+session_track: Android Ecosystem
 slideshare_presentation_url: None
 slug: sfo15-204-the-art-of-optimizing-a-new-compiler-for-the-android-runtime
 speakers: Roland Levillain, Calin Juravle

@@ -17,7 +17,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-107/
 post_format:
 - Video
 session_id: BKK16-107
-session_track: Kernel
+session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58208695
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16107-budget-fair-queueing-heuristics-in-the-block-layer
 slug: bkk16-107

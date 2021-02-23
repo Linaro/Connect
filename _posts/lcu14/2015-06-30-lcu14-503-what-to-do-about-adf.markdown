@@ -3,11 +3,10 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-19-Friday/LCU14-503-%20What%20To%20Do%20About%20ADF%3F.mp4
 author: connect
 categories:
-  - lcu14
+- lcu14
 comments: true
 date: 2015-06-30 17:07:26
-excerpt:
-  ADF is Android's Atomic Display Framework, which has been relatively recently
+excerpt: ADF is Android's Atomic Display Framework, which has been relatively recently
   developed and optionally replaces KMS and the framebuffer for forthcoming Android
   devices based on 3.10. It provides integration between Android's syncpoints to provide
   atomic display updates. This functionality is related to the atomic page flipping
@@ -27,12 +26,12 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-503-what-
 slug: lcu14-503-what-to-do-about-adf
 speakers: Daniel Thompson
 tags:
-  - Daniel Thompson
-  - lcu14
-  - LCU14-503
-  - Linux Kernel
-title: "LCU14-503: What To Do About ADF?"
-video_length: "51:25"
+- Daniel Thompson
+- lcu14
+- LCU14-503
+- Linux Kernel
+title: 'LCU14-503: What To Do About ADF?'
+video_length: '51:25'
 video_thumbnail: None
 wordpress_id: 1564
 youtube_video_url: https://www.youtube.com/watch?v=umnEXIBULnQ

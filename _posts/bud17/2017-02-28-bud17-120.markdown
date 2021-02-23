@@ -20,7 +20,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-120/
 post_format:
 - Video
 session_id: BUD17-120
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73173525
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/linuxwpan-ieee-802154-and-6lowpan-in-the-linux-kernel-bud17120
 slug: bud17-120

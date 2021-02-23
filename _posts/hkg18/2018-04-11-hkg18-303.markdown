@@ -3,13 +3,12 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-303.mp4
 author: connect
 categories:
-  - hkg18
+- hkg18
 comments: false
 date: 2018-04-11 14:12:48
-excerpt:
-  "The race to roll out new technology features, mobility services and autonomous
+excerpt: "The race to roll out new technology features, mobility services and autonomous
   vehicles continues to heat up across the tech and automotive industries. Over the
-  past year, we\u2019ve seen a flurry of M&A activity, partnerships and new alliances,
+  past year, we’ve seen a flurry of M&A activity, partnerships and new alliances,
   as automakers and their suppliers realize that the software and hardware required
   for autonomous driving is too complex for any one company to develop alone. \nWhile
   this is a step forward, greater collaboration across the entire industry is needed
@@ -25,14 +24,14 @@ image: /assets/images/featured-images/HKG18-303.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-303/
 post_format:
-  - Video
+- Video
 session_id: HKG18-303
-session_track: Autonomous Vehicles
+session_track: Automotive
 slideshare_presentation_url: None
 slug: hkg18-303
-speakers: "Dan Cauchy "
+speakers: 'Dan Cauchy '
 title: HKG18-303 - Automotive Grade Linux (AGL)
-video_length: "36:42"
+video_length: '36:42'
 video_thumbnail: None
 wordpress_id: 8778
 youtube_video_url: https://www.youtube.com/watch?v=b17ZVJYBr2g

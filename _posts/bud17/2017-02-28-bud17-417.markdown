@@ -17,7 +17,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-417/
 post_format:
 - Video
 session_id: BUD17-417
-session_track: LEG
+session_track: Enterprise
 slideshare_presentation_url: None
 slug: bud17-417
 speakers: Rong Chen

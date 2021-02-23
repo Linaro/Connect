@@ -18,7 +18,7 @@ link: http://connect.linaro.org/resource/las16/las16-500k3/
 post_format:
 - Video
 session_id: LAS16-500K3
-session_track: Other
+session_track: None/Other
 slideshare_presentation_url: None
 slug: las16-500k3
 speakers: David and Linus

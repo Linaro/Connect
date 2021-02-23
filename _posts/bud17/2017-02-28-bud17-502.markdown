@@ -26,10 +26,10 @@ link: http://connect.linaro.org/resource/bud17/bud17-502/
 post_format:
 - Video
 session_id: BUD17-502
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_presentation_url: None
 slug: bud17-502
-speakers: "Marcelo Kn\xF6rich Zuffo"
+speakers: Marcelo Knörich Zuffo
 title: A functional Open GPU Upon Arm - BUD17-502
 video_length: 01:04:26
 video_thumbnail: None

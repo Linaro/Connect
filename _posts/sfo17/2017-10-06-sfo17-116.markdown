@@ -20,7 +20,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-116/
 post_format:
 - Video
 session_id: SFO17-116
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80700483
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/test-standards-can-fuego-lava-and-others-agree-sfo17116
 slug: sfo17-116

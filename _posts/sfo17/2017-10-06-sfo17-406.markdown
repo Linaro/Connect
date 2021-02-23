@@ -6,10 +6,10 @@ categories:
 - sfo17
 comments: false
 date: 2017-10-06 16:55:49
-excerpt: "The ODP \u201CTiger Moth\u201D release introduces inline processing support
-  for IPsec that enables dramatic increases in throughput and performance by fully
-  leveraging hardware-offload capabilities on platforms that provide this. This talk
-  discusses the design of this support and the results achievable with it."
+excerpt: The ODP “Tiger Moth” release introduces inline processing support for IPsec
+  that enables dramatic increases in throughput and performance by fully leveraging
+  hardware-offload capabilities on platforms that provide this. This talk discusses
+  the design of this support and the results achievable with it.
 featured_image_name: SFO17-406.jpg
 image_name: SFO17-406.jpg
 image: /assets/images/featured-images/SFO17-406.jpg
@@ -18,7 +18,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-406/
 post_format:
 - Video
 session_id: SFO17-406
-session_track: LNG
+session_track: IoT Fog/Gateway/Edge Computing
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79886019
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/ipsec-full-offload-support-in-odp-sfo17406
 slug: sfo17-406

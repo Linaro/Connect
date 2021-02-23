@@ -17,7 +17,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-121/
 post_format:
 - Video
 session_id: BUD17-121
-session_track: LEG
+session_track: Enterprise
 slideshare_presentation_url: None
 slug: bud17-121
 speakers: Jim Perrin

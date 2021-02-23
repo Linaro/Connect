@@ -3,11 +3,10 @@ amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Presentation
 amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-403%20-%20Optimizing%20the%20Design%20and%20Implementation%20of%20KVM-ARM.mp4
 author: connect
 categories:
-  - sfo17
+- sfo17
 comments: false
 date: 2017-10-06 16:55:45
-excerpt:
-  A key drawback in the use of full system virtualization is the performance
+excerpt: A key drawback in the use of full system virtualization is the performance
   penalty introduced by hypervisors. This problem is especially present on Arm, which
   has significantly higher overhead for some workloads compared to x86, due to differences
   in the hardware virtualization support. The key reason for the overhead on Arm is
@@ -24,7 +23,7 @@ image: /assets/images/featured-images/SFO17-403.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-403/
 post_format:
-  - Video
+- Video
 session_id: SFO17-403
 session_track: Virtualization
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/81026985
@@ -32,7 +31,7 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/optimizing-the
 slug: sfo17-403
 speakers: Christoffer Dall
 title: Optimizing the Design and Implementation of KVM/Arm - SFO17-403
-video_length: "19:51"
+video_length: '19:51'
 video_thumbnail: None
 wordpress_id: 6049
 youtube_video_url: https://www.youtube.com/watch?v=foRxjfKQeas

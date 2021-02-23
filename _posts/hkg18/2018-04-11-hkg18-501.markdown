@@ -3,11 +3,10 @@ amazon_s3_presentation_url: https://static.linaro.org/connect/hkg18/presentation
 amazon_s3_video_url: None
 author: connect
 categories:
-  - hkg18
+- hkg18
 comments: false
 date: 2018-04-11 14:14:39
-excerpt:
-  This session will introduce the changes to EAS planned for 4.14 kernel, and
+excerpt: This session will introduce the changes to EAS planned for 4.14 kernel, and
   how Arm hopes that EAS will develop in future. EAS has already evolved from an Arm/Linaro
   joint project to involving a much wider community of SoC vendors, Google and interested
   device manufacturers. We will highlight the product-specific pieces remaining in
@@ -21,15 +20,15 @@ image: /assets/images/featured-images/HKG18-501.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-501/
 post_format:
-  - Video
+- Video
 session_id: HKG18-501
-session_track: Mobile, Kernel
+session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/99755989
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18501-eas-on-common-kernel-414-and-getting-much-closer-to-mainline-99755989
 slug: hkg18-501
 speakers: Chris Redpath
 title: HKG18-501 - EAS on Common Kernel 4.14 and getting (much) closer to mainline
-video_length: "51:07"
+video_length: '51:07'
 video_thumbnail: None
 wordpress_id: 8834
 youtube_video_url: https://www.youtube.com/watch?v=Pv23RQgfn18

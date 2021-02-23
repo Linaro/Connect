@@ -23,7 +23,7 @@ link: http://connect.linaro.org/resource/las16/las16-100/
 post_format:
 - Video
 session_id: LAS16-100
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_presentation_url: None
 slug: las16-100
 speakers: None

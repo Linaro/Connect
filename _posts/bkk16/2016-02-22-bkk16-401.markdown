@@ -22,7 +22,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-401/
 post_format:
 - Video
 session_id: BKK16-401
-session_track: LNG
+session_track: IoT Fog/Gateway/Edge Computing
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58686936
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16401-enhancing-application-performance-with-odp
 slug: bkk16-401

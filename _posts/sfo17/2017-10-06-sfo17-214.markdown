@@ -22,7 +22,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-214/
 post_format:
 - Video
 session_id: SFO17-214
-session_track: QA
+session_track: Automation & CI
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80644903
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/squad-an-overview-of-the-platform-behind-qareportslinaroorg-sfo17214
 slug: sfo17-214

@@ -17,7 +17,7 @@ excerpt: "As Moore's law is slowing down, heterogeneous architectures are needed
   algorithms and to enable the next generation of implementations in a world of advancing
   Artificial intelligence.\nIn this session we will introduce you to an all Programmable
   paradigm and low cost development platform to enable an ecosystem of flexibility
-  and unparalleled programmability. \nThe future is now\u2026..."
+  and unparalleled programmability. \nThe future is now…..."
 featured_image_name: HKG18-300K2.png
 image_name: HKG18-300K2.png
 image: /assets/images/featured-images/HKG18-300K2.png
@@ -26,13 +26,13 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-300k2/
 post_format:
 - Video
 session_id: HKG18-300K2
-session_track: Ecosystem Day
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92327052
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18300k2-keynote-tomas-evensen-all-programmable-socs-platforms-to-enable-the-future-of-embedded-machine-learning
 slug: hkg18-300k2
 speakers: Tomas Evensen
-title: "HKG18-300K2 - Keynote: Tomas Evensen - All Programmable SoCs? \u2013 Platforms
-  to enable the future of Embedded Machine Learning"
+title: 'HKG18-300K2 - Keynote: Tomas Evensen - All Programmable SoCs? – Platforms
+  to enable the future of Embedded Machine Learning'
 video_length: '29:26'
 video_thumbnail: None
 wordpress_id: 8772

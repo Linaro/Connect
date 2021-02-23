@@ -14,7 +14,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-200k2/
 post_format:
 - Video
 session_id: SFO17-200K2
-session_track: Keynote
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80650731
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/keynote-multicore-cpu-and-server-sfo17200k2-v2
 slug: sfo17-200k2
@@ -24,6 +24,8 @@ video_length: '59:06'
 video_thumbnail: None
 wordpress_id: 5955
 youtube_video_url: https://www.youtube.com/watch?v=h19u_nm1fpg
+tags:
+- Keynote
 ---
 
 Session ID: SFO17-200K2

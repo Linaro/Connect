@@ -12,7 +12,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-500k2/
 post_format:
 - Video
 session_id: BKK16-500K2
-session_track: Keynote
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59646731
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16500k2-cto-talk-the-end-to-end-story
 slug: bkk16-500k2
@@ -22,6 +22,8 @@ video_length: '23:45'
 video_thumbnail: None
 wordpress_id: 3381
 youtube_video_url: https://www.youtube.com/watch?v=GFvd2nHiFvU
+tags:
+- Keynote
 ---
 
 Event Date: March 11, 2016

@@ -13,9 +13,10 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-400k3-security-and-trust-in
 post_format:
 - Video
 session_id: None
-session_track: Keynote
+session_track: None/Other
 slug: sfo15-400k3-security-and-trust-in-a-mobile-world
 tags:
+- Keynote
 - Arm
 - Linaro
 - Linux

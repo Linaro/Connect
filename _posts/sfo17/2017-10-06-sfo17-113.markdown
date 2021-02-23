@@ -17,7 +17,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-113/
 post_format:
 - Video
 session_id: SFO17-113
-session_track: LTD
+session_track: ''
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80688900
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/new-zephyr-features-lwm2m-fota-framework-sfo17113
 slug: sfo17-113

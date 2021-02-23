@@ -14,7 +14,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-500/
 post_format:
 - Video
 session_id: BKK16-500
-session_track: QC
+session_track: ''
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59141003
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16500-dissecting-the-2m-loc-qc-fork
 slug: bkk16-500

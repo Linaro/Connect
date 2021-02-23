@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/las16/las16-203/
 post_format:
 - Video
 session_id: LAS16-203
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66494044
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16203-platform-security-architecture-for-embedded-devices
 slug: las16-203

@@ -3,11 +3,10 @@ amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Presentation
 amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-201%20Secure%20Boot%20on%20ARM%20systems%20-%20Building%20a....mp4
 author: connect
 categories:
-  - sfo17
+- sfo17
 comments: false
 date: 2017-10-06 16:54:12
-excerpt:
-  "Building a totally secure boot system goes through establishing a full trust
+excerpt: "Building a totally secure boot system goes through establishing a full trust
   relationship among all the different involved software layers, to prevent execution
   of unauthorized software. Doing that by implementing a complete Chain Of Trust based
   on existing industry standards and open source software guarantees interoperability,
@@ -22,17 +21,16 @@ image: /assets/images/featured-images/SFO17-201.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-201/
 post_format:
-  - Video
+- Video
 session_id: SFO17-201
 session_track: Security
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80134470
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/secure-boot-on-arm-systems-building-a-complete-chain-of-trust-upon-existing-industry-standards-using-opensource-firmware-sfo17201
 slug: sfo17-201
 speakers: Matteo Carlini
-title:
-  "Secure Boot on Arm systems \u2013 Building a complete Chain of Trust upon
-  existing industry standards using open-source firmware - SFO17-201"
-video_length: "33:04"
+title: Secure Boot on Arm systems – Building a complete Chain of Trust upon existing
+  industry standards using open-source firmware - SFO17-201
+video_length: '33:04'
 video_thumbnail: None
 wordpress_id: 5957
 youtube_video_url: https://www.youtube.com/watch?v=MZ0PpzKPM5Q

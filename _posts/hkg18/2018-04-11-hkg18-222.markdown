@@ -34,7 +34,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-222/
 post_format:
 - Video
 session_id: HKG18-222
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92872258
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18222-trusted-firmware-m-secure-storage
 slug: hkg18-222

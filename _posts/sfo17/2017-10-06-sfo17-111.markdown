@@ -6,9 +6,9 @@ categories:
 - sfo17
 comments: false
 date: 2017-10-06 16:53:52
-excerpt: "What is Secure96 and why? In this session we will give an introduction to
-  Secure96, a daughter board for engineers work with symmetric, asymmetric IC\u2019s
-  as well as TPM chip."
+excerpt: What is Secure96 and why? In this session we will give an introduction to
+  Secure96, a daughter board for engineers work with symmetric, asymmetric IC’s as
+  well as TPM chip.
 featured_image_name: SFO17-111.jpg
 image_name: SFO17-111.jpg
 image: /assets/images/featured-images/SFO17-111.jpg
@@ -22,7 +22,7 @@ slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79884071
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/secure96-sfo17111
 slug: sfo17-111
 speakers: Joakim Bech
-title: "Secure96 - SFO17-111"
+title: Secure96 - SFO17-111
 video_length: '22:36'
 video_thumbnail: None
 wordpress_id: 5936

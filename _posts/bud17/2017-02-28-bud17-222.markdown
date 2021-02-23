@@ -18,7 +18,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-222/
 post_format:
 - Video
 session_id: BUD17-222
-session_track: LMG
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72789369
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17222-energy-awareness-the-next-step
 slug: bud17-222

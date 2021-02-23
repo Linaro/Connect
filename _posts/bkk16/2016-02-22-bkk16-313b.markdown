@@ -1,6 +1,6 @@
 ---
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:48
 excerpt: Arm in HPC /  This session will cover current Arm HPC software ecosystem
@@ -13,7 +13,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-313b/
 post_format:
 - Video
 session_id: BKK16-313B
-session_track: LEG
+session_track: Enterprise
 slug: bkk16-313b
 speakers: Darren Cepulis
 tags:

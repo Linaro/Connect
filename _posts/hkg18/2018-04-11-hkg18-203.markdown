@@ -18,7 +18,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-203/
 post_format:
 - Video
 session_id: HKG18-203
-session_track: Digital Home
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/91396391
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18203-overview-of-linaro-drm
 slug: hkg18-203

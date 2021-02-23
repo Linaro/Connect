@@ -19,7 +19,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-310/
 post_format:
 - Video
 session_id: SFO17-310
-session_track: Kernel
+session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80225438
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bof-device-tree-and-secure-firmware-bof-sfo17310
 slug: sfo17-310

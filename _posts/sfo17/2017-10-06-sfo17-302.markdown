@@ -26,7 +26,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-302/
 post_format:
 - Video
 session_id: SFO17-302
-session_track: Kernel
+session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79885319
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bfq-fairness-and-low-latency-in-block-io-the-two-towers-sfo17302
 slug: sfo17-302

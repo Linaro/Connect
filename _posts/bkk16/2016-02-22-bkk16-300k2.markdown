@@ -12,7 +12,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-300k2/
 post_format:
 - Video
 session_id: BKK16-300K2
-session_track: Keynote
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59824756
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16300k2-shane-coughlan-harald-welte-keynotes
 slug: bkk16-300k2
@@ -22,6 +22,8 @@ video_length: '49:16'
 video_thumbnail: None
 wordpress_id: 3340
 youtube_video_url: https://www.youtube.com/watch?v=b4Bli8h0V-Q
+tags:
+- Keynote
 ---
 
 Event Date: March 9, 2016

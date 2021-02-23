@@ -14,7 +14,7 @@ excerpt: The cloud is changing how modern applications are being developed, depl
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-461/
 session_id: SFO17-461
-session_track: LEG
+session_track: Enterprise
 slug: sfo17-461
 title: 'Faster, Leaner and More Openness: Java is Accelerating Innovation for the
   Cloud - SFO17-461'
@@ -62,4 +62,4 @@ Event Date: 29 Sept 2017
 
 Speakers: 
 
-Position: 
+Position:

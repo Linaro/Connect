@@ -12,7 +12,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-200k2/
 post_format:
 - Video
 session_id: BKK16-200K2
-session_track: Keynote
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59351418
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16200k2-standards-and-security
 slug: bkk16-200k2
@@ -22,6 +22,8 @@ video_length: '34:47'
 video_thumbnail: None
 wordpress_id: 3322
 youtube_video_url: https://www.youtube.com/watch?v=798NDrLH36U
+tags:
+- Keynote
 ---
 
 Event Date: March 8, 2016

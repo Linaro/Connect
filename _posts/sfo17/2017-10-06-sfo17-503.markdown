@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-503/
 post_format:
 - Video
 session_id: SFO17-503
-session_track: LEG
+session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80643332
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/openjdk-past-present-and-future-sfo17503
 slug: sfo17-503

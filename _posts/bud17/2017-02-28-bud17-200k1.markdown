@@ -6,16 +6,16 @@ categories:
 - bud17
 comments: false
 date: 2017-02-28 12:05:30
-excerpt: "The European Space Agency\u2019s (ESA) current mission Gaia and upcoming
-  one Euclid will generate massive amounts of astronomical data to be made freely
-  available on-line through powerful data management systems. This big data era brings
-  a change of paradigm and associated big challenges for building these missions\u2019
-  archives. The current use case of \u201Cbring the data to the user\u201D is being
-  replaced by the new concept of \u201Cbring the user to the data\u201D. This new
-  generation of science archives is transforming into science exploitation and collaborative
-  platforms, where the users can send her/his code to the data, run it on computing
-  and storage services provided directly by the archive (where the data reside), and
-  easily share all this with other scientists they\u2019re collaborating with."
+excerpt: The European Space Agency’s (ESA) current mission Gaia and upcoming one Euclid
+  will generate massive amounts of astronomical data to be made freely available on-line
+  through powerful data management systems. This big data era brings a change of paradigm
+  and associated big challenges for building these missions’ archives. The current
+  use case of “bring the data to the user” is being replaced by the new concept of
+  “bring the user to the data”. This new generation of science archives is transforming
+  into science exploitation and collaborative platforms, where the users can send
+  her/his code to the data, run it on computing and storage services provided directly
+  by the archive (where the data reside), and easily share all this with other scientists
+  they’re collaborating with.
 featured_image_file_name: BUD17-200K1.jpg
 image_name: BUD17-200K1.jpg
 image: /assets/images/featured-images/BUD17-200K1.jpg
@@ -24,18 +24,18 @@ link: http://connect.linaro.org/resource/bud17/bud17-200k1/
 post_format:
 - Video
 session_id: BUD17-200K1
-session_track: Keynote
+session_track: None/Other
 slideshare_presentation_url: None
 slug: bud17-200k1
 speakers: Christophe Arviset
 tags:
+- Keynote
 - Big data
 - CERN
 - Christophe Arviset
 - ESA
-- Keynote
 - Space
-title: "Big data, big challenges for ESA Space Science Missions\u2019 Archives - BUD17-200K1"
+title: Big data, big challenges for ESA Space Science Missions’ Archives - BUD17-200K1
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4636

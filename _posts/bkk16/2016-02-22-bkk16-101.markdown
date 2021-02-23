@@ -1,6 +1,6 @@
 ---
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:33
 excerpt: Review the data and plans collected to date
@@ -11,7 +11,7 @@ link: http://connect.linaro.org/resource/bkk16-101/
 post_format:
 - Video
 session_id: BKK16-101
-session_track: LITE
+session_track: IoT and Embedded
 slug: bkk16-101
 speakers: Matthew Locke
 tags:

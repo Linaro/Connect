@@ -3,7 +3,7 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-17-Wednesday/LCU14-300-%20OpenStack%20and%20KVM%20on%20ARM%20servers.mp4
 author: connect
 categories:
-  - lcu14
+- lcu14
 comments: true
 date: 2015-06-30 17:08:31
 excerpt: Overview of Ubuntu for Arm Servers
@@ -13,20 +13,20 @@ image: /assets/images/featured-images/LCU14-300.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-300-openstack-and-kvm-on-arm-servers/
 post_format:
-  - Video
+- Video
 session_id: LCU14-300
-session_track: Enterprise Servers
+session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39257242
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-300-open-stack-andkvm-on-arm-servers
 slug: lcu14-300-openstack-and-kvm-on-arm-servers
 speakers: Christian Reis
 tags:
-  - Christian Reis
-  - Enterprise Servers
-  - lcu14
-  - LCU14-300
-title: "LCU14-300: OpenStack and KVM on Arm servers"
-video_length: "26:20"
+- Christian Reis
+- Enterprise Servers
+- lcu14
+- LCU14-300
+title: 'LCU14-300: OpenStack and KVM on Arm servers'
+video_length: '26:20'
 video_thumbnail: None
 wordpress_id: 1537
 youtube_video_url: https://www.youtube.com/watch?v=WLtxQTsyWK8

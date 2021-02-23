@@ -18,7 +18,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-300/
 post_format:
 - Video
 session_id: BUD17-300
-session_track: LNG
+session_track: IoT Fog/Gateway/Edge Computing
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786390
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17300-journey-of-a-packet
 slug: bud17-300

@@ -3,11 +3,10 @@ amazon_s3_presentation_url: https://static.linaro.org/connect/hkg18/presentation
 amazon_s3_video_url: None
 author: connect
 categories:
-  - hkg18
+- hkg18
 comments: false
 date: 2018-04-11 14:11:12
-excerpt:
-  Tiger Moth is the latest Long Term Support release of OpenDataPlane (ODP).
+excerpt: Tiger Moth is the latest Long Term Support release of OpenDataPlane (ODP).
   Included in this release are significant new support for hardware offload and acceleration,
   including IPsec support. This talk provides an update on the ODP project and where
   it is going.
@@ -17,9 +16,9 @@ image: /assets/images/featured-images/HKG18-106.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-106/
 post_format:
-  - Video
+- Video
 session_id: HKG18-106
-session_track: Networking
+session_track: IoT Fog/Gateway/Edge Computing
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92873238
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18106-introducing-opendataplane-tiger-moth-92873238
 slug: hkg18-106

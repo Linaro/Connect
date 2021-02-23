@@ -18,8 +18,8 @@ excerpt: "VIXL is dynamic code generation toolkit for Armv8 that we hope will en
   the AArch64 execution state we decided that we would focus our efforts on A64 tooling
   to enable developers to rapidly port programming language virtual machines for this
   new processor range. Soon after we decided to support Aarch32 as well.\n\nThis presentation
-  will introduce you to what VIXL is, what\u2019s new in VIXL and how to use it and
-  take advantage of all its components that cover all the aspects of software development
+  will introduce you to what VIXL is, what’s new in VIXL and how to use it and take
+  advantage of all its components that cover all the aspects of software development
   on Arm CPUs."
 featured_image_name: SFO15500VIXL.jpg
 image_name: SFO15500VIXL.jpg
@@ -29,7 +29,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-500-vixl/
 post_format:
 - Video
 session_id: None
-session_track: Mobile
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/54401150
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15500-vixl
 slug: sfo15-500-vixl

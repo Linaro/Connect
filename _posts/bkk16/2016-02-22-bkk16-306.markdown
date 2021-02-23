@@ -19,11 +19,11 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-306/
 post_format:
 - Video
 session_id: BKK16-306
-session_track: LMG
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59657401
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16306-art-ii
 slug: bkk16-306
-speakers: "\u015Eerban Constantinescu"
+speakers: Şerban Constantinescu
 tags:
 - ART
 - LMG

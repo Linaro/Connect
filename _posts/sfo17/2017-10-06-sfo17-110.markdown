@@ -25,7 +25,7 @@ slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80154260
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/getting-started-with-llvm-the-tldr-version-sfo17110
 slug: sfo17-110
 speakers: Diana Picus
-title: "Getting started with LLVM - the TL;DR version - SFO17-110"
+title: Getting started with LLVM - the TL;DR version - SFO17-110
 video_length: '58:27'
 video_thumbnail: None
 wordpress_id: 5934

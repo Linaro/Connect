@@ -34,7 +34,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-221/
 post_format:
 - Video
 session_id: HKG18-221
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92875894
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18221-trusted-firmware-m-core-and-partition-manager
 slug: hkg18-221
