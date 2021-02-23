@@ -17,6 +17,56 @@ slug:
   sanitize_replacement: "_"
 media_folder: "assets/images/content"
 collections:
+  - label: "Tracks"
+    name: "tracks_data"
+    editor:
+      preview: false
+    files:
+      - label: "Themes to Tracks"
+        name: "tracks"
+        file: "_data/tracks.json"
+        fields: 
+          - label: "Items"
+            name: "items"
+            widget: "list"
+            fields:
+              - {
+                  label: Track name,
+                  name: name,
+                  widget: string,
+                  hint: "The name of the track.",
+                  required: true
+                }
+  - label: "Themes to Tracks"
+    name: "themes_and_tracks"
+    editor:
+      preview: false
+    files:
+      - label: "Themes to Tracks"
+        name: "themes_to_tracks"
+        file: "_data/tracks_to_themes.json"
+        fields:
+          - label: "Items"
+            name: "items"
+            widget: "list"
+            fields:
+              - {
+                  label: Theme Title,
+                  name: title,
+                  widget: string,
+                  hint: "The name of the theme. This should not be changed.",
+                  required: true,
+                }
+              - {
+                  label: Tracks,
+                  name: "tracks",
+                  widget: "relation",
+                  collection: "tracks_data",
+                  file: "tracks",
+                  search_fields: ["items.*.name"],
+                  display_fields: ["items.*.name"],
+                  value_field: "items.*.name",
+                }
   - label: "Website Data Files & Settings"
     name: "config"
     editor:
