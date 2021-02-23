@@ -3,7 +3,7 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-18-Thursday/LCU14%20-%20LNG%20Keynote%201.mp4
 author: connect
 categories:
-  - lcu14
+- lcu14
 comments: true
 date: 2015-06-30 17:07:50
 featured_image_name: LCU14-400a.jpg
@@ -12,19 +12,19 @@ image: /assets/images/featured-images/LCU14-400a.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-400a-lng-keynote-1-nfv-empowering-the-network/
 post_format:
-  - Video
+- Video
 session_id: LCU14-400a
-session_track: Other
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39247643
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/nfv-linaro-conference-sep2014kolias
 slug: lcu14-400a-lng-keynote-1-nfv-empowering-the-network
 speakers: Dr. Christos Kolias
 tags:
-  - Dr. Christos Kolias
-  - lcu14
-  - LCU14-400a
-title: "LCU14-400a : LNG Keynote 1- NFV: Empowering the Network"
-video_length: "53:30"
+- Dr. Christos Kolias
+- lcu14
+- LCU14-400a
+title: 'LCU14-400a : LNG Keynote 1- NFV: Empowering the Network'
+video_length: '53:30'
 video_thumbnail: None
 wordpress_id: 1550
 youtube_video_url: https://www.youtube.com/watch?v=tFDnj_342n4

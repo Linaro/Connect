@@ -3,11 +3,10 @@ amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Presentation
 amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-405%20-%20Multi-threaded%20Programming%20on%20ARM%20-%20a%20MP-MC%20Ring%20Buffer%20Case%20Study.mp4
 author: connect
 categories:
-  - sfo17
+- sfo17
 comments: false
 date: 2017-10-06 16:55:49
-excerpt:
-  This presentation describes the evolution of a multi-producer / multi-consumer
+excerpt: This presentation describes the evolution of a multi-producer / multi-consumer
   ring buffer from a lock-based beginning to a scalable non-blocking design. Hardware
   and software properties that limit scalability and prevent non-blocking behavior
   is identified. A novel use of lock-free delegation to release ring buffer updates
@@ -18,15 +17,15 @@ image: /assets/images/featured-images/SFO17-405.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-405/
 post_format:
-  - Video
+- Video
 session_id: SFO17-405
-session_track: LNG
+session_track: IoT Fog/Gateway/Edge Computing
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80099267
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/multithreaded-programming-on-arm-a-mpmc-ring-buffer-case-study-sfo17405
 slug: sfo17-405
 speakers: Ola Liljedahl
 title: Multi-threaded Programming on Arm - a MP/MC Ring Buffer Case Study - SFO17-405
-video_length: "32:41"
+video_length: '32:41'
 video_thumbnail: None
 wordpress_id: 6053
 youtube_video_url: https://www.youtube.com/watch?v=Qg6ZZLgXqek

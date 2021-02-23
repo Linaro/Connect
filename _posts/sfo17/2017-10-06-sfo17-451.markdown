@@ -22,7 +22,7 @@ excerpt: 'The next flagship supercomputer in Japan, replacement of the K
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-451/
 session_id: SFO17-451
-session_track: LEG
+session_track: Enterprise
 slug: sfo17-451
 speakers: Yutaka Ishikawa
 title: An Overview of Post-K Supercomputer Development in Japan - SFO17-451
@@ -78,4 +78,4 @@ Event Date: 28 Sept 2017
 
 Speakers: Yutaka Ishikawa
 
-Position: 
+Position:

@@ -18,7 +18,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-311-configfs-gadget-an-intr
 post_format:
 - Video
 session_id: None
-session_track: Mobile
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52946511
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15311-configfs-gadget-an-introduction
 slug: sfo15-311-configfs-gadget-an-introduction

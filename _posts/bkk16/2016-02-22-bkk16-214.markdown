@@ -1,12 +1,11 @@
 ---
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:42
-excerpt: "As ODP enters its third year we are seeing increased maturity in its capabilities
+excerpt: As ODP enters its third year we are seeing increased maturity in its capabilities
   as well as increased adoption by application writers. This talk highlights ODP developments
-  since SFO15 and discusses what's ahead for ODP in 2016 as it enters production
-  use."
+  since SFO15 and discusses what's ahead for ODP in 2016 as it enters production use.
 featured_image_name: BKK16-214.jpg
 image: /assets/images/featured-images/BKK16-214.jpg
 layout: resource-post
@@ -14,7 +13,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-214/
 post_format:
 - Video
 session_id: BKK16-214
-session_track: LNG
+session_track: IoT Fog/Gateway/Edge Computing
 slug: bkk16-214
 speakers: Bill Fischofer
 tags:

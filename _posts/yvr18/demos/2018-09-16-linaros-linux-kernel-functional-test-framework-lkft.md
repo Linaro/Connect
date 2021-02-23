@@ -7,7 +7,7 @@ date: '2018-09-16 09:00:00+00:00'
 image_name: yvr18-demo6.jpg
 image: /assets/images/featured-images/yvr18-demo6.jpg
 layout: resource-post
-session_track: Demo
+session_track: None/Other
 tag: demo
 speakers:
 - company: Linaro
@@ -15,8 +15,8 @@ speakers:
   job-title: Linux Kernel Validation Engineer
 title: Linaro’s Linux Kernel Functional Test framework (LKFT)
 youtube_video_url: https://www.youtube.com/watch?v=cuVWWXLMHlY
-tag: demo
 ---
+
 Linaro LKFT build uses OpenEmbedded to build a userspace image, along with the kernel, for each board and branch combination under test.
 
 LKFT is Linaro’s Linux Kernel Functional Test framework.

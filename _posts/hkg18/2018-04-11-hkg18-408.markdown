@@ -6,14 +6,18 @@ categories:
 - hkg18
 comments: false
 date: 2018-04-11 14:13:45
-excerpt: "DRM (Digital Rights Management) solution secures video stream for transmission
+excerpt: 'DRM (Digital Rights Management) solution secures video stream for transmission
   and playback.  It brings the complexity of media framework and driver porting in
-  Secure-OS. Meanwhile, It seriously impacts on user\u2019s experience if Secure-OS
-  takes too many time slices.\nArm TZMP1 solution leverages protected mode to prevent
-  the normal-world OS (Rich-OS) from accessing the stream. Rich-OS can use existing
-  media framework and driver to manipulate the playback flow path. This significantly
-  mitigates the complexity of Secure-OS.\nArm provides an open source reference based
-  on Linaro's work to facilitate the TZMP1 development of partners."
+  Secure-OS. Meanwhile, It seriously impacts on user’s experience if Secure-OS takes
+  too many time slices.
+
+  Arm TZMP1 solution leverages protected mode to prevent the normal-world OS (Rich-OS)
+  from accessing the stream. Rich-OS can use existing media framework and driver to
+  manipulate the playback flow path. This significantly mitigates the complexity of
+  Secure-OS.
+
+  Arm provides an open source reference based on Linaro''s work to facilitate the
+  TZMP1 development of partners.'
 featured_image_name: HKG18-408.png
 image_name: HKG18-408.png
 image: /assets/images/featured-images/HKG18-408.png
@@ -22,7 +26,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-408/
 post_format:
 - Video
 session_id: HKG18-408
-session_track: LHG
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92750037
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18408-a-drm-solution-using-tzmp
 slug: hkg18-408

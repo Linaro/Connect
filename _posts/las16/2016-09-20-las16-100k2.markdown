@@ -14,7 +14,7 @@ link: http://connect.linaro.org/resource/las16/las16-100k2/
 post_format:
 - Video
 session_id: LAS16-100K2
-session_track: Keynote
+session_track: None/Other
 slideshare_presentation_url: None
 slug: las16-100k2
 speakers: Morgan Quigley
@@ -23,6 +23,8 @@ video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3792
 youtube_video_url: https://www.youtube.com/watch?v=MCLFp55y0dc
+tags:
+- Keynote
 ---
 
 LAS16-100K2: The Robot Operating System: An Open Source Framework for Modern Robotics

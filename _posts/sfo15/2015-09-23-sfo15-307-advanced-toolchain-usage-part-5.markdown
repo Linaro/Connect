@@ -8,15 +8,14 @@ categories:
 - sfo15
 comments: false
 date: 2015-09-23 00:00:00
-excerpt: "This session is a continuation of the Advanced Toolchain Usage series started
+excerpt: 'This session is a continuation of the Advanced Toolchain Usage series started
   at LCU14. These sessions will cover a variety of topics, such as: symbol-versioning
-  how-to, what the compiler can\u2019t know, search paths (LD_LIBRARY_PATH, RPATH,
-  RUNPATH), versioning structures, ELF sections on Arm/Aarch64, addressing models
-  and performance considerations (PIC, short branches, long branches, relative addressing,
-  trampolines, relaxation, etc), data alignment performance considerations on Arm/Aarch64,
-  Timers, Timestamps and the VDSO, branch prediction extensions vs hardware auto branch
-  prediction. Out-of-order execution vs in-order execution performance considerations,
-  and others."
+  how-to, what the compiler can’t know, search paths (LD_LIBRARY_PATH, RPATH, RUNPATH),
+  versioning structures, ELF sections on Arm/Aarch64, addressing models and performance
+  considerations (PIC, short branches, long branches, relative addressing, trampolines,
+  relaxation, etc), data alignment performance considerations on Arm/Aarch64, Timers,
+  Timestamps and the VDSO, branch prediction extensions vs hardware auto branch prediction.
+  Out-of-order execution vs in-order execution performance considerations, and others.'
 featured_image_name: SFO15307AdvancedToolchainUsagePart5.jpg
 image_name: SFO15307AdvancedToolchainUsagePart5.jpg
 image: /assets/images/featured-images/SFO15307AdvancedToolchainUsagePart5.jpg

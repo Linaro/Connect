@@ -2,11 +2,10 @@
 amazon_s3_presentation_url: None
 author: connect
 categories:
-  - hkg15
+- hkg15
 comments: true
 date: 2015-04-23 15:36:57
-excerpt:
-  UMEQ (user-mode emulation quest) and has been developed to eliminate the
+excerpt: UMEQ (user-mode emulation quest) and has been developed to eliminate the
   functional deficiencies of qemu in user mode (multi-threaded applications, signal
   handling, etc). Umeq primarily targets Arm 64-bit. The presentation will focus on
   the architecture principles of umeq and on its implementation.
@@ -16,7 +15,7 @@ image: /assets/images/featured-images/HKG15-202.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-202-umeq-user-mode-emulation-quest/
 post_format:
-  - Video
+- Video
 session_id: HKG15-202
 session_track: Virtualization
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44887032
@@ -24,12 +23,12 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15202-umeq-u
 slug: hkg15-202-umeq-user-mode-emulation-quest
 speakers: Remi Durafort
 tags:
-  - hkg15
-  - HKG15-202
-  - Remi Durafort
-  - Virtualization
-title: "HKG15-202: UMEQ (User Mode Emulation Quest)"
-video_length: "40:01"
+- hkg15
+- HKG15-202
+- Remi Durafort
+- Virtualization
+title: 'HKG15-202: UMEQ (User Mode Emulation Quest)'
+video_length: '40:01'
 video_thumbnail: None
 wordpress_id: 717
 youtube_video_url: https://www.youtube.com/watch?v=2-mU0mXHxJg

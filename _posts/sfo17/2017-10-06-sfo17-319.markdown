@@ -6,16 +6,16 @@ categories:
 - sfo17
 comments: false
 date: 2017-10-06 16:55:31
-excerpt: "The Arm\u2019s System Control and Management Interface (SCMI) is a set of
-  operating system-independent software interfaces that are used in system management
-  to abstract power and other system management tasks from the APs. Consequent to
-  the publication of this Platform Design Document (PDD), a suitable test suite is
-  developed and made available for adopters to assure compliance of their implementation
-  against this specification. In this session we provide an outline of the design
-  considerations taken into account while developing this test suite and also explain
-  the porting guidelines for any potential users of this test suite. Here we also
-  demonstrate the execution of this test suite run on Juno Arm Development Platform
-  (ADP) using LAVA."
+excerpt: The Arm’s System Control and Management Interface (SCMI) is a set of operating
+  system-independent software interfaces that are used in system management to abstract
+  power and other system management tasks from the APs. Consequent to the publication
+  of this Platform Design Document (PDD), a suitable test suite is developed and made
+  available for adopters to assure compliance of their implementation against this
+  specification. In this session we provide an outline of the design considerations
+  taken into account while developing this test suite and also explain the porting
+  guidelines for any potential users of this test suite. Here we also demonstrate
+  the execution of this test suite run on Juno Arm Development Platform (ADP) using
+  LAVA.
 featured_image_name: SFO17-319.jpg
 image_name: SFO17-319.jpg
 image: /assets/images/featured-images/SFO17-319.jpg
@@ -24,7 +24,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-319/
 post_format:
 - Video
 session_id: SFO17-319
-session_track: LMG
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/81466200
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/scmi-test-suite-sfo17319
 slug: sfo17-319

@@ -1,11 +1,10 @@
 ---
-amazon_s3_presentation_url:
-  https://static.linaro.org/connect/sfo15/Presentations/09-21-Monday/George
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-21-Monday/George
   Grey SFO15 Keynote.pdf
 amazon_s3_video_url: https://static.linaro.org/connect/sfo15/Videos/09-21-Monday/SFO15-100K1%20and%20K2%20-%20Keynotes%20George%20Grey%20Linaro%20CEO%20and%20%20Keynote%20Simon%20Segars%20ARM%20CEO.mp4
 author: connect
 categories:
-  - sfo15
+- sfo15
 comments: false
 date: 2015-09-21 00:00:00
 featured_image_name: SFO15100K1WelcomeKeynoteGeorgeGreyLinaroCEO.jpg
@@ -14,18 +13,19 @@ image: /assets/images/featured-images/SFO15100K1WelcomeKeynoteGeorgeGreyLinaroCE
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-100k1/
 post_format:
-  - Video
+- Video
 session_id: None
-session_track: Keynote
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53566535
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15100k1-welcome-keynote-george-grey-linaro-ceo
 slug: sfo15-100k1
 speakers: George Grey
 tags:
-  - Arm
-  - Linaro
-  - Linux
-title: "SFO15-100K1 : Welcome Keynote: George Grey, Linaro CEO"
+- Keynote
+- Arm
+- Linaro
+- Linux
+title: 'SFO15-100K1 : Welcome Keynote: George Grey, Linaro CEO'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 2784

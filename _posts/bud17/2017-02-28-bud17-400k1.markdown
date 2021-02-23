@@ -7,15 +7,15 @@ categories:
 comments: false
 date: 2017-02-28 12:05:46
 excerpt: "HHVM is a high-performance, open source PHP execution engine developed at
-  Facebook. It\u2019s the fastest PHP runtime in the world, with support for PHP5,
-  PHP7, and Hack\u2014the programming language used for Facebook\u2019s web server
-  application logic. In addition to powering Facebook\u2019s web tier, HHVM has also
-  been adopted by other major services such as Wikipedia, Baidu, and Box.\n \nHHVM
-  uses just-in-time compilation to transform PHP and Hack source code into optimized
-  machine code. Thanks to contributions from developers across the Arm community,
-  HHVM can now target AArch64 in addition to x86-64 and successfully runs open source
-  PHP frameworks like WordPress. Join us for an overview of HHVM, a quick demo, and
-  some thoughts on where optimization efforts can go from here."
+  Facebook. It’s the fastest PHP runtime in the world, with support for PHP5, PHP7,
+  and Hack—the programming language used for Facebook’s web server application logic.
+  In addition to powering Facebook’s web tier, HHVM has also been adopted by other
+  major services such as Wikipedia, Baidu, and Box.\n \nHHVM uses just-in-time compilation
+  to transform PHP and Hack source code into optimized machine code. Thanks to contributions
+  from developers across the Arm community, HHVM can now target AArch64 in addition
+  to x86-64 and successfully runs open source PHP frameworks like WordPress. Join
+  us for an overview of HHVM, a quick demo, and some thoughts on where optimization
+  efforts can go from here."
 featured_image_file_name: BUD17-400K1.jpg
 image_name: BUD17-400K1.jpg
 image: /assets/images/featured-images/BUD17-400K1.jpg
@@ -24,7 +24,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-400k1/
 post_format:
 - Video
 session_id: BUD17-400K1
-session_track: Other
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73368184
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hhvm-on-aarch64-bud17400k1
 slug: bud17-400k1

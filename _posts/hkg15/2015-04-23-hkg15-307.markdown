@@ -3,17 +3,16 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-11-Wednesday/HKG15-307%20OP-TEE%20paging.mp4
 author: connect
 categories:
-  - hkg15
+- hkg15
 comments: true
 date: 2015-04-23 15:36:45
-excerpt:
-  OP-TEE has a pager which can use DDR as backing store to allow usage of more
+excerpt: OP-TEE has a pager which can use DDR as backing store to allow usage of more
   virtual memory than available system RAM. This session will explain what the pager
   is and how it
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-307/
 post_format:
-  - Video
+- Video
 session_id: HKG15-307
 session_track: Security
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44897879
@@ -21,11 +20,11 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15307-optee-
 slug: hkg15-307
 speakers: Jens Wiklander
 tags:
-  - hkg15
-  - HKG15-307
-  - Jens Wiklander
-  - Security
-title: "HKG15-307 : OP-TEE paging"
+- hkg15
+- HKG15-307
+- Jens Wiklander
+- Security
+title: 'HKG15-307 : OP-TEE paging'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 740

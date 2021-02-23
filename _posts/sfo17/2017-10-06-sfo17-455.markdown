@@ -10,7 +10,7 @@ excerpt: In this presentation, we will look at the latest solutions from the Ope
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-455/
 session_id: SFO17-455
-session_track: LEG
+session_track: Enterprise
 slug: sfo17-455
 speakers: Bogdan Pricope
 title: High performance IP communication for the datacenter - SFO17-455
@@ -59,4 +59,4 @@ Event Date: 
 
 Speakers: Bogdan Pricope
 
-Position: 
+Position:

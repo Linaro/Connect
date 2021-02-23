@@ -6,7 +6,7 @@ excerpt: HPC Developer's Journey
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-456/
 session_id: SFO17-456
-session_track: LEG
+session_track: Enterprise
 slug: sfo17-456
 speakers: Renato Golin - Kanta Vekaria
 title: HPC BoF - SFO17-456
@@ -54,4 +54,4 @@ Event Date: 29 Sept 2017
 
 Speakers: Renato Golin - Kanta Vekaria
 
-Position: 
+Position:

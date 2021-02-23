@@ -10,14 +10,14 @@ session_id: HKG18-TC01
 session_track: Tools
 slug: hkg18-tc01
 speakers: Yvan Roux
-title: "HKG18-TC01 - TCWG Hacking Topics: How to track regressions in buildbots"
+title: 'HKG18-TC01 - TCWG Hacking Topics: How to track regressions in buildbots'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 9286
 categories:
-  - hkg18
+- hkg18
 post_format:
-  - Video
+- Video
 ---
 
 Session ID: HKG18-TC01

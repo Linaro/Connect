@@ -8,14 +8,13 @@ comments: false
 date: 2017-02-28 12:05:23
 excerpt: Welcome Keynote
 featured_image_file_name: BUD17-100K1.png
-image:
 image: /assets/images/featured-images/BUD17-100K1.png
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-100k1/
 post_format:
 - Video
 session_id: BUD17-100K1
-session_track: Keynote
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72853814
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/george-grey-welcome-keynote-bud17100k1
 slug: bud17-100k1
@@ -25,6 +24,8 @@ video_length: 01:04:26
 video_thumbnail: None
 wordpress_id: 4611
 youtube_video_url: https://www.youtube.com/watch?v=BUikAFy21ZI
+tags:
+- Keynote
 ---
 
 Welcome Keynote

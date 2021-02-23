@@ -8,9 +8,9 @@ comments: false
 date: 2017-02-28 12:05:32
 excerpt: "This session will talk about efforts around increasing Android testing -
   frequency, automation and coverage. The discussion will include details about:\n
-  - Current testing Linaro does\n \n - Changes we\u2019re working on for testing AOSP/master\n
+  - Current testing Linaro does\n \n - Changes we’re working on for testing AOSP/master\n
   \n - More kernel focused testing & integrating community tests into android\n \n
-  - \u201CSharding\u201D CTS test runs in the cloud for faster results"
+  - “Sharding” CTS test runs in the cloud for faster results"
 featured_image_file_name: BUD17-206.jpg
 image_name: BUD17-206.jpg
 image: /assets/images/featured-images/BUD17-206.jpg
@@ -19,7 +19,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-206/
 post_format:
 - Video
 session_id: BUD17-206
-session_track: LMG
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786001
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17206-future-of-android-automated-testing
 slug: bud17-206

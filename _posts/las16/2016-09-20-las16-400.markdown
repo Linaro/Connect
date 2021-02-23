@@ -7,31 +7,30 @@ categories:
 comments: false
 date: 2016-09-20 17:10:54
 excerpt: "The Android Open Source Project is one community which is strategic to Linaro
-  and it\u2019s members. The purpose of this mini conference is to gather fellow Android
+  and it’s members. The purpose of this mini conference is to gather fellow Android
   engineers together from the community, member companies, and Linaro to discuss engineering
   activities and improve collaboration across different groups.\n \n Within this mini
   conference we encourage discussion and presentations to advance engineering topics,
   forge consensus and educate each other.\n \n The tentative agenda for this mini
   conference includes :\n - Quick introduction\n - Filesystems - Between requirements
   for encryption and standing concerns about degrading performance as an Android file
-  system age, let\u2019s have some discussion involving current data, known issues
-  and towards improvements in this area for Android.\n - HAL consolidation - Review
-  current status and discuss next steps to work on.\n One build for many devices:
-  device/build configuration. Next features and platforms to add. Gaps in HiKey support
-  vs. AOSP build.\n - Graphics - YUV support in mesa and hwc. \n - WiFi and sensor
-  HAL status and next steps\n - New developments with AOSP + the Kernel - With regards
-  to the Google Common Kernel tree and upstream Linux kernel activities related to
-  Android, there are a few topics up for discussion:\n - - Updates on HiKey in AOSP\n
-  - - EAS in common.git & integration with AOSP userspace\n - - New Sync API in 4.6+
-  kernels, and how it will affects graphics drivers\n - AOSP transition to clang -
-  As everyone knows GCC in AOSP has been deprecated. Let\u2019s cover current status,
-  issues and next steps. Let\u2019s also discuss the elephant in the room, building
-  the kernel with clang.\n - Out of tree AOSP User space Patches - This is a discussion
-  with the goal of organized action to see forward progress on AOSP user space patches
-  that aren\u2019t in AOSP for whatever reason. \n - Android is used in some environments
-  where booting can be frequent and affect the product experience. Do you want to
-  wait for a minute while your car boots? We\u2019ll spend time brainstorming on improving
-  Android boot time."
+  system age, let’s have some discussion involving current data, known issues and
+  towards improvements in this area for Android.\n - HAL consolidation - Review current
+  status and discuss next steps to work on.\n One build for many devices: device/build
+  configuration. Next features and platforms to add. Gaps in HiKey support vs. AOSP
+  build.\n - Graphics - YUV support in mesa and hwc. \n - WiFi and sensor HAL status
+  and next steps\n - New developments with AOSP + the Kernel - With regards to the
+  Google Common Kernel tree and upstream Linux kernel activities related to Android,
+  there are a few topics up for discussion:\n - - Updates on HiKey in AOSP\n - - EAS
+  in common.git & integration with AOSP userspace\n - - New Sync API in 4.6+ kernels,
+  and how it will affects graphics drivers\n - AOSP transition to clang - As everyone
+  knows GCC in AOSP has been deprecated. Let’s cover current status, issues and next
+  steps. Let’s also discuss the elephant in the room, building the kernel with clang.\n
+  - Out of tree AOSP User space Patches - This is a discussion with the goal of organized
+  action to see forward progress on AOSP user space patches that aren’t in AOSP for
+  whatever reason. \n - Android is used in some environments where booting can be
+  frequent and affect the product experience. Do you want to wait for a minute while
+  your car boots? We’ll spend time brainstorming on improving Android boot time."
 featured_image_name: LAS16-400.png
 image_name: LAS16-400.png
 image: /assets/images/featured-images/LAS16-400.png
@@ -40,11 +39,11 @@ link: http://connect.linaro.org/resource/las16/las16-400/
 post_format:
 - Video
 session_id: LAS16-400
-session_track: Mini-Conference
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66826421
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16400-mini-conference-3-aosp-session-1
 slug: las16-400
-speakers: "Thomas Gall, \tBernhard Rosenkr\xE4nzer"
+speakers: "Thomas Gall, \tBernhard Rosenkränzer"
 tags:
 - Android
 - Mobile

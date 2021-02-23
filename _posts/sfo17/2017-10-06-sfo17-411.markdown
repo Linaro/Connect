@@ -8,7 +8,7 @@ excerpt: A general, interactive, no set agenda get together for AOSP developers.
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-411/
 session_id: SFO17-411
-session_track: LMG
+session_track: Android Ecosystem
 slug: sfo17-411
 title: 'BoF: AOSP - SFO17-411'
 video_length: 00:00
@@ -55,4 +55,4 @@ Event Date: 28 Sept 2017
 
 Speakers: 
 
-Position: 
+Position:

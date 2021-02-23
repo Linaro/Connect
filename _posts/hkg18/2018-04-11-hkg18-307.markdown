@@ -27,7 +27,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-307/
 post_format:
 - Video
 session_id: HKG18-307
-session_track: Ecosystem Day
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92856818
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18307-linaro-developer-cloud
 slug: hkg18-307

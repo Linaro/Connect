@@ -14,7 +14,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-500k1/
 post_format:
 - Video
 session_id: SFO17-500K1
-session_track: Keynote
+session_track: None/Other
 slideshare_presentation_url: None
 slug: sfo17-500k1
 speakers: Professor Jan Rabaey
@@ -23,6 +23,8 @@ video_length: '55:52'
 video_thumbnail: None
 wordpress_id: 6073
 youtube_video_url: https://www.youtube.com/watch?v=cFoQ_kM--Yg
+tags:
+- Keynote
 ---
 
 Session ID: SFO17-500K1

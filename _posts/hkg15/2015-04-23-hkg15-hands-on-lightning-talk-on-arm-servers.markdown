@@ -12,7 +12,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-hands-on-lightning-talk-on-
 post_format:
 - Video
 session_id: HKG15-200K2
-session_track: General
+session_track: None/Other
 slug: hkg15-hands-on-lightning-talk-on-arm-servers
 speakers: Panel - discussion
 tags:

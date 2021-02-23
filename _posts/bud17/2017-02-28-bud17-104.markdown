@@ -11,14 +11,13 @@ excerpt: Scripting languages is hot emerging topic in IoT. They allow easy learn
   This session compares approaches of MicroPython and JerryScript/Zephyr.js projects
   and gives status update on their Zephyr RTOS ports.
 featured_image_file_name: BUD17-104.jpg
-image:
 image: /assets/images/featured-images/BUD17-104.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-104/
 post_format:
 - Video
 session_id: BUD17-104
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72785709
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17104-scripting-languages-in-iot-challenges-and-approaches
 slug: bud17-104

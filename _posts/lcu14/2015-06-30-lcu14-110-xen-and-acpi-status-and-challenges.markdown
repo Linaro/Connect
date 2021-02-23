@@ -3,11 +3,10 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-15-Monday/LCU14-110-%20Xen%20and%20ACPI-%20Status%20and%20challenges.mp4
 author: connect
 categories:
-  - lcu14
+- lcu14
 comments: true
 date: 2015-06-30 17:11:15
-excerpt:
-  In this development and hacking session, we will be working out development
+excerpt: In this development and hacking session, we will be working out development
   issues relating to the developing a prototype of running the Xen hypervisor and
   Dom0 on platforms with only ACPI support. Supporting Xen on ACPI platforms is particularly
   challenging, because the Xen hypervisor consumes parts of the ACPI data and accesses
@@ -23,7 +22,7 @@ image: /assets/images/featured-images/LCU14-110.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-110-xen-and-acpi-status-and-challenges/
 post_format:
-  - Video
+- Video
 session_id: LCU14-110
 session_track: Virtualization
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38847068
@@ -31,13 +30,13 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-110-xen-a
 slug: lcu14-110-xen-and-acpi-status-and-challenges
 speakers: Naresh Bhat, Christoffer Dall
 tags:
-  - Christoffer Dall
-  - lcu14
-  - LCU14-110
-  - Naresh Bhat
-  - Virtualization
-title: "LCU14-110: Xen and ACPI: Status and challenges"
-video_length: "34:19"
+- Christoffer Dall
+- lcu14
+- LCU14-110
+- Naresh Bhat
+- Virtualization
+title: 'LCU14-110: Xen and ACPI: Status and challenges'
+video_length: '34:19'
 video_thumbnail: None
 wordpress_id: 1514
 youtube_video_url: https://www.youtube.com/watch?v=XHmaNFOd08g

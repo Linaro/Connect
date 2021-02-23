@@ -1,6 +1,6 @@
 ---
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:48
 excerpt: '-- Current state of ACPI on Arm
@@ -24,7 +24,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-316/
 post_format:
 - Video
 session_id: BKK16-316
-session_track: RedHat
+session_track: None/Other
 slug: bkk16-316
 speakers: Al Stone
 tags:

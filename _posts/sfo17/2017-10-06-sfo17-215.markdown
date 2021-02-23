@@ -3,11 +3,10 @@ amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Presentation
 amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-215%20-%20A%20Functional%20Open%20GPU%20Upon%20ARM.mp4
 author: connect
 categories:
-  - sfo17
+- sfo17
 comments: false
 date: 2017-10-06 16:54:39
-excerpt:
-  "GPGPUs (General Purpose Graphics Processing Unit) are becoming a relevant
+excerpt: 'GPGPUs (General Purpose Graphics Processing Unit) are becoming a relevant
   functional block on SoCs, particularly on the Arm ecosystem. Extracting full performance
   of a GPU is now becoming a combination of well integrated and optimized software
   and hardware. Motivated by that, there are many open GPU initiatives around the
@@ -19,22 +18,22 @@ excerpt:
   Linaro will be shown. On the fly we will change drivers between: software model
   only, native software and hardware (OpenGPU) on FPGA, to see its performance impact.
   The engineers that implemented this system will be at the session to support detailed
-  technical questions."
+  technical questions.'
 featured_image_name: SFO17-215.jpg
 image_name: SFO17-215.jpg
 image: /assets/images/featured-images/SFO17-215.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-215/
 post_format:
-  - Video
+- Video
 session_id: SFO17-215
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80525877
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/a-functional-open-gpu-upon-arm-sfo17215
 slug: sfo17-215
 speakers: Fabricio Toloczko
 title: A Functional Open GPU Upon Arm - SFO17-215
-video_length: "16:59"
+video_length: '16:59'
 video_thumbnail: None
 wordpress_id: 5984
 youtube_video_url: https://www.youtube.com/watch?v=OI7F_ra-H3E

@@ -6,13 +6,13 @@ categories:
 - las16
 comments: false
 date: 2016-09-20 17:10:51
-excerpt: "Cities are getting identified as smart cities based on what and how data
+excerpt: Cities are getting identified as smart cities based on what and how data
   are used to do predictive analytics. Smart City as a phrase can have a wide spectrum
-  of meaning. But there are two key things (Data and Analytics) that \u2018smart\u2019
-  refers to in smart city. With IoT gaining so much market attention, brings in the
-  power to drive the implementation. Data collection, Storage and Analytics provide
-  so much potential. This talk will go over a sample use case scenario utilizing ODPi
-  based Hadoop eco system and H20 visualizations for analytics."
+  of meaning. But there are two key things (Data and Analytics) that ‘smart’ refers
+  to in smart city. With IoT gaining so much market attention, brings in the power
+  to drive the implementation. Data collection, Storage and Analytics provide so much
+  potential. This talk will go over a sample use case scenario utilizing ODPi based
+  Hadoop eco system and H20 visualizations for analytics.
 featured_image_name: LAS16-305.png
 image_name: LAS16-305.png
 image: /assets/images/featured-images/LAS16-305.png
@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/las16/las16-305/
 post_format:
 - Video
 session_id: LAS16-305
-session_track: LEG
+session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/67471515
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16305-smart-city-big-data-visualization-on-96boards
 slug: las16-305

@@ -6,12 +6,12 @@ categories:
 - bud17
 comments: false
 date: 2017-02-28 12:05:35
-excerpt: "This session is a sequel of the \u201CBus scaling QoS\u201D session from
-  LAS16. During LAS16 we have discussed the challenges of the SoC architecture, the
-  on-chip interconnects and the Network On Chip concept. Now we are trying to add
-  support for interconnect management in the Linux kernel, which involves extending
-  some frameworks and introducing a new API. This session will give an update about
-  the current status and the next steps."
+excerpt: This session is a sequel of the “Bus scaling QoS” session from LAS16. During
+  LAS16 we have discussed the challenges of the SoC architecture, the on-chip interconnects
+  and the Network On Chip concept. Now we are trying to add support for interconnect
+  management in the Linux kernel, which involves extending some frameworks and introducing
+  a new API. This session will give an update about the current status and the next
+  steps.
 featured_image_file_name: BUD17-214.jpg
 image_name: BUD17-214.jpg
 image: /assets/images/featured-images/BUD17-214.jpg

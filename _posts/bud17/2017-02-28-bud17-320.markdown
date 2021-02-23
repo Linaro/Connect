@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-320/
 post_format:
 - Video
 session_id: BUD17-320
-session_track: LNG
+session_track: IoT Fog/Gateway/Edge Computing
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72946927
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17320-high-resolution-data-plane-timers
 slug: bud17-320

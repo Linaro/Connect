@@ -6,12 +6,12 @@ categories:
 - bud17
 comments: false
 date: 2017-02-28 12:05:50
-excerpt: "By definition, \u2018unplanned\u2019 session for people to come and discuss
-  anything around AOSP - including AOSP for members, AOSP for non-Android Linux devs,
-  OPTEE/Security, AOSP TV, to name a few. An initial list of topics for discussion
-  could include:\n\n - An Intro: Uses of AOSP codebase at Linaro and members\n \n
-  - AOSP for Linux developers (an intro to the AOSP codebase for regular Linux guys?\n
-  \n - OP-TEE/Security\n \n - AOSP TV\n \n - Perhaps Completely open graphics stack"
+excerpt: "By definition, ‘unplanned’ session for people to come and discuss anything
+  around AOSP - including AOSP for members, AOSP for non-Android Linux devs, OPTEE/Security,
+  AOSP TV, to name a few. An initial list of topics for discussion could include:\n\n
+  - An Intro: Uses of AOSP codebase at Linaro and members\n \n - AOSP for Linux developers
+  (an intro to the AOSP codebase for regular Linux guys?\n \n - OP-TEE/Security\n
+  \n - AOSP TV\n \n - Perhaps Completely open graphics stack"
 featured_image_file_name: BUD17-414.jpg
 image_name: BUD17-414.jpg
 image: /assets/images/featured-images/BUD17-414.jpg
@@ -20,7 +20,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-414/
 post_format:
 - Video
 session_id: BUD17-414
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_presentation_url: None
 slug: bud17-414
 speakers: Sudip Jain

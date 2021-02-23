@@ -18,7 +18,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-400/
 post_format:
 - Video
 session_id: BUD17-400
-session_track: LHG
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786815
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17400-secure-data-path-with-optee
 slug: bud17-400

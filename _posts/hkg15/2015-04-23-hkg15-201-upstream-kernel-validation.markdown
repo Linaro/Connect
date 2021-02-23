@@ -3,11 +3,10 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-10-Tuesday/HKG15-201%20Upstream%20Kernel%20Validation.mp4
 author: connect
 categories:
-  - hkg15
+- hkg15
 comments: true
 date: 2015-04-23 15:37:05
-excerpt:
-  Performing kernel validation on hundreds of platforms for every merge on
+excerpt: Performing kernel validation on hundreds of platforms for every merge on
   every upstream tree is a very challenging endeavor. Currently, much of this testing
   is performed by the maintainers, and/or chip vendors. The end result is that the
   validation efforts become fragmented in various locations, and the results are presented
@@ -23,7 +22,7 @@ image: /assets/images/featured-images/HKG15-201.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-201-upstream-kernel-validation/
 post_format:
-  - Video
+- Video
 session_id: HKG15-201
 session_track: Automation & CI
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44417686
@@ -31,14 +30,14 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15201-upstre
 slug: hkg15-201-upstream-kernel-validation
 speakers: Tyler Baker, Milo Casagrande, Kevin Hilman
 tags:
-  - hkg15
-  - HKG15-201
-  - Kevin Hilman
-  - Milo Casagrande
-  - Tyler Baker
-  - Validation
-title: "HKG15-201: Upstream Kernel Validation"
-video_length: "53:38"
+- hkg15
+- HKG15-201
+- Kevin Hilman
+- Milo Casagrande
+- Tyler Baker
+- Validation
+title: 'HKG15-201: Upstream Kernel Validation'
+video_length: '53:38'
 video_thumbnail: None
 wordpress_id: 716
 youtube_video_url: https://www.youtube.com/watch?v=Uifh3Y6QklE

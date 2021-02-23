@@ -27,7 +27,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-400k2/
 post_format:
 - Video
 session_id: HKG18-400K2
-session_track: Keynote
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/93976057
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18400k2-keynote-shane-coughlan-with-guest-speaker-lucien-chenghsia-lin-complex-made-simple-the-state-of-governance-in-open-source
 slug: hkg18-400k2
@@ -38,6 +38,8 @@ video_length: '39:21'
 video_thumbnail: None
 wordpress_id: 8798
 youtube_video_url: https://www.youtube.com/watch?v=Ikwanwzs484
+tags:
+- Keynote
 ---
 
 Session ID: HKG18-400K2

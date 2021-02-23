@@ -2,11 +2,10 @@
 amazon_s3_presentation_url: None
 author: connect
 categories:
-  - lcu14
+- lcu14
 comments: true
 date: 2015-06-30 17:09:28
-excerpt:
-  In this session, Remi, an ST assignee, will review how he is using LAVA within
+excerpt: In this session, Remi, an ST assignee, will review how he is using LAVA within
   ST to perform PRoot (an ST opensource project) testing and some of the extensions
   he has created for artifact publishing and reporducing LAVA failures using CARE
   (an extension to PRoot).
@@ -16,7 +15,7 @@ image: /assets/images/featured-images/LCU14-211.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-211-lava-use-cases-sw-testing-reproducing-a-lava-failures-locally-using-care/
 post_format:
-  - Video
+- Video
 session_id: LCU14-211
 session_track: LAVA
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38951922
@@ -24,14 +23,13 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-211-lava-
 slug: lcu14-211-lava-use-cases-sw-testing-reproducing-a-lava-failures-locally-using-care
 speakers: Remi Duraffort
 tags:
-  - LAVA
-  - lcu14
-  - LCU14-211
-  - Remi Duraffort
-title:
-  "LCU14-211: LAVA Use Cases: SW testing &  Reproducing a LAVA failures locally
-  using CARE"
-video_length: "35:51"
+- LAVA
+- lcu14
+- LCU14-211
+- Remi Duraffort
+title: 'LCU14-211: LAVA Use Cases: SW testing &  Reproducing a LAVA failures locally
+  using CARE'
+video_length: '35:51'
 video_thumbnail: None
 wordpress_id: 1529
 youtube_video_url: https://www.youtube.com/watch?v=f0uHKCX9PkQ

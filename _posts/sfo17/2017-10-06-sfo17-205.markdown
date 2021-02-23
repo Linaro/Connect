@@ -17,11 +17,11 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-205/
 post_format:
 - Video
 session_id: SFO17-205
-session_track: LMG
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80708018
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/lmg-lightning-talks-sfo17205
 slug: sfo17-205
-speakers: "Sam Protsenko - Amit Pundir - Bero Rosenkr\xE4nzer"
+speakers: Sam Protsenko - Amit Pundir - Bero Rosenkränzer
 title: LMG Lightning Talks - SFO17-205
 video_length: '44:01'
 video_thumbnail: None

@@ -12,7 +12,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-guest-keynote-bob-monkman-a
 post_format:
 - Video
 session_id: HKG15-300K2
-session_track: General
+session_track: None/Other
 slug: hkg15-guest-keynote-bob-monkman-arm
 speakers: Greg Kroah-Hartman
 tags:

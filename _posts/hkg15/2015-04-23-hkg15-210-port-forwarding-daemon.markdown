@@ -2,7 +2,7 @@
 amazon_s3_presentation_url: None
 author: connect
 categories:
-  - hkg15
+- hkg15
 comments: true
 date: 2015-04-23 15:37:57
 excerpt: We
@@ -12,7 +12,7 @@ image: /assets/images/featured-images/HKG15-210.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-210-port-forwarding-daemon/
 post_format:
-  - Video
+- Video
 session_id: HKG15-210
 session_track: Automation & CI
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44418115
@@ -20,12 +20,12 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15210-port-f
 slug: hkg15-210-port-forwarding-daemon
 speakers: Luca Di Stefano
 tags:
-  - hkg15
-  - HKG15-210
-  - Luca Di Stefano
-  - Validation
-title: "HKG15-210: Port forwarding daemon"
-video_length: "21:49"
+- hkg15
+- HKG15-210
+- Luca Di Stefano
+- Validation
+title: 'HKG15-210: Port forwarding daemon'
+video_length: '21:49'
 video_thumbnail: None
 wordpress_id: 725
 youtube_video_url: https://www.youtube.com/watch?v=DmdFLODyQX8

@@ -18,7 +18,7 @@ excerpt: 'Arm v8-A NEON optimization, with the following outline - Zhongwei/Phil
 
   d) Performance comparison between assembly and intrinsic
 
-'
+  '
 featured_image_name: HKG15-408.jpg
 image_name: HKG15-408.jpg
 image: /assets/images/featured-images/HKG15-408.jpg
@@ -27,7 +27,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-408-arm-v8-a-neon-optimizat
 post_format:
 - Video
 session_id: HKG15-408
-session_track: Mobile
+session_track: Android Ecosystem
 slug: hkg15-408-arm-v8-a-neon-optimization
 speakers: Zhifei Wang
 tags:

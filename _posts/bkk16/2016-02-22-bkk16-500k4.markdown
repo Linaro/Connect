@@ -1,6 +1,6 @@
 ---
 author: connect
-categories: "bkk16"
+categories: bkk16
 comments: false
 date: 2016-02-22 17:20:55
 featured_image_name: BKK16-500K4.jpg
@@ -10,7 +10,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-500k4/
 post_format:
 - Video
 session_id: BKK16-500K4
-session_track: Demo
+session_track: None/Other
 tag: demo
 slug: bkk16-500k4
 speakers: Joe Bates

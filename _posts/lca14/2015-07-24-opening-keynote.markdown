@@ -17,14 +17,14 @@ link: http://connect.linaro.org/resource/lca14/opening-keynote/
 post_format:
 - Video
 session_id: LCA14-100K1
-session_track: Keynote
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/32641296
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lca14-keynote-georgegrey
 slug: opening-keynote
 speakers: George Grey
 tags:
-- George Grey
 - Keynote
+- George Grey
 - 'LCA14-100K1: Opening Keynote'
 title: Opening Keynote
 video_length: 01:25:45

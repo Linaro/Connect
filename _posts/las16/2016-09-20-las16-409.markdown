@@ -19,7 +19,7 @@ link: http://connect.linaro.org/resource/las16/las16-409/
 post_format:
 - Video
 session_id: LAS16-409
-session_track: LNG
+session_track: IoT Fog/Gateway/Edge Computing
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357967
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16409time-sensitive-networking-kernel-modifications-for-automotiveindustrial
 slug: las16-409

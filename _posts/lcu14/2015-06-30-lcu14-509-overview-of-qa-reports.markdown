@@ -3,33 +3,32 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-16-Tuesday/LCU14-509-%20Overview%20of%20qa-reports.mp4
 author: connect
 categories:
-  - lcu14
+- lcu14
 comments: true
 date: 2015-06-30 17:07:40
-excerpt:
-  "The session will cover: Means to collect the data from Jenkins and LAVA
+excerpt: 'The session will cover: Means to collect the data from Jenkins and LAVA
   End-to-end result presentation (build status, build warnings, automated testing,
   manual testing) Reporting of weekly/monthly testing results The session is meant
   to show the currently implemented solution and collect feedback/requests from current
-  and potential users."
+  and potential users.'
 featured_image_name: LCU14-509.jpg
 image_name: LCU14-509.jpg
 image: /assets/images/featured-images/LCU14-509.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-509-overview-of-qa-reports/
 session_id: LCU14-509
-session_track: QA
+session_track: Automation & CI
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/38953286
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-509-overview-of-qa-reports
 slug: lcu14-509-overview-of-qa-reports
 speakers: Milosz Wasilewski
 tags:
-  - lcu14
-  - LCU14-509
-  - Milosz Wasilewski
-  - QA
-title: "LCU14-509: Overview of qa-reports"
-video_length: "39:22"
+- lcu14
+- LCU14-509
+- Milosz Wasilewski
+- QA
+title: 'LCU14-509: Overview of qa-reports'
+video_length: '39:22'
 video_thumbnail: None
 wordpress_id: 1570
 youtube_video_url: https://www.youtube.com/watch?v=D-1hkuroiYQ

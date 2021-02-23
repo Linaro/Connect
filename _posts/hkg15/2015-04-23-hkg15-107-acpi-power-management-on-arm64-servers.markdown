@@ -3,7 +3,7 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-09-Monday/HKG15-107%20ACPI%20Power%20Management%20on%20ARM64%20Servers.mp4
 author: connect
 categories:
-  - hkg15
+- hkg15
 comments: true
 date: 2015-04-23 15:38:29
 excerpt: Status of CPPC with runtime PM and discussion on idle PM with ACPI
@@ -13,21 +13,21 @@ image: /assets/images/featured-images/HKG15-107.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-107-acpi-power-management-on-arm64-servers/
 post_format:
-  - Video
+- Video
 session_id: HKG15-107
-session_track: Power Management, Enterprise Servers
+session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44412845
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15-107-acpi-power-management-on-arm64-servers-v2
 slug: hkg15-107-acpi-power-management-on-arm64-servers
 speakers: Ashwin Chaugule
 tags:
-  - Ashwin Chaugule
-  - Enterprise Server
-  - hkg15
-  - HKG15-107
-  - Power Management
-title: "HKG15-107: ACPI Power Management on Arm64 Servers"
-video_length: "45:30"
+- Ashwin Chaugule
+- Enterprise Server
+- hkg15
+- HKG15-107
+- Power Management
+title: 'HKG15-107: ACPI Power Management on Arm64 Servers'
+video_length: '45:30'
 video_thumbnail: None
 wordpress_id: 708
 youtube_video_url: https://www.youtube.com/watch?v=eDDgYIkUHLI

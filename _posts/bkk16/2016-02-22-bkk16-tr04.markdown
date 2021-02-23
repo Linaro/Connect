@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-tr04/
 post_format:
 - Video
 session_id: BKK16-TR04
-session_track: ITS
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58428684
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16tr04-it-surgery-two-factor-authentication-and-google
 slug: bkk16-tr04

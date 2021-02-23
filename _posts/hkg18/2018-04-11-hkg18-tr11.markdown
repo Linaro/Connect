@@ -3,11 +3,10 @@ amazon_s3_presentation_url: https://static.linaro.org/connect/hkg18/presentation
 amazon_s3_video_url: https://static.linaro.org/connect/hkg18/videos/hkg18-tr11.mp4
 author: connect
 categories:
-  - hkg18
+- hkg18
 comments: false
 date: 2018-04-11 14:16:35
-excerpt:
-  The LAVA on your desk BoF is aimed at individual kernel engineers, subsystem
+excerpt: The LAVA on your desk BoF is aimed at individual kernel engineers, subsystem
   maintainers and other interested individuals who have a single device attached to
   their development box and who want to be able to triage results coming out of LKFT
   and other systems based on LAVA by re-running LKFT test jobs with their own patched
@@ -20,13 +19,13 @@ image: /assets/images/featured-images/HKG18-TR11.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-tr11/
 post_format:
-  - Video
+- Video
 session_id: HKG18-TR11
 session_track: Training
 slug: hkg18-tr11
 speakers: Bill Fletcher
 title: HKG18-TR11 - LAVA on your desk BoF
-video_length: "41:34"
+video_length: '41:34'
 video_thumbnail: None
 wordpress_id: 8890
 youtube_video_url: https://www.youtube.com/watch?v=kB-eUKnYy7g

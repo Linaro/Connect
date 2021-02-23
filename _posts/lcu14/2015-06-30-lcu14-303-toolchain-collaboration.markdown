@@ -3,21 +3,20 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/lcu14/videos/09-17-Wednesday/LCU14-303-%20Toolchain%20Collaboration.mp4
 author: connect
 categories:
-  - lcu14
+- lcu14
 comments: true
 date: 2015-06-30 17:08:42
-excerpt:
-  "This session will be working through the planned open source contributions
+excerpt: 'This session will be working through the planned open source contributions
   from Linaro, Arm, and other members who want to share their open source contribution
   plans for the next year. Projects to be included are: gcc, llvm, glibc, gold, gdb,
-  binutils."
+  binutils.'
 featured_image_name: LCU14-303.jpg
 image_name: LCU14-303.jpg
 image: /assets/images/featured-images/LCU14-303.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-303-toolchain-collaboration/
 post_format:
-  - Video
+- Video
 session_id: LCU14-303
 session_track: Toolchain
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/39202695
@@ -25,13 +24,13 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/lcu14-303-toolc
 slug: lcu14-303-toolchain-collaboration
 speakers: Ryan Arnold, Matt Gretton-Dann
 tags:
-  - lcu14
-  - LCU14-303
-  - Matt Gretton-Dann
-  - Ryan Arnold
-  - Toolchain
-title: "LCU14-303: Toolchain Collaboration"
-video_length: "43:19"
+- lcu14
+- LCU14-303
+- Matt Gretton-Dann
+- Ryan Arnold
+- Toolchain
+title: 'LCU14-303: Toolchain Collaboration'
+video_length: '43:19'
 video_thumbnail: None
 wordpress_id: 1539
 youtube_video_url: https://www.youtube.com/watch?v=b-mtKxOm0m8

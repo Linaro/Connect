@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-205/
 post_format:
 - Video
 session_id: BKK16-205
-session_track: LHG
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59686254
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16205-rdkb-iot
 slug: bkk16-205

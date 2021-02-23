@@ -13,7 +13,7 @@ excerpt: 'Give high level overview of the components involved in a DRM/Secure. P
   decrypted, decoded and rendered and how the buffers are allocated, secured and shared
   among various elements in the secure playback chain.
 
-'
+  '
 featured_image_name: HKG15-303.jpg
 image_name: HKG15-303.jpg
 image: /assets/images/featured-images/HKG15-303.jpg
@@ -22,7 +22,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-303-secure-playback-using-o
 post_format:
 - Video
 session_id: HKG15-303
-session_track: Security, Digital Home
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44897560
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15303-secure-playback-using-optee
 slug: hkg15-303-secure-playback-using-op-tee

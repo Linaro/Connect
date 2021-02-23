@@ -21,7 +21,7 @@ excerpt: 'The 32-bit Arm kernel supports a wide variety of processors harking ba
   out at Arm to develop a kernel PM framework for Arm v8 systems, with kernel design
   details of the respective DT and ACPI implementations.
 
-'
+  '
 featured_image_name: HKG15-108.jpg
 image_name: HKG15-108.jpg
 image: /assets/images/featured-images/HKG15-108.jpg

@@ -22,7 +22,7 @@ excerpt: 'Memory footprint analysis
 
   Validation of VP8/VP9 using LAVA
 
-'
+  '
 featured_image_name: HKG15-102.jpg
 image_name: HKG15-102.jpg
 image: /assets/images/featured-images/HKG15-102.jpg
@@ -31,7 +31,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-102-lmg-lightning-talks/
 post_format:
 - Video
 session_id: HKG15-102
-session_track: Mobile
+session_track: Android Ecosystem
 slug: hkg15-102-lmg-lightning-talks
 tags:
 - hkg15

@@ -3,10 +3,10 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-11-Wednesday/HKG15-302%20Debugging%20ARM%20kernels%20using%20NMIFIQ.mp4
 author: connect
 categories:
-  - hkg15
+- hkg15
 comments: true
 date: 2015-04-23 15:36:41
-excerpt: "The Linux kernel can use non-maskable interrupts (NMI) to detect hard
+excerpt: 'The Linux kernel can use non-maskable interrupts (NMI) to detect hard
 
   lockups, to help diagnose spin lock problems, to increase performance
 
@@ -33,26 +33,26 @@ excerpt: "The Linux kernel can use non-maskable interrupts (NMI) to detect hard
 
   also look at how TrustZone complicates the use of FIQ on armv7 and how
 
-  the new architectural features introduced in armv8 can mitigate this."
+  the new architectural features introduced in armv8 can mitigate this.'
 featured_image_name: HKG15-302.jpg
 image_name: HKG15-302.jpg
 image: /assets/images/featured-images/HKG15-302.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-302-debugging-arm-kernels-using-nmifiq/
 post_format:
-  - Video
+- Video
 session_id: HKG15-302
-session_track: Kernel
+session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44897220
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15302-debugging-arm-kernels-using-nmifiq
 slug: hkg15-302-debugging-arm-kernels-using-nmifiq
 speakers: Daniel Thompson
 tags:
-  - Daniel Thompson
-  - hkg15
-  - HKG15-302
-  - Kernel
-title: "HKG15-302: Debugging Arm kernels using NMI/FIQ"
+- Daniel Thompson
+- hkg15
+- HKG15-302
+- Kernel
+title: 'HKG15-302: Debugging Arm kernels using NMI/FIQ'
 video_length: 01:03:54
 video_thumbnail: None
 wordpress_id: 734

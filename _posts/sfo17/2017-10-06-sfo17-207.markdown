@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-207/
 post_format:
 - Video
 session_id: SFO17-207
-session_track: Kernel
+session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80644999
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/understanding-real-time-kernel-sfo17207
 slug: sfo17-207

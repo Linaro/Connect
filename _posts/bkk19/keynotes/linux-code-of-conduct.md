@@ -29,9 +29,7 @@ speaker:
         a Fellow of the sixth class of the Kamalnayan Bajaj Fellowship and a
         member of the Aspen Global Leadership Network.In 2017, she won a Digital
         Women Award in the “Social Impact” category for her work with SFLC.in.
-image:
-  image: /assets/images/speakers/bkk19/keynotes/mishi-choudhary.jpg
-    featured: true
+image: /assets/images/speakers/bkk19/keynotes/mishi-choudhary.jpg
 event: BKK19
 # slot:
 #     day: Monday

@@ -19,7 +19,7 @@ link: http://connect.linaro.org/resource/las16/las16-302/
 post_format:
 - Video
 session_id: LAS16-302
-session_track: LHG
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357383
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16302-lhg-reference-security-solutions
 slug: las16-302

@@ -33,7 +33,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-223/
 post_format:
 - Video
 session_id: HKG18-223
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92871371
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18223-trusted-firmwarem-trusted-boot
 slug: hkg18-223

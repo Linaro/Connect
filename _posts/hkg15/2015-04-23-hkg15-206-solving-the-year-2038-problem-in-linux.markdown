@@ -25,7 +25,7 @@ excerpt: 'The concept of ''time'' in Linux is encoded in many different ways, bu
 
   we are doing to address some of these issues.
 
-'
+  '
 featured_image_name: HKG15-206.jpg
 image_name: HKG15-206.jpg
 image: /assets/images/featured-images/HKG15-206.jpg
@@ -34,7 +34,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-206-solving-the-year-2038-p
 post_format:
 - Video
 session_id: HKG15-206
-session_track: Kernel
+session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44887297
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15206-solving-the-year-2038-problem-in-linux
 slug: hkg15-206-solving-the-year-2038-problem-in-linux

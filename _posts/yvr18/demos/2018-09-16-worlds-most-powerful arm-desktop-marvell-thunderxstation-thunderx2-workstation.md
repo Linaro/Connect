@@ -7,12 +7,12 @@ date: '2018-09-16 09:00:00+00:00'
 image_name: yvr18-demo2.jpg
 image: /assets/images/featured-images/yvr18-demo2.jpg
 layout: resource-post
-session_track: Demo
+session_track: None/Other
 tag: demo
-title: "World's Most Powerful Arm Desktop: Marvell ThunderXStation ThunderX2 Workstation"
+title: 'World''s Most Powerful Arm Desktop: Marvell ThunderXStation ThunderX2 Workstation'
 youtube_video_url: https://www.youtube.com/watch?v=buIE0tA_IyM
-tag: demo
 ---
+
 [www.gigabyte.com](http://www.gigabyte.com) announces the industry's first Armv8 workstation based on Cavium's ThunderX2 Arm64 multi-core processor. This 4U workstation is called the ThunderXStation. GIGABYTE has designed and is manufacturing the ThunderXStation. The 4U tower is 27" (D) x 17" (H) x 7" (W) and designed for floor mounting. The power supply included is a 800W PSU with a 1+1 redundant option. The motherboard is a standard GIGABYTE motherboard form factor.
 
 The motherboard includes:

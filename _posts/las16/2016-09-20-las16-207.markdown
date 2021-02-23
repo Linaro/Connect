@@ -18,7 +18,7 @@ link: http://connect.linaro.org/resource/las16/las16-207/
 post_format:
 - Video
 session_id: LAS16-207
-session_track: Core Development
+session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357118
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16207-bus-scaling-qos
 slug: las16-207

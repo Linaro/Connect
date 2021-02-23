@@ -15,7 +15,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-116/
 post_format:
 - Video
 session_id: BUD17-116
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72785902
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17116-zephyr-on-beetle
 slug: bud17-116

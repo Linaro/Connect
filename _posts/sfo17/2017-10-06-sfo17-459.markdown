@@ -6,7 +6,7 @@ excerpt: Red Hat talk for the RDO project.
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-459/
 session_id: SFO17-459
-session_track: LEG
+session_track: Enterprise
 slug: sfo17-459
 speakers: Jon Masters
 title: RDO & RHEL 7.4 - SFO17-459
@@ -54,4 +54,4 @@ Event Date: 29 Sept 2017
 
 Speakers: Jon Masters
 
-Position: 
+Position:

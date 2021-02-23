@@ -19,7 +19,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-217/
 post_format:
 - Video
 session_id: HKG18-217
-session_track: Digital Home
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/91396441
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18217-opencdmcdmi-multi-drm-work-with-wpe-chromium
 slug: hkg18-217

@@ -17,7 +17,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-501-hal-unification-in-andr
 post_format:
 - Video
 session_id: None
-session_track: Mobile
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53032253
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15501-hal-unification-in-android
 slug: sfo15-501-hal-unification-in-android

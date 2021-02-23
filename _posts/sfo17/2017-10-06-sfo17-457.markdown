@@ -10,7 +10,7 @@ excerpt: Works on Arm is a collaborative project led by Packet with resources fr
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-457/
 session_id: SFO17-457
-session_track: LEG
+session_track: Enterprise
 slug: sfo17-457
 speakers: Ed Vielmetti
 title: 'Works on Arm: CI/CD Infrastructure for Open Source and Commercial Software
@@ -59,4 +59,4 @@ Event Date: 29 Sept 2017
 
 Speakers: Ed Vielmetti
 
-Position: 
+Position:

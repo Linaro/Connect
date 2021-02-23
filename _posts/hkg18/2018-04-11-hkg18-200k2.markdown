@@ -6,9 +6,9 @@ categories:
 - hkg18
 comments: false
 date: 2018-04-11 14:11:54
-excerpt: "The computing changes where machine meet AI. The AI shall not only be instructed
-  from Cloud but also be embedded in Edge and Thing itself. We can\u2019t image in
-  the future those intelligent machines surrounding us get idiotic even horrific when
+excerpt: The computing changes where machine meet AI. The AI shall not only be instructed
+  from Cloud but also be embedded in Edge and Thing itself. We can’t image in the
+  future those intelligent machines surrounding us get idiotic even horrific when
   disconnected. More and more instinctive intelligence in perception, cognition and
   decision should be embedded into machines. How to support diverse AI algorithms
   running across different embedded computing hardware? It needs platform that silicon
@@ -19,7 +19,7 @@ excerpt: "The computing changes where machine meet AI. The AI shall not only be 
   that extracts ML/DL Computing from Arm-based CPU, GPU and 3rd party Accelerators
   for diverse algorithm models. With the collaboration between Linaro 96board and
   OPEN AI LAB, algorithm and application developers will have the best support with
-  optimized AI libraries for different hardware."
+  optimized AI libraries for different hardware.
 featured_image_name: HKG18-200K2.png
 image_name: HKG18-200K2.png
 image: /assets/images/featured-images/HKG18-200K2.png
@@ -28,7 +28,7 @@ link: http://connect.linaro.org/resource/hkg18/hkg18-200k2/
 post_format:
 - Video
 session_id: HKG18-200K2
-session_track: AI/ML, Keynote
+session_track: AI/ML
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92878286
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18200k2-keynote-mingfei-huang-accelerating-ai-from-cloud-to-edge
 slug: hkg18-200k2

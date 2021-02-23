@@ -16,7 +16,7 @@ link: http://connect.linaro.org/resource/bud17/bud17-401/
 post_format:
 - Video
 session_id: BUD17-401
-session_track: LEG
+session_track: Enterprise
 slideshare_presentation_url: None
 slug: bud17-401
 speakers: Jon Masters

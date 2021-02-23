@@ -17,7 +17,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-206/
 post_format:
 - Video
 session_id: SFO17-206
-session_track: LHG
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/79884899
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/rdkwpe-port-on-db410c-sfo17206
 slug: sfo17-206

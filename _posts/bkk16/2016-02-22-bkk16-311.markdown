@@ -23,7 +23,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-311/
 post_format:
 - Video
 session_id: BKK16-311
-session_track: Arm
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59635545
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16311-eas-upstream-stategy
 slug: bkk16-311

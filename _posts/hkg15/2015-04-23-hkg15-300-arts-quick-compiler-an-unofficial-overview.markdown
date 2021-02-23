@@ -37,7 +37,7 @@ excerpt: 'One of the important technical novelties introduced with the recent re
 
   [1] The ART runtime, B. Carlstrom, A. Ghuloum, and I. Rogers, Google I/O 2014, https://www.youtube.com/watch?v=EBlTzQsUoOw
 
-'
+  '
 featured_image_name: HKG15-300.jpg
 image_name: HKG15-300.jpg
 image: /assets/images/featured-images/HKG15-300.jpg
@@ -46,7 +46,7 @@ link: http://connect.linaro.org/resource/hkg15/hkg15-300-arts-quick-compiler-an-
 post_format:
 - Video
 session_id: HKG15-300
-session_track: Mobile
+session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44896758
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15300-arts-quick-compiler-an-unofficial-overview
 slug: hkg15-300-arts-quick-compiler-an-unofficial-overview

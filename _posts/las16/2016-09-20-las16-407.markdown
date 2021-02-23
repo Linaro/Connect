@@ -18,7 +18,7 @@ link: http://connect.linaro.org/resource/las16/las16-407/
 post_format:
 - Video
 session_id: LAS16-407
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357939
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16407-internet-of-tiny-linux-iotl-the-sequel
 slug: las16-407

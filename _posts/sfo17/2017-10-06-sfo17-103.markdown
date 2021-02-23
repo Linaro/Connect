@@ -32,7 +32,7 @@ session_track: Virtualization
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/81026772
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/the-challenge-of-sve-in-qemu-sfo17103-81026772
 slug: sfo17-103
-speakers: "Alex Benn\xE9e"
+speakers: Alex Bennée
 title: The challenge of SVE in QEMU - SFO17-103
 video_length: '26:09'
 video_thumbnail: None

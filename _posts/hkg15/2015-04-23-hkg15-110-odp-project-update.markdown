@@ -3,30 +3,30 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/hkg15/Videos/02-09-Monday/HKG15-110%20ODP%20Project%20Update.mp4
 author: connect
 categories:
-  - hkg15
+- hkg15
 comments: true
 date: 2015-04-23 15:38:00
-excerpt: "This session provides a summary of ODP activities since LCU "
+excerpt: 'This session provides a summary of ODP activities since LCU '
 featured_image_name: HKG15-110.jpg
 image_name: HKG15-110.jpg
 image: /assets/images/featured-images/HKG15-110.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-110-odp-project-update/
 post_format:
-  - Video
+- Video
 session_id: HKG15-110
-session_track: Networking
+session_track: IoT Fog/Gateway/Edge Computing
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44886683
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15110-odp-project-update
 slug: hkg15-110-odp-project-update
 speakers: Bill Fischofer
 tags:
-  - Bill Fischofer
-  - hkg15
-  - HKG15-110
-  - Networking
-title: "HKG15-110: ODP Project Update"
-video_length: "41:15"
+- Bill Fischofer
+- hkg15
+- HKG15-110
+- Networking
+title: 'HKG15-110: ODP Project Update'
+video_length: '41:15'
 video_thumbnail: None
 wordpress_id: 711
 youtube_video_url: https://www.youtube.com/watch?v=xABcGPOCOuU

@@ -20,7 +20,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-313a/
 post_format:
 - Video
 session_id: BKK16-313A
-session_track: LEG
+session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58684868
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16313-legkernel-to-rp-enterprise-kernel
 slug: bkk16-313a

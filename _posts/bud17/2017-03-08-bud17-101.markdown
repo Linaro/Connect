@@ -3,29 +3,28 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/bud17/Videos/Monday/BUD17-101%20ILP32%20on%20ARM64.mp4
 author: connect
 categories:
-  - bud17
+- bud17
 comments: false
 date: 2017-03-08 15:40:54
-excerpt:
-  "This session is the report on the progress in the development of ILP32 for
+excerpt: 'This session is the report on the progress in the development of ILP32 for
   last year. ILP32 is the new binary execution mode for arm64 platform which supports
-  32-bit data type format. "
+  32-bit data type format. '
 featured_image_file_name: BUD17-101.jpg
 image_name: BUD17-101.jpg
 image: /assets/images/featured-images/BUD17-101.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-101/
 post_format:
-  - Video
+- Video
 session_id: BUD17-101
-session_track: Other
+session_track: None/Other
 slideshare_presentation_url: None
 slug: bud17-101
 speakers: Yury Norov
 tags:
-  - Arm64
-  - ILP32
-  - Yury Norov
+- Arm64
+- ILP32
+- Yury Norov
 title: ILP32 on Arm64 - BUD17-101
 video_length: 00:00
 video_thumbnail: None

@@ -21,7 +21,7 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/dragonboard-41
 slug: bud17-df18
 speakers: Qualcomm Landing team
 title: Dragonboard 410c/820c- BUD17-DF18
-video_length: "04:23"
+video_length: 04:23
 video_thumbnail: None
 wordpress_id: 5663
 youtube_video_url: https://www.youtube.com/watch?v=0dm3wFOQxdg

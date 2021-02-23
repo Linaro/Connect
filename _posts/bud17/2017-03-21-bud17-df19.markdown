@@ -15,7 +15,7 @@ link: http://connect.linaro.org/resource/bud17/demo/bud17-df19/
 post_format:
 - Video
 session_id: BUD17-DF19
-session_track: Arm
+session_track: None/Other
 tag: demo
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73369265
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/socionext-armv8-server-soc-chipset-demo

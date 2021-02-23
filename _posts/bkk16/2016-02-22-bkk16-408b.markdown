@@ -4,15 +4,15 @@ author: connect
 categories: bkk16
 comments: false
 date: 2016-02-22 17:20:52
-excerpt: "This talk will provide an overview of typical Data Analysis tools and Machine
+excerpt: This talk will provide an overview of typical Data Analysis tools and Machine
   Learning algorithms, highlighting the arithmetic and data operations that are executed
   with extreme repetition. Knowing what tools and libraries to use and having a sense
   of how they work will form the foundation for the next level of discussions around
   how to profile the use cases and narrow down the optimization techniques to target,
-  including Arm\xAE NEON\u2122, OpenCL(GPU/DSP/other) etc., , Python Pandas library
-  was used for Data Analysis. Python sci-kit learn library was used to analyze various
-  Supervised Machine Learning algorithms including K-Nearest Neighbors, Linear & Logistic
-  Regression, Bayesian Classifiers, Decision Trees, Bagging and Random Forests."
+  including Arm® NEON™, OpenCL(GPU/DSP/other) etc., , Python Pandas library was used
+  for Data Analysis. Python sci-kit learn library was used to analyze various Supervised
+  Machine Learning algorithms including K-Nearest Neighbors, Linear & Logistic Regression,
+  Bayesian Classifiers, Decision Trees, Bagging and Random Forests.
 featured_image_name: BKK16-408B.jpg
 image: /assets/images/featured-images/BKK16-408B.jpg
 layout: resource-post
@@ -20,7 +20,7 @@ link: http://connect.linaro.org/resource/bkk16/bkk16-408b/
 post_format:
 - Video
 session_id: BKK16-408B
-session_track: LEG
+session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/59659459
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16408b-data-analytics-and-machine-learning-from-node-to-cluster
 slug: bkk16-408b

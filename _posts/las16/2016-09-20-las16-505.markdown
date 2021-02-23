@@ -4,11 +4,11 @@ categories:
 - las16
 comments: false
 date: 2016-09-20 17:11:06
-excerpt: "This presentation will discuss issues and common mistakes when migrating
+excerpt: This presentation will discuss issues and common mistakes when migrating
   a project from one toolchain to another. The main focus will be on issues coming
   from switching from GCC to Clang, but we will also touch on differences in libraries,
   assemblers and linkers. The presentation will also make fun of bad practices and
-  quick hacks that project porters sometimes use to \u201Cmake-it-compile\u201D."
+  quick hacks that project porters sometimes use to “make-it-compile”.
 featured_image_name: LAS16-505.png
 image_name: LAS16-505.png
 image: /assets/images/featured-images/LAS16-505.png
@@ -17,7 +17,7 @@ link: http://connect.linaro.org/resource/las16/las16-505/
 post_format:
 - Video
 session_id: LAS16-505
-session_track: Core Development
+session_track: Linux Kernel
 slug: las16-505
 speakers: Renato Golin, Maxim Kuvyrkov
 tags:

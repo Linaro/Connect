@@ -19,7 +19,7 @@ link: http://connect.linaro.org/resource/las16/las16-108/
 post_format:
 - Video
 session_id: LAS16-108
-session_track: LITE
+session_track: IoT and Embedded
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66437485
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16108-jerryscript-and-other-scripting-languages-for-iot
 slug: las16-108

@@ -10,7 +10,7 @@ excerpt: 'All Linaro Android builds for Armv8 AArch64 are going to be enabled fo
 layout: resource-post
 link: http://connect.linaro.org/resource/lcu14/lcu14-407/
 session_id: LCU14-407
-session_track: Android
+session_track: Android Ecosystem
 slug: lcu14-407
 speakers: YongQin Liu
 title: 'LCU14-407 : How to enable SELinux for Android on AOSP master for Armv8'

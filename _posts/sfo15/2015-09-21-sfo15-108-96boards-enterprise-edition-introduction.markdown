@@ -21,7 +21,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-108-96boards-enterprise-edi
 post_format:
 - Video
 session_id: None
-session_track: Community
+session_track: Open Source Development
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53569635
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15108-96boards-enterprise-edition-introduction
 slug: sfo15-108-96boards-enterprise-edition-introduction

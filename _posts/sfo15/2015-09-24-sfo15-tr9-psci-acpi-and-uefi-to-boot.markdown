@@ -10,7 +10,7 @@ comments: false
 date: 2015-09-24 00:00:00
 excerpt: "An introductory session of a system-level overview at Power State Coordination
   \n* Focus on Armv8\n* Goes top-down from ACPI\n* A demo based on the current code
-  in qemu (and/or 96Boards)\n* The specifications are very dynamic - what\u2019s onging
+  in qemu (and/or 96Boards)\n* The specifications are very dynamic - what’s onging
   for ACPI and PSCI"
 featured_image_name: SFO15TR9PSCIACPIandUEFItoboot.jpg
 image_name: SFO15TR9PSCIACPIandUEFItoboot.jpg

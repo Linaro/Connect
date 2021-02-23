@@ -15,7 +15,7 @@ link: http://connect.linaro.org/resource/sfo17/sfo17-200k1/
 post_format:
 - Video
 session_id: SFO17-200K1
-session_track: Keynote
+session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80179228
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/keynote-kanta-vekaria-linaro
 slug: sfo17-200k1
@@ -25,6 +25,8 @@ video_length: '59:06'
 video_thumbnail: None
 wordpress_id: 5953
 youtube_video_url: https://www.youtube.com/watch?v=QmqzfhPs1s8
+tags:
+- Keynote
 ---
 
 Session ID: SFO17-200K1

@@ -8,13 +8,13 @@ categories:
 - sfo15
 comments: false
 date: 2015-09-21 00:00:00
-excerpt: "96Boards is most obviously a hardware specification and website providing
+excerpt: 96Boards is most obviously a hardware specification and website providing
   support and access to software downloads. The software is, to a certain extent,
   taken for granted, but it is the software that differentiates 96Boards from many
   other development boards. This session will start with a brief introduction to the
   96Boards Software Reference Platform and then invite discussion about how to improve
-  the platform and what should and shouldn\u2019t be a part of the platform across
-  the range of boards."
+  the platform and what should and shouldn’t be a part of the platform across the
+  range of boards.
 featured_image_name: SFO15104The96BoardsSoftwareReferencePlatform.jpg
 image_name: SFO15104The96BoardsSoftwareReferencePlatform.jpg
 image: /assets/images/featured-images/SFO15104The96BoardsSoftwareReferencePlatform.jpg
@@ -23,7 +23,7 @@ link: http://connect.linaro.org/resource/sfo15/sfo15-104-the-96boards-software-r
 post_format:
 - Video
 session_id: None
-session_track: Community
+session_track: Open Source Development
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53569516
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15104-the-96boards-software-reference-platformkeynote
 slug: sfo15-104-the-96boards-software-reference-platform

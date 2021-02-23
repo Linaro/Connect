@@ -10,14 +10,14 @@ session_id: HKG18-TC05
 session_track: Tools
 slug: hkg18-tc05
 speakers: Omair Javaid
-title: "HKG18-TC05 - TCWG Hacking Topics: LLDB Python Interface"
+title: 'HKG18-TC05 - TCWG Hacking Topics: LLDB Python Interface'
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 9290
 categories:
-  - hkg18
+- hkg18
 post_format:
-  - Video
+- Video
 ---
 
 Session ID: HKG18-TC05
