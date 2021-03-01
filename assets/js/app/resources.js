@@ -16,6 +16,22 @@ function getData(ajaxurl, callbackFunction) {
     },
   });
 }
+
+/**
+ *
+ * @param {Object} params An object containing the GET params to set
+ * @returns {Boolean} Returns true if set.
+ */
+const setURLParams = (params) => {
+  // Construct URLSearchParams object instance from current URL querystring
+  let queryParams = new URLSearchParams(window.location.search);
+  // Set new or modify existing page value
+  for (key in params) {
+    queryParams.set(key, params[key]);
+  }
+  // Replace current querystring with the new one
+  history.replaceState(null, null, "?" + queryParams.toString());
+};
 // Delay function for waiting a set number of ms after the user stops typing.
 function delay(callback, ms) {
   var timer = 0;
@@ -244,6 +260,9 @@ $(document).ready(function () {
     // Handle theme select
     $("#themeSelect").on("change", function () {
       current_theme = this.value;
+      // Update the URL params on change
+      setURLParams({ theme: current_theme });
+      // Update the resource cols
       update_cols();
     });
     // Handle track select
@@ -257,5 +276,17 @@ $(document).ready(function () {
       update_cols();
       update_select_menus();
     });
+    // Check to see if there is a theme param set.
+    // If there is, update the select menu and trigger a cols update
+    let searchParams = new URLSearchParams(window.location.search);
+    let theme_param = searchParams.get("theme");
+    // Check the value is not null
+    if (theme_param !== null) {
+      $("#themeSelect").val(theme_param);
+      // Update the globally scoped current_theme value
+      current_theme = theme_param;
+      // Trigger a cols update
+      update_cols();
+    }
   });
 });
