@@ -64,6 +64,13 @@ permalink: /assets/json/resources.json
         {% endif %}
         {% if post.session_track %}
         "tracks": "{{post.session_track}}",
+        {% assign theme = '' %}
+        {% for group in site.data.tracks_to_themes.items %}
+            {% if group.tracks  contains post.session_track %}
+                {% assign theme = group.title %}
+            {% endif %}
+        {% endfor %}
+        "theme": "{{theme}}",
         {% else %}
         "tracks": "Arm",
         {% endif %}
