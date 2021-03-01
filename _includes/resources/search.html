@@ -55,7 +55,7 @@
                         <option value="all">All</option>
                         {% assign groups = site.data.tracks_to_themes.items | sort: "title" %}
                         {% for group in groups %}
-                            <option value="{{group.title | slugify}}">{{group.title}}</option>
+                            <option value="{{group.title}}">{{group.title}}</option>
                         {% endfor %}
                     </select>
                 </div>
@@ -70,7 +70,7 @@
         {% if post.session_track %}
             {% for group in site.data.tracks_to_themes.items %}
                 {% if group.tracks contains post.session_track %}
-                    {% assign post_theme = group.title | slugify %}
+                    {% assign post_theme = group.title %}
                 {% endif %}
             {% endfor %}
         {% endif %}
