@@ -2,6 +2,7 @@ var resources_json = [];
 var items_to_display = [];
 var current_event = "all";
 var current_type = "all";
+var current_theme = "all";
 var current_track = "all";
 var current_number_of_items = 12;
 const items_step = 12;
@@ -93,6 +94,12 @@ function update_cols() {
         return item.type == current_type;
       });
     }
+    // Filter Themes
+    if (current_theme !== "all") {
+      items_to_display = items_to_display.filter((item, index) => {
+        return item.theme == current_theme;
+      });
+    }
   }
   console.log("Search results that will display: block:", items_to_display);
   // Check that we have results first
@@ -143,6 +150,22 @@ function update_select_menus() {
     } else {
       for (var i = 0; i < items_to_display.length; i++) {
         if (items_to_display[i]["type"] == select_val) {
+          select_option_count += 1;
+        }
+      }
+    }
+    element.text =
+      element.value.charAt(0).toUpperCase() + element.value.slice(1);
+    +" (" + select_option_count.toString() + ")";
+  });
+  $("#themeSelect > option").each(function (index, element) {
+    let select_val = element.value;
+    let select_option_count = 0;
+    if (element.value == "all") {
+      select_option_count = items_to_display.length;
+    } else {
+      for (var i = 0; i < items_to_display.length; i++) {
+        if (items_to_display[i]["theme"] == select_val) {
           select_option_count += 1;
         }
       }
@@ -216,6 +239,11 @@ $(document).ready(function () {
     // Handle type select
     $("#typeSelect").on("change", function () {
       current_type = this.value;
+      update_cols();
+    });
+    // Handle theme select
+    $("#themeSelect").on("change", function () {
+      current_theme = this.value;
       update_cols();
     });
     // Handle track select
