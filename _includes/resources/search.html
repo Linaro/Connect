@@ -41,12 +41,22 @@
                     </select>
                 </div>
                 <div class="form-group">
-                    <label class="mx-sm-2" for="exampleFormControlSelect1">Type</label>
+                    <label class="mx-sm-2" for="typeSelect">Type</label>
                     <select class="form-control" id="typeSelect">
                         <option value="all">All</option>
                         <option value="session">Session</option>
                         <option value="interview">Interview</option>
                         <option value="demo">Demo</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label class="mx-sm-2" for="themeSelect">Theme</label>
+                    <select class="form-control" id="themeSelect">       
+                        <option value="all">All</option>
+                        {% assign groups = site.data.tracks_to_themes.items | sort: "title" %}
+                        {% for group in groups %}
+                            <option value="{{group.title}}">{{group.title}}</option>
+                        {% endfor %}
                     </select>
                 </div>
             </form>
@@ -56,7 +66,15 @@
 <div class="row" id="resources">
     {% assign resource_posts = posts | sort: 'session_id'  %}
     {% for post in resource_posts %}
-        <div class="col col-12 col-sm-6 col-lg-3 blog-post-item-col p-3" data-identifier="{{post.path}}" data-type="{{post.tag}}"
+        {% assign post_theme = "" %}
+        {% if post.session_track %}
+            {% for group in site.data.tracks_to_themes.items %}
+                {% if group.tracks contains post.session_track %}
+                    {% assign post_theme = group.title %}
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+        <div class="col col-12 col-sm-6 col-lg-3 blog-post-item-col p-3" data-identifier="{{post.path}}" data-type="{{post.tag}}" data-theme="{{post_theme}}"
          data-event="{{post.categories[0]}}" data-track="{{post.session_track}}" {% if forloop.index < 13 %}style="display:block"{% else %}style="display:none"{% endif %}>
          <div class="card h-100 ">
                 <a href="{{post.url}}" class="btn btn-primary card_img_link p-0">

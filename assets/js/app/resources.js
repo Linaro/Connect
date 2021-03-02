@@ -2,6 +2,7 @@ var resources_json = [];
 var items_to_display = [];
 var current_event = "all";
 var current_type = "all";
+var current_theme = "all";
 var current_track = "all";
 var current_number_of_items = 12;
 const items_step = 12;
@@ -15,6 +16,22 @@ function getData(ajaxurl, callbackFunction) {
     },
   });
 }
+
+/**
+ *
+ * @param {Object} params An object containing the GET params to set
+ * @returns {Boolean} Returns true if set.
+ */
+const setURLParams = (params) => {
+  // Construct URLSearchParams object instance from current URL querystring
+  let queryParams = new URLSearchParams(window.location.search);
+  // Set new or modify existing page value
+  for (key in params) {
+    queryParams.set(key, params[key]);
+  }
+  // Replace current querystring with the new one
+  history.replaceState(null, null, "?" + queryParams.toString());
+};
 // Delay function for waiting a set number of ms after the user stops typing.
 function delay(callback, ms) {
   var timer = 0;
@@ -93,6 +110,12 @@ function update_cols() {
         return item.type == current_type;
       });
     }
+    // Filter Themes
+    if (current_theme !== "all") {
+      items_to_display = items_to_display.filter((item, index) => {
+        return item.theme == current_theme;
+      });
+    }
   }
   console.log("Search results that will display: block:", items_to_display);
   // Check that we have results first
@@ -143,6 +166,22 @@ function update_select_menus() {
     } else {
       for (var i = 0; i < items_to_display.length; i++) {
         if (items_to_display[i]["type"] == select_val) {
+          select_option_count += 1;
+        }
+      }
+    }
+    element.text =
+      element.value.charAt(0).toUpperCase() + element.value.slice(1);
+    +" (" + select_option_count.toString() + ")";
+  });
+  $("#themeSelect > option").each(function (index, element) {
+    let select_val = element.value;
+    let select_option_count = 0;
+    if (element.value == "all") {
+      select_option_count = items_to_display.length;
+    } else {
+      for (var i = 0; i < items_to_display.length; i++) {
+        if (items_to_display[i]["theme"] == select_val) {
           select_option_count += 1;
         }
       }
@@ -218,6 +257,14 @@ $(document).ready(function () {
       current_type = this.value;
       update_cols();
     });
+    // Handle theme select
+    $("#themeSelect").on("change", function () {
+      current_theme = this.value;
+      // Update the URL params on change
+      setURLParams({ theme: current_theme });
+      // Update the resource cols
+      update_cols();
+    });
     // Handle track select
     $("#trackSelect").on("change", function () {
       current_track = this.value;
@@ -229,5 +276,17 @@ $(document).ready(function () {
       update_cols();
       update_select_menus();
     });
+    // Check to see if there is a theme param set.
+    // If there is, update the select menu and trigger a cols update
+    let searchParams = new URLSearchParams(window.location.search);
+    let theme_param = searchParams.get("theme");
+    // Check the value is not null
+    if (theme_param !== null) {
+      $("#themeSelect").val(theme_param);
+      // Update the globally scoped current_theme value
+      current_theme = theme_param;
+      // Trigger a cols update
+      update_cols();
+    }
   });
 });
