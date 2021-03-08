@@ -64,7 +64,7 @@
     </div>
 </div>
 <div class="row" id="resources">
-    {% assign resource_posts = posts | sort: 'date' | reverse %}
+    {% assign resource_posts = posts | sort: 'date' | reverse  %}
     {% for post in resource_posts %}
         {% assign post_theme = "" %}
         {% if post.session_track %}
