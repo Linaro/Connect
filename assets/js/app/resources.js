@@ -69,6 +69,7 @@ function load_more_items() {
   // Update the current number of items displayed.
   current_number_of_items = last_item_index;
   // Loop over results items_to_show display
+  console.log(items_to_show);
   for (var i = 0; i <= items_to_show.length; i++) {
     var identifier = items_to_show[i]["identifier"];
     // Set display:block style for all results
@@ -197,7 +198,7 @@ $(document).ready(function () {
     url: "/assets/json/resources.json",
     type: "GET",
   }).done((data) => {
-    // Store the date received separately to show all again.
+    // Store the data received separately to show all again.
     resources_json = data;
     if ($("#resourcesSearchAndFilter").data("event") != "all") {
       resources_json = resources_json.filter((item, index) => {
@@ -207,12 +208,12 @@ $(document).ready(function () {
         );
       });
     }
-    // Ensure results are sorted by title.
+    // Ensure results are sorted by date.
     resources_json.sort(function compare(a, b) {
-      if (a.session_id < b.session_id) {
+      if (a.date_published > b.date_published) {
         return -1;
       }
-      if (a.session_id > b.session_id) {
+      if (a.date_published < b.date_published) {
         return 1;
       }
       return 0;
