@@ -39,8 +39,6 @@ flow: []
 
 \-4,295 session views and over 1,000 hours of content consumed during the 3 day event
 
-
-
 **Package options:** 
 
 We're offering 3 packages for LVC21: In USD: Gold ($10,000), Silver ($8,000), and Bronze ($6,000). 
