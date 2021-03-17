@@ -19,4 +19,6 @@ jumbotron:
   image: /assets/images/content/lvc21_sponsors.jpg
 flow: []
 ---
-**Sponsorship opportunities for future Linaro Connect events will be shared soon.**
+Sponsorship opportunities for LVC21 have now closed. 
+
+The sponsorship for the next Linaro Connect will be shared soon.
