@@ -18,9 +18,7 @@ Linaro Virtual Connect 2021 provides a platform to discuss and learn about the l
 
 Once you have [registered](https://connect.linaro.org/register/) you will receive an invitation to the "PINE tool" event platform.
 
-Registered attendees can log in to the Linaro Connect event platform [here](https://app.pinetool.ai/attendee/events). 
-
-
+**Registered attendees can log in to the Linaro Connect event platform [here](https://app.pinetool.ai/attendee/events).** 
 
 \*Please note: All session times listed below are in UTC\*
 
