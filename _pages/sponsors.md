@@ -17,11 +17,12 @@ jumbotron:
     Bronze sponsors: Avnet, Xilinx 
 
   slider:
-    - image: /assets/images/content/sponsor_footer_lvc21.jpg
+    - image: /assets/images/content/many_screens.jpg
       title: "Thank you to our Linaro Virtual Connect 2021 Sponsors "
       description: |-
         Gold sponsors: Arm, Huawei, Qualcomm
         Bronze sponsors: Avnet, Xilinx 
+      darken: true
 flow:
   - row: container_row
     sections:
