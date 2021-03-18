@@ -4,7 +4,7 @@ description: >
   Sponsor the event where leading hardware and software Arm ecosystem players
   come together.
 
-  Thank you to our Linaro Virtual Connect 2021 Sponsors 
+  Thank you to our Linaro Virtual Connect 2021 Sponsors!
 permalink: /sponsors/
 published: true
 css-package: sponsor
