@@ -1,7 +1,7 @@
 ---
 title: Sponsor Connect
 description: |
-  Thank you to our Linaro Virtual Connect 2021 Sponsors!
+  Thank you to our Linaro Virtual Connect 2021 Sponsors
 permalink: /sponsors/
 published: true
 css-package: sponsor
@@ -30,8 +30,6 @@ flow:
         feature_block_content:
           position: left
           text: |-
-            Thank you to our Linaro Virtual Connect 2021 Sponsors!
-
             Gold sponsors: Arm, Huawei, Qualcomm
             Bronze sponsors: Avnet, Xilinx 
           title: Thank you to our Linaro Virtual Connect 2021 Sponsors!
