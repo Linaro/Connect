@@ -16,7 +16,9 @@ flow:
 ---
 Linaro Virtual Connect 2021 provides a platform to discuss and learn about the leading software topics, challenges and opportunities in the Arm Ecosystem today. We will have 60+ technical keynotes, sessions and more from March 23-25, 2021. 
 
-Once you have [registered](https://connect.linaro.org/register/) you will receive an invitation to the "PINE tool" event platform where you will be able to build your agenda, find viewing links and chat rooms, etc. You will also be able to view the schedule in your local timezone. 
+Once you have [registered](https://connect.linaro.org/register/) you will receive an invitation to the "PINE tool" event platform.
+
+Registered attendees can log in to the Linaro Connect event platform [here](https://app.pinetool.ai/attendee/events). 
 
 
 
