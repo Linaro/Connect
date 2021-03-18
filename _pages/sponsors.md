@@ -20,6 +20,6 @@ jumbotron:
     Bronze sponsors: Avnet, Xilinx 
 
   slider:
-    - image: /assets/images/content/screen_shot_2021-03-17_at_6.11.47_pm.png
+    - image: /assets/images/content/sponsor_footer_lvc21.jpg
 flow: []
 ---
