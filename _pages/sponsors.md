@@ -1,9 +1,6 @@
 ---
 title: Sponsor Connect
-description: >
-  Sponsor the event where leading hardware and software Arm ecosystem players
-  come together.
-
+description: |
   Thank you to our Linaro Virtual Connect 2021 Sponsors!
 permalink: /sponsors/
 published: true
@@ -20,7 +17,7 @@ jumbotron:
   title-class: big-title
   description: |+
     Gold sponsors: Arm, Huawei, Qualcomm
-    Bronze sponsors: Avnet and Xilinx 
+    Bronze sponsors: Avnet, Xilinx 
 
   slider:
     - image: /assets/images/content/screen_shot_2021-03-17_at_6.11.47_pm.png
