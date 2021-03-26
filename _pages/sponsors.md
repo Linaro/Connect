@@ -19,9 +19,14 @@ jumbotron:
   slider:
     - image: /assets/images/content/many_screens.jpg
       title: "Thank you to our Linaro Virtual Connect 2021 Sponsors "
-      description: |-
+      description: >-
         Gold sponsors: Arm, Huawei, Qualcomm
+
         Bronze sponsors: Avnet, Xilinx 
+
+
+
+        Sponsorship opportunities for the next Linaro Virtual Connect will be announced in May 2021.
       darken: true
 flow:
   - row: container_row
