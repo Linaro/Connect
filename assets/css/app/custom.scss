@@ -9,6 +9,11 @@
     font-weight: bolder;
   }
   overflow: hidden;
+  .blog_image_header {
+    img {
+      height: 250px;
+    }
+  }
   .blog_image_header::before {
     content: "";
   }
