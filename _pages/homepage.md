@@ -36,11 +36,10 @@ flow:
         block_section_content:
           blocks:
             - style: text-dark
-              description: Linaro Virtual Connect Spring (March 23-25, 2021) has ended. Visit
-                our [LVC21 Resource
+              description: Linaro Virtual Connect Spring 2021 (March 23-25, 2021) has ended.
+                Visit our [LVC21 Resource
                 Page](https://connect.linaro.org/resources/lvc21/) to view all
-                session videos and presentation slides from Linaro Virtual
-                Connect Spring 2021.
+                session videos and presentation slides from LVC21.
             - style: text-dark
               description: Please check back in May 2021 for updates on the next Linaro
                 Virtual Connect or [subscribe](http://eepurl.com/hoUvrf) for
