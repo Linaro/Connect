@@ -36,18 +36,14 @@ flow:
         block_section_content:
           blocks:
             - style: text-dark
-              description: Due to the current climate we will be running the next event
-                virtually. The next Linaro Connect will be held online from
-                **March 23-25, 2021**.
+              description: Linaro Virtual Connect Spring 2021 (March 23-25, 2021) has ended.
+                Visit our [LVC21 Resource
+                Page](https://connect.linaro.org/resources/lvc21/) to view all
+                session videos and presentation slides from LVC21.
             - style: text-dark
-              description: >-
-                Registration is open. View the full [schedule
-                ](https://connect.linaro.org/schedule/)and complete your free
-                [registration](https://connect.linaro.org/register/) to receive
-                access to the LVC21 event platform.
-
-
-                Registered attendees can access the Event Platform [here](https://app.pinetool.ai/attendee/events).
+              description: Please check back in May 2021 for updates on the next Linaro
+                Virtual Connect or [subscribe](http://eepurl.com/hoUvrf) for
+                Linaro Connect email updates.
   - row: container_row
     style: bg-secondary text-white
     sections:
