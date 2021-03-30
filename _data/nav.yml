@@ -12,12 +12,6 @@ pages:
   - title: About
     url: /about/
     options:
-      - text: Registration
-        url: /register/
-      - text: Schedule
-        url: /schedule/
-      - text: Call for Proposals
-        url: /cfp/
       - text: "Sponsor "
         url: /sponsors/
   - active_paths:
