@@ -9,11 +9,12 @@ published: true
 layout: flow
 jumbotron:
   slider:
-    - inner_class: text-center
+    - darken: true
+      inner_class: text-center
       title: ""
       custom_include: connect_logo_insert.html
       title-class: font-weight-bold
-      image: /assets/images/content/LVC21F_background.jpg
+      image: /assets/images/content/many_screens.jpg
 flow:
   - row: container_row
     sections:
@@ -35,8 +36,8 @@ flow:
         block_section_content:
           blocks:
             - style: text-dark
-              description: Linaro Virtual Connect Spring 2021 (March 23-25, 2021) has ended.
-                Visit our [LVC21 Resource
+              description: Linaro Virtual Connect Spring 2021 (March 23-25) has ended. Visit
+                our [LVC21 Resource
                 Page](https://connect.linaro.org/resources/lvc21/) to view all
                 session videos and presentation slides from LVC21.
             - style: text-dark
@@ -59,8 +60,8 @@ flow:
       - format: buttons
         style: text-center
         buttons_content:
-          - title: View LVC20 Resources
-            url: /resources/lvc20/
+          - title: View LVC21 Resources
+            url: /resources/lvc21/
             style: btn-primary
   - row: custom_include_row
     source: homepage_video_modal.html
