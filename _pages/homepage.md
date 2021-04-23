@@ -51,7 +51,7 @@ flow:
         style: text-center text-white
         title_content:
           size: h2
-          text: LVC20 stats (during the 3 days of the event)
+          text: LVC21 stats (during the 3 days of the event)
       - format: custom_include
         source: stats_section.html
   - row: container_row
