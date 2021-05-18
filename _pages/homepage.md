@@ -9,11 +9,12 @@ published: true
 layout: flow
 jumbotron:
   slider:
-    - inner_class: text-center
+    - darken: true
+      inner_class: text-center
       title: ""
       custom_include: connect_logo_insert.html
       title-class: font-weight-bold
-      image: /assets/images/content/LVC21F_background.jpg
+      image: /assets/images/content/many_screens.jpg
 flow:
   - row: container_row
     sections:
@@ -35,14 +36,16 @@ flow:
         block_section_content:
           blocks:
             - style: text-dark
-              description: Linaro Virtual Connect Spring 2021 (March 23-25, 2021) has ended.
-                Visit our [LVC21 Resource
-                Page](https://connect.linaro.org/resources/lvc21/) to view all
-                session videos and presentation slides from LVC21.
+              description: >-
+                Linaro Virtual Connect Fall 2021 will be held September 21-23
+                online. 
+
+
+                <a title="Add to Calendar" class="addeventatc" data-id="Ye6593656" href="https://www.addevent.com/event/Ye6593656" target="_blank" rel="nofollow">Add to Calendar</a> 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
             - style: text-dark
-              description: Please check back in May 2021 for updates on the next Linaro
-                Virtual Connect or [subscribe](http://eepurl.com/hoUvrf) for
-                Linaro Connect email updates.
+              description: The CFP will be opened on May 25, 2021.
+                [Subscribe](http://eepurl.com/hoUvrf) for Linaro Connect email
+                updates.
   - row: container_row
     style: bg-secondary text-white
     sections:
@@ -59,8 +62,8 @@ flow:
       - format: buttons
         style: text-center
         buttons_content:
-          - title: View LVC20 Resources
-            url: /resources/lvc20/
+          - title: View LVC21 Resources
+            url: /resources/lvc21/
             style: btn-primary
   - row: custom_include_row
     source: homepage_video_modal.html
