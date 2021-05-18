@@ -36,14 +36,16 @@ flow:
         block_section_content:
           blocks:
             - style: text-dark
-              description: Linaro Virtual Connect Spring 2021 (March 23-25) has ended. Visit
-                our [LVC21 Resource
-                Page](https://connect.linaro.org/resources/lvc21/) to view all
-                session videos and presentation slides from LVC21.
+              description: >-
+                Linaro Virtual Connect Fall 2021 will be held September 21-23
+                online. 
+
+
+                <a title="Add to Calendar" class="addeventatc" data-id="Ye6593656" href="https://www.addevent.com/event/Ye6593656" target="_blank" rel="nofollow">Add to Calendar</a> 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
             - style: text-dark
-              description: Please check back in May 2021 for updates on the next Linaro
-                Virtual Connect or [subscribe](http://eepurl.com/hoUvrf) for
-                Linaro Connect email updates.
+              description: The CFP will be opened on May 25, 2021.
+                [Subscribe](http://eepurl.com/hoUvrf) for Linaro Connect email
+                updates.
   - row: container_row
     style: bg-secondary text-white
     sections:
