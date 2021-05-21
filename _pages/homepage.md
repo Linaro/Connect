@@ -37,15 +37,18 @@ flow:
           blocks:
             - style: text-dark
               description: >-
-                Linaro Virtual Connect Fall 2021 will be held September 21-23
-                online. 
+                The upcoming Linaro Virtual Connect will be held September 8-10
+                online.
 
 
-                <a title="Add to Calendar" class="addeventatc" data-id="Ye6593656" href="https://www.addevent.com/event/Ye6593656" target="_blank" rel="nofollow">Add to Calendar</a> 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+                <a title="Add LVC21F to your Calendar" class="addeventatc" data-id="Ye6593656" href="https://www.addevent.com/event/Ye6593656" target="_blank" rel="nofollow">Add to Calendar</a> 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
             - style: text-dark
-              description: The CFP will be opened on May 25, 2021.
-                [Subscribe](http://eepurl.com/hoUvrf) for Linaro Connect email
-                updates.
+              description: >-
+                Interested in speaking at the next Connect? The call for
+                proposals will be opened on May 25, 2021. 
+
+
+                [Subscribe here](http://eepurl.com/hoUvrf) to receive Linaro Connect email updates.
   - row: container_row
     style: bg-secondary text-white
     sections:
