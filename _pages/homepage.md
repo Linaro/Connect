@@ -48,7 +48,7 @@ flow:
                 proposals will be opened on May 25, 2021. 
 
 
-                [Subscribe here](http://eepurl.com/hoUvrf) to be receive Linaro Connect email updates.
+                [Subscribe here](http://eepurl.com/hoUvrf) to receive Linaro Connect email updates.
   - row: container_row
     style: bg-secondary text-white
     sections:
