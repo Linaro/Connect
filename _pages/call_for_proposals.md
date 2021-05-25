@@ -2,7 +2,7 @@
 title: Call for Proposals
 description: |-
   Call for Proposals for Linaro Virtual Connect 2021 Fall
-  September 8-10, 2021 
+  September 8-10, 2021  
 permalink: /cfp/
 published: true
 layout: flow
@@ -31,7 +31,7 @@ OS Build & Test
 
 * Continuous Integration testing
 * CI and testing frameworks
-* Kernel quality
+* Kernel quality 
 
 Edge Computing and its many use cases
 
