@@ -12,6 +12,8 @@ pages:
   - title: About
     url: /about/
     options:
+      - text: "Call for Proposals "
+        url: /cfp/
       - text: "Sponsor "
         url: /sponsors/
   - active_paths:
