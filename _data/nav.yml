@@ -30,3 +30,5 @@ pages:
       - text: Bangkok 2019
         url: /resources/bkk19/
     title: Resources
+  - title: CFP
+    url: /cfp/
