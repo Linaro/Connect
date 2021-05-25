@@ -14,7 +14,7 @@ jumbotron:
       title: ""
       custom_include: connect_logo_insert.html
       title-class: font-weight-bold
-      image: /assets/images/content/many_screens.jpg
+      image: /assets/images/content/LVC21F_background.jpg
 flow:
   - row: container_row
     sections:
