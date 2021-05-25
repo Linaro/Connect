@@ -44,8 +44,9 @@ flow:
                 <a title="Add LVC21F to your Calendar" class="addeventatc" data-id="Ye6593656" href="https://www.addevent.com/event/Ye6593656" target="_blank" rel="nofollow">Add to Calendar</a> 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
             - style: text-dark
               description: >-
-                Interested in speaking at the next Connect? The call for
-                proposals will be opened on May 25, 2021. 
+                Interested in speaking at the next Connect? [Submit your
+                proposal](https://connect.linaro.org/cfp) today. Deadline to
+                submit is July 13, 2021. 
 
 
                 [Subscribe here](http://eepurl.com/hoUvrf) to receive Linaro Connect email updates.
