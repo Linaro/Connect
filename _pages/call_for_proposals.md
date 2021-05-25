@@ -81,7 +81,7 @@ Linaro and Community enablement
 **Types of sessions**\
 As a default, sessions are 25 minutes long including Q&A. 50 minute will be considered for more in-depth sessions.
 
-* Presentation: Speakers share slides and present technical topics. This may include demos. Presentations can have 1 speaker of multiple. Most sessions at Connect are presentation style.
+* Presentation: General presentation style usually consisting of slides and a technical discussion. This may include demos. Presentations can have 1 or multiple speakers. Most sessions at Connect are presentation style.
 * BoF “Birds of a Feather”: Informal session type with a group who wish to discuss a certain topic without a pre-planned agenda.
 * Panel: A panel is a group of people who are engaging in a conversation about a certain technical topic.A moderator leads the discussion by presenting questions to the panelists, ensuring the discussion stays on track, and will also pull audience questions from the chat for the panelists to answer.
 * Keynote: Keynotes are selected by the Connect Planning team. If you’d like your presentation to be considered for a keynote, you may select this option. If it is not selected as a keynote, it could still be selected as a presentation.
