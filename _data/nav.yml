@@ -12,6 +12,8 @@ pages:
   - title: About
     url: /about/
     options:
+      - text: "Call for Proposals "
+        url: /cfp/
       - text: "Sponsor "
         url: /sponsors/
   - active_paths:
@@ -30,5 +32,3 @@ pages:
       - text: Bangkok 2019
         url: /resources/bkk19/
     title: Resources
-  - title: "Call For Proposals "
-    url: /cfp/
