@@ -1,9 +1,9 @@
 ---
 title: Call for Demos
-description: >
-  At every Linaro Connect we end the week on a high note with our Demo Friday
-  Technology Showcase.
-permalink: /demo-friday/
+description: Submit your application to participate in the Virtual Demo
+  Technology Showcase on Thursday, September 9.
+permalink: /demo-showcase/
+published: true
 layout: flow
 jumbotron:
   carousel-images:
@@ -19,23 +19,41 @@ flow:
     sections:
       - format: text
         text_content:
-          text: >
-            At every Linaro Connect we end the week on a high note with our Demo
-            Friday Technology Showcase.
+          text: >-
+            At the upcoming Linaro Virtual Connect 2021 Fall, we plan to host
+            our first ever Virtual Demo Technology Showcase on Thursday,
+            September 9.
 
-            If you are interested in presenting a demo on Demo Friday, please
-            request demo space via the form below. There are a limited number of
-            tables available, so space is first come first served!
 
-            Please remember to request any required hardware for your demo.
+            We welcome all attendees of LVC21F to submit an application to participate by completing the form below. If you've ever been to a Linaro Connect in the past, you may remember our Demo Friday Technology showcase. Participants of Demo Friday prepared a technology demo on a wide variety of Arm Software topics including--- OS Build & Test, Edge Computing and its many use cases, Linaro and community enablement including Open source development, Native software development, etc.
+
+
+            Other topics of interest for demos:
+
+
+            96Boards, Android, Automation & CI, Automotive, Big Data, Boot Architecture, Data Center, HPC, Industrial, IoT and Embedded, IoT Fog/Gateway/Edge Computing, Linux Kernel, Machine Learning/AI, Multimedia, Power Management, Security, Standardized Firmware, Tools, Testing & CI, Virtualization.
+
+
+
+
+            **How will it work virtually?**
+
+
+            Demos will be recorded by the person or team submitting, the video file will be sent to the Linaro Connect events team. We will then incorporate the demo videos into an interactive Demo Technology Showcase during the online event using a special software. The virtual event software will allow attendees to virtually "walk up" to your demo area, watch the demo video, and interact with your team using their mic and camera or via the chat function.
+
+
+            Demo examples:
+
+
+            * * [Multiprocessing and OpenAMP Messaging Demo](https://youtu.be/mY2G78jal3Y)
+              * [LAVA in a box ](https://www.youtube.com/watch?v=G9XlAtHsyFM)
+
+
+
+            Please complete the form below to submit your demo application. We look forward to seeing your submissions!
   - row: main_content_row
 ---
-
-If you are attending Linaro Connect Budapest, you are welcome to apply for table space to participate in Demo Friday on the final day of Linaro Connect from 12-2pm.
-
-Space is first come first served. Please complete the form below to apply for a table. You will then receive an email confirming your request and further instructions for participation.
-
 <div class="cognito">
-    <script src="https://services.cognitoforms.com/s/KvRQmIn2dku6k6gGP711jw"></script>
-    <script>Cognito.load("forms", { id: "17" });</script>
+<script src="https://www.cognitoforms.com/s/KvRQmIn2dku6k6gGP711jw"></script>
+<script>Cognito.load("forms", { id: "21" });</script>
 </div>
