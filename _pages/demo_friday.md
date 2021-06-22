@@ -55,5 +55,5 @@ flow:
 ---
 <div class="cognito">
 <script src="https://www.cognitoforms.com/s/KvRQmIn2dku6k6gGP711jw"></script>
-<script>Cognito.load("forms", { id: "21" });</script>
+<script>Cognito.load("forms",{ id: "21" });</script>
 </div>
