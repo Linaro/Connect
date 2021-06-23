@@ -1,5 +1,5 @@
 ---
-amazon_s3_presentation_url: None
+amazon_s3_presentation_url: https://static.linaro.org/connect/armcca/presentations/CCATechEvent-210623-MC.pdf
 amazon_s3_video_url: None
 categories:
 - armcca
