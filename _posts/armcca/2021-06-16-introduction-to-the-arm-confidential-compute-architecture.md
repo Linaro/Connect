@@ -4,7 +4,7 @@ amazon_s3_video_url: None
 categories:
 - armcca
 description: 'Introduction to the Arm Confidential Compute Architecture'
-image: /assets/images/featured-images/lvc21/LVC21-100.png
+image: /assets/images/featured-images/armcca/armcca-introduction.png
 session_id: ARMCCA-101
 session_slot:
   end_time: 2021-06-23 15:00

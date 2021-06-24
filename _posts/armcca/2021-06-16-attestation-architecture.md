@@ -4,7 +4,7 @@ amazon_s3_video_url: None
 categories:
 - armcca
 description: 'Attestation architecture'
-image: /assets/images/featured-images/lvc21/LVC21-100.png
+image: /assets/images/featured-images/armcca/armcca-attestation-architecture.png
 session_id: ARMCCA-103
 session_slot:
   end_time: 2021-06-23 16:45
