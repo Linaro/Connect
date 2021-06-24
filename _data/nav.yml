@@ -17,7 +17,7 @@ pages:
       - text: "Sponsor "
         url: /sponsors/
       - text: Technology Demo Showcase
-        url: /demo-showcase/
+        url: /demo-friday/
   - active_paths:
       - /resources/
     options:
