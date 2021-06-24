@@ -16,13 +16,13 @@ pages:
         url: /cfp/
       - text: "Sponsor "
         url: /sponsors/
+      - text: Demo Showcase
+        url: /demo-friday/
   - active_paths:
       - /resources/
     options:
       - text: All Resources
         url: /resources/
-      - text: Arm CCA
-        url: /resources/arm-cca/
       - text: Linaro Virtual Connect 2021
         url: /resources/lvc21/
       - text: Linaro Virtual Connect 2020
