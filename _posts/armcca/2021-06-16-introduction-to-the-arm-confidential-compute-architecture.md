@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/armcca/presentations/CCATechEvent-210623-CGT-2.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: https://static.linaro.org/connect/armcca/videos/CCA-introduction.mp4
 categories:
 - armcca
 description: 'Introduction to the Arm Confidential Compute Architecture'

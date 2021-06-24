@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: https://static.linaro.org/connect/armcca/videos/CCA-panel-discussion.mp4
 categories:
 - armcca
 description: Confidential Compute, what’s it all about? (Panel discussion)

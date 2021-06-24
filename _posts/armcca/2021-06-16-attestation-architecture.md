@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/armcca/presentations/CCATechEvent-210623-SF.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: https://static.linaro.org/connect/armcca/videos/CCA-attestation-architecture.mp4
 categories:
 - armcca
 description: 'Attestation architecture'
