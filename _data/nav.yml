@@ -16,7 +16,7 @@ pages:
         url: /cfp/
       - text: "Sponsor "
         url: /sponsors/
-      - text: Technology Demo Showcase
+      - text: Demo Showcase
         url: /demo-friday/
   - active_paths:
       - /resources/
