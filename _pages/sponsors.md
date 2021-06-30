@@ -20,30 +20,20 @@ jumbotron:
       darken: true
 flow:
   - row: container_row
-    sections:
-      - format: feature_block
-        feature_block_content:
-          position: left
-          text: "\n"
-          title: Sponsorship Information
-          type: image
-          image_content_path: ""
-          buttons:
-            - title: "Download Prospectus "
-              url: https://drive.google.com/file/d/127iikK8vK7UtHb9mVdAHS_ItwDvwPwRO/view?usp=sharing
+    sections: []
 ---
-**Why sponsor Linaro Connect?**
+> #### **[DOWNLOAD PROSPECTUS](https://drive.google.com/file/d/1Owb_Eej-ZRRBXnth_9IdBh-UStV7EzqL/view?usp=sharing)**
 
-\-Linaro Connect is the ONLY place where all of the Arm ecosystem - both hardware and software come together -Raise your company profile in front of hundreds of Open Source maintainers and engineers
--Put your brand in front of all the event attendees working on the latest Open Source software stacks and toolchains before during and after the event
+##### **Why sponsor Linaro Connect?**
+
+\-Linaro Connect is the ONLY place where all of the Arm ecosystem - both hardware and software come together -Raise your company profile in front of hundreds of Open Source maintainers and engineers -Put your brand in front of all the event attendees working on the latest Open Source software stacks and toolchains before during and after the event
 -Promote your brand to highlight your technology, hardware, tools, services and other solutions
 
-**Statistics from the Previous Linaro Virtual Connect in March 2021:** 
+##### **Statistics from the Previous Linaro Virtual Connect in March 2021:** 
 
-\-Over 1200 registrants from over 230 companies across 52 countries 
--72 technical sessions with over 2600 active views from attendees during the event
+\-Over 1200 registrants from over 230 companies across 52 countries  -72 technical sessions with over 2600 active views from attendees during the event
 
-**Sponsorship package options:** 
+##### **Sponsorship package options:** 
 
 We're offering 3 virtual packages for LVC21 Fall: In USD: Gold ($10,000), Silver ($8,000), and Bronze ($6,000).
 
