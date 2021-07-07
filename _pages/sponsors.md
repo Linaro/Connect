@@ -14,7 +14,7 @@ jumbotron:
   title-class: big-title
   description: ""
   slider:
-    - image: /assets/images/content/many_screens.jpg
+    - image: /assets/images/content/lvc21f_background.png
       title: " "
       description: "\n"
       darken: true
