@@ -19,8 +19,8 @@ span.stats-title {
   background-repeat: no-repeat;
 }
 h3.connect-title.text-center {
-    font-size: 16px;
-    margin-bottom: 20px;
+  font-size: 16px;
+  margin-bottom: 20px;
 }
 .btn.flickr-albums {
   background-color: #333;
@@ -44,27 +44,27 @@ h3.connect-title.text-center {
   color: white;
 }
 .date-area {
-    padding: 3px;
-    margin-bottom: 10px;
-    margin-top: 40px;
-    height: 53px;
-    font-size: 15px;
+  padding: 3px;
+  margin-bottom: 10px;
+  margin-top: 40px;
+  height: 53px;
+  font-size: 15px;
 }
 .resource-sidebar-block.col-xs-4 {
-    background-color: #2f2f2f;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    color: #ffffff;
+  background-color: #2f2f2f;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #ffffff;
 }
 #all-resources ul.dropdown-menu {
-    margin-top: -10px;
-    z-index: 99999 !important;
-    position: absolute;
-    background-color: #333333;
+  margin-top: -10px;
+  z-index: 99999 !important;
+  position: absolute;
+  background-color: #333333;
 }
 #all-resources button.btn.btn-default.dropdown-toggle {
   color: white;
-  border-radius:0px;
+  border-radius: 0px;
 }
 a.connect-map-location.btn.btn-primary {
   background-color: #333333;
@@ -101,99 +101,99 @@ div#all-resources {
   margin-bottom: 0px;
 }
 .resource-title.col-xs-12.no-padding {
-    top: -1px;
-    height: auto;
+  top: -1px;
+  height: auto;
 }
 
-.resource-block{
-    transition: all 100ms ease;
+.resource-block {
+  transition: all 100ms ease;
 }
 .resource-block img {
-    filter: grayscale(1);
+  filter: grayscale(1);
 }
 .resource-block:hover img {
-    filter:unset !important;
+  filter: unset !important;
 }
 span.session_id {
-    padding: 5px;
-    background-color: #79ac00;
-    color: white;
+  padding: 5px;
+  background-color: #79ac00;
+  color: white;
 }
 span.speaker {
-    background-color: #282828;
-    padding: 5px;
-    color: white;
-    display:inline-block;
-    border: 1px solid #181818;
-    margin-top: 5px;
+  background-color: #282828;
+  padding: 5px;
+  color: white;
+  display: inline-block;
+  border: 1px solid #181818;
+  margin-top: 5px;
 }
 .resource-details span {
-    padding: 5px;
-    display: block;
-    color: #7d7d7d;
+  padding: 5px;
+  display: block;
+  color: #7d7d7d;
 }
 
 div#main-resources-content .col-md-4.col-sm-4.col-xs-12.no-padding {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
 }
 .resource-block {
-    height: 100%;
+  height: 100%;
 }
 .col-md-9 .row {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 .speaker-col img.img-circle.img-repsonsive {
-    max-width: 150px;
-    max-height: 150px;
-    object-fit: cover;
+  max-width: 150px;
+  max-height: 150px;
+  object-fit: cover;
 }
 .blog-sidebar .modal-dialog {
-    margin-top: 130px;
+  margin-top: 130px;
 }
 section.disqus {
-    padding-right: 20px;
-    margin-top: 40px;
-    @include media-breakpoint-down(sm){
-        padding-right: 0px;
-    }
+  padding-right: 20px;
+  margin-top: 40px;
+  @include media-breakpoint-down(sm) {
+    padding-right: 0px;
+  }
 }
 article.post-content {
-    margin-top: 0px;
+  margin-top: 0px;
 }
 div#speakers {
-    margin-bottom: 40px;
-    margin-top: 40px;
-    height: auto;
-    overflow: auto;
-    img.img-circle.img-responsive {
-        max-height: 150px;
-    }
+  margin-bottom: 40px;
+  margin-top: 40px;
+  height: auto;
+  overflow: auto;
+  img.img-circle.img-responsive {
+    max-height: 150px;
+  }
 }
 div#flickr-section img {
-    padding: 15px;
-    display: inline;
-    top: -6px;
-    position: relative;
-    padding-left: 0px;
-    width: 100px;
+  padding: 15px;
+  display: inline;
+  top: -6px;
+  position: relative;
+  padding-left: 0px;
+  width: 100px;
 }
-#flickr-section{
-    text-align:center;
+#flickr-section {
+  text-align: center;
 }
 #flickr-section h3.text-center {
-    display: inline-block;
-    width: auto;
+  display: inline-block;
+  width: auto;
 }
 
 img#presentation-skeleton {
-    height: 286px;
-    object-fit: cover;
+  height: 286px;
+  object-fit: cover;
 }
 
 img#video-skeleton {
-    height: 285px;
-    object-fit: cover;
+  height: 285px;
+  object-fit: cover;
 }
