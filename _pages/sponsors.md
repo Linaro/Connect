@@ -10,16 +10,16 @@ jumbotron:
   background-image: /assets/images/content/bkk19-backpack-giveaway.jpg
   buttons: []
   carousel-images: ""
-  title: Sponsorship
+  title: ""
   title-class: big-title
   description: ""
   slider:
     - image: /assets/images/content/lvc21f_background.png
-      title: " "
+      title: " Sponsorship"
       description: "\n"
       darken: true
 flow:
-  - row: container_row
+  - row: main_content_row
     sections: []
 ---
 > #### **[DOWNLOAD PROSPECTUS](https://drive.google.com/file/d/1Owb_Eej-ZRRBXnth_9IdBh-UStV7EzqL/view?usp=sharing)**
