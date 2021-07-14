@@ -29,8 +29,6 @@ flow:
 * Put your brand in front of all the event attendees working on the latest Open Source software stacks and toolchains before during and after the event
 * Promote your brand to highlight your technology, hardware, tools, services and other solutions
 
-
-
 ##### **Statistics from the Previous Linaro Virtual Connect in March 2021:**
 
 * 72 technical sessions 
@@ -38,18 +36,12 @@ flow:
 * Attendees from 230 companies across 52 countries
 * Over 2600 active views from attendees during the 3 day event
 
-
-
 ##### **Sponsorship package options:**
 
 We're offering 3 virtual packages for LVC21 Fall
 
 **Gold** ($10,000 USD), **Silver** ($8,000 USD), and **Bronze** ($6,000 USD).
 
-
-
 Please download the [sponsorship prospectus](https://drive.google.com/file/d/127iikK8vK7UtHb9mVdAHS_ItwDvwPwRO/view?usp=sharing) to view the full package details.
 
-
-
-# **[DOWNLOAD PROSPECTUS](https://drive.google.com/file/d/1Owb_Eej-ZRRBXnth_9IdBh-UStV7EzqL/view?usp=sharing)**
+# **[DOWNLOAD PROSPECTUS](https://drive.google.com/file/d/127iikK8vK7UtHb9mVdAHS_ItwDvwPwRO/view)**
