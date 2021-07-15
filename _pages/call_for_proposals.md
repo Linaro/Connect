@@ -13,11 +13,11 @@ jumbotron:
 flow:
   - row: main_content_row
 ---
-Linaro Connect provides a platform to discuss and learn about the leading software topics, challenges and opportunities in the Arm Ecosystem today. Interested in sharing what you've been working on? [Submit your proposal ](https://sessionize.com/linaro-virtual-connect-2021-fall/)today.
+Linaro Connect provides a platform to discuss and learn about the leading software topics, challenges and opportunities in the Arm Ecosystem today. The CFP for LVC21F has now been closed. 
 
 **Timeline**
 
-* Deadline to submit proposals July 13, 2021
+* \[CLOSED] Deadline to submit proposals July 13, 2021 
 * Submission notifications July 27, 2021
 * Full schedule announced August 3, 2021
 * Registration opens August 3, 2021 
@@ -73,8 +73,6 @@ Linaro and Community enablement
 * Testing & CI
 * Virtualization
 * Windows on Arm
-
-[Submit my proposal ](https://sessionize.com/linaro-virtual-connect-2021-fall/)
 
 **Additional Information** 
 
