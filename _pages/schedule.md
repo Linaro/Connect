@@ -20,9 +20,7 @@ Once you have [registered](https://www.eventbrite.co.uk/e/linaro-virtual-connect
 
 **Registered attendees can log in to the Linaro Connect event platform [here](https://app.pinetool.ai/attendee/events).** 
 
-\*Please note: All session times listed below are in UTC\*
-
-**Full Schedule in UTC:** 
+\*Please note: the schedule below should show in your local timezone. 
 
 <style>
 	#pine-sessions {
