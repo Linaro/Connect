@@ -38,13 +38,10 @@ flow:
             - style: text-dark
               description: >-
                 The upcoming Linaro Virtual Connect will be held September 8-10
-                online.
+                online.  
 
 
-                \    
-
-
-                \    **[View the Full Schedule](https://connect.linaro.org/schedule)**
+                **[View the Full Schedule](https://connect.linaro.org/schedule)**
             - style: text-dark
               description: >-
                 Registration for LVC21 is now open. Complete your free
