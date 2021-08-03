@@ -12,12 +12,14 @@ pages:
   - title: About
     url: /about/
     options:
-      - text: "Call for Proposals "
-        url: /cfp/
       - text: "Sponsor "
         url: /sponsors/
       - text: Demo Showcase
         url: /demo-showcase/
+      - text: Schedule
+        url: /schedule/
+      - text: Register
+        url: /register/
   - active_paths:
       - /resources/
     options:
