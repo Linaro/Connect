@@ -44,11 +44,11 @@ flow:
                 \    
 
 
-                \    **[View the Full Schedule](connect.linaro.org/schedule)**
+                \    **[View the Full Schedule](https://connect.linaro.org/schedule)**
             - style: text-dark
               description: >-
-                Registration for LVC21 is now open. Complete your [free
-                registration](connect.linaro.org/register) today. 
+                Registration for LVC21 is now open. Complete your free
+                [registration](https://connect.linaro.org/register) today. 
 
 
                 [Subscribe here](http://eepurl.com/hoUvrf) to receive Linaro Connect email updates.
