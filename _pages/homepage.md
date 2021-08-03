@@ -41,11 +41,14 @@ flow:
                 online.
 
 
-                <a title="Add LVC21F to your Calendar" class="addeventatc" data-id="Ye6593656" href="https://www.addevent.com/event/Ye6593656" target="_blank" rel="nofollow">Add to Calendar</a> 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+                \    
+
+
+                \    **[View the Full Schedule](connect.linaro.org/schedule)**
             - style: text-dark
               description: >-
-                Registration will open and the full schedule will be announced
-                on August 3, 2021. 
+                Registration for LVC21 is now open. Complete your [free
+                registration](connect.linaro.org/register) today. 
 
 
                 [Subscribe here](http://eepurl.com/hoUvrf) to receive Linaro Connect email updates.
