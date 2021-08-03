@@ -19,7 +19,7 @@ jumbotron:
 flow:
   - row: main_content_row
 ---
-### Registration for Linaro Virtual Connect Fall is open. 
+### Registration for Linaro Virtual Connect Fall is open.
 
 **Register for your free ticket below:**
 
@@ -44,8 +44,6 @@ flow:
     });
 </script>
 
-
-
 **How do I join the event?**
 
-All registered attendees will receive an email invitation 1 week before Connect inviting you to login to the event platform PINE.ai. You will be able to bookmark sessions, view all live sessions during the event, network with other attendees and more. In the meantime, view the full schedule [here](https://connect.linaro.org/schedule/).
+All registered attendees will receive an email invitation one week before Connect inviting you to login to the event platform PINE.ai. You will be able to bookmark sessions, view all live sessions during the event, network with other attendees and more. In the meantime, view the full schedule [here](https://connect.linaro.org/schedule/).
