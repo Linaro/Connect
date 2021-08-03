@@ -13,16 +13,20 @@ layout: flow
 jumbotron:
   darken: true
   background-image: /assets/images/content/bud20_web_banner.png
-  title: Register
+  title: Registration
   title-class: big-title
-  description: ""
+  description: >-
+    Linaro Virtual Connect Fall 2021 welcomes all those interested in open
+    source and Arm technology to join us for our three day virtual event. This
+    engineering focused event will consist of 70+ technical keynotes and
+    sessions, spanning a range of topics including Security, OS Build & Test,
+    Automotive, Windows on Arm, IoT and Embedded, and more.
+
+
+    Complete your free registration below. Once you register, you will receive an email a week before Connect begins inviting you to log in to our event platform (PINE) where you will be able to build your agenda, view livestream links, chat with other attendees, and more. 
 flow:
   - row: main_content_row
 ---
-### Registration for Linaro Virtual Connect Fall is open.
-
-**Register for your free ticket below:**
-
 <div id="eventbrite-widget-container-165904321291"></div>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
@@ -43,7 +47,3 @@ flow:
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
-
-**How do I join the event?**
-
-All registered attendees will receive an email invitation one week before Connect inviting you to login to the event platform PINE.ai. You will be able to bookmark sessions, view all live sessions during the event, network with other attendees and more. In the meantime, view the full schedule [here](https://connect.linaro.org/schedule/).
