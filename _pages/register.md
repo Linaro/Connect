@@ -1,11 +1,11 @@
 ---
 title: Register for Linaro Connect
 description: >-
-  Register for Linaro Virtual Connect 2021 and join hundreds of the world's
+  Register for Linaro Virtual Connect Fall 2021 and join hundreds of the world's
   leading Arm Open Source Engineers.
 
 
-  LVC21 will run from March 23-25, 2021. 
+  LVC21F will run from Wednesday-Friday, September 8-10, 2021
 permalink: /register/
 published: true
 css-package: about
@@ -13,21 +13,21 @@ layout: flow
 jumbotron:
   darken: true
   background-image: /assets/images/content/bud20_web_banner.png
-  title: Register
+  title: Registration
   title-class: big-title
-  description: ""
+  description: >-
+    Linaro Virtual Connect Fall 2021 welcomes all those interested in open
+    source and Arm technology to join us for our three day virtual event. This
+    engineering focused event will consist of 70+ technical keynotes and
+    sessions, spanning a range of topics including Security, OS Build & Test,
+    Automotive, Windows on Arm, IoT and Embedded, and more.
+
+
+    Complete your free registration below. Once you register, you will receive an email a week before Connect begins inviting you to log in to our event platform (PINE) where you will be able to build your agenda, view livestream links, chat with other attendees, and more. 
 flow:
   - row: main_content_row
 ---
-Registration for Linaro Virtual Connect is open. View the full schedule [here](https://connect.linaro.org/schedule/). 
-
-Once you register, you will receive an email invitation from our Event Platform "PINE Tool" inviting you to login to the event and begin building your agenda.
-
-
-
-Register for your free ticket below:
-
-<div id="eventbrite-widget-container-137804379609"></div>
+<div id="eventbrite-widget-container-165904321291"></div>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
 
@@ -39,8 +39,8 @@ Register for your free ticket below:
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '137804379609',
-        iframeContainerId: 'eventbrite-widget-container-137804379609',
+        eventId: '165904321291',
+        iframeContainerId: 'eventbrite-widget-container-165904321291',
 
         // Optional
         iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
