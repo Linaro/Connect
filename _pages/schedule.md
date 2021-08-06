@@ -42,7 +42,33 @@ Linaro Virtual Connect Fall 2021 provides a platform to discuss and learn about 
 </style>
 
 <iframe id="pine-sessions" src="https://events.pinetool.ai/2231/#widgets/sessions"></iframe>
+		
 
 **How do I join the event?**
 
 All [registered](https://connect.linaro.org/register) attendees will receive an email invitation one week before Connect inviting you to login to the event platform PINE.ai. You will be able to bookmark sessions, view all live sessions during the event, network with other attendees and more.
+
+
+
+<style>
+	#pine-speakers {
+		width: 100%;
+		height: 600px;
+		border: 0;
+		display: block;
+	}
+
+	@media screen and (max-width: 1200px) {
+		#pine-speakers {
+			height: 520px;
+		}
+	}
+
+	@media screen and (max-width: 768px) {
+		#pine-speakers {
+			height: 260px;
+		}
+	}
+</style>
+
+<iframe id="pine-speakers" src="https://events.pinetool.ai/2231/#widgets/speakers"></iframe>
