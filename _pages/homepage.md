@@ -56,6 +56,16 @@ flow:
         style: text-center text-white
         title_content:
           size: h2
+          text: LVC21F Keynotes
+      - format: custom_include
+        source: keynote_slider.html
+  - row: container_row
+    style: bg-secondary text-white
+    sections:
+      - format: title
+        style: text-center text-white
+        title_content:
+          size: h2
           text: LVC21 stats (during the 3 days of the event)
       - format: custom_include
         source: stats_section.html
