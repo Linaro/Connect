@@ -1,19 +1,18 @@
+{% assign keynotes = site.data.keynotes.items | sort: "datetime" | reverse %}
 <div class="row">
-  <div class="owl-carousel owl-theme" id="keynote_slider">
-    {% assign keynotes = site.data.keynotes.items | sort: "datetime" | reverse
-    %} {% for keynote in keynotes %}
-    <div class="item">
-      <div class="card" style="width: 18rem">
+  <div class="owl-carousel owl-theme keynote_slider_style" id="keynote_slider">
+    {% for keynote in keynotes %}
+    <div class="item h-100">
+      <div class="card keynote h-100" style="width: 18rem">
         {% if keynote.speaker and keynote.speaker.image %} {% assign image =
         keynote.speaker.image %} {% else %} {% assign image =
         "/assets/images/avatar-placeholder.jpg" %} {% endif %} {% capture
         image_alt %} {{keynote.speaker.name}} profile image {% endcapture%} {%
         picture card_block_image {{image}} --alt {{image_alt}} %}
-        <div class="card-body">
-          <h5 class="card-title">{{keynote.title}}</h5>
-          <h5 class="card-title">{{keynote.speaker.name}}</h5>
-          <h5 class="card-title">{{keynote.speaker.jobTitle}}</h5>
-          <p class="card-text">{{keynote.abstract | truncate: 100 }}</p>
+        <div class="card-body text-center d-flex justify-content-between flex-column align-items-center">
+          <h5 class="card-title name">{{keynote.speaker.name}}</h5>
+          <h6 class="card-title job_title">{{keynote.speaker.jobTitle}}</h5>
+          <!-- <p class="card-text">{{keynote.abstract | truncate: 100 }}</p> -->
           <button
             type="button"
             class="btn btn-primary"
@@ -24,49 +23,49 @@
           </button>
         </div>
       </div>
-      <!-- Modal -->
-      <div
-        class="modal fade"
-        id="{{keynote.title | slugify}}"
-        tabindex="-1"
-        role="dialog"
-        aria-labelledby="{{keynote.title | slugify}}-label"
-        aria-hidden="true"
-      >
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h5 class="modal-title" id="{{keynote.title | slugify}}-label">
-                {{keynote.title}}
-              </h5>
-              <button
-                type="button"
-                class="close"
-                data-dismiss="modal"
-                aria-label="Close"
-              >
-                <span aria-hidden="true">&times;</span>
-              </button>
-            </div>
-            <div class="modal-body">
-              <p>{{keynote.abstract}}</p>
-              <h5>{{keynote.speaker.name}}</h5>
-              {% if keynote.speaker.bio %} {{keynote.speaker.bio | markdownify}}
-              {% endif %}
-            </div>
-            <div class="modal-footer">
-              <button
-                type="button"
-                class="btn btn-secondary"
-                data-dismiss="modal"
-              >
-                Close
-              </button>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
     {% endfor %}
   </div>
 </div>
+
+{% for keynote in keynotes %}
+
+<!-- Modal -->
+<div
+  class="modal text-dark fade"
+  id="{{keynote.title | slugify}}"
+  tabindex="-1"
+  role="dialog"
+  aria-labelledby="{{keynote.title | slugify}}-label"
+  aria-hidden="true"
+>
+  <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="{{keynote.title | slugify}}-label">
+          {{keynote.title}}
+        </h5>
+        <button
+          type="button"
+          class="close"
+          data-dismiss="modal"
+          aria-label="Close"
+        >
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>{{keynote.abstract}}</p>
+        <h5>{{keynote.speaker.name}}</h5>
+        {% if keynote.speaker.bio %} {{keynote.speaker.bio | markdownify}} {%
+        endif %}
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">
+          Close
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}
