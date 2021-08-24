@@ -1,3 +1,9 @@
+- id: LVC21F
+  featured_images:
+    - /assets/images/content/techdays_mailchimp_banner.png
+  long_name: Linaro Virtual Connect 2021 Fall
+  start_date: 2021-09-08 09:00:00
+  end_date: 2021-09-10 09:00:00
 - id: LVC21
   featured_images:
     - /assets/images/content/techdays_mailchimp_banner.png
