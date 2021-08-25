@@ -1,4 +1,26 @@
 #wrapper {
+  .keynote_slider_style {
+    .owl-stage {
+      display: flex;
+      align-items: stretch;
+    }
+  }
+  .card.keynote {
+    background-color: transparent;
+    border: 0;
+    img.card-img-top {
+      border: 3px solid #98cc33;
+      border-radius: 150px;
+      height: 150px !important;
+      width: 150px !important;
+      margin: auto;
+      margin-top: 20px;
+      margin-bottom: 5px;
+      box-shadow: 0px 1px 25px 0px rgba(0, 0, 0, 0.75);
+      -webkit-box-shadow: 0px 1px 25px 0px rgba(0, 0, 0, 0.75);
+      -moz-box-shadow: 0px 1px 25px 0px rgba(0, 0, 0, 0.75);
+    }
+  }
   .connect_blocks {
     .card {
       border: 10px solid #deeec8;

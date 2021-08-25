@@ -30,6 +30,18 @@ flow:
           text: >
             This is the ONLY event where developers, maintainers of both
             hardware and software can collaborate and discuss common problems.
+  - row: container_row
+    style: bg-secondary text-white
+    sections:
+      - format: title
+        style: text-center text-white
+        title_content:
+          size: h2
+          text: LVC21F Keynotes
+      - format: custom_include
+        source: keynote_slider.html
+  - row: container_row
+    sections:
       - format: block
         style: text-center text-dark connect_blocks
         item_width: "6"
@@ -49,6 +61,7 @@ flow:
 
 
                 [Subscribe here](http://eepurl.com/hoUvrf) to receive Linaro Connect email updates.
+
   - row: container_row
     style: bg-secondary text-white
     sections:

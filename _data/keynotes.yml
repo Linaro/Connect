@@ -1,0 +1,64 @@
+items:
+  - title: "LVC21-100K Keynote: Topic: Google Hyperscaler Testing Platform"
+    abstract: |
+      Level: Introductory and overview 
+
+      Abstract pending
+    datetime: 2021-09-08 08:30:00
+    speaker:
+      name: David Munday
+      jobTitle: Google
+  - title: "LVC21F-100K From Mobile to Automotive: Delivering Intelligent, Next-Gen Digital Cockpit Solutions"
+    abstract: |
+      Level: Introductory and overview 
+
+      The automotive industry is undergoing a drastic evolution, with trends such as electrification, autonomy and mobility-as-a-service are fundamentally changing the way the modern vehicle is designed and architected. Automakers now need solutions that deliver scalable, flexible safety features, as well as centralized high-performance compute, computer vision, artificial intelligence and multi-sensor processing.
+    datetime: 2021-09-08 16:00:00
+    speaker:
+      name: Vasanth Waran
+      jobTitle: Senior Director, Product Management Qualcomm Technologies, Inc.Qualcomm Technologies, Inc.
+      bio: |
+        Vasanth Waran serves as senior director, product management at Qualcomm Technologies, Inc. He is responsible for the high- and premium-tier automotive cockpit solutions that are widely adopted in the auto industry today. His responsibilities include focused development expansion into the digital cockpit, with oversight of the product roadmap and its execution for cockpit compute System-On-Chip (SoC), customer-focused business development and customer support through various phases of design and validation. Vasanth has worked at Qualcomm since 2013 and has been instrumental in expanding the company’s automotive compute portfolio and global footprint across global automakers and Tier 1 suppliers. He originally joined Qualcomm as a product manager, with a focus on growing the nascent Infotainment cockpit portfolio at Qualcomm. Prior to joining Qualcomm, he held various engineering roles with increasing responsibility, ranging from design engineering to platform applications engineering. He was also part of the Automotive Solutions team at Intel prior to his Qualcomm career.    Vasanth holds a M.S. (EE) degree from the University of Texas, Arlington, and a B.S. (EE) from the University of Madras in India.
+      image: /assets/images/speakers/lvc21f/vasanth-waran.png
+  - title: "LVC21F-100K2 Keynote: The CodeLinaro Story"
+    abstract: |
+      Level: Introductory and overview 
+
+      How do you track, ensure compliance and make highly-available all the key elements needed when collaborating on open source software with many different global partners on multiple pre-commercial, differentiated products? How Qualcomm Technologies and Linaro collaborated on a vision that became CodeLinaro, a unique and complete unified cloud-hosted solution that can be automated and customized via secure APIs with a business’s existing mechanisms/systems/processes.
+    datetime: 2021-09-08 16:30:00
+    speaker:
+      name: Lisa Lammens
+      jobTitle: Director, Program Management, Open Source Group at Qualcomm Technologies, Inc.Qualcomm Technologies, Inc.
+      bio: |
+        Lisa Lammens is Director, Program Management in the Open Source Group at Qualcomm Technologies, Inc. (QTI) working as the liaison with the open source community and QTI’s involvement in the open source ecosystem. As the open source liaison lead across all Qualcomm divisions, she works with engineering developers and legal to evangelize and enable Business Units to effectively utilize open source software while also maintaining license compliance and mitigating risks. Lisa is the QuIC, Inc. business lead for CodeLinaro Steering Group, Code Aurora Forum and the designated QC alternate for Linux Foundation Board of Directors. She has served on the Executive Board for Code Aurora Forum, sat on the LFNetworking Board, the LFEdge Board and the LFEdge Marketing Outreach Committee Board. She is involved in several other open source projects including Akraino Edge Stack, OpenChain, SPDX and previously helped establish the structure, governance, policies & ecosystem for AllSeen Alliance, which drove availability of the first broadly adopted open source IoT platform. Joining Qualcomm more than 20 years ago, Lisa has worked in multiple Qualcomm divisions and has been in the telecommunications industry for most of her career. Prior to Qualcomm, Lisa worked at Kyocera Wireless and Verizon Wireless in sales, network deployment and business strategy functions. Lisa resides in San Diego, California and has 2 boys. She is a passionate advocate for autism and special needs inclusion. She has her BA in Business Economics from the University of San Diego.
+      image: /assets/images/speakers/lvc21f/lisa-lammens.png
+  - title: "LVC21F-200K1 Keynote: Tuxsuite"
+    abstract: |
+      Level: Introductory and overview 
+
+      Abstract pending
+    datetime: 2021-09-09 08:00:00
+    speaker:
+      name: Ryan Arnold
+      jobTitle: Linaro
+      image: /assets/images/speakers/lvc21f/ryan_arnold.png
+  - title: "LVC21F-200K2 Keynote: Linaro's Next Decade: Scaling the ARM Ecosystem for 20x Growth"
+    abstract: |
+      Level: Introductory and overview ARM and Linaro have, no doubt, experienced spectacular success over the past decade while powering the majority of mobile devices. The next decade, though, presents an even more massive opportunity to power pervasive, intelligent computing. Some analysts are expecting 20x growth of ARM adoption over the next decade in critical areas such as cloud computing. If we are to see this kind of growth and adoption of ARM, though, Linaro and the broader open source community will need to evolve to meet the needs of developers for these kinds of computing environments. And, we will need to foster new kinds of ecosystems surrounding ARM-powered pervasive, intelligent computing. Meeting these challenges won’t be easy, but they will be defining for the next 10 years of Linaro’s, ARM’s, and computing’s future.
+    datetime: 2021-09-09 08:30:00
+    speaker:
+      name: Bryan Che
+      jobTitle: Chief Strategy Officer - Huawei
+      bio: |
+        Bryan Che is Chief Strategy Officer at Huawei. There, he leads Huawei’s vision and strategy across its overall businesses and portfolio, which spans mobile and consumer electronics, telecommunications, and cloud and AI. Bryan has tremendous experience building new enterprise businesses and open source technologies. Prior to joining Huawei in China, Bryan spent over 15 years at Red Hat in the US, where he was the general manager of their cloud business and also led overall product strategy across the company. As an American expat employed in China who has traveled 3 million miles to over 40 countries, Bryan has worked extensively with many customers and partners around the world. Bryan graduated with his Bachelors and Masters degrees in computer science from MIT.
+      image: /assets/images/speakers/lvc21f/bryan-che.png
+  - title: "LVC21F-100K1 Keynote: Innovation and disruption of software and hardware architecture in automotive"
+    abstract: |
+      Level: Introductory and overview Futureproof and flexible electric and electronic architectures are a top priority for all automotive OEMs. Today vehicles already belong to the broad IoT world but in future, they will need to seamlessly and efficiently interact, and share data, with a much more complex ecosystem, including domains like manufacturers´ back-end, public-cloud, connectivity infrastructure and the “smart world”. Software and Centralized hardware are two essential enablers, opening the mobility ecosystem to new and expanding business opportunities.
+    datetime: 2021-09-10 12:00:00
+    speaker:
+      name: Luca Ambroggi
+      jobTitle: Chief Analyst, Technologies and E/E Architectures
+      bio: |
+        Luca De Ambroggi is a veteran in the electronics and automotive industry with more than two decades of experience in various domains spanning along the entire supply chain. His reporting and analysis focus on Electric and Electronic Architecture, Semiconductor Technology as well as on the impact that an expanded automotive ecosystem will have on future business models and profit pools. For his technical and analytical skills, Luca De Ambroggi is today recognized worldwide as one of the industry’s leading experts in electronics and semiconductors components for the automotive market. Among his tasks, Luca also supports sales as well as strategic business development endeavors within WARDS Automotive. Before joining WARDS, Luca contributed to developing the automotive electronics and semiconductor research at IHS Markit leading the research on advanced Infotainment and ADAS/AV systems. He joined the company with 16 years of semiconductor industry experience, including product and design management and technical marketing. Having served a broad range of functions throughout his tenure, he possesses deep technical comprehension as well as an ability to address strategic market and business scenarios. He began his career as a design engineer with STMicroelectronics and has held various technical and marketing positions within both STMicroelectronics and Infineon. Luca has more than 20 patents issued while working in the semiconductor industry. Luca graduated full marks from the University of Catania in Electro-Technic Engineering. He is fluent in Italian, English, and German. Area of Focus: Technologies and E/E Architectures Including: - In-vehicle E/E architectures - Software Defined Vehicle - Automotive eco-system and adjacent industry domains - Semiconductor components and technologies - Bill of Material and Cost analysis
+      image: /assets/images/speakers/lvc21f/deambroggi.jpg
