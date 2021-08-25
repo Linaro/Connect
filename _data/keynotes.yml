@@ -41,6 +41,7 @@ items:
     speaker:
       name: Ryan Arnold
       jobTitle: Linaro
+      image: /assets/images/speakers/lvc21f/ryan_arnold.png
   - title: "LVC21F-200K2 Keynote: Linaro's Next Decade: Scaling the ARM Ecosystem for 20x Growth"
     abstract: |
       Level: Introductory and overview ARM and Linaro have, no doubt, experienced spectacular success over the past decade while powering the majority of mobile devices. The next decade, though, presents an even more massive opportunity to power pervasive, intelligent computing. Some analysts are expecting 20x growth of ARM adoption over the next decade in critical areas such as cloud computing. If we are to see this kind of growth and adoption of ARM, though, Linaro and the broader open source community will need to evolve to meet the needs of developers for these kinds of computing environments. And, we will need to foster new kinds of ecosystems surrounding ARM-powered pervasive, intelligent computing. Meeting these challenges won’t be easy, but they will be defining for the next 10 years of Linaro’s, ARM’s, and computing’s future.
