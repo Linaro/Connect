@@ -16,6 +16,8 @@ flow:
 ---
 Linaro Virtual Connect Fall 2021 provides a platform to discuss and learn about the leading software topics, challenges and opportunities in the Arm Ecosystem today. We will have 70+ technical keynotes, sessions and more over three days from September 8-10, 2021. 
 
+In order to login and begin building your agenda, please complete your free [Registration](https://connect.linaro.org/register/) and you will be invited to login to the [Event Platform](https://app.pine.events/attendee/events/2231/overview). 
+
 **View the full schedule below:** 
 
 \*Please note: the schedule below should show in your local timezone. 
@@ -47,8 +49,6 @@ Linaro Virtual Connect Fall 2021 provides a platform to discuss and learn about 
 **How do I join the event?**
 
 All [registered](https://connect.linaro.org/register) attendees will receive an email invitation one week before Connect inviting you to login to the event platform PINE.ai. You will be able to bookmark sessions, view all live sessions during the event, network with other attendees and more.
-
-
 
 <style>
 	#pine-speakers {
