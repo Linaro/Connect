@@ -54,14 +54,16 @@ flow:
 
 
                 **[View the Full Schedule](https://connect.linaro.org/schedule)**
+
+
+                [Subscribe here](http://eepurl.com/hoUvrf) to receive Linaro Connect email updates.
             - style: text-dark
               description: >-
                 Registration for LVC21 is now open. Complete your free
                 [registration](https://connect.linaro.org/register) today. 
 
 
-                [Subscribe here](http://eepurl.com/hoUvrf) to receive Linaro Connect email updates.
-
+                Once you've completed your registration log in to the [Event Platform](https://app.pine.events/attendee/events/2231/overview) to begin building your agenda.
   - row: container_row
     style: bg-secondary text-white
     sections:
