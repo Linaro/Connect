@@ -23,7 +23,7 @@ jumbotron:
     Automotive, Windows on Arm, IoT and Embedded, and more.
 
 
-    Complete your free registration below. Once you register, you will receive an email a week before Connect begins inviting you to log in to our event platform (PINE) where you will be able to build your agenda, view livestream links, chat with other attendees, and more. 
+    Complete your free registration below. Once you register, you will receive an email inviting you to log in to our event platform (PINE) where you will be able to build your agenda, view livestream links, chat with other attendees, and more. 
 flow:
   - row: main_content_row
 ---
