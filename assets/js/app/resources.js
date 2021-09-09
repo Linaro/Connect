@@ -193,101 +193,115 @@ function update_select_menus() {
   });
 }
 $(document).ready(function () {
-  // Fetch the local JSON output for all resources
-  $.ajax({
-    url: "/assets/json/resources.json",
-    type: "GET",
-  }).done((data) => {
-    // Store the data received separately to show all again.
-    resources_json = data;
-    if ($("#resourcesSearchAndFilter").data("event") != "all") {
-      resources_json = resources_json.filter((item, index) => {
-        return (
-          item.event_id ==
-          $("#resourcesSearchAndFilter").data("event").toUpperCase()
-        );
-      });
-    }
-    // Ensure results are sorted by date.
-    resources_json.sort(function compare(a, b) {
-      if (a.date_published > b.date_published) {
-        return -1;
-      }
-      if (a.date_published < b.date_published) {
-        return 1;
-      }
-      return 0;
-    });
-    // Set the items_to_display to the initial JSON results.
-    items_to_display = resources_json;
-    // Update the select menus to include the counts
-    update_select_menus();
-    // Set up the Fuse instance
-    const fuse = new Fuse(resources_json, {
-      keys: ["tracks", "event_id", "title", "summary", "speakers.name"],
-      threshold: 0.3,
-      findAllMatches: true,
-    });
-    // Handle load more button click
-    $("#load_more").click(function (e) {
-      e.preventDefault();
-      load_more_items();
-    });
-    // Handle search input keyup
-    $("#searchQuery").keyup(
-      delay(function (e) {
-        if (this.value === "") {
-          resources_json = data;
-          current_search_term = "";
-          update_cols();
-        } else {
-          // Perform the search
-          let fuse_results = fuse.search(this.value);
-          var new_results = fuse_results.map((item) => {
-            return item.item;
+  try {
+    console.log("Starting resources.js...");
+    // Fetch the local JSON output for all resources
+    $.ajax({
+      url: "/assets/json/resources.json",
+      type: "GET",
+    })
+      .done((data) => {
+        console.log("Data received...");
+        // Store the data received separately to show all again.
+        resources_json = data;
+        console.log(resources_json);
+        if ($("#resourcesSearchAndFilter").data("event") != "all") {
+          resources_json = resources_json.filter((item, index) => {
+            return (
+              item.event_id ==
+              $("#resourcesSearchAndFilter").data("event").toUpperCase()
+            );
           });
-          resources_json = new_results;
-          console.log("Search results:", resources_json);
-          // Update the cols based on results
+        }
+        // Ensure results are sorted by date.
+        resources_json.sort(function compare(a, b) {
+          if (a.date_published > b.date_published) {
+            return -1;
+          }
+          if (a.date_published < b.date_published) {
+            return 1;
+          }
+          return 0;
+        });
+        // Set the items_to_display to the initial JSON results.
+        items_to_display = resources_json;
+        // Update the select menus to include the counts
+        update_select_menus();
+        // Set up the Fuse instance
+        const fuse = new Fuse(resources_json, {
+          keys: ["tracks", "event_id", "title", "summary", "speakers.name"],
+          threshold: 0.3,
+          findAllMatches: true,
+        });
+        // Handle load more button click
+        $("#load_more").click(function (e) {
+          e.preventDefault();
+          console.log("Load more button has been clicked...");
+          load_more_items();
+        });
+        // Handle search input keyup
+        $("#searchQuery").keyup(
+          delay(function (e) {
+            if (this.value === "") {
+              resources_json = data;
+              current_search_term = "";
+              update_cols();
+            } else {
+              // Perform the search
+              let fuse_results = fuse.search(this.value);
+              var new_results = fuse_results.map((item) => {
+                return item.item;
+              });
+              resources_json = new_results;
+              console.log("Search results:", resources_json);
+              // Update the cols based on results
+              update_cols();
+            }
+          }, 900)
+        );
+        // Handle type select
+        $("#typeSelect").on("change", function () {
+          current_type = this.value;
+          update_cols();
+        });
+        // Handle theme select
+        $("#themeSelect").on("change", function () {
+          current_theme = this.value;
+          // Update the URL params on change
+          setURLParams({ theme: current_theme });
+          // Update the resource cols
+          update_cols();
+        });
+        // Handle track select
+        $("#trackSelect").on("change", function () {
+          current_track = this.value;
+          update_cols();
+        });
+        // Handle event select
+        $("#eventSelect").on("change", function () {
+          current_event = this.value;
+          update_cols();
+          update_select_menus();
+        });
+        // Check to see if there is a theme param set.
+        // If there is, update the select menu and trigger a cols update
+        let searchParams = new URLSearchParams(window.location.search);
+        let theme_param = searchParams.get("theme");
+        // Check the value is not null
+        if (theme_param !== null) {
+          $("#themeSelect").val(theme_param);
+          // Update the globally scoped current_theme value
+          current_theme = theme_param;
+          // Trigger a cols update
           update_cols();
         }
-      }, 900)
-    );
-    // Handle type select
-    $("#typeSelect").on("change", function () {
-      current_type = this.value;
-      update_cols();
-    });
-    // Handle theme select
-    $("#themeSelect").on("change", function () {
-      current_theme = this.value;
-      // Update the URL params on change
-      setURLParams({ theme: current_theme });
-      // Update the resource cols
-      update_cols();
-    });
-    // Handle track select
-    $("#trackSelect").on("change", function () {
-      current_track = this.value;
-      update_cols();
-    });
-    // Handle event select
-    $("#eventSelect").on("change", function () {
-      current_event = this.value;
-      update_cols();
-      update_select_menus();
-    });
-    // Check to see if there is a theme param set.
-    // If there is, update the select menu and trigger a cols update
-    let searchParams = new URLSearchParams(window.location.search);
-    let theme_param = searchParams.get("theme");
-    // Check the value is not null
-    if (theme_param !== null) {
-      $("#themeSelect").val(theme_param);
-      // Update the globally scoped current_theme value
-      current_theme = theme_param;
-      // Trigger a cols update
-      update_cols();
-    }
-  });
+      })
+      .catch((error) => {
+        console.log("Error...");
+        console.log(error);
+      });
+  } catch (err) {
+    console.log("Outer error...");
+    console.log(err);
+  }
 });
