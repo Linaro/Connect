@@ -44,7 +44,7 @@
         </div>
     {% endif %}
 
-    {% if page.amazon_s3_video_url and page.amazon_s3_video_url != "None" or page.youtube_video_url != "None" and page.youtube_video_url %}
+    {% if page.amazon_s3_video_url and page.amazon_s3_video_url != "None" and page.amazon_s3_video_url != "" or page.youtube_video_url != "None" and page.youtube_video_url %}
     <div class="col col-12 {% if page.amazon_s3_presentation_url and page.amazon_s3_presentation_url != "None" or page.slideshare_embed_url and page.slideshare_embed_url != "None" %}col-sm-6{% endif %} no-padding mb-4">
         <div class="video">
             {% if using_json == "True" %}
@@ -86,7 +86,7 @@
         {% endif %}
     </div>
     {% endif %}
-    {% if page.amazon_s3_presentation_url and page.amazon_s3_presentation_url != "None" or page.slideshare_embed_url != "None" and page.slideshare_embed_url  %}
+    {% if page.amazon_s3_presentation_url and page.amazon_s3_presentation_url != "None" and page.amazon_s3_presentation_url != "" or page.slideshare_embed_url != "None" and page.slideshare_embed_url  %}
         <div class="col col-12 {% if  page.amazon_s3_video_url != "None" or page.youtube_video_url != "None" %}col-sm-6{% endif %} no-padding mb-4">
             <div class="presentation">
                 {% if using_json == "True" %}
