@@ -46,34 +46,39 @@ function delay(callback, ms) {
 }
 // Load more items when the load_more button is clicked.
 function load_more_items() {
-  // Get items step
-  if (items_to_display.length > current_number_of_items + items_step) {
-    var last_item_index = current_number_of_items + items_step;
-  } else {
-    var last_item_index = items_to_display.length;
-    $("#load_more").show();
-  }
-  // console.log("last item index: ", last_item_index);
-  // console.log("current number of items: ", current_number_of_items);
-  // console.log("items_to_display: ", items_to_display);
-  // console.log("items_to_display length: ", items_to_display.length);
-  var items_to_show = items_to_display.slice(
-    current_number_of_items,
-    last_item_index
-  );
-  // console.log("items_to_show: ", items_to_show);
-  // console.log("items_to_show: ", items_to_show.length);
-  if (items_to_show.length < items_step) {
-    $("#load_more").hide();
-  }
-  // Update the current number of items displayed.
-  current_number_of_items = last_item_index;
-  // Loop over results items_to_show display
-  console.log(items_to_show);
-  for (var i = 0; i <= items_to_show.length; i++) {
-    var identifier = items_to_show[i]["identifier"];
-    // Set display:block style for all results
-    $('*[data-identifier="' + identifier + '"]').css("display", "block");
+  try {
+    // Get items step
+    if (items_to_display.length > current_number_of_items + items_step) {
+      var last_item_index = current_number_of_items + items_step;
+    } else {
+      var last_item_index = items_to_display.length;
+      $("#load_more").show();
+    }
+    // console.log("last item index: ", last_item_index);
+    // console.log("current number of items: ", current_number_of_items);
+    // console.log("items_to_display: ", items_to_display);
+    // console.log("items_to_display length: ", items_to_display.length);
+    var items_to_show = items_to_display.slice(
+      current_number_of_items,
+      last_item_index
+    );
+    // console.log("items_to_show: ", items_to_show);
+    // console.log("items_to_show: ", items_to_show.length);
+    if (items_to_show.length < items_step) {
+      $("#load_more").hide();
+    }
+    // Update the current number of items displayed.
+    current_number_of_items = last_item_index;
+    // Loop over results items_to_show display
+    console.log(items_to_show);
+    for (var i = 0; i < items_to_show.length; i++) {
+      console.log(items_to_show[i]);
+      var identifier = items_to_show[i]["identifier"];
+      // Set display:block style for all results
+      $('*[data-identifier="' + identifier + '"]').css("display", "block");
+    }
+  } catch (error) {
+    console.log(error);
   }
 }
 
