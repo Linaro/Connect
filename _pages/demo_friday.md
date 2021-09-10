@@ -25,3 +25,6 @@ flow:
     sections: []
   - row: main_content_row
 ---
+Linaro Virtual Connect 2021 Fall has ended.
+
+Details for the next Linaro Connect Spring 2022 will be announced by December 2021.
