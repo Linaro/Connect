@@ -42,16 +42,15 @@ flow:
           blocks:
             - style: text-dark
               description: >-
-                Linaro Virtual Connect Fall 2021 (LVC21F) was held September
-                8-10 online.  
+                The last Linaro Virtual Connect Fall 2021 (LVC21F) was held
+                September 8-10 online.  
 
 
-                **[View the Resources from LVC21F ](https://connect.linaro.org/resources/lvc21f/)**
+                All videos and slides from LVC21F are available on our [Resource Page](https://connect.linaro.org/resources/lvc21f/).
             - style: text-dark
               description: >-
-                \
-
-                Details for the next Linaro Connect Spring 2022 will be announced by December 2021.
+                Details for the next Linaro Connect Spring 2022 will be
+                announced by December 2021.
 
 
                 [Subscribe here](http://eepurl.com/hoUvrf) to receive Linaro Connect email updates.
