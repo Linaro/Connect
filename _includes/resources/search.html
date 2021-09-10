@@ -1,7 +1,7 @@
 {% if include.object.category %}
-    {% assign posts = site.categories[include.object.category] %}
+    {% assign posts = site.categories[include.object.category] | sort: 'title' | reverse %}
 {% else %}
-    {% assign posts = site.posts %}
+    {% assign posts = site.posts | sort: 'date' | reverse %}
 {% endif %}
 <div class="row" id="resourcesSearchAndFilter" data-event="{% if include.object.category %}{{include.object.category}}{% else %}all{% endif%}">
     <div class="container">
@@ -64,7 +64,7 @@
     </div>
 </div>
 <div class="row" id="resources">
-    {% assign resource_posts = posts | sort: 'date' | reverse  %}
+    {% assign resource_posts = posts  %}
     {% for post in resource_posts %}
         {% assign post_theme = "" %}
         {% if post.session_track %}
