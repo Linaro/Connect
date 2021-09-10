@@ -11,15 +11,7 @@ brand:
 pages:
   - title: About
     url: /about/
-    options:
-      - text: "Sponsor "
-        url: /sponsors/
-      - text: Demo Showcase
-        url: /demo-showcase/
-      - text: Schedule
-        url: /schedule/
-      - text: Register
-        url: /register/
+    options: []
   - active_paths:
       - /resources/
     options:
