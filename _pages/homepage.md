@@ -49,7 +49,7 @@ flow:
                 All videos and slides from LVC21F are available on our [Resource Page](https://connect.linaro.org/resources/lvc21f/).
             - style: text-dark
               description: >-
-                Details for the next Linaro Connect Spring 2022 will be
+                Details for the next Linaro Connect in Spring 2022 will be
                 announced by December 2021.
 
 
