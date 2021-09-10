@@ -32,14 +32,7 @@ flow:
             hardware and software can collaborate and discuss common problems.
   - row: container_row
     style: bg-secondary text-white
-    sections:
-      - format: title
-        style: text-center text-white
-        title_content:
-          size: h2
-          text: LVC21F Keynotes
-      - format: custom_include
-        source: keynote_slider.html
+    sections: []
   - row: container_row
     sections:
       - format: block
@@ -49,21 +42,18 @@ flow:
           blocks:
             - style: text-dark
               description: >-
-                The upcoming Linaro Virtual Connect will be held September 8-10
-                online.  
+                The last Linaro Virtual Connect Fall 2021 (LVC21F) was held
+                September 8-10 online.  
 
 
-                **[View the Full Schedule](https://connect.linaro.org/schedule)**
+                All videos and slides from LVC21F are available on our [Resource Page](https://connect.linaro.org/resources/lvc21f/).
+            - style: text-dark
+              description: >-
+                Details for the next Linaro Connect in Spring 2022 will be
+                announced by December 2021.
 
 
                 [Subscribe here](http://eepurl.com/hoUvrf) to receive Linaro Connect email updates.
-            - style: text-dark
-              description: >-
-                Registration for LVC21 is now open. Complete your free
-                [registration](https://connect.linaro.org/register) today. 
-
-
-                Once you've completed your registration log in to the [Event Platform](https://app.pine.events/attendee/events/2231/overview) to begin building your agenda.
   - row: container_row
     style: bg-secondary text-white
     sections:
