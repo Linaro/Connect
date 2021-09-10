@@ -1,7 +1,8 @@
 ---
 title: Call for Proposals
 description: >
-  Call for Proposals for Linaro Virtual Connect 2021 Fall has closed.
+  Call for Proposals for Linaro Virtual Connect 2021 Fall has closed. The event
+  took place September 8-10, 2021.
 
 
   Details for the next Linaro Connect Spring 2022 will be announced by December 2021.
