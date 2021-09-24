@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-400%20-%20Secure%20Data%20Path%20with%20OPTEE.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:47
-excerpt: LHG is using the ION-based secure memory allocator integrated with OPTEE
+excerpt:
+  LHG is using the ION-based secure memory allocator integrated with OPTEE
   as the basis for secure data path processing pipeline. LHG is following the W3C
   EME protocol and supporting Content Decryption Modules (CDMs) from Widevine and
   PlayReady.
@@ -16,7 +17,7 @@ image: /assets/images/featured-images/BUD17-400.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-400/
 post_format:
-- Video
+  - Video
 session_id: BUD17-400
 session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786815
@@ -24,9 +25,9 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17400-secur
 slug: bud17-400
 speakers: Mark Gregotski
 tags:
-- LHG
-- OPTEE
-- secure-data
+  - LHG
+  - OPTEE
+  - secure-data
 title: Secure Data Path with OPTEE - BUD17-400
 video_length: 00:00
 video_thumbnail: None
@@ -39,15 +40,17 @@ Session Name: Secure Data Path with OPTEE - BUD17-400
 Speaker: Mark Gregotski
 Track: LHG
 
-
 ★ Session Summary ★
 LHG is using the ION-based secure memory allocator integrated with OPTEE as the basis for secure data path processing pipeline. LHG is following the W3C EME protocol and supporting Content Decryption Modules (CDMs) from Widevine and PlayReady.
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-400/
 Presentation: https://www.slideshare.net/linaroorg/bud17400-secure-data-path-with-optee
 Video: https://youtu.be/6JdzsWZq4Ls
- ---------------------------------------------------
+
+---
 
 ★ Event Details ★
 bud17
@@ -56,11 +59,14 @@ Corinthia Hotel, Budapest,
 Erzsébet krt. 43-49,
 1073 Hungary
 
----------------------------------------------------
+---
+
 Keyword: LHG, secure-data, OPTEE
 http://www.linaro.org
 http://connect.linaro.org
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

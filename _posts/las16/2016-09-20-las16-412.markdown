@@ -1,9 +1,9 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- las16
+  - las16
 comments: false
 date: 2016-09-20 17:10:59
 featured_image_name: LAS16-412.png
@@ -12,14 +12,14 @@ image: /assets/images/featured-images/LAS16-412.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-412/
 post_format:
-- Video
+  - Video
 session_id: LAS16-412
 session_track: 96Boards
 slideshare_presentation_url: None
 slug: las16-412
 speakers: Robert Wolff
-title: 'LAS16-412: OpenHours'
-video_length: '50:20'
+title: "LAS16-412: OpenHours"
+video_length: "50:20"
 video_thumbnail: None
 wordpress_id: 4026
 youtube_video_url: https://www.youtube.com/watch?v=29yWWbXa8p8

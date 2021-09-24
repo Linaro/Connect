@@ -3,20 +3,21 @@ amazon_s3_presentation_url: None
 amazon_s3_video_url: https://static.linaro.org/connect/sfo17/Presentations/SFO17-TR04-Arrow_96Boards_Ecosystem.pdf
 author: connect
 categories:
-- sfo17
+  - sfo17
 comments: false
 date: 2017-10-06 16:55:34
-excerpt: 'Arrow Electronics, now a member of the 96Boards steering committee, is bringing
+excerpt:
+  "Arrow Electronics, now a member of the 96Boards steering committee, is bringing
   to market a wide range of solutions based on the 96Boards specification. Arrow is
   the only organization that has platforms designed to Community, Community Extended,
   Enterprise, and IoT specifications. Arrow is also expanding the types of mezzanine
   boards available including solutions for camera, cellular, LoRa, PoE, and security
   requirements. Come learn about a wide range of products from Arrow and the partners
-  including: Qualcomm, NXP, Cypress, Altera, Renesas, Bosch, Infineon, and MicroChip.'
+  including: Qualcomm, NXP, Cypress, Altera, Renesas, Bosch, Infineon, and MicroChip."
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-tr04/
 post_format:
-- Video
+  - Video
 session_id: SFO17-TR04
 session_track: 96Boards
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80701288
@@ -27,7 +28,7 @@ title: Expanding the 96Boards Ecosystem - SFO17-TR04
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 6039
-youtube_video_url: None
+youtube_video_url: ""
 ---
 
 Session ID: SFO17-TR04
@@ -37,23 +38,29 @@ Track: 96Boards
 
 ★ Session Summary ★
 Arrow Electronics, now a member of the 96Boards steering committee, is bringing to market a wide range of solutions based on the 96Boards specification. Arrow is the only organization that has platforms designed to Community, Community Extended, Enterprise, and IoT specifications. Arrow is also expanding the types of mezzanine boards available including solutions for camera, cellular, LoRa, PoE, and security requirements. Come learn about a wide range of products from Arrow and the partners including: Qualcomm, NXP, Cypress, Altera, Renesas, Bosch, Infineon, and MicroChip.
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-tr04/
 Presentation:
 Video:
----------------------------------------------------
+
+---
 
 ★ Event Details ★
 Linaro Connect San Francisco 2017 (SFO17)
 25-29 September 2017
 Hyatt Regency San Francisco Airport
 
----------------------------------------------------
+---
+
 Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

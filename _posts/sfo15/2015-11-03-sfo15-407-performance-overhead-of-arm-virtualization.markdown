@@ -1,9 +1,9 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-24-Thursday/SFO15-407-%20Performance%20Overhead%20of%20ARM%20Virtualization.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- sfo15
+  - sfo15
 comments: false
 date: 2015-11-03 13:41:51
 featured_image_name: SFO15-407.jpg
@@ -12,18 +12,18 @@ image: /assets/images/featured-images/SFO15-407.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-407-performance-overhead-of-arm-virtualization/
 post_format:
-- Video
+  - Video
 session_id: SFO15-407
 session_track: Virtualization
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53570285
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15407-performance-overhead-of-arm-virtualization
 slug: sfo15-407-performance-overhead-of-arm-virtualization
 speakers: Christoffer Dall
-title: 'SFO15-407: Performance Overhead of Arm Virtualization'
+title: "SFO15-407: Performance Overhead of Arm Virtualization"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3029
-youtube_video_url: None
+youtube_video_url: ""
 ---
 
 SFO15-407: Performance Overhead of Arm Virtualization

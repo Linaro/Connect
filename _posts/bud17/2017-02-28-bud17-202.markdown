@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-202%20-%20AOSP%20Toolchains.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:32
-excerpt: "LMG team, in collaboration with Toolchains team, has worked on multiple
+excerpt:
+  "LMG team, in collaboration with Toolchains team, has worked on multiple
   areas related to clang, gcc and native AOSP builds. Bero and Renato will take us
   through what has been done, and what we need to continue to do. This presentation
   will focus on LMG efforts around the following:\n \n - Clang CI efforts\n  \n -
@@ -18,7 +19,7 @@ image: /assets/images/featured-images/BUD17-202.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-202/
 post_format:
-- Video
+  - Video
 session_id: BUD17-202
 session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72946733
@@ -26,9 +27,9 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17202-aosp-
 slug: bud17-202
 speakers: Bero Rsenkränzer, Renato Golin
 tags:
-- AOSP
-- LMG
-- toolchains
+  - AOSP
+  - LMG
+  - toolchains
 title: AOSP Toolchains - BUD17-202
 video_length: 00:00
 video_thumbnail: None
@@ -41,7 +42,6 @@ Session Name: AOSP Toolchains - BUD17-202
 Speaker: Bero Rsenkränzer, Renato Golin
 Track: LMG
 
-
 ★ Session Summary ★
 LMG team, in collaboration with Toolchains team, has worked on multiple areas related to clang, gcc and native AOSP builds. Bero and Renato will take us through what has been done, and what we need to continue to do. This presentation will focus on LMG efforts around the following:
 
@@ -52,12 +52,15 @@ LMG team, in collaboration with Toolchains team, has worked on multiple areas re
 - Building kernels with clang
 
 - Native AOSP builds and development
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-202/
 Presentation: https://www.slideshare.net/linaroorg/bud17202-aosp-toolchains
 Video: https://youtu.be/V-Ax66m0fsA
----------------------------------------------------
+
+---
 
 ★ Event Details ★
 bud17
@@ -66,11 +69,14 @@ Corinthia Hotel, Budapest,
 Erzsébet krt. 43-49,
 1073 Hungary
 
----------------------------------------------------
+---
+
 Keyword: AOSP, toolchains, LMG
 http://www.linaro.org
 http://connect.linaro.org
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

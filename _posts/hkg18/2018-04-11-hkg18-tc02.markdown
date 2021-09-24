@@ -1,6 +1,6 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 comments: false
 date: 2018-04-11 14:16:13+00:00
@@ -10,14 +10,14 @@ session_id: HKG18-TC02
 session_track: Tools
 slug: hkg18-tc02
 speakers: Prathamesh Kulkarni
-title: 'HKG18-TC02 - TCWG Hacking Topics: CSE theory and practice'
+title: "HKG18-TC02 - TCWG Hacking Topics: CSE theory and practice"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 9287
 categories:
-- hkg18
+  - hkg18
 post_format:
-- Video
+  - Video
 ---
 
 Session ID: HKG18-TC02

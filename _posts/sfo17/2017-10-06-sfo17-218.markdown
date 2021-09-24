@@ -1,12 +1,12 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Presentations/SFO17-218-Auto-BoF.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- sfo17
+  - sfo17
 comments: false
 date: 2017-10-06 16:54:45
-excerpt: 'All are welcome!
+excerpt: "All are welcome!
 
 
   At the first edition of the Automotive BoF held at Budapest David Rusling and
@@ -23,17 +23,18 @@ excerpt: 'All are welcome!
 
   trending towards some concrete proposals for the role of Linaro in this space.
 
-  Join us at the BoF to learn more.'
+  Join us at the BoF to learn more."
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-218/
 post_format:
-- Video
+  - Video
 session_id: SFO17-218
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80298583
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/tsc-sponsored-bof-can-linux-and-automotive-functional-safety-mix-take-2-towards-an-open-source-industry-acceptable-high-assurance-os-sfo17218
 slug: sfo17-218
-title: 'TSC Sponsored BoF: Can Linux and Automotive Functional Safety Mix ? Take 2:
-  Towards an open source, industry acceptable high assurance OS - SFO17-218'
+title:
+  "TSC Sponsored BoF: Can Linux and Automotive Functional Safety Mix ? Take 2:
+  Towards an open source, industry acceptable high assurance OS - SFO17-218"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5990
@@ -41,9 +42,8 @@ wordpress_id: 5990
 
 Session ID: SFO17-218
 Session Name: TSC Sponsored BoF: Can Linux and Automotive Functional Safety Mix ? Take 2: Towards an open source, industry acceptable high assurance OS - SFO17-218
-Speaker: 
-Track: 
-
+Speaker:
+Track:
 
 ★ Session Summary ★
 All are welcome!
@@ -56,23 +56,29 @@ of the Automotive Bof David and Robin provide further interesting insights
 from discussions with major Tier 1 Automotive OEMs. Overall, things seem to be
 trending towards some concrete proposals for the role of Linaro in this space.
 Join us at the BoF to learn more.
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-218/
 Presentation: https://www.slideshare.net/linaroorg/tsc-sponsored-bof-can-linux-and-automotive-functional-safety-mix-take-2-towards-an-open-source-industry-acceptable-high-assurance-os-sfo17218
-Video: 
- ---------------------------------------------------
+Video:
+
+---
 
 ★ Event Details ★
 Linaro Connect San Francisco 2017 (SFO17)
 25-29 September 2017
 Hyatt Regency San Francisco Airport
 
----------------------------------------------------
-Keyword: 
+---
+
+Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg
@@ -81,6 +87,6 @@ https://www.linkedin.com/company/1026961
 
 Event Date: 27 Sept 2017
 
-Speakers: 
+Speakers:
 
 Position:

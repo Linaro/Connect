@@ -1,15 +1,16 @@
 ---
 author: connect
 amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-113%3A%20Distribution%20CI%20using%20QEMU%20and%20OpenQA.pdf
-amazon_s3_video_url: None
-youtube_video_url: None
+amazon_s3_video_url: ""
+youtube_video_url: ""
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/key/z6UyxwImy0wWog
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17-113-distribution-ci-using-qemu-and-open-qa
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:27
-excerpt: "\"Delivering a well working distribution is hard. There are a lot of different
+excerpt:
+  "\"Delivering a well working distribution is hard. There are a lot of different
   hardware platforms that need to be verified and the software stack is in a big flux
   during development phases. In rolling releases, this gets even worse, as nothing
   ever stands still.\n \n The only sane answer to that problem are working Continuous
@@ -24,7 +25,7 @@ image: /assets/images/featured-images/BUD17-113.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-113/
 post_format:
-- Video
+  - Video
 session_id: BUD17-113
 session_track: Enterprise
 slug: bud17-113

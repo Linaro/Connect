@@ -1,15 +1,15 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- hkg15
+  - hkg15
 comments: true
 date: 2015-04-23 15:38:25
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg15/hkg15-100-core/
 post_format:
-- Video
+  - Video
 session_id: HKG15-100
 session_track: Linux Kernel
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/44402760
@@ -17,18 +17,19 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/hkg15-100-what-
 slug: hkg15-100-core
 speakers: Agust
 tags:
-- hkg15
-- HKG15-100
-- Kernel
-- Power Management
-- Security
-- Virtualization
-title: 'HKG15-100 : Core Development Lightning Talks - Kernel, Power Management, Security
-  and Virtualization'
+  - hkg15
+  - HKG15-100
+  - Kernel
+  - Power Management
+  - Security
+  - Virtualization
+title:
+  "HKG15-100 : Core Development Lightning Talks - Kernel, Power Management, Security
+  and Virtualization"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 701
-youtube_video_url: None
+youtube_video_url: ""
 ---
 
 No Content Found

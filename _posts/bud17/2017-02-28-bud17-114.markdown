@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-114%20-%20Making%20ARM%20the%20Best%20Platform%20for%20Android.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:27
-excerpt: LHG has recently launched an AOSP TV lead project which is focused on specific
+excerpt:
+  LHG has recently launched an AOSP TV lead project which is focused on specific
   TV use cases using Android from AOSP for TV form factor. This presentation will
   describe the current AOSP TV builds on 96Boards and the strategy for Android TV
   for members and the community.
@@ -15,7 +16,7 @@ image: /assets/images/featured-images/BUD17-114.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-114/
 post_format:
-- Video
+  - Video
 session_id: BUD17-114
 session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72785845
@@ -26,7 +27,7 @@ title: Making Arm the best platform for Android - BUD17-114
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4627
-youtube_video_url: None
+youtube_video_url: ""
 ---
 
 "An update on the ART team's efforts in making Arm the best platform for Android.

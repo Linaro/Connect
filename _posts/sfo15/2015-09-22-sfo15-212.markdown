@@ -1,9 +1,9 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-22-Tuesday/SFO15-212-%20OpenJDK%20on%20ARM%2032bit.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- sfo15
+  - sfo15
 comments: false
 date: 2015-09-22 00:00:00
 featured_image_name: SFO15-TR3.jpg
@@ -12,18 +12,18 @@ image: /assets/images/featured-images/SFO15-TR3.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-212/
 post_format:
-- Video
+  - Video
 session_id: SFO15-TR3
 session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53756415
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15212-porting-openjdk-to-32bit
 slug: sfo15-212
 speakers: Joseph Joyce
-title: 'SFO15-212 : Porting openJDK to 32-bit'
+title: "SFO15-212 : Porting openJDK to 32-bit"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 2832
-youtube_video_url: None
+youtube_video_url: ""
 ---
 
 SFO15-212: Porting openJDK to 32-bit --------------------------------------------------- Speaker: Joseph Joyce Track: Enterprise Server --------------------------------------------------- ★ Session Summary ★ --------------------------------------------------- ★ Resources ★ pathable: Presentation: http://www.slideshare.net/linaroorg/sfo15212-porting-openjdk-to-32bit Video: N Eatherpad: --------------------------------------------------- ★ Event Details ★ Linaro Connect San Francisco 2015 - #SFO15 September 21-25th, 2015 Hyatt Regency San Francisco Airport --------------------------------------------------- > http://www.linaro.org > http://connect.linaro.org

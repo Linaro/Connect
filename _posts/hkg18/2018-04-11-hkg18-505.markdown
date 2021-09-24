@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- hkg18
+  - hkg18
 comments: false
 date: 2018-04-11 14:14:39
-excerpt: 'UEFI is a firmware specification created by Intel with portability in mind.
+excerpt:
+  "UEFI is a firmware specification created by Intel with portability in mind.
   The UEFI way of doing that was to provide special UEFI byte code (EBC). Unfortunately
   nobody really cared so compiler, firmware support and providers of EBC option roms
   ceased and basically every UEFI option rom today contains native x86(_64) machine
@@ -14,26 +15,26 @@ excerpt: 'UEFI is a firmware specification created by Intel with portability in 
 
 
   If you now want to plug a PCIe card into your shiny Arm server, that means even
-  though firmware would be compatible it still can''t execute the option rom. Until
+  though firmware would be compatible it still can't execute the option rom. Until
   you add QEMU to the mix.
 
 
   Join me in exploring the depth of UEFI binary interfaces, marshalling between different
-  architecture''s function call ABIs on the fly and learn how to integrate all of
-  this into a working firmware, running on real hardware, driving a real PCIe adapter.'
+  architecture's function call ABIs on the fly and learn how to integrate all of
+  this into a working firmware, running on real hardware, driving a real PCIe adapter."
 featured_image_name: HKG18-505.png
 image_name: HKG18-505.png
 image: /assets/images/featured-images/HKG18-505.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-505/
 post_format:
-- Video
+  - Video
 session_id: HKG18-505
 session_track: Enterprise
 slug: hkg18-505
 speakers: Alexander Graf
 title: HKG18-505 - QEMU in UEFI
-video_length: '42:21'
+video_length: "42:21"
 video_thumbnail: None
 wordpress_id: 8840
 youtube_video_url: https://www.youtube.com/watch?v=ICP_3_-CYSQ

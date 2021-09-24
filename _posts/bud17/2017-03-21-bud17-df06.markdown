@@ -1,9 +1,9 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-03-21 15:16:42
 excerpt: Apache Ambari and Big data components on AARCH64
@@ -13,7 +13,7 @@ image: /assets/images/featured-images/BUD17-DF06.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df06/
 post_format:
-- Video
+  - Video
 session_id: BUD17-DF06
 session_track: Big Data
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73368246

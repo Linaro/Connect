@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-211%20-%20No%20more%20latencies%21.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:34
-excerpt: This session will detail and respond to questions regarding the latest developments
+excerpt:
+  This session will detail and respond to questions regarding the latest developments
   in the MMC/SD stack and how we are moving forward with block multiqueueing (blk-mq)
   and the Budget Fair Queueing (BFQ) patch set
 featured_image_file_name: BUD17-211.jpg
@@ -15,18 +16,18 @@ image: /assets/images/featured-images/BUD17-211.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-211/
 post_format:
-- Video
+  - Video
 session_id: BUD17-211
 session_track: Linux Kernel
 slideshare_presentation_url: None
 slug: bud17-211
 speakers: Ulf Hansson, Linus Walleij
 tags:
-- Kernel
-- MMC
-- MQ
+  - Kernel
+  - MMC
+  - MQ
 title: No more latencies! - BUD17-211
-video_length: '28:05'
+video_length: "28:05"
 video_thumbnail: None
 wordpress_id: 4649
 youtube_video_url: https://youtu.be/h02nYGXq3eM
@@ -37,7 +38,6 @@ Session Name: No more latencies! - BUD17-211
 Speaker: Ulf Hansson, Linus Walleij, Paolo Valente
 Track: Kernel
 
-
 ★ Session Summary ★
 This session will detail and respond to questions, regarding the
 storage I/O scheduling project hosted by Linaro. The goal of this
@@ -47,12 +47,15 @@ high throughput for storage devices in Linux. In this context, Linaro
 is moving forward with the block multi-queueing (blk-mq) support for
 MMC, the command queuing (CMDQ) support for eMMC and with the Budget
 Fair Queueing (BFQ) I/O scheduler patch set.
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-211/
 Presentation:
 Video: https://youtu.be/h02nYGXq3eM
----------------------------------------------------
+
+---
 
 ★ Event Details ★
 bud17
@@ -61,11 +64,14 @@ Corinthia Hotel, Budapest,
 Erzsébet krt. 43-49,
 1073 Hungary
 
----------------------------------------------------
+---
+
 Keyword: MMC, MQ, Kernel
 http://www.linaro.org
 http://connect.linaro.org
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

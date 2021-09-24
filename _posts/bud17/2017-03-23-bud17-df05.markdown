@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-03-23 16:46:53
-excerpt: "\"The demo is one of the cases to use DPDK as network accelerator.\nNginx
+excerpt:
+  "\"The demo is one of the cases to use DPDK as network accelerator.\nNginx
   http server is ported to run on top of a high-performance mTCP stack. \nThe whole
   system can be run in physical machine or VM as VNF with virtual switch interconnected.
   \""
@@ -16,7 +17,7 @@ image: /assets/images/featured-images/BUD17-DF05.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df05/
 post_format:
-- Video
+  - Video
 session_id: BUD17-DF05
 session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73367729
@@ -27,7 +28,7 @@ title: http server on user-level mTCP stack accelerated by DPDK - BUD17-DF05
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5708
-youtube_video_url: None
+youtube_video_url: ""
 ---
 
 "The demo is one of the cases to use DPDK as network accelerator.

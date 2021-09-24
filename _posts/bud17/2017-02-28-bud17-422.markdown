@@ -1,9 +1,9 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:51
 featured_image_file_name: BUD17-422.jpg
@@ -12,15 +12,16 @@ image: /assets/images/featured-images/BUD17-422.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-422/
 post_format:
-- Video
+  - Video
 session_id: BUD17-422
 session_track: None/Other
 slideshare_presentation_url: None
 slug: bud17-422
 speakers: None
-title: 'Partnership in Open Design and Manufacturing: How Universities can Contribute
-  with Developers Communities - BUD17-422'
-video_length: '34:32'
+title:
+  "Partnership in Open Design and Manufacturing: How Universities can Contribute
+  with Developers Communities - BUD17-422"
+video_length: "34:32"
 video_thumbnail: None
 wordpress_id: 4710
 youtube_video_url: https://youtu.be/mWpwAfpEY2o
@@ -31,15 +32,16 @@ Session Name: BUD17-422 - TBC - BUD17-422
 Speaker:
 Track:
 
-
 ★ Session Summary ★
 
----------------------------------------------------
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-422/
 Presentation:
 Video: https://youtu.be/mWpwAfpEY2o
- ---------------------------------------------------
+
+---
 
 ★ Event Details ★
 bud17
@@ -48,11 +50,14 @@ Corinthia Hotel, Budapest,
 Erzsébet krt. 43-49,
 1073 Hungary
 
----------------------------------------------------
+---
+
 Keyword:
 http://www.linaro.org
 http://connect.linaro.org
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

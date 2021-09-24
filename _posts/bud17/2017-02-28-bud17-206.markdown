@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-206%20-%20Future%20of%20Android%20Testing%20Automation.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:32
-excerpt: "This session will talk about efforts around increasing Android testing -
+excerpt:
+  "This session will talk about efforts around increasing Android testing -
   frequency, automation and coverage. The discussion will include details about:\n
   - Current testing Linaro does\n \n - Changes we’re working on for testing AOSP/master\n
   \n - More kernel focused testing & integrating community tests into android\n \n
@@ -17,7 +18,7 @@ image: /assets/images/featured-images/BUD17-206.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-206/
 post_format:
-- Video
+  - Video
 session_id: BUD17-206
 session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786001
@@ -25,9 +26,9 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17206-futur
 slug: bud17-206
 speakers: None
 tags:
-- Android
-- Automated-testing
-- LMG
+  - Android
+  - Automated-testing
+  - LMG
 title: Future of Android Automated Testing - BUD17-206
 video_length: 00:00
 video_thumbnail: None
@@ -40,9 +41,9 @@ Session Name: Future of Android Automated Testing - BUD17-206
 Speaker:
 Track: LMG
 
-
 ★ Session Summary ★
 This session will talk about efforts around increasing Android testing - frequency, automation and coverage. The discussion will include details about:
+
 - Current testing Linaro does
 
 - Changes we’re working on for testing AOSP/master
@@ -50,12 +51,15 @@ This session will talk about efforts around increasing Android testing - frequen
 - More kernel focused testing & integrating community tests into android
 
 - “Sharding” CTS test runs in the cloud for faster results
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-206/
 Presentation: https://www.slideshare.net/linaroorg/bud17206-future-of-android-automated-testing
 Video: https://youtu.be/kNidHqeKGiM
----------------------------------------------------
+
+---
 
 ★ Event Details ★
 bud17
@@ -64,11 +68,14 @@ Corinthia Hotel, Budapest,
 Erzsébet krt. 43-49,
 1073 Hungary
 
----------------------------------------------------
+---
+
 Keyword: Android, LMG, Automated-testing
 http://www.linaro.org
 http://connect.linaro.org
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

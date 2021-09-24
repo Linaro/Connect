@@ -1,9 +1,9 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-04-19 13:09:53
 featured_image_file_name: BUD17DFSocionextSC2A11ARMServerSoC.jpg
@@ -17,7 +17,7 @@ slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/75179474
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17-socionext-sc2a11-arm-server-soc
 slug: bud17-df-socionext-sc2a11-arm-server-soc
 speakers: None
-title: 'BUD17-DF: Socionext SC2A11 Arm Server SoC'
+title: "BUD17-DF: Socionext SC2A11 Arm Server SoC"
 video_length: 04:10
 video_thumbnail: None
 wordpress_id: 5758

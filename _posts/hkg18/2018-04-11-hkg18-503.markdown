@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/hkg18/presentations/hkg18-503.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- hkg18
+  - hkg18
 comments: false
 date: 2018-04-11 14:14:39
-excerpt: We often hear that you should not invent your own crypto. In this talk we
+excerpt:
+  We often hear that you should not invent your own crypto. In this talk we
   are giving an overview of what lies behind that statement by looking at some examples
   well known by people working with software security. In 25 minutes we will give
   a brief introduction to why it is so hard to write software being robust against
@@ -17,7 +18,7 @@ image: /assets/images/featured-images/HKG18-503.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-503/
 post_format:
-- Video
+  - Video
 session_id: HKG18-503
 session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92158662
@@ -25,7 +26,7 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/hkg18503-my-co
 slug: hkg18-503
 speakers: Joakim Bech,Ard Biesheuvel
 title: HKG18-503 - My code is being hacked!
-video_length: '29:44'
+video_length: "29:44"
 video_thumbnail: None
 wordpress_id: 8838
 youtube_video_url: https://www.youtube.com/watch?v=5tkezPdQ1J0

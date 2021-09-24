@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-218%20-%20Scheduler%20Load%20tracking%20update%20and%20improvement.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:36
-excerpt: The Per Entity Load Tracking (PELT) is a key stone in tasks placement of
+excerpt:
+  The Per Entity Load Tracking (PELT) is a key stone in tasks placement of
   the scheduler but suffers of some weakness when it’s not just bugs. During the last
   LPC, it has been decided to fix all pending issues of PELT before starting to consider
   another load tracking mechanism for scheduler and/or EAS. This session will show
@@ -18,7 +19,7 @@ image: /assets/images/featured-images/BUD17-218.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-218/
 post_format:
-- Video
+  - Video
 session_id: BUD17-218
 session_track: Power Management
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786221
@@ -26,9 +27,9 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17218-sched
 slug: bud17-218
 speakers: Vincent Guittot
 tags:
-- PELT
-- Power Management
-- scheduler
+  - PELT
+  - Power Management
+  - scheduler
 title: Scheduler Load tracking update and improvement - BUD17-218
 video_length: 00:00
 video_thumbnail: None
@@ -41,15 +42,17 @@ Session Name: Scheduler Load tracking update and improvement - BUD17-218
 Speaker: Vincent Guittot
 Track: Power Management
 
-
 ★ Session Summary ★
 The Per Entity Load Tracking (PELT) is a key stone in tasks placement of the scheduler but suffers of some weakness when it’s not just bugs. During the last LPC, it has been decided to fix all pending issues of PELT before starting to consider another load tracking mechanism for scheduler and/or EAS. This session will show the improvement reached since the last connect and the LPC as well as the next ones. We will also looks at the RT class which lacks a good load tracking.
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-218/
 Presentation: https://www.slideshare.net/linaroorg/bud17218-scheduler-load-tracking-update-and-improvement
 Video: https://youtu.be/9mY_wZdwmq0
----------------------------------------------------
+
+---
 
 ★ Event Details ★
 bud17
@@ -58,11 +61,14 @@ Corinthia Hotel, Budapest,
 Erzsébet krt. 43-49,
 1073 Hungary
 
----------------------------------------------------
+---
+
 Keyword: Power-management, scheduler, PELT
 http://www.linaro.org
 http://connect.linaro.org
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg
