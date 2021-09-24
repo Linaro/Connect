@@ -43,8 +43,7 @@
             </div>
         </div>
     {% endif %}
-
-    {% if page.amazon_s3_video_url and page.amazon_s3_video_url != "None" and page.amazon_s3_video_url != "" or page.youtube_video_url != "None" and page.youtube_video_url %}
+    {% if page.amazon_s3_video_url != "" or page.youtube_video_url != "" %}
     <div class="col col-12 {% if page.amazon_s3_presentation_url and page.amazon_s3_presentation_url != "None" and page.amazon_s3_presentation_url != "" or page.slideshare_embed_url and page.slideshare_embed_url != "None" %}col-sm-6{% endif %} no-padding mb-4">
         <div class="video">
             {% if using_json == "True" %}
@@ -56,7 +55,7 @@
                             marginheight="5" scrolling="auto" id="youtube-iframe"></iframe>
                     </div>
                 </div>
-            {% elsif page.amazon_s3_video_url and page.amazon_s3_video_url != "None" %}
+            {% elsif page.amazon_s3_video_url and page.amazon_s3_video_url != "" %}
                 <div id="video-holder">
                     <div class="embed-responsive embed-responsive-16by9">
                         <video controls="true" class="embed-responsive-item">
@@ -64,7 +63,7 @@
                         </video>
                     </div>
                 </div>
-            {% elsif page.youtube_video_url and page.youtube_video_url != "None" %}
+            {% elsif page.youtube_video_url and page.youtube_video_url != "" %}
                 <div id="video-holder">
                     <div class="embed-responsive embed-responsive-16by9" id="video-embed">
                             {% if page.youtube_video_url contains "https://youtu.be/" %}
@@ -79,7 +78,7 @@
                 </div>
             {% endif %}
         </div>
-        {% if page.amazon_s3_video_url and page.amazon_s3_video_url != "None" and page.amazon_s3_video_url != "n/a" %}
+        {% if page.amazon_s3_video_url and page.amazon_s3_video_url != "" %}
             <div class="s3-link">
                 <a href="{{page.amazon_s3_video_url}}" class="btn btn-primary mt-2 s3-download">Download Video</a>
             </div>
@@ -87,7 +86,7 @@
     </div>
     {% endif %}
     {% if page.amazon_s3_presentation_url and page.amazon_s3_presentation_url != "None" and page.amazon_s3_presentation_url != "" or page.slideshare_embed_url != "None" and page.slideshare_embed_url  %}
-        <div class="col col-12 {% if  page.amazon_s3_video_url != "None" or page.amazon_s3_video_url != "" or page.youtube_video_url != "None" %}col-sm-6{% endif %} no-padding mb-4">
+        <div class="col col-12 {% if  page.amazon_s3_video_url != "" or page.youtube_video_url != "" %}col-sm-6{% endif %} no-padding mb-4">
             <div class="presentation">
                 {% if using_json == "True" %}
                     <div id="presentation-holder" class="using_json" event-id="{{current_connect}}" session-id="{{page.session_id}}">
