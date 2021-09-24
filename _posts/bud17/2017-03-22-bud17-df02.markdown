@@ -1,9 +1,9 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-03-22 11:33:21
 excerpt: Archermind demo for MTK X20 Pro and Mstar TV 96Boards
@@ -13,7 +13,7 @@ image: /assets/images/featured-images/BUD17-DF02.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df02/
 post_format:
-- Video
+  - Video
 session_id: BUD17-DF02
 session_track: 96Boards
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73368041
@@ -25,7 +25,7 @@ video_length: 00:00
 video_thumbnail: None
 tag: demo
 wordpress_id: 5680
-youtube_video_url: 'https://www.youtube.com/watch?v=qs16StX8k14 '
+youtube_video_url: "https://www.youtube.com/watch?v=qs16StX8k14 "
 ---
 
 Archermind will demo their new 96Boards of MTK X20 Pro and MStar TV 96Boards

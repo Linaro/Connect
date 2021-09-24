@@ -4,7 +4,8 @@ author: connect
 categories: bkk16
 comments: false
 date: 2016-02-22 17:34:20
-excerpt: We will explain the purpose of the PMWG farm and the current goals we have
+excerpt:
+  We will explain the purpose of the PMWG farm and the current goals we have
   (e.g. collect power measurements, share reference platforms, monitor power trends
   of the kernel). We will also address the limitations of our farm and invite everyone
   to discuss which results should be displayed for further analysis.
@@ -13,22 +14,22 @@ image: /assets/images/featured-images/BKK16506PMWGFarm.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-506-pmwg-farm/
 post_format:
-- Video
+  - Video
 session_id: None
 session_track: Power Management
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58209528
 slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16506-pmwg-farm
 slug: bkk16-506-pmwg-farm
-speakers: 'Lisa Nguyen
+speakers: "Lisa Nguyen
 
-  Vincent Guittot'
+  Vincent Guittot"
 tags:
-- '"PMWG farm"'
-title: 'BKK16-506: PMWG Farm'
+  - '"PMWG farm"'
+title: "BKK16-506: PMWG Farm"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3487
-youtube_video_url: None
+youtube_video_url: ""
 ---
 
 We will explain the purpose of the PMWG farm and the current goals we have (e.g. collect power measurements, share reference platforms, monitor power trends of the kernel). We will also address the limitations of our farm and invite everyone to discuss which results should be displayed for further analysis.

@@ -1,9 +1,9 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-03-23 16:48:50
 excerpt: Optimized Android N MR1 + 4.4 Kernel
@@ -13,7 +13,7 @@ image: /assets/images/featured-images/BUD17-DF14.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df14/
 post_format:
-- Video
+  - Video
 session_id: BUD17-DF14
 session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73368884
@@ -24,9 +24,9 @@ title: Optimized Android N MR1 + 4.4 Kernel-BUD17-DF14
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5700
-youtube_video_url: None
+youtube_video_url: ""
 ---
 
-Boot optimized and HWA MM capabilities on  Android N MR1 with 4.4 kernel
+Boot optimized and HWA MM capabilities on Android N MR1 with 4.4 kernel
 
 Team:LMG

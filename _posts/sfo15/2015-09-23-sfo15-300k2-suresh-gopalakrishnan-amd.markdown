@@ -1,13 +1,15 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-23-Wednesday/Linaro
+amazon_s3_presentation_url:
+  https://static.linaro.org/connect/sfo15/Presentations/09-23-Wednesday/Linaro
   Connect Keynote - Suresh - Final.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- sfo15
+  - sfo15
 comments: false
 date: 2015-09-23 00:00:00
-excerpt: 'Suresh’s bio: Dr. Suresh Gopalakrishnan is the corporate vice president
+excerpt:
+  "Suresh’s bio: Dr. Suresh Gopalakrishnan is the corporate vice president
   and general manager of AMD’s server business. He is responsible for driving the
   end-to-end business execution of AMD server solutions worldwide. Under his leadership,
   AMD is pursuing a server strategy that leverages AMD’s broad IP portfolio to deliver
@@ -31,14 +33,14 @@ excerpt: 'Suresh’s bio: Dr. Suresh Gopalakrishnan is the corporate vice presid
 
   Dr. Gopalakrishnan holds a Ph.D. in Electrical Engineering from the University of
   Idaho and has completed the Advanced Executive Program at Northwestern University’s
-  Kellogg School of Management. He is based in Sunnyvale, California.'
+  Kellogg School of Management. He is based in Sunnyvale, California."
 featured_image_name: SFO15300K2SureshGopalakrishnanAMD.jpg
 image_name: SFO15300K2SureshGopalakrishnanAMD.jpg
 image: /assets/images/featured-images/SFO15300K2SureshGopalakrishnanAMD.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-300k2-suresh-gopalakrishnan-amd/
 post_format:
-- Video
+  - Video
 session_id: None
 session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53111532
@@ -46,11 +48,11 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15300k2-sure
 slug: sfo15-300k2-suresh-gopalakrishnan-amd
 speakers: Suresh Gopalakrishnan
 tags:
-- Keynote
-- Linaro
-- Linux
-title: 'SFO15-300K2 : Suresh Gopalakrishnan, AMD'
-video_length: '38:11'
+  - Keynote
+  - Linaro
+  - Linux
+title: "SFO15-300K2 : Suresh Gopalakrishnan, AMD"
+video_length: "38:11"
 video_thumbnail: None
 wordpress_id: 2835
 youtube_video_url: https://www.youtube.com/watch?v=apMkjg8tubw
@@ -66,11 +68,11 @@ Prior to Extreme Networks, Dr. Gopalakrishnan held a variety of leadership posit
 Dr. Gopalakrishnan holds a Ph.D. in Electrical Engineering from the University of Idaho and has completed the Advanced Executive Program at Northwestern University’s Kellogg School of Management. He is based in Sunnyvale, California.
 
 ★ Resources ★
-Google Event to Watch Live:  https://plus.google.com/u/1/events/c7o1b0q6f861sb2h5bs4rac16og
+Google Event to Watch Live: https://plus.google.com/u/1/events/c7o1b0q6f861sb2h5bs4rac16og
 Pathable: https://sfo15.pathable.com/meetings/302930
 Video: ttps://www.youtube.com/watch?v=apMkjg8tubw
-Presentation:  http://www.slideshare.net/linaroorg/sfo15300k2-suresh-gopalakrishnan-amd
-Etherpad:  pad.linaro.org/p/sfo15-300k2
+Presentation: http://www.slideshare.net/linaroorg/sfo15300k2-suresh-gopalakrishnan-amd
+Etherpad: pad.linaro.org/p/sfo15-300k2
 
 ★ Event Details ★
 Linaro Connect San Francisco 2015 - #SFO15

@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/las16/Presentations/Wednesday/LAS16-310%20-%20Introducing%20the%20first%2096Boards%20TV%20Platform%20-%20Poplar%20by%20Hisilicon.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- las16
+  - las16
 comments: false
 date: 2016-09-20 17:10:53
-excerpt: This presentation will discuss the hardware and software features of the
+excerpt:
+  This presentation will discuss the hardware and software features of the
   Poplar TV platform board. The capabilities and use cases that can be exercised will
   be highlighted.
 featured_image_name: LAS16-310.png
@@ -15,7 +16,7 @@ image: /assets/images/featured-images/LAS16-310.png
 layout: resource-post
 link: http://connect.linaro.org/resource/las16/las16-310/
 post_format:
-- Video
+  - Video
 session_id: LAS16-310
 session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/66357599
@@ -23,10 +24,10 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/las16310-introd
 slug: las16-310
 speakers: Mark Gregotski
 tags:
-- 96Boards
-- Home
-title: 'LAS16-310: Introducing the first 96Boards TV Platform: Poplar by Hisilicon'
-video_length: '29:11'
+  - 96Boards
+  - Home
+title: "LAS16-310: Introducing the first 96Boards TV Platform: Poplar by Hisilicon"
+video_length: "29:11"
 video_thumbnail: None
 wordpress_id: 3834
 youtube_video_url: https://www.youtube.com/watch?v=tcoby8k0FCw

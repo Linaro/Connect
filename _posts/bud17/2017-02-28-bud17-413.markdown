@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:50
-excerpt: A summary of important changes in UEFI land in general, especially in the
+excerpt:
+  A summary of important changes in UEFI land in general, especially in the
   area of open source platform code, and how Linaro intends to deal with Reference
   Platform firmware releases in the future.
 featured_image_file_name: BUD17-413.jpg
@@ -15,19 +16,19 @@ image: /assets/images/featured-images/BUD17-413.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-413/
 post_format:
-- Video
+  - Video
 session_id: BUD17-413
 session_track: None/Other
 slideshare_presentation_url: None
 slug: bud17-413
 speakers: Leif Lindholm
 tags:
-- UEFI
+  - UEFI
 title: Changes in UEFI land - BUD17-413
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 4704
-youtube_video_url: None
+youtube_video_url: ""
 ---
 
 "Session ID: BUD17-413
@@ -37,12 +38,15 @@ Track:
 
 ★ Session Summary ★
 A summary of important changes in UEFI land in general, especially in the area of open source platform code, and how Linaro intends to deal with Reference Platform firmware releases in the future.
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-413/
 Presentation:
 Video: https://youtu.be/Kr21uAiM-q8
----------------------------------------------------
+
+---
 
 ★ Event Details ★
 bud17
@@ -51,11 +55,14 @@ Corinthia Hotel, Budapest,
 Erzsébet krt. 43-49,
 1073 Hungary
 
----------------------------------------------------
+---
+
 Keyword: UEFI
 http://www.linaro.org
 http://connect.linaro.org
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

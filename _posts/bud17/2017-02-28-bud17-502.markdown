@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:56
-excerpt: 'GPGPUs (General Purpose Graphics Processing Unit) are becoming a relevant
+excerpt:
+  "GPGPUs (General Purpose Graphics Processing Unit) are becoming a relevant
   functional block on SoCs, particularly on the Arm ecosystem. Extracting full performance
   of a GPU is now becoming a combination of well integrated and optimized software
   and hardware. Motivated by that, there are many Open GPU initiatives around the
@@ -17,14 +18,14 @@ excerpt: 'GPGPUs (General Purpose Graphics Processing Unit) are becoming a relev
   OpenGPU working on a range of OpenGl applications ported by Linaro will be shown.
   On the fly we will change drivers between: SW only, GPU on Asic, and OpenGPU to
   see its performance impact. The engineers that implemented this system will be at
-  the session to support detailed technical questions.'
+  the session to support detailed technical questions."
 featured_image_file_name: BUD17-502.jpg
 image_name: BUD17-502.jpg
 image: /assets/images/featured-images/BUD17-502.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-502/
 post_format:
-- Video
+  - Video
 session_id: BUD17-502
 session_track: IoT and Embedded
 slideshare_presentation_url: None

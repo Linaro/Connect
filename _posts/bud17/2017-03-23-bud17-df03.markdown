@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-DF03.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-03-23 16:43:25
-excerpt: Node.js, Express and MongoDB implementing a data-aggregating sensor gateway
+excerpt:
+  Node.js, Express and MongoDB implementing a data-aggregating sensor gateway
   with RESTful sensor and admin interfaces
 featured_image_file_name: BUD17-DF03.jpg
 image_name: BUD17-DF03.jpg
@@ -14,7 +15,7 @@ image: /assets/images/featured-images/BUD17-DF03.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df03/
 post_format:
-- Video
+  - Video
 session_id: BUD17-DF03
 session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73368132
@@ -25,7 +26,7 @@ title: MEAN-stack based sensor gateway - BUD17-DF03
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5702
-youtube_video_url: None
+youtube_video_url: ""
 ---
 
 https://www.slideshare.net/linaroorg/meanstack-based-sensor-gateway

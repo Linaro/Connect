@@ -1,11 +1,12 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/bkk16/Presentations/Monday/BKK16-110.pdf
-amazon_s3_video_url: n/a
+amazon_s3_video_url: ""
 author: connect
 categories: bkk16
 comments: false
 date: 2016-02-22 17:20:36
-excerpt: Smart connected devices such as mobile phones, tablets and Digital TVs are
+excerpt:
+  Smart connected devices such as mobile phones, tablets and Digital TVs are
   required to handle data with strong security and confidentiality requirements. A
   “Trusted Execution Environment” (TEE) provides an environment for processing data
   securely, protected from normal platform applications. This talk is intended as
@@ -19,7 +20,7 @@ image: /assets/images/featured-images/BKK16-110.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-110/
 post_format:
-- Video
+  - Video
 session_id: BKK16-110
 session_track: Security
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58209663
@@ -27,12 +28,12 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16110-a-gent
 slug: bkk16-110
 speakers: Russell Wayman
 tags:
-- OP-TEE
-title: 'BKK16-110: A Gentle Introduction to Trusted Execution and OP-TEE'
+  - OP-TEE
+title: "BKK16-110: A Gentle Introduction to Trusted Execution and OP-TEE"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3318
-youtube_video_url: None
+youtube_video_url: ""
 ---
 
 Smart connected devices such as mobile phones, tablets and Digital TVs are required to handle data with strong security and confidentiality requirements. A “Trusted Execution Environment” (TEE) provides an environment for processing data securely, protected from normal platform applications. This talk is intended as an introduction to Trusted Execution, and the open-source Trusted Execution Environment OP-TEE in particular. It introduces the GlobalPlatform TEE Specifications, explains how Trusted Execution is implemented by Arm TrustZone and OP-TEE, and outlines how trusted boot software manages the secure boot of an Arm platform. Finally, it gives some pointers on how to get started with OP-TEE.

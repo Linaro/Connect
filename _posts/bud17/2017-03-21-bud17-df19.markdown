@@ -1,9 +1,9 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-03-21 16:04:43
 excerpt: Socionext Armv8 server SoC chipset demo
@@ -13,7 +13,7 @@ image: /assets/images/featured-images/BUD17-DF19.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df19/
 post_format:
-- Video
+  - Video
 session_id: BUD17-DF19
 session_track: None/Other
 tag: demo
@@ -53,6 +53,5 @@ Specification overview:
 1 x PCI Express Endpoint for upstream interconnect
 
 2ch Gigabit Ethernet MAC (1 for application, 1 for maintenance)
-
 
 Team: Socionext Inc.

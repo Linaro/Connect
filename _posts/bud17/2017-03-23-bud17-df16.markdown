@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-03-23 16:55:41
-excerpt: Highlights OpenFastPath using OpenDataPlane to leverage SoC hardware acceleration
+excerpt:
+  Highlights OpenFastPath using OpenDataPlane to leverage SoC hardware acceleration
   capabilities for IPSEC offload
 featured_image_file_name: BUD17-DF16.jpg
 image_name: BUD17-DF16.jpg
@@ -14,7 +15,7 @@ image: /assets/images/featured-images/BUD17-DF16.jpg
 layout: resource-post
 link: http://connect.linaro.org/uncategorized/bud17-df16/
 post_format:
-- Video
+  - Video
 session_id: BUD17-DF16
 session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73369035
@@ -25,7 +26,7 @@ title: ODP IPsec lookaside API Demo - BUD17-DF16
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 5717
-youtube_video_url: None
+youtube_video_url: ""
 ---
 
 "Highlights OpenFastPath using OpenDataPlane to leverage SoC hardware acceleration capabilities for IPSEC offload

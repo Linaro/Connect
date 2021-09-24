@@ -1,28 +1,29 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/sfo17/Videos/SFO17-320%20TSC%20BoF%20Accelerators%20Discussion%20.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- sfo17
+  - sfo17
 comments: false
 date: 2017-10-06 16:55:31
-excerpt: Discussion on the various hardware acceleration efforts in Linaro.  What
+excerpt:
+  Discussion on the various hardware acceleration efforts in Linaro.  What
   are we doing now and how should this evolve?
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo17/sfo17-320/
 post_format:
-- Video
+  - Video
 session_id: SFO17-320
 session_track: None/Other
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/80657817
 slideshare_presentation_url: https://www.slideshare.net/linaroorg/tsc-bof-accelerators-discussion-sfo17320
 slug: sfo17-320
 speakers: None
-title: 'TSC BoF: Accelerators Discussion - SFO17-320'
+title: "TSC BoF: Accelerators Discussion - SFO17-320"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 6324
-youtube_video_url: None
+youtube_video_url: ""
 ---
 
 Session ID: SFO17-320
@@ -32,23 +33,29 @@ Track:
 
 ★ Session Summary ★
 Discussion on the various hardware acceleration efforts in Linaro. What are we doing now and how should this evolve?
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/sfo17/sfo17-320/
 Presentation:
 Video:
----------------------------------------------------
+
+---
 
 ★ Event Details ★
 Linaro Connect San Francisco 2017 (SFO17)
 25-29 September 2017
 Hyatt Regency San Francisco Airport
 
----------------------------------------------------
+---
+
 Keyword:
 'http://www.linaro.org'
 'http://connect.linaro.org'
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

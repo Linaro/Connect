@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/bud17/Presentations/BUD17-215%20-%20LAVA%20Users%20Forum.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:35
-excerpt: Feedback and support for and by users of LAVA. Talk to us about your LAVA
+excerpt:
+  Feedback and support for and by users of LAVA. Talk to us about your LAVA
   use cases, problems, and ideas.
 featured_image_file_name: BUD17-215.jpg
 image_name: BUD17-215.jpg
@@ -14,7 +15,7 @@ image: /assets/images/featured-images/BUD17-215.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/bud17-215/
 post_format:
-- Video
+  - Video
 session_id: BUD17-215
 session_track: LAVA
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/72786186
@@ -22,8 +23,8 @@ slideshare_presentation_url: https://www.slideshare.net/linaroorg/bud17215-lava-
 slug: bud17-215
 speakers: Steve McIntyre
 tags:
-- LAVA
-- users-forum
+  - LAVA
+  - users-forum
 title: LAVA Users Forum - BUD17-215
 video_length: 00:00
 video_thumbnail: None
@@ -36,15 +37,17 @@ Session Name: LAVA Users Forum - BUD17-215
 Speaker: Steve McIntyre
 Track: LAVA
 
-
 ★ Session Summary ★
 Feedback and support for and by users of LAVA. Talk to us about your LAVA use cases, problems, and ideas.
----------------------------------------------------
+
+---
+
 ★ Resources ★
 Event Page: http://connect.linaro.org/resource/bud17/bud17-215/
 Presentation: https://www.slideshare.net/linaroorg/bud17215-lava-users-forum
 Video: https://youtu.be/l1uQMWXfFoQ
----------------------------------------------------
+
+---
 
 ★ Event Details ★
 bud17
@@ -53,11 +56,14 @@ Corinthia Hotel, Budapest,
 Erzsébet krt. 43-49,
 1073 Hungary
 
----------------------------------------------------
+---
+
 Keyword: LAVA, users-forum
 http://www.linaro.org
 http://connect.linaro.org
----------------------------------------------------
+
+---
+
 Follow us on Social Media
 https://www.facebook.com/LinaroOrg
 https://twitter.com/linaroorg

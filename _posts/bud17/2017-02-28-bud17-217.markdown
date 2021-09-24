@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-02-28 12:05:35
-excerpt: Virtual Open Sytems has demonstrated OPNFV Colorado integration of its Lua-based
+excerpt:
+  Virtual Open Sytems has demonstrated OPNFV Colorado integration of its Lua-based
   VOSYSwitch data plane, deployed within an x86 environment. With the port of LuaJIT
   to AArch64, the solution is migrated to the OPNFV/ArmBand release. The presentation
   will show experimental results, discuss the specifics of the migration and issues
@@ -18,14 +19,14 @@ image: /assets/images/featured-images/BUD17-217.jpg
 layout: resource-post
 link: http://connect.linaro.org/blog/bud17-217/
 post_format:
-- Video
+  - Video
 session_id: BUD17-217
 session_track: IoT Fog/Gateway/Edge Computing
 slideshare_presentation_url: None
 slug: bud17-217
 speakers: None
 title: VOSYSwitch on OPNFV - migration to ArmBand - BUD17-217
-video_length: '55:50'
+video_length: "55:50"
 video_thumbnail: None
 wordpress_id: 4655
 youtube_video_url: https://www.youtube.com/watch?v=5HYfkuaLztQ&feature=youtu.be

@@ -1,9 +1,9 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- bud17
+  - bud17
 comments: false
 date: 2017-03-21 16:01:05
 excerpt: Dragonboard 410c/820c
@@ -13,7 +13,7 @@ image: /assets/images/featured-images/BUD17-DF18.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bud17/demo/bud17-df18/
 post_format:
-- Video
+  - Video
 session_id: BUD17-DF18
 session_track: 96Boards
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/73369189
@@ -44,6 +44,5 @@ DB820c running linux and open source graphics, DB820c running Android, DB410c ru
 - Open source freedreno GPU drivers
 
 - Hardware video playback
-
 
 Team: Qualcomm Landing team

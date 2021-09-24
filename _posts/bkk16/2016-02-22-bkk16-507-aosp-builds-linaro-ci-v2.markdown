@@ -1,11 +1,12 @@
 ---
 amazon_s3_presentation_url: https://static.linaro.org/connect/bkk16/Presentations/Friday/BKK16-507.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories: bkk16
 comments: false
 date: 2016-02-22 17:35:24
-excerpt: Introduction to CI v2 for AOSP builds. There has been changes on how we have
+excerpt:
+  Introduction to CI v2 for AOSP builds. There has been changes on how we have
   been doing AOSP development in Linaro. It has changed from daily builds to commit
   based builds. The session will give overview on how we can do all the builds on
   ci.linaro.org that we did on android-build.linaro.org.
@@ -14,7 +15,7 @@ image: /assets/images/featured-images/BKK16507AOSPbuildsofLinarowithCIv2.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/bkk16/bkk16-507-aosp-builds-linaro-ci-v2/
 post_format:
-- Video
+  - Video
 session_id: None
 session_track: Builds & Baselines
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/58207430
@@ -22,14 +23,14 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/bkk16507-aosp-b
 slug: bkk16-507-aosp-builds-linaro-ci-v2
 speakers: Daniel DiazVishal Bhoj
 tags:
-- AOSP
-- CI
-- v2
-title: 'BKK16-507: AOSP builds of Linaro with CI v2'
+  - AOSP
+  - CI
+  - v2
+title: "BKK16-507: AOSP builds of Linaro with CI v2"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 3489
-youtube_video_url: None
+youtube_video_url: ""
 ---
 
 Introduction to CI v2 for AOSP builds. There has been changes on how we have been doing AOSP development in Linaro. It has changed from daily builds to commit based builds. The session will give overview on how we can do all the builds on ci.linaro.org that we did on android-build.linaro.org.

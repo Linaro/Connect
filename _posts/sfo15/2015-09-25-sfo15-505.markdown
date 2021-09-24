@@ -1,13 +1,15 @@
 ---
-amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-25-Friday/SFO15-505-
+amazon_s3_presentation_url:
+  https://static.linaro.org/connect/sfo15/Presentations/09-25-Friday/SFO15-505-
   Introducing I2C and GPIO user space APIs for Android.pdf
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- sfo15
+  - sfo15
 comments: false
 date: 2015-09-25 00:00:00
-excerpt: "Android doesn\x89’t give application access to hardware over bus interfacing
+excerpt:
+  "Android doesn\x89’t give application access to hardware over bus interfacing
   APIs like I2C, SPI, GPIO, UART, etc. This is going to change in future as Android
   apps needs to work with multiple different devices like sensors, controllers, etc
   directly to meet the efficiency and speed required. In this presentation we will
@@ -18,7 +20,7 @@ image: /assets/images/featured-images/SFO15-505.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-505/
 post_format:
-- Video
+  - Video
 session_id: SFO15-505
 session_track: Android Ecosystem
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/52946678
@@ -26,16 +28,16 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15505-introd
 slug: sfo15-505
 speakers: Satish Patel
 tags:
-- Android
-- APIs
-- GPIO
-- I2C
-- Mobile
-title: 'SFO15-505 : Introducing I2C & GPIO user space APIs for Android'
+  - Android
+  - APIs
+  - GPIO
+  - I2C
+  - Mobile
+title: "SFO15-505 : Introducing I2C & GPIO user space APIs for Android"
 video_length: 00:00
 video_thumbnail: None
 wordpress_id: 2891
-youtube_video_url: None
+youtube_video_url: ""
 ---
 
 SFO15-505: Introducing I2C & GPIO user space APIs for Android --------------------------------------------------- Speaker: Satish Patel Track: Mobile --------------------------------------------------- ★ Session Summary ★ Android doesn’t give application access to hardware over bus interfacing APIs like I2C, SPI, GPIO, UART, etc. This is going to change in future as Android apps needs to work with multiple different devices like sensors, controllers, etc directly to meet the efficiency and speed required. In this presentation we will introduce the APIs, architecture design and a working demo. --------------------------------------------------- ★ Resources ★ pathable: https://sfo15.pathable.com/meetings/303097 Presentation: http://www.slideshare.net/linaroorg/sfo15505-introducing-i2c-gpio-user-space-apis-for-android Video: Eatherpad: pad.linaro.org/p/sfo15-505 --------------------------------------------------- ★ Event Details ★ Linaro Connect San Francisco 2015 - #SFO15 September 21-25th, 2015 Hyatt Regency San Francisco Airport --------------------------------------------------- > http://www.linaro.org > http://connect.linaro.org

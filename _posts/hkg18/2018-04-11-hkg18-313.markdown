@@ -1,12 +1,13 @@
 ---
 amazon_s3_presentation_url: None
-amazon_s3_video_url: None
+amazon_s3_video_url: ""
 author: connect
 categories:
-- hkg18
+  - hkg18
 comments: false
 date: 2018-04-11 14:12:48
-excerpt: 96Boards OpenHours – Sponsored by Linaro welcomes you to participate in the
+excerpt:
+  96Boards OpenHours – Sponsored by Linaro welcomes you to participate in the
   ultimate community driven experience. This special LIVE broadcast will take place
   over the BlueJeans video conferencing tool, in front of a live audience at the first
   Linaro Connect of 2018. Bring your coffee and questions, demos and feedback because
@@ -17,7 +18,7 @@ image: /assets/images/featured-images/HKG18-313.png
 layout: resource-post
 link: http://connect.linaro.org/resource/hkg18/hkg18-313/
 post_format:
-- Video
+  - Video
 session_id: HKG18-313
 session_track: 96Boards
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/92948336
