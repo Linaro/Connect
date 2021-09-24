@@ -28,6 +28,5 @@ Recently, the prospering of edge computing technology has seen a growing trend t
 In this demo, using the reference hardware Neoverse N1 System Development Platform (N1SDP), we present a system contains the containerized Autoware components. The Autoware containers are orchestrated by a light-weight orchestrator - k3s. This demo provides new insights into deploying autonomous driving software in distributed edge systems.
 
 - [https://www.autoware.org/autoware-auto](https://www.autoware.org/autoware-auto)
-- [https://github.com/ARM-software/automotive-stack](https://github.com/ARM-software/automotive-stack)
 - [https://community.arm.com/developer/tools-software/oss-platforms/w/docs/458/neoverse-n1-sdp](https://community.arm.com/developer/tools-software/oss-platforms/w/docs/458/neoverse-n1-sdp)
 - [https://k3s.io/](https://k3s.io/)
