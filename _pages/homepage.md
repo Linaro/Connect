@@ -70,8 +70,8 @@ flow:
       - format: buttons
         style: text-center
         buttons_content:
-          - title: View LVC21 Resources
-            url: /resources/lvc21/
+          - title: View LVC21 Fall Resources
+            url: /resources/lvc21f/
             style: btn-primary
   - row: custom_include_row
     source: homepage_video_modal.html
