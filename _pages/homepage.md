@@ -70,7 +70,7 @@ flow:
       - format: buttons
         style: text-center
         buttons_content:
-          - title: View LVC21 Fall Resources
+          - title: "View LVC21F Session Videos "
             url: /resources/lvc21f/
             style: btn-primary
   - row: custom_include_row
