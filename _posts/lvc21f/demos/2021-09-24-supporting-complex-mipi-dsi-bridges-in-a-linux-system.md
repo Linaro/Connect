@@ -1,5 +1,6 @@
 ---
 title: Supporting Complex MIPI DSI Bridges in a Linux system
+amazon_s3_video_url: https://static.linaro.org/connect/lvc21f/videos/LVC21F-demo-supporting-complex-mipi-dsi-bridges-in-a-linux-system-demo.mp4
 categories:
   - lvc21f
 date: "2021-09-24 09:00:00+00:00"
