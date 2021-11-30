@@ -45,10 +45,10 @@ flow:
 
 
                 All videos and slides from LVC21F are available on our [Resource Page](https://connect.linaro.org/resources/lvc21f/).
-              title: "Block 1 on Left "
+              title: ""
             - style: text-dark
               description: >-
-                Upcoming Linaro Connect Webinars and Tech Days (Virtual):
+                Upcoming Linaro Connect Webinars and Tech Days
 
 
                 Webinar: "Introduction to Eigen" \
@@ -58,10 +58,8 @@ flow:
                 [Register free now](https://www.linaro.org/events/introduction-to-eigen/)
 
 
-
-
                 [Subscribe here](https://linaro.us3.list-manage.com/subscribe?u=14baaae786342d0d405ee59c2&id=7cf0551a9b) to receive email updates about Linaro Tech days and Webinars
-              title: "Block 2 right "
+              title: ""
   - row: container_row
     style: bg-secondary text-white
     sections:
