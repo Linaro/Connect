@@ -61,16 +61,6 @@ flow:
                 [Subscribe here](https://linaro.us3.list-manage.com/subscribe?u=14baaae786342d0d405ee59c2&id=7cf0551a9b) to receive email updates about Linaro Tech days and Webinars
               title: ""
   - row: container_row
-    style: bg-secondary text-white
-    sections:
-      - format: title
-        style: text-center text-white
-        title_content:
-          size: h2
-          text: LVC21 stats (during the 3 days of the event)
-      - format: custom_include
-        source: stats_section.html
-  - row: container_row
     style: block_row
     sections:
       - format: buttons
