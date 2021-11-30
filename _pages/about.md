@@ -1,8 +1,8 @@
 ---
 title: About
-description: If you work on open source software for Arm platforms, Linaro
-  Connect is the place to be to understand the latest developments and work
-  directly with the most active engineers and maintainers in the ecosystem.
+description: "Linaro Connect is a developer focused engineering event hosted by
+  Linaro that brings together developers and maintainers of both hardware and
+  software to collaborate and discuss common problems. "
 permalink: /about/
 published: true
 css-package: about
@@ -11,104 +11,19 @@ jumbotron:
   background_image: /assets/images/content/bkk19-group-photo.jpg
   title: About
   description: ""
-flow:
-  - row: container_row
-    sections:
-      - format: feature_block
-        feature_block_content:
-          position: left
-          type: slider
-          slider_content:
-            items:
-              - image: /assets/images/content/san19_image_1.jpg
-                title: SAN19 Image 1
-              - image: /assets/images/content/san19_image_2.jpg
-                title: SAN19 Image 2
-              - image: /assets/images/content/san19_image_3.jpg
-                title: SAN19 Image 3
-              - image: /assets/images/content/san19_image_4.jpg
-                title: SAN19 Image 4
-              - image: /assets/images/content/bkk19-sponsor-table.jpg
-                title: Sponsor table at Linaro Connect Bangkok 2019
-              - image: /assets/images/content/bkk19-packet-sponsored-food.jpg
-                title: Packet branded macaron's at Linaro Connect Bangkok 2019
-              - image: /assets/images/content/bkk19-li-gong-keynote.jpg
-                title: Linaro CEO, Li Gong, presenting the opening keynote at Linaro Connect
-                  Bangkok 2019
-              - image: /assets/images/content/bkk19-jacob-smith-packet-keynote.jpg
-                title: Jacob Smith from Packet presenting his keynote at Linaro Connect Bangkok
-                  2019
-              - image: /assets/images/content/bkk19-google-keynote.jpg
-                title: Google's keynote at Linaro Connect Bangkok 2019
-              - image: /assets/images/content/bkk19-chris-royston-arm-developer-talk.jpg
-                title: Chris Royston from Arm talking about the new revision of
-                  developer.arm.com at Linaro Connect Bangkok 2019
-            nav: true
-            dots: false
-            seconds_per_slide: 5
-            lightbox_enabled: true
-            md_items: 1
-            sm_items: 1
-            xs_items: 1
-            lg_items: 1
-          text: >
-            Every six months, over 300 of the world's leading open source
-            engineers working on Arm get together for a full week of engineering
-            sessions and hacking at Linaro Connect. To view slides or videos
-            from the keynotes and sessions from previous Connects, please go to
-            our [Resources page](/resources/).
-      - item_width: 4
-        block_section_content:
-          blocks:
-            - image: /assets/images/content/bkk19-group-photo.jpg
-              buttons:
-                - class: btn-primary
-                  icon: fa fa-book
-                  title: View Resources
-                  url: /resources/
-              description: >
-                Collaborate with the engineers _leading_ open source software
-                development in the _Arm ecosystem_, have in-depth technical
-                conversations about real world issues and solutions, and attend
-                how-to training sessions about the latest Arm software
-                developments.
-              title: Collaborate & Learn
-            - image: /assets/images/content/bkk19-group-photo.jpg
-              buttons: []
-              description: >
-                Bring your knowledge and experience to influence and contribute
-                to Linaro's development work. Linaro Connect is a unique
-                opportunity to put your ideas forward face to face with other
-                contributors and maintainers. If you have something relevant
-                you'd like to show off, consider participating in Demo Friday.
-              title: Contribute
-            - image: /assets/images/content/bkk19-group-photo.jpg
-              description: >
-                In addition to the regular breaks in the day and informal
-                hacking sessions, there are a range of evening events at which
-                you can network with your peers and get to know the other
-                attendees.
-              title: Socialize
-        format: block
-        style: text-center
-    style: block_row
-  - row: container_row
-    sections:
-      - format: title
-        style: text-center
-        title_content:
-          size: h2
-          text: Code of Conduct
-      - format: text
-        style: text-center
-        text_content:
-          text: >
-            Linaro Ltd, as host for Linaro Connect, is dedicated to a
-            harassment-free conference experience for everyone.
-      - buttons_content:
-          - icon: fa fa-arrow-right
-            title: Anti-harassment Policy
-            url: /code-of-conduct/
-        format: buttons
-        style: text-center
+flow: []
 ---
+Linaro Connect is a developer focused engineering event hosted by Linaro that brings together developers and maintainers of both hardware and software to collaborate and discuss common problems. Topics covered in sessions at Linaro Connect include Linux Kernel, Toolchain, IoT & Embedded, AI, Android, Continuous Integration Testing, Security, Standardized Firmware, and more.
+
+Since Linaro’s inception in 2010, we have hosted Linaro Connect as a full five day event featuring 120+ technical sessions and keynotes, business meetings, hacking sessions and a Technology demo showcase. At Connect, we have roughly 400 attendees from 25+ countries and 50+ companies in attendance.
+
+In Spring 2020, we planned to host Linaro Connect in Budapest, Hungary but due to the start of the COVID-19 pandemic we had to cancel our in-person event and thus began our journey with virtual events. We hosted our first virtual event [in March 2020](https://connect.linaro.org/resources/ltd20/)and have hosted two Linaro Virtual Connect events per year since then.
+
+Our virtual events have re-created some of the most important elements from Linaro Connect including low level technical session content and training for developers, important industry updates and announcements, technology demos, and the opportunity to hear from and network with other software and hardware developers and open source maintainers. Our goal is to bring together the Arm and open source community globally to collaborate on common problems and our free virtual events have allowed us to involve a wider audience than ever before.
+
+We will continue to host virtual events moving forward until it is safe to host Linaro Connect again in person. To read more about our plans for upcoming virtual events, check out our blog [here](https://www.linaro.org/blog/reimagining-linaro-virtual-events/).
+
+We hope we can resume Linaro Connect in person with all of you soon!
+
+**\
+Session recordings and slides from past Linaro Connects (1400+ free public videos) from our past in-person and virtual Linaro Connect events can be found on our [Resource page](https://connect.linaro.org/resources/).**
