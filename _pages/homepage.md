@@ -21,9 +21,7 @@ flow:
       - format: text
         style: large_text text-center
         text_content:
-          text: >
-            Linaro Connect is an event that runs twice a year that brings
-            together the Arm Ecosystem.
+          text: Linaro Connect is an event that brings together the Arm Ecosystem.
       - format: text
         style: text-center
         text_content:
@@ -43,27 +41,25 @@ flow:
             - style: text-dark
               description: >-
                 The last Linaro Virtual Connect Fall 2021 (LVC21F) was held
-                September 8-10 online.  
+                September 8-10 online.
 
 
                 All videos and slides from LVC21F are available on our [Resource Page](https://connect.linaro.org/resources/lvc21f/).
+              title: ""
             - style: text-dark
               description: >-
-                Details for the next Linaro Connect in Spring 2022 will be
-                announced by December 2021.
+                Upcoming Linaro Connect Webinars and Tech Days
 
 
-                [Subscribe here](http://eepurl.com/hoUvrf) to receive Linaro Connect email updates.
-  - row: container_row
-    style: bg-secondary text-white
-    sections:
-      - format: title
-        style: text-center text-white
-        title_content:
-          size: h2
-          text: LVC21 stats (during the 3 days of the event)
-      - format: custom_include
-        source: stats_section.html
+                Webinar: "Introduction to Eigen" \
+
+                December 9 at 17:00 UTC\
+
+                [Register free now](https://www.linaro.org/events/introduction-to-eigen/)
+
+
+                [Subscribe here](https://linaro.us3.list-manage.com/subscribe?u=14baaae786342d0d405ee59c2&id=7cf0551a9b) to receive email updates about Linaro Tech days and Webinars
+              title: ""
   - row: container_row
     style: block_row
     sections:
