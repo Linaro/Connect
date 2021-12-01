@@ -13,7 +13,8 @@ jumbotron:
   description: "Linaro Connect is a developer focused engineering event hosted by
     Linaro that brings together developers and maintainers of both hardware and
     software to collaborate and discuss common problems. "
-flow: []
+flow:
+  - row: main_content_row
 ---
 Linaro Connect is a developer focused engineering event hosted by Linaro that brings together developers and maintainers of both hardware and software to collaborate and discuss common problems. Topics covered in sessions at Linaro Connect include Linux Kernel, Toolchain, IoT & Embedded, AI, Android, Continuous Integration Testing, Security, Standardized Firmware, and more.
 
