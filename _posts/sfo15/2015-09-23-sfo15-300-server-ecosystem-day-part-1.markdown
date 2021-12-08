@@ -1,10 +1,11 @@
 ---
-amazon_s3_presentation_url: https://static-linaro-org.s3.amazonaws.com/connect/sfo15/Presentations/09-23-Wednesday/SFO15-300%20Big%20Data%20on%20ARM.pdf
-amazon_s3_video_url: https://static.linaro.org/connect/sfo15/Videos/09-23-Wednesday/SF015-300
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-23-Wednesday/SFO15-300%20Big%20Data%20on%20ARM.pdf
+amazon_s3_video_url:
+  https://static.linaro.org/connect/sfo15/Videos/09-23-Wednesday/SF015-300
   Server Ecosystem Day (Part 1).mp4
 author: connect
 categories:
-- sfo15
+  - sfo15
 comments: false
 date: 2015-09-23 00:00:00
 featured_image_name: SFO15300ServerEcosystemDayPart1.jpg
@@ -13,7 +14,7 @@ image: /assets/images/featured-images/SFO15300ServerEcosystemDayPart1.jpg
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-300-server-ecosystem-day-part-1/
 post_format:
-- Video
+  - Video
 session_id: None
 session_track: Enterprise
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53757494
@@ -21,9 +22,9 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15300-server
 slug: sfo15-300-server-ecosystem-day-part-1
 speakers: Andrea Gallo
 tags:
-- Enterprise Server
-title: 'SFO15-300: Server Ecosystem Day (Part 1)'
-video_length: '47:23'
+  - Enterprise Server
+title: "SFO15-300: Server Ecosystem Day (Part 1)"
+video_length: "47:23"
 video_thumbnail: None
 wordpress_id: 2833
 youtube_video_url: https://www.youtube.com/watch?v=f9I5DwodLa8

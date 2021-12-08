@@ -17,5 +17,8 @@ description: >
     The emergence of a new Enterprise buyer aligns with a number of other shifts that are reshaping our $1 trillion technology ecosystem - the move to a disaggregated architecture, a rise in developer power, the growing influence of open source, and massive investments in silicon, data centers, and wireless. This talk will explore the opportunities and risks, and why ecosystem chops are more important than ever.
 slot:
     day: Wednesday
+session_slot:
+  end_time: '2019-04-03 09:00:00'
+  start_time: '2019-04-03 10:00:00'
 categories: Keynotes
 ---
