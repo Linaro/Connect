@@ -1,12 +1,13 @@
 ---
-amazon_s3_presentation_url: https://static-linaro-org.s3.amazonaws.com/connect/sfo15/Presentations/09-22-Tuesday/SFO15-205-%20%20OP-TEE%20Content%20Decryption%20with%20Microsoft%20PlayReady%20on%20ARM%20TrustZone.pdf
-amazon_s3_video_url: https://static-linaro-org.s3.amazonaws.com/connect/sfo15/Videos/09-22-Tuesday/SFO15-205%20OP-TEE%20Content%20Decryption%20with%20Microsoft%20PlayReady%20on%20ARM.mp4
+amazon_s3_presentation_url: https://static.linaro.org/connect/sfo15/Presentations/09-22-Tuesday/SFO15-205-%20%20OP-TEE%20Content%20Decryption%20with%20Microsoft%20PlayReady%20on%20ARM%20TrustZone.pdf
+amazon_s3_video_url: https://static.linaro.org/connect/sfo15/Videos/09-22-Tuesday/SFO15-205%20OP-TEE%20Content%20Decryption%20with%20Microsoft%20PlayReady%20on%20ARM.mp4
 author: connect
 categories:
-- sfo15
+  - sfo15
 comments: false
 date: 2015-09-22 00:00:00
-excerpt: This presentation gives an overview of how various components of set-top
+excerpt:
+  This presentation gives an overview of how various components of set-top
   software are integrated to provide a W3C EME solution employing a commercial DRM
   integrated with an open source TEE running on Arm TrustZone.
 featured_image_name: SFO15205OPTEEContentDecryptionwithMicrosoftPlayReadyonARM.jpg
@@ -15,7 +16,7 @@ image: /assets/images/featured-images/SFO15205OPTEEContentDecryptionwithMicrosof
 layout: resource-post
 link: http://connect.linaro.org/resource/sfo15/sfo15-205-op-tee-content-decryption-with-microsoft-playready-on-arm/
 post_format:
-- Video
+  - Video
 session_id: None
 session_track: Security
 slideshare_embed_url: //www.slideshare.net/slideshow/embed_code/53111683
@@ -23,9 +24,9 @@ slideshare_presentation_url: http://www.slideshare.net/linaroorg/sfo15205-optee-
 slug: sfo15-205-op-tee-content-decryption-with-microsoft-playready-on-arm
 speakers: Zoltan Kuscsik
 tags:
-- Security
+  - Security
 title: SFO15 205 OP TEE Content Decryption with Microsoft PlayReady on Arm
-video_length: '34:07'
+video_length: "34:07"
 video_thumbnail: None
 wordpress_id: 2818
 youtube_video_url: https://www.youtube.com/watch?v=defbtpsw6h8

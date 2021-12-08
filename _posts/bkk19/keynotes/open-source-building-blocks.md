@@ -1,13 +1,16 @@
 ---
-title:  Open Source Building Blocks
+title: Open Source Building Blocks
 speaker:
-    name: Rob Oshana
-    job-title: VP Software at NXP
+  name: Rob Oshana
+  job-title: VP Software at NXP
 image: /assets/images/speakers/keynotes/bkk19/rob-oshana.jpg
 event: BKK19
 description: >
-    Much of the innovation today can be contributed to various forms of open source software initiatives.  This open source collaboration has produced a number of essential open source building blocks used in advanced next generation solutions such as machine learning, IoT, and wireless connectivity. However to effectively use these open source building blocks, engineering organizations much ensure the proper underlying infrastructure is in place to allow for portability, performance, interoperability and scale.  This talk will provide some context and examples around this growing software development model in the semiconductor industry.
+  Much of the innovation today can be contributed to various forms of open source software initiatives.  This open source collaboration has produced a number of essential open source building blocks used in advanced next generation solutions such as machine learning, IoT, and wireless connectivity. However to effectively use these open source building blocks, engineering organizations much ensure the proper underlying infrastructure is in place to allow for portability, performance, interoperability and scale.  This talk will provide some context and examples around this growing software development model in the semiconductor industry.
 slot:
-    day: Friday
+  day: Friday
 categories: Keynotes
+session_slot:
+  end_time: "2019-04-05 09:00:00"
+  start_time: "2019-04-05 10:00:00"
 ---
