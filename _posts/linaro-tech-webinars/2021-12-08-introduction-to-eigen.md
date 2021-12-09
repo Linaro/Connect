@@ -4,7 +4,7 @@ amazon_s3_video_url: https://static.linaro.org/connect/webinars/videos/Eigen_web
 categories:
   - linaro_tech_webinars
 description: "Introduction to Eigen"
-image: /assets/images/featured-images/armcca/armcca-attestation-architecture.png
+image: /assets/images/featured-images/eigen-webinar.png
 session_id: ""
 session_slot:
   end_time: 2021-12-09 17:30
