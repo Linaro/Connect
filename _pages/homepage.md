@@ -40,7 +40,7 @@ flow:
           blocks:
             - style: text-dark
               description: >-
-                ### Upcoming Linaro Tech Days 
+                ### Upcoming Linaro Tech Days
 
 
                 March 2022 - Topic: Ecosystem Plumbing\
@@ -64,7 +64,7 @@ flow:
               title: ""
             - style: text-dark
               description: >-
-                ### Upcoming Linaro Tech Webinars 
+                ### Upcoming Linaro Tech Webinars
 
 
                 Member exclusive webinar: "Using Linux Kernel for Real-Time systems"\
@@ -79,6 +79,15 @@ flow:
                 February 8 and 15\
 
                 [Details here](https://www.linaro.org/events/kernel-debug-stories-for-arm-linaro-connect-tech-webinar/)
+
+
+                Public webinar: "Qualcomm IPA Modem"\
+
+                February 22\
+
+                Details coming soon 
+
+
 
 
                 [Subscribe here](https://linaro.us3.list-manage.com/subscribe?u=14baaae786342d0d405ee59c2&id=7cf0551a9b) to receive email updates about Linaro Tech days and Webinars
