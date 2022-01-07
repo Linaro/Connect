@@ -40,22 +40,58 @@ flow:
           blocks:
             - style: text-dark
               description: >-
-                The last Linaro Virtual Connect Fall 2021 (LVC21F) was held
-                September 8-10 online.
+                ### Upcoming Linaro Tech Days
 
 
-                All videos and slides from LVC21F are available on our [Resource Page](https://connect.linaro.org/resources/lvc21f/).
+
+
+                March 2022 - Topic: Ecosystem Plumbing\
+
+                Details coming soon
+
+
+                March 2022 - Topic: Confidential AI\
+
+                Details coming soon
+
+
+                June 2022 - Topic: Client Devices (Windows on Arm, Android)\
+
+                Details coming soon 
+
+
+
+
+                All videos and slides from previous events can be found on our [Resource Page](https://connect.linaro.org/resources/lvc21f/).
               title: ""
             - style: text-dark
               description: >-
-                Upcoming Linaro Connect Webinars and Tech Days
+                ### Upcoming Linaro Tech Webinars
 
 
-                Webinar: "Introduction to Eigen" \
 
-                December 9 at 17:00 UTC\
 
-                [Register free now](https://www.linaro.org/events/introduction-to-eigen/)
+                Member exclusive webinar: "Using Linux Kernel for Real-Time systems"\
+
+                Part 1: January 18 Part 2: January 25\
+
+                [Details here](https://www.linaro.org/events/linaro-connect-webinar-using-linux-kernel-for-real-time-systems/)
+
+
+                Public webinar: "Kernel Debug Stories for Arm"\
+
+                February 8 and 15\
+
+                [Details here](https://www.linaro.org/events/kernel-debug-stories-for-arm-linaro-connect-tech-webinar/)
+
+
+                Public webinar: "Qualcomm IPA Modem"\
+
+                February 22\
+
+                Details coming soon 
+
+
 
 
                 [Subscribe here](https://linaro.us3.list-manage.com/subscribe?u=14baaae786342d0d405ee59c2&id=7cf0551a9b) to receive email updates about Linaro Tech days and Webinars
