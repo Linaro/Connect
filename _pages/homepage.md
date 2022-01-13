@@ -43,14 +43,7 @@ flow:
                 ### Upcoming Linaro Tech Days
 
 
-
-
                 March 2022 - Topic: Ecosystem Plumbing\
-
-                Details coming soon
-
-
-                March 2022 - Topic: Confidential AI\
 
                 Details coming soon
 
@@ -58,6 +51,9 @@ flow:
                 June 2022 - Topic: Client Devices (Windows on Arm, Android)\
 
                 Details coming soon 
+
+
+                September 2022 - Topic: Automotive/IoT/Edge
 
 
 
@@ -69,25 +65,30 @@ flow:
                 ### Upcoming Linaro Tech Webinars
 
 
-
-
                 Member exclusive webinar: "Using Linux Kernel for Real-Time systems"\
 
-                Part 1: January 18 Part 2: January 25\
+                **Part 1**: January 18, 2022 **Part 2**: January 25, 2022\
 
                 [Details here](https://www.linaro.org/events/linaro-connect-webinar-using-linux-kernel-for-real-time-systems/)
 
 
                 Public webinar: "Kernel Debug Stories for Arm"\
 
-                February 8 and 15\
+                February 8 and 15, 2022\
 
                 [Details here](https://www.linaro.org/events/kernel-debug-stories-for-arm-linaro-connect-tech-webinar/)
 
 
                 Public webinar: "Qualcomm IPA Modem"\
 
-                February 22\
+                February 22, 2022\
+
+                Details coming soon 
+
+
+                Public webinar: Topic: "Confidential AI"\
+
+                April 2022 \
 
                 Details coming soon 
 
