@@ -79,11 +79,11 @@ flow:
                 [Details here](https://www.linaro.org/events/kernel-debug-stories-for-arm-linaro-connect-tech-webinar/)
 
 
-                Public webinar: "Qualcomm IPA Modem"\
+                Public webinar: "IPA: Enabling Data Connectivity on the Snapdragon Compute Platform"\
 
-                February 22, 2022\
+                March 3, 2022\
 
-                Details coming soon 
+                [Details here](https://www.linaro.org/events/ipa-enabling-data-connectivity-on-the-snapdragon-compute-platform-linaro-connect-tech-webinar/)
 
 
                 Public webinar: Topic: "Confidential AI"\
@@ -91,8 +91,6 @@ flow:
                 April 2022 \
 
                 Details coming soon 
-
-
 
 
                 [Subscribe here](https://linaro.us3.list-manage.com/subscribe?u=14baaae786342d0d405ee59c2&id=7cf0551a9b) to receive email updates about Linaro Tech days and Webinars
