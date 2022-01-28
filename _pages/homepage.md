@@ -43,7 +43,7 @@ flow:
                 ### Upcoming Linaro Tech Days
 
 
-                March 2022 - Topic: Ecosystem Plumbing\
+                March 29, 2022 - Topic: Core Technologies (including Linux Kernel, Security, Virtualization, Toolchain, Testing)\
 
                 Details coming soon
 
@@ -54,6 +54,8 @@ flow:
 
 
                 September 2022 - Topic: Automotive/IoT/Edge
+
+
 
 
 
