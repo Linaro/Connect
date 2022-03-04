@@ -28,6 +28,9 @@ flow:
           text: >
             This is the ONLY event where developers, maintainers of both
             hardware and software can collaborate and discuss common problems.
+
+
+            [Subscribe here](https://linaro.us3.list-manage.com/subscribe?u=14baaae786342d0d405ee59c2&id=7cf0551a9b) to receive email updates about Linaro Tech days and Webinars
   - row: container_row
     style: bg-secondary text-white
     sections: []
@@ -53,39 +56,14 @@ flow:
                 Details coming soon 
 
 
-                September 2022 - Topic: Automotive/IoT/Edge
+                September 2022 - Topic: Automotive/IoT/Edge\
 
+                Details coming soon
 
-
-
-
-
-                All videos and slides from previous events can be found on our [Resource Page](https://connect.linaro.org/resources/lvc21f/).
               title: ""
             - style: text-dark
               description: >-
                 ### Upcoming Linaro Tech Webinars
-
-
-                Member exclusive webinar: "Using Linux Kernel for Real-Time systems"\
-
-                **Part 1**: January 18, 2022 **Part 2**: January 25, 2022\
-
-                [Details here](https://www.linaro.org/events/linaro-connect-webinar-using-linux-kernel-for-real-time-systems/)
-
-
-                Public webinar: "Kernel Debug Stories for Arm"\
-
-                February 8 and 15, 2022\
-
-                [Details here](https://www.linaro.org/events/kernel-debug-stories-for-arm-linaro-connect-tech-webinar/)
-
-
-                Public webinar: "IPA: Enabling Data Connectivity on the Snapdragon Compute Platform"\
-
-                March 3, 2022\
-
-                [Details here](https://www.linaro.org/events/ipa-enabling-data-connectivity-on-the-snapdragon-compute-platform-linaro-connect-tech-webinar/)
 
 
                 Public webinar: Topic: "Confidential AI"\
@@ -94,8 +72,6 @@ flow:
 
                 Details coming soon 
 
-
-                [Subscribe here](https://linaro.us3.list-manage.com/subscribe?u=14baaae786342d0d405ee59c2&id=7cf0551a9b) to receive email updates about Linaro Tech days and Webinars
               title: ""
   - row: container_row
     style: block_row
@@ -103,8 +79,8 @@ flow:
       - format: buttons
         style: text-center
         buttons_content:
-          - title: "View LVC21F Session Videos "
-            url: /resources/lvc21f/
+          - title: "View previous events and webinars"
+            url: /resources/
             style: btn-primary
   - row: custom_include_row
     source: homepage_video_modal.html
