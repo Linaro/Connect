@@ -48,30 +48,20 @@ flow:
 
                 March 29, 2022 - Topic: Core Technologies (including Linux Kernel, Security, Virtualization, Toolchain, Testing)\
 
-                Details coming soon
-
-
-                June 2022 - Topic: Client Devices (Windows on Arm, Android)\
-
-                Details coming soon 
+                [Register now](https://www.linaro.org/events/linaro-connect-tech-day-core-technologies/) 
 
 
                 September 2022 - Topic: Automotive/IoT/Edge\
 
                 Details coming soon
-
               title: ""
             - style: text-dark
-              description: >-
+              description: |-
                 ### Upcoming Linaro Tech Webinars
 
-
                 Public webinar: Topic: "Confidential AI"\
-
                 April 2022 \
-
                 Details coming soon 
-
               title: ""
   - row: container_row
     style: block_row
@@ -79,7 +69,7 @@ flow:
       - format: buttons
         style: text-center
         buttons_content:
-          - title: "View previous events and webinars"
+          - title: View previous events and webinars
             url: /resources/
             style: btn-primary
   - row: custom_include_row
