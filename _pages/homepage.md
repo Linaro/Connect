@@ -51,6 +51,12 @@ flow:
                 [Register now](https://www.linaro.org/events/linaro-connect-tech-day-core-technologies/) 
 
 
+                May 17-18, 2022 - Linaro and Arm System Ready Virtual Tech Event
+
+
+                [Register now](https://www.linaro.org/events/linaro-and-arm-system-ready-virtual-tech-event/)
+
+
                 September 2022 - Topic: Automotive/IoT/Edge\
 
                 Details coming soon
@@ -59,9 +65,7 @@ flow:
               description: |-
                 ### Upcoming Linaro Tech Webinars
 
-                Public webinar: Topic: "Confidential AI"\
-                April 2022 \
-                Details coming soon 
+                Topics will be announced soon!
               title: ""
   - row: container_row
     style: block_row
