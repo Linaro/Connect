@@ -77,7 +77,7 @@ defaults:
   #   values:
   #     image: /assets/images/social-media-image.png
 
-# include: ["_pages"]
+include: ["_pages"]
 # ----------- THEME / WEBSITE CONFIG ---------------------
 # Blog images/thumbs dir
 blog_images_dir: assets/images/content/
