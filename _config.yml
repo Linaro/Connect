@@ -29,6 +29,10 @@ exclude:
   - _site
   - staging.connect.linaro.org
   - production.connect.linaro.org
+  - admin
+  - assets
+  - ex-_posts
+  - ex-assets
 sass:
   style: compressed
   load_paths:
@@ -45,35 +49,35 @@ liquid:
   error_mode: strict
 
 defaults:
-  - scope:
-      path: "_posts/yvr18/sessions"
-    values:
-      permalink: /resources/:categories/sessions/:slug/
-  - scope:
-      path: "_posts/yvr18/demos"
-    values:
-      permalink: /resources/:categories/demos/:slug/
-  - scope:
-      path: "_posts/yvr18/interviews"
-    values:
-      permalink: /resources/:categories/interviews/:slug/
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: resource-post
-      author: connect
-      comments: true
-  - scope:
-      path: "assets/json/"
-    values:
-      permalink: /assets/json/:name:output_ext
-  - scope:
-      path: ""
-    values:
-      image: /assets/images/social-media-image.png
+  # - scope:
+  #     path: "_posts/yvr18/sessions"
+  #   values:
+  #     permalink: /resources/:categories/sessions/:slug/
+  # - scope:
+  #     path: "_posts/yvr18/demos"
+  #   values:
+  #     permalink: /resources/:categories/demos/:slug/
+  # - scope:
+  #     path: "_posts/yvr18/interviews"
+  #   values:
+  #     permalink: /resources/:categories/interviews/:slug/
+  # - scope:
+  #     path: ""
+  #     type: "posts"
+  #   values:
+  #     layout: resource-post
+  #     author: connect
+  #     comments: true
+  # - scope:
+  #     path: "assets/json/"
+  #   values:
+  #     permalink: /assets/json/:name:output_ext
+  # - scope:
+  #     path: ""
+  #   values:
+  #     image: /assets/images/social-media-image.png
 
-include: ["_pages"]
+# include: ["_pages"]
 # ----------- THEME / WEBSITE CONFIG ---------------------
 # Blog images/thumbs dir
 blog_images_dir: assets/images/content/
