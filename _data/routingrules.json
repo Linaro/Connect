@@ -1508,6 +1508,6 @@
     "^/search(/?|/index.html)$ https://www.linaro.org/connect/ [R,L,NC]",
     "^/sitemap(/?|/index.html)$ https://www.linaro.org/connect/ [R,L,NC]",
     "^/sponsors(/?|/index.html)$ https://www.linaro.org/connect/ [R,L,NC]",
-    "^/404(/?|/index.html)$ https://www.linaro.org/connect/ [R,L,NC]",
+    "^/404.html$ https://www.linaro.org/connect/ [R,L,NC]",
     "^(/?|/index.html)$ https://www.linaro.org/connect/ [R,L,NC]"
 ]
